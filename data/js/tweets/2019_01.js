@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 21:32:36 +0000 2019",
+		"id": 1081302399849922600,
+		"id_str": "1081302399849922560",
+		"full_text": "A steal at that price! https://t.co/OvErmmu7J6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OvErmmu7J6",
+					"expanded_url": "https://twitter.com/LATbermudez/status/1081301719827415040",
+					"display_url": "twitter.com/LATbermudez/st…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "@latimes reporter on L.A. County beat. Former Korea correspondent. Stories informed by data analysis, visualization, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10426,
+			"friends_count": 1410,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076599011124011008/-W3qW3MH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076599011124011008/-W3qW3MH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1545795646",
+			"profile_link_color": "AF3748",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081301719827415000,
+		"quoted_status_id_str": "1081301719827415040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OvErmmu7J6",
+			"expanded": "https://twitter.com/LATbermudez/status/1081301719827415040",
+			"display": "twitter.com/LATbermudez/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 04 21:29:54 +0000 2019",
+			"id": 1081301719827415000,
+			"id_str": "1081301719827415040",
+			"full_text": "May we all one day value ourselves the way Los Angeles values its real estate. https://t.co/DLul1peoHb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1081301716602019800,
+						"id_str": "1081301716602019840",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DwGOLqkVYAAq6z6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwGOLqkVYAAq6z6.jpg",
+						"url": "https://t.co/DLul1peoHb",
+						"display_url": "pic.twitter.com/DLul1peoHb",
+						"expanded_url": "https://twitter.com/LATbermudez/status/1081301719827415040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1051,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 485,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1051,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1081301716602019800,
+						"id_str": "1081301716602019840",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DwGOLqkVYAAq6z6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwGOLqkVYAAq6z6.jpg",
+						"url": "https://t.co/DLul1peoHb",
+						"display_url": "pic.twitter.com/DLul1peoHb",
+						"expanded_url": "https://twitter.com/LATbermudez/status/1081301719827415040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1051,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 485,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1051,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 378749192,
+				"id_str": "378749192",
+				"name": "Esmeralda Bermudez 🦅",
+				"screen_name": "LATbermudez",
+				"location": "Los Angeles",
+				"description": "LA Times Staff Writer covering the lives of Latinos. Made in El Salvador. Raised in LA. Bred by @Oregonian. esmeralda.bermudez@latimes.com",
+				"url": "https://t.co/ifWgDURyxw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ifWgDURyxw",
+								"expanded_url": "http://www.latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8476,
+				"friends_count": 1494,
+				"listed_count": 183,
+				"created_at": "Fri Sep 23 19:00:39 +0000 2011",
+				"favourites_count": 2276,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2142,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "020505",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048663882955284480/SzWIFWvE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048663882955284480/SzWIFWvE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/378749192/1531950880",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A steal at that price! https://t.co/OvErmmu7J6"
+	},
+	{
+		"created_at": "Fri Jan 04 21:17:49 +0000 2019",
+		"id": 1081298681020657700,
+		"id_str": "1081298681020657664",
+		"full_text": "this photo essay is 🔥 https://t.co/6g20sVVawj https://t.co/txvwhvTl6Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6g20sVVawj",
+					"expanded_url": "https://www.vox.com/2019/1/3/18167176/history-congress-women-diversity",
+					"display_url": "vox.com/2019/1/3/18167…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1081298356931121200,
+					"id_str": "1081298356931121152",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DwGLIG0X0AAFU5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwGLIG0X0AAFU5f.jpg",
+					"url": "https://t.co/txvwhvTl6Q",
+					"display_url": "pic.twitter.com/txvwhvTl6Q",
+					"expanded_url": "https://twitter.com/yurivictor/status/1081298681020657664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081298356931121200,
+					"id_str": "1081298356931121152",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DwGLIG0X0AAFU5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwGLIG0X0AAFU5f.jpg",
+					"url": "https://t.co/txvwhvTl6Q",
+					"display_url": "pic.twitter.com/txvwhvTl6Q",
+					"expanded_url": "https://twitter.com/yurivictor/status/1081298681020657664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5511932,
+			"id_str": "5511932",
+			"name": "Yuri Victor 🖤",
+			"screen_name": "yurivictor",
+			"location": "Manhattan Beach, CA",
+			"description": "Innovation @latimes. Former: Co-founder @voxdotcom. R&D @nytimes /////////////////// cuban / he/him / I love you",
+			"url": "https://t.co/zacLsLgkbk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zacLsLgkbk",
+							"expanded_url": "http://yurivictor.com",
+							"display_url": "yurivictor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9122,
+			"friends_count": 2409,
+			"listed_count": 600,
+			"created_at": "Thu Apr 26 00:14:57 +0000 2007",
+			"favourites_count": 40839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25026,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050248373662408707/PscPKP1U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050248373662408707/PscPKP1U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5511932/1527091277",
+			"profile_link_color": "808080",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this photo essay is 🔥 https://t.co/6g20sVVawj https://t.co/txvwhvTl6Q"
+	},
+	{
 		"created_at": "Fri Jan 04 21:08:54 +0000 2019",
 		"id": 1081296436057145300,
 		"id_str": "1081296436057145344",
