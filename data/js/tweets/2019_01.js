@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 21:08:54 +0000 2019",
+		"id": 1081296436057145300,
+		"id_str": "1081296436057145344",
+		"full_text": "If teachers strike in Los Angeles, where will half a million kids go? https://t.co/5bRalIRp8q https://t.co/1555qfsi54",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5bRalIRp8q",
+					"expanded_url": "https://lat.ms/2R6o3k8",
+					"display_url": "lat.ms/2R6o3k8",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1081296223615832000,
+					"id_str": "1081296223615832064",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DwGJL7mX0AAkccd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwGJL7mX0AAkccd.jpg",
+					"url": "https://t.co/1555qfsi54",
+					"display_url": "pic.twitter.com/1555qfsi54",
+					"expanded_url": "https://twitter.com/stiles/status/1081296436057145344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081296223615832000,
+					"id_str": "1081296223615832064",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DwGJL7mX0AAkccd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwGJL7mX0AAkccd.jpg",
+					"url": "https://t.co/1555qfsi54",
+					"display_url": "pic.twitter.com/1555qfsi54",
+					"expanded_url": "https://twitter.com/stiles/status/1081296436057145344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "@latimes reporter on L.A. County beat. Former Korea correspondent. Stories informed by data analysis, visualization, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10426,
+			"friends_count": 1410,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12603,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076599011124011008/-W3qW3MH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076599011124011008/-W3qW3MH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1545795646",
+			"profile_link_color": "AF3748",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If teachers strike in Los Angeles, where will half a million kids go? https://t.co/5bRalIRp8q https://t.co/1555qfsi54"
+	},
+	{
+		"created_at": "Fri Jan 04 01:33:48 +0000 2019",
+		"id": 1081000710634782700,
+		"id_str": "1081000710634782720",
+		"full_text": "WE'RE HIRING!! Come work with us. We're growing, we're building, it's very exciting over here! We also celebrate everyone's birthdays in a _very_ dramatic fashion! \nhttps://t.co/5i34DJB6H3 https://t.co/9pnhLHcwsi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5i34DJB6H3",
+					"expanded_url": "https://www.journalismjobs.com/1649806-graphics-and-data-visualization-reporter-los-angeles-times",
+					"display_url": "journalismjobs.com/1649806-graphi…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1081000469445652500,
+					"id_str": "1081000469445652480",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/DwB8MxdWsAAnRug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwB8MxdWsAAnRug.jpg",
+					"url": "https://t.co/9pnhLHcwsi",
+					"display_url": "pic.twitter.com/9pnhLHcwsi",
+					"expanded_url": "https://twitter.com/priyakkumar/status/1081000710634782720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081000469445652500,
+					"id_str": "1081000469445652480",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/DwB8MxdWsAAnRug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwB8MxdWsAAnRug.jpg",
+					"url": "https://t.co/9pnhLHcwsi",
+					"display_url": "pic.twitter.com/9pnhLHcwsi",
+					"expanded_url": "https://twitter.com/priyakkumar/status/1081000710634782720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192995488,
+			"id_str": "192995488",
+			"name": "Priya Krishnakumar 🦅",
+			"screen_name": "priyakkumar",
+			"location": "LA/SJ/CHI",
+			"description": "Graphics, coloring book provider @latimes. Bay Area 4 ever. Send your best soup recipes to priya@latimes.com 🦅🦅🦅",
+			"url": "https://t.co/w8ovcvpwsb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w8ovcvpwsb",
+							"expanded_url": "http://priyakrishnakumar.com",
+							"display_url": "priyakrishnakumar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4414,
+			"friends_count": 664,
+			"listed_count": 87,
+			"created_at": "Mon Sep 20 18:18:50 +0000 2010",
+			"favourites_count": 7152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/849859108773679104/olzENnzo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/849859108773679104/olzENnzo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192995488/1496358615",
+			"profile_link_color": "009FBF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBBE3D",
+			"profile_text_color": "EED68C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WE'RE HIRING!! Come work with us. We're growing, we're building, it's very exciting over here! We also celebrate everyone's birthdays in a _very_ dramatic fashion! \nhttps://t.co/5i34DJB6H3 https://t.co/9pnhLHcwsi"
+	},
+	{
 		"created_at": "Fri Jan 04 01:33:48 +0000 2019",
 		"id": 1081000710634782700,
 		"id_str": "1081000710634782720",
