@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 04 01:33:48 +0000 2019",
+		"id": 1081000710634782700,
+		"id_str": "1081000710634782720",
+		"full_text": "WE'RE HIRING!! Come work with us. We're growing, we're building, it's very exciting over here! We also celebrate everyone's birthdays in a _very_ dramatic fashion! \nhttps://t.co/5i34DJB6H3 https://t.co/9pnhLHcwsi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5i34DJB6H3",
+					"expanded_url": "https://www.journalismjobs.com/1649806-graphics-and-data-visualization-reporter-los-angeles-times",
+					"display_url": "journalismjobs.com/1649806-graphi…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1081000469445652500,
+					"id_str": "1081000469445652480",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/DwB8MxdWsAAnRug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwB8MxdWsAAnRug.jpg",
+					"url": "https://t.co/9pnhLHcwsi",
+					"display_url": "pic.twitter.com/9pnhLHcwsi",
+					"expanded_url": "https://twitter.com/priyakkumar/status/1081000710634782720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081000469445652500,
+					"id_str": "1081000469445652480",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/DwB8MxdWsAAnRug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwB8MxdWsAAnRug.jpg",
+					"url": "https://t.co/9pnhLHcwsi",
+					"display_url": "pic.twitter.com/9pnhLHcwsi",
+					"expanded_url": "https://twitter.com/priyakkumar/status/1081000710634782720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192995488,
+			"id_str": "192995488",
+			"name": "Priya Krishnakumar 🦅",
+			"screen_name": "priyakkumar",
+			"location": "LA/SJ/CHI",
+			"description": "Graphics, coloring book provider @latimes. Bay Area 4 ever. Send your best soup recipes to priya@latimes.com 🦅🦅🦅",
+			"url": "https://t.co/w8ovcvpwsb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w8ovcvpwsb",
+							"expanded_url": "http://priyakrishnakumar.com",
+							"display_url": "priyakrishnakumar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4414,
+			"friends_count": 664,
+			"listed_count": 87,
+			"created_at": "Mon Sep 20 18:18:50 +0000 2010",
+			"favourites_count": 7152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/849859108773679104/olzENnzo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/849859108773679104/olzENnzo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192995488/1496358615",
+			"profile_link_color": "009FBF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBBE3D",
+			"profile_text_color": "EED68C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WE'RE HIRING!! Come work with us. We're growing, we're building, it's very exciting over here! We also celebrate everyone's birthdays in a _very_ dramatic fashion! \nhttps://t.co/5i34DJB6H3 https://t.co/9pnhLHcwsi"
+	},
+	{
 		"created_at": "Thu Jan 03 23:57:32 +0000 2019",
 		"id": 1080976487056998400,
 		"id_str": "1080976487056998400",
