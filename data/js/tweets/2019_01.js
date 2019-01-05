@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 05 03:09:27 +0000 2019",
+		"id": 1081387170819072000,
+		"id_str": "1081387170819072001",
+		"full_text": "@seungminkim Baby out with the bath water...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seungminkim",
+					"name": "Seung Min Kim",
+					"id": 19186003,
+					"id_str": "19186003",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1081322026185510900,
+		"in_reply_to_status_id_str": "1081322026185510913",
+		"in_reply_to_user_id": 19186003,
+		"in_reply_to_user_id_str": "19186003",
+		"in_reply_to_screen_name": "seungminkim",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "@latimes reporter on L.A. County beat. Former Korea correspondent. Stories informed by data analysis, visualization, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10426,
+			"friends_count": 1410,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076599011124011008/-W3qW3MH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076599011124011008/-W3qW3MH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1545795646",
+			"profile_link_color": "AF3748",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@seungminkim Baby out with the bath water..."
+	},
+	{
 		"created_at": "Fri Jan 04 21:32:36 +0000 2019",
 		"id": 1081302399849922600,
 		"id_str": "1081302399849922560",
