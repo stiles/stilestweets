@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 03 22:02:46 +0000 2019",
+		"id": 1080947603494391800,
+		"id_str": "1080947603494391808",
+		"full_text": "after months of mostly losses, how bad is the stock market? well, it depends a lot on when you invested...\n\nmore on this in interactive chart-y form here ---&gt; https://t.co/vPIqtDtw4j https://t.co/Sjy5D8KA6V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vPIqtDtw4j",
+					"expanded_url": "http://wapo.st/2018-markets",
+					"display_url": "wapo.st/2018-markets",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1080947082314301400,
+					"id_str": "1080947082314301445",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1080947082314301445/pu/img/y0ab67fUsOkOIeTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1080947082314301445/pu/img/y0ab67fUsOkOIeTF.jpg",
+					"url": "https://t.co/Sjy5D8KA6V",
+					"display_url": "pic.twitter.com/Sjy5D8KA6V",
+					"expanded_url": "https://twitter.com/lmshap/status/1080947603494391808/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 752,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1308,
+							"h": 820,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080947082314301400,
+					"id_str": "1080947082314301445",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1080947082314301445/pu/img/y0ab67fUsOkOIeTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1080947082314301445/pu/img/y0ab67fUsOkOIeTF.jpg",
+					"url": "https://t.co/Sjy5D8KA6V",
+					"display_url": "pic.twitter.com/Sjy5D8KA6V",
+					"expanded_url": "https://twitter.com/lmshap/status/1080947603494391808/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 752,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1308,
+							"h": 820,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							327,
+							205
+						],
+						"duration_millis": 15834,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1080947082314301445/pu/vid/574x360/FhCJ_ImV70xd0Q6H.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1080947082314301445/pu/vid/286x180/xw9OocuozAmyMhI0.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1080947082314301445/pu/vid/1148x720/8BC4-xitzm8FrHta.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1080947082314301445/pu/pl/lxYqp-AJ4bHz_ijd.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42748507,
+			"id_str": "42748507",
+			"name": "Leslie Shapiro",
+			"screen_name": "lmshap",
+			"location": "washington, dc",
+			"description": "Graphics, data viz, words and code @washingtonpost // Trying to be a little bit better every day",
+			"url": "https://t.co/lcgei8jLw7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lcgei8jLw7",
+							"expanded_url": "http://www.leslie-s.net",
+							"display_url": "leslie-s.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 748,
+			"friends_count": 915,
+			"listed_count": 45,
+			"created_at": "Tue May 26 23:01:24 +0000 2009",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 504,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "383838",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/909225073218899968/sesF2JWm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/909225073218899968/sesF2JWm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42748507/1489522043",
+			"profile_link_color": "0B4EF7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "2A2E36",
+			"profile_text_color": "30EAF0",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "after months of mostly losses, how bad is the stock market? well, it depends a lot on when you invested...\n\nmore on this in interactive chart-y form here ---&gt; https://t.co/vPIqtDtw4j https://t.co/Sjy5D8KA6V"
+	},
+	{
+		"created_at": "Sun Jan 06 02:34:13 +0000 2019",
+		"id": 1081740692483858400,
+		"id_str": "1081740692483858432",
+		"full_text": "He predicted Twitter... https://t.co/YdlrOerQtX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YdlrOerQtX",
+					"expanded_url": "https://twitter.com/elisewho/status/1081738935846416384",
+					"display_url": "twitter.com/elisewho/statu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 1410,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12613,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546716160",
+			"profile_link_color": "82732E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081738935846416400,
+		"quoted_status_id_str": "1081738935846416384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YdlrOerQtX",
+			"expanded": "https://twitter.com/elisewho/status/1081738935846416384",
+			"display": "twitter.com/elisewho/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 06 02:27:14 +0000 2019",
+			"id": 1081738935846416400,
+			"id_str": "1081738935846416384",
+			"full_text": "\"We did not know how to reply, we all talked at the same time, not listening to one another, sometimes seconding and praising one another in order to be seconded and praised in turn, sometimes getting angry with one another — just as in a lunatic asylum.\" —Leo Tolstoy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16001350,
+				"id_str": "16001350",
+				"name": "Elise Hu",
+				"screen_name": "elisewho",
+				"location": "California, USA",
+				"description": "LA-based @NPRNews. Ex-expat buro chief in Koreas and Japan. @TexasTribune & #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. IG @elisewho | ehu@npr.org",
+				"url": "https://t.co/5UvjA81oSH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5UvjA81oSH",
+								"expanded_url": "http://elisehu.com",
+								"display_url": "elisehu.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39607,
+				"friends_count": 1918,
+				"listed_count": 1723,
+				"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+				"favourites_count": 2844,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29510,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DDEDEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1498480092",
+				"profile_link_color": "4E647A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7F7F2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He predicted Twitter... https://t.co/YdlrOerQtX"
+	},
+	{
+		"created_at": "Sun Jan 06 02:16:10 +0000 2019",
+		"id": 1081736150035980300,
+		"id_str": "1081736150035980290",
+		"full_text": "@realDonaldTrump Does someone what to tell him that the wall fails in Game Of Thrones? https://t.co/Lep6Bv5wux",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081736143291539500,
+					"id_str": "1081736143291539456",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwMZSoGX4AANhBV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwMZSoGX4AANhBV.jpg",
+					"url": "https://t.co/Lep6Bv5wux",
+					"display_url": "pic.twitter.com/Lep6Bv5wux",
+					"expanded_url": "https://twitter.com/ToddJAwesome/status/1081736150035980290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081736143291539500,
+					"id_str": "1081736143291539456",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwMZSoGX4AANhBV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwMZSoGX4AANhBV.jpg",
+					"url": "https://t.co/Lep6Bv5wux",
+					"display_url": "pic.twitter.com/Lep6Bv5wux",
+					"expanded_url": "https://twitter.com/ToddJAwesome/status/1081736150035980290/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							45
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DwMZSoGX4AANhBV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1081735898679701500,
+		"in_reply_to_status_id_str": "1081735898679701505",
+		"in_reply_to_user_id": 25073877,
+		"in_reply_to_user_id_str": "25073877",
+		"in_reply_to_screen_name": "realDonaldTrump",
+		"user": {
+			"id": 1861297344,
+			"id_str": "1861297344",
+			"name": "Todd Awesome",
+			"screen_name": "ToddJAwesome",
+			"location": "Nashville, TN",
+			"description": "Partnered @Twitch Entertainer, member of the Awesome Family.  Co-Host of the @HorrorVirgin podcast.",
+			"url": "https://t.co/iJo1ZMWPyV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iJo1ZMWPyV",
+							"expanded_url": "http://Twitch.TV/ToddAwesome",
+							"display_url": "Twitch.TV/ToddAwesome",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12451,
+			"friends_count": 569,
+			"listed_count": 39,
+			"created_at": "Fri Sep 13 18:12:18 +0000 2013",
+			"favourites_count": 13349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064309843153088515/xG-th_MT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064309843153088515/xG-th_MT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1861297344/1455762892",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 414,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@realDonaldTrump Does someone what to tell him that the wall fails in Game Of Thrones? https://t.co/Lep6Bv5wux"
+	},
+	{
 		"created_at": "Sun Jan 06 02:17:56 +0000 2019",
 		"id": 1081736595668004900,
 		"id_str": "1081736595668004865",
