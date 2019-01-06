@@ -1,6 +1,695 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 06 02:03:57 +0000 2019",
+		"id": 1081733075841835000,
+		"id_str": "1081733075841835008",
+		"full_text": ".@brianjrogers in a @nytimes vid. https://t.co/KKYUOb3IUZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brianjrogers",
+					"name": "brian rogers",
+					"id": 21127448,
+					"id_str": "21127448",
+					"indices": [
+						1,
+						14
+					]
+				},
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						20,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081733070988800000,
+					"id_str": "1081733070988800007",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DwMWfy4UcActoq8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwMWfy4UcActoq8.jpg",
+					"url": "https://t.co/KKYUOb3IUZ",
+					"display_url": "pic.twitter.com/KKYUOb3IUZ",
+					"expanded_url": "https://twitter.com/AlanBernstein/status/1081733075841835008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081733070988800000,
+					"id_str": "1081733070988800007",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DwMWfy4UcActoq8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwMWfy4UcActoq8.jpg",
+					"url": "https://t.co/KKYUOb3IUZ",
+					"display_url": "pic.twitter.com/KKYUOb3IUZ",
+					"expanded_url": "https://twitter.com/AlanBernstein/status/1081733075841835008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15203851,
+			"id_str": "15203851",
+			"name": "Alan Bernstein",
+			"screen_name": "AlanBernstein",
+			"location": "Houston",
+			"description": "Personal account | Bad spelling is a sign | Ry Cooder is a prophet.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1669,
+			"friends_count": 1551,
+			"listed_count": 55,
+			"created_at": "Mon Jun 23 04:49:39 +0000 2008",
+			"favourites_count": 2479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960376122679545856/FiDVeWaU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960376122679545856/FiDVeWaU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15203851/1540074709",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@brianjrogers in a @nytimes vid. https://t.co/KKYUOb3IUZ"
+	},
+	{
+		"created_at": "Sun Jan 06 15:41:59 +0000 2019",
+		"id": 1081938941358399500,
+		"id_str": "1081938941358399488",
+		"full_text": "Firefighters' fateful choices: How the Woolsey fire became an unstoppable monster https://t.co/XEzMktAbj0 by @jaclyncosgrove",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaclyncosgrove",
+					"name": "Jaclyn Cosgrove",
+					"id": 15467750,
+					"id_str": "15467750",
+					"indices": [
+						109,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XEzMktAbj0",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-woolsey-resources-20190106-htmlstory.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 1410,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546716160",
+			"profile_link_color": "82732E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Firefighters' fateful choices: How the Woolsey fire became an unstoppable monster https://t.co/XEzMktAbj0 by @jaclyncosgrove"
+	},
+	{
+		"created_at": "Sun Jan 06 05:35:41 +0000 2019",
+		"id": 1081786359898165200,
+		"id_str": "1081786359898165248",
+		"full_text": "The perfect border wall graphic. Thanks @DeniseDSLu https://t.co/E6KPVRzimu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DeniseDSLu",
+					"name": "ಠ_ಠ",
+					"id": 237889929,
+					"id_str": "237889929",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E6KPVRzimu",
+					"expanded_url": "https://nyti.ms/2RCznUU",
+					"display_url": "nyti.ms/2RCznUU",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14816237,
+			"id_str": "14816237",
+			"name": "☕🦊",
+			"screen_name": "joemfox",
+			"location": "Washington, DC",
+			"description": "data & weird internet @washingtonpost | ex-@latimes | OH ➡ AK ➡ CA ➡ DC | my bots: @burritopatents @SombreroWatch @andromedabot @colorschemez",
+			"url": "https://t.co/JcoXiGvjo8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JcoXiGvjo8",
+							"expanded_url": "http://github.com/joemfox",
+							"display_url": "github.com/joemfox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3027,
+			"friends_count": 2758,
+			"listed_count": 156,
+			"created_at": "Sun May 18 00:40:52 +0000 2008",
+			"favourites_count": 19958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25878,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFDF7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877952330183913477/M3lGabyf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877952330183913477/M3lGabyf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14816237/1521732051",
+			"profile_link_color": "FF0055",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The perfect border wall graphic. Thanks @DeniseDSLu https://t.co/E6KPVRzimu"
+	},
+	{
+		"created_at": "Sun Jan 06 05:59:54 +0000 2019",
+		"id": 1081792455618441200,
+		"id_str": "1081792455618441216",
+		"full_text": "Members of Congress, by religious affiliation and party. GOP almost all Christian. https://t.co/HVdzR8tyA2 (Data via @pewresearch https://t.co/lUihxxkEAE) https://t.co/cxSa10lXBq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pewresearch",
+					"name": "Pew Research Center",
+					"id": 22642788,
+					"id_str": "22642788",
+					"indices": [
+						117,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HVdzR8tyA2",
+					"expanded_url": "http://bit.ly/2SCtiop",
+					"display_url": "bit.ly/2SCtiop",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/lUihxxkEAE",
+					"expanded_url": "https://pewrsr.ch/2SENLJl",
+					"display_url": "pewrsr.ch/2SENLJl",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1081792300043272200,
+					"id_str": "1081792300043272194",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/DwNMXYTVAAInWh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwNMXYTVAAInWh3.jpg",
+					"url": "https://t.co/cxSa10lXBq",
+					"display_url": "pic.twitter.com/cxSa10lXBq",
+					"expanded_url": "https://twitter.com/stiles/status/1081792455618441216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 562,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 958,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081792300043272200,
+					"id_str": "1081792300043272194",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/DwNMXYTVAAInWh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwNMXYTVAAInWh3.jpg",
+					"url": "https://t.co/cxSa10lXBq",
+					"display_url": "pic.twitter.com/cxSa10lXBq",
+					"expanded_url": "https://twitter.com/stiles/status/1081792455618441216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 562,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 958,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1081792300081016800,
+					"id_str": "1081792300081016832",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/DwNMXYcU8AAUKZZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwNMXYcU8AAUKZZ.jpg",
+					"url": "https://t.co/cxSa10lXBq",
+					"display_url": "pic.twitter.com/cxSa10lXBq",
+					"expanded_url": "https://twitter.com/stiles/status/1081792455618441216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 975,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 571,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 1410,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546716160",
+			"profile_link_color": "82732E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Members of Congress, by religious affiliation and party. GOP almost all Christian. https://t.co/HVdzR8tyA2 (Data via @pewresearch https://t.co/lUihxxkEAE) https://t.co/cxSa10lXBq"
+	},
+	{
 		"created_at": "Sun Jan 06 05:35:41 +0000 2019",
 		"id": 1081786359898165200,
 		"id_str": "1081786359898165248",
