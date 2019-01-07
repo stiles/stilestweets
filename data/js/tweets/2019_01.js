@@ -187,6 +187,794 @@ Grailbird.data.tweets_2019_01 =
 			"friends_count": 2101,
 			"listed_count": 595,
 			"created_at": "Sat Jan 08 21:53:02 +0000 2011",
+			"favourites_count": 26563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078135087148003335/5Gi9tBdn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078135087148003335/5Gi9tBdn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/235700566/1542336792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "uses for a Golden Globe:\n- paperweight\n- p̶r̶e̶d̶i̶c̶t̶ ̶o̶s̶c̶a̶r̶  DO NOT DO THIS\n- get Amy Adams to come to your party\n- doorstop\n- get on TV the day before Oscar voting\n- end of list\n\nhttps://t.co/BakMHWIHCW https://t.co/u8WBhQdXFS"
+	},
+	{
+		"created_at": "Mon Jan 07 04:14:02 +0000 2019",
+		"id": 1082128201420177400,
+		"id_str": "1082128201420177408",
+		"full_text": "@kerryrm Nah, but that's also nice. It's here, over near Culver City, actually: https://t.co/CDao9AapR9",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kerryrm",
+					"name": "K",
+					"id": 14102025,
+					"id_str": "14102025",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CDao9AapR9",
+					"expanded_url": "http://bit.ly/2SHUodW",
+					"display_url": "bit.ly/2SHUodW",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1082126784626344000,
+		"in_reply_to_status_id_str": "1082126784626343937",
+		"in_reply_to_user_id": 14102025,
+		"in_reply_to_user_id_str": "14102025",
+		"in_reply_to_screen_name": "kerryrm",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10424,
+			"friends_count": 1410,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12620,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546716160",
+			"profile_link_color": "82732E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@kerryrm Nah, but that's also nice. It's here, over near Culver City, actually: https://t.co/CDao9AapR9"
+	},
+	{
+		"created_at": "Mon Jan 07 02:34:00 +0000 2019",
+		"id": 1082103025378877400,
+		"id_str": "1082103025378877441",
+		"full_text": "Sandra Oh’s parents are ADORABLE and it was so cool to hear Korean on this show too! (You could probably gather from context but she said “Mom! Dad! I love you!//“엄마! 아빠! 사랑해요!”)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1082096986977759200,
+		"in_reply_to_status_id_str": "1082096986977759232",
+		"in_reply_to_user_id": 766863587088273400,
+		"in_reply_to_user_id_str": "766863587088273408",
+		"in_reply_to_screen_name": "iff_or",
+		"user": {
+			"id": 766863587088273400,
+			"id_str": "766863587088273408",
+			"name": "Melissa Lewis",
+			"screen_name": "iff_or",
+			"location": "Oregon, USA",
+			"description": "data journalist @reveal / organizer & Python instructor @pyladies_pdx, @aaja_pdx / formerly @oregonian, @periscopic / she|her / 동포",
+			"url": "https://t.co/lw3O3OdN9c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lw3O3OdN9c",
+							"expanded_url": "http://melidata.com",
+							"display_url": "melidata.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2668,
+			"friends_count": 1159,
+			"listed_count": 135,
+			"created_at": "Sat Aug 20 05:05:01 +0000 2016",
+			"favourites_count": 17403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7311,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062682733086879744/ITLfdcjL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062682733086879744/ITLfdcjL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/766863587088273408/1546372490",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Sandra Oh’s parents are ADORABLE and it was so cool to hear Korean on this show too! (You could probably gather from context but she said “Mom! Dad! I love you!//“엄마! 아빠! 사랑해요!”)"
+	},
+	{
+		"created_at": "Mon Jan 07 02:37:38 +0000 2019",
+		"id": 1082103938705281000,
+		"id_str": "1082103938705281024",
+		"full_text": "Love this spot. https://t.co/9XULUfvNcW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9XULUfvNcW",
+					"expanded_url": "https://twitter.com/palewire/status/1082018706513743872",
+					"display_url": "twitter.com/palewire/statu…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10424,
+			"friends_count": 1410,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12620,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546716160",
+			"profile_link_color": "82732E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082018706513743900,
+		"quoted_status_id_str": "1082018706513743872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9XULUfvNcW",
+			"expanded": "https://twitter.com/palewire/status/1082018706513743872",
+			"display": "twitter.com/palewire/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 06 20:58:57 +0000 2019",
+			"id": 1082018706513743900,
+			"id_str": "1082018706513743872",
+			"full_text": "The #DTLA skyline in the distance, backed by a wall of clouds, from Hahn State Park in Baldwin Hills.\n\nMany iconic shots of downtown are taken here but, as you can tell, those require a big zoom lens. https://t.co/mhDBmMxIBp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DTLA",
+						"indices": [
+							4,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1082018356088037400,
+						"id_str": "1082018356088037376",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/DwQZ9ksUYAAR8aI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwQZ9ksUYAAR8aI.jpg",
+						"url": "https://t.co/mhDBmMxIBp",
+						"display_url": "pic.twitter.com/mhDBmMxIBp",
+						"expanded_url": "https://twitter.com/palewire/status/1082018706513743872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1007,
+								"h": 1007,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1007,
+								"h": 1007,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1082018356088037400,
+						"id_str": "1082018356088037376",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/DwQZ9ksUYAAR8aI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwQZ9ksUYAAR8aI.jpg",
+						"url": "https://t.co/mhDBmMxIBp",
+						"display_url": "pic.twitter.com/mhDBmMxIBp",
+						"expanded_url": "https://twitter.com/palewire/status/1082018706513743872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1007,
+								"h": 1007,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1007,
+								"h": 1007,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14559196,
+				"id_str": "14559196",
+				"name": "Ben Welsh",
+				"screen_name": "palewire",
+				"location": "Live and direct",
+				"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+				"url": "https://t.co/kogJ0fJceo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kogJ0fJceo",
+								"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+								"display_url": "palewi.re/who-is-ben-wel…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lZvqTdDOmO",
+								"expanded_url": "http://www.californiacivicdata.org",
+								"display_url": "californiacivicdata.org",
+								"indices": [
+									46,
+									69
+								]
+							},
+							{
+								"url": "https://t.co/CaO6K276g3",
+								"expanded_url": "http://pastpages.org",
+								"display_url": "pastpages.org",
+								"indices": [
+									83,
+									106
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8422,
+				"friends_count": 3022,
+				"listed_count": 692,
+				"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53220,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDDDDD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this spot. https://t.co/9XULUfvNcW"
+	},
+	{
+		"created_at": "Sun Jan 06 20:47:27 +0000 2019",
+		"id": 1082015814918770700,
+		"id_str": "1082015814918770691",
+		"full_text": "uses for a Golden Globe:\n- paperweight\n- p̶r̶e̶d̶i̶c̶t̶ ̶o̶s̶c̶a̶r̶  DO NOT DO THIS\n- get Amy Adams to come to your party\n- doorstop\n- get on TV the day before Oscar voting\n- end of list\n\nhttps://t.co/BakMHWIHCW https://t.co/u8WBhQdXFS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BakMHWIHCW",
+					"expanded_url": "https://awards.substack.com/p/numlock-awards-supplement-guide-to",
+					"display_url": "awards.substack.com/p/numlock-awar…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082015768601075700,
+					"id_str": "1082015768601075712",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DwQXm9jWoAAijkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwQXm9jWoAAijkI.jpg",
+					"url": "https://t.co/u8WBhQdXFS",
+					"display_url": "pic.twitter.com/u8WBhQdXFS",
+					"expanded_url": "https://twitter.com/WaltHickey/status/1082015814918770691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 949,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1682,
+							"h": 1330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082015768601075700,
+					"id_str": "1082015768601075712",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DwQXm9jWoAAijkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwQXm9jWoAAijkI.jpg",
+					"url": "https://t.co/u8WBhQdXFS",
+					"display_url": "pic.twitter.com/u8WBhQdXFS",
+					"expanded_url": "https://twitter.com/WaltHickey/status/1082015814918770691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 949,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1682,
+							"h": 1330,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082015787949400000,
+					"id_str": "1082015787949400064",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DwQXoFoWoAA1z-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwQXoFoWoAA1z-l.jpg",
+					"url": "https://t.co/u8WBhQdXFS",
+					"display_url": "pic.twitter.com/u8WBhQdXFS",
+					"expanded_url": "https://twitter.com/WaltHickey/status/1082015814918770691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 806,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 1352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 235700566,
+			"id_str": "235700566",
+			"name": "Walter Hickey",
+			"screen_name": "WaltHickey",
+			"location": "New York",
+			"description": "https://t.co/FUsQZ4YrUf & Senior Editor for Data, @thisisinsider. Previously: Chief Culture Writer @FiveThirtyEight and @WilliamAndMary.",
+			"url": "https://t.co/69wFnkVUBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/69wFnkVUBy",
+							"expanded_url": "http://Numlock.news",
+							"display_url": "Numlock.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FUsQZ4YrUf",
+							"expanded_url": "http://numlock.news",
+							"display_url": "numlock.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20433,
+			"friends_count": 2101,
+			"listed_count": 595,
+			"created_at": "Sat Jan 08 21:53:02 +0000 2011",
 			"favourites_count": 26562,
 			"utc_offset": null,
 			"time_zone": null,
