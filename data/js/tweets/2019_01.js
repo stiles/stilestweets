@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 06 20:47:27 +0000 2019",
+		"id": 1082015814918770700,
+		"id_str": "1082015814918770691",
+		"full_text": "uses for a Golden Globe:\n- paperweight\n- p̶r̶e̶d̶i̶c̶t̶ ̶o̶s̶c̶a̶r̶  DO NOT DO THIS\n- get Amy Adams to come to your party\n- doorstop\n- get on TV the day before Oscar voting\n- end of list\n\nhttps://t.co/BakMHWIHCW https://t.co/u8WBhQdXFS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BakMHWIHCW",
+					"expanded_url": "https://awards.substack.com/p/numlock-awards-supplement-guide-to",
+					"display_url": "awards.substack.com/p/numlock-awar…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082015768601075700,
+					"id_str": "1082015768601075712",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DwQXm9jWoAAijkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwQXm9jWoAAijkI.jpg",
+					"url": "https://t.co/u8WBhQdXFS",
+					"display_url": "pic.twitter.com/u8WBhQdXFS",
+					"expanded_url": "https://twitter.com/WaltHickey/status/1082015814918770691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 949,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1682,
+							"h": 1330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082015768601075700,
+					"id_str": "1082015768601075712",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DwQXm9jWoAAijkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwQXm9jWoAAijkI.jpg",
+					"url": "https://t.co/u8WBhQdXFS",
+					"display_url": "pic.twitter.com/u8WBhQdXFS",
+					"expanded_url": "https://twitter.com/WaltHickey/status/1082015814918770691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 949,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1682,
+							"h": 1330,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082015787949400000,
+					"id_str": "1082015787949400064",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DwQXoFoWoAA1z-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwQXoFoWoAA1z-l.jpg",
+					"url": "https://t.co/u8WBhQdXFS",
+					"display_url": "pic.twitter.com/u8WBhQdXFS",
+					"expanded_url": "https://twitter.com/WaltHickey/status/1082015814918770691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 806,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 1352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 235700566,
+			"id_str": "235700566",
+			"name": "Walter Hickey",
+			"screen_name": "WaltHickey",
+			"location": "New York",
+			"description": "https://t.co/FUsQZ4YrUf & Senior Editor for Data, @thisisinsider. Previously: Chief Culture Writer @FiveThirtyEight and @WilliamAndMary.",
+			"url": "https://t.co/69wFnkVUBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/69wFnkVUBy",
+							"expanded_url": "http://Numlock.news",
+							"display_url": "Numlock.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FUsQZ4YrUf",
+							"expanded_url": "http://numlock.news",
+							"display_url": "numlock.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20426,
+			"friends_count": 2100,
+			"listed_count": 595,
+			"created_at": "Sat Jan 08 21:53:02 +0000 2011",
+			"favourites_count": 26555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31757,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078135087148003335/5Gi9tBdn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078135087148003335/5Gi9tBdn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/235700566/1542336792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "uses for a Golden Globe:\n- paperweight\n- p̶r̶e̶d̶i̶c̶t̶ ̶o̶s̶c̶a̶r̶  DO NOT DO THIS\n- get Amy Adams to come to your party\n- doorstop\n- get on TV the day before Oscar voting\n- end of list\n\nhttps://t.co/BakMHWIHCW https://t.co/u8WBhQdXFS"
+	},
+	{
 		"created_at": "Mon Jan 07 04:14:02 +0000 2019",
 		"id": 1082128201420177400,
 		"id_str": "1082128201420177408",
