@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 07 23:36:44 +0000 2019",
+		"id": 1082420802031677400,
+		"id_str": "1082420802031677441",
+		"full_text": "\"Mick Mulvaney, the former South Carolina congressman and who is the acting White House chief of staff, has inquired about becoming president at the University of South Carolina\"\n\nhttps://t.co/7zu2CanBf1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7zu2CanBf1",
+					"expanded_url": "https://www.postandcourier.com/news/mulvaney-interested-in-becoming-usc-president-sources/article_fbbd6bde-12c2-11e9-956c-13c21fcbbba0.html",
+					"display_url": "postandcourier.com/news/mulvaney-…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14412533,
+			"id_str": "14412533",
+			"name": "Chris Cillizza",
+			"screen_name": "CillizzaCNN",
+			"location": "Washington, D.C.",
+			"description": "\"One of the dumber and least respected of the political pundits.\" -- Donald Trump; \"A f*!-ing mouth breather.\" -- Roseanne Barr",
+			"url": "https://t.co/VM2JQsQH6X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VM2JQsQH6X",
+							"expanded_url": "http://CNN.com/ThePoint",
+							"display_url": "CNN.com/ThePoint",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 666488,
+			"friends_count": 3255,
+			"listed_count": 9930,
+			"created_at": "Wed Apr 16 20:34:24 +0000 2008",
+			"favourites_count": 192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 127227,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/918126286610018305/0LVMCwOV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/918126286610018305/0LVMCwOV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14412533/1498647512",
+			"profile_link_color": "A81B1B",
+			"profile_sidebar_border_color": "5E8B9C",
+			"profile_sidebar_fill_color": "8EA5BF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 63,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Mick Mulvaney, the former South Carolina congressman and who is the acting White House chief of staff, has inquired about becoming president at the University of South Carolina\"\n\nhttps://t.co/7zu2CanBf1"
+	},
+	{
+		"created_at": "Mon Jan 07 22:44:01 +0000 2019",
+		"id": 1082407536920313900,
+		"id_str": "1082407536920313858",
+		"full_text": "Dr. Steven Dillingham was sworn in as the Census Bureau Director today by @SecretaryRoss. https://t.co/JLpxaND4hw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SecretaryRoss",
+					"name": "Sec. Wilbur Ross",
+					"id": 836305915452272600,
+					"id_str": "836305915452272641",
+					"indices": [
+						74,
+						88
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082407114423787500,
+					"id_str": "1082407114423787521",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DwV7iSWV4AEZG8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwV7iSWV4AEZG8T.jpg",
+					"url": "https://t.co/JLpxaND4hw",
+					"display_url": "pic.twitter.com/JLpxaND4hw",
+					"expanded_url": "https://twitter.com/uscensusbureau/status/1082407536920313858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1021,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 578,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1742,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082407114423787500,
+					"id_str": "1082407114423787521",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DwV7iSWV4AEZG8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwV7iSWV4AEZG8T.jpg",
+					"url": "https://t.co/JLpxaND4hw",
+					"display_url": "pic.twitter.com/JLpxaND4hw",
+					"expanded_url": "https://twitter.com/uscensusbureau/status/1082407536920313858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1021,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 578,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1742,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23092890,
+			"id_str": "23092890",
+			"name": "U.S. Census Bureau",
+			"screen_name": "uscensusbureau",
+			"location": "",
+			"description": "This account will not be actively managed during the federal government shutdown. Learn more at https://t.co/ToNr7lwg9m.",
+			"url": "https://t.co/3ZpxiuXJqV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3ZpxiuXJqV",
+							"expanded_url": "http://www.census.gov",
+							"display_url": "census.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ToNr7lwg9m",
+							"expanded_url": "https://www.commerce.gov/news/blog",
+							"display_url": "commerce.gov/news/blog",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 91102,
+			"friends_count": 921,
+			"listed_count": 3261,
+			"created_at": "Fri Mar 06 17:39:21 +0000 2009",
+			"favourites_count": 940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976823060627116033/J1jB3JW3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976823060627116033/J1jB3JW3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23092890/1521730620",
+			"profile_link_color": "112E51",
+			"profile_sidebar_border_color": "E5E6E9",
+			"profile_sidebar_fill_color": "E5E6E9",
+			"profile_text_color": "2B2C2D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dr. Steven Dillingham was sworn in as the Census Bureau Director today by @SecretaryRoss. https://t.co/JLpxaND4hw"
+	},
+	{
 		"created_at": "Mon Jan 07 22:44:01 +0000 2019",
 		"id": 1082407536920313900,
 		"id_str": "1082407536920313858",
