@@ -49,6 +49,900 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 23628,
+			"friends_count": 1850,
+			"listed_count": 630,
+			"created_at": "Thu Feb 21 21:17:46 +0000 2013",
+			"favourites_count": 7726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 100033,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046653439504080898/81ma6_z__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046653439504080898/81ma6_z__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1206035390/1541016081",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 563,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I tweet for the people who remember ALL YOUR BASE ARE BELONG TO US."
+	},
+	{
+		"created_at": "Tue Jan 08 04:04:42 +0000 2019",
+		"id": 1082488239552786400,
+		"id_str": "1082488239552786432",
+		"full_text": "Get off my lawn! (And speak for yourself). https://t.co/emWK0yY5Bx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/emWK0yY5Bx",
+					"expanded_url": "https://twitter.com/chrisevans/status/1082338680885235713",
+					"display_url": "twitter.com/chrisevans/sta…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10425,
+			"friends_count": 1411,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546716160",
+			"profile_link_color": "82732E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082338680885235700,
+		"quoted_status_id_str": "1082338680885235713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/emWK0yY5Bx",
+			"expanded": "https://twitter.com/chrisevans/status/1082338680885235713",
+			"display": "twitter.com/chrisevans/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 07 18:10:25 +0000 2019",
+			"id": 1082338680885235700,
+			"id_str": "1082338680885235713",
+			"full_text": "Dear All Technology,\nRemember the 90’s when you just WORKED??? I don’t need a ‘smart’ feature on my TV, thermostat, lights, music, refrigerator, security cameras, and f-ing car. You’re a major pain in all of our asses. You’re not worth it. \nSigned,\nEveryone",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 580097412,
+				"id_str": "580097412",
+				"name": "Chris Evans",
+				"screen_name": "ChrisEvans",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10249584,
+				"friends_count": 357,
+				"listed_count": 14607,
+				"created_at": "Mon May 14 16:23:02 +0000 2012",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1139,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1036007653774897152/qLFD44NH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036007653774897152/qLFD44NH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/580097412/1515033793",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26313,
+			"favorite_count": 199369,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get off my lawn! (And speak for yourself). https://t.co/emWK0yY5Bx"
+	},
+	{
+		"created_at": "Tue Jan 08 04:01:22 +0000 2019",
+		"id": 1082487399744032800,
+		"id_str": "1082487399744032768",
+		"full_text": "Congrats, @dhiott! https://t.co/hrWqWj9XnV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dhiott",
+					"name": "Debbie Hiott",
+					"id": 15139452,
+					"id_str": "15139452",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hrWqWj9XnV",
+					"expanded_url": "https://twitter.com/dhiott/status/1082321638484570112",
+					"display_url": "twitter.com/dhiott/status/…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10425,
+			"friends_count": 1411,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546716160",
+			"profile_link_color": "82732E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082321638484570100,
+		"quoted_status_id_str": "1082321638484570112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hrWqWj9XnV",
+			"expanded": "https://twitter.com/dhiott/status/1082321638484570112",
+			"display": "twitter.com/dhiott/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 07 17:02:41 +0000 2019",
+			"id": 1082321638484570100,
+			"id_str": "1082321638484570112",
+			"full_text": "I couldn’t be more excited about this news. @kut and @kutx have talented teams, a great brand, and a critical local news and entertainment mission for the community. I am fortunate to have a role in that going forward. https://t.co/Tse0aqeUJD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KUT",
+						"name": "KUT Austin",
+						"id": 13678962,
+						"id_str": "13678962",
+						"indices": [
+							44,
+							48
+						]
+					},
+					{
+						"screen_name": "KUTX",
+						"name": "KUTX 98.9",
+						"id": 618433657,
+						"id_str": "618433657",
+						"indices": [
+							53,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Tse0aqeUJD",
+						"expanded_url": "https://twitter.com/kut/status/1082320096297664512",
+						"display_url": "twitter.com/kut/status/108…",
+						"indices": [
+							219,
+							242
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15139452,
+				"id_str": "15139452",
+				"name": "Debbie Hiott",
+				"screen_name": "dhiott",
+				"location": "Austin, Tx",
+				"description": "Journalist, mom, Austin resident. Former editor of the @statesman. Tx State grad.",
+				"url": "https://t.co/Qy5TtbIvkQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Qy5TtbIvkQ",
+								"expanded_url": "http://www.statesman.com/",
+								"display_url": "statesman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3239,
+				"friends_count": 1261,
+				"listed_count": 153,
+				"created_at": "Mon Jun 16 22:27:45 +0000 2008",
+				"favourites_count": 2795,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4445,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3335039198/e2f9fc42a0ca4a93633246041ea27abe_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3335039198/e2f9fc42a0ca4a93633246041ea27abe_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15139452/1417826153",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1082320096297664500,
+			"quoted_status_id_str": "1082320096297664512",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Tse0aqeUJD",
+				"expanded": "https://twitter.com/kut/status/1082320096297664512",
+				"display": "twitter.com/kut/status/108…"
+			},
+			"retweet_count": 23,
+			"favorite_count": 234,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats, @dhiott! https://t.co/hrWqWj9XnV"
+	},
+	{
+		"created_at": "Tue Jan 08 03:26:39 +0000 2019",
+		"id": 1082478661926699000,
+		"id_str": "1082478661926699008",
+		"full_text": "Proof that news layoffs rarely are about talent. So sorry man. \n\nBut now you can come join us @latimes! https://t.co/hfK6dOININ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hfK6dOININ",
+					"expanded_url": "https://twitter.com/chrisvognar/status/1082355554989805568",
+					"display_url": "twitter.com/chrisvognar/st…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10425,
+			"friends_count": 1411,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546716160",
+			"profile_link_color": "82732E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082355554989805600,
+		"quoted_status_id_str": "1082355554989805568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hfK6dOININ",
+			"expanded": "https://twitter.com/chrisvognar/status/1082355554989805568",
+			"display": "twitter.com/chrisvognar/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 07 19:17:28 +0000 2019",
+			"id": 1082355554989805600,
+			"id_str": "1082355554989805568",
+			"full_text": "Hello, film/journalism/publishing Twitter. I got laid off from the @dallasnews today. I am officially a gun for hire. Or a pen for hire. Not a big fan of guns. Holla.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dallasnews",
+						"name": "Dallas Morning News",
+						"id": 15679641,
+						"id_str": "15679641",
+						"indices": [
+							67,
+							78
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80095753,
+				"id_str": "80095753",
+				"name": "Chris Vognar",
+				"screen_name": "chrisvognar",
+				"location": "Dallas, Texas",
+				"description": "Former culture critic, The Dallas Morning News. Books. Movies. Nieman Fellow at Harvard, '09. Bay Area native. Pen for hire. Can’t knock the hustle.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6770,
+				"friends_count": 4972,
+				"listed_count": 288,
+				"created_at": "Mon Oct 05 18:48:28 +0000 2009",
+				"favourites_count": 6983,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22998,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079539449011290113/MWgCasNX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079539449011290113/MWgCasNX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80095753/1404011807",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "18810aa5b43e76c7",
+				"url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json",
+				"place_type": "city",
+				"name": "Dallas",
+				"full_name": "Dallas, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-96.977527,
+								32.620678
+							],
+							[
+								-96.54598,
+								32.620678
+							],
+							[
+								-96.54598,
+								33.019039
+							],
+							[
+								-96.977527,
+								33.019039
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 243,
+			"favorite_count": 613,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proof that news layoffs rarely are about talent. So sorry man. \n\nBut now you can come join us @latimes! https://t.co/hfK6dOININ"
+	},
+	{
+		"created_at": "Tue Jan 08 02:58:01 +0000 2019",
+		"id": 1082471457395859500,
+		"id_str": "1082471457395859457",
+		"full_text": "I tweet for the people who remember ALL YOUR BASE ARE BELONG TO US.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1206035390,
+			"id_str": "1206035390",
+			"name": "Monique Judge",
+			"screen_name": "thejournalista",
+			"location": "Los Angeles",
+			"description": "Columnist for @TheRoot. These tweets, thoughts and opinions are mine only. I am not an editor. Don't send me your writing pitches. monique.judge@theroot.com",
+			"url": "https://t.co/sbdnBSuB83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sbdnBSuB83",
+							"expanded_url": "http://kinja.com/thejournalista",
+							"display_url": "kinja.com/thejournalista",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 23611,
 			"friends_count": 1850,
 			"listed_count": 632,
