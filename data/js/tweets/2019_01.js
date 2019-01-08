@@ -59,6 +59,112 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 666482,
+			"friends_count": 3255,
+			"listed_count": 9931,
+			"created_at": "Wed Apr 16 20:34:24 +0000 2008",
+			"favourites_count": 192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 127232,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/918126286610018305/0LVMCwOV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/918126286610018305/0LVMCwOV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14412533/1498647512",
+			"profile_link_color": "A81B1B",
+			"profile_sidebar_border_color": "5E8B9C",
+			"profile_sidebar_fill_color": "8EA5BF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 96,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Mick Mulvaney, the former South Carolina congressman and who is the acting White House chief of staff, has inquired about becoming president at the University of South Carolina\"\n\nhttps://t.co/7zu2CanBf1"
+	},
+	{
+		"created_at": "Mon Jan 07 23:36:44 +0000 2019",
+		"id": 1082420802031677400,
+		"id_str": "1082420802031677441",
+		"full_text": "\"Mick Mulvaney, the former South Carolina congressman and who is the acting White House chief of staff, has inquired about becoming president at the University of South Carolina\"\n\nhttps://t.co/7zu2CanBf1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7zu2CanBf1",
+					"expanded_url": "https://www.postandcourier.com/news/mulvaney-interested-in-becoming-usc-president-sources/article_fbbd6bde-12c2-11e9-956c-13c21fcbbba0.html",
+					"display_url": "postandcourier.com/news/mulvaney-…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14412533,
+			"id_str": "14412533",
+			"name": "Chris Cillizza",
+			"screen_name": "CillizzaCNN",
+			"location": "Washington, D.C.",
+			"description": "\"One of the dumber and least respected of the political pundits.\" -- Donald Trump; \"A f*!-ing mouth breather.\" -- Roseanne Barr",
+			"url": "https://t.co/VM2JQsQH6X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VM2JQsQH6X",
+							"expanded_url": "http://CNN.com/ThePoint",
+							"display_url": "CNN.com/ThePoint",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 666479,
 			"friends_count": 3255,
 			"listed_count": 9931,
