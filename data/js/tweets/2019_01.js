@@ -1,6 +1,957 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 01:00:22 +0000 2019",
+		"id": 1082804235996201000,
+		"id_str": "1082804235996200960",
+		"full_text": "America should “build a wall of steel, a wall as high as Heaven\" against the flow of immigrants.--Georgia Gov. Clifford Walker, at a 1924 convention of the Ku Klux Klan, then a powerful force at a time of strain for the white working class. #PastIsPrologue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PastIsPrologue",
+					"indices": [
+						241,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 286339472,
+			"id_str": "286339472",
+			"name": "Jon Meacham",
+			"screen_name": "jmeacham",
+			"location": "Nashville",
+			"description": "Author, \"The Soul of America,\" \"Destiny and Power,\" \"American Lion,\" & \"Thomas Jefferson: The Art of Power.\"",
+			"url": "https://t.co/X6ZwYaKaN7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X6ZwYaKaN7",
+							"expanded_url": "http://jonmeacham.com",
+							"display_url": "jonmeacham.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101475,
+			"friends_count": 709,
+			"listed_count": 1044,
+			"created_at": "Fri Apr 22 20:16:19 +0000 2011",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4835,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048979441928605697/PurJws4e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048979441928605697/PurJws4e_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6629,
+		"favorite_count": 11987,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "America should “build a wall of steel, a wall as high as Heaven\" against the flow of immigrants.--Georgia Gov. Clifford Walker, at a 1924 convention of the Ku Klux Klan, then a powerful force at a time of strain for the white working class. #PastIsPrologue"
+	},
+	{
+		"created_at": "Tue Jan 08 17:36:47 +0000 2019",
+		"id": 1082692606440628200,
+		"id_str": "1082692606440628224",
+		"full_text": "A huge loss for readers and film lovers that @dallasnews laid off its culture critic of 23 years, @chrisvognar. I may have gone on a long ramble about his awesomeness ... he's now for hire! https://t.co/qToVXlxvHv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dallasnews",
+					"name": "Dallas Morning News",
+					"id": 15679641,
+					"id_str": "15679641",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "chrisvognar",
+					"name": "Chris Vognar",
+					"id": 80095753,
+					"id_str": "80095753",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qToVXlxvHv",
+					"expanded_url": "http://www.heyelise.com/2019/01/08/vogs/",
+					"display_url": "heyelise.com/2019/01/08/vog…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16001350,
+			"id_str": "16001350",
+			"name": "Elise Hu",
+			"screen_name": "elisewho",
+			"location": "California, USA",
+			"description": "LA-based @NPRNews. Ex-expat buro chief in Koreas and Japan. @TexasTribune & #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. IG @elisewho | ehu@npr.org",
+			"url": "https://t.co/5UvjA81oSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5UvjA81oSH",
+							"expanded_url": "http://elisehu.com",
+							"display_url": "elisehu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39611,
+			"friends_count": 1918,
+			"listed_count": 1725,
+			"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+			"favourites_count": 2855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29530,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDEDEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1498480092",
+			"profile_link_color": "4E647A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A huge loss for readers and film lovers that @dallasnews laid off its culture critic of 23 years, @chrisvognar. I may have gone on a long ramble about his awesomeness ... he's now for hire! https://t.co/qToVXlxvHv"
+	},
+	{
+		"created_at": "Wed Jan 09 02:04:48 +0000 2019",
+		"id": 1082820453729742800,
+		"id_str": "1082820453729742853",
+		"full_text": "Trump notes the many heroin deaths; doesn't mention that most comes through ports of entry, which a wall doesn't solve.\n\nhttps://t.co/9XTuwRLoRe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9XTuwRLoRe",
+					"expanded_url": "https://www.washingtonpost.com/politics/2019/live-updates/trump-white-house/live-fact-checking-and-analysis-of-president-trumps-immigration-speech/most-imported-heroin-comes-through-legal-points-of-entry/",
+					"display_url": "washingtonpost.com/politics/2019/…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136300373,
+			"id_str": "136300373",
+			"name": "Aaron Blake",
+			"screen_name": "AaronBlake",
+			"location": "Washington, D.C./NoVa",
+			"description": "Senior political reporter, writing for The Fix at The Washington Post. aaron.blake@washpost.com",
+			"url": "https://t.co/qEi9zttg8S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qEi9zttg8S",
+							"expanded_url": "http://wapo.st/13B31dj",
+							"display_url": "wapo.st/13B31dj",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99164,
+			"friends_count": 3957,
+			"listed_count": 3030,
+			"created_at": "Fri Apr 23 15:00:15 +0000 2010",
+			"favourites_count": 3187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989591977179172864/vd8WjaRk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989591977179172864/vd8WjaRk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136300373/1536778066",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 467,
+		"favorite_count": 974,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump notes the many heroin deaths; doesn't mention that most comes through ports of entry, which a wall doesn't solve.\n\nhttps://t.co/9XTuwRLoRe"
+	},
+	{
+		"created_at": "Tue Jan 08 20:05:45 +0000 2019",
+		"id": 1082730096392310800,
+		"id_str": "1082730096392310790",
+		"full_text": "A Paul Manafort filing just accidentally connected some big dots between the Trump campaign and Russia\n\nhttps://t.co/0KYCWvG7Ie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0KYCWvG7Ie",
+					"expanded_url": "https://www.washingtonpost.com/politics/2019/01/08/paul-manaforts-lawyers-just-accidentally-connected-some-big-dots-between-trump-campaign-russia/",
+					"display_url": "washingtonpost.com/politics/2019/…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136300373,
+			"id_str": "136300373",
+			"name": "Aaron Blake",
+			"screen_name": "AaronBlake",
+			"location": "Washington, D.C./NoVa",
+			"description": "Senior political reporter, writing for The Fix at The Washington Post. aaron.blake@washpost.com",
+			"url": "https://t.co/qEi9zttg8S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qEi9zttg8S",
+							"expanded_url": "http://wapo.st/13B31dj",
+							"display_url": "wapo.st/13B31dj",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99164,
+			"friends_count": 3957,
+			"listed_count": 3030,
+			"created_at": "Fri Apr 23 15:00:15 +0000 2010",
+			"favourites_count": 3187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989591977179172864/vd8WjaRk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989591977179172864/vd8WjaRk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136300373/1536778066",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 136,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Paul Manafort filing just accidentally connected some big dots between the Trump campaign and Russia\n\nhttps://t.co/0KYCWvG7Ie"
+	},
+	{
+		"created_at": "Tue Jan 08 18:18:49 +0000 2019",
+		"id": 1082703184521351200,
+		"id_str": "1082703184521351168",
+		"full_text": "Whoa, @anthonyjpesce grew a fancy mullet over the holidays! \n\nGet him a trim, @datadesk. https://t.co/n3CIi9KUfh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anthonyjpesce",
+					"name": "Anthony Pesce 🦅",
+					"id": 16973143,
+					"id_str": "16973143",
+					"indices": [
+						6,
+						20
+					]
+				},
+				{
+					"screen_name": "datadesk",
+					"name": "Datadesk Informática",
+					"id": 34357676,
+					"id_str": "34357676",
+					"indices": [
+						78,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n3CIi9KUfh",
+					"expanded_url": "https://twitter.com/mattdpearce/status/1082702724376887297",
+					"display_url": "twitter.com/mattdpearce/st…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10424,
+			"friends_count": 1410,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082702724376887300,
+		"quoted_status_id_str": "1082702724376887297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n3CIi9KUfh",
+			"expanded": "https://twitter.com/mattdpearce/status/1082702724376887297",
+			"display": "twitter.com/mattdpearce/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 08 18:16:59 +0000 2019",
+			"id": 1082702724376887300,
+			"id_str": "1082702724376887297",
+			"full_text": ".@latguild is back at the bargaining table today as we resume nonstop bargaining for our first contract. 🦅 https://t.co/gXqv4n2WYK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "latguild",
+						"name": "L.A. Times Guild 🦅",
+						"id": 859504635773464600,
+						"id_str": "859504635773464576",
+						"indices": [
+							1,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1082702697269203000,
+						"id_str": "1082702697269202945",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DwaIXeQWkAEHMg2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwaIXeQWkAEHMg2.jpg",
+						"url": "https://t.co/gXqv4n2WYK",
+						"display_url": "pic.twitter.com/gXqv4n2WYK",
+						"expanded_url": "https://twitter.com/mattdpearce/status/1082702724376887297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1082702697269203000,
+						"id_str": "1082702697269202945",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DwaIXeQWkAEHMg2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwaIXeQWkAEHMg2.jpg",
+						"url": "https://t.co/gXqv4n2WYK",
+						"display_url": "pic.twitter.com/gXqv4n2WYK",
+						"expanded_url": "https://twitter.com/mattdpearce/status/1082702724376887297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69004966,
+				"id_str": "69004966",
+				"name": "Matt Pearce 🦅",
+				"screen_name": "mattdpearce",
+				"location": "matt.pearce@latimes.com",
+				"description": "National correspondent for the Los Angeles Times. May the forces of evil become confused on the way to your house.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141548,
+				"friends_count": 2466,
+				"listed_count": 4207,
+				"created_at": "Wed Aug 26 15:05:15 +0000 2009",
+				"favourites_count": 127311,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 121374,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "383838",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002554410717757442/ywgIlN3N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002554410717757442/ywgIlN3N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69004966/1484268255",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0E0E0",
+				"profile_text_color": "4F4E4E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 83,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whoa, @anthonyjpesce grew a fancy mullet over the holidays! \n\nGet him a trim, @datadesk. https://t.co/n3CIi9KUfh"
+	},
+	{
+		"created_at": "Tue Jan 08 18:16:45 +0000 2019",
+		"id": 1082702662603132900,
+		"id_str": "1082702662603132928",
+		"full_text": "Happy New Year, @github! The web's leading version control service is now offering free private repos:  https://t.co/BX9pal59vo (h/t @sharon000) https://t.co/HeGNbfxsAA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "github",
+					"name": "GitHub",
+					"id": 13334762,
+					"id_str": "13334762",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "sharon000",
+					"name": "Sharon Machlis",
+					"id": 10915042,
+					"id_str": "10915042",
+					"indices": [
+						133,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BX9pal59vo",
+					"expanded_url": "http://bit.ly/2VKWP1o",
+					"display_url": "bit.ly/2VKWP1o",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082702138583658500,
+					"id_str": "1082702138583658496",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/DwaH28_VsAA2jX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwaH28_VsAA2jX0.jpg",
+					"url": "https://t.co/HeGNbfxsAA",
+					"display_url": "pic.twitter.com/HeGNbfxsAA",
+					"expanded_url": "https://twitter.com/stiles/status/1082702662603132928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 804,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 416,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082702138583658500,
+					"id_str": "1082702138583658496",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/DwaH28_VsAA2jX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwaH28_VsAA2jX0.jpg",
+					"url": "https://t.co/HeGNbfxsAA",
+					"display_url": "pic.twitter.com/HeGNbfxsAA",
+					"expanded_url": "https://twitter.com/stiles/status/1082702662603132928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 804,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 416,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10424,
+			"friends_count": 1410,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy New Year, @github! The web's leading version control service is now offering free private repos:  https://t.co/BX9pal59vo (h/t @sharon000) https://t.co/HeGNbfxsAA"
+	},
+	{
 		"created_at": "Tue Jan 08 17:36:47 +0000 2019",
 		"id": 1082692606440628200,
 		"id_str": "1082692606440628224",
