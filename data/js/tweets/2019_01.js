@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 11:20:30 +0000 2019",
+		"id": 1082597912121692200,
+		"id_str": "1082597912121692161",
+		"full_text": "U.S. Downgraded E.U.’s Diplomatic Status (But Didn’t Say Anything)   via @NYTimes https://t.co/REzvWEPALW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/REzvWEPALW",
+					"expanded_url": "https://nyti.ms/2RAEyVf?smid=nytcore-ios-share",
+					"display_url": "nyti.ms/2RAEyVf?smid=n…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 429685724,
+			"id_str": "429685724",
+			"name": "Steven Erlanger",
+			"screen_name": "StevenErlanger",
+			"location": "Brussels, Belgium",
+			"description": "Chief Diplomatic Correspondent Europe; The New York Times",
+			"url": "https://t.co/UmqCI5AhUx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmqCI5AhUx",
+							"expanded_url": "http://www.nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17298,
+			"friends_count": 1119,
+			"listed_count": 638,
+			"created_at": "Tue Dec 06 07:59:58 +0000 2011",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19672,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1676794040/me_iowa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1676794040/me_iowa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/429685724/1433614088",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "U.S. Downgraded E.U.’s Diplomatic Status (But Didn’t Say Anything)   via @NYTimes https://t.co/REzvWEPALW"
+	},
+	{
+		"created_at": "Wed Jan 09 04:07:19 +0000 2019",
+		"id": 1082851287194992600,
+		"id_str": "1082851287194992640",
+		"full_text": "⁦@realDonaldTrump⁩ has made 1,130 false statements about immigration since taking office. https://t.co/IZ6RegiH94",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IZ6RegiH94",
+					"expanded_url": "https://www.washingtonpost.com/politics/2018/12/21/president-trump-has-made-false-or-misleading-claims-over-days/",
+					"display_url": "washingtonpost.com/politics/2018/…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10424,
+			"friends_count": 1410,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⁦@realDonaldTrump⁩ has made 1,130 false statements about immigration since taking office. https://t.co/IZ6RegiH94"
+	},
+	{
+		"created_at": "Wed Jan 09 01:00:22 +0000 2019",
+		"id": 1082804235996201000,
+		"id_str": "1082804235996200960",
+		"full_text": "America should “build a wall of steel, a wall as high as Heaven\" against the flow of immigrants.--Georgia Gov. Clifford Walker, at a 1924 convention of the Ku Klux Klan, then a powerful force at a time of strain for the white working class. #PastIsPrologue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PastIsPrologue",
+					"indices": [
+						241,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 286339472,
+			"id_str": "286339472",
+			"name": "Jon Meacham",
+			"screen_name": "jmeacham",
+			"location": "Nashville",
+			"description": "Author, \"The Soul of America,\" \"Destiny and Power,\" \"American Lion,\" & \"Thomas Jefferson: The Art of Power.\"",
+			"url": "https://t.co/X6ZwYaKaN7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X6ZwYaKaN7",
+							"expanded_url": "http://jonmeacham.com",
+							"display_url": "jonmeacham.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102966,
+			"friends_count": 709,
+			"listed_count": 1063,
+			"created_at": "Fri Apr 22 20:16:19 +0000 2011",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4836,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048979441928605697/PurJws4e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048979441928605697/PurJws4e_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8527,
+		"favorite_count": 15597,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "America should “build a wall of steel, a wall as high as Heaven\" against the flow of immigrants.--Georgia Gov. Clifford Walker, at a 1924 convention of the Ku Klux Klan, then a powerful force at a time of strain for the white working class. #PastIsPrologue"
+	},
+	{
+		"created_at": "Tue Jan 08 17:36:47 +0000 2019",
+		"id": 1082692606440628200,
+		"id_str": "1082692606440628224",
+		"full_text": "A huge loss for readers and film lovers that @dallasnews laid off its culture critic of 23 years, @chrisvognar. I may have gone on a long ramble about his awesomeness ... he's now for hire! https://t.co/qToVXlxvHv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dallasnews",
+					"name": "Dallas Morning News",
+					"id": 15679641,
+					"id_str": "15679641",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "chrisvognar",
+					"name": "Chris Vognar",
+					"id": 80095753,
+					"id_str": "80095753",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qToVXlxvHv",
+					"expanded_url": "http://www.heyelise.com/2019/01/08/vogs/",
+					"display_url": "heyelise.com/2019/01/08/vog…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16001350,
+			"id_str": "16001350",
+			"name": "Elise Hu",
+			"screen_name": "elisewho",
+			"location": "California, USA",
+			"description": "LA-based @NPRNews. Ex-expat buro chief in Koreas and Japan. @TexasTribune & #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. IG @elisewho | ehu@npr.org",
+			"url": "https://t.co/5UvjA81oSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5UvjA81oSH",
+							"expanded_url": "http://elisehu.com",
+							"display_url": "elisehu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39610,
+			"friends_count": 1918,
+			"listed_count": 1724,
+			"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+			"favourites_count": 2855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29531,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDEDEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1498480092",
+			"profile_link_color": "4E647A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A huge loss for readers and film lovers that @dallasnews laid off its culture critic of 23 years, @chrisvognar. I may have gone on a long ramble about his awesomeness ... he's now for hire! https://t.co/qToVXlxvHv"
+	},
+	{
+		"created_at": "Wed Jan 09 02:04:48 +0000 2019",
+		"id": 1082820453729742800,
+		"id_str": "1082820453729742853",
+		"full_text": "Trump notes the many heroin deaths; doesn't mention that most comes through ports of entry, which a wall doesn't solve.\n\nhttps://t.co/9XTuwRLoRe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9XTuwRLoRe",
+					"expanded_url": "https://www.washingtonpost.com/politics/2019/live-updates/trump-white-house/live-fact-checking-and-analysis-of-president-trumps-immigration-speech/most-imported-heroin-comes-through-legal-points-of-entry/",
+					"display_url": "washingtonpost.com/politics/2019/…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136300373,
+			"id_str": "136300373",
+			"name": "Aaron Blake",
+			"screen_name": "AaronBlake",
+			"location": "Washington, D.C./NoVa",
+			"description": "Senior political reporter, writing for The Fix at The Washington Post. aaron.blake@washpost.com",
+			"url": "https://t.co/qEi9zttg8S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qEi9zttg8S",
+							"expanded_url": "http://wapo.st/13B31dj",
+							"display_url": "wapo.st/13B31dj",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99187,
+			"friends_count": 3957,
+			"listed_count": 3039,
+			"created_at": "Fri Apr 23 15:00:15 +0000 2010",
+			"favourites_count": 3188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989591977179172864/vd8WjaRk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989591977179172864/vd8WjaRk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136300373/1536778066",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 1427,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump notes the many heroin deaths; doesn't mention that most comes through ports of entry, which a wall doesn't solve.\n\nhttps://t.co/9XTuwRLoRe"
+	},
+	{
 		"created_at": "Wed Jan 09 01:00:22 +0000 2019",
 		"id": 1082804235996201000,
 		"id_str": "1082804235996200960",
