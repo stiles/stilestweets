@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 22:18:29 +0000 2019",
+		"id": 1083125885547343900,
+		"id_str": "1083125885547343872",
+		"full_text": "@realDonaldTrump These maps show a century of wildfire perimeters in California. \n\nRed polygons represents all fires. Purples represent those fires on federally controlled lands. \n\nAgain, it's unclear what this tweet from @realDonaldTrump is about: https://t.co/FHtusmmpA1 https://t.co/4OyiwOLcnm",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						222,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FHtusmmpA1",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/1083022011574747137",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083125424803143700,
+					"id_str": "1083125424803143682",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DwgI1dCV4AIyK-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwgI1dCV4AIyK-A.jpg",
+					"url": "https://t.co/4OyiwOLcnm",
+					"display_url": "pic.twitter.com/4OyiwOLcnm",
+					"expanded_url": "https://twitter.com/stiles/status/1083125885547343872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1256,
+							"h": 1402,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1075,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083125424803143700,
+					"id_str": "1083125424803143682",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DwgI1dCV4AIyK-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwgI1dCV4AIyK-A.jpg",
+					"url": "https://t.co/4OyiwOLcnm",
+					"display_url": "pic.twitter.com/4OyiwOLcnm",
+					"expanded_url": "https://twitter.com/stiles/status/1083125885547343872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1256,
+							"h": 1402,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1075,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1083125439223099400,
+					"id_str": "1083125439223099392",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DwgI2SwU8AAyInI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwgI2SwU8AAyInI.jpg",
+					"url": "https://t.co/4OyiwOLcnm",
+					"display_url": "pic.twitter.com/4OyiwOLcnm",
+					"expanded_url": "https://twitter.com/stiles/status/1083125885547343872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 597,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1053,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1244,
+							"h": 1418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1083114815785029600,
+		"in_reply_to_status_id_str": "1083114815785029632",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1413,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083022011574747100,
+		"quoted_status_id_str": "1083022011574747137",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FHtusmmpA1",
+			"expanded": "https://twitter.com/realDonaldTrump/status/1083022011574747137",
+			"display": "twitter.com/realDonaldTrum…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 09 15:25:43 +0000 2019",
+			"id": 1083022011574747100,
+			"id_str": "1083022011574747137",
+			"full_text": "Billions of dollars are sent to the State of California for Forest fires that, with proper Forest Management, would never happen. Unless they get their act together, which is unlikely, I have ordered FEMA to send no more money. It is a disgraceful situation in lives &amp; money!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57111558,
+				"friends_count": 45,
+				"listed_count": 98683,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40170,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1543104015",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19792,
+			"favorite_count": 83710,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@realDonaldTrump These maps show a century of wildfire perimeters in California. \n\nRed polygons represents all fires. Purples represent those fires on federally controlled lands. \n\nAgain, it's unclear what this tweet from @realDonaldTrump is about: https://t.co/FHtusmmpA1 https://t.co/4OyiwOLcnm"
+	},
+	{
+		"created_at": "Wed Jan 09 21:34:30 +0000 2019",
+		"id": 1083114815785029600,
+		"id_str": "1083114815785029632",
+		"full_text": "@realDonaldTrump Is there \"proper forest management\" on these (green) federal lands in California? https://t.co/QkbnR1kULz",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083113588280250400,
+					"id_str": "1083113588280250373",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwf-EejX0AUIIbT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwf-EejX0AUIIbT.jpg",
+					"url": "https://t.co/QkbnR1kULz",
+					"display_url": "pic.twitter.com/QkbnR1kULz",
+					"expanded_url": "https://twitter.com/stiles/status/1083114815785029632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 829,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 829,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083113588280250400,
+					"id_str": "1083113588280250373",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwf-EejX0AUIIbT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwf-EejX0AUIIbT.jpg",
+					"url": "https://t.co/QkbnR1kULz",
+					"display_url": "pic.twitter.com/QkbnR1kULz",
+					"expanded_url": "https://twitter.com/stiles/status/1083114815785029632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 829,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 829,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1083022011574747100,
+		"in_reply_to_status_id_str": "1083022011574747137",
+		"in_reply_to_user_id": 25073877,
+		"in_reply_to_user_id_str": "25073877",
+		"in_reply_to_screen_name": "realDonaldTrump",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1413,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@realDonaldTrump Is there \"proper forest management\" on these (green) federal lands in California? https://t.co/QkbnR1kULz"
+	},
+	{
 		"created_at": "Wed Jan 09 20:19:30 +0000 2019",
 		"id": 1083095941630939100,
 		"id_str": "1083095941630939137",
