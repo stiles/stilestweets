@@ -59,6 +59,112 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 99120,
+			"friends_count": 3956,
+			"listed_count": 3032,
+			"created_at": "Fri Apr 23 15:00:15 +0000 2010",
+			"favourites_count": 3186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989591977179172864/vd8WjaRk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989591977179172864/vd8WjaRk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136300373/1536778066",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 136,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Paul Manafort filing just accidentally connected some big dots between the Trump campaign and Russia\n\nhttps://t.co/0KYCWvG7Ie"
+	},
+	{
+		"created_at": "Tue Jan 08 20:05:45 +0000 2019",
+		"id": 1082730096392310800,
+		"id_str": "1082730096392310790",
+		"full_text": "A Paul Manafort filing just accidentally connected some big dots between the Trump campaign and Russia\n\nhttps://t.co/0KYCWvG7Ie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0KYCWvG7Ie",
+					"expanded_url": "https://www.washingtonpost.com/politics/2019/01/08/paul-manaforts-lawyers-just-accidentally-connected-some-big-dots-between-trump-campaign-russia/",
+					"display_url": "washingtonpost.com/politics/2019/…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136300373,
+			"id_str": "136300373",
+			"name": "Aaron Blake",
+			"screen_name": "AaronBlake",
+			"location": "Washington, D.C./NoVa",
+			"description": "Senior political reporter, writing for The Fix at The Washington Post. aaron.blake@washpost.com",
+			"url": "https://t.co/qEi9zttg8S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qEi9zttg8S",
+							"expanded_url": "http://wapo.st/13B31dj",
+							"display_url": "wapo.st/13B31dj",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 99111,
 			"friends_count": 3956,
 			"listed_count": 3035,
