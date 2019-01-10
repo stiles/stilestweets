@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 19:10:34 +0000 2019",
+		"id": 1083078595231273000,
+		"id_str": "1083078595231272960",
+		"full_text": "According to publicly-available data on the 538 tracker, Trump's approval rating is the lowest that it's been in several months (since Sept. 22, 2018). https://t.co/j7XEedEnAf https://t.co/hbWGDUV4WP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j7XEedEnAf",
+					"expanded_url": "https://53eig.ht/2lYTN9X",
+					"display_url": "53eig.ht/2lYTN9X",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/hbWGDUV4WP",
+					"expanded_url": "https://twitter.com/parscale/status/1083076758986022912",
+					"display_url": "twitter.com/parscale/statu…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16017475,
+			"id_str": "16017475",
+			"name": "Nate Silver",
+			"screen_name": "NateSilver538",
+			"location": "New York",
+			"description": "Editor-in-Chief, @FiveThirtyEight. Author, The Signal and the Noise (https://t.co/EYTxvN6BLY). Sports/politics/food geek.",
+			"url": "http://t.co/wNpFg2xg4f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wNpFg2xg4f",
+							"expanded_url": "http://fivethirtyeight.com/",
+							"display_url": "fivethirtyeight.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/EYTxvN6BLY",
+							"expanded_url": "http://amzn.to/QdyFYV",
+							"display_url": "amzn.to/QdyFYV",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3188855,
+			"friends_count": 1132,
+			"listed_count": 30226,
+			"created_at": "Wed Aug 27 20:56:45 +0000 2008",
+			"favourites_count": 474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/668814368008708096/5HABV7bJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/668814368008708096/5HABV7bJ_normal.png",
+			"profile_link_color": "000092",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083076758986022900,
+		"quoted_status_id_str": "1083076758986022912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hbWGDUV4WP",
+			"expanded": "https://twitter.com/parscale/status/1083076758986022912",
+			"display": "twitter.com/parscale/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 09 19:03:16 +0000 2019",
+			"id": 1083076758986022900,
+			"id_str": "1083076758986022912",
+			"full_text": "Just received my newest voter score tracking from my team. @realDonaldTrump has reached his highest national approval rating since I started tracking. The @TheDemocrats have really made a mistake going with their gut over data.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							59,
+							75
+						]
+					},
+					{
+						"screen_name": "TheDemocrats",
+						"name": "The Democrats",
+						"id": 14377605,
+						"id_str": "14377605",
+						"indices": [
+							155,
+							168
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17685258,
+				"id_str": "17685258",
+				"name": "Brad Parscale",
+				"screen_name": "parscale",
+				"location": "Washington, DC",
+				"description": "Campaign Manager for @realdonaldtrump 2020 Presidential Campaign. It’s pronounced “Par” - “Scale”.",
+				"url": "https://t.co/ASxXRrNwZR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ASxXRrNwZR",
+								"expanded_url": "http://www.parscalestrategy.com",
+								"display_url": "parscalestrategy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196087,
+				"friends_count": 431,
+				"listed_count": 1702,
+				"created_at": "Thu Nov 27 18:47:32 +0000 2008",
+				"favourites_count": 776,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3482,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1056687491422543873/ofDprGIw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056687491422543873/ofDprGIw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17685258/1541960596",
+				"profile_link_color": "AB2316",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9043,
+			"favorite_count": 27241,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1315,
+		"favorite_count": 5005,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "According to publicly-available data on the 538 tracker, Trump's approval rating is the lowest that it's been in several months (since Sept. 22, 2018). https://t.co/j7XEedEnAf https://t.co/hbWGDUV4WP"
+	},
+	{
 		"created_at": "Wed Jan 09 23:55:36 +0000 2019",
 		"id": 1083150328462114800,
 		"id_str": "1083150328462114816",
