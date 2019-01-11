@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 02:51:18 +0000 2019",
+		"id": 1083556931594113000,
+		"id_str": "1083556931594113025",
+		"full_text": "Best-of-2018 news graphics/#dataviz lists:\nNYT https://t.co/MEKqpwJ5xd\nWaPo https://t.co/y2aOP9INSJ\nLAT https://t.co/H0u5viixAw\nWSJ https://t.co/1swUFXdKwp\nBloomberg https://t.co/g5JdzIxOfX\nReuters https://t.co/RCiQ3rS57x\nFT https://t.co/9FVugPMWar",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dataviz",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MEKqpwJ5xd",
+					"expanded_url": "https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/y2aOP9INSJ",
+					"expanded_url": "https://www.washingtonpost.com/graphics/2018/ns/best-graphics/",
+					"display_url": "washingtonpost.com/graphics/2018/…",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/H0u5viixAw",
+					"expanded_url": "https://www.latimes.com/projects/la-me-data-analysis-2018/",
+					"display_url": "latimes.com/projects/la-me…",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/1swUFXdKwp",
+					"expanded_url": "https://www.wsj.com/graphics/year-in-graphics-2018/",
+					"display_url": "wsj.com/graphics/year-…",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/g5JdzIxOfX",
+					"expanded_url": "https://www.bloomberg.com/graphics/2018-in-graphics/",
+					"display_url": "bloomberg.com/graphics/2018-…",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/RCiQ3rS57x",
+					"expanded_url": "https://graphics.reuters.com/YEAREND-2018/010081R1358/index.html",
+					"display_url": "graphics.reuters.com/YEAREND-2018/0…",
+					"indices": [
+						198,
+						221
+					]
+				},
+				{
+					"url": "https://t.co/9FVugPMWar",
+					"expanded_url": "https://www.ft.com/content/e9503b64-0a9a-11e9-9fe8-acdb36967cfc",
+					"display_url": "ft.com/content/e9503b…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30205873,
+			"id_str": "30205873",
+			"name": "Lisa Waananen Jones",
+			"screen_name": "lisawaananen",
+			"location": "",
+			"description": "Journalist, designer, teaching at @MurrowCollege. Previously with @nytgraphics and Columbia J-School. Here for the end-of-the-year lists and parenting tweets.",
+			"url": "http://t.co/N6iADnV9Sf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/N6iADnV9Sf",
+							"expanded_url": "http://lisawaananen.com",
+							"display_url": "lisawaananen.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 817,
+			"friends_count": 976,
+			"listed_count": 49,
+			"created_at": "Fri Apr 10 12:23:18 +0000 2009",
+			"favourites_count": 610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027653358406881280/rByUbNNB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027653358406881280/rByUbNNB_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best-of-2018 news graphics/#dataviz lists:\nNYT https://t.co/MEKqpwJ5xd\nWaPo https://t.co/y2aOP9INSJ\nLAT https://t.co/H0u5viixAw\nWSJ https://t.co/1swUFXdKwp\nBloomberg https://t.co/g5JdzIxOfX\nReuters https://t.co/RCiQ3rS57x\nFT https://t.co/9FVugPMWar"
+	},
+	{
 		"created_at": "Fri Jan 11 03:55:40 +0000 2019",
 		"id": 1083573129543184400,
 		"id_str": "1083573129543184384",
