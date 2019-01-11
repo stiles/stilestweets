@@ -159,6 +159,563 @@ Grailbird.data.tweets_2019_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best-of-2018 news graphics/#dataviz lists:\nNYT https://t.co/MEKqpwJ5xd\nWaPo https://t.co/y2aOP9INSJ\nLAT https://t.co/H0u5viixAw\nWSJ https://t.co/1swUFXdKwp\nBloomberg https://t.co/g5JdzIxOfX\nReuters https://t.co/RCiQ3rS57x\nFT https://t.co/9FVugPMWar"
+	},
+	{
+		"created_at": "Fri Jan 11 03:55:40 +0000 2019",
+		"id": 1083573129543184400,
+		"id_str": "1083573129543184384",
+		"full_text": "I think he’s speaking about heroin (most of which comes in through normal ports of entry, btw) here.\n\nSome context: We lose 23,000 Americans a week to heart disease and cancer. https://t.co/GppjM1hre7 https://t.co/RJQe2K0Du3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GppjM1hre7",
+					"expanded_url": "https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_05.pdf",
+					"display_url": "cdc.gov/nchs/data/nvsr…",
+					"indices": [
+						177,
+						200
+					]
+				},
+				{
+					"url": "https://t.co/RJQe2K0Du3",
+					"expanded_url": "https://twitter.com/realdonaldtrump/status/1083554782923632640",
+					"display_url": "twitter.com/realdonaldtrum…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10420,
+			"friends_count": 1417,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12668,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083554782923632600,
+		"quoted_status_id_str": "1083554782923632640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RJQe2K0Du3",
+			"expanded": "https://twitter.com/realdonaldtrump/status/1083554782923632640",
+			"display": "twitter.com/realdonaldtrum…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 02:42:46 +0000 2019",
+			"id": 1083554782923632600,
+			"id_str": "1083554782923632640",
+			"full_text": "We lose 300 Americans a week, 90% of which comes through the Southern Border. These numbers will be DRASTICALLY REDUCED if we have a Wall!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57162954,
+				"friends_count": 45,
+				"listed_count": 98768,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40190,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1543104015",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14530,
+			"favorite_count": 62385,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think he’s speaking about heroin (most of which comes in through normal ports of entry, btw) here.\n\nSome context: We lose 23,000 Americans a week to heart disease and cancer. https://t.co/GppjM1hre7 https://t.co/RJQe2K0Du3"
+	},
+	{
+		"created_at": "Fri Jan 11 03:38:37 +0000 2019",
+		"id": 1083568836970827800,
+		"id_str": "1083568836970827777",
+		"full_text": "Sometimes those paid content promos at the bottom of news stories are too good to resist. I found this gold behind one... https://t.co/CZVDCa6sd9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083568832193515500,
+					"id_str": "1083568832193515521",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/DwmcHKSUUAEVLci.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwmcHKSUUAEVLci.jpg",
+					"url": "https://t.co/CZVDCa6sd9",
+					"display_url": "pic.twitter.com/CZVDCa6sd9",
+					"expanded_url": "https://twitter.com/stiles/status/1083568836970827777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 710,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 710,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083568832193515500,
+					"id_str": "1083568832193515521",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/DwmcHKSUUAEVLci.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwmcHKSUUAEVLci.jpg",
+					"url": "https://t.co/CZVDCa6sd9",
+					"display_url": "pic.twitter.com/CZVDCa6sd9",
+					"expanded_url": "https://twitter.com/stiles/status/1083568836970827777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 710,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 710,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10420,
+			"friends_count": 1417,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12668,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes those paid content promos at the bottom of news stories are too good to resist. I found this gold behind one... https://t.co/CZVDCa6sd9"
+	},
+	{
+		"created_at": "Fri Jan 11 02:51:18 +0000 2019",
+		"id": 1083556931594113000,
+		"id_str": "1083556931594113025",
+		"full_text": "Best-of-2018 news graphics/#dataviz lists:\nNYT https://t.co/MEKqpwJ5xd\nWaPo https://t.co/y2aOP9INSJ\nLAT https://t.co/H0u5viixAw\nWSJ https://t.co/1swUFXdKwp\nBloomberg https://t.co/g5JdzIxOfX\nReuters https://t.co/RCiQ3rS57x\nFT https://t.co/9FVugPMWar",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dataviz",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MEKqpwJ5xd",
+					"expanded_url": "https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/y2aOP9INSJ",
+					"expanded_url": "https://www.washingtonpost.com/graphics/2018/ns/best-graphics/",
+					"display_url": "washingtonpost.com/graphics/2018/…",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/H0u5viixAw",
+					"expanded_url": "https://www.latimes.com/projects/la-me-data-analysis-2018/",
+					"display_url": "latimes.com/projects/la-me…",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/1swUFXdKwp",
+					"expanded_url": "https://www.wsj.com/graphics/year-in-graphics-2018/",
+					"display_url": "wsj.com/graphics/year-…",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/g5JdzIxOfX",
+					"expanded_url": "https://www.bloomberg.com/graphics/2018-in-graphics/",
+					"display_url": "bloomberg.com/graphics/2018-…",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/RCiQ3rS57x",
+					"expanded_url": "https://graphics.reuters.com/YEAREND-2018/010081R1358/index.html",
+					"display_url": "graphics.reuters.com/YEAREND-2018/0…",
+					"indices": [
+						198,
+						221
+					]
+				},
+				{
+					"url": "https://t.co/9FVugPMWar",
+					"expanded_url": "https://www.ft.com/content/e9503b64-0a9a-11e9-9fe8-acdb36967cfc",
+					"display_url": "ft.com/content/e9503b…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30205873,
+			"id_str": "30205873",
+			"name": "Lisa Waananen Jones",
+			"screen_name": "lisawaananen",
+			"location": "",
+			"description": "Journalist, designer, teaching at @MurrowCollege. Previously with @nytgraphics and Columbia J-School. Here for the end-of-the-year lists and parenting tweets.",
+			"url": "http://t.co/N6iADnV9Sf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/N6iADnV9Sf",
+							"expanded_url": "http://lisawaananen.com",
+							"display_url": "lisawaananen.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 817,
+			"friends_count": 976,
+			"listed_count": 49,
+			"created_at": "Fri Apr 10 12:23:18 +0000 2009",
+			"favourites_count": 610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027653358406881280/rByUbNNB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027653358406881280/rByUbNNB_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
 		"retweet_count": 1,
 		"favorite_count": 3,
 		"favorited": false,
