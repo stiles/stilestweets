@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 23:40:51 +0000 2019",
+		"id": 1083871391399571500,
+		"id_str": "1083871391399571456",
+		"full_text": "74% of Americans say the government shutdown is \"embarrassing for the country,\" according to a new @nprnews poll. https://t.co/OpdNnGrgj6 (Nice graphic by @alykat) https://t.co/KFCoDcT5k4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nprnews",
+					"name": "NPR",
+					"id": 3386439610,
+					"id_str": "3386439610",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"screen_name": "alykat",
+					"name": "Alyson Hurt",
+					"id": 6627892,
+					"id_str": "6627892",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OpdNnGrgj6",
+					"expanded_url": "https://www.npr.org/2019/01/11/684300134/most-americans-call-shutdown-embarrassing-as-it-s-set-to-become-longest-in-histo?utm_source=WTF+Just+Happened+Today%3F&utm_campaign=ecb058f0ce-EMAIL_CAMPAIGN_2019_01_11_10_11&utm_medium=email&utm_term=0_9813b73b1a-ecb058f0ce-176352217",
+					"display_url": "npr.org/2019/01/11/684…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083871335263146000,
+					"id_str": "1083871335263145985",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/DwqvPKCWkAEioSG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwqvPKCWkAEioSG.jpg",
+					"url": "https://t.co/KFCoDcT5k4",
+					"display_url": "pic.twitter.com/KFCoDcT5k4",
+					"expanded_url": "https://twitter.com/stiles/status/1083871391399571456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083871335263146000,
+					"id_str": "1083871335263145985",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/DwqvPKCWkAEioSG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwqvPKCWkAEioSG.jpg",
+					"url": "https://t.co/KFCoDcT5k4",
+					"display_url": "pic.twitter.com/KFCoDcT5k4",
+					"expanded_url": "https://twitter.com/stiles/status/1083871391399571456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1417,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12672,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "74% of Americans say the government shutdown is \"embarrassing for the country,\" according to a new @nprnews poll. https://t.co/OpdNnGrgj6 (Nice graphic by @alykat) https://t.co/KFCoDcT5k4"
+	},
+	{
 		"created_at": "Fri Jan 11 20:34:20 +0000 2019",
 		"id": 1083824452272439300,
 		"id_str": "1083824452272439296",
