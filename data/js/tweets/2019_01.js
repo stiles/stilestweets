@@ -1,6 +1,1106 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 01:47:35 +0000 2019",
+		"id": 1083903284203515900,
+		"id_str": "1083903284203515905",
+		"full_text": "NBD https://t.co/URBynmOiFR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/URBynmOiFR",
+					"expanded_url": "https://twitter.com/maggienyt/status/1083897673290342401",
+					"display_url": "twitter.com/maggienyt/stat…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1417,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12676,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083897673290342400,
+		"quoted_status_id_str": "1083897673290342401",
+		"quoted_status_permalink": {
+			"url": "https://t.co/URBynmOiFR",
+			"expanded": "https://twitter.com/maggienyt/status/1083897673290342401",
+			"display": "twitter.com/maggienyt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 12 01:25:17 +0000 2019",
+			"id": 1083897673290342400,
+			"id_str": "1083897673290342401",
+			"full_text": "NEWS: the FBI opened an inquiry into whether Trump was secretly working on behalf of Russia ⁦@adamgoldmanNYT⁩ ⁦@nytmike⁩ ⁦@npfandos⁩  https://t.co/Tl24jU94gw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "adamgoldmanNYT",
+						"name": "Adam Goldman",
+						"id": 21534951,
+						"id_str": "21534951",
+						"indices": [
+							93,
+							108
+						]
+					},
+					{
+						"screen_name": "nytmike",
+						"name": "Michael S. Schmidt",
+						"id": 17436250,
+						"id_str": "17436250",
+						"indices": [
+							111,
+							119
+						]
+					},
+					{
+						"screen_name": "npfandos",
+						"name": "Nicholas Fandos",
+						"id": 782806500,
+						"id_str": "782806500",
+						"indices": [
+							122,
+							131
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Tl24jU94gw",
+						"expanded_url": "https://www.nytimes.com/2019/01/11/us/politics/fbi-trump-russia-inquiry.html",
+						"display_url": "nytimes.com/2019/01/11/us/…",
+						"indices": [
+							134,
+							157
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93069110,
+				"id_str": "93069110",
+				"name": "Maggie Haberman",
+				"screen_name": "maggieNYT",
+				"location": "",
+				"description": "White House correspondent for NYTimes, analyst for CNN. RTs don't imply agreement. maggie.haberman@nytimes.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1026400,
+				"friends_count": 3743,
+				"listed_count": 13485,
+				"created_at": "Fri Nov 27 23:14:06 +0000 2009",
+				"favourites_count": 45575,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 192955,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1066778002997067777/hexcGQf7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066778002997067777/hexcGQf7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93069110/1487303247",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 882,
+			"favorite_count": 1884,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "NBD https://t.co/URBynmOiFR"
+	},
+	{
+		"created_at": "Fri Jan 11 23:08:10 +0000 2019",
+		"id": 1083863167342657500,
+		"id_str": "1083863167342657536",
+		"full_text": "We made a thing https://t.co/06R8I0wQHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/06R8I0wQHE",
+					"expanded_url": "https://twitter.com/postgraphics/status/1083838969832460288",
+					"display_url": "twitter.com/postgraphics/s…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15401231,
+			"id_str": "15401231",
+			"name": "aaron steckelberg",
+			"screen_name": "asteckelberg",
+			"location": "",
+			"description": "Senior Graphics Editor, The Washington Post",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 489,
+			"friends_count": 655,
+			"listed_count": 47,
+			"created_at": "Sat Jul 12 05:44:14 +0000 2008",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 308,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5B4E3E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080494477750476801/Ym4KKv9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080494477750476801/Ym4KKv9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15401231/1468080246",
+			"profile_link_color": "2F81EF",
+			"profile_sidebar_border_color": "26243D",
+			"profile_sidebar_fill_color": "8CE3F8",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083838969832460300,
+		"quoted_status_id_str": "1083838969832460288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/06R8I0wQHE",
+			"expanded": "https://twitter.com/postgraphics/status/1083838969832460288",
+			"display": "twitter.com/postgraphics/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 21:32:01 +0000 2019",
+			"id": 1083838969832460300,
+			"id_str": "1083838969832460288",
+			"full_text": "Trump has consistently rallied for a new border wall. What he thinks the wall should look like has been less than consistent. https://t.co/e5oDxeLm1h https://t.co/djG0EWBcBa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/e5oDxeLm1h",
+						"expanded_url": "https://wapo.st/2D53hsI",
+						"display_url": "wapo.st/2D53hsI",
+						"indices": [
+							126,
+							149
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1083838957765435400,
+						"id_str": "1083838957765435397",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwqRyidWoAU19Lb.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwqRyidWoAU19Lb.jpg",
+						"url": "https://t.co/djG0EWBcBa",
+						"display_url": "pic.twitter.com/djG0EWBcBa",
+						"expanded_url": "https://twitter.com/PostGraphics/status/1083838969832460288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 329,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 580,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 580,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1083838957765435400,
+						"id_str": "1083838957765435397",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwqRyidWoAU19Lb.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwqRyidWoAU19Lb.jpg",
+						"url": "https://t.co/djG0EWBcBa",
+						"display_url": "pic.twitter.com/djG0EWBcBa",
+						"expanded_url": "https://twitter.com/PostGraphics/status/1083838969832460288/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 329,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 580,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 580,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								60,
+								29
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DwqRyidWoAU19Lb.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87968068,
+				"id_str": "87968068",
+				"name": "Post Graphics",
+				"screen_name": "PostGraphics",
+				"location": "Washington, D.C.",
+				"description": "Interactive graphics, visualizations and maps from The Washington Post. Follow us: https://t.co/0vIN5nxgDM Work with us: https://t.co/l5P41ee0T1",
+				"url": "http://t.co/Hq7hTY3dqG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Hq7hTY3dqG",
+								"expanded_url": "http://washingtonpost.com",
+								"display_url": "washingtonpost.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0vIN5nxgDM",
+								"expanded_url": "http://wapo.st/postgraphics-staff",
+								"display_url": "wapo.st/postgraphics-s…",
+								"indices": [
+									83,
+									106
+								]
+							},
+							{
+								"url": "https://t.co/l5P41ee0T1",
+								"expanded_url": "http://wapo.st/graphics-jobs",
+								"display_url": "wapo.st/graphics-jobs",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 46574,
+				"friends_count": 29,
+				"listed_count": 2179,
+				"created_at": "Fri Nov 06 15:52:27 +0000 2009",
+				"favourites_count": 319,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7791,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079757980793520128/GxC_nKEe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079757980793520128/GxC_nKEe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87968068/1469482589",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We made a thing https://t.co/06R8I0wQHE"
+	},
+	{
+		"created_at": "Sat Jan 12 00:55:24 +0000 2019",
+		"id": 1083890150759837700,
+		"id_str": "1083890150759837696",
+		"full_text": "Trump's demand that South Korea pay more for U.S. troops leads to impasse https://t.co/HULAxtycRe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HULAxtycRe",
+					"expanded_url": "https://www.latimes.com/nation/la-na-pol-trump-korea-troops-20190111-story.html",
+					"display_url": "latimes.com/nation/la-na-p…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1417,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12676,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump's demand that South Korea pay more for U.S. troops leads to impasse https://t.co/HULAxtycRe"
+	},
+	{
+		"created_at": "Sat Jan 12 00:49:33 +0000 2019",
+		"id": 1083888679062429700,
+		"id_str": "1083888679062429696",
+		"full_text": "As it develops rules of the road, L.A. County considers a voluntary ban on electric scooters deployed by companies like @BirdRide, @limebike, et al., for the 1 million residents who live in unincorporated areas. https://t.co/4Q49RC2CVZ https://t.co/9dyRxcRt8n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BirdRide",
+					"name": "Bird",
+					"id": 907400253455835100,
+					"id_str": "907400253455835136",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"screen_name": "limebike",
+					"name": "Lime",
+					"id": 3316290844,
+					"id_str": "3316290844",
+					"indices": [
+						131,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Q49RC2CVZ",
+					"expanded_url": "https://lat.ms/2M4yDTa",
+					"display_url": "lat.ms/2M4yDTa",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083888322957652000,
+					"id_str": "1083888322957651968",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwq-r-IVsAA6rtx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwq-r-IVsAA6rtx.jpg",
+					"url": "https://t.co/9dyRxcRt8n",
+					"display_url": "pic.twitter.com/9dyRxcRt8n",
+					"expanded_url": "https://twitter.com/stiles/status/1083888679062429696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083888322957652000,
+					"id_str": "1083888322957651968",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwq-r-IVsAA6rtx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwq-r-IVsAA6rtx.jpg",
+					"url": "https://t.co/9dyRxcRt8n",
+					"display_url": "pic.twitter.com/9dyRxcRt8n",
+					"expanded_url": "https://twitter.com/stiles/status/1083888679062429696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1417,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12676,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As it develops rules of the road, L.A. County considers a voluntary ban on electric scooters deployed by companies like @BirdRide, @limebike, et al., for the 1 million residents who live in unincorporated areas. https://t.co/4Q49RC2CVZ https://t.co/9dyRxcRt8n"
+	},
+	{
+		"created_at": "Fri Jan 11 23:40:51 +0000 2019",
+		"id": 1083871391399571500,
+		"id_str": "1083871391399571456",
+		"full_text": "74% of Americans say the government shutdown is \"embarrassing for the country,\" according to a new @nprnews poll. https://t.co/OpdNnGrgj6 (Nice graphic by @alykat) https://t.co/KFCoDcT5k4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nprnews",
+					"name": "NPR",
+					"id": 3386439610,
+					"id_str": "3386439610",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"screen_name": "alykat",
+					"name": "Alyson Hurt",
+					"id": 6627892,
+					"id_str": "6627892",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OpdNnGrgj6",
+					"expanded_url": "https://www.npr.org/2019/01/11/684300134/most-americans-call-shutdown-embarrassing-as-it-s-set-to-become-longest-in-histo?utm_source=WTF+Just+Happened+Today%3F&utm_campaign=ecb058f0ce-EMAIL_CAMPAIGN_2019_01_11_10_11&utm_medium=email&utm_term=0_9813b73b1a-ecb058f0ce-176352217",
+					"display_url": "npr.org/2019/01/11/684…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083871335263146000,
+					"id_str": "1083871335263145985",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/DwqvPKCWkAEioSG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwqvPKCWkAEioSG.jpg",
+					"url": "https://t.co/KFCoDcT5k4",
+					"display_url": "pic.twitter.com/KFCoDcT5k4",
+					"expanded_url": "https://twitter.com/stiles/status/1083871391399571456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083871335263146000,
+					"id_str": "1083871335263145985",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/DwqvPKCWkAEioSG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwqvPKCWkAEioSG.jpg",
+					"url": "https://t.co/KFCoDcT5k4",
+					"display_url": "pic.twitter.com/KFCoDcT5k4",
+					"expanded_url": "https://twitter.com/stiles/status/1083871391399571456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10422,
+			"friends_count": 1417,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12676,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "74% of Americans say the government shutdown is \"embarrassing for the country,\" according to a new @nprnews poll. https://t.co/OpdNnGrgj6 (Nice graphic by @alykat) https://t.co/KFCoDcT5k4"
+	},
+	{
 		"created_at": "Fri Jan 11 23:08:10 +0000 2019",
 		"id": 1083863167342657500,
 		"id_str": "1083863167342657536",
