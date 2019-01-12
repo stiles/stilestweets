@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 15:25:50 +0000 2019",
+		"id": 1083746814606667800,
+		"id_str": "1083746814606667776",
+		"full_text": "Hundreds of years before John Wayne and Gary Cooper gave us a Hollywood version of the American West, with men as the brute, weather-beaten stewards of the land, female ranchers roamed the frontier. \n\nMy words, with photos by @amandaslucier \n\nhttps://t.co/EaDUg39Bda",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amandaslucier",
+					"name": "Amanda Lucier",
+					"id": 60213750,
+					"id_str": "60213750",
+					"indices": [
+						226,
+						240
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EaDUg39Bda",
+					"expanded_url": "https://www.nytimes.com/2019/01/11/business/women-ranchers-american-west-photo-essay.html",
+					"display_url": "nytimes.com/2019/01/11/bus…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1083746494514122800,
+		"in_reply_to_status_id_str": "1083746494514122753",
+		"in_reply_to_user_id": 119491006,
+		"in_reply_to_user_id_str": "119491006",
+		"in_reply_to_screen_name": "amychozick",
+		"user": {
+			"id": 119491006,
+			"id_str": "119491006",
+			"name": "Amy Chozick",
+			"screen_name": "amychozick",
+			"location": "New York, NY",
+			"description": "Author of New York Times bestseller CHASING HILLARY. Mom to Cormac. NYT writer-at-large. Native Texan. Former Tokyo correspondent. https://t.co/XuSpEMQutV",
+			"url": "https://t.co/ZsnFifX7l6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZsnFifX7l6",
+							"expanded_url": "http://www.amychozick.com",
+							"display_url": "amychozick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XuSpEMQutV",
+							"expanded_url": "http://bit.ly/2IqKOHB",
+							"display_url": "bit.ly/2IqKOHB",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 58156,
+			"friends_count": 1948,
+			"listed_count": 1983,
+			"created_at": "Wed Mar 03 20:30:26 +0000 2010",
+			"favourites_count": 19057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903309265103986692/yfmPrPPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903309265103986692/yfmPrPPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119491006/1525974163",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "E8E15D",
+			"profile_sidebar_fill_color": "D4AA77",
+			"profile_text_color": "3D2C2B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hundreds of years before John Wayne and Gary Cooper gave us a Hollywood version of the American West, with men as the brute, weather-beaten stewards of the land, female ranchers roamed the frontier. \n\nMy words, with photos by @amandaslucier \n\nhttps://t.co/EaDUg39Bda"
+	},
+	{
+		"created_at": "Sat Jan 12 15:07:50 +0000 2019",
+		"id": 1084104671424176100,
+		"id_str": "1084104671424176129",
+		"full_text": "There’s an archived tweet for every occasion... https://t.co/NIGMEG5HyO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NIGMEG5HyO",
+					"expanded_url": "https://twitter.com/sarahhuckabee/status/794255968448020480",
+					"display_url": "twitter.com/sarahhuckabee/…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 1416,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12678,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 794255968448020500,
+		"quoted_status_id_str": "794255968448020480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NIGMEG5HyO",
+			"expanded": "https://twitter.com/sarahhuckabee/status/794255968448020480",
+			"display": "twitter.com/sarahhuckabee/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 03 19:12:34 +0000 2016",
+			"id": 794255968448020500,
+			"id_str": "794255968448020480",
+			"full_text": "When you're attacking FBI agents because you're under criminal investigation, you're losing https://t.co/SIoAxatCjp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SIoAxatCjp",
+						"expanded_url": "https://twitter.com/politicalwire/status/794255050243801090",
+						"display_url": "twitter.com/politicalwire/…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5509762,
+				"id_str": "5509762",
+				"name": "Sarah Sanders",
+				"screen_name": "SarahHuckabee",
+				"location": "Washington, DC",
+				"description": "Personal account, Christian, wife to @Sanders_Bryan, mom to three, daughter of @GovMikeHuckabee and proud Arkansan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 303218,
+				"friends_count": 2407,
+				"listed_count": 1567,
+				"created_at": "Wed Apr 25 22:00:29 +0000 2007",
+				"favourites_count": 564,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3657,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960258082105421824/CN728ovb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960258082105421824/CN728ovb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5509762/1517778454",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 794255050243801100,
+			"quoted_status_id_str": "794255050243801090",
+			"quoted_status_permalink": {
+				"url": "https://t.co/SIoAxatCjp",
+				"expanded": "https://twitter.com/politicalwire/status/794255050243801090",
+				"display": "twitter.com/politicalwire/…"
+			},
+			"retweet_count": 62999,
+			"favorite_count": 69417,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There’s an archived tweet for every occasion... https://t.co/NIGMEG5HyO"
+	},
+	{
 		"created_at": "Sat Jan 12 01:47:35 +0000 2019",
 		"id": 1083903284203515900,
 		"id_str": "1083903284203515905",
