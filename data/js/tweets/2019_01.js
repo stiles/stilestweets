@@ -1,6 +1,935 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 18:12:34 +0000 2019",
+		"id": 1084151164021526500,
+		"id_str": "1084151164021526528",
+		"full_text": "Smart story by @AlpertReyes about South L.A. residents fighting to get city code enforcement in their community.  https://t.co/BxanyBt8Vv https://t.co/Euqh4GOujd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlpertReyes",
+					"name": "Emily Alpert Reyes",
+					"id": 25458792,
+					"id_str": "25458792",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BxanyBt8Vv",
+					"expanded_url": "https://lat.ms/2SQMxej",
+					"display_url": "lat.ms/2SQMxej",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084151085688733700,
+					"id_str": "1084151085688733696",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/DwutqxlUwAATwzE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwutqxlUwAATwzE.jpg",
+					"url": "https://t.co/Euqh4GOujd",
+					"display_url": "pic.twitter.com/Euqh4GOujd",
+					"expanded_url": "https://twitter.com/stiles/status/1084151164021526528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084151085688733700,
+					"id_str": "1084151085688733696",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/DwutqxlUwAATwzE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwutqxlUwAATwzE.jpg",
+					"url": "https://t.co/Euqh4GOujd",
+					"display_url": "pic.twitter.com/Euqh4GOujd",
+					"expanded_url": "https://twitter.com/stiles/status/1084151164021526528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 1416,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12682,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Smart story by @AlpertReyes about South L.A. residents fighting to get city code enforcement in their community.  https://t.co/BxanyBt8Vv https://t.co/Euqh4GOujd"
+	},
+	{
+		"created_at": "Sat Jan 12 05:16:24 +0000 2019",
+		"id": 1083955834613350400,
+		"id_str": "1083955834613350400",
+		"full_text": "Will never forget the minute NYT broke that Trump told Russian officials in the Oval Office that firing the “nut job” Comey relieved pressure off him in Russia probe. Screamed words across POLITICO newsroom not printable on here. Still among wildest days of all -- 2 years in.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38936142,
+			"id_str": "38936142",
+			"name": "Josh Dawsey",
+			"screen_name": "jdawsey1",
+			"location": "DC",
+			"description": "White House Reporter @WashingtonPost. @CNN analyst. WSJ & POLITICO alum. Carolinian & New Yorker at heart. Cigar, Bruce & bourbon aficionado. Loud phone talker.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 177978,
+			"friends_count": 2551,
+			"listed_count": 2903,
+			"created_at": "Sat May 09 21:54:29 +0000 2009",
+			"favourites_count": 29769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079930059761336320/T-81wspz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079930059761336320/T-81wspz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38936142/1542467648",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1734,
+		"favorite_count": 7371,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Will never forget the minute NYT broke that Trump told Russian officials in the Oval Office that firing the “nut job” Comey relieved pressure off him in Russia probe. Screamed words across POLITICO newsroom not printable on here. Still among wildest days of all -- 2 years in."
+	},
+	{
+		"created_at": "Fri Jan 11 23:12:38 +0000 2019",
+		"id": 1083864290900103200,
+		"id_str": "1083864290900103168",
+		"full_text": "When So. Calif.'s oft dissed shrublands burn too often, they convert to quick-to-dry invasive grasses that are of little ecological value, don’t anchor the soil as well as deep-rooted chaparral plants and ignite easily, fueling more and more fires.    https://t.co/ClJR3dpAwt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ClJR3dpAwt",
+					"expanded_url": "https://lat.ms/2AFWXpU",
+					"display_url": "lat.ms/2AFWXpU",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16637461,
+			"id_str": "16637461",
+			"name": "Bettina Boxall",
+			"screen_name": "boxall",
+			"location": "Los Angeles",
+			"description": "Covers western water issues and the environment for The Los Angeles Times.",
+			"url": "http://t.co/2ik2Iivj4T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2ik2Iivj4T",
+							"expanded_url": "http://www.latimes.com/news/science/environment/",
+							"display_url": "latimes.com/news/science/e…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3193,
+			"friends_count": 656,
+			"listed_count": 235,
+			"created_at": "Tue Oct 07 21:32:47 +0000 2008",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3546,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000013312753/083ec6446b890551985a17a46a4f2e30_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000013312753/083ec6446b890551985a17a46a4f2e30_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16637461/1377622737",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When So. Calif.'s oft dissed shrublands burn too often, they convert to quick-to-dry invasive grasses that are of little ecological value, don’t anchor the soil as well as deep-rooted chaparral plants and ignite easily, fueling more and more fires.    https://t.co/ClJR3dpAwt"
+	},
+	{
+		"created_at": "Sat Jan 12 15:59:38 +0000 2019",
+		"id": 1084117707664965600,
+		"id_str": "1084117707664965632",
+		"full_text": "And...? https://t.co/Let4zSz7Qn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Let4zSz7Qn",
+					"expanded_url": "https://twitter.com/realdonaldtrump/status/1084117143988461571",
+					"display_url": "twitter.com/realdonaldtrum…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 1416,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12682,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084117143988461600,
+		"quoted_status_id_str": "1084117143988461571",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Let4zSz7Qn",
+			"expanded": "https://twitter.com/realdonaldtrump/status/1084117143988461571",
+			"display": "twitter.com/realdonaldtrum…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 12 15:57:23 +0000 2019",
+			"id": 1084117143988461600,
+			"id_str": "1084117143988461571",
+			"full_text": "I just watched a Fake reporter from the Amazon Washington Post say the White House is “chaotic, there does not seem to be a strategy for this Shutdown. There is no plan.” The Fakes always like talking Chaos, there is NONE. In fact, there’s almost nobody in the W.H. but me, and...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57215164,
+				"friends_count": 45,
+				"listed_count": 98794,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40212,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1543104015",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10438,
+			"favorite_count": 43398,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "And...? https://t.co/Let4zSz7Qn"
+	},
+	{
+		"created_at": "Fri Jan 11 15:25:50 +0000 2019",
+		"id": 1083746814606667800,
+		"id_str": "1083746814606667776",
+		"full_text": "Hundreds of years before John Wayne and Gary Cooper gave us a Hollywood version of the American West, with men as the brute, weather-beaten stewards of the land, female ranchers roamed the frontier. \n\nMy words, with photos by @amandaslucier \n\nhttps://t.co/EaDUg39Bda",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amandaslucier",
+					"name": "Amanda Lucier",
+					"id": 60213750,
+					"id_str": "60213750",
+					"indices": [
+						226,
+						240
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EaDUg39Bda",
+					"expanded_url": "https://www.nytimes.com/2019/01/11/business/women-ranchers-american-west-photo-essay.html",
+					"display_url": "nytimes.com/2019/01/11/bus…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1083746494514122800,
+		"in_reply_to_status_id_str": "1083746494514122753",
+		"in_reply_to_user_id": 119491006,
+		"in_reply_to_user_id_str": "119491006",
+		"in_reply_to_screen_name": "amychozick",
+		"user": {
+			"id": 119491006,
+			"id_str": "119491006",
+			"name": "Amy Chozick",
+			"screen_name": "amychozick",
+			"location": "New York, NY",
+			"description": "Author of New York Times bestseller CHASING HILLARY. Mom to Cormac. NYT writer-at-large. Native Texan. Former Tokyo correspondent. https://t.co/XuSpEMQutV",
+			"url": "https://t.co/ZsnFifX7l6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZsnFifX7l6",
+							"expanded_url": "http://www.amychozick.com",
+							"display_url": "amychozick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XuSpEMQutV",
+							"expanded_url": "http://bit.ly/2IqKOHB",
+							"display_url": "bit.ly/2IqKOHB",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 58165,
+			"friends_count": 1949,
+			"listed_count": 1983,
+			"created_at": "Wed Mar 03 20:30:26 +0000 2010",
+			"favourites_count": 19062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12178,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903309265103986692/yfmPrPPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903309265103986692/yfmPrPPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119491006/1525974163",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "E8E15D",
+			"profile_sidebar_fill_color": "D4AA77",
+			"profile_text_color": "3D2C2B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hundreds of years before John Wayne and Gary Cooper gave us a Hollywood version of the American West, with men as the brute, weather-beaten stewards of the land, female ranchers roamed the frontier. \n\nMy words, with photos by @amandaslucier \n\nhttps://t.co/EaDUg39Bda"
+	},
+	{
+		"created_at": "Sat Jan 12 15:07:50 +0000 2019",
+		"id": 1084104671424176100,
+		"id_str": "1084104671424176129",
+		"full_text": "There’s an archived tweet for every occasion... https://t.co/NIGMEG5HyO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NIGMEG5HyO",
+					"expanded_url": "https://twitter.com/sarahhuckabee/status/794255968448020480",
+					"display_url": "twitter.com/sarahhuckabee/…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 1416,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12682,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 794255968448020500,
+		"quoted_status_id_str": "794255968448020480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NIGMEG5HyO",
+			"expanded": "https://twitter.com/sarahhuckabee/status/794255968448020480",
+			"display": "twitter.com/sarahhuckabee/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 03 19:12:34 +0000 2016",
+			"id": 794255968448020500,
+			"id_str": "794255968448020480",
+			"full_text": "When you're attacking FBI agents because you're under criminal investigation, you're losing https://t.co/SIoAxatCjp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SIoAxatCjp",
+						"expanded_url": "https://twitter.com/politicalwire/status/794255050243801090",
+						"display_url": "twitter.com/politicalwire/…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5509762,
+				"id_str": "5509762",
+				"name": "Sarah Sanders",
+				"screen_name": "SarahHuckabee",
+				"location": "Washington, DC",
+				"description": "Personal account, Christian, wife to @Sanders_Bryan, mom to three, daughter of @GovMikeHuckabee and proud Arkansan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 303307,
+				"friends_count": 2407,
+				"listed_count": 1566,
+				"created_at": "Wed Apr 25 22:00:29 +0000 2007",
+				"favourites_count": 564,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3657,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960258082105421824/CN728ovb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960258082105421824/CN728ovb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5509762/1517778454",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 794255050243801100,
+			"quoted_status_id_str": "794255050243801090",
+			"quoted_status_permalink": {
+				"url": "https://t.co/SIoAxatCjp",
+				"expanded": "https://twitter.com/politicalwire/status/794255050243801090",
+				"display": "twitter.com/politicalwire/…"
+			},
+			"retweet_count": 63909,
+			"favorite_count": 70198,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There’s an archived tweet for every occasion... https://t.co/NIGMEG5HyO"
+	},
+	{
 		"created_at": "Sat Jan 12 05:16:24 +0000 2019",
 		"id": 1083955834613350400,
 		"id_str": "1083955834613350400",
