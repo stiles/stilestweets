@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 13 01:39:06 +0000 2019",
+		"id": 1084263537504075800,
+		"id_str": "1084263537504075777",
+		"full_text": "Now is the time for all good men (and women) to come to the aid of their country https://t.co/CHkIZnocW6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CHkIZnocW6",
+					"expanded_url": "https://www.washingtonpost.com/world/national-security/trump-has-concealed-details-of-his-face-to-face-encounters-with-putin-from-senior-officials-in-administration/2019/01/12/65f6686c-1434-11e9-b6ad-9cfd62dbb0a8_story.html",
+					"display_url": "washingtonpost.com/world/national…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1034205948007645200,
+			"id_str": "1034205948007645184",
+			"name": "Law Offices of David H. Laufman, PLLC",
+			"screen_name": "DavidLaufmanLaw",
+			"location": "Washington, DC",
+			"description": "Government investigations, national security matters, and compliance counseling. Former Chief of Counterintelligence & Export Control Section at Justice Dept.",
+			"url": "https://t.co/qUVEKqCcDb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qUVEKqCcDb",
+							"expanded_url": "http://www.davidlaufmanlaw.com",
+							"display_url": "davidlaufmanlaw.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1694,
+			"friends_count": 57,
+			"listed_count": 20,
+			"created_at": "Mon Aug 27 22:28:07 +0000 2018",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034207602727628801/imEvklvQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034207602727628801/imEvklvQ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 900,
+		"favorite_count": 2007,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now is the time for all good men (and women) to come to the aid of their country https://t.co/CHkIZnocW6"
+	},
+	{
+		"created_at": "Sun Jan 13 01:40:06 +0000 2019",
+		"id": 1084263787249705000,
+		"id_str": "1084263787249704960",
+		"full_text": "Child’s Favorite Restaurant Also Dad’s Favorite Bar https://t.co/kCPp1EyrcS https://t.co/JzBal8aZ6Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kCPp1EyrcS",
+					"expanded_url": "https://trib.al/yVa2e31",
+					"display_url": "trib.al/yVa2e31",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084263785462972400,
+					"id_str": "1084263785462972416",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DwwUKw9XQAABOaT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwwUKw9XQAABOaT.jpg",
+					"url": "https://t.co/JzBal8aZ6Z",
+					"display_url": "pic.twitter.com/JzBal8aZ6Z",
+					"expanded_url": "https://twitter.com/TheOnion/status/1084263787249704960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084263785462972400,
+					"id_str": "1084263785462972416",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DwwUKw9XQAABOaT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwwUKw9XQAABOaT.jpg",
+					"url": "https://t.co/JzBal8aZ6Z",
+					"display_url": "pic.twitter.com/JzBal8aZ6Z",
+					"expanded_url": "https://twitter.com/TheOnion/status/1084263787249704960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14075928,
+			"id_str": "14075928",
+			"name": "The Onion",
+			"screen_name": "TheOnion",
+			"location": "",
+			"description": "America's Finest News Source.",
+			"url": "https://t.co/EIF811U9ds",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EIF811U9ds",
+							"expanded_url": "https://www.theonion.com/",
+							"display_url": "theonion.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11029650,
+			"friends_count": 14,
+			"listed_count": 74093,
+			"created_at": "Tue Mar 04 02:48:37 +0000 2008",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 64977,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875392068125769732/yrN-1k0Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875392068125769732/yrN-1k0Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14075928/1529705818",
+			"profile_link_color": "327144",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 433,
+		"favorite_count": 3483,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Child’s Favorite Restaurant Also Dad’s Favorite Bar https://t.co/kCPp1EyrcS https://t.co/JzBal8aZ6Z"
+	},
+	{
 		"created_at": "Sun Jan 13 01:40:06 +0000 2019",
 		"id": 1084263787249705000,
 		"id_str": "1084263787249704960",
