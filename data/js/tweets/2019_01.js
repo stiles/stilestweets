@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 13 22:09:04 +0000 2019",
+		"id": 1084573066271682600,
+		"id_str": "1084573066271682560",
+		"full_text": "🤓 #NICAR19 🤓\n\nSeats are still open for a class I'm teaching in Newport Beach with @irisslee, @aboutaaron and @sahilchinoy.\n\nIt's called \"First Observable Notebook.\" \n\nIt will show how to use @observablehq, a powerful new tool in our field.\n\nHere are 5 reasons you should care. https://t.co/D8z4w2DtVS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NICAR19",
+					"indices": [
+						2,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "irisslee",
+					"name": "Iris Lee",
+					"id": 374034656,
+					"id_str": "374034656",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"screen_name": "aboutaaron",
+					"name": "Aaron Colby Williams",
+					"id": 14657786,
+					"id_str": "14657786",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"screen_name": "sahilchinoy",
+					"name": "Sahil Chinoy",
+					"id": 23888623,
+					"id_str": "23888623",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"screen_name": "observablehq",
+					"name": "Observable",
+					"id": 905255756789825500,
+					"id_str": "905255756789825536",
+					"indices": [
+						191,
+						204
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084572232729284600,
+					"id_str": "1084572232729284609",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dw0sswkU0AEEUBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dw0sswkU0AEEUBU.jpg",
+					"url": "https://t.co/D8z4w2DtVS",
+					"display_url": "pic.twitter.com/D8z4w2DtVS",
+					"expanded_url": "https://twitter.com/palewire/status/1084573066271682560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 428,
+							"h": 416,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 428,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 416,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084572232729284600,
+					"id_str": "1084572232729284609",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dw0sswkU0AEEUBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dw0sswkU0AEEUBU.jpg",
+					"url": "https://t.co/D8z4w2DtVS",
+					"display_url": "pic.twitter.com/D8z4w2DtVS",
+					"expanded_url": "https://twitter.com/palewire/status/1084573066271682560/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 428,
+							"h": 416,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 428,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 416,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							107,
+							104
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dw0sswkU0AEEUBU.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+			"url": "https://t.co/kogJ0fJceo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kogJ0fJceo",
+							"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lZvqTdDOmO",
+							"expanded_url": "http://www.californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8440,
+			"friends_count": 3021,
+			"listed_count": 693,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 53307,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🤓 #NICAR19 🤓\n\nSeats are still open for a class I'm teaching in Newport Beach with @irisslee, @aboutaaron and @sahilchinoy.\n\nIt's called \"First Observable Notebook.\" \n\nIt will show how to use @observablehq, a powerful new tool in our field.\n\nHere are 5 reasons you should care. https://t.co/D8z4w2DtVS"
+	},
+	{
 		"created_at": "Sun Jan 13 15:03:45 +0000 2019",
 		"id": 1084466034621407200,
 		"id_str": "1084466034621407233",
