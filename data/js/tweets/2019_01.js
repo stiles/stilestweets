@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 01:57:10 +0000 2019",
+		"id": 1084630470455750700,
+		"id_str": "1084630470455750656",
+		"full_text": "Pics or it did happen, POTUS. https://t.co/sz0BV5ZXWP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sz0BV5ZXWP",
+					"expanded_url": "https://twitter.com/ishaantharoor/status/1084571578627690496",
+					"display_url": "twitter.com/ishaantharoor/…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10419,
+			"friends_count": 1416,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084571578627690500,
+		"quoted_status_id_str": "1084571578627690496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sz0BV5ZXWP",
+			"expanded": "https://twitter.com/ishaantharoor/status/1084571578627690496",
+			"display": "twitter.com/ishaantharoor/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 13 22:03:09 +0000 2019",
+			"id": 1084571578627690500,
+			"id_str": "1084571578627690496",
+			"full_text": "Your phone has a camera in it. https://t.co/PdwUcU2qHd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PdwUcU2qHd",
+						"expanded_url": "https://twitter.com/realDonaldTrump/status/1084571124556619776",
+						"display_url": "twitter.com/realDonaldTrum…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44317593,
+				"id_str": "44317593",
+				"name": "Ishaan Tharoor",
+				"screen_name": "ishaantharoor",
+				"location": "DC",
+				"description": "Foreign affairs writer @WashingtonPost, formerly @TIME. Also teaching @GeorgetownSFS. New Yorker. Opinions my own. Victoria concordia crescit",
+				"url": "https://t.co/o8u9jJGUta",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o8u9jJGUta",
+								"expanded_url": "http://www.washingtonpost.com/people/ishaan-tharoor",
+								"display_url": "washingtonpost.com/people/ishaan-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65491,
+				"friends_count": 3097,
+				"listed_count": 1597,
+				"created_at": "Wed Jun 03 07:53:43 +0000 2009",
+				"favourites_count": 45399,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 64203,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963801661465681920/YXiPTxCP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963801661465681920/YXiPTxCP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44317593/1524233084",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1084571124556619800,
+			"quoted_status_id_str": "1084571124556619776",
+			"quoted_status_permalink": {
+				"url": "https://t.co/PdwUcU2qHd",
+				"expanded": "https://twitter.com/realDonaldTrump/status/1084571124556619776",
+				"display": "twitter.com/realDonaldTrum…"
+			},
+			"retweet_count": 188,
+			"favorite_count": 1263,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pics or it did happen, POTUS. https://t.co/sz0BV5ZXWP"
+	},
+	{
 		"created_at": "Mon Jan 14 00:26:19 +0000 2019",
 		"id": 1084607609468903400,
 		"id_str": "1084607609468903424",
