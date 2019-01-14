@@ -166,6 +166,492 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 330,
+			"friends_count": 559,
+			"listed_count": 3,
+			"created_at": "Mon Mar 10 02:21:18 +0000 2014",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "EB1274",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016299475831173120/qkXpUBoI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016299475831173120/qkXpUBoI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2381379871/1531140291",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 62,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ANTI-BEAUTY INDUSTRY MOVEMENT TAKING SHAPE IN S. KOREA https://t.co/KPTeqxpSnu"
+	},
+	{
+		"created_at": "Mon Jan 14 16:41:36 +0000 2019",
+		"id": 1084853047346380800,
+		"id_str": "1084853047346380800",
+		"full_text": "Just had to try to explain unions to my six-year-old daughter again. Her kinder teachers were outside her school with signs this morning... https://t.co/hXt8EGQwMD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hXt8EGQwMD",
+					"expanded_url": "https://twitter.com/emsimani/status/1084851662269763584",
+					"display_url": "twitter.com/emsimani/statu…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10418,
+			"friends_count": 1416,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12696,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084851662269763600,
+		"quoted_status_id_str": "1084851662269763584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hXt8EGQwMD",
+			"expanded": "https://twitter.com/emsimani/status/1084851662269763584",
+			"display": "twitter.com/emsimani/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 14 16:36:06 +0000 2019",
+			"id": 1084851662269763600,
+			"id_str": "1084851662269763584",
+			"full_text": "The scene outside Palms Elementary school, where teachers cited unregulated charter schools as a key reason for their support of the UTLA strike. One teacher estimated that 40 of their 350 students had shown up to school today. https://t.co/U69ubgrQ5C",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1084850864827715600,
+						"id_str": "1084850864827715586",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/Dw4qHSBU0AIYXtE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dw4qHSBU0AIYXtE.jpg",
+						"url": "https://t.co/U69ubgrQ5C",
+						"display_url": "pic.twitter.com/U69ubgrQ5C",
+						"expanded_url": "https://twitter.com/emsimani/status/1084851662269763584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1084850864827715600,
+						"id_str": "1084850864827715586",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/Dw4qHSBU0AIYXtE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dw4qHSBU0AIYXtE.jpg",
+						"url": "https://t.co/U69ubgrQ5C",
+						"display_url": "pic.twitter.com/U69ubgrQ5C",
+						"expanded_url": "https://twitter.com/emsimani/status/1084851662269763584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2561920597,
+				"id_str": "2561920597",
+				"name": "Ellis Simani",
+				"screen_name": "emsimani",
+				"location": "Los Angeles, CA",
+				"description": "LA-based journalist from Seattle with @latimesgraphics.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 411,
+				"friends_count": 281,
+				"listed_count": 21,
+				"created_at": "Wed Jun 11 18:57:28 +0000 2014",
+				"favourites_count": 336,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 698,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048103883560480768/dB5bycKr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048103883560480768/dB5bycKr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2561920597/1529897564",
+				"profile_link_color": "303030",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just had to try to explain unions to my six-year-old daughter again. Her kinder teachers were outside her school with signs this morning... https://t.co/hXt8EGQwMD"
+	},
+	{
+		"created_at": "Mon Jan 14 05:19:21 +0000 2019",
+		"id": 1084681352761360400,
+		"id_str": "1084681352761360384",
+		"full_text": "ANTI-BEAUTY INDUSTRY MOVEMENT TAKING SHAPE IN S. KOREA https://t.co/KPTeqxpSnu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084681103011569700,
+					"id_str": "1084681103011569666",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw2P775V4AAub4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw2P775V4AAub4U.jpg",
+					"url": "https://t.co/KPTeqxpSnu",
+					"display_url": "pic.twitter.com/KPTeqxpSnu",
+					"expanded_url": "https://twitter.com/sophieyjeong/status/1084681352761360384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084681103011569700,
+					"id_str": "1084681103011569666",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw2P775V4AAub4U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw2P775V4AAub4U.jpg",
+					"url": "https://t.co/KPTeqxpSnu",
+					"display_url": "pic.twitter.com/KPTeqxpSnu",
+					"expanded_url": "https://twitter.com/sophieyjeong/status/1084681352761360384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 168869,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1084681103011569666/vid/320x180/7mt0pZa07aCr-PDK.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1084681103011569666/vid/1280x720/Cgc-NXmgHhlG82hg.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1084681103011569666/pl/GHRT_2W6sSTIjPph.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1084681103011569666/vid/640x360/6bxhWiHGRgs5bM1g.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "ANTI-BEAUTY INDUSTRY MOVEMENT TAKING SHAPE IN S. KOREA",
+						"description": "See more at edition.cnn.com",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://edition.cnn.com/"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2381379871,
+			"id_str": "2381379871",
+			"name": "Sophie Jeong",
+			"screen_name": "sophieyjeong",
+			"location": "Seoul, Republic of Korea",
+			"description": "Associate Producer at @CNN Instagram: @sophieyjeong RT not endorsement",
+			"url": "https://t.co/HrU0f328tj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HrU0f328tj",
+							"expanded_url": "https://edition.cnn.com/profiles/sophie-jeong",
+							"display_url": "edition.cnn.com/profiles/sophi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 327,
 			"friends_count": 559,
 			"listed_count": 3,
