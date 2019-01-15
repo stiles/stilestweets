@@ -1,6 +1,616 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 17:39:28 +0000 2019",
+		"id": 1085229996506054700,
+		"id_str": "1085229996506054662",
+		"full_text": "Must-read thread for Korea watchers 👇 https://t.co/pR51yRwX9K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR51yRwX9K",
+					"expanded_url": "https://twitter.com/oranckay/status/1084967045714726912",
+					"display_url": "twitter.com/oranckay/statu…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 553855829,
+			"id_str": "553855829",
+			"name": "Geoffrey Cain",
+			"screen_name": "geoffrey_cain",
+			"location": "Seoul, Beijing, Washington DC",
+			"description": "Journalist with a forthcoming book on Samsung. @WSJ, @FP. Jazz trombonist. Toppler of governments, reports Cambodian state media.",
+			"url": "https://t.co/vpJPwi641d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vpJPwi641d",
+							"expanded_url": "http://www.geoffreycain.net/",
+							"display_url": "geoffreycain.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3238,
+			"friends_count": 839,
+			"listed_count": 195,
+			"created_at": "Sat Apr 14 21:44:24 +0000 2012",
+			"favourites_count": 2317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809742669224099842/TZmsPBTW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809742669224099842/TZmsPBTW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/553855829/1485137121",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084967045714726900,
+		"quoted_status_id_str": "1084967045714726912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pR51yRwX9K",
+			"expanded": "https://twitter.com/oranckay/status/1084967045714726912",
+			"display": "twitter.com/oranckay/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 15 00:14:36 +0000 2019",
+			"id": 1084967045714726900,
+			"id_str": "1084967045714726912",
+			"full_text": "So much of the substance Korean language &amp; subject matter testing for professional positions in the US remind me of the official party line on all things Korean... from the seventies. \nhttps://t.co/j2g7a4ETNB https://t.co/8jBdQBU7Cb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j2g7a4ETNB",
+						"expanded_url": "https://www.ctcexams.nesinc.com/content/docs/CSET_Prep/CS_161items.pdf",
+						"display_url": "ctcexams.nesinc.com/content/docs/C…",
+						"indices": [
+							189,
+							212
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1084957645931302900,
+						"id_str": "1084957645931302912",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/Dw6LOwoUUAAJ1ln.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dw6LOwoUUAAJ1ln.jpg",
+						"url": "https://t.co/8jBdQBU7Cb",
+						"display_url": "pic.twitter.com/8jBdQBU7Cb",
+						"expanded_url": "https://twitter.com/oranckay/status/1084967045714726912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 361,
+								"h": 412,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 361,
+								"h": 412,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 361,
+								"h": 412,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1084957645931302900,
+						"id_str": "1084957645931302912",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/Dw6LOwoUUAAJ1ln.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dw6LOwoUUAAJ1ln.jpg",
+						"url": "https://t.co/8jBdQBU7Cb",
+						"display_url": "pic.twitter.com/8jBdQBU7Cb",
+						"expanded_url": "https://twitter.com/oranckay/status/1084967045714726912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 361,
+								"h": 412,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 361,
+								"h": 412,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 361,
+								"h": 412,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1084957809651855400,
+						"id_str": "1084957809651855360",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/Dw6LYSiVsAAWhmN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dw6LYSiVsAAWhmN.jpg",
+						"url": "https://t.co/8jBdQBU7Cb",
+						"display_url": "pic.twitter.com/8jBdQBU7Cb",
+						"expanded_url": "https://twitter.com/oranckay/status/1084967045714726912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 842,
+								"h": 225,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 182,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 842,
+								"h": 225,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14345858,
+				"id_str": "14345858",
+				"name": "the oranckay",
+				"screen_name": "oranckay",
+				"location": "Seoul / Oakland",
+				"description": "“I didn’t kill myself when things went wrong, I didn’t turn to drugs or teaching.” - Leonard Cohen | 나는야 오랑캐야 | OUSD & Yonsei U grad. #OSINT",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1402,
+				"friends_count": 3203,
+				"listed_count": 122,
+				"created_at": "Wed Apr 09 21:34:28 +0000 2008",
+				"favourites_count": 32026,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29023,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9BB6E9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/938621282463055872/_0agWsmE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/938621282463055872/_0agWsmE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14345858/1510604344",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Must-read thread for Korea watchers 👇 https://t.co/pR51yRwX9K"
+	},
+	{
+		"created_at": "Tue Jan 15 17:39:15 +0000 2019",
+		"id": 1085229941828943900,
+		"id_str": "1085229941828943872",
+		"full_text": "Dear @genghisgrill, a D.C. restaurant I last visited five years ago but is somehow still present in my inbox: I really don't have time to do this. Good day. https://t.co/gHTyHf39Lh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GenghisGrill",
+					"name": "Genghis Grill",
+					"id": 33347691,
+					"id_str": "33347691",
+					"indices": [
+						5,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085229498667282400,
+					"id_str": "1085229498667282432",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw-Ceq_WsAAFcXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw-Ceq_WsAAFcXv.jpg",
+					"url": "https://t.co/gHTyHf39Lh",
+					"display_url": "pic.twitter.com/gHTyHf39Lh",
+					"expanded_url": "https://twitter.com/stiles/status/1085229941828943872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 563,
+							"h": 38,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 38,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 563,
+							"h": 38,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 38,
+							"h": 38,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085229498667282400,
+					"id_str": "1085229498667282432",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw-Ceq_WsAAFcXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw-Ceq_WsAAFcXv.jpg",
+					"url": "https://t.co/gHTyHf39Lh",
+					"display_url": "pic.twitter.com/gHTyHf39Lh",
+					"expanded_url": "https://twitter.com/stiles/status/1085229941828943872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 563,
+							"h": 38,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 38,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 563,
+							"h": 38,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 38,
+							"h": 38,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10416,
+			"friends_count": 1415,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12707,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear @genghisgrill, a D.C. restaurant I last visited five years ago but is somehow still present in my inbox: I really don't have time to do this. Good day. https://t.co/gHTyHf39Lh"
+	},
+	{
+		"created_at": "Tue Jan 15 15:06:33 +0000 2019",
+		"id": 1085191515545059300,
+		"id_str": "1085191515545059329",
+		"full_text": "New evacuations ordered in burn areas as record rain soaks Southland https://t.co/x29NlSw6St",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x29NlSw6St",
+					"expanded_url": "https://www.latimes.com/local/california/la-me-ln-rain-20190114-story.html",
+					"display_url": "latimes.com/local/californ…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41418040,
+			"id_str": "41418040",
+			"name": "Richard Winton",
+			"screen_name": "LAcrimes",
+			"location": "LA attached to Iphone 24/7",
+			"description": "LA Times crime & investigative writer(2011 & 2016 Pulitzer Prizes team) Dad/boyfriend/soccer fan/runner/hiker wannabe richard.winton@latimes.com",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13798,
+			"friends_count": 7233,
+			"listed_count": 624,
+			"created_at": "Wed May 20 18:33:25 +0000 2009",
+			"favourites_count": 6917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51821,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971202810426441730/178vJlSO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971202810426441730/178vJlSO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41418040/1547054035",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New evacuations ordered in burn areas as record rain soaks Southland https://t.co/x29NlSw6St"
+	},
+	{
 		"created_at": "Tue Jan 15 15:06:33 +0000 2019",
 		"id": 1085191515545059300,
 		"id_str": "1085191515545059329",
