@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 16:46:16 +0000 2019",
+		"id": 1084854219134316500,
+		"id_str": "1084854219134316544",
+		"full_text": "Curious about who shows up to school to support half a million students when 31,000 teachers go on strike? We put this together (with some help from ProPublica's Wee People). https://t.co/K1VXoyrWqp https://t.co/fvWlhxomCr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K1VXoyrWqp",
+					"expanded_url": "https://www.latimes.com/local/education/la-me-edu-los-angeles-teachers-strike-reasons-20190109-story.html",
+					"display_url": "latimes.com/local/educatio…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084853865273413600,
+					"id_str": "1084853865273413634",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw4s17jU0AIH-TO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw4s17jU0AIH-TO.jpg",
+					"url": "https://t.co/fvWlhxomCr",
+					"display_url": "pic.twitter.com/fvWlhxomCr",
+					"expanded_url": "https://twitter.com/emsimani/status/1084854219134316544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084853865273413600,
+					"id_str": "1084853865273413634",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw4s17jU0AIH-TO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw4s17jU0AIH-TO.jpg",
+					"url": "https://t.co/fvWlhxomCr",
+					"display_url": "pic.twitter.com/fvWlhxomCr",
+					"expanded_url": "https://twitter.com/emsimani/status/1084854219134316544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2561920597,
+			"id_str": "2561920597",
+			"name": "Ellis Simani",
+			"screen_name": "emsimani",
+			"location": "Los Angeles, CA",
+			"description": "LA-based journalist from Seattle with @latimesgraphics.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415,
+			"friends_count": 283,
+			"listed_count": 21,
+			"created_at": "Wed Jun 11 18:57:28 +0000 2014",
+			"favourites_count": 338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048103883560480768/dB5bycKr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048103883560480768/dB5bycKr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2561920597/1529897564",
+			"profile_link_color": "303030",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Curious about who shows up to school to support half a million students when 31,000 teachers go on strike? We put this together (with some help from ProPublica's Wee People). https://t.co/K1VXoyrWqp https://t.co/fvWlhxomCr"
+	},
+	{
+		"created_at": "Tue Jan 15 01:53:49 +0000 2019",
+		"id": 1084992018089009200,
+		"id_str": "1084992018089009153",
+		"full_text": "@lmigaki Is that standard issue from News Ops?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lmigaki",
+					"name": "Lauren Migaki",
+					"id": 20471660,
+					"id_str": "20471660",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1084933604210237400,
+		"in_reply_to_status_id_str": "1084933604210237440",
+		"in_reply_to_user_id": 20471660,
+		"in_reply_to_user_id_str": "20471660",
+		"in_reply_to_screen_name": "lmigaki",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1416,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lmigaki Is that standard issue from News Ops?"
+	},
+	{
 		"created_at": "Mon Jan 14 18:33:45 +0000 2019",
 		"id": 1084881268758569000,
 		"id_str": "1084881268758568961",
