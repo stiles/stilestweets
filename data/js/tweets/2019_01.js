@@ -59,6 +59,112 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 13798,
+			"friends_count": 7233,
+			"listed_count": 624,
+			"created_at": "Wed May 20 18:33:25 +0000 2009",
+			"favourites_count": 6917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51819,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971202810426441730/178vJlSO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971202810426441730/178vJlSO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41418040/1547054035",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New evacuations ordered in burn areas as record rain soaks Southland https://t.co/x29NlSw6St"
+	},
+	{
+		"created_at": "Tue Jan 15 15:06:33 +0000 2019",
+		"id": 1085191515545059300,
+		"id_str": "1085191515545059329",
+		"full_text": "New evacuations ordered in burn areas as record rain soaks Southland https://t.co/x29NlSw6St",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x29NlSw6St",
+					"expanded_url": "https://www.latimes.com/local/california/la-me-ln-rain-20190114-story.html",
+					"display_url": "latimes.com/local/californ…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41418040,
+			"id_str": "41418040",
+			"name": "Richard Winton",
+			"screen_name": "LAcrimes",
+			"location": "LA attached to Iphone 24/7",
+			"description": "LA Times crime & investigative writer(2011 & 2016 Pulitzer Prizes team) Dad/boyfriend/soccer fan/runner/hiker wannabe richard.winton@latimes.com",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 13799,
 			"friends_count": 7233,
 			"listed_count": 623,
