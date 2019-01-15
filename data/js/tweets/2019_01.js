@@ -1,6 +1,666 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 02:57:56 +0000 2019",
+		"id": 1085008152351985700,
+		"id_str": "1085008152351985665",
+		"full_text": "Siri, what’s the opposite of making America great again? https://t.co/qeiYAzKvoJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085008147066941400,
+					"id_str": "1085008147066941440",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw65KUBUcAA3hrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw65KUBUcAA3hrF.jpg",
+					"url": "https://t.co/qeiYAzKvoJ",
+					"display_url": "pic.twitter.com/qeiYAzKvoJ",
+					"expanded_url": "https://twitter.com/JasStanford/status/1085008152351985665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 567,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085008147066941400,
+					"id_str": "1085008147066941440",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw65KUBUcAA3hrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw65KUBUcAA3hrF.jpg",
+					"url": "https://t.co/qeiYAzKvoJ",
+					"display_url": "pic.twitter.com/qeiYAzKvoJ",
+					"expanded_url": "https://twitter.com/JasStanford/status/1085008152351985665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 567,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145450074,
+			"id_str": "145450074",
+			"name": "Jason Stanford",
+			"screen_name": "JasStanford",
+			"location": "Austin, TX",
+			"description": "SVP of Global Comms, @HKStrategies. Ex: @mayoradler & @PPAct. Professional guy behind the guy. @bourbonface's +1. RTs are superdelegates.",
+			"url": "https://t.co/DSvjfbL6Al",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DSvjfbL6Al",
+							"expanded_url": "http://bit.ly/2o0yPc8",
+							"display_url": "bit.ly/2o0yPc8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7283,
+			"friends_count": 3775,
+			"listed_count": 272,
+			"created_at": "Wed May 19 00:53:36 +0000 2010",
+			"favourites_count": 25395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059779921260802053/5QDiyOEw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059779921260802053/5QDiyOEw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145450074/1513385764",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Siri, what’s the opposite of making America great again? https://t.co/qeiYAzKvoJ"
+	},
+	{
+		"created_at": "Mon Jan 14 22:30:03 +0000 2019",
+		"id": 1084940736485744600,
+		"id_str": "1084940736485744644",
+		"full_text": "The @latimes is looking for a reporter to cover one of the most dynamic regions of L.A: the San Gabriel Valley.  https://t.co/R8dshYPs5U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R8dshYPs5U",
+					"expanded_url": "https://www.journalismjobs.com/1650016-metro-reporter-san-gabriel-valley-los-angeles-times",
+					"display_url": "journalismjobs.com/1650016-metro-…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19074004,
+			"id_str": "19074004",
+			"name": "Hector Becerra",
+			"screen_name": "hbecerraLATimes",
+			"location": "Los Angeles",
+			"description": "City Editor, Los Angeles Times. L.A born and raised. Story tips welcome Hector.becerra@latimes.com Twitter: @hbecerralatimes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4602,
+			"friends_count": 401,
+			"listed_count": 190,
+			"created_at": "Fri Jan 16 16:35:59 +0000 2009",
+			"favourites_count": 3826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23944,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052455565367144450/0tEOXg9N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052455565367144450/0tEOXg9N_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @latimes is looking for a reporter to cover one of the most dynamic regions of L.A: the San Gabriel Valley.  https://t.co/R8dshYPs5U"
+	},
+	{
+		"created_at": "Mon Jan 14 16:46:16 +0000 2019",
+		"id": 1084854219134316500,
+		"id_str": "1084854219134316544",
+		"full_text": "Curious about who shows up to school to support half a million students when 31,000 teachers go on strike? We put this together (with some help from ProPublica's Wee People). https://t.co/K1VXoyrWqp https://t.co/fvWlhxomCr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K1VXoyrWqp",
+					"expanded_url": "https://www.latimes.com/local/education/la-me-edu-los-angeles-teachers-strike-reasons-20190109-story.html",
+					"display_url": "latimes.com/local/educatio…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084853865273413600,
+					"id_str": "1084853865273413634",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw4s17jU0AIH-TO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw4s17jU0AIH-TO.jpg",
+					"url": "https://t.co/fvWlhxomCr",
+					"display_url": "pic.twitter.com/fvWlhxomCr",
+					"expanded_url": "https://twitter.com/emsimani/status/1084854219134316544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084853865273413600,
+					"id_str": "1084853865273413634",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw4s17jU0AIH-TO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw4s17jU0AIH-TO.jpg",
+					"url": "https://t.co/fvWlhxomCr",
+					"display_url": "pic.twitter.com/fvWlhxomCr",
+					"expanded_url": "https://twitter.com/emsimani/status/1084854219134316544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 573,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2561920597,
+			"id_str": "2561920597",
+			"name": "Ellis Simani",
+			"screen_name": "emsimani",
+			"location": "Los Angeles, CA",
+			"description": "LA-based journalist from Seattle with @latimesgraphics.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415,
+			"friends_count": 283,
+			"listed_count": 21,
+			"created_at": "Wed Jun 11 18:57:28 +0000 2014",
+			"favourites_count": 338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 699,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048103883560480768/dB5bycKr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048103883560480768/dB5bycKr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2561920597/1529897564",
+			"profile_link_color": "303030",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Curious about who shows up to school to support half a million students when 31,000 teachers go on strike? We put this together (with some help from ProPublica's Wee People). https://t.co/K1VXoyrWqp https://t.co/fvWlhxomCr"
+	},
+	{
+		"created_at": "Tue Jan 15 01:53:49 +0000 2019",
+		"id": 1084992018089009200,
+		"id_str": "1084992018089009153",
+		"full_text": "@lmigaki Is that standard issue from News Ops?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lmigaki",
+					"name": "Lauren Migaki",
+					"id": 20471660,
+					"id_str": "20471660",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1084933604210237400,
+		"in_reply_to_status_id_str": "1084933604210237440",
+		"in_reply_to_user_id": 20471660,
+		"in_reply_to_user_id_str": "20471660",
+		"in_reply_to_screen_name": "lmigaki",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1416,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lmigaki Is that standard issue from News Ops?"
+	},
+	{
+		"created_at": "Mon Jan 14 18:33:45 +0000 2019",
+		"id": 1084881268758569000,
+		"id_str": "1084881268758568961",
+		"full_text": "LA Parents. If your kids are affected by the strike: LA County libraries are open. The Natural History, Hart and Petersen museums are free on strike days — as is the L.A. Zoo. BTW: Kids don't pay fares on Metro buses, light-rail and subways, either. (h/t @HildaSolis)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HildaSolis",
+					"name": "Hilda Solis",
+					"id": 2377732207,
+					"id_str": "2377732207",
+					"indices": [
+						255,
+						266
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10413,
+			"friends_count": 1416,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "LA Parents. If your kids are affected by the strike: LA County libraries are open. The Natural History, Hart and Petersen museums are free on strike days — as is the L.A. Zoo. BTW: Kids don't pay fares on Metro buses, light-rail and subways, either. (h/t @HildaSolis)"
+	},
+	{
 		"created_at": "Mon Jan 14 16:46:16 +0000 2019",
 		"id": 1084854219134316500,
 		"id_str": "1084854219134316544",
