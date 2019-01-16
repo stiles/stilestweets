@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 22:15:11 +0000 2019",
+		"id": 1085661772453863400,
+		"id_str": "1085661772453863424",
+		"full_text": "This @melinamara photo of @mkraju and @AOC is priceless.  https://t.co/nhQFRH5RNw https://t.co/eD292l0lcd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melinamara",
+					"name": "melina mara",
+					"id": 22255006,
+					"id_str": "22255006",
+					"indices": [
+						5,
+						16
+					]
+				},
+				{
+					"screen_name": "mkraju",
+					"name": "Manu Raju",
+					"id": 39155029,
+					"id_str": "39155029",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"screen_name": "AOC",
+					"name": "Alexandria Ocasio-Cortez",
+					"id": 138203134,
+					"id_str": "138203134",
+					"indices": [
+						38,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nhQFRH5RNw",
+					"expanded_url": "https://wapo.st/2CsQwXp",
+					"display_url": "wapo.st/2CsQwXp",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1085661018385113100,
+					"id_str": "1085661018385113090",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DxEK8bNVYAIR3rc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxEK8bNVYAIR3rc.jpg",
+					"url": "https://t.co/eD292l0lcd",
+					"display_url": "pic.twitter.com/eD292l0lcd",
+					"expanded_url": "https://twitter.com/stiles/status/1085661772453863424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 396,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 396,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085661018385113100,
+					"id_str": "1085661018385113090",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DxEK8bNVYAIR3rc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxEK8bNVYAIR3rc.jpg",
+					"url": "https://t.co/eD292l0lcd",
+					"display_url": "pic.twitter.com/eD292l0lcd",
+					"expanded_url": "https://twitter.com/stiles/status/1085661772453863424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 396,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 396,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10418,
+			"friends_count": 1418,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12718,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This @melinamara photo of @mkraju and @AOC is priceless.  https://t.co/nhQFRH5RNw https://t.co/eD292l0lcd"
+	},
+	{
 		"created_at": "Wed Jan 16 04:38:39 +0000 2019",
 		"id": 1085395885901652000,
 		"id_str": "1085395885901651969",
