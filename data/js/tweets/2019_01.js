@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 19:43:51 +0000 2019",
+		"id": 1085986076152422400,
+		"id_str": "1085986076152422400",
+		"full_text": "As an #earthquake reporter, one of the most common questions I get asked is, \"Are we ready for the Big One?\" And I used to flub an answer, but clearly, we are not. #Northridge25 #NorthridgeEarthquake (thread)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "earthquake",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "Northridge25",
+					"indices": [
+						164,
+						177
+					]
+				},
+				{
+					"text": "NorthridgeEarthquake",
+					"indices": [
+						178,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14480618,
+			"id_str": "14480618",
+			"name": "Ron Lin",
+			"screen_name": "ronlin",
+			"location": "San Francisco, CA",
+			"description": "Rong-Gong Lin II, reporter for @LATimes' metro desk and @LANow, with a focus on #earthquakes and peril. ron.lin@latimes.com",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8189,
+			"friends_count": 3527,
+			"listed_count": 374,
+			"created_at": "Tue Apr 22 21:17:03 +0000 2008",
+			"favourites_count": 4290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12305,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459615931266646016/0zR6VoD9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459615931266646016/0zR6VoD9_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14480618/1398415623",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "As an #earthquake reporter, one of the most common questions I get asked is, \"Are we ready for the Big One?\" And I used to flub an answer, but clearly, we are not. #Northridge25 #NorthridgeEarthquake (thread)"
+	},
+	{
 		"created_at": "Thu Jan 17 19:05:40 +0000 2019",
 		"id": 1085976464359485400,
 		"id_str": "1085976464359485441",
