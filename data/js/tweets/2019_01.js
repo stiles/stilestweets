@@ -158,6 +158,211 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1873,
+			"friends_count": 276,
+			"listed_count": 140,
+			"created_at": "Sat Mar 17 03:53:19 +0000 2012",
+			"favourites_count": 2703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1264,
+			"lang": "zh-tw",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2728424379/e9d9c1d6b68ef7be3ca8ab923e6686e7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2728424379/e9d9c1d6b68ef7be3ca8ab923e6686e7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/527067216/1409934707",
+			"profile_link_color": "414141",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In today’s @nytimes, read all about @colinobrady and Louis Rudd’s trek across Antarctica, with a full page map by @DeniseDSLu and me ⛷ https://t.co/zX5ITXPQQj"
+	},
+	{
+		"created_at": "Sat Jan 19 15:57:32 +0000 2019",
+		"id": 1086653895202480100,
+		"id_str": "1086653895202480129",
+		"full_text": "In today’s @nytimes, read all about @colinobrady and Louis Rudd’s trek across Antarctica, with a full page map by @DeniseDSLu and me ⛷ https://t.co/zX5ITXPQQj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "colinobrady",
+					"name": "Colin O'Brady",
+					"id": 3120987492,
+					"id_str": "3120987492",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "DeniseDSLu",
+					"name": "ಠ_ಠ",
+					"id": 237889929,
+					"id_str": "237889929",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086653883173273600,
+					"id_str": "1086653883173273601",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DxSR8wxXgAEpLDw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxSR8wxXgAEpLDw.jpg",
+					"url": "https://t.co/zX5ITXPQQj",
+					"display_url": "pic.twitter.com/zX5ITXPQQj",
+					"expanded_url": "https://twitter.com/kkrebeccalai/status/1086653895202480129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086653883173273600,
+					"id_str": "1086653883173273601",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DxSR8wxXgAEpLDw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxSR8wxXgAEpLDw.jpg",
+					"url": "https://t.co/zX5ITXPQQj",
+					"display_url": "pic.twitter.com/zX5ITXPQQj",
+					"expanded_url": "https://twitter.com/kkrebeccalai/status/1086653895202480129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 527067216,
+			"id_str": "527067216",
+			"name": "KK Rebecca Lai",
+			"screen_name": "kkrebeccalai",
+			"location": "New York",
+			"description": "@nytgraphics",
+			"url": "https://t.co/G7cOHLPgLz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G7cOHLPgLz",
+							"expanded_url": "http://nytimes.com/by/kk-rebecca-lai",
+							"display_url": "nytimes.com/by/kk-rebecca-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 1870,
 			"friends_count": 276,
 			"listed_count": 140,
