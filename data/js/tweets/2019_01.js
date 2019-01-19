@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 17:38:41 +0000 2019",
+		"id": 1086679351448354800,
+		"id_str": "1086679351448354816",
+		"full_text": "@uppajung Don’t give up on Milli Vanilli. A comeback is still possible. https://t.co/dlMLHlIX8c",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uppajung",
+					"name": "Stuart Schechter",
+					"id": 74502195,
+					"id_str": "74502195",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086679347736408000,
+					"id_str": "1086679347736408064",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DxSpG_qU8AAnPMV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxSpG_qU8AAnPMV.jpg",
+					"url": "https://t.co/dlMLHlIX8c",
+					"display_url": "pic.twitter.com/dlMLHlIX8c",
+					"expanded_url": "https://twitter.com/stiles/status/1086679351448354816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086679347736408000,
+					"id_str": "1086679347736408064",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DxSpG_qU8AAnPMV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxSpG_qU8AAnPMV.jpg",
+					"url": "https://t.co/dlMLHlIX8c",
+					"display_url": "pic.twitter.com/dlMLHlIX8c",
+					"expanded_url": "https://twitter.com/stiles/status/1086679351448354816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1086677645234860000,
+		"in_reply_to_status_id_str": "1086677645234860032",
+		"in_reply_to_user_id": 74502195,
+		"in_reply_to_user_id_str": "74502195",
+		"in_reply_to_screen_name": "uppajung",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10423,
+			"friends_count": 1427,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12733,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@uppajung Don’t give up on Milli Vanilli. A comeback is still possible. https://t.co/dlMLHlIX8c"
+	},
+	{
+		"created_at": "Sat Jan 19 15:57:32 +0000 2019",
+		"id": 1086653895202480100,
+		"id_str": "1086653895202480129",
+		"full_text": "In today’s @nytimes, read all about @colinobrady and Louis Rudd’s trek across Antarctica, with a full page map by @DeniseDSLu and me ⛷ https://t.co/zX5ITXPQQj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "colinobrady",
+					"name": "Colin O'Brady",
+					"id": 3120987492,
+					"id_str": "3120987492",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "DeniseDSLu",
+					"name": "ಠ_ಠ",
+					"id": 237889929,
+					"id_str": "237889929",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086653883173273600,
+					"id_str": "1086653883173273601",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DxSR8wxXgAEpLDw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxSR8wxXgAEpLDw.jpg",
+					"url": "https://t.co/zX5ITXPQQj",
+					"display_url": "pic.twitter.com/zX5ITXPQQj",
+					"expanded_url": "https://twitter.com/kkrebeccalai/status/1086653895202480129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086653883173273600,
+					"id_str": "1086653883173273601",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/DxSR8wxXgAEpLDw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxSR8wxXgAEpLDw.jpg",
+					"url": "https://t.co/zX5ITXPQQj",
+					"display_url": "pic.twitter.com/zX5ITXPQQj",
+					"expanded_url": "https://twitter.com/kkrebeccalai/status/1086653895202480129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 527067216,
+			"id_str": "527067216",
+			"name": "KK Rebecca Lai",
+			"screen_name": "kkrebeccalai",
+			"location": "New York",
+			"description": "@nytgraphics",
+			"url": "https://t.co/G7cOHLPgLz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G7cOHLPgLz",
+							"expanded_url": "http://nytimes.com/by/kk-rebecca-lai",
+							"display_url": "nytimes.com/by/kk-rebecca-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1874,
+			"friends_count": 276,
+			"listed_count": 142,
+			"created_at": "Sat Mar 17 03:53:19 +0000 2012",
+			"favourites_count": 2703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1264,
+			"lang": "zh-tw",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2728424379/e9d9c1d6b68ef7be3ca8ab923e6686e7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2728424379/e9d9c1d6b68ef7be3ca8ab923e6686e7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/527067216/1409934707",
+			"profile_link_color": "414141",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In today’s @nytimes, read all about @colinobrady and Louis Rudd’s trek across Antarctica, with a full page map by @DeniseDSLu and me ⛷ https://t.co/zX5ITXPQQj"
+	},
+	{
 		"created_at": "Sat Jan 19 15:57:32 +0000 2019",
 		"id": 1086653895202480100,
 		"id_str": "1086653895202480129",
