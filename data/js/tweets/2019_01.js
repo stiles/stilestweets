@@ -57,6 +57,603 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 14142,
+			"friends_count": 143,
+			"listed_count": 423,
+			"created_at": "Wed Nov 20 14:40:27 +0000 2013",
+			"favourites_count": 1732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8331,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/460144185463406594/kSi4u1e0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/460144185463406594/kSi4u1e0_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 1315,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Over 30 years in journalism, I've worked with many ace reporters. @JasonLeopold has overcome a lot in life to become one of the absolute best — not just in ability but in integrity."
+	},
+	{
+		"created_at": "Sat Jan 19 04:32:56 +0000 2019",
+		"id": 1086481611179286500,
+		"id_str": "1086481611179286534",
+		"full_text": "A profile of ⁦@JasonLeopold⁩ from 2014: “Leopold’s crimes against journalism were serious. But it’s hard to think of any journalist who has worked harder to show that he’s changed.” https://t.co/DGKRawI1WC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasonLeopold",
+					"name": "Jason Leopold",
+					"id": 17094311,
+					"id_str": "17094311",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DGKRawI1WC",
+					"expanded_url": "https://medium.com/matter/the-secret-to-getting-top-secret-secrets-1f693eaf609a",
+					"display_url": "medium.com/matter/the-sec…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10423,
+			"friends_count": 1426,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12730,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A profile of ⁦@JasonLeopold⁩ from 2014: “Leopold’s crimes against journalism were serious. But it’s hard to think of any journalist who has worked harder to show that he’s changed.” https://t.co/DGKRawI1WC"
+	},
+	{
+		"created_at": "Sat Jan 19 00:27:38 +0000 2019",
+		"id": 1086419880025284600,
+		"id_str": "1086419880025284608",
+		"full_text": "UPDATE: A spokesperson for the special counsel is disputing BuzzFeed News’ report. https://t.co/BEoMKiDypn https://t.co/GWWfGtyhaE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BEoMKiDypn",
+					"expanded_url": "https://www.buzzfeednews.com/article/jasonleopold/trump-russia-cohen-moscow-tower-mueller-investigation?bftwnews&utm_term=4ldqpgc#4ldqpgc",
+					"display_url": "buzzfeednews.com/article/jasonl…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086419736827580400,
+					"id_str": "1086419736827580416",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DxO8_pqU0AAljGG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxO8_pqU0AAljGG.jpg",
+					"url": "https://t.co/GWWfGtyhaE",
+					"display_url": "pic.twitter.com/GWWfGtyhaE",
+					"expanded_url": "https://twitter.com/BuzzFeedNews/status/1086419880025284608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 612,
+							"h": 388,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 612,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086419736827580400,
+					"id_str": "1086419736827580416",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DxO8_pqU0AAljGG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxO8_pqU0AAljGG.jpg",
+					"url": "https://t.co/GWWfGtyhaE",
+					"display_url": "pic.twitter.com/GWWfGtyhaE",
+					"expanded_url": "https://twitter.com/BuzzFeedNews/status/1086419880025284608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 612,
+							"h": 388,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 612,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1020058453,
+			"id_str": "1020058453",
+			"name": "BuzzFeed News",
+			"screen_name": "BuzzFeedNews",
+			"location": "",
+			"description": "Sign up for our daily newsletter (it's free) https://t.co/GNgF4LChlq",
+			"url": "https://t.co/TB5H6ABM1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TB5H6ABM1k",
+							"expanded_url": "https://www.buzzfeednews.com/",
+							"display_url": "buzzfeednews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GNgF4LChlq",
+							"expanded_url": "https://bzfd.it/2ONZJlS",
+							"display_url": "bzfd.it/2ONZJlS",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1304897,
+			"friends_count": 4786,
+			"listed_count": 12276,
+			"created_at": "Tue Dec 18 15:46:37 +0000 2012",
+			"favourites_count": 2149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 154520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019562992403472390/GwGTPpI1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019562992403472390/GwGTPpI1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1020058453/1531917744",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6108,
+		"favorite_count": 7872,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UPDATE: A spokesperson for the special counsel is disputing BuzzFeed News’ report. https://t.co/BEoMKiDypn https://t.co/GWWfGtyhaE"
+	},
+	{
+		"created_at": "Sat Jan 19 00:40:56 +0000 2019",
+		"id": 1086423225469259800,
+		"id_str": "1086423225469259776",
+		"full_text": "Most South Koreans think Moon, not Trump, is leading the way on North Korea talks\nhttps://t.co/F3Exlz0cWl https://t.co/MvbDqHI4YN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F3Exlz0cWl",
+					"expanded_url": "https://wapo.st/2SXJuRo",
+					"display_url": "wapo.st/2SXJuRo",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086423145026703400,
+					"id_str": "1086423145026703361",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DxPAGCMUUAEc8Rl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxPAGCMUUAEc8Rl.jpg",
+					"url": "https://t.co/MvbDqHI4YN",
+					"display_url": "pic.twitter.com/MvbDqHI4YN",
+					"expanded_url": "https://twitter.com/stiles/status/1086423225469259776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1484,
+							"h": 924,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 747,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086423145026703400,
+					"id_str": "1086423145026703361",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DxPAGCMUUAEc8Rl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxPAGCMUUAEc8Rl.jpg",
+					"url": "https://t.co/MvbDqHI4YN",
+					"display_url": "pic.twitter.com/MvbDqHI4YN",
+					"expanded_url": "https://twitter.com/stiles/status/1086423225469259776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1484,
+							"h": 924,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 747,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10423,
+			"friends_count": 1426,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12730,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Most South Koreans think Moon, not Trump, is leading the way on North Korea talks\nhttps://t.co/F3Exlz0cWl https://t.co/MvbDqHI4YN"
+	},
+	{
+		"created_at": "Fri Jan 18 18:13:37 +0000 2019",
+		"id": 1086325754101751800,
+		"id_str": "1086325754101751808",
+		"full_text": "Over 30 years in journalism, I've worked with many ace reporters. @JasonLeopold has overcome a lot in life to become one of the absolute best — not just in ability but in integrity.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasonLeopold",
+					"name": "Jason Leopold",
+					"id": 17094311,
+					"id_str": "17094311",
+					"indices": [
+						66,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2205024632,
+			"id_str": "2205024632",
+			"name": "Mark Schoofs",
+			"screen_name": "SchoofsFeed",
+			"location": "Always happy to talk.",
+			"description": "Advisor, BuzzFeed News. Tips: https://t.co/RUxMNtYK6R mark.schoofs@buzzfeed.com PGP: 6EBF 7E74 69D4 2289 0DE1 8E82 5CAF 7076 8230 85C9",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RUxMNtYK6R",
+							"expanded_url": "http://tips.buzzfeed.com",
+							"display_url": "tips.buzzfeed.com",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 14140,
 			"friends_count": 143,
 			"listed_count": 423,
