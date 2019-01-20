@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 18:22:17 +0000 2019",
+		"id": 1086690322468487200,
+		"id_str": "1086690322468487168",
+		"full_text": "Retweet this instead of idiot boy. https://t.co/fzz4ZkefFj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fzz4ZkefFj",
+					"expanded_url": "https://twitter.com/UncededClothing/status/1086677183458934784",
+					"display_url": "twitter.com/UncededClothin…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121489431,
+			"id_str": "121489431",
+			"name": "Charles P. Pierce",
+			"screen_name": "CharlesPPierce",
+			"location": "Earth",
+			"description": "Feed from The Politics Blog with Charles P. Pierce, Retweets do not (necessarily) mean endorsements. Marquette BB, Kerry GAA. Les Habitants",
+			"url": "https://t.co/aDSrJ4UuCQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aDSrJ4UuCQ",
+							"expanded_url": "http://www.esquire.com/blogs/politics/",
+							"display_url": "esquire.com/blogs/politics/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155824,
+			"friends_count": 2611,
+			"listed_count": 3173,
+			"created_at": "Tue Mar 09 17:18:53 +0000 2010",
+			"favourites_count": 7163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 61411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/734227624743063552/XrjaOfP__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/734227624743063552/XrjaOfP__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121489431/1543468328",
+			"profile_link_color": "BF0103",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1086677183458934800,
+		"quoted_status_id_str": "1086677183458934784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fzz4ZkefFj",
+			"expanded": "https://twitter.com/UncededClothing/status/1086677183458934784",
+			"display": "twitter.com/UncededClothin…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 19 17:30:04 +0000 2019",
+			"id": 1086677183458934800,
+			"id_str": "1086677183458934784",
+			"full_text": "Nathan Philips of the Omaha Nation speaking on what happened from @/ka_ya11 IG. https://t.co/XBf1kTf8a5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1086676946275074000,
+						"id_str": "1086676946275074048",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1086676946275074048/pu/img/i0TC7IQGUHq6Oa8_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1086676946275074048/pu/img/i0TC7IQGUHq6Oa8_.jpg",
+						"url": "https://t.co/XBf1kTf8a5",
+						"display_url": "pic.twitter.com/XBf1kTf8a5",
+						"expanded_url": "https://twitter.com/UncededClothing/status/1086677183458934784/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1086676946275074000,
+						"id_str": "1086676946275074048",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1086676946275074048/pu/img/i0TC7IQGUHq6Oa8_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1086676946275074048/pu/img/i0TC7IQGUHq6Oa8_.jpg",
+						"url": "https://t.co/XBf1kTf8a5",
+						"display_url": "pic.twitter.com/XBf1kTf8a5",
+						"expanded_url": "https://twitter.com/UncededClothing/status/1086677183458934784/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 59352,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1086676946275074048/pu/vid/320x320/56WsYBJvNpvBMCzR.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1086676946275074048/pu/pl/HgFP2PMuFC7V64cI.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1086676946275074048/pu/vid/400x400/FdFjyWhuKVJEDgk3.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 983829564894924800,
+				"id_str": "983829564894924800",
+				"name": "Unceded Clothing",
+				"screen_name": "UncededClothing",
+				"location": "TURTLE ISLAND",
+				"description": "Designs to make those around you uncomfortable.",
+				"url": "https://t.co/0CsCwfjvV7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0CsCwfjvV7",
+								"expanded_url": "https://teespring.com/stores/unceded",
+								"display_url": "teespring.com/stores/unceded",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4164,
+				"friends_count": 585,
+				"listed_count": 9,
+				"created_at": "Tue Apr 10 22:10:21 +0000 2018",
+				"favourites_count": 3917,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2955,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1037801034985308160/q0vG9qfv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037801034985308160/q0vG9qfv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/983829564894924800/1537394799",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35166,
+			"favorite_count": 81563,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11045,
+		"favorite_count": 20024,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Retweet this instead of idiot boy. https://t.co/fzz4ZkefFj"
+	},
+	{
 		"created_at": "Sun Jan 20 01:35:50 +0000 2019",
 		"id": 1086799429212852200,
 		"id_str": "1086799429212852224",
