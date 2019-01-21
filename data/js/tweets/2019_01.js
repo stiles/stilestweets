@@ -85,6 +85,137 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 42023219,
+			"friends_count": 181,
+			"listed_count": 44852,
+			"created_at": "Fri Mar 06 16:25:53 +0000 2009",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+			"profile_link_color": "FBAF41",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5794,
+		"favorite_count": 33723,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Congrats @RamsNFL on punching your tix to the Super Bowl!!!!! #NFCChamps #LAUnitesTogether"
+	},
+	{
+		"created_at": "Sun Jan 20 23:28:19 +0000 2019",
+		"id": 1087129726945087500,
+		"id_str": "1087129726945087488",
+		"full_text": "Congrats @RamsNFL on punching your tix to the Super Bowl!!!!! #NFCChamps #LAUnitesTogether",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NFCChamps",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "LAUnitesTogether",
+					"indices": [
+						73,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RamsNFL",
+					"name": "Los Angeles Rams",
+					"id": 24109979,
+					"id_str": "24109979",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23083404,
+			"id_str": "23083404",
+			"name": "LeBron James",
+			"screen_name": "KingJames",
+			"location": "Amongst La Familia!",
+			"description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+			"url": "http://t.co/TuET0GeB2Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TuET0GeB2Z",
+							"expanded_url": "http://LeBronJames.com",
+							"display_url": "LeBronJames.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/IneJylUd1m",
+							"expanded_url": "http://LeBronJamesFamilyFoundation.org",
+							"display_url": "LeBronJamesFamilyFoundation.org",
+							"indices": [
+								34,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 42022434,
 			"friends_count": 181,
 			"listed_count": 44850,
