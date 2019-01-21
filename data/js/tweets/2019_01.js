@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 21 17:10:31 +0000 2019",
+		"id": 1087397037849509900,
+		"id_str": "1087397037849509888",
+		"full_text": "Today we celebrate the inspiring life and enduring contributions of Martin Luther King Jr.\n\nKing's legacy of speaking truth to power defines what it means to be a patriot. We must continuously recommit not to stand by but to stand up wherever there is injustice. #MLKDay https://t.co/DP0K5bq0r2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MLKDay",
+					"indices": [
+						263,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087396117338148900,
+					"id_str": "1087396117338148864",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087396117338148864/pu/img/ktxzZ0dGzvR_JEHm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087396117338148864/pu/img/ktxzZ0dGzvR_JEHm.jpg",
+					"url": "https://t.co/DP0K5bq0r2",
+					"display_url": "pic.twitter.com/DP0K5bq0r2",
+					"expanded_url": "https://twitter.com/SheilaKuehl/status/1087397037849509888/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087396117338148900,
+					"id_str": "1087396117338148864",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087396117338148864/pu/img/ktxzZ0dGzvR_JEHm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087396117338148864/pu/img/ktxzZ0dGzvR_JEHm.jpg",
+					"url": "https://t.co/DP0K5bq0r2",
+					"display_url": "pic.twitter.com/DP0K5bq0r2",
+					"expanded_url": "https://twitter.com/SheilaKuehl/status/1087397037849509888/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 119520,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1087396117338148864/pu/pl/GD6egtiLzsHHp7Jc.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1087396117338148864/pu/vid/240x180/_Sjg4p-_d2LFIR1m.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1087396117338148864/pu/vid/320x240/2JcajHcZFnMYDKFa.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1327401170,
+			"id_str": "1327401170",
+			"name": "Sheila Kuehl",
+			"screen_name": "SheilaKuehl",
+			"location": "",
+			"description": "Los Angeles County Supervisor from the 3rd District. http://t.co/GBomGgZ6Wk",
+			"url": "http://t.co/ysUTgnatDe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ysUTgnatDe",
+							"expanded_url": "http://www.supervisorkuehl.com",
+							"display_url": "supervisorkuehl.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/GBomGgZ6Wk",
+							"expanded_url": "http://www.Facebook.com/sjkuehl",
+							"display_url": "Facebook.com/sjkuehl",
+							"indices": [
+								53,
+								75
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13208,
+			"friends_count": 6523,
+			"listed_count": 245,
+			"created_at": "Thu Apr 04 17:14:12 +0000 2013",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1713,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017193216074895360/Lvzk5LML_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017193216074895360/Lvzk5LML_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1327401170/1401399866",
+			"profile_link_color": "005596",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we celebrate the inspiring life and enduring contributions of Martin Luther King Jr.\n\nKing's legacy of speaking truth to power defines what it means to be a patriot. We must continuously recommit not to stand by but to stand up wherever there is injustice. #MLKDay https://t.co/DP0K5bq0r2"
+	},
+	{
+		"created_at": "Mon Jan 21 15:20:14 +0000 2019",
+		"id": 1087369284060397600,
+		"id_str": "1087369284060397570",
+		"full_text": "It's a good day to make some #goodtrouble. https://t.co/WmFx85FJJk https://t.co/2ZKJHt9Gqc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "goodtrouble",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WmFx85FJJk",
+					"expanded_url": "http://MLKDay.gov",
+					"display_url": "MLKDay.gov",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087369279002021900,
+					"id_str": "1087369279002021889",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DxccmR6WkAE1QFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxccmR6WkAE1QFm.jpg",
+					"url": "https://t.co/2ZKJHt9Gqc",
+					"display_url": "pic.twitter.com/2ZKJHt9Gqc",
+					"expanded_url": "https://twitter.com/HillaryClinton/status/1087369284060397570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087369279002021900,
+					"id_str": "1087369279002021889",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DxccmR6WkAE1QFm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxccmR6WkAE1QFm.jpg",
+					"url": "https://t.co/2ZKJHt9Gqc",
+					"display_url": "pic.twitter.com/2ZKJHt9Gqc",
+					"expanded_url": "https://twitter.com/HillaryClinton/status/1087369284060397570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1339835893,
+			"id_str": "1339835893",
+			"name": "Hillary Clinton",
+			"screen_name": "HillaryClinton",
+			"location": "New York, NY",
+			"description": "2016 Democratic Nominee, SecState, Senator, hair icon. Mom, Wife, Grandma x2, lawyer, advocate, fan of walks in the woods & standing up for our democracy.",
+			"url": "https://t.co/99DVW9q1yt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/99DVW9q1yt",
+							"expanded_url": "http://onwardtogether.org",
+							"display_url": "onwardtogether.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23960571,
+			"friends_count": 783,
+			"listed_count": 41797,
+			"created_at": "Tue Apr 09 18:04:35 +0000 2013",
+			"favourites_count": 1138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0057B8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051914952192057344/xwZDe7zt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051914952192057344/xwZDe7zt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1339835893/1539631689",
+			"profile_link_color": "0057B8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4510,
+		"favorite_count": 21955,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's a good day to make some #goodtrouble. https://t.co/WmFx85FJJk https://t.co/2ZKJHt9Gqc"
+	},
+	{
 		"created_at": "Mon Jan 21 16:46:24 +0000 2019",
 		"id": 1087390967609536500,
 		"id_str": "1087390967609536512",
