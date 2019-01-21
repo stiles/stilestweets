@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 21 15:09:29 +0000 2019",
+		"id": 1087366579002589200,
+		"id_str": "1087366579002589184",
+		"full_text": "My story with ⁦@gaufre⁩ on ⁦@BirdRide⁩’s expansion into L.A. County. \n\ncc ⁦@kathrynbarger⁩  https://t.co/pPeC9dwRCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gaufre",
+					"name": "Jon Schleuss 🦅",
+					"id": 12561082,
+					"id_str": "12561082",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "BirdRide",
+					"name": "Bird",
+					"id": 907400253455835100,
+					"id_str": "907400253455835136",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "kathrynbarger",
+					"name": "Kathryn Barger",
+					"id": 3165949670,
+					"id_str": "3165949670",
+					"indices": [
+						75,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pPeC9dwRCQ",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-county-scooter-rules-20190121-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10423,
+			"friends_count": 1427,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My story with ⁦@gaufre⁩ on ⁦@BirdRide⁩’s expansion into L.A. County. \n\ncc ⁦@kathrynbarger⁩  https://t.co/pPeC9dwRCQ"
+	},
+	{
+		"created_at": "Mon Jan 21 14:28:26 +0000 2019",
+		"id": 1087356250457727000,
+		"id_str": "1087356250457726976",
+		"full_text": "@waldojaquith Nooooo!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "waldojaquith",
+					"name": "Waldo Jaquith",
+					"id": 206283535,
+					"id_str": "206283535",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087349119604142100,
+		"in_reply_to_status_id_str": "1087349119604142080",
+		"in_reply_to_user_id": 206283535,
+		"in_reply_to_user_id_str": "206283535",
+		"in_reply_to_screen_name": "waldojaquith",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10423,
+			"friends_count": 1427,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "70707114a9202b98",
+			"url": "https://api.twitter.com/1.1/geo/id/70707114a9202b98.json",
+			"place_type": "city",
+			"name": "Garden Grove",
+			"full_name": "Garden Grove, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.0429637,
+							33.732214
+						],
+						[
+							-117.8941157,
+							33.732214
+						],
+						[
+							-117.8941157,
+							33.805876
+						],
+						[
+							-118.0429637,
+							33.805876
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@waldojaquith Nooooo!"
+	},
+	{
+		"created_at": "Sun Jan 20 23:28:19 +0000 2019",
+		"id": 1087129726945087500,
+		"id_str": "1087129726945087488",
+		"full_text": "Congrats @RamsNFL on punching your tix to the Super Bowl!!!!! #NFCChamps #LAUnitesTogether",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NFCChamps",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "LAUnitesTogether",
+					"indices": [
+						73,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RamsNFL",
+					"name": "Los Angeles Rams",
+					"id": 24109979,
+					"id_str": "24109979",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23083404,
+			"id_str": "23083404",
+			"name": "LeBron James",
+			"screen_name": "KingJames",
+			"location": "Amongst La Familia!",
+			"description": "EST. AKRON - ST.V/M Class of '03  http://t.co/IneJylUd1m #IPROMISE",
+			"url": "http://t.co/TuET0GeB2Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TuET0GeB2Z",
+							"expanded_url": "http://LeBronJames.com",
+							"display_url": "LeBronJames.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/IneJylUd1m",
+							"expanded_url": "http://LeBronJamesFamilyFoundation.org",
+							"display_url": "LeBronJamesFamilyFoundation.org",
+							"indices": [
+								34,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 42026412,
+			"friends_count": 181,
+			"listed_count": 44876,
+			"created_at": "Fri Mar 06 16:25:53 +0000 2009",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010862750401253377/Rof4XuYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23083404/1529843462",
+			"profile_link_color": "FBAF41",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6443,
+		"favorite_count": 41523,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Congrats @RamsNFL on punching your tix to the Super Bowl!!!!! #NFCChamps #LAUnitesTogether"
+	},
+	{
 		"created_at": "Sun Jan 20 23:28:19 +0000 2019",
 		"id": 1087129726945087500,
 		"id_str": "1087129726945087488",
