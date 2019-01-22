@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 02:49:43 +0000 2019",
+		"id": 1087542800155996200,
+		"id_str": "1087542800155996160",
+		"full_text": "“‘I’m a reporter,’ I replied.”\n\n“That stopped him short, and I could almost hear the wheels spinning at the other end of the line as he tried to figure out what was going on here.”\n\n— ⁦@danbalz⁩ to ⁦@realDonaldTrump⁩  https://t.co/0KfvhiU85v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danbalz",
+					"name": "Dan Balz",
+					"id": 59676104,
+					"id_str": "59676104",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						199,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0KfvhiU85v",
+					"expanded_url": "https://www.washingtonpost.com/politics/would-you-like-to-speak-to-the-president/2019/01/19/bcde9398-1bd7-11e9-8813-cb9dec761e73_story.html",
+					"display_url": "washingtonpost.com/politics/would…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10425,
+			"friends_count": 1431,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“‘I’m a reporter,’ I replied.”\n\n“That stopped him short, and I could almost hear the wheels spinning at the other end of the line as he tried to figure out what was going on here.”\n\n— ⁦@danbalz⁩ to ⁦@realDonaldTrump⁩  https://t.co/0KfvhiU85v"
+	},
+	{
+		"created_at": "Tue Jan 22 02:42:56 +0000 2019",
+		"id": 1087541090897416200,
+		"id_str": "1087541090897416192",
+		"full_text": "@anthonydb I saw it at @barnesnobles the other day and said to my daughter, ‘I know that guy!’",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anthonydb",
+					"name": "Anthony DeBarros",
+					"id": 18682941,
+					"id_str": "18682941",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "barnesnobles",
+					"name": "Barnes&Nobles",
+					"id": 44978777,
+					"id_str": "44978777",
+					"indices": [
+						23,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087413633653592000,
+		"in_reply_to_status_id_str": "1087413633653592066",
+		"in_reply_to_user_id": 18682941,
+		"in_reply_to_user_id_str": "18682941",
+		"in_reply_to_screen_name": "anthonydb",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10425,
+			"friends_count": 1431,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@anthonydb I saw it at @barnesnobles the other day and said to my daughter, ‘I know that guy!’"
+	},
+	{
+		"created_at": "Tue Jan 22 02:22:24 +0000 2019",
+		"id": 1087535923661688800,
+		"id_str": "1087535923661688832",
+		"full_text": "Meanwhile in Michigan... https://t.co/FpNdIPEu2g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087535919039537200,
+					"id_str": "1087535919039537153",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxe0KAbUYAEpXLB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxe0KAbUYAEpXLB.jpg",
+					"url": "https://t.co/FpNdIPEu2g",
+					"display_url": "pic.twitter.com/FpNdIPEu2g",
+					"expanded_url": "https://twitter.com/bestofnextdoor/status/1087535923661688832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 698,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087535919039537200,
+					"id_str": "1087535919039537153",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxe0KAbUYAEpXLB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxe0KAbUYAEpXLB.jpg",
+					"url": "https://t.co/FpNdIPEu2g",
+					"display_url": "pic.twitter.com/FpNdIPEu2g",
+					"expanded_url": "https://twitter.com/bestofnextdoor/status/1087535923661688832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 698,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924836857988313100,
+			"id_str": "924836857988313088",
+			"name": "Best of Nextdoor",
+			"screen_name": "bestofnextdoor",
+			"location": "United States",
+			"description": "quality neighborhood drama 👀 // not affiliated with nextdoor, obvi 💅🏼 // chief lurker: @jenntakahashi 🕵🏻‍♀️ // 💌: tips@bestofnextdoor.com",
+			"url": "https://t.co/EAu3nIpIZr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EAu3nIpIZr",
+							"expanded_url": "http://facebook.com/groups/bestofnextdoor",
+							"display_url": "facebook.com/groups/bestofn…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191129,
+			"friends_count": 3274,
+			"listed_count": 693,
+			"created_at": "Mon Oct 30 03:14:24 +0000 2017",
+			"favourites_count": 46393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928441505127178240/YsWckHBh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928441505127178240/YsWckHBh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924836857988313088/1515580817",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meanwhile in Michigan... https://t.co/FpNdIPEu2g"
+	},
+	{
 		"created_at": "Tue Jan 22 01:06:14 +0000 2019",
 		"id": 1087516755675746300,
 		"id_str": "1087516755675746310",
