@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 01:06:14 +0000 2019",
+		"id": 1087516755675746300,
+		"id_str": "1087516755675746310",
+		"full_text": "Perhaps hypothetically? https://t.co/KeGGU7w49i https://t.co/hRjLNuO2Tf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KeGGU7w49i",
+					"expanded_url": "https://nyti.ms/2CzuNNC",
+					"display_url": "nyti.ms/2CzuNNC",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/hRjLNuO2Tf",
+					"expanded_url": "https://twitter.com/currentstatus/status/1087510823008960514",
+					"display_url": "twitter.com/currentstatus/…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10426,
+			"friends_count": 1428,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12758,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087510823008960500,
+		"quoted_status_id_str": "1087510823008960514",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hRjLNuO2Tf",
+			"expanded": "https://twitter.com/currentstatus/status/1087510823008960514",
+			"display": "twitter.com/currentstatus/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 22 00:42:39 +0000 2019",
+			"id": 1087510823008960500,
+			"id_str": "1087510823008960514",
+			"full_text": "After BuzzFeed article, Trump legal team reached out to Mueller's office, Giuliani says\nhttps://t.co/gR8So6xYMP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gR8So6xYMP",
+						"expanded_url": "https://www.cnn.com/2019/01/21/politics/rudy-giuliani-robert-mueller-buzzfeed/index.html",
+						"display_url": "cnn.com/2019/01/21/pol…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 297176227,
+				"id_str": "297176227",
+				"name": "Current Status",
+				"screen_name": "currentstatus",
+				"location": "Seattle, WA",
+				"description": "The Political Web's Front Page. Built with 🖤 by @WTFJHT so you always know what the fuck just happened today.",
+				"url": "https://t.co/zkKHKWRuMI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zkKHKWRuMI",
+								"expanded_url": "https://currentstatus.io/",
+								"display_url": "currentstatus.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 938,
+				"friends_count": 2,
+				"listed_count": 28,
+				"created_at": "Thu May 12 02:16:18 +0000 2011",
+				"favourites_count": 92,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3647,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/979154194220404736/j8lbS72Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979154194220404736/j8lbS72Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/297176227/1522283550",
+				"profile_link_color": "2C3E50",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Perhaps hypothetically? https://t.co/KeGGU7w49i https://t.co/hRjLNuO2Tf"
+	},
+	{
+		"created_at": "Tue Jan 22 00:40:08 +0000 2019",
+		"id": 1087510186493763600,
+		"id_str": "1087510186493763591",
+		"full_text": "Hmmn. \"Viral standoff between a tribal elder and a high schooler is more complicated than it first seemed\" https://t.co/269Zfqo5rK https://t.co/KdEySlgFCv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/269Zfqo5rK",
+					"expanded_url": "https://wapo.st/2AX7wVL",
+					"display_url": "wapo.st/2AX7wVL",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087510091086028800,
+					"id_str": "1087510091086028800",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DxecqnzV4AA0lN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxecqnzV4AA0lN0.jpg",
+					"url": "https://t.co/KdEySlgFCv",
+					"display_url": "pic.twitter.com/KdEySlgFCv",
+					"expanded_url": "https://twitter.com/stiles/status/1087510186493763591/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 176,
+							"h": 238,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 176,
+							"h": 238,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 176,
+							"h": 238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087510091086028800,
+					"id_str": "1087510091086028800",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/DxecqnzV4AA0lN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxecqnzV4AA0lN0.jpg",
+					"url": "https://t.co/KdEySlgFCv",
+					"display_url": "pic.twitter.com/KdEySlgFCv",
+					"expanded_url": "https://twitter.com/stiles/status/1087510186493763591/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 176,
+							"h": 238,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 176,
+							"h": 238,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 176,
+							"h": 238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10426,
+			"friends_count": 1428,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12758,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1546992698",
+			"profile_link_color": "D82E16",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hmmn. \"Viral standoff between a tribal elder and a high schooler is more complicated than it first seemed\" https://t.co/269Zfqo5rK https://t.co/KdEySlgFCv"
+	},
+	{
 		"created_at": "Mon Jan 21 23:38:58 +0000 2019",
 		"id": 1087494795939831800,
 		"id_str": "1087494795939831808",
