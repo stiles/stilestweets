@@ -1,6 +1,1089 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 01:20:20 +0000 2019",
+		"id": 1087882691507187700,
+		"id_str": "1087882691507187712",
+		"full_text": "Layers. \n\nWe might have to wear them. https://t.co/9RiKD3NhMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9RiKD3NhMO",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1087857908707016704",
+					"display_url": "twitter.com/lapublichealth…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10433,
+			"friends_count": 1439,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12766,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548130611",
+			"profile_link_color": "325C8D",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087857908707016700,
+		"quoted_status_id_str": "1087857908707016704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9RiKD3NhMO",
+			"expanded": "https://twitter.com/lapublichealth/status/1087857908707016704",
+			"display": "twitter.com/lapublichealth…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 22 23:41:51 +0000 2019",
+			"id": 1087857908707016700,
+			"id_str": "1087857908707016704",
+			"full_text": "Cold Weather Alert issued by @LAHealthOfficer - Cold Temperatures Expected in Parts of LA County. For more information: https://t.co/5kHNpJChZ7 #HealthAlert https://t.co/Dug9bDpbHm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HealthAlert",
+						"indices": [
+							144,
+							156
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LAHealthOfficer",
+						"name": "Los Angeles County Health Officer",
+						"id": 4894338198,
+						"id_str": "4894338198",
+						"indices": [
+							29,
+							45
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5kHNpJChZ7",
+						"expanded_url": "https://bit.ly/2MpVj0l",
+						"display_url": "bit.ly/2MpVj0l",
+						"indices": [
+							120,
+							143
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1087857882635264000,
+						"id_str": "1087857882635264000",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/DxjY-wSVYAAgaxr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxjY-wSVYAAgaxr.jpg",
+						"url": "https://t.co/Dug9bDpbHm",
+						"display_url": "pic.twitter.com/Dug9bDpbHm",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1087857908707016704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1087857882635264000,
+						"id_str": "1087857882635264000",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/media/DxjY-wSVYAAgaxr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxjY-wSVYAAgaxr.jpg",
+						"url": "https://t.co/Dug9bDpbHm",
+						"display_url": "pic.twitter.com/Dug9bDpbHm",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1087857908707016704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38287098,
+				"id_str": "38287098",
+				"name": "LA Public Health",
+				"screen_name": "lapublichealth",
+				"location": "Los Angeles, California",
+				"description": "Committed to protecting & improving the health of the over 10 million residents of #LACounty. Follow for #HealthAlerts & #HealthTips. #PublicHealth",
+				"url": "https://t.co/Fiv01QwVHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Fiv01QwVHL",
+								"expanded_url": "http://publichealth.lacounty.gov",
+								"display_url": "publichealth.lacounty.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13531,
+				"friends_count": 513,
+				"listed_count": 469,
+				"created_at": "Wed May 06 21:57:05 +0000 2009",
+				"favourites_count": 1236,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6174,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38287098/1527611465",
+				"profile_link_color": "00205B",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DCE7EA",
+				"profile_text_color": "404040",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Layers. \n\nWe might have to wear them. https://t.co/9RiKD3NhMO"
+	},
+	{
+		"created_at": "Wed Jan 23 01:16:56 +0000 2019",
+		"id": 1087881838872297500,
+		"id_str": "1087881838872297472",
+		"full_text": "\"San Antonio, the second-largest city in Texas, is historic, lovely and not on the border. Nor does it have a wall\" — @EricaGrieder https://t.co/OqQIlpSFAa https://t.co/URZhSyGxWy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EricaGrieder",
+					"name": "EricaGrieder",
+					"id": 17655090,
+					"id_str": "17655090",
+					"indices": [
+						118,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OqQIlpSFAa",
+					"expanded_url": "http://bit.ly/2HuBeai",
+					"display_url": "bit.ly/2HuBeai",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087881253204910100,
+					"id_str": "1087881253204910080",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/DxjuPGcV4AAUnGP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxjuPGcV4AAUnGP.jpg",
+					"url": "https://t.co/URZhSyGxWy",
+					"display_url": "pic.twitter.com/URZhSyGxWy",
+					"expanded_url": "https://twitter.com/stiles/status/1087881838872297472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087881253204910100,
+					"id_str": "1087881253204910080",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/DxjuPGcV4AAUnGP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxjuPGcV4AAUnGP.jpg",
+					"url": "https://t.co/URZhSyGxWy",
+					"display_url": "pic.twitter.com/URZhSyGxWy",
+					"expanded_url": "https://twitter.com/stiles/status/1087881838872297472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10433,
+			"friends_count": 1439,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12766,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548130611",
+			"profile_link_color": "325C8D",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"San Antonio, the second-largest city in Texas, is historic, lovely and not on the border. Nor does it have a wall\" — @EricaGrieder https://t.co/OqQIlpSFAa https://t.co/URZhSyGxWy"
+	},
+	{
+		"created_at": "Wed Jan 23 01:08:15 +0000 2019",
+		"id": 1087879651794378800,
+		"id_str": "1087879651794378753",
+		"full_text": "“It challenges what Angelenos see as their God-given right to drive anywhere they want” —  @Prof_MPastor on @metrolosangeles' interest in studying \"congestion pricing\" for LA's clogged roads, as reported by @laura_nelson. https://t.co/oNdJA5XbSE https://t.co/HinpFBQvn4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Prof_MPastor",
+					"name": "Dr. Manuel Pastor",
+					"id": 1905463046,
+					"id_str": "1905463046",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"screen_name": "metrolosangeles",
+					"name": "Metro",
+					"id": 14631598,
+					"id_str": "14631598",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"screen_name": "laura_nelson",
+					"name": "Laura J. Nelson 🦅",
+					"id": 16538210,
+					"id_str": "16538210",
+					"indices": [
+						207,
+						220
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oNdJA5XbSE",
+					"expanded_url": "https://lat.ms/2RVbrMD",
+					"display_url": "lat.ms/2RVbrMD",
+					"indices": [
+						222,
+						245
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087879241872564200,
+					"id_str": "1087879241872564224",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/DxjsaBpV4AAOiAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxjsaBpV4AAOiAj.jpg",
+					"url": "https://t.co/HinpFBQvn4",
+					"display_url": "pic.twitter.com/HinpFBQvn4",
+					"expanded_url": "https://twitter.com/stiles/status/1087879651794378753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087879241872564200,
+					"id_str": "1087879241872564224",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/DxjsaBpV4AAOiAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxjsaBpV4AAOiAj.jpg",
+					"url": "https://t.co/HinpFBQvn4",
+					"display_url": "pic.twitter.com/HinpFBQvn4",
+					"expanded_url": "https://twitter.com/stiles/status/1087879651794378753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10433,
+			"friends_count": 1439,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12766,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548130611",
+			"profile_link_color": "325C8D",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“It challenges what Angelenos see as their God-given right to drive anywhere they want” —  @Prof_MPastor on @metrolosangeles' interest in studying \"congestion pricing\" for LA's clogged roads, as reported by @laura_nelson. https://t.co/oNdJA5XbSE https://t.co/HinpFBQvn4"
+	},
+	{
+		"created_at": "Wed Jan 23 00:47:26 +0000 2019",
+		"id": 1087874414446731300,
+		"id_str": "1087874414446731265",
+		"full_text": "Sure, troll, let me send you my Social Security pin and banking pin. Standby. https://t.co/FrS6YSaQgf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087874364987433000,
+					"id_str": "1087874364987432960",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxjn-J1UYAAFuFA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxjn-J1UYAAFuFA.jpg",
+					"url": "https://t.co/FrS6YSaQgf",
+					"display_url": "pic.twitter.com/FrS6YSaQgf",
+					"expanded_url": "https://twitter.com/stiles/status/1087874414446731265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 261,
+							"h": 733,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 261,
+							"h": 733,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087874364987433000,
+					"id_str": "1087874364987432960",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxjn-J1UYAAFuFA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxjn-J1UYAAFuFA.jpg",
+					"url": "https://t.co/FrS6YSaQgf",
+					"display_url": "pic.twitter.com/FrS6YSaQgf",
+					"expanded_url": "https://twitter.com/stiles/status/1087874414446731265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 261,
+							"h": 733,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 261,
+							"h": 733,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10433,
+			"friends_count": 1439,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12766,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548130611",
+			"profile_link_color": "325C8D",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sure, troll, let me send you my Social Security pin and banking pin. Standby. https://t.co/FrS6YSaQgf"
+	},
+	{
+		"created_at": "Wed Jan 23 00:27:07 +0000 2019",
+		"id": 1087869302093504500,
+		"id_str": "1087869302093504513",
+		"full_text": "Smaller classes, new community schools in tentative deal to end the LAUSD teachers' strike https://t.co/3mg2PQOWtk https://t.co/OIVwYzGP5l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3mg2PQOWtk",
+					"expanded_url": "https://lat.ms/2HpgYXK",
+					"display_url": "lat.ms/2HpgYXK",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087869261769453600,
+					"id_str": "1087869261769453568",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DxjjVG3VsAAFqVm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxjjVG3VsAAFqVm.jpg",
+					"url": "https://t.co/OIVwYzGP5l",
+					"display_url": "pic.twitter.com/OIVwYzGP5l",
+					"expanded_url": "https://twitter.com/stiles/status/1087869302093504513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 415,
+							"h": 311,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 415,
+							"h": 311,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 311,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087869261769453600,
+					"id_str": "1087869261769453568",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DxjjVG3VsAAFqVm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxjjVG3VsAAFqVm.jpg",
+					"url": "https://t.co/OIVwYzGP5l",
+					"display_url": "pic.twitter.com/OIVwYzGP5l",
+					"expanded_url": "https://twitter.com/stiles/status/1087869302093504513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 415,
+							"h": 311,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 415,
+							"h": 311,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 311,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10433,
+			"friends_count": 1439,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12766,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548130611",
+			"profile_link_color": "325C8D",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Smaller classes, new community schools in tentative deal to end the LAUSD teachers' strike https://t.co/3mg2PQOWtk https://t.co/OIVwYzGP5l"
+	},
+	{
 		"created_at": "Tue Jan 22 02:49:43 +0000 2019",
 		"id": 1087542800155996200,
 		"id_str": "1087542800155996160",
@@ -382,7 +1465,7 @@ Grailbird.data.tweets_2019_01 =
 			"name": "Best of Nextdoor",
 			"screen_name": "bestofnextdoor",
 			"location": "United States",
-			"description": "quality neighborhood drama 👀 // not affiliated with nextdoor, obvi 💅🏼 // chief lurker: @jenntakahashi 🕵🏻‍♀️ // 💌: tips@bestofnextdoor.com",
+			"description": "quality neighborhood drama 👀 // not affiliated with nextdoor, obvi 💅🏼 // chief lurker: @jenntakahashi 🕵🏻♀️ // 💌: tips@bestofnextdoor.com",
 			"url": "https://t.co/EAu3nIpIZr",
 			"entities": {
 				"url": {
