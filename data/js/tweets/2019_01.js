@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 15:46:19 +0000 2019",
+		"id": 1088463014242578400,
+		"id_str": "1088463014242578432",
+		"full_text": "The L.A. Times is hiring like crazy — we’ve got 25+ job openings for reporters, editors, visual journalists of all stripes. https://t.co/ew1od88HE4 https://t.co/SV0MThQCPW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ew1od88HE4",
+					"expanded_url": "https://www.journalismjobs.com/job-listings?keywords=Los+Angeles+Times+&industry=&position=&jobType=&salary=&location=&datePosted=&diversity=",
+					"display_url": "journalismjobs.com/job-listings?k…",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/SV0MThQCPW",
+					"expanded_url": "https://twitter.com/aterkel/status/1088449615425200129",
+					"display_url": "twitter.com/aterkel/status…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69004966,
+			"id_str": "69004966",
+			"name": "Matt Pearce 🦅",
+			"screen_name": "mattdpearce",
+			"location": "matt.pearce@latimes.com",
+			"description": "National correspondent for the Los Angeles Times. May the forces of evil become confused on the way to your house.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141518,
+			"friends_count": 2486,
+			"listed_count": 4198,
+			"created_at": "Wed Aug 26 15:05:15 +0000 2009",
+			"favourites_count": 126631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 121710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "383838",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002554410717757442/ywgIlN3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002554410717757442/ywgIlN3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69004966/1484268255",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0E0E0",
+			"profile_text_color": "4F4E4E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088449615425200100,
+		"quoted_status_id_str": "1088449615425200129",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SV0MThQCPW",
+			"expanded": "https://twitter.com/aterkel/status/1088449615425200129",
+			"display": "twitter.com/aterkel/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 24 14:53:05 +0000 2019",
+			"id": 1088449615425200100,
+			"id_str": "1088449615425200129",
+			"full_text": "If you work at a media organization and have job openings, please tweet them out today.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15727317,
+				"id_str": "15727317",
+				"name": "Amanda Terkel",
+				"screen_name": "aterkel",
+				"location": "Washington, DC",
+				"description": "Washington Bureau Chief, HuffPost. aterkel at huffpost dot com Sign up for my newsletter: https://t.co/kO4RwneZRf DMs are open.",
+				"url": "https://t.co/xT79unCEKu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xT79unCEKu",
+								"expanded_url": "http://www.huffingtonpost.com/amanda-terkel",
+								"display_url": "huffingtonpost.com/amanda-terkel",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kO4RwneZRf",
+								"expanded_url": "https://aterkel.substack.com/",
+								"display_url": "aterkel.substack.com",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 98431,
+				"friends_count": 5982,
+				"listed_count": 3097,
+				"created_at": "Mon Aug 04 20:24:44 +0000 2008",
+				"favourites_count": 2525,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46155,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFC250",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1053320985695449088/7ammrjEF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053320985695449088/7ammrjEF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15727317/1502639934",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1465,
+			"favorite_count": 3202,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 646,
+		"favorite_count": 882,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The L.A. Times is hiring like crazy — we’ve got 25+ job openings for reporters, editors, visual journalists of all stripes. https://t.co/ew1od88HE4 https://t.co/SV0MThQCPW"
+	},
+	{
 		"created_at": "Thu Jan 24 18:45:55 +0000 2019",
 		"id": 1088508211592740900,
 		"id_str": "1088508211592740865",
