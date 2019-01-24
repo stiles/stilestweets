@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 17:33:04 +0000 2019",
+		"id": 1088127488889364500,
+		"id_str": "1088127488889364481",
+		"full_text": "The fight over the State of the Union basically sums up the state of the union.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14630267,
+			"id_str": "14630267",
+			"name": "Natalie Andrews",
+			"screen_name": "nataliewsj",
+			"location": "Washington, DC",
+			"description": "Congress reporter for @WSJ. I’m originally from Utah. Mom to a pug. email: natalie.andrews@wsj.com Cover photo: Getty",
+			"url": "https://t.co/bdjLRJNLzl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bdjLRJNLzl",
+							"expanded_url": "http://topics.wsj.com/person/N/natalie-andrews/8271?mod=DNH_S_tp",
+							"display_url": "topics.wsj.com/person/N/natal…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15477,
+			"friends_count": 2995,
+			"listed_count": 812,
+			"created_at": "Fri May 02 19:55:44 +0000 2008",
+			"favourites_count": 4077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083380186303942657/m63Q3B5g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083380186303942657/m63Q3B5g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14630267/1538780071",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 580,
+		"favorite_count": 2181,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The fight over the State of the Union basically sums up the state of the union."
+	},
+	{
+		"created_at": "Thu Jan 24 02:51:36 +0000 2019",
+		"id": 1088268050279747600,
+		"id_str": "1088268050279747585",
+		"full_text": "As always — clear-eyed, thoughtful analysis on North Korea by ⁦@duyeonkim⁩.  https://t.co/JVlC7sodOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duyeonkim",
+					"name": "Duyeon Kim",
+					"id": 114345927,
+					"id_str": "114345927",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JVlC7sodOP",
+					"expanded_url": "https://thebulletin.org/2019/01/what-north-korea-wants-from-the-next-us-summit/",
+					"display_url": "thebulletin.org/2019/01/what-n…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10431,
+			"friends_count": 1441,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12780,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548289042",
+			"profile_link_color": "DE9488",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As always — clear-eyed, thoughtful analysis on North Korea by ⁦@duyeonkim⁩.  https://t.co/JVlC7sodOP"
+	},
+	{
 		"created_at": "Wed Jan 23 22:37:20 +0000 2019",
 		"id": 1088204059012620300,
 		"id_str": "1088204059012620289",
