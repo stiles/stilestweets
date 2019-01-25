@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 02:30:50 +0000 2019",
+		"id": 1088625212336164900,
+		"id_str": "1088625212336164864",
+		"full_text": "Yes https://t.co/LUcSyLiDD7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LUcSyLiDD7",
+					"expanded_url": "https://twitter.com/kathrynw5/status/1088540768069914625",
+					"display_url": "twitter.com/kathrynw5/stat…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10431,
+			"friends_count": 1444,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12789,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548289042",
+			"profile_link_color": "DE9488",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088540768069914600,
+		"quoted_status_id_str": "1088540768069914625",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LUcSyLiDD7",
+			"expanded": "https://twitter.com/kathrynw5/status/1088540768069914625",
+			"display": "twitter.com/kathrynw5/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 24 20:55:17 +0000 2019",
+			"id": 1088540768069914600,
+			"id_str": "1088540768069914625",
+			"full_text": "A 10-year-old kid won a science fair by proving Tom Brady is a cheater https://t.co/QEm4iwx9Xh via @YahooSports",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YahooSports",
+						"name": "Yahoo Sports",
+						"id": 7302282,
+						"id_str": "7302282",
+						"indices": [
+							99,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QEm4iwx9Xh",
+						"expanded_url": "https://sports.yahoo.com/10-year-old-kid-won-science-fair-proving-tom-brady-cheater-184439991.html?soc_src=social-sh&soc_trk=tw",
+						"display_url": "sports.yahoo.com/10-year-old-ki…",
+						"indices": [
+							71,
+							94
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21786220,
+				"id_str": "21786220",
+				"name": "Kathryn Watson",
+				"screen_name": "kathrynw5",
+				"location": "DC by way of CA",
+				"description": "White House reporter for @CBSNews digital. I tweet about politics and junk food. kathryn.watson@cbsi.com, kathrynwatson@protonmail.com",
+				"url": "https://t.co/JhQoEvE6sT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JhQoEvE6sT",
+								"expanded_url": "http://www.cbsnews.com/politics/",
+								"display_url": "cbsnews.com/politics/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14785,
+				"friends_count": 2254,
+				"listed_count": 410,
+				"created_at": "Tue Feb 24 19:27:04 +0000 2009",
+				"favourites_count": 20855,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1113,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075143415187337216/4-qhSnUP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075143415187337216/4-qhSnUP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21786220/1547172941",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 159,
+			"favorite_count": 458,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yes https://t.co/LUcSyLiDD7"
+	},
+	{
 		"created_at": "Thu Jan 24 23:46:29 +0000 2019",
 		"id": 1088583852052820000,
 		"id_str": "1088583852052819969",
