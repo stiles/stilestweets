@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 22:09:43 +0000 2019",
+		"id": 1088559497642106900,
+		"id_str": "1088559497642106880",
+		"full_text": "🗞️DATA THREAD 🗞️\nWe published a story today about how specialized LAPD Metropolitan officers pulled over black drivers at disproportionate rates @cindychangLA \nhttps://t.co/KwS7gn0O2j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cindychangLA",
+					"name": "Cindy Chang",
+					"id": 21429103,
+					"id_str": "21429103",
+					"indices": [
+						145,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KwS7gn0O2j",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-lapd-traffic-stops-20190124-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14927843,
+			"id_str": "14927843",
+			"name": "Ben Poston",
+			"screen_name": "bposton",
+			"location": "Los Angeles, CA",
+			"description": "@latimes data reporter | adjunct journalism professor with @USCAnnenberg | alum of @js_watchdog | native of @springfieldohio | @IRE_NICAR changed my life.",
+			"url": "https://t.co/sEOR7XeZys",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sEOR7XeZys",
+							"expanded_url": "http://fw.to/sABONoE",
+							"display_url": "fw.to/sABONoE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2460,
+			"friends_count": 1796,
+			"listed_count": 171,
+			"created_at": "Wed May 28 00:24:51 +0000 2008",
+			"favourites_count": 6143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/790624783276740608/ZWDDU46o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/790624783276740608/ZWDDU46o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14927843/1480636967",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗞️DATA THREAD 🗞️\nWe published a story today about how specialized LAPD Metropolitan officers pulled over black drivers at disproportionate rates @cindychangLA \nhttps://t.co/KwS7gn0O2j"
+	},
+	{
 		"created_at": "Fri Jan 25 02:30:50 +0000 2019",
 		"id": 1088625212336164900,
 		"id_str": "1088625212336164864",
