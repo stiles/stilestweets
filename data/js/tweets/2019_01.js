@@ -80,6 +80,512 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 8161,
+			"friends_count": 1255,
+			"listed_count": 307,
+			"created_at": "Fri Mar 06 06:50:33 +0000 2009",
+			"favourites_count": 1557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17052,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/454755364123074560/zpjx0Vbg_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/454755364123074560/zpjx0Vbg_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23040137/1380815678",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you like this kind of journalism, please consider subscribing. It's a grim time for media (see layoff news this week at Buzzfeed, Gannett, HuffPost). The @latimes is growing under the local ownership of @drpatsoonshiong, but we need your support! https://t.co/KcUiE9cItd"
+	},
+	{
+		"created_at": "Thu Jan 24 22:09:43 +0000 2019",
+		"id": 1088559497642106900,
+		"id_str": "1088559497642106880",
+		"full_text": "🗞️DATA THREAD 🗞️\nWe published a story today about how specialized LAPD Metropolitan officers pulled over black drivers at disproportionate rates @cindychangLA \nhttps://t.co/KwS7gn0O2j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cindychangLA",
+					"name": "Cindy Chang",
+					"id": 21429103,
+					"id_str": "21429103",
+					"indices": [
+						145,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KwS7gn0O2j",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-lapd-traffic-stops-20190124-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14927843,
+			"id_str": "14927843",
+			"name": "Ben Poston",
+			"screen_name": "bposton",
+			"location": "Los Angeles, CA",
+			"description": "@latimes data reporter | adjunct journalism professor with @USCAnnenberg | alum of @js_watchdog | native of @springfieldohio | @IRE_NICAR changed my life.",
+			"url": "https://t.co/sEOR7XeZys",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sEOR7XeZys",
+							"expanded_url": "http://fw.to/sABONoE",
+							"display_url": "fw.to/sABONoE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2466,
+			"friends_count": 1796,
+			"listed_count": 171,
+			"created_at": "Wed May 28 00:24:51 +0000 2008",
+			"favourites_count": 6150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4409,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/790624783276740608/ZWDDU46o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/790624783276740608/ZWDDU46o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14927843/1480636967",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗞️DATA THREAD 🗞️\nWe published a story today about how specialized LAPD Metropolitan officers pulled over black drivers at disproportionate rates @cindychangLA \nhttps://t.co/KwS7gn0O2j"
+	},
+	{
+		"created_at": "Fri Jan 25 02:30:50 +0000 2019",
+		"id": 1088625212336164900,
+		"id_str": "1088625212336164864",
+		"full_text": "Yes https://t.co/LUcSyLiDD7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LUcSyLiDD7",
+					"expanded_url": "https://twitter.com/kathrynw5/status/1088540768069914625",
+					"display_url": "twitter.com/kathrynw5/stat…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10430,
+			"friends_count": 1444,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12791,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548289042",
+			"profile_link_color": "DE9488",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088540768069914600,
+		"quoted_status_id_str": "1088540768069914625",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LUcSyLiDD7",
+			"expanded": "https://twitter.com/kathrynw5/status/1088540768069914625",
+			"display": "twitter.com/kathrynw5/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 24 20:55:17 +0000 2019",
+			"id": 1088540768069914600,
+			"id_str": "1088540768069914625",
+			"full_text": "A 10-year-old kid won a science fair by proving Tom Brady is a cheater https://t.co/QEm4iwx9Xh via @YahooSports",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YahooSports",
+						"name": "Yahoo Sports",
+						"id": 7302282,
+						"id_str": "7302282",
+						"indices": [
+							99,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QEm4iwx9Xh",
+						"expanded_url": "https://sports.yahoo.com/10-year-old-kid-won-science-fair-proving-tom-brady-cheater-184439991.html?soc_src=social-sh&soc_trk=tw",
+						"display_url": "sports.yahoo.com/10-year-old-ki…",
+						"indices": [
+							71,
+							94
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21786220,
+				"id_str": "21786220",
+				"name": "Kathryn Watson",
+				"screen_name": "kathrynw5",
+				"location": "DC by way of CA",
+				"description": "White House reporter for @CBSNews digital. I tweet about politics and junk food. kathryn.watson@cbsi.com, kathrynwatson@protonmail.com",
+				"url": "https://t.co/JhQoEvE6sT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JhQoEvE6sT",
+								"expanded_url": "http://www.cbsnews.com/politics/",
+								"display_url": "cbsnews.com/politics/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14791,
+				"friends_count": 2254,
+				"listed_count": 411,
+				"created_at": "Tue Feb 24 19:27:04 +0000 2009",
+				"favourites_count": 20858,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1119,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075143415187337216/4-qhSnUP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075143415187337216/4-qhSnUP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21786220/1547172941",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 183,
+			"favorite_count": 509,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yes https://t.co/LUcSyLiDD7"
+	},
+	{
+		"created_at": "Fri Jan 25 01:55:54 +0000 2019",
+		"id": 1088616418038341600,
+		"id_str": "1088616418038341632",
+		"full_text": "If you like this kind of journalism, please consider subscribing. It's a grim time for media (see layoff news this week at Buzzfeed, Gannett, HuffPost). The @latimes is growing under the local ownership of @drpatsoonshiong, but we need your support! https://t.co/KcUiE9cItd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"screen_name": "DrPatSoonShiong",
+					"name": "Dr. Pat Soon-Shiong",
+					"id": 71322014,
+					"id_str": "71322014",
+					"indices": [
+						206,
+						222
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KcUiE9cItd",
+					"expanded_url": "https://www.latimes.com/subscriptions/",
+					"display_url": "latimes.com/subscriptions/",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1088616417262370800,
+		"in_reply_to_status_id_str": "1088616417262370816",
+		"in_reply_to_user_id": 23040137,
+		"in_reply_to_user_id_str": "23040137",
+		"in_reply_to_screen_name": "kyoshino",
+		"user": {
+			"id": 23040137,
+			"id_str": "23040137",
+			"name": "Kimi Yoshino",
+			"screen_name": "kyoshino",
+			"location": "Los Angeles, CA",
+			"description": "Senior Deputy Managing Editor, Los Angeles Times",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 8162,
 			"friends_count": 1255,
 			"listed_count": 307,
