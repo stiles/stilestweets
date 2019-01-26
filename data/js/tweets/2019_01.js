@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 04:55:18 +0000 2019",
+		"id": 1089023955216658400,
+		"id_str": "1089023955216658432",
+		"full_text": "\"After the longest government shutdown in history, Mr. Trump surrendered with nothing concrete (or steel) to show for the battle...\" — @peterbakernyt https://t.co/XuuYS61mKR https://t.co/OrWN7qGT7M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterbakernyt",
+					"name": "Peter Baker",
+					"id": 123327472,
+					"id_str": "123327472",
+					"indices": [
+						135,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XuuYS61mKR",
+					"expanded_url": "https://nyti.ms/2B3C0VW",
+					"display_url": "nyti.ms/2B3C0VW",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089023817786093600,
+					"id_str": "1089023817786093569",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxz9ZHMUcAEcMhw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxz9ZHMUcAEcMhw.jpg",
+					"url": "https://t.co/OrWN7qGT7M",
+					"display_url": "pic.twitter.com/OrWN7qGT7M",
+					"expanded_url": "https://twitter.com/stiles/status/1089023955216658432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089023817786093600,
+					"id_str": "1089023817786093569",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxz9ZHMUcAEcMhw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxz9ZHMUcAEcMhw.jpg",
+					"url": "https://t.co/OrWN7qGT7M",
+					"display_url": "pic.twitter.com/OrWN7qGT7M",
+					"expanded_url": "https://twitter.com/stiles/status/1089023955216658432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10432,
+			"friends_count": 1445,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12800,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548443638",
+			"profile_link_color": "51A09E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"After the longest government shutdown in history, Mr. Trump surrendered with nothing concrete (or steel) to show for the battle...\" — @peterbakernyt https://t.co/XuuYS61mKR https://t.co/OrWN7qGT7M"
+	},
+	{
+		"created_at": "Fri Jan 25 19:23:18 +0000 2019",
+		"id": 1088880004262449200,
+		"id_str": "1088880004262449152",
+		"full_text": "The subtext of Trump's word salad, translated: https://t.co/dE1raes0Xc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088879809671893000,
+					"id_str": "1088879809671892992",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dxx6avKWkAAilJW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dxx6avKWkAAilJW.jpg",
+					"url": "https://t.co/dE1raes0Xc",
+					"display_url": "pic.twitter.com/dE1raes0Xc",
+					"expanded_url": "https://twitter.com/MrDanZak/status/1088880004262449152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 258,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 258,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088879809671893000,
+					"id_str": "1088879809671892992",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dxx6avKWkAAilJW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dxx6avKWkAAilJW.jpg",
+					"url": "https://t.co/dE1raes0Xc",
+					"display_url": "pic.twitter.com/dE1raes0Xc",
+					"expanded_url": "https://twitter.com/MrDanZak/status/1088880004262449152/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 258,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							43
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dxx6avKWkAAilJW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66267332,
+			"id_str": "66267332",
+			"name": "Dan Zak",
+			"screen_name": "MrDanZak",
+			"location": "The capital",
+			"description": "Newspaperman @washingtonpost. Author of ALMIGHTY, a book on the bomb: https://t.co/Wz4F1PaBy6. Buffalo boy. \"The circus is either in town, or it isn't.\"",
+			"url": "https://t.co/u9P3OeEyLs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u9P3OeEyLs",
+							"expanded_url": "http://www.mrdanzak.com/about/",
+							"display_url": "mrdanzak.com/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Wz4F1PaBy6",
+							"expanded_url": "http://amzn.to/2AmwNsY",
+							"display_url": "amzn.to/2AmwNsY",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 29447,
+			"friends_count": 1418,
+			"listed_count": 879,
+			"created_at": "Mon Aug 17 03:38:55 +0000 2009",
+			"favourites_count": 2265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958564654179024896/rTUytsGR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958564654179024896/rTUytsGR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66267332/1537502887",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The subtext of Trump's word salad, translated: https://t.co/dE1raes0Xc"
+	},
+	{
 		"created_at": "Fri Jan 25 19:23:18 +0000 2019",
 		"id": 1088880004262449200,
 		"id_str": "1088880004262449152",
