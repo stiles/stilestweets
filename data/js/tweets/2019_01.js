@@ -130,6 +130,216 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 11965,
+			"friends_count": 1209,
+			"listed_count": 611,
+			"created_at": "Tue Apr 22 16:01:22 +0000 2008",
+			"favourites_count": 5247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13369,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081689216621441024/qGBWRXMj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081689216621441024/qGBWRXMj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14476328/1427071571",
+			"profile_link_color": "CC0000",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01c689cd0c26beaa",
+			"url": "https://api.twitter.com/1.1/geo/id/01c689cd0c26beaa.json",
+			"place_type": "city",
+			"name": "Aberdeen",
+			"full_name": "Aberdeen, MD",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-76.200658,
+							39.451104
+						],
+						[
+							-76.09734,
+							39.451104
+						],
+						[
+							-76.09734,
+							39.544301
+						],
+						[
+							-76.200658,
+							39.544301
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@stiles @latimes @skarlamangla @GinaFerazzi @StevePadilla2 We @latimes vets should all post links to the Column Ones of which we’re proudest. Mine: https://t.co/hKbQlYvo04"
+	},
+	{
+		"created_at": "Sat Jan 26 18:24:12 +0000 2019",
+		"id": 1089227518782173200,
+		"id_str": "1089227518782173185",
+		"full_text": "@stiles @latimes @skarlamangla @GinaFerazzi @StevePadilla2 We @latimes vets should all post links to the Column Ones of which we’re proudest. Mine: https://t.co/hKbQlYvo04",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"screen_name": "skarlamangla",
+					"name": "Soumya",
+					"id": 244701234,
+					"id_str": "244701234",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "GinaFerazzi",
+					"name": "Gina Ferazzi",
+					"id": 176922049,
+					"id_str": "176922049",
+					"indices": [
+						31,
+						43
+					]
+				},
+				{
+					"screen_name": "StevePadilla2",
+					"name": "Steve Padilla",
+					"id": 420006601,
+					"id_str": "420006601",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hKbQlYvo04",
+					"expanded_url": "http://articles.latimes.com/1986-07-17/news/mn-21634_1_international-law",
+					"display_url": "articles.latimes.com/1986-07-17/new…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1089223207670886400,
+		"in_reply_to_status_id_str": "1089223207670886400",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14476328,
+			"id_str": "14476328",
+			"name": "Jim Schachter",
+			"screen_name": "jimschachter",
+			"location": "New York, NY",
+			"description": "Tweeting from New York City's own station, WNYC 93.9FM/AM820, and https://t.co/l1UjBeap7l, as vp for news.",
+			"url": "https://t.co/CSGinZNmkE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CSGinZNmkE",
+							"expanded_url": "http://wnyc.org",
+							"display_url": "wnyc.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/l1UjBeap7l",
+							"expanded_url": "http://WNYC.org",
+							"display_url": "WNYC.org",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 11947,
 			"friends_count": 1207,
 			"listed_count": 609,
