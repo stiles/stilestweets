@@ -1,6 +1,487 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 22:34:36 +0000 2019",
+		"id": 1089290536488321000,
+		"id_str": "1089290536488321025",
+		"full_text": "Yay!! https://t.co/VIKmFpOArL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VIKmFpOArL",
+					"expanded_url": "https://twitter.com/chrisvognar/status/1089235698455068672",
+					"display_url": "twitter.com/chrisvognar/st…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10429,
+			"friends_count": 1445,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12805,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548443638",
+			"profile_link_color": "51A09E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089235698455068700,
+		"quoted_status_id_str": "1089235698455068672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VIKmFpOArL",
+			"expanded": "https://twitter.com/chrisvognar/status/1089235698455068672",
+			"display": "twitter.com/chrisvognar/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 26 18:56:42 +0000 2019",
+			"id": 1089235698455068700,
+			"id_str": "1089235698455068672",
+			"full_text": "What up Twitter? I’m heading to the @HoustonChron in March. Leaving a piece of my heart in Dallas, but very excited for my new adventure at a great newspaper.✌️",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HoustonChron",
+						"name": "Houston Chronicle",
+						"id": 8940342,
+						"id_str": "8940342",
+						"indices": [
+							36,
+							49
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80095753,
+				"id_str": "80095753",
+				"name": "Chris Vognar",
+				"screen_name": "chrisvognar",
+				"location": "Dallas, Texas",
+				"description": "Former culture critic, The Dallas Morning News. Books. Movies. Nieman Fellow at Harvard, '09. Bay Area native. Pen for hire. Can’t knock the hustle.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6902,
+				"friends_count": 5014,
+				"listed_count": 286,
+				"created_at": "Mon Oct 05 18:48:28 +0000 2009",
+				"favourites_count": 7131,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23042,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079539449011290113/MWgCasNX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079539449011290113/MWgCasNX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80095753/1404011807",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "18810aa5b43e76c7",
+				"url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json",
+				"place_type": "city",
+				"name": "Dallas",
+				"full_name": "Dallas, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-96.977527,
+								32.620678
+							],
+							[
+								-96.54598,
+								32.620678
+							],
+							[
+								-96.54598,
+								33.019039
+							],
+							[
+								-96.977527,
+								33.019039
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 280,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yay!! https://t.co/VIKmFpOArL"
+	},
+	{
+		"created_at": "Sat Jan 26 18:24:12 +0000 2019",
+		"id": 1089227518782173200,
+		"id_str": "1089227518782173185",
+		"full_text": "@stiles @latimes @skarlamangla @GinaFerazzi @StevePadilla2 We @latimes vets should all post links to the Column Ones of which we’re proudest. Mine: https://t.co/hKbQlYvo04",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"screen_name": "skarlamangla",
+					"name": "Soumya",
+					"id": 244701234,
+					"id_str": "244701234",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "GinaFerazzi",
+					"name": "Gina Ferazzi",
+					"id": 176922049,
+					"id_str": "176922049",
+					"indices": [
+						31,
+						43
+					]
+				},
+				{
+					"screen_name": "StevePadilla2",
+					"name": "Steve Padilla",
+					"id": 420006601,
+					"id_str": "420006601",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hKbQlYvo04",
+					"expanded_url": "http://articles.latimes.com/1986-07-17/news/mn-21634_1_international-law",
+					"display_url": "articles.latimes.com/1986-07-17/new…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1089223207670886400,
+		"in_reply_to_status_id_str": "1089223207670886400",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14476328,
+			"id_str": "14476328",
+			"name": "Jim Schachter",
+			"screen_name": "jimschachter",
+			"location": "New York, NY",
+			"description": "Tweeting from New York City's own station, WNYC 93.9FM/AM820, and https://t.co/l1UjBeap7l, as vp for news.",
+			"url": "https://t.co/CSGinZNmkE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CSGinZNmkE",
+							"expanded_url": "http://wnyc.org",
+							"display_url": "wnyc.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/l1UjBeap7l",
+							"expanded_url": "http://WNYC.org",
+							"display_url": "WNYC.org",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11981,
+			"friends_count": 1209,
+			"listed_count": 609,
+			"created_at": "Tue Apr 22 16:01:22 +0000 2008",
+			"favourites_count": 5248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13369,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081689216621441024/qGBWRXMj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081689216621441024/qGBWRXMj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14476328/1427071571",
+			"profile_link_color": "CC0000",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01c689cd0c26beaa",
+			"url": "https://api.twitter.com/1.1/geo/id/01c689cd0c26beaa.json",
+			"place_type": "city",
+			"name": "Aberdeen",
+			"full_name": "Aberdeen, MD",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-76.200658,
+							39.451104
+						],
+						[
+							-76.09734,
+							39.451104
+						],
+						[
+							-76.09734,
+							39.544301
+						],
+						[
+							-76.200658,
+							39.544301
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@stiles @latimes @skarlamangla @GinaFerazzi @StevePadilla2 We @latimes vets should all post links to the Column Ones of which we’re proudest. Mine: https://t.co/hKbQlYvo04"
+	},
+	{
 		"created_at": "Sat Jan 26 18:24:12 +0000 2019",
 		"id": 1089227518782173200,
 		"id_str": "1089227518782173185",
