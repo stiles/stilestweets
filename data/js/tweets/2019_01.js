@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 18:19:16 +0000 2019",
+		"id": 1089226280325640200,
+		"id_str": "1089226280325640193",
+		"full_text": "'Chaos president': Shutdown and indictments test limits of Trump's appeal as a disruptor, by @Noahbierman @EliStokols  https://t.co/RKFCovABev https://t.co/O1fiQcx5FD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Noahbierman",
+					"name": "Noah Bierman",
+					"id": 95297779,
+					"id_str": "95297779",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"screen_name": "EliStokols",
+					"name": "Eli Stokols",
+					"id": 75939860,
+					"id_str": "75939860",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RKFCovABev",
+					"expanded_url": "https://www.latimes.com/politics/la-na-pol-trump-shutdown-chaos-20190125-story.html?outputType=amp",
+					"display_url": "latimes.com/politics/la-na…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089226273291788300,
+					"id_str": "1089226273291788288",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx21hkuUYAAiJ7j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx21hkuUYAAiJ7j.jpg",
+					"url": "https://t.co/O1fiQcx5FD",
+					"display_url": "pic.twitter.com/O1fiQcx5FD",
+					"expanded_url": "https://twitter.com/stiles/status/1089226280325640193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1336,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 783,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089226273291788300,
+					"id_str": "1089226273291788288",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx21hkuUYAAiJ7j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx21hkuUYAAiJ7j.jpg",
+					"url": "https://t.co/O1fiQcx5FD",
+					"display_url": "pic.twitter.com/O1fiQcx5FD",
+					"expanded_url": "https://twitter.com/stiles/status/1089226280325640193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1336,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 783,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10431,
+			"friends_count": 1445,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548443638",
+			"profile_link_color": "51A09E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Chaos president': Shutdown and indictments test limits of Trump's appeal as a disruptor, by @Noahbierman @EliStokols  https://t.co/RKFCovABev https://t.co/O1fiQcx5FD"
+	},
+	{
+		"created_at": "Sat Jan 26 18:07:04 +0000 2019",
+		"id": 1089223207670886400,
+		"id_str": "1089223207670886400",
+		"full_text": "‘Column One’ is back in @latimes. Nice work, @skarlamangla @GinaFerazzi @StevePadilla2 et al.! https://t.co/mYaoXJ27Jf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"screen_name": "skarlamangla",
+					"name": "Soumya",
+					"id": 244701234,
+					"id_str": "244701234",
+					"indices": [
+						45,
+						58
+					]
+				},
+				{
+					"screen_name": "GinaFerazzi",
+					"name": "Gina Ferazzi",
+					"id": 176922049,
+					"id_str": "176922049",
+					"indices": [
+						59,
+						71
+					]
+				},
+				{
+					"screen_name": "StevePadilla2",
+					"name": "Steve Padilla",
+					"id": 420006601,
+					"id_str": "420006601",
+					"indices": [
+						72,
+						86
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089223199219302400,
+					"id_str": "1089223199219302400",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx2yuo6UwAAqycb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx2yuo6UwAAqycb.jpg",
+					"url": "https://t.co/mYaoXJ27Jf",
+					"display_url": "pic.twitter.com/mYaoXJ27Jf",
+					"expanded_url": "https://twitter.com/stiles/status/1089223207670886400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089223199219302400,
+					"id_str": "1089223199219302400",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx2yuo6UwAAqycb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx2yuo6UwAAqycb.jpg",
+					"url": "https://t.co/mYaoXJ27Jf",
+					"display_url": "pic.twitter.com/mYaoXJ27Jf",
+					"expanded_url": "https://twitter.com/stiles/status/1089223207670886400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10431,
+			"friends_count": 1445,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548443638",
+			"profile_link_color": "51A09E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Column One’ is back in @latimes. Nice work, @skarlamangla @GinaFerazzi @StevePadilla2 et al.! https://t.co/mYaoXJ27Jf"
+	},
+	{
 		"created_at": "Sat Jan 26 15:38:00 +0000 2019",
 		"id": 1089185694428381200,
 		"id_str": "1089185694428381184",
