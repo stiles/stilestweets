@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 22:53:52 +0000 2019",
+		"id": 1089295383598170100,
+		"id_str": "1089295383598170113",
+		"full_text": "@DavidWohl @GiaArnold4 @realDonaldTrump LOL, but you used it as a verb. Simple English.",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidWohl",
+					"name": "David Wohl",
+					"id": 23359769,
+					"id_str": "23359769",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "GiaArnold4",
+					"name": "Gia Arnold",
+					"id": 1059516565207633900,
+					"id_str": "1059516565207633920",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						23,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1089294069245784000,
+		"in_reply_to_status_id_str": "1089294069245784064",
+		"in_reply_to_user_id": 23359769,
+		"in_reply_to_user_id_str": "23359769",
+		"in_reply_to_screen_name": "DavidWohl",
+		"user": {
+			"id": 15568640,
+			"id_str": "15568640",
+			"name": "Tammy Ingram 🏳️‍🌈",
+			"screen_name": "tammyingram",
+			"location": "New York, NY 🔁 Charleston, SC",
+			"description": "Professor. Historian. Runner. Author of Dixie Highway (2014) & The Wickedest City in America (forthcoming). Views are mine, but I have tenure.",
+			"url": "https://t.co/aHhT33B6Q8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aHhT33B6Q8",
+							"expanded_url": "http://history.cofc.edu/about/faculty-and-staff/ingram-tammy.php",
+							"display_url": "history.cofc.edu/about/faculty-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2267,
+			"friends_count": 1260,
+			"listed_count": 54,
+			"created_at": "Wed Jul 23 18:08:07 +0000 2008",
+			"favourites_count": 8505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6682,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993523369013338113/WZW_m5bW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993523369013338113/WZW_m5bW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15568640/1548017453",
+			"profile_link_color": "530773",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 1358,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@DavidWohl @GiaArnold4 @realDonaldTrump LOL, but you used it as a verb. Simple English."
+	},
+	{
+		"created_at": "Sat Jan 26 14:51:42 +0000 2019",
+		"id": 1089174042140176400,
+		"id_str": "1089174042140176385",
+		"full_text": "I'm back in @esquire writing about Roger Stone and the three types of knuckleheads Mueller seems to be rounding up. https://t.co/bf8dNKS7cW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "esquire",
+					"name": "Esquire",
+					"id": 20455625,
+					"id_str": "20455625",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bf8dNKS7cW",
+					"expanded_url": "https://www.esquire.com/news-politics/a26043519/mueller-roger-stone-indictment/",
+					"display_url": "esquire.com/news-politics/…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8119452,
+			"id_str": "8119452",
+			"name": "💀 damned sinker 💀",
+			"screen_name": "dansinker",
+			"location": "here",
+			"description": "I make stuff. Co-host of @sayswhopodcast and The Hitch, formerly @opennews, author of @MayorEmanuel, founder of Punk Planet (RIP), #1 Candle King of Kickstarter",
+			"url": "https://t.co/KfjG5DhmVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KfjG5DhmVG",
+							"expanded_url": "http://dansinker.com",
+							"display_url": "dansinker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21859,
+			"friends_count": 3719,
+			"listed_count": 1334,
+			"created_at": "Sat Aug 11 05:51:44 +0000 2007",
+			"favourites_count": 50667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 106273,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8119452/1347983122",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm back in @esquire writing about Roger Stone and the three types of knuckleheads Mueller seems to be rounding up. https://t.co/bf8dNKS7cW"
+	},
+	{
 		"created_at": "Sat Jan 26 22:34:36 +0000 2019",
 		"id": 1089290536488321000,
 		"id_str": "1089290536488321025",
