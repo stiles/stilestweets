@@ -1,6 +1,1096 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 17:43:10 +0000 2019",
+		"id": 1088854806989598700,
+		"id_str": "1088854806989598720",
+		"full_text": "Some after class whiteboard Curling.  What do you think @usacurl @Shoostie2010 ??  #physics #whiteboard credit: @GAGE_SOUDER @carter_loss1206 https://t.co/k8Z02Zfge3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physics",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "whiteboard",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "usacurl",
+					"name": "USA Curling",
+					"id": 65140007,
+					"id_str": "65140007",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"screen_name": "Shoostie2010",
+					"name": "John Shuster",
+					"id": 65277823,
+					"id_str": "65277823",
+					"indices": [
+						65,
+						78
+					]
+				},
+				{
+					"screen_name": "GAGE_SOUDER",
+					"name": "Gage Souder",
+					"id": 724245649529643000,
+					"id_str": "724245649529643008",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"screen_name": "carter_loss1206",
+					"name": "Carter Loss",
+					"id": 3436150119,
+					"id_str": "3436150119",
+					"indices": [
+						125,
+						141
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088852061838606300,
+					"id_str": "1088852061838606336",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxxhLmbXgAAaxkJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxxhLmbXgAAaxkJ.jpg",
+					"url": "https://t.co/k8Z02Zfge3",
+					"display_url": "pic.twitter.com/k8Z02Zfge3",
+					"expanded_url": "https://twitter.com/irunphysics/status/1088854806989598720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088852061838606300,
+					"id_str": "1088852061838606336",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxxhLmbXgAAaxkJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxxhLmbXgAAaxkJ.jpg",
+					"url": "https://t.co/k8Z02Zfge3",
+					"display_url": "pic.twitter.com/k8Z02Zfge3",
+					"expanded_url": "https://twitter.com/irunphysics/status/1088854806989598720/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DxxhLmbXgAAaxkJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2342573910,
+			"id_str": "2342573910",
+			"name": "Matthew Wagoner",
+			"screen_name": "irunphysics",
+			"location": "Red Land",
+			"description": "Father, Physics Teacher, Runner, Action Figure & Baseball Card Collector",
+			"url": "http://t.co/rR66O7k4qt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rR66O7k4qt",
+							"expanded_url": "http://www.wssd.k12.pa.us/webpages/mwagoner/index.cfm?subpage=73078",
+							"display_url": "wssd.k12.pa.us/webpages/mwago…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Feb 13 21:01:31 +0000 2014",
+			"favourites_count": 633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 292,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/437324259937882112/wgqUMi1m_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/437324259937882112/wgqUMi1m_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2342573910/1542284752",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some after class whiteboard Curling.  What do you think @usacurl @Shoostie2010 ??  #physics #whiteboard credit: @GAGE_SOUDER @carter_loss1206 https://t.co/k8Z02Zfge3"
+	},
+	{
+		"created_at": "Sun Jan 27 02:09:25 +0000 2019",
+		"id": 1089344597715750900,
+		"id_str": "1089344597715750912",
+		"full_text": "\"National Public Radio\" is United States news service devoted to endless whingeing concerning plight of the poor and downtrodden.\n\nDPRK public radio features tales of manful peasants killing Japanese landlords and bandits.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58569513,
+			"id_str": "58569513",
+			"name": "DPRK News Service",
+			"screen_name": "DPRK_News",
+			"location": "Pyongyang, DPRK",
+			"description": "Official News feed of Democratic Peoples Republic of Korea",
+			"url": "https://t.co/Dkq1nJO2sa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dkq1nJO2sa",
+							"expanded_url": "http://www.mfa.gov.kp/en/",
+							"display_url": "mfa.gov.kp/en/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328175,
+			"friends_count": 100,
+			"listed_count": 2916,
+			"created_at": "Mon Jul 20 19:45:37 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7162,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/323235980/dprk-flag_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/323235980/dprk-flag_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58569513/1535140325",
+			"profile_link_color": "267491",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 241,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"National Public Radio\" is United States news service devoted to endless whingeing concerning plight of the poor and downtrodden.\n\nDPRK public radio features tales of manful peasants killing Japanese landlords and bandits."
+	},
+	{
+		"created_at": "Sun Jan 27 01:35:32 +0000 2019",
+		"id": 1089336070972551200,
+		"id_str": "1089336070972551169",
+		"full_text": "ATTN TEXANS \n\nNo one is expected to attend the funeral for Joseph Walker, who served in the US Air Force 1964-1968. \n\nHis funeral will take place Monday at 10 a.m. at the Central Texas State Cemetery.\n\n11463 SH 195\nKilleen, Texas 76542 \n\nhttps://t.co/9J29luwDQC via @KVUE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KVUE",
+					"name": "KVUE News",
+					"id": 15232635,
+					"id_str": "15232635",
+					"indices": [
+						266,
+						271
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9J29luwDQC",
+					"expanded_url": "http://www.kvue.com/mobile/article/news/local/no-veteran-should-be-buried-alone-no-one-expected-to-attend-texas-veterans-funeral/269-78396336-ffc2-4216-b392-4efc78966381",
+					"display_url": "kvue.com/mobile/article…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14529929,
+			"id_str": "14529929",
+			"name": "Jake Tapper",
+			"screen_name": "jaketapper",
+			"location": "",
+			"description": "CNN Anchor of @TheLeadCNN and @CNNSOTU and Chief Washington Correspondent; author of the NYT best-selling novel @TheHellfireClub and non fiction @TheOutpostBook",
+			"url": "https://t.co/MMatLD6M20",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MMatLD6M20",
+							"expanded_url": "https://www.amazon.com/Hellfire-Club-Jake-Tapper/dp/031647231X",
+							"display_url": "amazon.com/Hellfire-Club-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1986372,
+			"friends_count": 7066,
+			"listed_count": 21795,
+			"created_at": "Fri Apr 25 17:23:28 +0000 2008",
+			"favourites_count": 21858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 186866,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960856914132430848/p-G-U1jz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960856914132430848/p-G-U1jz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14529929/1353593155",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2819,
+		"favorite_count": 4321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ATTN TEXANS \n\nNo one is expected to attend the funeral for Joseph Walker, who served in the US Air Force 1964-1968. \n\nHis funeral will take place Monday at 10 a.m. at the Central Texas State Cemetery.\n\n11463 SH 195\nKilleen, Texas 76542 \n\nhttps://t.co/9J29luwDQC via @KVUE"
+	},
+	{
+		"created_at": "Sun Jan 27 02:35:29 +0000 2019",
+		"id": 1089351157980393500,
+		"id_str": "1089351157980393473",
+		"full_text": "The horror.\n\nhttps://t.co/NEEub1VssF https://t.co/uRGF72iAsK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NEEub1VssF",
+					"expanded_url": "https://www.dukechronicle.com/article/2019/01/duke-university-emails-director-of-grad-studies-steps-down-after-telling-students-not-to-speak-chinese",
+					"display_url": "dukechronicle.com/article/2019/0…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089351153702195200,
+					"id_str": "1089351153702195200",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx4nGkgU0AAhCVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx4nGkgU0AAhCVw.jpg",
+					"url": "https://t.co/uRGF72iAsK",
+					"display_url": "pic.twitter.com/uRGF72iAsK",
+					"expanded_url": "https://twitter.com/stiles/status/1089351157980393473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 624,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 688,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089351153702195200,
+					"id_str": "1089351153702195200",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx4nGkgU0AAhCVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx4nGkgU0AAhCVw.jpg",
+					"url": "https://t.co/uRGF72iAsK",
+					"display_url": "pic.twitter.com/uRGF72iAsK",
+					"expanded_url": "https://twitter.com/stiles/status/1089351157980393473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 624,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 688,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10430,
+			"friends_count": 1448,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 4928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12813,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548443638",
+			"profile_link_color": "51A09E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The horror.\n\nhttps://t.co/NEEub1VssF https://t.co/uRGF72iAsK"
+	},
+	{
+		"created_at": "Sat Jan 26 20:35:45 +0000 2019",
+		"id": 1089260625061204000,
+		"id_str": "1089260625061203970",
+		"full_text": "Congrats to Vogs and congrats to Houston, bc your cultural criticism just leveled up https://t.co/YFMKpGANh8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YFMKpGANh8",
+					"expanded_url": "https://twitter.com/chrisvognar/status/1089235698455068672",
+					"display_url": "twitter.com/chrisvognar/st…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16001350,
+			"id_str": "16001350",
+			"name": "Elise Hu",
+			"screen_name": "elisewho",
+			"location": "California, USA",
+			"description": "LA-based @NPRNews. Ex-expat buro chief in Koreas and Japan. @TexasTribune & #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. IG @elisewho | ehu@npr.org",
+			"url": "https://t.co/5UvjA81oSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5UvjA81oSH",
+							"expanded_url": "http://elisehu.com",
+							"display_url": "elisehu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39677,
+			"friends_count": 1925,
+			"listed_count": 1730,
+			"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+			"favourites_count": 2881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDEDEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1498480092",
+			"profile_link_color": "4E647A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089235698455068700,
+		"quoted_status_id_str": "1089235698455068672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YFMKpGANh8",
+			"expanded": "https://twitter.com/chrisvognar/status/1089235698455068672",
+			"display": "twitter.com/chrisvognar/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 26 18:56:42 +0000 2019",
+			"id": 1089235698455068700,
+			"id_str": "1089235698455068672",
+			"full_text": "What up Twitter? I’m heading to the @HoustonChron in March. Leaving a piece of my heart in Dallas, but very excited for my new adventure at a great newspaper.✌️",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HoustonChron",
+						"name": "Houston Chronicle",
+						"id": 8940342,
+						"id_str": "8940342",
+						"indices": [
+							36,
+							49
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80095753,
+				"id_str": "80095753",
+				"name": "Chris Vognar",
+				"screen_name": "chrisvognar",
+				"location": "Dallas, Texas",
+				"description": "Former culture critic, The Dallas Morning News. Books. Movies. Nieman Fellow at Harvard, '09. Bay Area native. Pen for hire. Can’t knock the hustle.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6932,
+				"friends_count": 5013,
+				"listed_count": 286,
+				"created_at": "Mon Oct 05 18:48:28 +0000 2009",
+				"favourites_count": 7136,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23043,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079539449011290113/MWgCasNX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079539449011290113/MWgCasNX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80095753/1404011807",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "18810aa5b43e76c7",
+				"url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json",
+				"place_type": "city",
+				"name": "Dallas",
+				"full_name": "Dallas, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-96.977527,
+								32.620678
+							],
+							[
+								-96.54598,
+								32.620678
+							],
+							[
+								-96.54598,
+								33.019039
+							],
+							[
+								-96.977527,
+								33.019039
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 458,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats to Vogs and congrats to Houston, bc your cultural criticism just leveled up https://t.co/YFMKpGANh8"
+	},
+	{
+		"created_at": "Sun Jan 27 02:13:01 +0000 2019",
+		"id": 1089345504511709200,
+		"id_str": "1089345504511709184",
+		"full_text": "Downtown LA by night. Want to see your photos on Spectrum News 1? Tag us using #sharesocal for a chance to be featured. 📷: @digablesoul https://t.co/psYD8f5YPE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sharesocal",
+					"indices": [
+						79,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digablesoul",
+					"name": "Al",
+					"id": 22211728,
+					"id_str": "22211728",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089345498371244000,
+					"id_str": "1089345498371244032",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx4h9YwWwAA3-_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx4h9YwWwAA3-_c.jpg",
+					"url": "https://t.co/psYD8f5YPE",
+					"display_url": "pic.twitter.com/psYD8f5YPE",
+					"expanded_url": "https://twitter.com/SpecNews1SoCal/status/1089345504511709184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089345498371244000,
+					"id_str": "1089345498371244032",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx4h9YwWwAA3-_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx4h9YwWwAA3-_c.jpg",
+					"url": "https://t.co/psYD8f5YPE",
+					"display_url": "pic.twitter.com/psYD8f5YPE",
+					"expanded_url": "https://twitter.com/SpecNews1SoCal/status/1089345504511709184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1046792822039482400,
+			"id_str": "1046792822039482368",
+			"name": "Spectrum News 1 SoCal",
+			"screen_name": "SpecNews1SoCal",
+			"location": "Los Angeles, CA",
+			"description": "24/7 local news channel committed to serving communities in Southern California. Facebook/Instagram: SpectrumNews1SoCal lanewsdesk@charter.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1877,
+			"friends_count": 149,
+			"listed_count": 34,
+			"created_at": "Mon Oct 01 16:03:52 +0000 2018",
+			"favourites_count": 358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1507,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051976607647375363/Bk46GEjK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051976607647375363/Bk46GEjK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1046792822039482368/1539645903",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Downtown LA by night. Want to see your photos on Spectrum News 1? Tag us using #sharesocal for a chance to be featured. 📷: @digablesoul https://t.co/psYD8f5YPE"
+	},
+	{
 		"created_at": "Sat Jan 26 22:53:52 +0000 2019",
 		"id": 1089295383598170100,
 		"id_str": "1089295383598170113",
@@ -57,6 +1147,249 @@ Grailbird.data.tweets_2019_01 =
 			"id": 15568640,
 			"id_str": "15568640",
 			"name": "Tammy Ingram 🏳️‍🌈",
+			"screen_name": "tammyingram",
+			"location": "New York, NY 🔁 Charleston, SC",
+			"description": "Professor. Historian. Runner. Author of Dixie Highway (2014) & The Wickedest City in America (forthcoming). Views are mine, but I have tenure.",
+			"url": "https://t.co/aHhT33B6Q8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aHhT33B6Q8",
+							"expanded_url": "http://history.cofc.edu/about/faculty-and-staff/ingram-tammy.php",
+							"display_url": "history.cofc.edu/about/faculty-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2270,
+			"friends_count": 1260,
+			"listed_count": 54,
+			"created_at": "Wed Jul 23 18:08:07 +0000 2008",
+			"favourites_count": 8512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6684,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993523369013338113/WZW_m5bW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993523369013338113/WZW_m5bW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15568640/1548017453",
+			"profile_link_color": "530773",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 1473,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@DavidWohl @GiaArnold4 @realDonaldTrump LOL, but you used it as a verb. Simple English."
+	},
+	{
+		"created_at": "Sat Jan 26 14:51:42 +0000 2019",
+		"id": 1089174042140176400,
+		"id_str": "1089174042140176385",
+		"full_text": "I'm back in @esquire writing about Roger Stone and the three types of knuckleheads Mueller seems to be rounding up. https://t.co/bf8dNKS7cW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "esquire",
+					"name": "Esquire",
+					"id": 20455625,
+					"id_str": "20455625",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bf8dNKS7cW",
+					"expanded_url": "https://www.esquire.com/news-politics/a26043519/mueller-roger-stone-indictment/",
+					"display_url": "esquire.com/news-politics/…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8119452,
+			"id_str": "8119452",
+			"name": "💀 damned sinker 💀",
+			"screen_name": "dansinker",
+			"location": "here",
+			"description": "I make stuff. Co-host of @sayswhopodcast and The Hitch, formerly @opennews, author of @MayorEmanuel, founder of Punk Planet (RIP), #1 Candle King of Kickstarter",
+			"url": "https://t.co/KfjG5DhmVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KfjG5DhmVG",
+							"expanded_url": "http://dansinker.com",
+							"display_url": "dansinker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21859,
+			"friends_count": 3719,
+			"listed_count": 1332,
+			"created_at": "Sat Aug 11 05:51:44 +0000 2007",
+			"favourites_count": 50667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 106273,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8119452/1347983122",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm back in @esquire writing about Roger Stone and the three types of knuckleheads Mueller seems to be rounding up. https://t.co/bf8dNKS7cW"
+	},
+	{
+		"created_at": "Sat Jan 26 22:53:52 +0000 2019",
+		"id": 1089295383598170100,
+		"id_str": "1089295383598170113",
+		"full_text": "@DavidWohl @GiaArnold4 @realDonaldTrump LOL, but you used it as a verb. Simple English.",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidWohl",
+					"name": "David Wohl",
+					"id": 23359769,
+					"id_str": "23359769",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "GiaArnold4",
+					"name": "Gia Arnold",
+					"id": 1059516565207633900,
+					"id_str": "1059516565207633920",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						23,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1089294069245784000,
+		"in_reply_to_status_id_str": "1089294069245784064",
+		"in_reply_to_user_id": 23359769,
+		"in_reply_to_user_id_str": "23359769",
+		"in_reply_to_screen_name": "DavidWohl",
+		"user": {
+			"id": 15568640,
+			"id_str": "15568640",
+			"name": "Tammy Ingram 🏳️🌈",
 			"screen_name": "tammyingram",
 			"location": "New York, NY 🔁 Charleston, SC",
 			"description": "Professor. Historian. Runner. Author of Dixie Highway (2014) & The Wickedest City in America (forthcoming). Views are mine, but I have tenure.",
