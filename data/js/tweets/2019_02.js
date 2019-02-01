@@ -90,6 +90,143 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 131837,
+			"friends_count": 248,
+			"listed_count": 4145,
+			"created_at": "Tue Sep 16 15:19:44 +0000 2008",
+			"favourites_count": 786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 112586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954408539832946688/Xz8wCcwz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954408539832946688/Xz8wCcwz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16311797/1516012231",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The economy is now adding jobs at the best clip since 2016, @JoshZumbrun and @jeffsparshott report. https://t.co/wnrOYPcsjU"
+	},
+	{
+		"created_at": "Fri Feb 01 14:55:09 +0000 2019",
+		"id": 1091349240541003800,
+		"id_str": "1091349240541003777",
+		"full_text": "The economy is now adding jobs at the best clip since 2016, @JoshZumbrun and @jeffsparshott report. https://t.co/wnrOYPcsjU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoshZumbrun",
+					"name": "Josh Zumbrun",
+					"id": 289462808,
+					"id_str": "289462808",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "jeffsparshott",
+					"name": "Jeffrey Sparshott",
+					"id": 20760831,
+					"id_str": "20760831",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wnrOYPcsjU",
+					"expanded_url": "https://on.wsj.com/2DO8Z2g",
+					"display_url": "on.wsj.com/2DO8Z2g",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16311797,
+			"id_str": "16311797",
+			"name": "Capital Journal",
+			"screen_name": "WSJPolitics",
+			"location": "Washington, D.C.",
+			"description": "WSJ’s home for politics, policy and national security news. Sign up to get our Capital Journal newsletter every morning at http://t.co/uZUT8GIFk6",
+			"url": "http://t.co/ne9s9IHTD7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ne9s9IHTD7",
+							"expanded_url": "http://wsj.com/capitaljournal",
+							"display_url": "wsj.com/capitaljournal",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/uZUT8GIFk6",
+							"expanded_url": "http://on.wsj.com/CapitalJournalSignup",
+							"display_url": "on.wsj.com/CapitalJournal…",
+							"indices": [
+								123,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 131834,
 			"friends_count": 248,
 			"listed_count": 4143,
