@@ -61,6 +61,110 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 734,
 			"listed_count": 49,
 			"created_at": "Mon Jan 27 13:15:23 +0000 2014",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2255,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955859206548094977/72b7uMZn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955859206548094977/72b7uMZn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2313633876/1534918367",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is a full recording of Gorbachev's and Reagan's walk in the Red Square on May 31, 1988, put up by the @Reagan_Library: https://t.co/dbCdEACPwn. Most people would've seen still images of the encounter but the full video makes a different impression. Almost surreal, I'd say."
+	},
+	{
+		"created_at": "Sat Feb 02 06:53:18 +0000 2019",
+		"id": 1091590364014747600,
+		"id_str": "1091590364014747648",
+		"full_text": "Here is a full recording of Gorbachev's and Reagan's walk in the Red Square on May 31, 1988, put up by the @Reagan_Library: https://t.co/dbCdEACPwn. Most people would've seen still images of the encounter but the full video makes a different impression. Almost surreal, I'd say.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reagan_Library",
+					"name": "RonaldReaganLibrary",
+					"id": 394351710,
+					"id_str": "394351710",
+					"indices": [
+						107,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dbCdEACPwn",
+					"expanded_url": "https://www.youtube.com/watch?v=LZUu5WraroM",
+					"display_url": "youtube.com/watch?v=LZUu5W…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2313633876,
+			"id_str": "2313633876",
+			"name": "Sergey Radchenko",
+			"screen_name": "DrRadchenko",
+			"location": "Cardiff, Wales",
+			"description": "Professor of International Relations, Director of Research, School of Law & Politics, Cardiff University. Tweets on China, Russia, the Cold War & after.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 734,
+			"listed_count": 49,
+			"created_at": "Mon Jan 27 13:15:23 +0000 2014",
 			"favourites_count": 1722,
 			"utc_offset": null,
 			"time_zone": null,
