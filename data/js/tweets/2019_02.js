@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 01 18:38:38 +0000 2019",
+		"id": 1091405479228522500,
+		"id_str": "1091405479228522496",
+		"full_text": "ever just want to make a giant pot of kimchijigae and just...live inside of it",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 247426610,
+			"id_str": "247426610",
+			"name": "noah, an ahjussi",
+			"screen_name": "noahreservation",
+			"location": "oakland",
+			"description": "I write about food @catapultstory. emotional eater, ahjussi, the gem in gemini, supportive twitter uncle, the softest tofu// profile photo by @andria_lo",
+			"url": "https://t.co/ZZpgrJsW1P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZZpgrJsW1P",
+							"expanded_url": "http://instagram.com/noahreservations",
+							"display_url": "instagram.com/noahreservatio…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6853,
+			"friends_count": 1317,
+			"listed_count": 180,
+			"created_at": "Fri Feb 04 19:36:41 +0000 2011",
+			"favourites_count": 48483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091029901531066368/UnIZyuvH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091029901531066368/UnIZyuvH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/247426610/1546570991",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "ever just want to make a giant pot of kimchijigae and just...live inside of it"
+	},
+	{
+		"created_at": "Sat Feb 02 14:21:38 +0000 2019",
+		"id": 1091703190196633600,
+		"id_str": "1091703190196633601",
+		"full_text": "In grilling of sheriff, L.A. County supervisors show they're no longer the ‘little kings’. @SupJaniceHahn @SheilaKuehl @HildaSolis @kathrynbarger https://t.co/5bkuZFipAu https://t.co/08iLcXVwDY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"screen_name": "HildaSolis",
+					"name": "Hilda Solis",
+					"id": 2377732207,
+					"id_str": "2377732207",
+					"indices": [
+						119,
+						130
+					]
+				},
+				{
+					"screen_name": "kathrynbarger",
+					"name": "Kathryn Barger",
+					"id": 3165949670,
+					"id_str": "3165949670",
+					"indices": [
+						131,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5bkuZFipAu",
+					"expanded_url": "https://www.latimes.com/local/california/la-me-sheriff-supervisors-women-20190202-story.html",
+					"display_url": "latimes.com/local/californ…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1091703186006564900,
+					"id_str": "1091703186006564865",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/DyaCQ3oVYAE2I1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyaCQ3oVYAE2I1B.jpg",
+					"url": "https://t.co/08iLcXVwDY",
+					"display_url": "pic.twitter.com/08iLcXVwDY",
+					"expanded_url": "https://twitter.com/stiles/status/1091703190196633601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 415,
+							"h": 755,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 415,
+							"h": 755,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091703186006564900,
+					"id_str": "1091703186006564865",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/DyaCQ3oVYAE2I1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyaCQ3oVYAE2I1B.jpg",
+					"url": "https://t.co/08iLcXVwDY",
+					"display_url": "pic.twitter.com/08iLcXVwDY",
+					"expanded_url": "https://twitter.com/stiles/status/1091703190196633601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 415,
+							"h": 755,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 415,
+							"h": 755,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10433,
+			"friends_count": 1468,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548443638",
+			"profile_link_color": "51A09E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In grilling of sheriff, L.A. County supervisors show they're no longer the ‘little kings’. @SupJaniceHahn @SheilaKuehl @HildaSolis @kathrynbarger https://t.co/5bkuZFipAu https://t.co/08iLcXVwDY"
+	},
+	{
+		"created_at": "Sat Feb 02 06:53:18 +0000 2019",
+		"id": 1091590364014747600,
+		"id_str": "1091590364014747648",
+		"full_text": "Here is a full recording of Gorbachev's and Reagan's walk in the Red Square on May 31, 1988, put up by the @Reagan_Library: https://t.co/dbCdEACPwn. Most people would've seen still images of the encounter but the full video makes a different impression. Almost surreal, I'd say.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reagan_Library",
+					"name": "RonaldReaganLibrary",
+					"id": 394351710,
+					"id_str": "394351710",
+					"indices": [
+						107,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dbCdEACPwn",
+					"expanded_url": "https://www.youtube.com/watch?v=LZUu5WraroM",
+					"display_url": "youtube.com/watch?v=LZUu5W…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2313633876,
+			"id_str": "2313633876",
+			"name": "Sergey Radchenko",
+			"screen_name": "DrRadchenko",
+			"location": "Cardiff, Wales",
+			"description": "Professor of International Relations, Director of Research, School of Law & Politics, Cardiff University. Tweets on China, Russia, the Cold War & after.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2058,
+			"friends_count": 734,
+			"listed_count": 49,
+			"created_at": "Mon Jan 27 13:15:23 +0000 2014",
+			"favourites_count": 1722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2255,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955859206548094977/72b7uMZn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955859206548094977/72b7uMZn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2313633876/1534918367",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is a full recording of Gorbachev's and Reagan's walk in the Red Square on May 31, 1988, put up by the @Reagan_Library: https://t.co/dbCdEACPwn. Most people would've seen still images of the encounter but the full video makes a different impression. Almost surreal, I'd say."
+	},
+	{
 		"created_at": "Sat Feb 02 06:53:18 +0000 2019",
 		"id": 1091590364014747600,
 		"id_str": "1091590364014747648",
