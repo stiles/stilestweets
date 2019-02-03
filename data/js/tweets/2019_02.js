@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 19:16:33 +0000 2019",
+		"id": 1092139797328601100,
+		"id_str": "1092139797328601088",
+		"full_text": "EXCLUSIVE from @alexi and @jonathanvswan: A White House source has leaked nearly every day of Trump's private schedule for the past three months — and he's spent around 60% of that time in \"Executive Time.\" https://t.co/eTa9NPkVaQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alexi",
+					"name": "Alexi McCammond",
+					"id": 278175882,
+					"id_str": "278175882",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"screen_name": "jonathanvswan",
+					"name": "Jonathan Swan",
+					"id": 327862439,
+					"id_str": "327862439",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eTa9NPkVaQ",
+					"expanded_url": "https://www.axios.com/donald-trump-private-schedules-leak-executive-time-34e67fbb-3af6-48df-aefb-52e02c334255.html?utm_source=twitter&utm_medium=social&utm_campaign=organic",
+					"display_url": "axios.com/donald-trump-p…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800707492346925000,
+			"id_str": "800707492346925056",
+			"name": "Axios",
+			"screen_name": "axios",
+			"location": "",
+			"description": "Smart Brevity worthy of people's time, attention and trust. \n\nVisit our stream: https://t.co/MOsBGwib0S\n\nSubscribe to our newsletters: https://t.co/hi21XepUhE",
+			"url": "https://t.co/A2aCI9Z3fA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A2aCI9Z3fA",
+							"expanded_url": "http://www.axios.com/",
+							"display_url": "axios.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MOsBGwib0S",
+							"expanded_url": "http://www.Axios.com",
+							"display_url": "Axios.com",
+							"indices": [
+								80,
+								103
+							]
+						},
+						{
+							"url": "https://t.co/hi21XepUhE",
+							"expanded_url": "http://signup.axios.com",
+							"display_url": "signup.axios.com",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 247853,
+			"friends_count": 783,
+			"listed_count": 4531,
+			"created_at": "Mon Nov 21 14:28:37 +0000 2016",
+			"favourites_count": 355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 41525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067467702414004225/YE6ZMjha_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067467702414004225/YE6ZMjha_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800707492346925056/1543606981",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1119,
+		"favorite_count": 1439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EXCLUSIVE from @alexi and @jonathanvswan: A White House source has leaked nearly every day of Trump's private schedule for the past three months — and he's spent around 60% of that time in \"Executive Time.\" https://t.co/eTa9NPkVaQ"
+	},
+	{
 		"created_at": "Sun Feb 03 21:14:53 +0000 2019",
 		"id": 1092169579210534900,
 		"id_str": "1092169579210534912",
