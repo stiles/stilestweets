@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 04:16:57 +0000 2019",
+		"id": 1091913405861027800,
+		"id_str": "1091913405861027841",
+		"full_text": "Oops. https://t.co/vdcZw305IY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091913384604258300,
+					"id_str": "1091913384604258304",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/DydBcCbU0AAJmPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DydBcCbU0AAJmPT.jpg",
+					"url": "https://t.co/vdcZw305IY",
+					"display_url": "pic.twitter.com/vdcZw305IY",
+					"expanded_url": "https://twitter.com/stiles/status/1091913405861027841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 692,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091913384604258300,
+					"id_str": "1091913384604258304",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/DydBcCbU0AAJmPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DydBcCbU0AAJmPT.jpg",
+					"url": "https://t.co/vdcZw305IY",
+					"display_url": "pic.twitter.com/vdcZw305IY",
+					"expanded_url": "https://twitter.com/stiles/status/1091913405861027841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 692,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10440,
+			"friends_count": 1469,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12882,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oops. https://t.co/vdcZw305IY"
+	},
+	{
+		"created_at": "Sun Feb 03 01:02:52 +0000 2019",
+		"id": 1091864564914827300,
+		"id_str": "1091864564914827264",
+		"full_text": "@stiles @latimes He should consider a digital subscription. First three months free, then $1.99/week:\n\nhttps://t.co/jhF6BeKaMz",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jhF6BeKaMz",
+					"expanded_url": "https://www.latimes.com/subscriptions/",
+					"display_url": "latimes.com/subscriptions/",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1091863487679057900,
+		"in_reply_to_status_id_str": "1091863487679057920",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 1198481,
+			"id_str": "1198481",
+			"name": "Sewell Chan",
+			"screen_name": "sewellchan",
+			"location": "Los Angeles",
+			"description": "Deputy Managing Editor @latimes; previously @nytimes @washingtonpost; urban explorer; native New Yorker; aspiring Californian; son of immigrants",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32717,
+			"friends_count": 2649,
+			"listed_count": 1057,
+			"created_at": "Thu Mar 15 02:38:28 +0000 2007",
+			"favourites_count": 18466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198481/1511924158",
+			"profile_link_color": "92A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@stiles @latimes He should consider a digital subscription. First three months free, then $1.99/week:\n\nhttps://t.co/jhF6BeKaMz"
+	},
+	{
 		"created_at": "Sun Feb 03 01:02:52 +0000 2019",
 		"id": 1091864564914827300,
 		"id_str": "1091864564914827264",
