@@ -147,6 +147,342 @@ Grailbird.data.tweets_2019_02 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
+			"statuses_count": 2234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/857018241754947584/PCDUNXwD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/857018241754947584/PCDUNXwD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3165949670/1546988698",
+			"profile_link_color": "BE8D97",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Go Rams! L.A. is rooting for you and sporting our blue and gold! \n@RamsNFL https://t.co/425iPG4xMj"
+	},
+	{
+		"created_at": "Sun Feb 03 18:52:05 +0000 2019",
+		"id": 1092133639389732900,
+		"id_str": "1092133639389732864",
+		"full_text": "This face is how I feel when I get dim sum, too. @ Los Angeles, California https://t.co/AEF6rbtyU3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AEF6rbtyU3",
+					"expanded_url": "https://www.instagram.com/p/BtbivSyA4Kj/?utm_source=ig_twitter_share&igshid=qexysig4e4ra",
+					"display_url": "instagram.com/p/BtbivSyA4Kj/…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10440,
+			"friends_count": 1469,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12884,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				34.0522,
+				-118.243
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-118.243,
+				34.0522
+			]
+		},
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This face is how I feel when I get dim sum, too. @ Los Angeles, California https://t.co/AEF6rbtyU3"
+	},
+	{
+		"created_at": "Sun Feb 03 14:00:00 +0000 2019",
+		"id": 1092060134786850800,
+		"id_str": "1092060134786850816",
+		"full_text": "Go Rams! L.A. is rooting for you and sporting our blue and gold! \n@RamsNFL https://t.co/425iPG4xMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RamsNFL",
+					"name": "Los Angeles Rams",
+					"id": 24109979,
+					"id_str": "24109979",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091760093295562800,
+					"id_str": "1091760093295562752",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Dya2BTzUUAA-qBj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dya2BTzUUAA-qBj.jpg",
+					"url": "https://t.co/425iPG4xMj",
+					"display_url": "pic.twitter.com/425iPG4xMj",
+					"expanded_url": "https://twitter.com/kathrynbarger/status/1092060134786850816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091760093295562800,
+					"id_str": "1091760093295562752",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Dya2BTzUUAA-qBj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dya2BTzUUAA-qBj.jpg",
+					"url": "https://t.co/425iPG4xMj",
+					"display_url": "pic.twitter.com/425iPG4xMj",
+					"expanded_url": "https://twitter.com/kathrynbarger/status/1092060134786850816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3165949670,
+			"id_str": "3165949670",
+			"name": "Kathryn Barger",
+			"screen_name": "kathrynbarger",
+			"location": "Los Angeles County",
+			"description": "Los Angeles County Supervisor representing the Fifth District.",
+			"url": "https://t.co/BCmP4YpRwZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BCmP4YpRwZ",
+							"expanded_url": "http://kathrynbarger.lacounty.gov",
+							"display_url": "kathrynbarger.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3464,
+			"friends_count": 722,
+			"listed_count": 62,
+			"created_at": "Mon Apr 20 21:37:11 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
 			"statuses_count": 2233,
 			"lang": "en",
 			"contributors_enabled": false,
