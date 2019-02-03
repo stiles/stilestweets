@@ -1,6 +1,1246 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 00:58:35 +0000 2019",
+		"id": 1091863487679057900,
+		"id_str": "1091863487679057920",
+		"full_text": "I’m at the county library in Marina Del Rey, and a man just got busted stealing a paper copy of @latimes. Mixed feelings about this theft...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						96,
+						104
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1469,
+			"listed_count": 0,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548443638",
+			"profile_link_color": "51A09E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "38ea9782c8d83a4b",
+			"url": "https://api.twitter.com/1.1/geo/id/38ea9782c8d83a4b.json",
+			"place_type": "city",
+			"name": "Marina del Rey",
+			"full_name": "Marina del Rey, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.463481,
+							33.964019
+						],
+						[
+							-118.4321992,
+							33.964019
+						],
+						[
+							-118.4321992,
+							33.98647
+						],
+						[
+							-118.463481,
+							33.98647
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I’m at the county library in Marina Del Rey, and a man just got busted stealing a paper copy of @latimes. Mixed feelings about this theft..."
+	},
+	{
+		"created_at": "Sat Feb 02 18:56:51 +0000 2019",
+		"id": 1091772454387646500,
+		"id_str": "1091772454387646464",
+		"full_text": "Women in elected office bring different life experiences, and different priorities, to public service.\n\nHere's to all the women and girls who are fighting to be heard. I hear you, I see you, and I am fighting for you. 👩🏽👧👩👩🏿👵👩🏻👩🏼🤰💪 https://t.co/Lsm4ujFl6y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lsm4ujFl6y",
+					"expanded_url": "https://twitter.com/stiles/status/1091703190196633601",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2377732207,
+			"id_str": "2377732207",
+			"name": "Hilda Solis",
+			"screen_name": "HildaSolis",
+			"location": "Los Angeles, CA",
+			"description": "Sup. Hilda Solis, former Secretary of Labor, represents the First District on the Los Angeles County Board of Supervisors #FirstDistrict #BackHomeToServe",
+			"url": "https://t.co/stdErCfbRx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stdErCfbRx",
+							"expanded_url": "http://HildaLSolis.org",
+							"display_url": "HildaLSolis.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10646,
+			"friends_count": 824,
+			"listed_count": 191,
+			"created_at": "Fri Mar 07 22:22:41 +0000 2014",
+			"favourites_count": 2889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796401639192002560/wRrTFnIO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796401639192002560/wRrTFnIO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2377732207/1417809995",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1091703190196633600,
+		"quoted_status_id_str": "1091703190196633601",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Lsm4ujFl6y",
+			"expanded": "https://twitter.com/stiles/status/1091703190196633601",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 02 14:21:38 +0000 2019",
+			"id": 1091703190196633600,
+			"id_str": "1091703190196633601",
+			"full_text": "In grilling of sheriff, L.A. County supervisors show they're no longer the ‘little kings’. @SupJaniceHahn @SheilaKuehl @HildaSolis @kathrynbarger https://t.co/5bkuZFipAu https://t.co/08iLcXVwDY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SupJaniceHahn",
+						"name": "Janice Hahn",
+						"id": 339852137,
+						"id_str": "339852137",
+						"indices": [
+							91,
+							105
+						]
+					},
+					{
+						"screen_name": "SheilaKuehl",
+						"name": "Sheila Kuehl",
+						"id": 1327401170,
+						"id_str": "1327401170",
+						"indices": [
+							106,
+							118
+						]
+					},
+					{
+						"screen_name": "HildaSolis",
+						"name": "Hilda Solis",
+						"id": 2377732207,
+						"id_str": "2377732207",
+						"indices": [
+							119,
+							130
+						]
+					},
+					{
+						"screen_name": "kathrynbarger",
+						"name": "Kathryn Barger",
+						"id": 3165949670,
+						"id_str": "3165949670",
+						"indices": [
+							131,
+							145
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5bkuZFipAu",
+						"expanded_url": "https://www.latimes.com/local/california/la-me-sheriff-supervisors-women-20190202-story.html",
+						"display_url": "latimes.com/local/californ…",
+						"indices": [
+							146,
+							169
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1091703186006564900,
+						"id_str": "1091703186006564865",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/DyaCQ3oVYAE2I1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyaCQ3oVYAE2I1B.jpg",
+						"url": "https://t.co/08iLcXVwDY",
+						"display_url": "pic.twitter.com/08iLcXVwDY",
+						"expanded_url": "https://twitter.com/stiles/status/1091703190196633601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 415,
+								"h": 755,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 374,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 415,
+								"h": 755,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1091703186006564900,
+						"id_str": "1091703186006564865",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/DyaCQ3oVYAE2I1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyaCQ3oVYAE2I1B.jpg",
+						"url": "https://t.co/08iLcXVwDY",
+						"display_url": "pic.twitter.com/08iLcXVwDY",
+						"expanded_url": "https://twitter.com/stiles/status/1091703190196633601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 415,
+								"h": 755,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 374,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 415,
+								"h": 755,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "34.0522° N, 118.2437° W",
+				"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10439,
+				"friends_count": 1469,
+				"listed_count": 0,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 5010,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12880,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548443638",
+				"profile_link_color": "51A09E",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b77caf94bfc81fe",
+				"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+				"place_type": "city",
+				"name": "Los Angeles",
+				"full_name": "Los Angeles, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.668404,
+								33.704538
+							],
+							[
+								-118.155409,
+								33.704538
+							],
+							[
+								-118.155409,
+								34.337041
+							],
+							[
+								-118.668404,
+								34.337041
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Women in elected office bring different life experiences, and different priorities, to public service.\n\nHere's to all the women and girls who are fighting to be heard. I hear you, I see you, and I am fighting for you. 👩🏽👧👩👩🏿👵👩🏻👩🏼🤰💪 https://t.co/Lsm4ujFl6y"
+	},
+	{
+		"created_at": "Sat Feb 02 23:16:21 +0000 2019",
+		"id": 1091837758723637200,
+		"id_str": "1091837758723637248",
+		"full_text": "@lahistorywriter Thanks. The story said she was first elected in 1992. See the graphic. It notes her earlier appointment.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lahistorywriter",
+					"name": "Joe Walker",
+					"id": 2911543386,
+					"id_str": "2911543386",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1091831762622140400,
+		"in_reply_to_status_id_str": "1091831762622140416",
+		"in_reply_to_user_id": 2911543386,
+		"in_reply_to_user_id_str": "2911543386",
+		"in_reply_to_screen_name": "lahistorywriter",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1469,
+			"listed_count": 0,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548443638",
+			"profile_link_color": "51A09E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lahistorywriter Thanks. The story said she was first elected in 1992. See the graphic. It notes her earlier appointment."
+	},
+	{
+		"created_at": "Sat Feb 02 22:17:16 +0000 2019",
+		"id": 1091822889404252200,
+		"id_str": "1091822889404252161",
+		"full_text": "In the Pale of Winter, Trump’s Tan Remains a State Secret https://t.co/cfjOBhW2k1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cfjOBhW2k1",
+					"expanded_url": "https://nyti.ms/2DRCtN7",
+					"display_url": "nyti.ms/2DRCtN7",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1469,
+			"listed_count": 0,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548443638",
+			"profile_link_color": "51A09E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the Pale of Winter, Trump’s Tan Remains a State Secret https://t.co/cfjOBhW2k1"
+	},
+	{
+		"created_at": "Sat Feb 02 14:18:39 +0000 2019",
+		"id": 1091702441999913000,
+		"id_str": "1091702441999912961",
+		"full_text": "The cover of the Super Bowl section in today’s LA Times. 20 pages of the best Rams vs Patriots stories anywhere #SuperBowl https://t.co/1GXC6d5wuC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperBowl",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091702435947540500,
+					"id_str": "1091702435947540480",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DyaBlNcU8AAQxdl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyaBlNcU8AAQxdl.jpg",
+					"url": "https://t.co/1GXC6d5wuC",
+					"display_url": "pic.twitter.com/1GXC6d5wuC",
+					"expanded_url": "https://twitter.com/ajrod/status/1091702441999912961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 497,
+							"h": 971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 348,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 497,
+							"h": 971,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091702435947540500,
+					"id_str": "1091702435947540480",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DyaBlNcU8AAQxdl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyaBlNcU8AAQxdl.jpg",
+					"url": "https://t.co/1GXC6d5wuC",
+					"display_url": "pic.twitter.com/1GXC6d5wuC",
+					"expanded_url": "https://twitter.com/ajrod/status/1091702441999912961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 497,
+							"h": 971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 348,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 497,
+							"h": 971,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10483142,
+			"id_str": "10483142",
+			"name": "Angel Rodriguez",
+			"screen_name": "ajrod",
+			"location": "Los Angeles",
+			"description": "Sports Editor at the Los Angeles Times. Formerly at WaPo, Cincinnati Enquirer, Arizona Republic, ESPN and https://t.co/teGWLJcsd6. Longhorn. Houston is Home.",
+			"url": "https://t.co/L2JtI8snio",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L2JtI8snio",
+							"expanded_url": "http://latimes.com/sports/",
+							"display_url": "latimes.com/sports/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/teGWLJcsd6",
+							"expanded_url": "http://MLB.com",
+							"display_url": "MLB.com",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4498,
+			"friends_count": 1280,
+			"listed_count": 138,
+			"created_at": "Fri Nov 23 04:12:46 +0000 2007",
+			"favourites_count": 1792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11881,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/605004133209243648/DtUJDhpK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/605004133209243648/DtUJDhpK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10483142/1472840907",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 256,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The cover of the Super Bowl section in today’s LA Times. 20 pages of the best Rams vs Patriots stories anywhere #SuperBowl https://t.co/1GXC6d5wuC"
+	},
+	{
+		"created_at": "Sat Feb 02 18:50:26 +0000 2019",
+		"id": 1091770837240168400,
+		"id_str": "1091770837240168448",
+		"full_text": "With women in a supermajority, L.A. County supervisors are no longer the ‘little kings’. Quite proud and honored to serve with such an historic SUPER majority. https://t.co/p0IMmlAl3l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p0IMmlAl3l",
+					"expanded_url": "https://www.latimes.com/local/california/la-me-sheriff-supervisors-women-20190202-story.html",
+					"display_url": "latimes.com/local/californ…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16369269,
+			"id_str": "16369269",
+			"name": "Mark Ridley-Thomas",
+			"screen_name": "mridleythomas",
+			"location": "Los Angeles",
+			"description": "@CountyOfLA Supervisor- Carson, Compton, Culver City, Gardena, Hawthorne, Inglewood, Lawndale, LA City, Lynwood, & unincorporated areas (2M ppl) 12/08.",
+			"url": "http://t.co/ecWCHkYaHI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ecWCHkYaHI",
+							"expanded_url": "http://ridley-thomas.lacounty.gov/",
+							"display_url": "ridley-thomas.lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18499,
+			"friends_count": 793,
+			"listed_count": 509,
+			"created_at": "Fri Sep 19 19:56:37 +0000 2008",
+			"favourites_count": 6020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "141633",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16369269/1432680050",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "34C7BB",
+			"profile_sidebar_fill_color": "7CBBEB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With women in a supermajority, L.A. County supervisors are no longer the ‘little kings’. Quite proud and honored to serve with such an historic SUPER majority. https://t.co/p0IMmlAl3l"
+	},
+	{
+		"created_at": "Sat Feb 02 19:43:53 +0000 2019",
+		"id": 1091784289576980500,
+		"id_str": "1091784289576980487",
+		"full_text": "How are you not sure if you’ve ever worn a Ku Klux Klan robe or black face?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38936142,
+			"id_str": "38936142",
+			"name": "Josh Dawsey",
+			"screen_name": "jdawsey1",
+			"location": "DC",
+			"description": "White House Reporter @WashingtonPost. @CNN analyst. WSJ & POLITICO alum. Carolinian & New Yorker at heart. Cigar, Bruce & bourbon aficionado. Loud phone talker.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183429,
+			"friends_count": 2542,
+			"listed_count": 2970,
+			"created_at": "Sat May 09 21:54:29 +0000 2009",
+			"favourites_count": 29791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28045,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079930059761336320/T-81wspz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079930059761336320/T-81wspz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38936142/1548173127",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1440,
+		"favorite_count": 7745,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "How are you not sure if you’ve ever worn a Ku Klux Klan robe or black face?"
+	},
+	{
+		"created_at": "Sat Feb 02 19:40:03 +0000 2019",
+		"id": 1091783323913924600,
+		"id_str": "1091783323913924608",
+		"full_text": "@jeremybowers Needed a new power cord. Apple delivered it BEFORE my battery died. Pretty sweet.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeremybowers",
+					"name": "Jeremy Bowers",
+					"id": 8083262,
+					"id_str": "8083262",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1091773350744076300,
+		"in_reply_to_status_id_str": "1091773350744076295",
+		"in_reply_to_user_id": 8083262,
+		"in_reply_to_user_id_str": "8083262",
+		"in_reply_to_screen_name": "jeremybowers",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10439,
+			"friends_count": 1469,
+			"listed_count": 0,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1548443638",
+			"profile_link_color": "51A09E",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jeremybowers Needed a new power cord. Apple delivered it BEFORE my battery died. Pretty sweet."
+	},
+	{
 		"created_at": "Sat Feb 02 18:56:51 +0000 2019",
 		"id": 1091772454387646500,
 		"id_str": "1091772454387646464",
