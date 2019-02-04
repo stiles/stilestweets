@@ -1,6 +1,708 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 21:20:24 +0000 2019",
+		"id": 1092533355495731200,
+		"id_str": "1092533355495731200",
+		"full_text": "happy #lunarnewyear! food links from yours truly:\n\n&gt; #chinesenewyear recipes from @andyroberson22 &amp; @frankshyong &amp; me via @LATdatadesk @opennews in '17. still holds up 🥟\nhttps://t.co/Y1nYct9Dqn\n\n&gt; Chinese, Korean &amp; Vietnamese new year foods w/@xtinatkacik https://t.co/8HqkWY48dZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			297
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lunarnewyear",
+					"indices": [
+						6,
+						19
+					]
+				},
+				{
+					"text": "chinesenewyear",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andyroberson22",
+					"name": "Andy Roberson",
+					"id": 3062229560,
+					"id_str": "3062229560",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"screen_name": "frankshyong",
+					"name": "Frank Shyong 熊紹岡",
+					"id": 17626551,
+					"id_str": "17626551",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"screen_name": "LATdatadesk",
+					"name": "The Data Desk",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"screen_name": "opennews",
+					"name": "OpenNews",
+					"id": 270527418,
+					"id_str": "270527418",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"screen_name": "xtinatkacik",
+					"name": "Christina Tkacik",
+					"id": 196638593,
+					"id_str": "196638593",
+					"indices": [
+						261,
+						273
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y1nYct9Dqn",
+					"expanded_url": "https://www.latimes.com/projects/la-fo-chinese-new-year-2017/",
+					"display_url": "latimes.com/projects/la-fo…",
+					"indices": [
+						181,
+						204
+					]
+				},
+				{
+					"url": "https://t.co/8HqkWY48dZ",
+					"expanded_url": "https://www.baltimoresun.com/entertainment/dining/bs-fo-taste-lunar-new-year-20190117-story.html",
+					"display_url": "baltimoresun.com/entertainment/…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37171680,
+			"id_str": "37171680",
+			"name": "Christine Zhang",
+			"screen_name": "christinezhang",
+			"location": "Baltimore, MD",
+			"description": "journalist @baltimoresun / nerdy data person @baltsundata. past lives @twosigma @opennews @latimes @BrookingsInst. (data) story tips: czhang at baltsun dot com",
+			"url": "https://t.co/KCxpgNM4BR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KCxpgNM4BR",
+							"expanded_url": "http://underthecurve.github.io/bylines/",
+							"display_url": "underthecurve.github.io/bylines/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3099,
+			"friends_count": 4118,
+			"listed_count": 184,
+			"created_at": "Sat May 02 09:31:45 +0000 2009",
+			"favourites_count": 9759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1838605065/z_485_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1838605065/z_485_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37171680/1534212604",
+			"profile_link_color": "002EA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "happy #lunarnewyear! food links from yours truly:\n\n&gt; #chinesenewyear recipes from @andyroberson22 &amp; @frankshyong &amp; me via @LATdatadesk @opennews in '17. still holds up 🥟\nhttps://t.co/Y1nYct9Dqn\n\n&gt; Chinese, Korean &amp; Vietnamese new year foods w/@xtinatkacik https://t.co/8HqkWY48dZ"
+	},
+	{
+		"created_at": "Mon Feb 04 21:20:21 +0000 2019",
+		"id": 1092533340853329900,
+		"id_str": "1092533340853329921",
+		"full_text": "Just because news coverage of @realDonaldTrump is negative doesn't make it untrue. It doesn’t even mean it’s unfair. And at his core, Trump knows this, @Sulliview argues: https://t.co/UvqVS9p1uh https://t.co/Rcz9AeDuMG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"screen_name": "Sulliview",
+					"name": "Margaret Sullivan",
+					"id": 460470940,
+					"id_str": "460470940",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UvqVS9p1uh",
+					"expanded_url": "https://wapo.st/2DeaIwm",
+					"display_url": "wapo.st/2DeaIwm",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092533167146364900,
+					"id_str": "1092533167146364929",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyl1IIUXcAEOq3b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyl1IIUXcAEOq3b.jpg",
+					"url": "https://t.co/Rcz9AeDuMG",
+					"display_url": "pic.twitter.com/Rcz9AeDuMG",
+					"expanded_url": "https://twitter.com/stiles/status/1092533340853329921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1484,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092533167146364900,
+					"id_str": "1092533167146364929",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyl1IIUXcAEOq3b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyl1IIUXcAEOq3b.jpg",
+					"url": "https://t.co/Rcz9AeDuMG",
+					"display_url": "pic.twitter.com/Rcz9AeDuMG",
+					"expanded_url": "https://twitter.com/stiles/status/1092533340853329921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1484,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10435,
+			"friends_count": 1468,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12897,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just because news coverage of @realDonaldTrump is negative doesn't make it untrue. It doesn’t even mean it’s unfair. And at his core, Trump knows this, @Sulliview argues: https://t.co/UvqVS9p1uh https://t.co/Rcz9AeDuMG"
+	},
+	{
+		"created_at": "Mon Feb 04 19:15:35 +0000 2019",
+		"id": 1092501944675909600,
+		"id_str": "1092501944675909632",
+		"full_text": "#WoolseyStorm *Update* PCH closed in both directions from Broad Beach Road to Las Posas due to Mud and Debris in the Roadway. Open to residents with ID. DRIVE SLOW! and yield to crews in the area. https://t.co/k3OVU0d7E6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WoolseyStorm",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k3OVU0d7E6",
+					"expanded_url": "https://twitter.com/caltransdist7/status/1092501197066399744",
+					"display_url": "twitter.com/caltransdist7/…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 919373695,
+			"id_str": "919373695",
+			"name": "LA County Fire",
+			"screen_name": "LACoFDPIO",
+			"location": "Los Angeles, CA",
+			"description": "Official L.A. County Fire Department PIO.  Capt. Tony Imbrenda. Inspectors Sky Cornell & Scott Elliott.  Dial 911 for emergencies. Page not monitored 24/7",
+			"url": "https://t.co/bEL5gSFmAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bEL5gSFmAi",
+							"expanded_url": "https://www.fire.lacounty.gov",
+							"display_url": "fire.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68115,
+			"friends_count": 6,
+			"listed_count": 968,
+			"created_at": "Thu Nov 01 16:27:51 +0000 2012",
+			"favourites_count": 8996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7649,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "151D34",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040325006880792576/hN8EcDSl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040325006880792576/hN8EcDSl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/919373695/1547842283",
+			"profile_link_color": "B30000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092501197066399700,
+		"quoted_status_id_str": "1092501197066399744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k3OVU0d7E6",
+			"expanded": "https://twitter.com/caltransdist7/status/1092501197066399744",
+			"display": "twitter.com/caltransdist7/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 04 19:12:37 +0000 2019",
+			"id": 1092501197066399700,
+			"id_str": "1092501197066399744",
+			"full_text": "Flooding on #PCH Pacific Coast Hwy/ SR-1 north of Broad Beach Rd in #Malibu \n\n#Caltrans is working 24/7 to clear mud and storm debris\n\nIf your street or highway is flooded -- Turn Around, Don't Drown! https://t.co/xCIsXSNQsy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PCH",
+						"indices": [
+							12,
+							16
+						]
+					},
+					{
+						"text": "Malibu",
+						"indices": [
+							68,
+							75
+						]
+					},
+					{
+						"text": "Caltrans",
+						"indices": [
+							78,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1092500080702017500,
+						"id_str": "1092500080702017536",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"url": "https://t.co/xCIsXSNQsy",
+						"display_url": "pic.twitter.com/xCIsXSNQsy",
+						"expanded_url": "https://twitter.com/CaltransDist7/status/1092501197066399744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1092500080702017500,
+						"id_str": "1092500080702017536",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"url": "https://t.co/xCIsXSNQsy",
+						"display_url": "pic.twitter.com/xCIsXSNQsy",
+						"expanded_url": "https://twitter.com/CaltransDist7/status/1092501197066399744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18784453,
+				"id_str": "18784453",
+				"name": "Caltrans District 7",
+				"screen_name": "CaltransDist7",
+				"location": "Los Angeles & Ventura Counties",
+				"description": "California Department of Transportation. This site is not monitored 24/7. Please call 9-1-1 for emergencies.",
+				"url": "https://t.co/49vh9Jf7bK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/49vh9Jf7bK",
+								"expanded_url": "http://www.dot.ca.gov/dist07",
+								"display_url": "dot.ca.gov/dist07",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23345,
+				"friends_count": 1131,
+				"listed_count": 670,
+				"created_at": "Thu Jan 08 23:35:49 +0000 2009",
+				"favourites_count": 3619,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16953,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/70359833/CT_logo_square_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/70359833/CT_logo_square_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18784453/1493756837",
+				"profile_link_color": "00455E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFE6BA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 17,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#WoolseyStorm *Update* PCH closed in both directions from Broad Beach Road to Las Posas due to Mud and Debris in the Roadway. Open to residents with ID. DRIVE SLOW! and yield to crews in the area. https://t.co/k3OVU0d7E6"
+	},
+	{
 		"created_at": "Mon Feb 04 19:15:35 +0000 2019",
 		"id": 1092501944675909600,
 		"id_str": "1092501944675909632",
