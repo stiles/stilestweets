@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 22:21:26 +0000 2019",
+		"id": 1092548712520241200,
+		"id_str": "1092548712520241152",
+		"full_text": "Super timeline visualization by @pbump with @realDonaldTrump's schedule shows the relationship between \"executive time\", tweets and the president's cable news diet: https://t.co/dFdW27Ifoy \n\n[BTW: @pbump, did you post your data/code for this chart on github or somewhere?] https://t.co/ZlIEwjN0nY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pbump",
+					"name": "Philip Bump",
+					"id": 950531,
+					"id_str": "950531",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						44,
+						60
+					]
+				},
+				{
+					"screen_name": "pbump",
+					"name": "Philip Bump",
+					"id": 950531,
+					"id_str": "950531",
+					"indices": [
+						197,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dFdW27Ifoy",
+					"expanded_url": "https://lat.ms/2DajTOA",
+					"display_url": "lat.ms/2DajTOA",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092547729212035100,
+					"id_str": "1092547729212035074",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DymCXwPX0AI8I1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DymCXwPX0AI8I1h.jpg",
+					"url": "https://t.co/ZlIEwjN0nY",
+					"display_url": "pic.twitter.com/ZlIEwjN0nY",
+					"expanded_url": "https://twitter.com/stiles/status/1092548712520241152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 287,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 863,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092547729212035100,
+					"id_str": "1092547729212035074",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DymCXwPX0AI8I1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DymCXwPX0AI8I1h.jpg",
+					"url": "https://t.co/ZlIEwjN0nY",
+					"display_url": "pic.twitter.com/ZlIEwjN0nY",
+					"expanded_url": "https://twitter.com/stiles/status/1092548712520241152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 287,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 863,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10436,
+			"friends_count": 1468,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Super timeline visualization by @pbump with @realDonaldTrump's schedule shows the relationship between \"executive time\", tweets and the president's cable news diet: https://t.co/dFdW27Ifoy \n\n[BTW: @pbump, did you post your data/code for this chart on github or somewhere?] https://t.co/ZlIEwjN0nY"
+	},
+	{
+		"created_at": "Mon Feb 04 21:20:24 +0000 2019",
+		"id": 1092533355495731200,
+		"id_str": "1092533355495731200",
+		"full_text": "happy #lunarnewyear! food links from yours truly:\n\n&gt; #chinesenewyear recipes from @andyroberson22 &amp; @frankshyong &amp; me via @LATdatadesk @opennews in '17. still holds up 🥟\nhttps://t.co/Y1nYct9Dqn\n\n&gt; Chinese, Korean &amp; Vietnamese new year foods w/@xtinatkacik https://t.co/8HqkWY48dZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			297
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lunarnewyear",
+					"indices": [
+						6,
+						19
+					]
+				},
+				{
+					"text": "chinesenewyear",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andyroberson22",
+					"name": "Andy Roberson",
+					"id": 3062229560,
+					"id_str": "3062229560",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"screen_name": "frankshyong",
+					"name": "Frank Shyong 熊紹岡",
+					"id": 17626551,
+					"id_str": "17626551",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"screen_name": "LATdatadesk",
+					"name": "The Data Desk",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"screen_name": "opennews",
+					"name": "OpenNews",
+					"id": 270527418,
+					"id_str": "270527418",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"screen_name": "xtinatkacik",
+					"name": "Christina Tkacik",
+					"id": 196638593,
+					"id_str": "196638593",
+					"indices": [
+						261,
+						273
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y1nYct9Dqn",
+					"expanded_url": "https://www.latimes.com/projects/la-fo-chinese-new-year-2017/",
+					"display_url": "latimes.com/projects/la-fo…",
+					"indices": [
+						181,
+						204
+					]
+				},
+				{
+					"url": "https://t.co/8HqkWY48dZ",
+					"expanded_url": "https://www.baltimoresun.com/entertainment/dining/bs-fo-taste-lunar-new-year-20190117-story.html",
+					"display_url": "baltimoresun.com/entertainment/…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37171680,
+			"id_str": "37171680",
+			"name": "Christine Zhang",
+			"screen_name": "christinezhang",
+			"location": "Baltimore, MD",
+			"description": "journalist @baltimoresun / nerdy data person @baltsundata. past lives @twosigma @opennews @latimes @BrookingsInst. (data) story tips: czhang at baltsun dot com",
+			"url": "https://t.co/KCxpgNM4BR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KCxpgNM4BR",
+							"expanded_url": "http://underthecurve.github.io/bylines/",
+							"display_url": "underthecurve.github.io/bylines/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3099,
+			"friends_count": 4118,
+			"listed_count": 184,
+			"created_at": "Sat May 02 09:31:45 +0000 2009",
+			"favourites_count": 9759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1838605065/z_485_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1838605065/z_485_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37171680/1534212604",
+			"profile_link_color": "002EA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "happy #lunarnewyear! food links from yours truly:\n\n&gt; #chinesenewyear recipes from @andyroberson22 &amp; @frankshyong &amp; me via @LATdatadesk @opennews in '17. still holds up 🥟\nhttps://t.co/Y1nYct9Dqn\n\n&gt; Chinese, Korean &amp; Vietnamese new year foods w/@xtinatkacik https://t.co/8HqkWY48dZ"
+	},
+	{
 		"created_at": "Mon Feb 04 21:20:24 +0000 2019",
 		"id": 1092533355495731200,
 		"id_str": "1092533355495731200",
