@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 19:15:35 +0000 2019",
+		"id": 1092501944675909600,
+		"id_str": "1092501944675909632",
+		"full_text": "#WoolseyStorm *Update* PCH closed in both directions from Broad Beach Road to Las Posas due to Mud and Debris in the Roadway. Open to residents with ID. DRIVE SLOW! and yield to crews in the area. https://t.co/k3OVU0d7E6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WoolseyStorm",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k3OVU0d7E6",
+					"expanded_url": "https://twitter.com/caltransdist7/status/1092501197066399744",
+					"display_url": "twitter.com/caltransdist7/…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 919373695,
+			"id_str": "919373695",
+			"name": "LA County Fire",
+			"screen_name": "LACoFDPIO",
+			"location": "Los Angeles, CA",
+			"description": "Official L.A. County Fire Department PIO.  Capt. Tony Imbrenda. Inspectors Sky Cornell & Scott Elliott.  Dial 911 for emergencies. Page not monitored 24/7",
+			"url": "https://t.co/bEL5gSFmAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bEL5gSFmAi",
+							"expanded_url": "https://www.fire.lacounty.gov",
+							"display_url": "fire.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68115,
+			"friends_count": 5,
+			"listed_count": 968,
+			"created_at": "Thu Nov 01 16:27:51 +0000 2012",
+			"favourites_count": 8996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7649,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "151D34",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040325006880792576/hN8EcDSl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040325006880792576/hN8EcDSl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/919373695/1547842283",
+			"profile_link_color": "B30000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092501197066399700,
+		"quoted_status_id_str": "1092501197066399744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k3OVU0d7E6",
+			"expanded": "https://twitter.com/caltransdist7/status/1092501197066399744",
+			"display": "twitter.com/caltransdist7/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 04 19:12:37 +0000 2019",
+			"id": 1092501197066399700,
+			"id_str": "1092501197066399744",
+			"full_text": "Flooding on #PCH Pacific Coast Hwy/ SR-1 north of Broad Beach Rd in #Malibu \n\n#Caltrans is working 24/7 to clear mud and storm debris\n\nIf your street or highway is flooded -- Turn Around, Don't Drown! https://t.co/xCIsXSNQsy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PCH",
+						"indices": [
+							12,
+							16
+						]
+					},
+					{
+						"text": "Malibu",
+						"indices": [
+							68,
+							75
+						]
+					},
+					{
+						"text": "Caltrans",
+						"indices": [
+							78,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1092500080702017500,
+						"id_str": "1092500080702017536",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"url": "https://t.co/xCIsXSNQsy",
+						"display_url": "pic.twitter.com/xCIsXSNQsy",
+						"expanded_url": "https://twitter.com/CaltransDist7/status/1092501197066399744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1092500080702017500,
+						"id_str": "1092500080702017536",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"url": "https://t.co/xCIsXSNQsy",
+						"display_url": "pic.twitter.com/xCIsXSNQsy",
+						"expanded_url": "https://twitter.com/CaltransDist7/status/1092501197066399744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18784453,
+				"id_str": "18784453",
+				"name": "Caltrans District 7",
+				"screen_name": "CaltransDist7",
+				"location": "Los Angeles & Ventura Counties",
+				"description": "California Department of Transportation. This site is not monitored 24/7. Please call 9-1-1 for emergencies.",
+				"url": "https://t.co/49vh9Jf7bK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/49vh9Jf7bK",
+								"expanded_url": "http://www.dot.ca.gov/dist07",
+								"display_url": "dot.ca.gov/dist07",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23337,
+				"friends_count": 1131,
+				"listed_count": 671,
+				"created_at": "Thu Jan 08 23:35:49 +0000 2009",
+				"favourites_count": 3618,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16949,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/70359833/CT_logo_square_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/70359833/CT_logo_square_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18784453/1493756837",
+				"profile_link_color": "00455E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFE6BA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#WoolseyStorm *Update* PCH closed in both directions from Broad Beach Road to Las Posas due to Mud and Debris in the Roadway. Open to residents with ID. DRIVE SLOW! and yield to crews in the area. https://t.co/k3OVU0d7E6"
+	},
+	{
 		"created_at": "Mon Feb 04 17:58:53 +0000 2019",
 		"id": 1092482639968096300,
 		"id_str": "1092482639968096256",
