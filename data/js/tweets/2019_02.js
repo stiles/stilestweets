@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 03:45:17 +0000 2019",
+		"id": 1092267827073929200,
+		"id_str": "1092267827073929216",
+		"full_text": "@mattwaite @jeffsonderman überbewertet",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattwaite",
+					"name": "Matt Waite",
+					"id": 8839152,
+					"id_str": "8839152",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "jeffsonderman",
+					"name": "Jeff Sonderman",
+					"id": 17369951,
+					"id_str": "17369951",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1092264061373464600,
+		"in_reply_to_status_id_str": "1092264061373464576",
+		"in_reply_to_user_id": 8839152,
+		"in_reply_to_user_id_str": "8839152",
+		"in_reply_to_screen_name": "mattwaite",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1469,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12893,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@mattwaite @jeffsonderman überbewertet"
+	},
+	{
+		"created_at": "Mon Feb 04 03:29:25 +0000 2019",
+		"id": 1092263831240364000,
+		"id_str": "1092263831240364032",
+		"full_text": "US \"super bowl\" lacks excitement of more action-oriented sports, such as cricket and bridge.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58569513,
+			"id_str": "58569513",
+			"name": "DPRK News Service",
+			"screen_name": "DPRK_News",
+			"location": "Pyongyang, DPRK",
+			"description": "Official News feed of Democratic Peoples Republic of Korea",
+			"url": "https://t.co/Dkq1nJO2sa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dkq1nJO2sa",
+							"expanded_url": "http://www.mfa.gov.kp/en/",
+							"display_url": "mfa.gov.kp/en/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329943,
+			"friends_count": 100,
+			"listed_count": 2923,
+			"created_at": "Mon Jul 20 19:45:37 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/323235980/dprk-flag_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/323235980/dprk-flag_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58569513/1535140325",
+			"profile_link_color": "267491",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 369,
+		"favorite_count": 1184,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "US \"super bowl\" lacks excitement of more action-oriented sports, such as cricket and bridge."
+	},
+	{
+		"created_at": "Mon Feb 04 03:02:00 +0000 2019",
+		"id": 1092256930763034600,
+		"id_str": "1092256930763034624",
+		"full_text": "So I got an odd email last Saturday night, with the subject line \"ideas/assistance\" https://t.co/5vI2ZEtXlt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5vI2ZEtXlt",
+					"expanded_url": "https://www.washingtonpost.com/video/national/democracy-dies-in-darkness--washington-post-super-bowl-message/2019/02/03/a5cacd0b-1773-46fa-b5f7-0deb3a2f7fd7_video.html?utm_term=.7b6167357569",
+					"display_url": "washingtonpost.com/video/national…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34330219,
+			"id_str": "34330219",
+			"name": "Micah Gelman",
+			"screen_name": "mbgelman",
+			"location": "DC, Baltimore and in between",
+			"description": "Senior Editor and head of @postvideo @washingtonpost. Priors: Digital Strategy @DiscoveryComm, EP @AP @cbsbaltimore @wdsu @10TV @newschannel9 @fox43 @syracuseU",
+			"url": "https://t.co/5fo6tcHmon",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5fo6tcHmon",
+							"expanded_url": "http://www.washingtonpost.com/people/micah-b-gelman",
+							"display_url": "washingtonpost.com/people/micah-b…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2098,
+			"friends_count": 1099,
+			"listed_count": 119,
+			"created_at": "Wed Apr 22 17:10:36 +0000 2009",
+			"favourites_count": 3415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028615489436581888/Dfz6bOts_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028615489436581888/Dfz6bOts_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34330219/1475929876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So I got an odd email last Saturday night, with the subject line \"ideas/assistance\" https://t.co/5vI2ZEtXlt"
+	},
+	{
 		"created_at": "Mon Feb 04 02:59:00 +0000 2019",
 		"id": 1092256177562411000,
 		"id_str": "1092256177562411008",
