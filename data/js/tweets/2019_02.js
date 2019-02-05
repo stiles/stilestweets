@@ -1,6 +1,638 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 04:46:04 +0000 2019",
+		"id": 1092645509875912700,
+		"id_str": "1092645509875912705",
+		"full_text": "oh no no noo https://t.co/hYKTM8Al4Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hYKTM8Al4Q",
+					"expanded_url": "https://twitter.com/yashar/status/1092645275095556096",
+					"display_url": "twitter.com/yashar/status/…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1396,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092645275095556100,
+		"quoted_status_id_str": "1092645275095556096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hYKTM8Al4Q",
+			"expanded": "https://twitter.com/yashar/status/1092645275095556096",
+			"display": "twitter.com/yashar/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 05 04:45:08 +0000 2019",
+			"id": 1092645275095556100,
+			"id_str": "1092645275095556096",
+			"full_text": "I'm calling the FBI https://t.co/HDEgDCSb8x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				19
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HDEgDCSb8x",
+						"expanded_url": "https://twitter.com/miblogestublog/status/1092625889257549824",
+						"display_url": "twitter.com/miblogestublog…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11744152,
+				"id_str": "11744152",
+				"name": "Yashar Ali 🐘",
+				"screen_name": "yashar",
+				"location": "New York, NY",
+				"description": "New York Magazine/HuffPost Email: currentyashar@gmail.com Direct Messages Open. Text/Call/Signal/Confide/WhatsApp: 310-795-2497",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 334757,
+				"friends_count": 20537,
+				"listed_count": 4386,
+				"created_at": "Wed Jan 02 06:55:39 +0000 2008",
+				"favourites_count": 60569,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 102987,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/654406754164346884/mofw7nin_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/654406754164346884/mofw7nin_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11744152/1502224549",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "080708",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1092625889257549800,
+			"quoted_status_id_str": "1092625889257549824",
+			"quoted_status_permalink": {
+				"url": "https://t.co/HDEgDCSb8x",
+				"expanded": "https://twitter.com/miblogestublog/status/1092625889257549824",
+				"display": "twitter.com/miblogestublog…"
+			},
+			"retweet_count": 23,
+			"favorite_count": 191,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "oh no no noo https://t.co/hYKTM8Al4Q"
+	},
+	{
+		"created_at": "Tue Feb 05 04:45:02 +0000 2019",
+		"id": 1092645251175538700,
+		"id_str": "1092645251175538688",
+		"full_text": "I'll never KonMari you, @jeremybowers. \n\nhttps://t.co/xqRW09f9zX https://t.co/GBOlCBmW0S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeremybowers",
+					"name": "Jeremy Bowers",
+					"id": 8083262,
+					"id_str": "8083262",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xqRW09f9zX",
+					"expanded_url": "http://bit.ly/2Tyg50j",
+					"display_url": "bit.ly/2Tyg50j",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092644615050584000,
+					"id_str": "1092644615050584065",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DynafQHVYAEBbXf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DynafQHVYAEBbXf.jpg",
+					"url": "https://t.co/GBOlCBmW0S",
+					"display_url": "pic.twitter.com/GBOlCBmW0S",
+					"expanded_url": "https://twitter.com/stiles/status/1092645251175538688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 162,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1482,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092644615050584000,
+					"id_str": "1092644615050584065",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DynafQHVYAEBbXf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DynafQHVYAEBbXf.jpg",
+					"url": "https://t.co/GBOlCBmW0S",
+					"display_url": "pic.twitter.com/GBOlCBmW0S",
+					"expanded_url": "https://twitter.com/stiles/status/1092645251175538688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 162,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1482,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1396,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'll never KonMari you, @jeremybowers. \n\nhttps://t.co/xqRW09f9zX https://t.co/GBOlCBmW0S"
+	},
+	{
+		"created_at": "Tue Feb 05 04:25:31 +0000 2019",
+		"id": 1092640338194227200,
+		"id_str": "1092640338194227201",
+		"full_text": "@pbump @realDonaldTrump Oops! Here's the correct link to that excellent @pbump piece/chart about @realDonaldTrump 'executive time' breakdown: https://t.co/kyfBbQ48gc https://t.co/F0uGJl6Chx",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pbump",
+					"name": "Philip Bump",
+					"id": 950531,
+					"id_str": "950531",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						7,
+						23
+					]
+				},
+				{
+					"screen_name": "pbump",
+					"name": "Philip Bump",
+					"id": 950531,
+					"id_str": "950531",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						97,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kyfBbQ48gc",
+					"expanded_url": "https://wapo.st/2Ts6ngc",
+					"display_url": "wapo.st/2Ts6ngc",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092640106467405800,
+					"id_str": "1092640106467405825",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/DynWY0VVsAEkEnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DynWY0VVsAEkEnn.jpg",
+					"url": "https://t.co/F0uGJl6Chx",
+					"display_url": "pic.twitter.com/F0uGJl6Chx",
+					"expanded_url": "https://twitter.com/stiles/status/1092640338194227201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 863,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 287,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092640106467405800,
+					"id_str": "1092640106467405825",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/DynWY0VVsAEkEnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DynWY0VVsAEkEnn.jpg",
+					"url": "https://t.co/F0uGJl6Chx",
+					"display_url": "pic.twitter.com/F0uGJl6Chx",
+					"expanded_url": "https://twitter.com/stiles/status/1092640338194227201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 863,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 287,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1092548712520241200,
+		"in_reply_to_status_id_str": "1092548712520241152",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1396,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@pbump @realDonaldTrump Oops! Here's the correct link to that excellent @pbump piece/chart about @realDonaldTrump 'executive time' breakdown: https://t.co/kyfBbQ48gc https://t.co/F0uGJl6Chx"
+	},
+	{
 		"created_at": "Tue Feb 05 04:02:08 +0000 2019",
 		"id": 1092634454873391100,
 		"id_str": "1092634454873391105",
