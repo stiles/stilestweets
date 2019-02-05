@@ -1,6 +1,1669 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 04:02:08 +0000 2019",
+		"id": 1092634454873391100,
+		"id_str": "1092634454873391105",
+		"full_text": "The OIG report shows a previously reported trend of increased pepper spray use, as this chart shows. We'll have to wait for updated data from @LACProbation to see whether the trend continued in 2018. https://t.co/ae9I613UsE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACProbation",
+					"name": "Los Angeles County Probation Department",
+					"id": 1683979206,
+					"id_str": "1683979206",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092633201556676600,
+					"id_str": "1092633201556676608",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/DynQG5iVYAATagt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DynQG5iVYAATagt.jpg",
+					"url": "https://t.co/ae9I613UsE",
+					"display_url": "pic.twitter.com/ae9I613UsE",
+					"expanded_url": "https://twitter.com/stiles/status/1092634454873391105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092633201556676600,
+					"id_str": "1092633201556676608",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/DynQG5iVYAATagt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DynQG5iVYAATagt.jpg",
+					"url": "https://t.co/ae9I613UsE",
+					"display_url": "pic.twitter.com/ae9I613UsE",
+					"expanded_url": "https://twitter.com/stiles/status/1092634454873391105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1092632925651128300,
+		"in_reply_to_status_id_str": "1092632925651128320",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1469,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The OIG report shows a previously reported trend of increased pepper spray use, as this chart shows. We'll have to wait for updated data from @LACProbation to see whether the trend continued in 2018. https://t.co/ae9I613UsE"
+	},
+	{
+		"created_at": "Tue Feb 05 03:56:04 +0000 2019",
+		"id": 1092632925651128300,
+		"id_str": "1092632925651128320",
+		"full_text": "Here's an annotated copy of the report: \nhttps://t.co/GDzjRQg52e https://t.co/TbFOq4QdDA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GDzjRQg52e",
+					"expanded_url": "http://bit.ly/2TwvYoj",
+					"display_url": "bit.ly/2TwvYoj",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/TbFOq4QdDA",
+					"expanded_url": "https://twitter.com/latimes/status/1092631408785457152",
+					"display_url": "twitter.com/latimes/status…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1469,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092631408785457200,
+		"quoted_status_id_str": "1092631408785457152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TbFOq4QdDA",
+			"expanded": "https://twitter.com/latimes/status/1092631408785457152",
+			"display": "twitter.com/latimes/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 05 03:50:02 +0000 2019",
+			"id": 1092631408785457200,
+			"id_str": "1092631408785457152",
+			"full_text": "At L.A. County juvenile detention facilities, officers are supposed to use pepper spray as a last resort. A new report says officers have engaged in inappropriate and avoidable uses of pepper spray, sometimes violating their own rules. https://t.co/P2NGc5bEsr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P2NGc5bEsr",
+						"expanded_url": "https://lat.ms/2GacbHZ",
+						"display_url": "lat.ms/2GacbHZ",
+						"indices": [
+							236,
+							259
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16664681,
+				"id_str": "16664681",
+				"name": "Los Angeles Times",
+				"screen_name": "latimes",
+				"location": "El Segundo, CA",
+				"description": "News from Los Angeles and the world. Staffed by http://t.co/zb8HyvYyAJ editors.",
+				"url": "http://t.co/JvbZRDfNzf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JvbZRDfNzf",
+								"expanded_url": "http://latimes.com/",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/zb8HyvYyAJ",
+								"expanded_url": "http://latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									48,
+									70
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3324927,
+				"friends_count": 6883,
+				"listed_count": 31572,
+				"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+				"favourites_count": 1937,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 214630,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043205431340892160/uvDP6wTZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043205431340892160/uvDP6wTZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "615F61",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's an annotated copy of the report: \nhttps://t.co/GDzjRQg52e https://t.co/TbFOq4QdDA"
+	},
+	{
+		"created_at": "Mon Feb 04 18:55:53 +0000 2019",
+		"id": 1092496985507061800,
+		"id_str": "1092496985507061760",
+		"full_text": "Today’s California section of @latimes: all the @frankshyong that’s fit to print https://t.co/CceSncIjeD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"screen_name": "frankshyong",
+					"name": "Frank Shyong 熊紹岡",
+					"id": 17626551,
+					"id_str": "17626551",
+					"indices": [
+						48,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092496977554751500,
+					"id_str": "1092496977554751488",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DylUNnlWwAAcTwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DylUNnlWwAAcTwx.jpg",
+					"url": "https://t.co/CceSncIjeD",
+					"display_url": "pic.twitter.com/CceSncIjeD",
+					"expanded_url": "https://twitter.com/kyleykim/status/1092496985507061760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092496977554751500,
+					"id_str": "1092496977554751488",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DylUNnlWwAAcTwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DylUNnlWwAAcTwx.jpg",
+					"url": "https://t.co/CceSncIjeD",
+					"display_url": "pic.twitter.com/CceSncIjeD",
+					"expanded_url": "https://twitter.com/kyleykim/status/1092496985507061760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1092496977542238200,
+					"id_str": "1092496977542238211",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DylUNniX0AMAZvy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DylUNniX0AMAZvy.jpg",
+					"url": "https://t.co/CceSncIjeD",
+					"display_url": "pic.twitter.com/CceSncIjeD",
+					"expanded_url": "https://twitter.com/kyleykim/status/1092496985507061760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16608336,
+			"id_str": "16608336",
+			"name": "Kyle Kim",
+			"screen_name": "kyleykim",
+			"location": "Los Angeles",
+			"description": "Graphics and data viz @latimesgraphics • 💅🏼",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4764,
+			"friends_count": 1139,
+			"listed_count": 179,
+			"created_at": "Mon Oct 06 01:25:53 +0000 2008",
+			"favourites_count": 8183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15663,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923318022189629440/v1MpbAT2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923318022189629440/v1MpbAT2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16608336/1532537655",
+			"profile_link_color": "6CA9D6",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "1F1D25",
+			"profile_text_color": "51CECE",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today’s California section of @latimes: all the @frankshyong that’s fit to print https://t.co/CceSncIjeD"
+	},
+	{
+		"created_at": "Tue Feb 05 03:00:22 +0000 2019",
+		"id": 1092618908354236400,
+		"id_str": "1092618908354236416",
+		"full_text": "Pepper spray is used too frequently on L.A. juvenile detainees, report says https://t.co/sOX7Z4TJER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sOX7Z4TJER",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-ln-county-juvenile-hall-pepper-spray-20190204-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1469,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pepper spray is used too frequently on L.A. juvenile detainees, report says https://t.co/sOX7Z4TJER"
+	},
+	{
+		"created_at": "Mon Feb 04 22:21:26 +0000 2019",
+		"id": 1092548712520241200,
+		"id_str": "1092548712520241152",
+		"full_text": "Super timeline visualization by @pbump with @realDonaldTrump's schedule shows the relationship between \"executive time\", tweets and the president's cable news diet: https://t.co/dFdW27Ifoy \n\n[BTW: @pbump, did you post your data/code for this chart on github or somewhere?] https://t.co/ZlIEwjN0nY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pbump",
+					"name": "Philip Bump",
+					"id": 950531,
+					"id_str": "950531",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						44,
+						60
+					]
+				},
+				{
+					"screen_name": "pbump",
+					"name": "Philip Bump",
+					"id": 950531,
+					"id_str": "950531",
+					"indices": [
+						197,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dFdW27Ifoy",
+					"expanded_url": "https://lat.ms/2DajTOA",
+					"display_url": "lat.ms/2DajTOA",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092547729212035100,
+					"id_str": "1092547729212035074",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DymCXwPX0AI8I1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DymCXwPX0AI8I1h.jpg",
+					"url": "https://t.co/ZlIEwjN0nY",
+					"display_url": "pic.twitter.com/ZlIEwjN0nY",
+					"expanded_url": "https://twitter.com/stiles/status/1092548712520241152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 287,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 863,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092547729212035100,
+					"id_str": "1092547729212035074",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DymCXwPX0AI8I1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DymCXwPX0AI8I1h.jpg",
+					"url": "https://t.co/ZlIEwjN0nY",
+					"display_url": "pic.twitter.com/ZlIEwjN0nY",
+					"expanded_url": "https://twitter.com/stiles/status/1092548712520241152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 287,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 863,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1469,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Super timeline visualization by @pbump with @realDonaldTrump's schedule shows the relationship between \"executive time\", tweets and the president's cable news diet: https://t.co/dFdW27Ifoy \n\n[BTW: @pbump, did you post your data/code for this chart on github or somewhere?] https://t.co/ZlIEwjN0nY"
+	},
+	{
+		"created_at": "Mon Feb 04 21:20:24 +0000 2019",
+		"id": 1092533355495731200,
+		"id_str": "1092533355495731200",
+		"full_text": "happy #lunarnewyear! food links from yours truly:\n\n&gt; #chinesenewyear recipes from @andyroberson22 &amp; @frankshyong &amp; me via @LATdatadesk @opennews in '17. still holds up 🥟\nhttps://t.co/Y1nYct9Dqn\n\n&gt; Chinese, Korean &amp; Vietnamese new year foods w/@xtinatkacik https://t.co/8HqkWY48dZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			297
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lunarnewyear",
+					"indices": [
+						6,
+						19
+					]
+				},
+				{
+					"text": "chinesenewyear",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andyroberson22",
+					"name": "Andy Roberson",
+					"id": 3062229560,
+					"id_str": "3062229560",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"screen_name": "frankshyong",
+					"name": "Frank Shyong 熊紹岡",
+					"id": 17626551,
+					"id_str": "17626551",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"screen_name": "LATdatadesk",
+					"name": "The Data Desk",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"screen_name": "opennews",
+					"name": "OpenNews",
+					"id": 270527418,
+					"id_str": "270527418",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"screen_name": "xtinatkacik",
+					"name": "Christina Tkacik",
+					"id": 196638593,
+					"id_str": "196638593",
+					"indices": [
+						261,
+						273
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y1nYct9Dqn",
+					"expanded_url": "https://www.latimes.com/projects/la-fo-chinese-new-year-2017/",
+					"display_url": "latimes.com/projects/la-fo…",
+					"indices": [
+						181,
+						204
+					]
+				},
+				{
+					"url": "https://t.co/8HqkWY48dZ",
+					"expanded_url": "https://www.baltimoresun.com/entertainment/dining/bs-fo-taste-lunar-new-year-20190117-story.html",
+					"display_url": "baltimoresun.com/entertainment/…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37171680,
+			"id_str": "37171680",
+			"name": "Christine Zhang",
+			"screen_name": "christinezhang",
+			"location": "Baltimore, MD",
+			"description": "journalist @baltimoresun / nerdy data person @baltsundata. past lives @twosigma @opennews @latimes @BrookingsInst. (data) story tips: czhang at baltsun dot com",
+			"url": "https://t.co/KCxpgNM4BR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KCxpgNM4BR",
+							"expanded_url": "http://underthecurve.github.io/bylines/",
+							"display_url": "underthecurve.github.io/bylines/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3100,
+			"friends_count": 4119,
+			"listed_count": 184,
+			"created_at": "Sat May 02 09:31:45 +0000 2009",
+			"favourites_count": 9764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5798,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1838605065/z_485_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1838605065/z_485_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37171680/1534212604",
+			"profile_link_color": "002EA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "happy #lunarnewyear! food links from yours truly:\n\n&gt; #chinesenewyear recipes from @andyroberson22 &amp; @frankshyong &amp; me via @LATdatadesk @opennews in '17. still holds up 🥟\nhttps://t.co/Y1nYct9Dqn\n\n&gt; Chinese, Korean &amp; Vietnamese new year foods w/@xtinatkacik https://t.co/8HqkWY48dZ"
+	},
+	{
+		"created_at": "Mon Feb 04 21:20:21 +0000 2019",
+		"id": 1092533340853329900,
+		"id_str": "1092533340853329921",
+		"full_text": "Just because news coverage of @realDonaldTrump is negative doesn't make it untrue. It doesn’t even mean it’s unfair. And at his core, Trump knows this, @Sulliview argues: https://t.co/UvqVS9p1uh https://t.co/Rcz9AeDuMG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"screen_name": "Sulliview",
+					"name": "Margaret Sullivan",
+					"id": 460470940,
+					"id_str": "460470940",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UvqVS9p1uh",
+					"expanded_url": "https://wapo.st/2DeaIwm",
+					"display_url": "wapo.st/2DeaIwm",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092533167146364900,
+					"id_str": "1092533167146364929",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyl1IIUXcAEOq3b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyl1IIUXcAEOq3b.jpg",
+					"url": "https://t.co/Rcz9AeDuMG",
+					"display_url": "pic.twitter.com/Rcz9AeDuMG",
+					"expanded_url": "https://twitter.com/stiles/status/1092533340853329921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1484,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092533167146364900,
+					"id_str": "1092533167146364929",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyl1IIUXcAEOq3b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyl1IIUXcAEOq3b.jpg",
+					"url": "https://t.co/Rcz9AeDuMG",
+					"display_url": "pic.twitter.com/Rcz9AeDuMG",
+					"expanded_url": "https://twitter.com/stiles/status/1092533340853329921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1484,
+							"h": 989,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1469,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12902,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just because news coverage of @realDonaldTrump is negative doesn't make it untrue. It doesn’t even mean it’s unfair. And at his core, Trump knows this, @Sulliview argues: https://t.co/UvqVS9p1uh https://t.co/Rcz9AeDuMG"
+	},
+	{
+		"created_at": "Mon Feb 04 19:15:35 +0000 2019",
+		"id": 1092501944675909600,
+		"id_str": "1092501944675909632",
+		"full_text": "#WoolseyStorm *Update* PCH closed in both directions from Broad Beach Road to Las Posas due to Mud and Debris in the Roadway. Open to residents with ID. DRIVE SLOW! and yield to crews in the area. https://t.co/k3OVU0d7E6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WoolseyStorm",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k3OVU0d7E6",
+					"expanded_url": "https://twitter.com/caltransdist7/status/1092501197066399744",
+					"display_url": "twitter.com/caltransdist7/…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 919373695,
+			"id_str": "919373695",
+			"name": "LA County Fire",
+			"screen_name": "LACoFDPIO",
+			"location": "Los Angeles, CA",
+			"description": "Official L.A. County Fire Department PIO.  Capt. Tony Imbrenda. Inspectors Sky Cornell & Scott Elliott.  Dial 911 for emergencies. Page not monitored 24/7",
+			"url": "https://t.co/bEL5gSFmAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bEL5gSFmAi",
+							"expanded_url": "https://www.fire.lacounty.gov",
+							"display_url": "fire.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68111,
+			"friends_count": 6,
+			"listed_count": 967,
+			"created_at": "Thu Nov 01 16:27:51 +0000 2012",
+			"favourites_count": 8996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "151D34",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040325006880792576/hN8EcDSl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040325006880792576/hN8EcDSl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/919373695/1547842283",
+			"profile_link_color": "B30000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092501197066399700,
+		"quoted_status_id_str": "1092501197066399744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k3OVU0d7E6",
+			"expanded": "https://twitter.com/caltransdist7/status/1092501197066399744",
+			"display": "twitter.com/caltransdist7/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 04 19:12:37 +0000 2019",
+			"id": 1092501197066399700,
+			"id_str": "1092501197066399744",
+			"full_text": "Flooding on #PCH Pacific Coast Hwy/ SR-1 north of Broad Beach Rd in #Malibu \n\n#Caltrans is working 24/7 to clear mud and storm debris\n\nIf your street or highway is flooded -- Turn Around, Don't Drown! https://t.co/xCIsXSNQsy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PCH",
+						"indices": [
+							12,
+							16
+						]
+					},
+					{
+						"text": "Malibu",
+						"indices": [
+							68,
+							75
+						]
+					},
+					{
+						"text": "Caltrans",
+						"indices": [
+							78,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1092500080702017500,
+						"id_str": "1092500080702017536",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"url": "https://t.co/xCIsXSNQsy",
+						"display_url": "pic.twitter.com/xCIsXSNQsy",
+						"expanded_url": "https://twitter.com/CaltransDist7/status/1092501197066399744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1092500080702017500,
+						"id_str": "1092500080702017536",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DylXCPtUUAA-RPs.jpg",
+						"url": "https://t.co/xCIsXSNQsy",
+						"display_url": "pic.twitter.com/xCIsXSNQsy",
+						"expanded_url": "https://twitter.com/CaltransDist7/status/1092501197066399744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1047,
+								"h": 784,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18784453,
+				"id_str": "18784453",
+				"name": "Caltrans District 7",
+				"screen_name": "CaltransDist7",
+				"location": "Los Angeles & Ventura Counties",
+				"description": "California Department of Transportation. This site is not monitored 24/7. Please call 9-1-1 for emergencies.",
+				"url": "https://t.co/49vh9Jf7bK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/49vh9Jf7bK",
+								"expanded_url": "http://www.dot.ca.gov/dist07",
+								"display_url": "dot.ca.gov/dist07",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23379,
+				"friends_count": 1131,
+				"listed_count": 670,
+				"created_at": "Thu Jan 08 23:35:49 +0000 2009",
+				"favourites_count": 3620,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16962,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/70359833/CT_logo_square_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/70359833/CT_logo_square_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18784453/1493756837",
+				"profile_link_color": "00455E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFE6BA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 20,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#WoolseyStorm *Update* PCH closed in both directions from Broad Beach Road to Las Posas due to Mud and Debris in the Roadway. Open to residents with ID. DRIVE SLOW! and yield to crews in the area. https://t.co/k3OVU0d7E6"
+	},
+	{
 		"created_at": "Mon Feb 04 18:55:53 +0000 2019",
 		"id": 1092496985507061800,
 		"id_str": "1092496985507061760",
