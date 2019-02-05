@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 23:03:15 +0000 2019",
+		"id": 1092921625509388300,
+		"id_str": "1092921625509388288",
+		"full_text": "Interesting thread on a potential new role for LA County government in the lives of older residents. Adding to my story ideas list. https://t.co/z8TxDqCE1G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z8TxDqCE1G",
+					"expanded_url": "https://twitter.com/SupJaniceHahn/status/1092858901765259265",
+					"display_url": "twitter.com/SupJaniceHahn/…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10438,
+			"friends_count": 1396,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12910,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092858901765259300,
+		"quoted_status_id_str": "1092858901765259265",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z8TxDqCE1G",
+			"expanded": "https://twitter.com/SupJaniceHahn/status/1092858901765259265",
+			"display": "twitter.com/SupJaniceHahn/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 05 18:54:01 +0000 2019",
+			"id": 1092858901765259300,
+			"id_str": "1092858901765259265",
+			"full_text": "LA County’s older adult population is skyrocketing. Our (yes— and I’m proud to be one of them) population is expected to double in the next ten years! (Short thread)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 339852137,
+				"id_str": "339852137",
+				"name": "Janice Hahn",
+				"screen_name": "SupJaniceHahn",
+				"location": "San Pedro, CA",
+				"description": "Chair of the Los Angeles County Board of Supervisors. Proudly serving the Fourth District.",
+				"url": "https://t.co/3Pibllvzik",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3Pibllvzik",
+								"expanded_url": "http://hahn.lacounty.gov/",
+								"display_url": "hahn.lacounty.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15101,
+				"friends_count": 1871,
+				"listed_count": 593,
+				"created_at": "Thu Jul 21 19:22:22 +0000 2011",
+				"favourites_count": 1565,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5922,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/806257395382919168/xlmF010C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/806257395382919168/xlmF010C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/339852137/1544037136",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting thread on a potential new role for LA County government in the lives of older residents. Adding to my story ideas list. https://t.co/z8TxDqCE1G"
+	},
+	{
 		"created_at": "Tue Feb 05 21:31:24 +0000 2019",
 		"id": 1092898509781532700,
 		"id_str": "1092898509781532672",
