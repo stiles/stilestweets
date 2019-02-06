@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 05:06:35 +0000 2019",
+		"id": 1093013061936377900,
+		"id_str": "1093013061936377856",
+		"full_text": "Meaty story here for anyone interested in e-scooters. Great work, @ryanfelton. h/t @ChrisLKellerLAT cc @laura_nelson https://t.co/iIvuGpQaqG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryanfelton",
+					"name": "Ryan Felton",
+					"id": 217573136,
+					"id_str": "217573136",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"screen_name": "ChrisLKellerLAT",
+					"name": "Chris Keller",
+					"id": 963122095747035100,
+					"id_str": "963122095747035136",
+					"indices": [
+						83,
+						99
+					]
+				},
+				{
+					"screen_name": "laura_nelson",
+					"name": "Laura J. Nelson 🦅",
+					"id": 16538210,
+					"id_str": "16538210",
+					"indices": [
+						103,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iIvuGpQaqG",
+					"expanded_url": "https://twitter.com/ryanfelton/status/1092989752297558016",
+					"display_url": "twitter.com/ryanfelton/sta…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10437,
+			"friends_count": 1398,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12912,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549162208",
+			"profile_link_color": "696035",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092989752297558000,
+		"quoted_status_id_str": "1092989752297558016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iIvuGpQaqG",
+			"expanded": "https://twitter.com/ryanfelton/status/1092989752297558016",
+			"display": "twitter.com/ryanfelton/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 06 03:33:58 +0000 2019",
+			"id": 1092989752297558000,
+			"id_str": "1092989752297558016",
+			"full_text": "Exclusive: @ConsumerReports obtained internal injury and crash data on @BirdRide and @limebike, after successfully appealing a public records denial. Bird and Lime argued these records constituted trade secrets. https://t.co/ugBUwkJELJ https://t.co/PhOuYYn0Oe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ConsumerReports",
+						"name": "Consumer Reports",
+						"id": 16193528,
+						"id_str": "16193528",
+						"indices": [
+							11,
+							27
+						]
+					},
+					{
+						"screen_name": "BirdRide",
+						"name": "Bird",
+						"id": 907400253455835100,
+						"id_str": "907400253455835136",
+						"indices": [
+							71,
+							80
+						]
+					},
+					{
+						"screen_name": "limebike",
+						"name": "Lime",
+						"id": 3316290844,
+						"id_str": "3316290844",
+						"indices": [
+							85,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ugBUwkJELJ",
+						"expanded_url": "https://www.consumerreports.org/product-safety/national-crash-data-from-e-scooter-ride-share-companies-revealed-for-first-time/",
+						"display_url": "consumerreports.org/product-safety…",
+						"indices": [
+							212,
+							235
+						]
+					},
+					{
+						"url": "https://t.co/PhOuYYn0Oe",
+						"expanded_url": "https://twitter.com/ryanfelton/status/1092971830510583808",
+						"display_url": "twitter.com/ryanfelton/sta…",
+						"indices": [
+							236,
+							259
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 217573136,
+				"id_str": "217573136",
+				"name": "Ryan Felton",
+				"screen_name": "ryanfelton",
+				"location": "Brooklyn, NY",
+				"description": "investigative reporter @ConsumerReports, Special Projects | DM for Signal | tips to ryan.felton@consumer.org | views my own",
+				"url": "https://t.co/NzzSs1qGsa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NzzSs1qGsa",
+								"expanded_url": "http://ryancfelton.com",
+								"display_url": "ryancfelton.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3477,
+				"friends_count": 998,
+				"listed_count": 145,
+				"created_at": "Fri Nov 19 22:18:43 +0000 2010",
+				"favourites_count": 6099,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 65,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1006383187180900352/7VCLnPoP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006383187180900352/7VCLnPoP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/217573136/1405291184",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "011add077f4d2da3",
+				"url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+				"place_type": "city",
+				"name": "Brooklyn",
+				"full_name": "Brooklyn, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.041878,
+								40.570842
+							],
+							[
+								-73.855673,
+								40.570842
+							],
+							[
+								-73.855673,
+								40.739434
+							],
+							[
+								-74.041878,
+								40.739434
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1092971830510583800,
+			"quoted_status_id_str": "1092971830510583808",
+			"quoted_status_permalink": {
+				"url": "https://t.co/PhOuYYn0Oe",
+				"expanded": "https://twitter.com/ryanfelton/status/1092971830510583808",
+				"display": "twitter.com/ryanfelton/sta…"
+			},
+			"retweet_count": 18,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meaty story here for anyone interested in e-scooters. Great work, @ryanfelton. h/t @ChrisLKellerLAT cc @laura_nelson https://t.co/iIvuGpQaqG"
+	},
+	{
 		"created_at": "Wed Feb 06 00:25:01 +0000 2019",
 		"id": 1092942200227254300,
 		"id_str": "1092942200227254273",
