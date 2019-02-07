@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 14:24:19 +0000 2019",
+		"id": 1093153420381511700,
+		"id_str": "1093153420381511680",
+		"full_text": "Some incredible charts from NYT CEO sent out to the staff today.  The NYT is thriving. Lucky to work at a news organization that thanks to all the subscribers out there is able to continue to invest more money into quality journalism. https://t.co/huTtNG054u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093153008010125300,
+					"id_str": "1093153008010125312",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyuo3neX4AAKBSx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyuo3neX4AAKBSx.jpg",
+					"url": "https://t.co/huTtNG054u",
+					"display_url": "pic.twitter.com/huTtNG054u",
+					"expanded_url": "https://twitter.com/EricLiptonNYT/status/1093153420381511680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093153008010125300,
+					"id_str": "1093153008010125312",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyuo3neX4AAKBSx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyuo3neX4AAKBSx.jpg",
+					"url": "https://t.co/huTtNG054u",
+					"display_url": "pic.twitter.com/huTtNG054u",
+					"expanded_url": "https://twitter.com/EricLiptonNYT/status/1093153420381511680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093153046203375600,
+					"id_str": "1093153046203375616",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyuo51wWoAACXm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyuo51wWoAACXm2.jpg",
+					"url": "https://t.co/huTtNG054u",
+					"display_url": "pic.twitter.com/huTtNG054u",
+					"expanded_url": "https://twitter.com/EricLiptonNYT/status/1093153420381511680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375662595,
+			"id_str": "375662595",
+			"name": "Eric Lipton",
+			"screen_name": "EricLiptonNYT",
+			"location": "Washington, DC",
+			"description": "Investigative reporter NYT. Helping cover President Trump and the Trump administration-without fear or favor. I write about people and power.",
+			"url": "https://t.co/8s6H8PW6Fs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8s6H8PW6Fs",
+							"expanded_url": "http://topics.nytimes.com/top/reference/timestopics/people/l/eric_lipton/index.html?8qa",
+							"display_url": "topics.nytimes.com/top/reference/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144370,
+			"friends_count": 964,
+			"listed_count": 2818,
+			"created_at": "Sun Sep 18 14:38:03 +0000 2011",
+			"favourites_count": 409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21801,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/641671803291631617/zQ3j92jI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/641671803291631617/zQ3j92jI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375662595/1426255756",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some incredible charts from NYT CEO sent out to the staff today.  The NYT is thriving. Lucky to work at a news organization that thanks to all the subscribers out there is able to continue to invest more money into quality journalism. https://t.co/huTtNG054u"
+	},
+	{
+		"created_at": "Wed Feb 06 22:40:35 +0000 2019",
+		"id": 1093278307544514600,
+		"id_str": "1093278307544514562",
+		"full_text": "If you're comfortable with Python, Java, R, Scala, SQL, Objective-C, Swift, C++, React Native, GraphSQL … \n\n… and you're passionate about democracy… \n\nthe @latimes could use your help! https://t.co/t6NoPCBLtk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093277659658969100,
+					"id_str": "1093277659658969088",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"url": "https://t.co/t6NoPCBLtk",
+					"display_url": "pic.twitter.com/t6NoPCBLtk",
+					"expanded_url": "https://twitter.com/sewellchan/status/1093278307544514562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093277659658969100,
+					"id_str": "1093277659658969088",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"url": "https://t.co/t6NoPCBLtk",
+					"display_url": "pic.twitter.com/t6NoPCBLtk",
+					"expanded_url": "https://twitter.com/sewellchan/status/1093278307544514562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1650,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093278087108804600,
+					"id_str": "1093278087108804609",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DywaoLbWwAEIq6z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DywaoLbWwAEIq6z.jpg",
+					"url": "https://t.co/t6NoPCBLtk",
+					"display_url": "pic.twitter.com/t6NoPCBLtk",
+					"expanded_url": "https://twitter.com/sewellchan/status/1093278307544514562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198481,
+			"id_str": "1198481",
+			"name": "Sewell Chan",
+			"screen_name": "sewellchan",
+			"location": "Los Angeles",
+			"description": "Deputy Managing Editor @latimes; previously @nytimes @washingtonpost; urban explorer; native New Yorker; aspiring Californian; son of immigrants",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32738,
+			"friends_count": 2655,
+			"listed_count": 1056,
+			"created_at": "Thu Mar 15 02:38:28 +0000 2007",
+			"favourites_count": 18577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198481/1511924158",
+			"profile_link_color": "92A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're comfortable with Python, Java, R, Scala, SQL, Objective-C, Swift, C++, React Native, GraphSQL … \n\n… and you're passionate about democracy… \n\nthe @latimes could use your help! https://t.co/t6NoPCBLtk"
+	},
+	{
 		"created_at": "Wed Feb 06 22:40:35 +0000 2019",
 		"id": 1093278307544514600,
 		"id_str": "1093278307544514562",
