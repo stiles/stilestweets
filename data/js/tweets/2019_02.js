@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 22:40:35 +0000 2019",
+		"id": 1093278307544514600,
+		"id_str": "1093278307544514562",
+		"full_text": "If you're comfortable with Python, Java, R, Scala, SQL, Objective-C, Swift, C++, React Native, GraphSQL … \n\n… and you're passionate about democracy… \n\nthe @latimes could use your help! https://t.co/t6NoPCBLtk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093277659658969100,
+					"id_str": "1093277659658969088",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"url": "https://t.co/t6NoPCBLtk",
+					"display_url": "pic.twitter.com/t6NoPCBLtk",
+					"expanded_url": "https://twitter.com/sewellchan/status/1093278307544514562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093277659658969100,
+					"id_str": "1093277659658969088",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"url": "https://t.co/t6NoPCBLtk",
+					"display_url": "pic.twitter.com/t6NoPCBLtk",
+					"expanded_url": "https://twitter.com/sewellchan/status/1093278307544514562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1650,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093278087108804600,
+					"id_str": "1093278087108804609",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DywaoLbWwAEIq6z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DywaoLbWwAEIq6z.jpg",
+					"url": "https://t.co/t6NoPCBLtk",
+					"display_url": "pic.twitter.com/t6NoPCBLtk",
+					"expanded_url": "https://twitter.com/sewellchan/status/1093278307544514562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198481,
+			"id_str": "1198481",
+			"name": "Sewell Chan",
+			"screen_name": "sewellchan",
+			"location": "Los Angeles",
+			"description": "Deputy Managing Editor @latimes; previously @nytimes @washingtonpost; urban explorer; native New Yorker; aspiring Californian; son of immigrants",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32738,
+			"friends_count": 2655,
+			"listed_count": 1056,
+			"created_at": "Thu Mar 15 02:38:28 +0000 2007",
+			"favourites_count": 18572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13705,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198481/1511924158",
+			"profile_link_color": "92A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're comfortable with Python, Java, R, Scala, SQL, Objective-C, Swift, C++, React Native, GraphSQL … \n\n… and you're passionate about democracy… \n\nthe @latimes could use your help! https://t.co/t6NoPCBLtk"
+	},
+	{
 		"created_at": "Wed Feb 06 22:17:05 +0000 2019",
 		"id": 1093272393252913200,
 		"id_str": "1093272393252913152",
