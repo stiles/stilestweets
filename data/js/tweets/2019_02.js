@@ -163,6 +163,1068 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 144372,
+			"friends_count": 964,
+			"listed_count": 2818,
+			"created_at": "Sun Sep 18 14:38:03 +0000 2011",
+			"favourites_count": 409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21802,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/641671803291631617/zQ3j92jI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/641671803291631617/zQ3j92jI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375662595/1426255756",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some incredible charts from NYT CEO sent out to the staff today.  The NYT is thriving. Lucky to work at a news organization that thanks to all the subscribers out there is able to continue to invest more money into quality journalism. https://t.co/huTtNG054u"
+	},
+	{
+		"created_at": "Wed Feb 06 22:40:35 +0000 2019",
+		"id": 1093278307544514600,
+		"id_str": "1093278307544514562",
+		"full_text": "If you're comfortable with Python, Java, R, Scala, SQL, Objective-C, Swift, C++, React Native, GraphSQL … \n\n… and you're passionate about democracy… \n\nthe @latimes could use your help! https://t.co/t6NoPCBLtk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093277659658969100,
+					"id_str": "1093277659658969088",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"url": "https://t.co/t6NoPCBLtk",
+					"display_url": "pic.twitter.com/t6NoPCBLtk",
+					"expanded_url": "https://twitter.com/sewellchan/status/1093278307544514562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093277659658969100,
+					"id_str": "1093277659658969088",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DywaPTDX4AAOJbe.jpg",
+					"url": "https://t.co/t6NoPCBLtk",
+					"display_url": "pic.twitter.com/t6NoPCBLtk",
+					"expanded_url": "https://twitter.com/sewellchan/status/1093278307544514562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1650,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093278087108804600,
+					"id_str": "1093278087108804609",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DywaoLbWwAEIq6z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DywaoLbWwAEIq6z.jpg",
+					"url": "https://t.co/t6NoPCBLtk",
+					"display_url": "pic.twitter.com/t6NoPCBLtk",
+					"expanded_url": "https://twitter.com/sewellchan/status/1093278307544514562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198481,
+			"id_str": "1198481",
+			"name": "Sewell Chan",
+			"screen_name": "sewellchan",
+			"location": "Los Angeles",
+			"description": "Deputy Managing Editor @latimes; previously @nytimes @washingtonpost; urban explorer; native New Yorker; aspiring Californian; son of immigrants",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32744,
+			"friends_count": 2657,
+			"listed_count": 1056,
+			"created_at": "Thu Mar 15 02:38:28 +0000 2007",
+			"favourites_count": 18584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198481/1511924158",
+			"profile_link_color": "92A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're comfortable with Python, Java, R, Scala, SQL, Objective-C, Swift, C++, React Native, GraphSQL … \n\n… and you're passionate about democracy… \n\nthe @latimes could use your help! https://t.co/t6NoPCBLtk"
+	},
+	{
+		"created_at": "Wed Feb 06 22:17:05 +0000 2019",
+		"id": 1093272393252913200,
+		"id_str": "1093272393252913152",
+		"full_text": "\"The lasting visual image from Tuesday night’s State of the Union address was captured by photographer\" @dougmillsnyt. \n\nOf course it was. Dude is everywhere. \n\nhttps://t.co/kRtYUBN2wd https://t.co/KbkBRHxq6b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dougmillsnyt",
+					"name": "Doug Mills",
+					"id": 87761810,
+					"id_str": "87761810",
+					"indices": [
+						104,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kRtYUBN2wd",
+					"expanded_url": "https://wapo.st/2RGLkVj",
+					"display_url": "wapo.st/2RGLkVj",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093272140898480100,
+					"id_str": "1093272140898480128",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DywVOEEVsAAh_99.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DywVOEEVsAAh_99.jpg",
+					"url": "https://t.co/KbkBRHxq6b",
+					"display_url": "pic.twitter.com/KbkBRHxq6b",
+					"expanded_url": "https://twitter.com/stiles/status/1093272393252913152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093272140898480100,
+					"id_str": "1093272140898480128",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/DywVOEEVsAAh_99.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DywVOEEVsAAh_99.jpg",
+					"url": "https://t.co/KbkBRHxq6b",
+					"display_url": "pic.twitter.com/KbkBRHxq6b",
+					"expanded_url": "https://twitter.com/stiles/status/1093272393252913152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10436,
+			"friends_count": 1398,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12919,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549493706",
+			"profile_link_color": "3CA731",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The lasting visual image from Tuesday night’s State of the Union address was captured by photographer\" @dougmillsnyt. \n\nOf course it was. Dude is everywhere. \n\nhttps://t.co/kRtYUBN2wd https://t.co/KbkBRHxq6b"
+	},
+	{
+		"created_at": "Wed Feb 06 17:29:08 +0000 2019",
+		"id": 1093199931274256400,
+		"id_str": "1093199931274256385",
+		"full_text": "Excellent piece by @vicjkim from Seoul on the challenging South Korean job market for young people: \"The country won’t guarantee your future, even if you’re a college graduate,\" said Kim Y.H., 22, who recently graduated with a Japanese (oops!) degree: https://t.co/6ipQjcgV6O https://t.co/ZLhGBSmBDx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vicjkim",
+					"name": "Victoria Kim",
+					"id": 54643600,
+					"id_str": "54643600",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6ipQjcgV6O",
+					"expanded_url": "https://lat.ms/2WU8ICK",
+					"display_url": "lat.ms/2WU8ICK",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093199388413878300,
+					"id_str": "1093199388413878272",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DyvTDT8VYAAiZmw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyvTDT8VYAAiZmw.jpg",
+					"url": "https://t.co/ZLhGBSmBDx",
+					"display_url": "pic.twitter.com/ZLhGBSmBDx",
+					"expanded_url": "https://twitter.com/stiles/status/1093199931274256385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093199388413878300,
+					"id_str": "1093199388413878272",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DyvTDT8VYAAiZmw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyvTDT8VYAAiZmw.jpg",
+					"url": "https://t.co/ZLhGBSmBDx",
+					"display_url": "pic.twitter.com/ZLhGBSmBDx",
+					"expanded_url": "https://twitter.com/stiles/status/1093199931274256385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10436,
+			"friends_count": 1398,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12919,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549493706",
+			"profile_link_color": "3CA731",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excellent piece by @vicjkim from Seoul on the challenging South Korean job market for young people: \"The country won’t guarantee your future, even if you’re a college graduate,\" said Kim Y.H., 22, who recently graduated with a Japanese (oops!) degree: https://t.co/6ipQjcgV6O https://t.co/ZLhGBSmBDx"
+	},
+	{
+		"created_at": "Mon Jan 28 13:33:32 +0000 2019",
+		"id": 1089879148087013400,
+		"id_str": "1089879148087013381",
+		"full_text": "The newsroom jobs at @latimes have gotten a lot of press.\n\nWhat hasn't got the airtime is the even bigger rebuild happening on our product and engineering team.\n\nThe entire column of the company is being rebuilt from scratch. These are the most important slots open at @latimes.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						269,
+						277
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1089878076547203100,
+		"in_reply_to_status_id_str": "1089878076547203072",
+		"in_reply_to_user_id": 14559196,
+		"in_reply_to_user_id_str": "14559196",
+		"in_reply_to_screen_name": "palewire",
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+			"url": "https://t.co/kogJ0fJceo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kogJ0fJceo",
+							"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lZvqTdDOmO",
+							"expanded_url": "http://www.californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8531,
+			"friends_count": 3033,
+			"listed_count": 693,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 53612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The newsroom jobs at @latimes have gotten a lot of press.\n\nWhat hasn't got the airtime is the even bigger rebuild happening on our product and engineering team.\n\nThe entire column of the company is being rebuilt from scratch. These are the most important slots open at @latimes."
+	},
+	{
+		"created_at": "Wed Feb 06 15:56:51 +0000 2019",
+		"id": 1093176705907187700,
+		"id_str": "1093176705907187712",
+		"full_text": "“Youth can be seen on video attempting to self decontaminate with water from a toilet.” https://t.co/EGgYRgN8zO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EGgYRgN8zO",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-pepper-spray-county-juvenile-20190205-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10436,
+			"friends_count": 1398,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12919,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549493706",
+			"profile_link_color": "3CA731",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Youth can be seen on video attempting to self decontaminate with water from a toilet.” https://t.co/EGgYRgN8zO"
+	},
+	{
+		"created_at": "Wed Feb 06 14:24:19 +0000 2019",
+		"id": 1093153420381511700,
+		"id_str": "1093153420381511680",
+		"full_text": "Some incredible charts from NYT CEO sent out to the staff today.  The NYT is thriving. Lucky to work at a news organization that thanks to all the subscribers out there is able to continue to invest more money into quality journalism. https://t.co/huTtNG054u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093153008010125300,
+					"id_str": "1093153008010125312",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyuo3neX4AAKBSx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyuo3neX4AAKBSx.jpg",
+					"url": "https://t.co/huTtNG054u",
+					"display_url": "pic.twitter.com/huTtNG054u",
+					"expanded_url": "https://twitter.com/EricLiptonNYT/status/1093153420381511680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093153008010125300,
+					"id_str": "1093153008010125312",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyuo3neX4AAKBSx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyuo3neX4AAKBSx.jpg",
+					"url": "https://t.co/huTtNG054u",
+					"display_url": "pic.twitter.com/huTtNG054u",
+					"expanded_url": "https://twitter.com/EricLiptonNYT/status/1093153420381511680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 393,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093153046203375600,
+					"id_str": "1093153046203375616",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyuo51wWoAACXm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyuo51wWoAACXm2.jpg",
+					"url": "https://t.co/huTtNG054u",
+					"display_url": "pic.twitter.com/huTtNG054u",
+					"expanded_url": "https://twitter.com/EricLiptonNYT/status/1093153420381511680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375662595,
+			"id_str": "375662595",
+			"name": "Eric Lipton",
+			"screen_name": "EricLiptonNYT",
+			"location": "Washington, DC",
+			"description": "Investigative reporter NYT. Helping cover President Trump and the Trump administration-without fear or favor. I write about people and power.",
+			"url": "https://t.co/8s6H8PW6Fs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8s6H8PW6Fs",
+							"expanded_url": "http://topics.nytimes.com/top/reference/timestopics/people/l/eric_lipton/index.html?8qa",
+							"display_url": "topics.nytimes.com/top/reference/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 144375,
 			"friends_count": 964,
 			"listed_count": 2818,
