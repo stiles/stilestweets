@@ -100,6 +100,153 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 13626,
+			"friends_count": 543,
+			"listed_count": 473,
+			"created_at": "Wed May 06 21:57:05 +0000 2009",
+			"favourites_count": 1247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38287098/1527611465",
+			"profile_link_color": "00205B",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DCE7EA",
+			"profile_text_color": "404040",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marina del Rey Well Update: Work on the well continues. The operator is working to install add’l mitigation measures to control noise due to well work. @LACoFDPIO @CalConservation @lacdbh continue to monitor. For more info on the well: https://t.co/VA4NXGLGml … @SupJaniceHahn"
+	},
+	{
+		"created_at": "Fri Feb 08 00:29:30 +0000 2019",
+		"id": 1093668105669161000,
+		"id_str": "1093668105669160960",
+		"full_text": "Marina del Rey Well Update: Work on the well continues. The operator is working to install add’l mitigation measures to control noise due to well work. @LACoFDPIO @CalConservation @lacdbh continue to monitor. For more info on the well: https://t.co/VA4NXGLGml … @SupJaniceHahn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACoFDPIO",
+					"name": "LA County Fire",
+					"id": 919373695,
+					"id_str": "919373695",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"screen_name": "CalConservation",
+					"name": "DeptofConservation",
+					"id": 1246551108,
+					"id_str": "1246551108",
+					"indices": [
+						163,
+						179
+					]
+				},
+				{
+					"screen_name": "lacdbh",
+					"name": "LA Beaches & Harbors",
+					"id": 262758061,
+					"id_str": "262758061",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						262,
+						276
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VA4NXGLGml",
+					"expanded_url": "https://www.conservation.ca.gov/dog/Pages/DOW-RGC10-well.aspx",
+					"display_url": "conservation.ca.gov/dog/Pages/DOW-…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38287098,
+			"id_str": "38287098",
+			"name": "LA Public Health",
+			"screen_name": "lapublichealth",
+			"location": "Los Angeles, California",
+			"description": "Committed to protecting & improving the health of the over 10 million residents of #LACounty. Follow for #HealthAlerts & #HealthTips. #PublicHealth",
+			"url": "https://t.co/Fiv01QwVHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fiv01QwVHL",
+							"expanded_url": "http://publichealth.lacounty.gov",
+							"display_url": "publichealth.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 13623,
 			"friends_count": 542,
 			"listed_count": 473,
