@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 23:26:15 +0000 2019",
+		"id": 1094014576004198400,
+		"id_str": "1094014576004198400",
+		"full_text": "Great news. Congrats, @BenjaminDooley! https://t.co/BmoRIl1tKj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BenjaminDooley",
+					"name": "Ben Dooley",
+					"id": 305130750,
+					"id_str": "305130750",
+					"indices": [
+						22,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BmoRIl1tKj",
+					"expanded_url": "https://twitter.com/NYTimesPR/status/1093895692018429953",
+					"display_url": "twitter.com/NYTimesPR/stat…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10436,
+			"friends_count": 1400,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12926,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549493706",
+			"profile_link_color": "3CA731",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093895692018430000,
+		"quoted_status_id_str": "1093895692018429953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BmoRIl1tKj",
+			"expanded": "https://twitter.com/NYTimesPR/status/1093895692018429953",
+			"display": "twitter.com/NYTimesPR/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 08 15:33:51 +0000 2019",
+			"id": 1093895692018430000,
+			"id_str": "1093895692018429953",
+			"full_text": ".@BenjaminDooley joins @nytimesbusiness as our Japan business correspondent. https://t.co/HpxS9aSpDQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BenjaminDooley",
+						"name": "Ben Dooley",
+						"id": 305130750,
+						"id_str": "305130750",
+						"indices": [
+							1,
+							16
+						]
+					},
+					{
+						"screen_name": "nytimesbusiness",
+						"name": "NYT Business",
+						"id": 1754641,
+						"id_str": "1754641",
+						"indices": [
+							23,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HpxS9aSpDQ",
+						"expanded_url": "https://bit.ly/2TFEp0k",
+						"display_url": "bit.ly/2TFEp0k",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15829144,
+				"id_str": "15829144",
+				"name": "NYTimes Communications",
+				"screen_name": "NYTimesPR",
+				"location": "New York, NY",
+				"description": "Press inquiries: booking@nytimes.com. Contact @NYTcare or help@nytimes.com for tech/sub issues. More contacts at: https://t.co/Eau4LdYK0n",
+				"url": "https://t.co/9qjJo5Mwtx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9qjJo5Mwtx",
+								"expanded_url": "http://www.nytco.com",
+								"display_url": "nytco.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Eau4LdYK0n",
+								"expanded_url": "http://nytimes.com/help",
+								"display_url": "nytimes.com/help",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 52591,
+				"friends_count": 1365,
+				"listed_count": 1467,
+				"created_at": "Tue Aug 12 22:22:32 +0000 2008",
+				"favourites_count": 1482,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11911,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F7F8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963895370597019649/1xduznEK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963895370597019649/1xduznEK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15829144/1511892074",
+				"profile_link_color": "2E37B3",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great news. Congrats, @BenjaminDooley! https://t.co/BmoRIl1tKj"
+	},
+	{
+		"created_at": "Fri Feb 08 00:29:30 +0000 2019",
+		"id": 1093668105669161000,
+		"id_str": "1093668105669160960",
+		"full_text": "Marina del Rey Well Update: Work on the well continues. The operator is working to install add’l mitigation measures to control noise due to well work. @LACoFDPIO @CalConservation @lacdbh continue to monitor. For more info on the well: https://t.co/VA4NXGLGml … @SupJaniceHahn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACoFDPIO",
+					"name": "LA County Fire",
+					"id": 919373695,
+					"id_str": "919373695",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"screen_name": "CalConservation",
+					"name": "DeptofConservation",
+					"id": 1246551108,
+					"id_str": "1246551108",
+					"indices": [
+						163,
+						179
+					]
+				},
+				{
+					"screen_name": "lacdbh",
+					"name": "LA Beaches & Harbors",
+					"id": 262758061,
+					"id_str": "262758061",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						262,
+						276
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VA4NXGLGml",
+					"expanded_url": "https://www.conservation.ca.gov/dog/Pages/DOW-RGC10-well.aspx",
+					"display_url": "conservation.ca.gov/dog/Pages/DOW-…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38287098,
+			"id_str": "38287098",
+			"name": "LA Public Health",
+			"screen_name": "lapublichealth",
+			"location": "Los Angeles, California",
+			"description": "Committed to protecting & improving the health of the over 10 million residents of #LACounty. Follow for #HealthAlerts & #HealthTips. #PublicHealth",
+			"url": "https://t.co/Fiv01QwVHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fiv01QwVHL",
+							"expanded_url": "http://publichealth.lacounty.gov",
+							"display_url": "publichealth.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13628,
+			"friends_count": 543,
+			"listed_count": 473,
+			"created_at": "Wed May 06 21:57:05 +0000 2009",
+			"favourites_count": 1247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6225,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38287098/1527611465",
+			"profile_link_color": "00205B",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DCE7EA",
+			"profile_text_color": "404040",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Marina del Rey Well Update: Work on the well continues. The operator is working to install add’l mitigation measures to control noise due to well work. @LACoFDPIO @CalConservation @lacdbh continue to monitor. For more info on the well: https://t.co/VA4NXGLGml … @SupJaniceHahn"
+	},
+	{
 		"created_at": "Fri Feb 08 00:29:30 +0000 2019",
 		"id": 1093668105669161000,
 		"id_str": "1093668105669160960",
