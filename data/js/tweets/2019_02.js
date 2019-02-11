@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 11 17:10:55 +0000 2019",
+		"id": 1095007285405831200,
+		"id_str": "1095007285405831168",
+		"full_text": "The U.S. government went looking for someone to blame for Russia's interference in the 2016 election—and found Maria Butina, the perfect scapegoat. Excellent tale, as always, by @WashAuthor: https://t.co/PMAA4PUEBO https://t.co/dlpr4ejkZw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WashAuthor",
+					"name": "James Bamford",
+					"id": 51892045,
+					"id_str": "51892045",
+					"indices": [
+						178,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PMAA4PUEBO",
+					"expanded_url": "http://bit.ly/2RVbmEy",
+					"display_url": "bit.ly/2RVbmEy",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095006955377111000,
+					"id_str": "1095006955377111041",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/DzI_BjnVsAEODe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzI_BjnVsAEODe4.jpg",
+					"url": "https://t.co/dlpr4ejkZw",
+					"display_url": "pic.twitter.com/dlpr4ejkZw",
+					"expanded_url": "https://twitter.com/stiles/status/1095007285405831168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 449,
+							"h": 304,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 449,
+							"h": 304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 449,
+							"h": 304,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095006955377111000,
+					"id_str": "1095006955377111041",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/DzI_BjnVsAEODe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzI_BjnVsAEODe4.jpg",
+					"url": "https://t.co/dlpr4ejkZw",
+					"display_url": "pic.twitter.com/dlpr4ejkZw",
+					"expanded_url": "https://twitter.com/stiles/status/1095007285405831168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 449,
+							"h": 304,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 449,
+							"h": 304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 449,
+							"h": 304,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10442,
+			"friends_count": 1404,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905570",
+			"profile_link_color": "389382",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The U.S. government went looking for someone to blame for Russia's interference in the 2016 election—and found Maria Butina, the perfect scapegoat. Excellent tale, as always, by @WashAuthor: https://t.co/PMAA4PUEBO https://t.co/dlpr4ejkZw"
+	},
+	{
+		"created_at": "Mon Feb 11 16:55:26 +0000 2019",
+		"id": 1095003387307876400,
+		"id_str": "1095003387307876353",
+		"full_text": "@LACProbation @mridleythomas \"Youth at two different facilities stated that staff told them that if they did not behave, they would 'join their dead homies.'\" https://t.co/O2SLg5bFME cc @LACountyPRIT https://t.co/ipKTLn5lXE",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACProbation",
+					"name": "Los Angeles County Probation Department",
+					"id": 1683979206,
+					"id_str": "1683979206",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "LACountyPRIT",
+					"name": "LACountyPRIT",
+					"id": 1048374028077944800,
+					"id_str": "1048374028077944833",
+					"indices": [
+						186,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O2SLg5bFME",
+					"expanded_url": "http://bit.ly/2RXneFS",
+					"display_url": "bit.ly/2RXneFS",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095003000559394800,
+					"id_str": "1095003000559394816",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/DzI7bWxUYAAO0N-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzI7bWxUYAAO0N-.jpg",
+					"url": "https://t.co/ipKTLn5lXE",
+					"display_url": "pic.twitter.com/ipKTLn5lXE",
+					"expanded_url": "https://twitter.com/stiles/status/1095003387307876353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 869,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 869,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095003000559394800,
+					"id_str": "1095003000559394816",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/DzI7bWxUYAAO0N-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzI7bWxUYAAO0N-.jpg",
+					"url": "https://t.co/ipKTLn5lXE",
+					"display_url": "pic.twitter.com/ipKTLn5lXE",
+					"expanded_url": "https://twitter.com/stiles/status/1095003387307876353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 869,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 869,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1095002595905556500,
+		"in_reply_to_status_id_str": "1095002595905556480",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10442,
+			"friends_count": 1404,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905570",
+			"profile_link_color": "389382",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LACProbation @mridleythomas \"Youth at two different facilities stated that staff told them that if they did not behave, they would 'join their dead homies.'\" https://t.co/O2SLg5bFME cc @LACountyPRIT https://t.co/ipKTLn5lXE"
+	},
+	{
+		"created_at": "Mon Feb 11 16:52:17 +0000 2019",
+		"id": 1095002595905556500,
+		"id_str": "1095002595905556480",
+		"full_text": "There's \"a lot of volatility\" inside L.A. County's juvenile detention facilities — for the jailed and the jailers alike. My latest story on efforts to reform @LACProbation: https://t.co/WN1HLRfQ06 cc @mridleythomas https://t.co/KFfGS3k6ae",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACProbation",
+					"name": "Los Angeles County Probation Department",
+					"id": 1683979206,
+					"id_str": "1683979206",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						200,
+						214
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WN1HLRfQ06",
+					"expanded_url": "https://lat.ms/2RQZbZr",
+					"display_url": "lat.ms/2RQZbZr",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095001931292917800,
+					"id_str": "1095001931292917760",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/DzI6dHcUwAAn53X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzI6dHcUwAAn53X.jpg",
+					"url": "https://t.co/KFfGS3k6ae",
+					"display_url": "pic.twitter.com/KFfGS3k6ae",
+					"expanded_url": "https://twitter.com/stiles/status/1095002595905556480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095001931292917800,
+					"id_str": "1095001931292917760",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/DzI6dHcUwAAn53X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzI6dHcUwAAn53X.jpg",
+					"url": "https://t.co/KFfGS3k6ae",
+					"display_url": "pic.twitter.com/KFfGS3k6ae",
+					"expanded_url": "https://twitter.com/stiles/status/1095002595905556480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10442,
+			"friends_count": 1404,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905570",
+			"profile_link_color": "389382",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There's \"a lot of volatility\" inside L.A. County's juvenile detention facilities — for the jailed and the jailers alike. My latest story on efforts to reform @LACProbation: https://t.co/WN1HLRfQ06 cc @mridleythomas https://t.co/KFfGS3k6ae"
+	},
+	{
+		"created_at": "Mon Feb 11 00:10:47 +0000 2019",
+		"id": 1094750558127157200,
+		"id_str": "1094750558127157248",
+		"full_text": "Physical limitations that often accompany advanced age make it much more difficult to escape disaster. So do social isolation and stubbornness, traits common among older people. My latest on the Camp fire. https://t.co/wa78p80Bft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wa78p80Bft",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-ln-camp-fire-seniors-mobile-home-deaths-20190209-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 547653410,
+			"id_str": "547653410",
+			"name": "Laura Newberry",
+			"screen_name": "LauraMNewberry",
+			"location": "Los Angeles, CA",
+			"description": "@latimes metro reporter. @ucbsoj alum. Florida native. Usually can't find my sunglasses. Reach me at laura.newberry@latimes.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1705,
+			"friends_count": 916,
+			"listed_count": 74,
+			"created_at": "Sat Apr 07 14:40:02 +0000 2012",
+			"favourites_count": 3506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3068,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063558097887621120/KUNqPPnn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063558097887621120/KUNqPPnn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/547653410/1523753777",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Physical limitations that often accompany advanced age make it much more difficult to escape disaster. So do social isolation and stubbornness, traits common among older people. My latest on the Camp fire. https://t.co/wa78p80Bft"
+	},
+	{
 		"created_at": "Mon Feb 11 00:10:47 +0000 2019",
 		"id": 1094750558127157200,
 		"id_str": "1094750558127157248",
