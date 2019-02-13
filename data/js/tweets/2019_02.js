@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 20:54:23 +0000 2019",
+		"id": 1095788298058883100,
+		"id_str": "1095788298058883072",
+		"full_text": "I did indeed, yes. \n\nhttps://t.co/I8WrMpCCuC https://t.co/AMn9xnFoqA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I8WrMpCCuC",
+					"expanded_url": "http://bit.ly/2X2EnBK",
+					"display_url": "bit.ly/2X2EnBK",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095788279314534400,
+					"id_str": "1095788279314534401",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DzUFomGUUAEikW8.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzUFomGUUAEikW8.png",
+					"url": "https://t.co/AMn9xnFoqA",
+					"display_url": "pic.twitter.com/AMn9xnFoqA",
+					"expanded_url": "https://twitter.com/stiles/status/1095788298058883072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 217,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 453,
+							"h": 217,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 453,
+							"h": 217,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095788279314534400,
+					"id_str": "1095788279314534401",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DzUFomGUUAEikW8.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzUFomGUUAEikW8.png",
+					"url": "https://t.co/AMn9xnFoqA",
+					"display_url": "pic.twitter.com/AMn9xnFoqA",
+					"expanded_url": "https://twitter.com/stiles/status/1095788298058883072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 217,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 453,
+							"h": 217,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 453,
+							"h": 217,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1409,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I did indeed, yes. \n\nhttps://t.co/I8WrMpCCuC https://t.co/AMn9xnFoqA"
+	},
+	{
+		"created_at": "Wed Feb 13 20:40:05 +0000 2019",
+		"id": 1095784698410762200,
+		"id_str": "1095784698410762240",
+		"full_text": "Matt Thompson hired as new editor in chief for Reveal from The Center for Investigative Reporting https://t.co/FDSD4O6CVq via @reveal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reveal",
+					"name": "Reveal",
+					"id": 1726074810,
+					"id_str": "1726074810",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FDSD4O6CVq",
+					"expanded_url": "https://www.revealnews.org/press/matt-thompson-hired-as-new-editor-in-chief-for-reveal-from-the-center-for-investigative-reporting/",
+					"display_url": "revealnews.org/press/matt-tho…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22257074,
+			"id_str": "22257074",
+			"name": "Eric Newton",
+			"screen_name": "EricNewton1",
+			"location": "Phoenix, Miami, San Francisco",
+			"description": "Hoping for a fact-based future",
+			"url": "https://t.co/OSGlPiv8TB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OSGlPiv8TB",
+							"expanded_url": "http://cronkite.asu.edu/",
+							"display_url": "cronkite.asu.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3553,
+			"friends_count": 2755,
+			"listed_count": 267,
+			"created_at": "Sat Feb 28 14:01:02 +0000 2009",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10624,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082429490821849089/975dkXqr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082429490821849089/975dkXqr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22257074/1364054088",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Matt Thompson hired as new editor in chief for Reveal from The Center for Investigative Reporting https://t.co/FDSD4O6CVq via @reveal"
+	},
+	{
+		"created_at": "Wed Feb 13 20:37:38 +0000 2019",
+		"id": 1095784080833040400,
+		"id_str": "1095784080833040386",
+		"full_text": "I may or may not be aggressively getting into the corn chips and salsa that work neighbor @GustavoArellano left on his desk. He should probably come back from that meeting before it's too late. https://t.co/9uoFot8JjD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GustavoArellano",
+					"name": "GustavoArellano",
+					"id": 15518170,
+					"id_str": "15518170",
+					"indices": [
+						90,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095783878009081900,
+					"id_str": "1095783878009081856",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/DzUBoZ9U0AAywM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzUBoZ9U0AAywM5.jpg",
+					"url": "https://t.co/9uoFot8JjD",
+					"display_url": "pic.twitter.com/9uoFot8JjD",
+					"expanded_url": "https://twitter.com/stiles/status/1095784080833040386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1884,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 626,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095783878009081900,
+					"id_str": "1095783878009081856",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/DzUBoZ9U0AAywM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzUBoZ9U0AAywM5.jpg",
+					"url": "https://t.co/9uoFot8JjD",
+					"display_url": "pic.twitter.com/9uoFot8JjD",
+					"expanded_url": "https://twitter.com/stiles/status/1095784080833040386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1884,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 626,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1409,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I may or may not be aggressively getting into the corn chips and salsa that work neighbor @GustavoArellano left on his desk. He should probably come back from that meeting before it's too late. https://t.co/9uoFot8JjD"
+	},
+	{
 		"created_at": "Wed Feb 13 17:31:41 +0000 2019",
 		"id": 1095737286354845700,
 		"id_str": "1095737286354845696",
