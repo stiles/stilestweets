@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 17:31:41 +0000 2019",
+		"id": 1095737286354845700,
+		"id_str": "1095737286354845696",
+		"full_text": "L.A. County supervisors vote to replace Men’s Central Jail with mental health hospital https://t.co/OyHs9tEJK8 @mayalau explains: \"The plan marks a signature shift in philosophy in housing inmates and a recognition of the changing nature of the jail population...\" https://t.co/b442gGAFAD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mayalau",
+					"name": "Maya Lau 🦅",
+					"id": 74304212,
+					"id_str": "74304212",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OyHs9tEJK8",
+					"expanded_url": "https://lat.ms/2S0Qo78",
+					"display_url": "lat.ms/2S0Qo78",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095737082733969400,
+					"id_str": "1095737082733969408",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/DzTXEj-UwAADBGd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzTXEj-UwAADBGd.jpg",
+					"url": "https://t.co/b442gGAFAD",
+					"display_url": "pic.twitter.com/b442gGAFAD",
+					"expanded_url": "https://twitter.com/stiles/status/1095737286354845696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095737082733969400,
+					"id_str": "1095737082733969408",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/DzTXEj-UwAADBGd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzTXEj-UwAADBGd.jpg",
+					"url": "https://t.co/b442gGAFAD",
+					"display_url": "pic.twitter.com/b442gGAFAD",
+					"expanded_url": "https://twitter.com/stiles/status/1095737286354845696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10443,
+			"friends_count": 1408,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "L.A. County supervisors vote to replace Men’s Central Jail with mental health hospital https://t.co/OyHs9tEJK8 @mayalau explains: \"The plan marks a signature shift in philosophy in housing inmates and a recognition of the changing nature of the jail population...\" https://t.co/b442gGAFAD"
+	},
+	{
+		"created_at": "Wed Feb 13 00:51:05 +0000 2019",
+		"id": 1095485476046221300,
+		"id_str": "1095485476046221312",
+		"full_text": "We're tearing down decrepit Men's Central Jail &amp; replacing it with a cutting edge Mental Health Treatment Center run by @LACDMH doctors &amp; nurses. This paradigm shift from jail-first to care-first will lead to a lower recidivism rate &amp; more humane care. https://t.co/kXVCwJx8c7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACDMH",
+					"name": "LA Mental Health",
+					"id": 855487049876385800,
+					"id_str": "855487049876385792",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kXVCwJx8c7",
+					"expanded_url": "https://hahn.lacounty.gov/board-of-supervisors-votes-to-replace-mens-central-jail-with-mental-health-treatment-center/?fbclid=IwAR3ycdcgF2KURY13EkNmXjjCPlfG5TZLt421vd6cxWLrSIqH6GFRmSADr0A",
+					"display_url": "hahn.lacounty.gov/board-of-super…",
+					"indices": [
+						265,
+						288
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 339852137,
+			"id_str": "339852137",
+			"name": "Janice Hahn",
+			"screen_name": "SupJaniceHahn",
+			"location": "San Pedro, CA",
+			"description": "Chair of the Los Angeles County Board of Supervisors. Proudly serving the Fourth District.",
+			"url": "https://t.co/3Pibllvzik",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Pibllvzik",
+							"expanded_url": "http://hahn.lacounty.gov/",
+							"display_url": "hahn.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15128,
+			"friends_count": 1871,
+			"listed_count": 592,
+			"created_at": "Thu Jul 21 19:22:22 +0000 2011",
+			"favourites_count": 1567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5934,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/806257395382919168/xlmF010C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/806257395382919168/xlmF010C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/339852137/1544037136",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're tearing down decrepit Men's Central Jail &amp; replacing it with a cutting edge Mental Health Treatment Center run by @LACDMH doctors &amp; nurses. This paradigm shift from jail-first to care-first will lead to a lower recidivism rate &amp; more humane care. https://t.co/kXVCwJx8c7"
+	},
+	{
+		"created_at": "Wed Feb 13 02:07:02 +0000 2019",
+		"id": 1095504590663893000,
+		"id_str": "1095504590663892992",
+		"full_text": "Your scrappy @LATimesGraphics and @LATdatadesk friends took home 10 bronzes this year! 🥉🥉🥉🥉🥉🥉🥉🥉🥉🥉\nhttps://t.co/Ius3JME715",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATimesGraphics",
+					"name": "L.A. Times Graphics",
+					"id": 1514440494,
+					"id_str": "1514440494",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "LATdatadesk",
+					"name": "The Data Desk",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ius3JME715",
+					"expanded_url": "https://www.snd.org/2019/02/best-of-digital-bronze-medal-winners/",
+					"display_url": "snd.org/2019/02/best-o…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192995488,
+			"id_str": "192995488",
+			"name": "Priya Krishnakumar 🦅",
+			"screen_name": "priyakkumar",
+			"location": "LA/SJ/CHI",
+			"description": "Graphics, coloring book provider @latimes. Bay Area 4 ever. Send your best soup recipes to priya@latimes.com 🦅🦅🦅",
+			"url": "https://t.co/w8ovcvpwsb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w8ovcvpwsb",
+							"expanded_url": "http://priyakrishnakumar.com",
+							"display_url": "priyakrishnakumar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4491,
+			"friends_count": 664,
+			"listed_count": 87,
+			"created_at": "Mon Sep 20 18:18:50 +0000 2010",
+			"favourites_count": 7199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4057,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/849859108773679104/olzENnzo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/849859108773679104/olzENnzo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192995488/1496358615",
+			"profile_link_color": "009FBF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBBE3D",
+			"profile_text_color": "EED68C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 54,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Your scrappy @LATimesGraphics and @LATdatadesk friends took home 10 bronzes this year! 🥉🥉🥉🥉🥉🥉🥉🥉🥉🥉\nhttps://t.co/Ius3JME715"
+	},
+	{
 		"created_at": "Wed Feb 13 00:51:05 +0000 2019",
 		"id": 1095485476046221300,
 		"id_str": "1095485476046221312",
