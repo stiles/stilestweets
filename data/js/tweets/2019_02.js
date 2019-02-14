@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 14:01:33 +0000 2019",
+		"id": 1096046790833553400,
+		"id_str": "1096046790833553409",
+		"full_text": "Lessons on love from the not-critically-acclaimed Chuck Klosterman book https://t.co/PoKtmrooiD https://t.co/Ie16xUgOl8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PoKtmrooiD",
+					"expanded_url": "http://www.heyelise.com/2019/02/14/they-all-count/",
+					"display_url": "heyelise.com/2019/02/14/the…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096046788711051300,
+					"id_str": "1096046788711051265",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DzXwv0pUcAEVMHr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzXwv0pUcAEVMHr.jpg",
+					"url": "https://t.co/Ie16xUgOl8",
+					"display_url": "pic.twitter.com/Ie16xUgOl8",
+					"expanded_url": "https://twitter.com/elisewho/status/1096046790833553409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 410,
+							"h": 547,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 410,
+							"h": 547,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 410,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096046788711051300,
+					"id_str": "1096046788711051265",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DzXwv0pUcAEVMHr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzXwv0pUcAEVMHr.jpg",
+					"url": "https://t.co/Ie16xUgOl8",
+					"display_url": "pic.twitter.com/Ie16xUgOl8",
+					"expanded_url": "https://twitter.com/elisewho/status/1096046790833553409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 410,
+							"h": 547,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 410,
+							"h": 547,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 410,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16001350,
+			"id_str": "16001350",
+			"name": "Elise Hu",
+			"screen_name": "elisewho",
+			"location": "California, USA",
+			"description": "LA-based @NPRNews. Ex-expat buro chief in Koreas and Japan. @TexasTribune & #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. IG @elisewho | ehu@npr.org",
+			"url": "https://t.co/5UvjA81oSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5UvjA81oSH",
+							"expanded_url": "http://elisehu.com",
+							"display_url": "elisehu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39718,
+			"friends_count": 1877,
+			"listed_count": 1728,
+			"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+			"favourites_count": 2893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29709,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDEDEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1498480092",
+			"profile_link_color": "4E647A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lessons on love from the not-critically-acclaimed Chuck Klosterman book https://t.co/PoKtmrooiD https://t.co/Ie16xUgOl8"
+	},
+	{
+		"created_at": "Thu Feb 14 17:51:39 +0000 2019",
+		"id": 1096104698128429000,
+		"id_str": "1096104698128429056",
+		"full_text": "When @ryanvmenezes and @stiles told me V-Day was the most popular day of the year to get married, I was... weirded out. But I've decided I think it's genius -- one less date to remember 😬\nhttps://t.co/HRjm7cfNy6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						5,
+						18
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HRjm7cfNy6",
+					"expanded_url": "https://www.latimes.com/projects/la-me-valentines-day-weddings-20180214/",
+					"display_url": "latimes.com/projects/la-me…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192995488,
+			"id_str": "192995488",
+			"name": "Priya Krishnakumar 🦅",
+			"screen_name": "priyakkumar",
+			"location": "LA/SJ/CHI",
+			"description": "Graphics, coloring book provider @latimes. Bay Area 4 ever. Send your best soup recipes to priya@latimes.com 🦅🦅🦅",
+			"url": "https://t.co/w8ovcvpwsb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w8ovcvpwsb",
+							"expanded_url": "http://priyakrishnakumar.com",
+							"display_url": "priyakrishnakumar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4491,
+			"friends_count": 663,
+			"listed_count": 87,
+			"created_at": "Mon Sep 20 18:18:50 +0000 2010",
+			"favourites_count": 7209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3872,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/849859108773679104/olzENnzo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/849859108773679104/olzENnzo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192995488/1496358615",
+			"profile_link_color": "009FBF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBBE3D",
+			"profile_text_color": "EED68C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When @ryanvmenezes and @stiles told me V-Day was the most popular day of the year to get married, I was... weirded out. But I've decided I think it's genius -- one less date to remember 😬\nhttps://t.co/HRjm7cfNy6"
+	},
+	{
+		"created_at": "Thu Feb 14 17:35:36 +0000 2019",
+		"id": 1096100661706530800,
+		"id_str": "1096100661706530817",
+		"full_text": "The entrance into the race by State Sen. Holly Mitchell increases the chances that L.A. County could have an all-female Board of Supes in 2020, writes @stiles https://t.co/ToWVXgC5D1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						151,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ToWVXgC5D1",
+					"expanded_url": "https://www.latimes.com/local/countygovernment/la-me-holly-mitchell-supervisors-20190213-story.html",
+					"display_url": "latimes.com/local/countygo…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 714617040,
+			"id_str": "714617040",
+			"name": "David Zahniser 🦅",
+			"screen_name": "DavidZahniser",
+			"location": "Los Angeles, CA",
+			"description": "L.A. Times reporter covering City Hall, local government and other L.A.-related things. Ex-L.A. Weekly, Ex-Daily Breeze, ex cetera",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5317,
+			"friends_count": 875,
+			"listed_count": 206,
+			"created_at": "Tue Jul 24 17:11:43 +0000 2012",
+			"favourites_count": 948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7623,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903054701297631234/U8OYnEiu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903054701297631234/U8OYnEiu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714617040/1504939172",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The entrance into the race by State Sen. Holly Mitchell increases the chances that L.A. County could have an all-female Board of Supes in 2020, writes @stiles https://t.co/ToWVXgC5D1"
+	},
+	{
+		"created_at": "Thu Feb 14 11:40:45 +0000 2019",
+		"id": 1096011360322826200,
+		"id_str": "1096011360322826241",
+		"full_text": "Check the new @LATdatadesk love connection from @stiles and @ryanvmenezes.\n https://t.co/MQrJmh20U1\n\nThe data landed after lunch. It was a whirlwind bromance.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATdatadesk",
+					"name": "The Data Desk",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						60,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MQrJmh20U1",
+					"expanded_url": "https://www.latimes.com/projects/la-me-valentines-day-weddings-20180214/",
+					"display_url": "latimes.com/projects/la-me…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+			"url": "https://t.co/kogJ0fJceo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kogJ0fJceo",
+							"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lZvqTdDOmO",
+							"expanded_url": "http://www.californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8550,
+			"friends_count": 3038,
+			"listed_count": 692,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 53665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check the new @LATdatadesk love connection from @stiles and @ryanvmenezes.\n https://t.co/MQrJmh20U1\n\nThe data landed after lunch. It was a whirlwind bromance."
+	},
+	{
 		"created_at": "Thu Feb 14 16:30:00 +0000 2019",
 		"id": 1096084150120001500,
 		"id_str": "1096084150120001537",
