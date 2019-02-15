@@ -208,6 +208,1698 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 184579,
+			"friends_count": 2562,
+			"listed_count": 2989,
+			"created_at": "Sat May 09 21:54:29 +0000 2009",
+			"favourites_count": 29923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28272,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079930059761336320/T-81wspz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079930059761336320/T-81wspz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38936142/1548173127",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3492,
+		"favorite_count": 9898,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There's quite a long ways between \"Mexico will pay for the wall\" to \"I will declare a national emergency to fund the wall because the United States Congress won't give me the money I want."
+	},
+	{
+		"created_at": "Thu Feb 14 23:20:56 +0000 2019",
+		"id": 1096187563868590100,
+		"id_str": "1096187563868590083",
+		"full_text": "Tidbits tucked within the distribution of wedding days in L.A. County: Valentine's Day the most popular by far, followed by NYE. Xmas the least. People love repeating digits, especially the auspicious 8/8, and stay clear of 9/11. Notice anything else? https://t.co/hIPCTd7lko",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hIPCTd7lko",
+					"expanded_url": "https://www.latimes.com/projects/la-me-valentines-day-weddings-20180214/",
+					"display_url": "latimes.com/projects/la-me…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24972827,
+			"id_str": "24972827",
+			"name": "Ryan Menezes",
+			"screen_name": "ryanvmenezes",
+			"location": "Los Feliz, Los Angeles, CA",
+			"description": "Analyzing data and writing stories for @latimes @LATdatadesk. Amateur statistician. Armchair point-forward. From BOM to LAX with a bunch of stops in between.",
+			"url": "https://t.co/RN3b6n8GNA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RN3b6n8GNA",
+							"expanded_url": "http://www.latimes.com/la-bio-ryan-menezes-staff.html",
+							"display_url": "latimes.com/la-bio-ryan-me…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1224,
+			"friends_count": 635,
+			"listed_count": 75,
+			"created_at": "Tue Mar 17 22:46:17 +0000 2009",
+			"favourites_count": 1090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3083,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064306583834742785/hre8rwPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064306583834742785/hre8rwPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24972827/1524548952",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tidbits tucked within the distribution of wedding days in L.A. County: Valentine's Day the most popular by far, followed by NYE. Xmas the least. People love repeating digits, especially the auspicious 8/8, and stay clear of 9/11. Notice anything else? https://t.co/hIPCTd7lko"
+	},
+	{
+		"created_at": "Thu Feb 14 21:42:52 +0000 2019",
+		"id": 1096162886886387700,
+		"id_str": "1096162886886387712",
+		"full_text": "Valentine's Day is L.A.'s hottest wedding day. What about the rest of the year? https://t.co/nK8ho4MnV1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nK8ho4MnV1",
+					"expanded_url": "http://fw.to/Agysc2Y",
+					"display_url": "fw.to/Agysc2Y",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193771633,
+			"id_str": "193771633",
+			"name": "Los Angeles County",
+			"screen_name": "CountyofLA",
+			"location": "Los Angeles County",
+			"description": "Official account of Los Angeles County",
+			"url": "http://t.co/7Z6JLrLfYn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7Z6JLrLfYn",
+							"expanded_url": "http://lacounty.gov",
+							"display_url": "lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33133,
+			"friends_count": 4752,
+			"listed_count": 622,
+			"created_at": "Wed Sep 22 17:08:50 +0000 2010",
+			"favourites_count": 3946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193771633/1546975416",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Valentine's Day is L.A.'s hottest wedding day. What about the rest of the year? https://t.co/nK8ho4MnV1"
+	},
+	{
+		"created_at": "Thu Feb 14 20:40:03 +0000 2019",
+		"id": 1096147076201668600,
+		"id_str": "1096147076201668608",
+		"full_text": "This is Southern California, not Jurassic Park. It’s never a good idea to test your SUV’s marketing.. even a small amount of moving water is enough to sweep you and your car away. https://t.co/EJeq29Kv92",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EJeq29Kv92",
+					"expanded_url": "https://twitter.com/countyofla/status/1096084309750951937",
+					"display_url": "twitter.com/countyofla/sta…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115705583,
+			"id_str": "115705583",
+			"name": "LAPD HQ",
+			"screen_name": "LAPDHQ",
+			"location": "Los Angeles, CA",
+			"description": "Official account of the LAPD. Not monitored 24/7. Call 911 for emergencies. Facebook-Instagram-SnapChat-TikTok: LAPDHQ. — Chief of Police: @LAPDChiefMoore",
+			"url": "https://t.co/rRqJpJ9HAP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rRqJpJ9HAP",
+							"expanded_url": "http://www.lapdonline.org/",
+							"display_url": "lapdonline.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120651,
+			"friends_count": 317,
+			"listed_count": 1507,
+			"created_at": "Fri Feb 19 16:34:43 +0000 2010",
+			"favourites_count": 9511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15194,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03053D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017942513737273344/YEsPRCof_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017942513737273344/YEsPRCof_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115705583/1542655298",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096084309750952000,
+		"quoted_status_id_str": "1096084309750951937",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EJeq29Kv92",
+			"expanded": "https://twitter.com/countyofla/status/1096084309750951937",
+			"display": "twitter.com/countyofla/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 14 16:30:38 +0000 2019",
+			"id": 1096084309750952000,
+			"id_str": "1096084309750951937",
+			"full_text": "Do NOT attempt to drive through running water. You could get trapped or your vehicle could be swept away. Don't be this driver. Turn around, don't drown! #LARain https://t.co/b8SN9L1qrU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LARain",
+						"indices": [
+							154,
+							161
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1096082375019192300,
+						"id_str": "1096082375019192320",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzYRHN-V4AA_4Lf.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzYRHN-V4AA_4Lf.jpg",
+						"url": "https://t.co/b8SN9L1qrU",
+						"display_url": "pic.twitter.com/b8SN9L1qrU",
+						"expanded_url": "https://twitter.com/CountyofLA/status/1096084309750951937/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1096082375019192300,
+						"id_str": "1096082375019192320",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzYRHN-V4AA_4Lf.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzYRHN-V4AA_4Lf.jpg",
+						"url": "https://t.co/b8SN9L1qrU",
+						"display_url": "pic.twitter.com/b8SN9L1qrU",
+						"expanded_url": "https://twitter.com/CountyofLA/status/1096084309750951937/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								300,
+								169
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DzYRHN-V4AA_4Lf.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 193771633,
+				"id_str": "193771633",
+				"name": "Los Angeles County",
+				"screen_name": "CountyofLA",
+				"location": "Los Angeles County",
+				"description": "Official account of Los Angeles County",
+				"url": "http://t.co/7Z6JLrLfYn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7Z6JLrLfYn",
+								"expanded_url": "http://lacounty.gov",
+								"display_url": "lacounty.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33133,
+				"friends_count": 4752,
+				"listed_count": 622,
+				"created_at": "Wed Sep 22 17:08:50 +0000 2010",
+				"favourites_count": 3946,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11348,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193771633/1546975416",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 190,
+			"favorite_count": 308,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 143,
+		"favorite_count": 316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is Southern California, not Jurassic Park. It’s never a good idea to test your SUV’s marketing.. even a small amount of moving water is enough to sweep you and your car away. https://t.co/EJeq29Kv92"
+	},
+	{
+		"created_at": "Thu Feb 14 22:07:00 +0000 2019",
+		"id": 1096168959076749300,
+		"id_str": "1096168959076749312",
+		"full_text": "The Valentine's Day wedding topic continues... \n\nMy latest hard-hitting piece on the @latimes LA County beat: \"It’s Valentine’s Day. Let’s get married in a government office!\" \n\nhttps://t.co/x4sjDseftg https://t.co/ov2jkfAeeJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						85,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x4sjDseftg",
+					"expanded_url": "https://lat.ms/2X6FqAC",
+					"display_url": "lat.ms/2X6FqAC",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096168845662859300,
+					"id_str": "1096168845662859264",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/DzZfweOVsAAr9DC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzZfweOVsAAr9DC.jpg",
+					"url": "https://t.co/ov2jkfAeeJ",
+					"display_url": "pic.twitter.com/ov2jkfAeeJ",
+					"expanded_url": "https://twitter.com/stiles/status/1096168959076749312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 569,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 569,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096168845662859300,
+					"id_str": "1096168845662859264",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/DzZfweOVsAAr9DC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzZfweOVsAAr9DC.jpg",
+					"url": "https://t.co/ov2jkfAeeJ",
+					"display_url": "pic.twitter.com/ov2jkfAeeJ",
+					"expanded_url": "https://twitter.com/stiles/status/1096168959076749312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 569,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 569,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10454,
+			"friends_count": 1410,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12960,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Valentine's Day wedding topic continues... \n\nMy latest hard-hitting piece on the @latimes LA County beat: \"It’s Valentine’s Day. Let’s get married in a government office!\" \n\nhttps://t.co/x4sjDseftg https://t.co/ov2jkfAeeJ"
+	},
+	{
+		"created_at": "Thu Feb 14 21:48:18 +0000 2019",
+		"id": 1096164253931917300,
+		"id_str": "1096164253931917314",
+		"full_text": "@elisewho @stiles You seem to frequently treat your husband crap on social media...",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elisewho",
+					"name": "Elise Hu",
+					"id": 16001350,
+					"id_str": "16001350",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1096158380094181400,
+		"in_reply_to_status_id_str": "1096158380094181376",
+		"in_reply_to_user_id": 16001350,
+		"in_reply_to_user_id_str": "16001350",
+		"in_reply_to_screen_name": "elisewho",
+		"user": {
+			"id": 875190977631268900,
+			"id_str": "875190977631268869",
+			"name": "Cacocracy",
+			"screen_name": "Cacocracy",
+			"location": "Washington, DC",
+			"description": "Cacocracy - Rule by the shittiest among us. This account intends to highlight the opposite.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 15 03:19:24 +0000 2017",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030584299798650880/lhVcNIEX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030584299798650880/lhVcNIEX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@elisewho @stiles You seem to frequently treat your husband crap on social media..."
+	},
+	{
+		"created_at": "Thu Feb 14 21:24:58 +0000 2019",
+		"id": 1096158380094181400,
+		"id_str": "1096158380094181376",
+		"full_text": "@stiles Since I'm awesome I will point out that this is our 13th or 14th* valentine's day together and the first time you've wished me a happy v day on twitter so I'm glad to be a conduit for promoting your latest data viz\n\n*not sure, we broke up a lot\n\n(I'll show myself out now)",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1096144951031676900,
+		"in_reply_to_status_id_str": "1096144951031676928",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 16001350,
+			"id_str": "16001350",
+			"name": "Elise Hu",
+			"screen_name": "elisewho",
+			"location": "California, USA",
+			"description": "LA-based @NPRNews. Ex-expat buro chief in Koreas and Japan. @TexasTribune & #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. IG @elisewho | ehu@npr.org",
+			"url": "https://t.co/5UvjA81oSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5UvjA81oSH",
+							"expanded_url": "http://elisehu.com",
+							"display_url": "elisehu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39726,
+			"friends_count": 1877,
+			"listed_count": 1729,
+			"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+			"favourites_count": 2893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29717,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDEDEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1498480092",
+			"profile_link_color": "4E647A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@stiles Since I'm awesome I will point out that this is our 13th or 14th* valentine's day together and the first time you've wished me a happy v day on twitter so I'm glad to be a conduit for promoting your latest data viz\n\n*not sure, we broke up a lot\n\n(I'll show myself out now)"
+	},
+	{
+		"created_at": "Thu Feb 14 21:05:19 +0000 2019",
+		"id": 1096153438533017600,
+		"id_str": "1096153438533017600",
+		"full_text": "@scottdetrow @elisewho @samsanders No",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scottdetrow",
+					"name": "Scott Detrow",
+					"id": 15201979,
+					"id_str": "15201979",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "elisewho",
+					"name": "Elise Hu",
+					"id": 16001350,
+					"id_str": "16001350",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "samsanders",
+					"name": "Sam Sanders",
+					"id": 16442379,
+					"id_str": "16442379",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096152565073489900,
+		"in_reply_to_status_id_str": "1096152565073489921",
+		"in_reply_to_user_id": 15201979,
+		"in_reply_to_user_id_str": "15201979",
+		"in_reply_to_screen_name": "scottdetrow",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10454,
+			"friends_count": 1410,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12960,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "fcd177d5a0545c9c",
+			"url": "https://api.twitter.com/1.1/geo/id/fcd177d5a0545c9c.json",
+			"place_type": "city",
+			"name": "Lynwood",
+			"full_name": "Lynwood, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.230888,
+							33.905084
+						],
+						[
+							-118.175869,
+							33.905084
+						],
+						[
+							-118.175869,
+							33.9454397
+						],
+						[
+							-118.230888,
+							33.9454397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@scottdetrow @elisewho @samsanders No"
+	},
+	{
+		"created_at": "Thu Feb 14 20:31:36 +0000 2019",
+		"id": 1096144951031676900,
+		"id_str": "1096144951031676928",
+		"full_text": "Happy Valentine's Day to my awesome wife, @elisewho.\n\nTurns out the calendar day we chose for our wedding — not Valentine's Day — isn't that popular, at least when compared with those chosen in the last decade by Angelenos.\n\nhttps://t.co/wvS4siNzYo https://t.co/zF2ZnZVJ0r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elisewho",
+					"name": "Elise Hu",
+					"id": 16001350,
+					"id_str": "16001350",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wvS4siNzYo",
+					"expanded_url": "https://lat.ms/2TOgFaH",
+					"display_url": "lat.ms/2TOgFaH",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096143611794604000,
+					"id_str": "1096143611794604032",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/DzZIzqvUwAAsgqu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzZIzqvUwAAsgqu.jpg",
+					"url": "https://t.co/zF2ZnZVJ0r",
+					"display_url": "pic.twitter.com/zF2ZnZVJ0r",
+					"expanded_url": "https://twitter.com/stiles/status/1096144951031676928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2018,
+							"h": 1244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096143611794604000,
+					"id_str": "1096143611794604032",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/DzZIzqvUwAAsgqu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzZIzqvUwAAsgqu.jpg",
+					"url": "https://t.co/zF2ZnZVJ0r",
+					"display_url": "pic.twitter.com/zF2ZnZVJ0r",
+					"expanded_url": "https://twitter.com/stiles/status/1096144951031676928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2018,
+							"h": 1244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10454,
+			"friends_count": 1410,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12960,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Valentine's Day to my awesome wife, @elisewho.\n\nTurns out the calendar day we chose for our wedding — not Valentine's Day — isn't that popular, at least when compared with those chosen in the last decade by Angelenos.\n\nhttps://t.co/wvS4siNzYo https://t.co/zF2ZnZVJ0r"
+	},
+	{
+		"created_at": "Thu Feb 14 20:16:45 +0000 2019",
+		"id": 1096141212472332300,
+		"id_str": "1096141212472332288",
+		"full_text": "Fun assignment today: Writing about couples tying the knot on Valentine’s Day at the office of @LACountyRRCC. @ Norwalk, California https://t.co/FkwbRU7h2H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						95,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FkwbRU7h2H",
+					"expanded_url": "https://www.instagram.com/p/Bt4BLCvgEkc/?utm_source=ig_twitter_share&igshid=wmlx3tcxw64p",
+					"display_url": "instagram.com/p/Bt4BLCvgEkc/…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10454,
+			"friends_count": 1410,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12960,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				33.9069,
+				-118.083
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-118.083,
+				33.9069
+			]
+		},
+		"place": {
+			"id": "0706a21788cadb8d",
+			"url": "https://api.twitter.com/1.1/geo/id/0706a21788cadb8d.json",
+			"place_type": "city",
+			"name": "Norwalk",
+			"full_name": "Norwalk, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.111506,
+							33.8803098
+						],
+						[
+							-118.041985,
+							33.8803098
+						],
+						[
+							-118.041985,
+							33.934191
+						],
+						[
+							-118.111506,
+							33.934191
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fun assignment today: Writing about couples tying the knot on Valentine’s Day at the office of @LACountyRRCC. @ Norwalk, California https://t.co/FkwbRU7h2H"
+	},
+	{
+		"created_at": "Thu Feb 14 18:47:23 +0000 2019",
+		"id": 1096118724476563500,
+		"id_str": "1096118724476563456",
+		"full_text": "Roses are red \nViolets are blue \nGive us a fair intellectual property policy \nIt’s the right thing to do \n\n@latguild https://t.co/9Aovr81ZWd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latguild",
+					"name": "L.A. Times Guild 🦅",
+					"id": 859504635773464600,
+					"id_str": "859504635773464576",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096118721154670600,
+					"id_str": "1096118721154670592",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYyK14UYAA_Azv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYyK14UYAA_Azv.jpg",
+					"url": "https://t.co/9Aovr81ZWd",
+					"display_url": "pic.twitter.com/9Aovr81ZWd",
+					"expanded_url": "https://twitter.com/sarahparvini/status/1096118724476563456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096118721154670600,
+					"id_str": "1096118721154670592",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYyK14UYAA_Azv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYyK14UYAA_Azv.jpg",
+					"url": "https://t.co/9Aovr81ZWd",
+					"display_url": "pic.twitter.com/9Aovr81ZWd",
+					"expanded_url": "https://twitter.com/sarahparvini/status/1096118724476563456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 356606989,
+			"id_str": "356606989",
+			"name": "Sarah Parvini 🦅 (سارا)",
+			"screen_name": "sarahparvini",
+			"location": "Los Angeles, CA",
+			"description": "Reporter for @latimes' metro desk covering California's demographics, diverse communities and breaking news. Iranian American. sarah.parvini@latimes.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5597,
+			"friends_count": 1712,
+			"listed_count": 249,
+			"created_at": "Wed Aug 17 03:08:56 +0000 2011",
+			"favourites_count": 13971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087142284435501056/CHL7f7Oh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087142284435501056/CHL7f7Oh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/356606989/1533138497",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Roses are red \nViolets are blue \nGive us a fair intellectual property policy \nIt’s the right thing to do \n\n@latguild https://t.co/9Aovr81ZWd"
+	},
+	{
+		"created_at": "Thu Feb 14 20:57:59 +0000 2019",
+		"id": 1096151590698926100,
+		"id_str": "1096151590698926081",
+		"full_text": "There's quite a long ways between \"Mexico will pay for the wall\" to \"I will declare a national emergency to fund the wall because the United States Congress won't give me the money I want.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38936142,
+			"id_str": "38936142",
+			"name": "Josh Dawsey",
+			"screen_name": "jdawsey1",
+			"location": "DC",
+			"description": "White House Reporter @WashingtonPost. @CNN analyst. WSJ & POLITICO alum. Carolinian & New Yorker at heart. Cigar, Bruce & bourbon aficionado. Loud phone talker.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 184574,
 			"friends_count": 2562,
 			"listed_count": 2989,
