@@ -99,6 +99,112 @@ Grailbird.data.tweets_2019_02 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tidbits tucked within the distribution of wedding days in L.A. County: Valentine's Day the most popular by far, followed by NYE. Xmas the least. People love repeating digits, especially the auspicious 8/8, and stay clear of 9/11. Notice anything else? https://t.co/hIPCTd7lko"
+	},
+	{
+		"created_at": "Thu Feb 14 23:20:56 +0000 2019",
+		"id": 1096187563868590100,
+		"id_str": "1096187563868590083",
+		"full_text": "Tidbits tucked within the distribution of wedding days in L.A. County: Valentine's Day the most popular by far, followed by NYE. Xmas the least. People love repeating digits, especially the auspicious 8/8, and stay clear of 9/11. Notice anything else? https://t.co/hIPCTd7lko",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hIPCTd7lko",
+					"expanded_url": "https://www.latimes.com/projects/la-me-valentines-day-weddings-20180214/",
+					"display_url": "latimes.com/projects/la-me…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24972827,
+			"id_str": "24972827",
+			"name": "Ryan Menezes",
+			"screen_name": "ryanvmenezes",
+			"location": "Los Feliz, Los Angeles, CA",
+			"description": "Analyzing data and writing stories for @latimes @LATdatadesk. Amateur statistician. Armchair point-forward. From BOM to LAX with a bunch of stops in between.",
+			"url": "https://t.co/RN3b6n8GNA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RN3b6n8GNA",
+							"expanded_url": "http://www.latimes.com/la-bio-ryan-menezes-staff.html",
+							"display_url": "latimes.com/la-bio-ryan-me…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1225,
+			"friends_count": 635,
+			"listed_count": 75,
+			"created_at": "Tue Mar 17 22:46:17 +0000 2009",
+			"favourites_count": 1090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064306583834742785/hre8rwPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064306583834742785/hre8rwPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24972827/1524548952",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
 		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": true,
