@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 18:47:23 +0000 2019",
+		"id": 1096118724476563500,
+		"id_str": "1096118724476563456",
+		"full_text": "Roses are red \nViolets are blue \nGive us a fair intellectual property policy \nIt’s the right thing to do \n\n@latguild https://t.co/9Aovr81ZWd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latguild",
+					"name": "L.A. Times Guild 🦅",
+					"id": 859504635773464600,
+					"id_str": "859504635773464576",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096118721154670600,
+					"id_str": "1096118721154670592",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYyK14UYAA_Azv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYyK14UYAA_Azv.jpg",
+					"url": "https://t.co/9Aovr81ZWd",
+					"display_url": "pic.twitter.com/9Aovr81ZWd",
+					"expanded_url": "https://twitter.com/sarahparvini/status/1096118724476563456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096118721154670600,
+					"id_str": "1096118721154670592",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYyK14UYAA_Azv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYyK14UYAA_Azv.jpg",
+					"url": "https://t.co/9Aovr81ZWd",
+					"display_url": "pic.twitter.com/9Aovr81ZWd",
+					"expanded_url": "https://twitter.com/sarahparvini/status/1096118724476563456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 356606989,
+			"id_str": "356606989",
+			"name": "Sarah Parvini 🦅 (سارا)",
+			"screen_name": "sarahparvini",
+			"location": "Los Angeles, CA",
+			"description": "Reporter for @latimes' metro desk covering California's demographics, diverse communities and breaking news. Iranian American. sarah.parvini@latimes.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5597,
+			"friends_count": 1712,
+			"listed_count": 249,
+			"created_at": "Wed Aug 17 03:08:56 +0000 2011",
+			"favourites_count": 13971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087142284435501056/CHL7f7Oh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087142284435501056/CHL7f7Oh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/356606989/1533138497",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Roses are red \nViolets are blue \nGive us a fair intellectual property policy \nIt’s the right thing to do \n\n@latguild https://t.co/9Aovr81ZWd"
+	},
+	{
+		"created_at": "Thu Feb 14 20:57:59 +0000 2019",
+		"id": 1096151590698926100,
+		"id_str": "1096151590698926081",
+		"full_text": "There's quite a long ways between \"Mexico will pay for the wall\" to \"I will declare a national emergency to fund the wall because the United States Congress won't give me the money I want.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38936142,
+			"id_str": "38936142",
+			"name": "Josh Dawsey",
+			"screen_name": "jdawsey1",
+			"location": "DC",
+			"description": "White House Reporter @WashingtonPost. @CNN analyst. WSJ & POLITICO alum. Carolinian & New Yorker at heart. Cigar, Bruce & bourbon aficionado. Loud phone talker.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184574,
+			"friends_count": 2562,
+			"listed_count": 2988,
+			"created_at": "Sat May 09 21:54:29 +0000 2009",
+			"favourites_count": 29922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079930059761336320/T-81wspz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079930059761336320/T-81wspz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38936142/1548173127",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3335,
+		"favorite_count": 9363,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There's quite a long ways between \"Mexico will pay for the wall\" to \"I will declare a national emergency to fund the wall because the United States Congress won't give me the money I want."
+	},
+	{
+		"created_at": "Thu Feb 14 23:20:56 +0000 2019",
+		"id": 1096187563868590100,
+		"id_str": "1096187563868590083",
+		"full_text": "Tidbits tucked within the distribution of wedding days in L.A. County: Valentine's Day the most popular by far, followed by NYE. Xmas the least. People love repeating digits, especially the auspicious 8/8, and stay clear of 9/11. Notice anything else? https://t.co/hIPCTd7lko",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hIPCTd7lko",
+					"expanded_url": "https://www.latimes.com/projects/la-me-valentines-day-weddings-20180214/",
+					"display_url": "latimes.com/projects/la-me…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24972827,
+			"id_str": "24972827",
+			"name": "Ryan Menezes",
+			"screen_name": "ryanvmenezes",
+			"location": "Los Feliz, Los Angeles, CA",
+			"description": "Analyzing data and writing stories for @latimes @LATdatadesk. Amateur statistician. Armchair point-forward. From BOM to LAX with a bunch of stops in between.",
+			"url": "https://t.co/RN3b6n8GNA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RN3b6n8GNA",
+							"expanded_url": "http://www.latimes.com/la-bio-ryan-menezes-staff.html",
+							"display_url": "latimes.com/la-bio-ryan-me…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1224,
+			"friends_count": 635,
+			"listed_count": 75,
+			"created_at": "Tue Mar 17 22:46:17 +0000 2009",
+			"favourites_count": 1090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064306583834742785/hre8rwPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064306583834742785/hre8rwPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24972827/1524548952",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tidbits tucked within the distribution of wedding days in L.A. County: Valentine's Day the most popular by far, followed by NYE. Xmas the least. People love repeating digits, especially the auspicious 8/8, and stay clear of 9/11. Notice anything else? https://t.co/hIPCTd7lko"
+	},
+	{
 		"created_at": "Thu Feb 14 23:20:56 +0000 2019",
 		"id": 1096187563868590100,
 		"id_str": "1096187563868590083",
