@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 19:49:54 +0000 2019",
+		"id": 1096496844912246800,
+		"id_str": "1096496844912246784",
+		"full_text": "Going out to look for a \"national emergency.\" Emptied my notebook after reporting from El Paso, my hometown. Found this from the Trump rally. :-) https://t.co/LDo43SgxkJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096496378191073300,
+					"id_str": "1096496378191073280",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"url": "https://t.co/LDo43SgxkJ",
+					"display_url": "pic.twitter.com/LDo43SgxkJ",
+					"expanded_url": "https://twitter.com/richardparkertx/status/1096496844912246784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096496378191073300,
+					"id_str": "1096496378191073280",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"url": "https://t.co/LDo43SgxkJ",
+					"display_url": "pic.twitter.com/LDo43SgxkJ",
+					"expanded_url": "https://twitter.com/richardparkertx/status/1096496844912246784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128607728,
+			"id_str": "1128607728",
+			"name": "RICHARD PARKER",
+			"screen_name": "richardparkertx",
+			"location": "Southwestern United States",
+			"description": "Author, Journalist, Texan. Contributor to The New York Times Op-Ed, Sunday Review, and The Atlantic. Opinions here are personal; yours are, ah, optional.",
+			"url": "https://t.co/zDL3i0oSrm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zDL3i0oSrm",
+							"expanded_url": "http://www.richardparkertx.com",
+							"display_url": "richardparkertx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1398,
+			"friends_count": 1332,
+			"listed_count": 58,
+			"created_at": "Mon Jan 28 16:53:33 +0000 2013",
+			"favourites_count": 8917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8735,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071666291449126913/VBkGErlI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071666291449126913/VBkGErlI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128607728/1544248102",
+			"profile_link_color": "7F7FEB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Going out to look for a \"national emergency.\" Emptied my notebook after reporting from El Paso, my hometown. Found this from the Trump rally. :-) https://t.co/LDo43SgxkJ"
+	},
+	{
+		"created_at": "Fri Feb 15 17:29:13 +0000 2019",
+		"id": 1096461439609512000,
+		"id_str": "1096461439609511936",
+		"full_text": "Slides for my CSP keynote \"welcome to the tidyverse\" now up at https://t.co/f9DUxfPDoi #rstats",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rstats",
+					"indices": [
+						87,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f9DUxfPDoi",
+					"expanded_url": "https://speakerdeck.com/hadley/welcome-to-the-tidyverse",
+					"display_url": "speakerdeck.com/hadley/welcome…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69133574,
+			"id_str": "69133574",
+			"name": "Hadley Wickham",
+			"screen_name": "hadleywickham",
+			"location": "Houston, TX",
+			"description": "R, data, visualisation.",
+			"url": "https://t.co/DWqWlxbOKK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DWqWlxbOKK",
+							"expanded_url": "http://hadley.nz",
+							"display_url": "hadley.nz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79696,
+			"friends_count": 289,
+			"listed_count": 2505,
+			"created_at": "Wed Aug 26 23:34:46 +0000 2009",
+			"favourites_count": 17652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34863,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905186381995147264/7zKAG5sY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905186381995147264/7zKAG5sY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69133574/1404410942",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 686,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Slides for my CSP keynote \"welcome to the tidyverse\" now up at https://t.co/f9DUxfPDoi #rstats"
+	},
+	{
+		"created_at": "Fri Feb 15 15:53:56 +0000 2019",
+		"id": 1096437461088174100,
+		"id_str": "1096437461088174081",
+		"full_text": "The @LATimesGraphics team is looking for a senior graphics &amp; data reporter to lead &amp; collaborate on visual investigations.\n\nThis person would boost our skills in using video, satellite imagery &amp; data to cover wildfires, drought and coastal erosion.\n\nhttps://t.co/vBgnFb3ST9 https://t.co/HMfuhxkuGb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATimesGraphics",
+					"name": "L.A. Times Graphics",
+					"id": 1514440494,
+					"id_str": "1514440494",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vBgnFb3ST9",
+					"expanded_url": "http://bit.ly/2DS3GxZ",
+					"display_url": "bit.ly/2DS3GxZ",
+					"indices": [
+						262,
+						285
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096437188957487100,
+					"id_str": "1096437188957487105",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/DzdT0G5WwAEt0qg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzdT0G5WwAEt0qg.jpg",
+					"url": "https://t.co/HMfuhxkuGb",
+					"display_url": "pic.twitter.com/HMfuhxkuGb",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1096437461088174081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096437188957487100,
+					"id_str": "1096437188957487105",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/DzdT0G5WwAEt0qg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzdT0G5WwAEt0qg.jpg",
+					"url": "https://t.co/HMfuhxkuGb",
+					"display_url": "pic.twitter.com/HMfuhxkuGb",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1096437461088174081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 963122095747035100,
+			"id_str": "963122095747035136",
+			"name": "Chris Keller",
+			"screen_name": "ChrisLKellerLAT",
+			"location": "Los Angeles, CA",
+			"description": "Director of @LATimesGraphics at The Los Angeles Times. Former @KPCC, @madisondotcom, @nwi & @TheSPEagle. A more official-er account of @ChrisLKeller",
+			"url": "https://t.co/QPwW7wUqUW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QPwW7wUqUW",
+							"expanded_url": "http://www.latimes.com/la-bio-chris-keller-staff.html",
+							"display_url": "latimes.com/la-bio-chris-k…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 65,
+			"listed_count": 7,
+			"created_at": "Mon Feb 12 18:46:16 +0000 2018",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 445,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/963122095747035136/1518462904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @LATimesGraphics team is looking for a senior graphics &amp; data reporter to lead &amp; collaborate on visual investigations.\n\nThis person would boost our skills in using video, satellite imagery &amp; data to cover wildfires, drought and coastal erosion.\n\nhttps://t.co/vBgnFb3ST9 https://t.co/HMfuhxkuGb"
+	},
+	{
+		"created_at": "Fri Feb 15 16:19:30 +0000 2019",
+		"id": 1096443896245219300,
+		"id_str": "1096443896245219330",
+		"full_text": "Trump, responding to my question, concedes there’s no national emergency to justify building his wall: “I didn’t need to do this... I just want to do it faster.”\nThat answer will complicate his legal case.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91386979,
+			"id_str": "91386979",
+			"name": "Peter Alexander",
+			"screen_name": "PeterAlexander",
+			"location": "Washington, DC",
+			"description": "@NBCNews White House Correspondent / Weekend @TODAYshow Co-Anchor / Ava & Emma’s dad / Cats & Cubs fan / RT’s are not endorsements",
+			"url": "https://t.co/8xx8pxDeCQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8xx8pxDeCQ",
+							"expanded_url": "http://www.nbcnews.com",
+							"display_url": "nbcnews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293201,
+			"friends_count": 574,
+			"listed_count": 3114,
+			"created_at": "Fri Nov 20 17:37:33 +0000 2009",
+			"favourites_count": 3087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958465847730712576/5_CH8JFW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958465847730712576/5_CH8JFW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91386979/1540729688",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21947,
+		"favorite_count": 76955,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Trump, responding to my question, concedes there’s no national emergency to justify building his wall: “I didn’t need to do this... I just want to do it faster.”\nThat answer will complicate his legal case."
+	},
+	{
 		"created_at": "Sat Feb 16 04:55:32 +0000 2019",
 		"id": 1096634159336837100,
 		"id_str": "1096634159336837122",
