@@ -127,6 +127,1006 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1399,
+			"friends_count": 1332,
+			"listed_count": 58,
+			"created_at": "Mon Jan 28 16:53:33 +0000 2013",
+			"favourites_count": 8917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8735,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071666291449126913/VBkGErlI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071666291449126913/VBkGErlI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128607728/1544248102",
+			"profile_link_color": "7F7FEB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Going out to look for a \"national emergency.\" Emptied my notebook after reporting from El Paso, my hometown. Found this from the Trump rally. :-) https://t.co/LDo43SgxkJ"
+	},
+	{
+		"created_at": "Fri Feb 15 17:29:13 +0000 2019",
+		"id": 1096461439609512000,
+		"id_str": "1096461439609511936",
+		"full_text": "Slides for my CSP keynote \"welcome to the tidyverse\" now up at https://t.co/f9DUxfPDoi #rstats",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rstats",
+					"indices": [
+						87,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f9DUxfPDoi",
+					"expanded_url": "https://speakerdeck.com/hadley/welcome-to-the-tidyverse",
+					"display_url": "speakerdeck.com/hadley/welcome…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69133574,
+			"id_str": "69133574",
+			"name": "Hadley Wickham",
+			"screen_name": "hadleywickham",
+			"location": "Houston, TX",
+			"description": "R, data, visualisation.",
+			"url": "https://t.co/DWqWlxbOKK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DWqWlxbOKK",
+							"expanded_url": "http://hadley.nz",
+							"display_url": "hadley.nz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79702,
+			"friends_count": 289,
+			"listed_count": 2505,
+			"created_at": "Wed Aug 26 23:34:46 +0000 2009",
+			"favourites_count": 17653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34866,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905186381995147264/7zKAG5sY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905186381995147264/7zKAG5sY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69133574/1404410942",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 710,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Slides for my CSP keynote \"welcome to the tidyverse\" now up at https://t.co/f9DUxfPDoi #rstats"
+	},
+	{
+		"created_at": "Fri Feb 15 15:53:56 +0000 2019",
+		"id": 1096437461088174100,
+		"id_str": "1096437461088174081",
+		"full_text": "The @LATimesGraphics team is looking for a senior graphics &amp; data reporter to lead &amp; collaborate on visual investigations.\n\nThis person would boost our skills in using video, satellite imagery &amp; data to cover wildfires, drought and coastal erosion.\n\nhttps://t.co/vBgnFb3ST9 https://t.co/HMfuhxkuGb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATimesGraphics",
+					"name": "L.A. Times Graphics",
+					"id": 1514440494,
+					"id_str": "1514440494",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vBgnFb3ST9",
+					"expanded_url": "http://bit.ly/2DS3GxZ",
+					"display_url": "bit.ly/2DS3GxZ",
+					"indices": [
+						262,
+						285
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096437188957487100,
+					"id_str": "1096437188957487105",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/DzdT0G5WwAEt0qg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzdT0G5WwAEt0qg.jpg",
+					"url": "https://t.co/HMfuhxkuGb",
+					"display_url": "pic.twitter.com/HMfuhxkuGb",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1096437461088174081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096437188957487100,
+					"id_str": "1096437188957487105",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/DzdT0G5WwAEt0qg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzdT0G5WwAEt0qg.jpg",
+					"url": "https://t.co/HMfuhxkuGb",
+					"display_url": "pic.twitter.com/HMfuhxkuGb",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1096437461088174081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 963122095747035100,
+			"id_str": "963122095747035136",
+			"name": "Chris Keller",
+			"screen_name": "ChrisLKellerLAT",
+			"location": "Los Angeles, CA",
+			"description": "Director of @LATimesGraphics at The Los Angeles Times. Former @KPCC, @madisondotcom, @nwi & @TheSPEagle. A more official-er account of @ChrisLKeller",
+			"url": "https://t.co/QPwW7wUqUW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QPwW7wUqUW",
+							"expanded_url": "http://www.latimes.com/la-bio-chris-keller-staff.html",
+							"display_url": "latimes.com/la-bio-chris-k…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 65,
+			"listed_count": 7,
+			"created_at": "Mon Feb 12 18:46:16 +0000 2018",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 445,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/963122095747035136/1518462904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @LATimesGraphics team is looking for a senior graphics &amp; data reporter to lead &amp; collaborate on visual investigations.\n\nThis person would boost our skills in using video, satellite imagery &amp; data to cover wildfires, drought and coastal erosion.\n\nhttps://t.co/vBgnFb3ST9 https://t.co/HMfuhxkuGb"
+	},
+	{
+		"created_at": "Fri Feb 15 16:19:30 +0000 2019",
+		"id": 1096443896245219300,
+		"id_str": "1096443896245219330",
+		"full_text": "Trump, responding to my question, concedes there’s no national emergency to justify building his wall: “I didn’t need to do this... I just want to do it faster.”\nThat answer will complicate his legal case.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91386979,
+			"id_str": "91386979",
+			"name": "Peter Alexander",
+			"screen_name": "PeterAlexander",
+			"location": "Washington, DC",
+			"description": "@NBCNews White House Correspondent / Weekend @TODAYshow Co-Anchor / Ava & Emma’s dad / Cats & Cubs fan / RT’s are not endorsements",
+			"url": "https://t.co/8xx8pxDeCQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8xx8pxDeCQ",
+							"expanded_url": "http://www.nbcnews.com",
+							"display_url": "nbcnews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293267,
+			"friends_count": 575,
+			"listed_count": 3114,
+			"created_at": "Fri Nov 20 17:37:33 +0000 2009",
+			"favourites_count": 3089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958465847730712576/5_CH8JFW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958465847730712576/5_CH8JFW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91386979/1540729688",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22301,
+		"favorite_count": 78406,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Trump, responding to my question, concedes there’s no national emergency to justify building his wall: “I didn’t need to do this... I just want to do it faster.”\nThat answer will complicate his legal case."
+	},
+	{
+		"created_at": "Sat Feb 16 04:55:32 +0000 2019",
+		"id": 1096634159336837100,
+		"id_str": "1096634159336837122",
+		"full_text": "So this happened...\n\n#ojsimpson @ Santa Monica, California https://t.co/grWms4JgGF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ojsimpson",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/grWms4JgGF",
+					"expanded_url": "https://www.instagram.com/p/Bt7hVknAQB9/?utm_source=ig_twitter_share&igshid=14x1a19a9vgvf",
+					"display_url": "instagram.com/p/Bt7hVknAQB9/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10451,
+			"friends_count": 1411,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12971,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				34.01158,
+				-118.49227
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-118.49227,
+				34.01158
+			]
+		},
+		"place": {
+			"id": "59612bd882018c51",
+			"url": "https://api.twitter.com/1.1/geo/id/59612bd882018c51.json",
+			"place_type": "city",
+			"name": "Santa Monica",
+			"full_name": "Santa Monica, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.5173575,
+							33.9951771
+						],
+						[
+							-118.443482,
+							33.9951771
+						],
+						[
+							-118.443482,
+							34.050199
+						],
+						[
+							-118.5173575,
+							34.050199
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So this happened...\n\n#ojsimpson @ Santa Monica, California https://t.co/grWms4JgGF"
+	},
+	{
+		"created_at": "Fri Feb 15 21:16:32 +0000 2019",
+		"id": 1096518645637763100,
+		"id_str": "1096518645637763074",
+		"full_text": "@sjh_canada @ryanvmenezes @LACountyRRCC There's definitely an end-of-the-year effect with elective births, too: https://t.co/nQqf4lHYXI",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sjh_canada",
+					"name": "sjh_canada",
+					"id": 14134081,
+					"id_str": "14134081",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						26,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nQqf4lHYXI",
+					"expanded_url": "http://bit.ly/2itY3wb",
+					"display_url": "bit.ly/2itY3wb",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1096518335842476000,
+		"in_reply_to_status_id_str": "1096518335842476032",
+		"in_reply_to_user_id": 14134081,
+		"in_reply_to_user_id_str": "14134081",
+		"in_reply_to_screen_name": "sjh_canada",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10451,
+			"friends_count": 1411,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12971,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sjh_canada @ryanvmenezes @LACountyRRCC There's definitely an end-of-the-year effect with elective births, too: https://t.co/nQqf4lHYXI"
+	},
+	{
+		"created_at": "Fri Feb 15 21:13:18 +0000 2019",
+		"id": 1096517832710312000,
+		"id_str": "1096517832710311936",
+		"full_text": "@stanfordchiou @aliceysu That, and the sample size of people I encountered in trips there has been small. Fortunately I have @ronlin in the office to set me straight.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stanfordchiou",
+					"name": "Stanford Chiou",
+					"id": 965327120137424900,
+					"id_str": "965327120137424901",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "aliceysu",
+					"name": "Alice Su 苏奕安",
+					"id": 24709718,
+					"id_str": "24709718",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "ronlin",
+					"name": "Ron Lin",
+					"id": 14480618,
+					"id_str": "14480618",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1096502185276465200,
+		"in_reply_to_status_id_str": "1096502185276465152",
+		"in_reply_to_user_id": 965327120137424900,
+		"in_reply_to_user_id_str": "965327120137424901",
+		"in_reply_to_screen_name": "stanfordchiou",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10451,
+			"friends_count": 1411,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12971,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stanfordchiou @aliceysu That, and the sample size of people I encountered in trips there has been small. Fortunately I have @ronlin in the office to set me straight."
+	},
+	{
+		"created_at": "Fri Feb 15 19:49:54 +0000 2019",
+		"id": 1096496844912246800,
+		"id_str": "1096496844912246784",
+		"full_text": "Going out to look for a \"national emergency.\" Emptied my notebook after reporting from El Paso, my hometown. Found this from the Trump rally. :-) https://t.co/LDo43SgxkJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096496378191073300,
+					"id_str": "1096496378191073280",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"url": "https://t.co/LDo43SgxkJ",
+					"display_url": "pic.twitter.com/LDo43SgxkJ",
+					"expanded_url": "https://twitter.com/richardparkertx/status/1096496844912246784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096496378191073300,
+					"id_str": "1096496378191073280",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"url": "https://t.co/LDo43SgxkJ",
+					"display_url": "pic.twitter.com/LDo43SgxkJ",
+					"expanded_url": "https://twitter.com/richardparkertx/status/1096496844912246784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128607728,
+			"id_str": "1128607728",
+			"name": "RICHARD PARKER",
+			"screen_name": "richardparkertx",
+			"location": "Southwestern United States",
+			"description": "Author, Journalist, Texan. Contributor to The New York Times Op-Ed, Sunday Review, and The Atlantic. Opinions here are personal; yours are, ah, optional.",
+			"url": "https://t.co/zDL3i0oSrm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zDL3i0oSrm",
+							"expanded_url": "http://www.richardparkertx.com",
+							"display_url": "richardparkertx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 1398,
 			"friends_count": 1332,
 			"listed_count": 58,
