@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 16 17:29:28 +0000 2019",
+		"id": 1096823893719838700,
+		"id_str": "1096823893719838720",
+		"full_text": "Editing something for a friend. Which sentence is best? https://t.co/E3xawIvsra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096823888292376600,
+					"id_str": "1096823888292376576",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzizg-LUcAA0tyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzizg-LUcAA0tyR.jpg",
+					"url": "https://t.co/E3xawIvsra",
+					"display_url": "pic.twitter.com/E3xawIvsra",
+					"expanded_url": "https://twitter.com/stiles/status/1096823893719838720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 542,
+							"h": 155,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 542,
+							"h": 155,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 155,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096823888292376600,
+					"id_str": "1096823888292376576",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzizg-LUcAA0tyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzizg-LUcAA0tyR.jpg",
+					"url": "https://t.co/E3xawIvsra",
+					"display_url": "pic.twitter.com/E3xawIvsra",
+					"expanded_url": "https://twitter.com/stiles/status/1096823893719838720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 542,
+							"h": 155,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 542,
+							"h": 155,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 155,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10452,
+			"friends_count": 1411,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12973,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Editing something for a friend. Which sentence is best? https://t.co/E3xawIvsra"
+	},
+	{
+		"created_at": "Sat Feb 16 15:13:04 +0000 2019",
+		"id": 1096789565392580600,
+		"id_str": "1096789565392580608",
+		"full_text": "In Taipei, had a beef noodle so good I had to tweet it. That’s all! enjoy your weekend https://t.co/jegvkwBMQk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096789552197394400,
+					"id_str": "1096789552197394432",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DziUSWQV4AAdlPl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DziUSWQV4AAdlPl.jpg",
+					"url": "https://t.co/jegvkwBMQk",
+					"display_url": "pic.twitter.com/jegvkwBMQk",
+					"expanded_url": "https://twitter.com/frankshyong/status/1096789565392580608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096789552197394400,
+					"id_str": "1096789552197394432",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DziUSWQV4AAdlPl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DziUSWQV4AAdlPl.jpg",
+					"url": "https://t.co/jegvkwBMQk",
+					"display_url": "pic.twitter.com/jegvkwBMQk",
+					"expanded_url": "https://twitter.com/frankshyong/status/1096789565392580608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17626551,
+			"id_str": "17626551",
+			"name": "Frank Shyong 熊紹岡",
+			"screen_name": "frankshyong",
+			"location": "Alhambra, CA",
+			"description": "@latimes columnist writing about the city. Likes Dodgers, old restaurants, & criticizing your city's Chinese food.",
+			"url": "https://t.co/HfXAlF2tFn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HfXAlF2tFn",
+							"expanded_url": "http://www.frankshyong.com",
+							"display_url": "frankshyong.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7982,
+			"friends_count": 4499,
+			"listed_count": 251,
+			"created_at": "Tue Nov 25 18:18:49 +0000 2008",
+			"favourites_count": 5824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7125,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963956534303584256/teGjNY_R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963956534303584256/teGjNY_R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17626551/1512431164",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 137,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Taipei, had a beef noodle so good I had to tweet it. That’s all! enjoy your weekend https://t.co/jegvkwBMQk"
+	},
+	{
+		"created_at": "Fri Feb 15 19:49:54 +0000 2019",
+		"id": 1096496844912246800,
+		"id_str": "1096496844912246784",
+		"full_text": "Going out to look for a \"national emergency.\" Emptied my notebook after reporting from El Paso, my hometown. Found this from the Trump rally. :-) https://t.co/LDo43SgxkJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096496378191073300,
+					"id_str": "1096496378191073280",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"url": "https://t.co/LDo43SgxkJ",
+					"display_url": "pic.twitter.com/LDo43SgxkJ",
+					"expanded_url": "https://twitter.com/richardparkertx/status/1096496844912246784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096496378191073300,
+					"id_str": "1096496378191073280",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeJpX-U0AA6YRm.jpg",
+					"url": "https://t.co/LDo43SgxkJ",
+					"display_url": "pic.twitter.com/LDo43SgxkJ",
+					"expanded_url": "https://twitter.com/richardparkertx/status/1096496844912246784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128607728,
+			"id_str": "1128607728",
+			"name": "RICHARD PARKER",
+			"screen_name": "richardparkertx",
+			"location": "Southwestern United States",
+			"description": "Author, Journalist, Texan. Contributor to The New York Times Op-Ed, Sunday Review, and The Atlantic. Opinions here are personal; yours are, ah, optional.",
+			"url": "https://t.co/zDL3i0oSrm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zDL3i0oSrm",
+							"expanded_url": "http://www.richardparkertx.com",
+							"display_url": "richardparkertx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1401,
+			"friends_count": 1333,
+			"listed_count": 58,
+			"created_at": "Mon Jan 28 16:53:33 +0000 2013",
+			"favourites_count": 8918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8737,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071666291449126913/VBkGErlI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071666291449126913/VBkGErlI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128607728/1544248102",
+			"profile_link_color": "7F7FEB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Going out to look for a \"national emergency.\" Emptied my notebook after reporting from El Paso, my hometown. Found this from the Trump rally. :-) https://t.co/LDo43SgxkJ"
+	},
+	{
 		"created_at": "Sat Feb 16 15:13:04 +0000 2019",
 		"id": 1096789565392580600,
 		"id_str": "1096789565392580608",
