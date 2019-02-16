@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 16 20:03:59 +0000 2019",
+		"id": 1096862775651885000,
+		"id_str": "1096862775651885056",
+		"full_text": "Also, Michael Jordan might've scored 40,000 points — the most ever — without his baseball and temporary retirement. https://t.co/cnFyDoTlBi https://t.co/JR9I5T0IjN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cnFyDoTlBi",
+					"expanded_url": "https://wapo.st/2TSyNQJ",
+					"display_url": "wapo.st/2TSyNQJ",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096862716147335200,
+					"id_str": "1096862716147335168",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/DzjW1DNVAAAttE0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzjW1DNVAAAttE0.jpg",
+					"url": "https://t.co/JR9I5T0IjN",
+					"display_url": "pic.twitter.com/JR9I5T0IjN",
+					"expanded_url": "https://twitter.com/stiles/status/1096862775651885056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 559,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1710,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 987,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096862716147335200,
+					"id_str": "1096862716147335168",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/DzjW1DNVAAAttE0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzjW1DNVAAAttE0.jpg",
+					"url": "https://t.co/JR9I5T0IjN",
+					"display_url": "pic.twitter.com/JR9I5T0IjN",
+					"expanded_url": "https://twitter.com/stiles/status/1096862775651885056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 559,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1710,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 987,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10452,
+			"friends_count": 1411,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Also, Michael Jordan might've scored 40,000 points — the most ever — without his baseball and temporary retirement. https://t.co/cnFyDoTlBi https://t.co/JR9I5T0IjN"
+	},
+	{
+		"created_at": "Sat Feb 16 20:01:13 +0000 2019",
+		"id": 1096862079321964500,
+		"id_str": "1096862079321964545",
+		"full_text": "This annotation was a useful surprise as I scrolled through the story. Nice touch, @PostGraphics. https://t.co/cnFyDoTlBi https://t.co/xGg4mxUHiN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PostGraphics",
+					"name": "Post Graphics",
+					"id": 87968068,
+					"id_str": "87968068",
+					"indices": [
+						83,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cnFyDoTlBi",
+					"expanded_url": "https://wapo.st/2TSyNQJ",
+					"display_url": "wapo.st/2TSyNQJ",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096861664534704100,
+					"id_str": "1096861664534704129",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/DzjV31pVsAEy3W-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzjV31pVsAEy3W-.jpg",
+					"url": "https://t.co/xGg4mxUHiN",
+					"display_url": "pic.twitter.com/xGg4mxUHiN",
+					"expanded_url": "https://twitter.com/stiles/status/1096862079321964545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1038,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1038,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096861664534704100,
+					"id_str": "1096861664534704129",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/DzjV31pVsAEy3W-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzjV31pVsAEy3W-.jpg",
+					"url": "https://t.co/xGg4mxUHiN",
+					"display_url": "pic.twitter.com/xGg4mxUHiN",
+					"expanded_url": "https://twitter.com/stiles/status/1096862079321964545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1038,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1038,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10452,
+			"friends_count": 1411,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This annotation was a useful surprise as I scrolled through the story. Nice touch, @PostGraphics. https://t.co/cnFyDoTlBi https://t.co/xGg4mxUHiN"
+	},
+	{
 		"created_at": "Sat Feb 16 18:59:36 +0000 2019",
 		"id": 1096846574984937500,
 		"id_str": "1096846574984937472",
