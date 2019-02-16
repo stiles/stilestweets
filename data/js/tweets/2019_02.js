@@ -1,6 +1,165 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 16 04:55:32 +0000 2019",
+		"id": 1096634159336837100,
+		"id_str": "1096634159336837122",
+		"full_text": "So this happened...\n\n#ojsimpson @ Santa Monica, California https://t.co/grWms4JgGF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ojsimpson",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/grWms4JgGF",
+					"expanded_url": "https://www.instagram.com/p/Bt7hVknAQB9/?utm_source=ig_twitter_share&igshid=14x1a19a9vgvf",
+					"display_url": "instagram.com/p/Bt7hVknAQB9/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Reporter @latimes covering LA County. Former Korea correspondent. Stories informed by data analysis, viz, GIS. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10452,
+			"friends_count": 1413,
+			"listed_count": 873,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12967,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				34.01158,
+				-118.49227
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-118.49227,
+				34.01158
+			]
+		},
+		"place": {
+			"id": "59612bd882018c51",
+			"url": "https://api.twitter.com/1.1/geo/id/59612bd882018c51.json",
+			"place_type": "city",
+			"name": "Santa Monica",
+			"full_name": "Santa Monica, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.5173575,
+							33.9951771
+						],
+						[
+							-118.443482,
+							33.9951771
+						],
+						[
+							-118.443482,
+							34.050199
+						],
+						[
+							-118.5173575,
+							34.050199
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So this happened...\n\n#ojsimpson @ Santa Monica, California https://t.co/grWms4JgGF"
+	},
+	{
 		"created_at": "Fri Feb 15 21:16:32 +0000 2019",
 		"id": 1096518645637763100,
 		"id_str": "1096518645637763074",
