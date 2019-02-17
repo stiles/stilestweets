@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 21:47:56 +0000 2019",
+		"id": 1096526549308719100,
+		"id_str": "1096526549308719104",
+		"full_text": "i love when ppl tell me that the ppl i draw don’t have ergonomic posture! thanks i had no idea! from now on i’ll only draw ppl at standing desks or in aeron chairs with wrist rests and keyboard angle of 25 degrees! 😂😂😂 https://t.co/zzZ2yvkUy9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096526540827852800,
+					"id_str": "1096526540827852800",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/DzelFEjVAAA7J-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzelFEjVAAA7J-B.jpg",
+					"url": "https://t.co/zzZ2yvkUy9",
+					"display_url": "pic.twitter.com/zzZ2yvkUy9",
+					"expanded_url": "https://twitter.com/sailorhg/status/1096526549308719104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1066,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096526540827852800,
+					"id_str": "1096526540827852800",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/DzelFEjVAAA7J-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzelFEjVAAA7J-B.jpg",
+					"url": "https://t.co/zzZ2yvkUy9",
+					"display_url": "pic.twitter.com/zzZ2yvkUy9",
+					"expanded_url": "https://twitter.com/sailorhg/status/1096526549308719104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1066,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096526540827848700,
+					"id_str": "1096526540827848704",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/DzelFEjU8AAn3Pj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzelFEjU8AAn3Pj.jpg",
+					"url": "https://t.co/zzZ2yvkUy9",
+					"display_url": "pic.twitter.com/zzZ2yvkUy9",
+					"expanded_url": "https://twitter.com/sailorhg/status/1096526549308719104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 792,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 792,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096526540823658500,
+					"id_str": "1096526540823658496",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/DzelFEiVAAA-rs4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzelFEiVAAA-rs4.jpg",
+					"url": "https://t.co/zzZ2yvkUy9",
+					"display_url": "pic.twitter.com/zzZ2yvkUy9",
+					"expanded_url": "https://twitter.com/sailorhg/status/1096526549308719104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1583,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 928,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61705400,
+			"id_str": "61705400",
+			"name": "sailor mercury",
+			"screen_name": "sailorhg",
+			"location": "san francisco",
+			"description": "i write zines about how computers work! https://t.co/f719MKFp2i | senshi armed w/ a computer & bubble gun | 🇲🇨🇺🇸| bi | she/they | prev @asimo @utokyo_news @mit",
+			"url": "https://t.co/f719MKFp2i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f719MKFp2i",
+							"expanded_url": "http://bubblesort.io",
+							"display_url": "bubblesort.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/f719MKFp2i",
+							"expanded_url": "http://bubblesort.io",
+							"display_url": "bubblesort.io",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22611,
+			"friends_count": 0,
+			"listed_count": 591,
+			"created_at": "Fri Jul 31 06:02:01 +0000 2009",
+			"favourites_count": 59608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/718175717956038656/TUobEJj9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/718175717956038656/TUobEJj9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61705400/1448735424",
+			"profile_link_color": "35BEBC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 908,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i love when ppl tell me that the ppl i draw don’t have ergonomic posture! thanks i had no idea! from now on i’ll only draw ppl at standing desks or in aeron chairs with wrist rests and keyboard angle of 25 degrees! 😂😂😂 https://t.co/zzZ2yvkUy9"
+	},
+	{
 		"created_at": "Sat Feb 16 20:03:59 +0000 2019",
 		"id": 1096862775651885000,
 		"id_str": "1096862775651885056",
