@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 15:28:46 +0000 2019",
+		"id": 1097518291487055900,
+		"id_str": "1097518291487055874",
+		"full_text": "“But for anyone who wonders, why don't more women go into coding? \n\n“They did. They were foundational, back when it was a brutally hard craft, and they rocked at it.”\n\nSuper thread. h/t @CindyRoyal https://t.co/aBhVoi8UWo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CindyRoyal",
+					"name": "Cindy Royal",
+					"id": 1246761,
+					"id_str": "1246761",
+					"indices": [
+						186,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aBhVoi8UWo",
+					"expanded_url": "https://twitter.com/pomeranian99/status/1095716776665628672",
+					"display_url": "twitter.com/pomeranian99/s…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10454,
+			"friends_count": 1414,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12987,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095716776665628700,
+		"quoted_status_id_str": "1095716776665628672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aBhVoi8UWo",
+			"expanded": "https://twitter.com/pomeranian99/status/1095716776665628672",
+			"display": "twitter.com/pomeranian99/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 13 16:10:11 +0000 2019",
+			"id": 1095716776665628700,
+			"id_str": "1095716776665628672",
+			"full_text": "Behold Mary Allen Wilkes -- in the early 1960s, she wrote the operating system for the first personal computer. She walked into MIT with no experience; they hired her. Why? Women were considered *naturals* at coding. https://t.co/awzEey4gSW (From my book CODERS, out 3/26!) 1/x https://t.co/k1VEOwYvAl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/awzEey4gSW",
+						"expanded_url": "https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html",
+						"display_url": "nytimes.com/2019/02/13/mag…",
+						"indices": [
+							217,
+							240
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1095705762955956200,
+						"id_str": "1095705762955956226",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/DzS6lgtWkAIKo85.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzS6lgtWkAIKo85.jpg",
+						"url": "https://t.co/k1VEOwYvAl",
+						"display_url": "pic.twitter.com/k1VEOwYvAl",
+						"expanded_url": "https://twitter.com/pomeranian99/status/1095716776665628672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 797,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1331,
+								"h": 2004,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1095705762955956200,
+						"id_str": "1095705762955956226",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/DzS6lgtWkAIKo85.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DzS6lgtWkAIKo85.jpg",
+						"url": "https://t.co/k1VEOwYvAl",
+						"display_url": "pic.twitter.com/k1VEOwYvAl",
+						"expanded_url": "https://twitter.com/pomeranian99/status/1095716776665628672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 797,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1331,
+								"h": 2004,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 661403,
+				"id_str": "661403",
+				"name": "Clive Thompson",
+				"screen_name": "pomeranian99",
+				"location": "New York, NY",
+				"description": "My new book is out Mar. 26! \"Coders: The Making of a New Tribe and the Remaking of the World\", pre-orderable now 📖📖 https://t.co/Y8HkVLoedl Also: NYT mag, Wired",
+				"url": "https://t.co/XCtGwc1o5G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XCtGwc1o5G",
+								"expanded_url": "http://www.clivethompson.net",
+								"display_url": "clivethompson.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Y8HkVLoedl",
+								"expanded_url": "https://amzn.to/2VX1qxC",
+								"display_url": "amzn.to/2VX1qxC",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 36361,
+				"friends_count": 1948,
+				"listed_count": 1952,
+				"created_at": "Thu Jan 18 20:06:49 +0000 2007",
+				"favourites_count": 38135,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48954,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/661403/1547568517",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 762,
+			"favorite_count": 1295,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“But for anyone who wonders, why don't more women go into coding? \n\n“They did. They were foundational, back when it was a brutally hard craft, and they rocked at it.”\n\nSuper thread. h/t @CindyRoyal https://t.co/aBhVoi8UWo"
+	},
+	{
 		"created_at": "Mon Feb 18 15:11:40 +0000 2019",
 		"id": 1097513989196529700,
 		"id_str": "1097513989196529665",
