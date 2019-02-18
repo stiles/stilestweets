@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 14:43:46 +0000 2019",
+		"id": 1097506966484574200,
+		"id_str": "1097506966484574208",
+		"full_text": "Congrats @yashar https://t.co/5LLfuPqueW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yashar",
+					"name": "Yashar Ali 🐘",
+					"id": 11744152,
+					"id_str": "11744152",
+					"indices": [
+						9,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097506933089562600,
+					"id_str": "1097506933089562624",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DzsgvaVU8AAY08M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzsgvaVU8AAY08M.jpg",
+					"url": "https://t.co/5LLfuPqueW",
+					"display_url": "pic.twitter.com/5LLfuPqueW",
+					"expanded_url": "https://twitter.com/_cingraham/status/1097506966484574208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1106,
+							"h": 736,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 736,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097506933089562600,
+					"id_str": "1097506933089562624",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DzsgvaVU8AAY08M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzsgvaVU8AAY08M.jpg",
+					"url": "https://t.co/5LLfuPqueW",
+					"display_url": "pic.twitter.com/5LLfuPqueW",
+					"expanded_url": "https://twitter.com/_cingraham/status/1097506966484574208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1106,
+							"h": 736,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 736,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452521774,
+			"id_str": "452521774",
+			"name": "Christopher Ingraham",
+			"screen_name": "_cingraham",
+			"location": "Red Lake Falls, MN",
+			"description": "Washington Post data reporter. Drugs, guns, data, hot dish. christopher.ingraham@washpost.com",
+			"url": "https://t.co/i3bEa2idTl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i3bEa2idTl",
+							"expanded_url": "http://www.washingtonpost.com/pb/christopher-ingraham",
+							"display_url": "washingtonpost.com/pb/christopher…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78931,
+			"friends_count": 1253,
+			"listed_count": 1775,
+			"created_at": "Sun Jan 01 23:27:55 +0000 2012",
+			"favourites_count": 17796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030445660691038208/Uc73-Ly5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030445660691038208/Uc73-Ly5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452521774/1441287638",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 487,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats @yashar https://t.co/5LLfuPqueW"
+	},
+	{
 		"created_at": "Mon Feb 18 15:28:46 +0000 2019",
 		"id": 1097518291487055900,
 		"id_str": "1097518291487055874",
