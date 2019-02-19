@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 21:42:13 +0000 2019",
+		"id": 1097974663429288000,
+		"id_str": "1097974663429287936",
+		"full_text": "Intimidation, Pressure and Humiliation: Inside Trump’s Two-Year War on the Investigations Encircling Him https://t.co/ovEV8hudln https://t.co/Ye7kMyId3d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ovEV8hudln",
+					"expanded_url": "https://nyti.ms/2DWFCtv",
+					"display_url": "nyti.ms/2DWFCtv",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097974533762408400,
+					"id_str": "1097974533762408448",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/DzzKBWlVYAAnSC3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzzKBWlVYAAnSC3.jpg",
+					"url": "https://t.co/Ye7kMyId3d",
+					"display_url": "pic.twitter.com/Ye7kMyId3d",
+					"expanded_url": "https://twitter.com/stiles/status/1097974663429287936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1530,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 867,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097974533762408400,
+					"id_str": "1097974533762408448",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/DzzKBWlVYAAnSC3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzzKBWlVYAAnSC3.jpg",
+					"url": "https://t.co/Ye7kMyId3d",
+					"display_url": "pic.twitter.com/Ye7kMyId3d",
+					"expanded_url": "https://twitter.com/stiles/status/1097974663429287936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1530,
+							"h": 1106,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 867,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10452,
+			"friends_count": 1418,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12993,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Intimidation, Pressure and Humiliation: Inside Trump’s Two-Year War on the Investigations Encircling Him https://t.co/ovEV8hudln https://t.co/Ye7kMyId3d"
+	},
+	{
+		"created_at": "Tue Feb 19 21:10:06 +0000 2019",
+		"id": 1097966577830391800,
+		"id_str": "1097966577830391808",
+		"full_text": ".@ArmsControlWonk about to be live on @NPR All Things Considered, on US sharing of nuclear tech with Saudi Arabia. @nprAudie https://t.co/AZXZaP9SGM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArmsControlWonk",
+					"name": "Jeffrey Lewis",
+					"id": 22803302,
+					"id_str": "22803302",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"screen_name": "NPR",
+					"name": "NPR",
+					"id": 5392522,
+					"id_str": "5392522",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"screen_name": "nprAudie",
+					"name": "audie cornish",
+					"id": 31448660,
+					"id_str": "31448660",
+					"indices": [
+						115,
+						124
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097966530447331300,
+					"id_str": "1097966530447331328",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/DzzCvf6U0AAPN9k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzzCvf6U0AAPN9k.jpg",
+					"url": "https://t.co/AZXZaP9SGM",
+					"display_url": "pic.twitter.com/AZXZaP9SGM",
+					"expanded_url": "https://twitter.com/grace_c_liu/status/1097966577830391808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097966530447331300,
+					"id_str": "1097966530447331328",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/DzzCvf6U0AAPN9k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzzCvf6U0AAPN9k.jpg",
+					"url": "https://t.co/AZXZaP9SGM",
+					"display_url": "pic.twitter.com/AZXZaP9SGM",
+					"expanded_url": "https://twitter.com/grace_c_liu/status/1097966577830391808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 488097004,
+			"id_str": "488097004",
+			"name": "Grace Liu",
+			"screen_name": "grace_c_liu",
+			"location": "California, USA",
+			"description": "Research Associate @CNS_Updates, @MIIS alum, DPRK/China, missiles, nukes, geospatial analyst, runner, notorious donut modeler. Mom to Polaris the Space Dumpling",
+			"url": "https://t.co/tsjzXP53iA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tsjzXP53iA",
+							"expanded_url": "https://www.nonproliferation.org/experts/grace-liu/",
+							"display_url": "nonproliferation.org/experts/grace-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1488,
+			"friends_count": 1705,
+			"listed_count": 64,
+			"created_at": "Fri Feb 10 02:34:25 +0000 2012",
+			"favourites_count": 5081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1023403144519151616/eAwN5A4p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1023403144519151616/eAwN5A4p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/488097004/1529620773",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "89bac4213b1b5525",
+			"url": "https://api.twitter.com/1.1/geo/id/89bac4213b1b5525.json",
+			"place_type": "city",
+			"name": "Seaside",
+			"full_name": "Seaside, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-121.860374,
+							36.5968148
+						],
+						[
+							-121.789746,
+							36.5968148
+						],
+						[
+							-121.789746,
+							36.654798
+						],
+						[
+							-121.860374,
+							36.654798
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@ArmsControlWonk about to be live on @NPR All Things Considered, on US sharing of nuclear tech with Saudi Arabia. @nprAudie https://t.co/AZXZaP9SGM"
+	},
+	{
 		"created_at": "Tue Feb 19 20:16:40 +0000 2019",
 		"id": 1097953133643223000,
 		"id_str": "1097953133643223040",
