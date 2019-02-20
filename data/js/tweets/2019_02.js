@@ -1,6 +1,787 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 20 20:37:49 +0000 2019",
+		"id": 1098320842201620500,
+		"id_str": "1098320842201620480",
+		"full_text": "I went on the OJ Simpson tour (in a 1993 White Ford Bronco, natch) and it was so good, you should do this when you're in LA\nhttps://t.co/POHoxvCzl9\n“This was not my aspiration,” the tour operator, Adam, says. “I was not like, this is gonna be a small business one day.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/POHoxvCzl9",
+					"expanded_url": "http://www.heyelise.com/2019/02/16/the-o-j-tour-exists-and-like-the-o-j-saga-it-is-everything/",
+					"display_url": "heyelise.com/2019/02/16/the…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16001350,
+			"id_str": "16001350",
+			"name": "Elise Hu",
+			"screen_name": "elisewho",
+			"location": "California, USA",
+			"description": "LA-based @NPRNews. Ex-expat buro chief in Koreas and Japan. @TexasTribune & #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. IG @elisewho | ehu@npr.org",
+			"url": "https://t.co/5UvjA81oSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5UvjA81oSH",
+							"expanded_url": "http://elisehu.com",
+							"display_url": "elisehu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39694,
+			"friends_count": 1879,
+			"listed_count": 1728,
+			"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+			"favourites_count": 2894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29730,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDEDEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1498480092",
+			"profile_link_color": "4E647A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I went on the OJ Simpson tour (in a 1993 White Ford Bronco, natch) and it was so good, you should do this when you're in LA\nhttps://t.co/POHoxvCzl9\n“This was not my aspiration,” the tour operator, Adam, says. “I was not like, this is gonna be a small business one day.”"
+	},
+	{
+		"created_at": "Wed Feb 20 20:46:04 +0000 2019",
+		"id": 1098322917505536000,
+		"id_str": "1098322917505536001",
+		"full_text": "Thank you, gov't agency, for this flat PDF of a statistics report you clearly created with a spreadsheet program. I'm sure keying all this data in won't introduce errors. https://t.co/eyvhP1XLLc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098322883359662100,
+					"id_str": "1098322883359662080",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz4G199V4AAp5r_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz4G199V4AAp5r_.jpg",
+					"url": "https://t.co/eyvhP1XLLc",
+					"display_url": "pic.twitter.com/eyvhP1XLLc",
+					"expanded_url": "https://twitter.com/stiles/status/1098322917505536001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1629,
+							"h": 649,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 271,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098322883359662100,
+					"id_str": "1098322883359662080",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz4G199V4AAp5r_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz4G199V4AAp5r_.jpg",
+					"url": "https://t.co/eyvhP1XLLc",
+					"display_url": "pic.twitter.com/eyvhP1XLLc",
+					"expanded_url": "https://twitter.com/stiles/status/1098322917505536001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1629,
+							"h": 649,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 271,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10450,
+			"friends_count": 1422,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13008,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you, gov't agency, for this flat PDF of a statistics report you clearly created with a spreadsheet program. I'm sure keying all this data in won't introduce errors. https://t.co/eyvhP1XLLc"
+	},
+	{
+		"created_at": "Wed Feb 20 19:04:05 +0000 2019",
+		"id": 1098297255323410400,
+		"id_str": "1098297255323410432",
+		"full_text": "Check out our roundup of our favorite data viz of the past week, featuring work from @todd_schneider, @stiles, @ryanvmenezes, @KevinQ, and @chartrdaily https://t.co/ldrjZ53mS2 https://t.co/1PJsMqnPA7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "todd_schneider",
+					"name": "Todd Schneider",
+					"id": 299988328,
+					"id_str": "299988328",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"screen_name": "KevinQ",
+					"name": "Kevin Quealy",
+					"id": 19671465,
+					"id_str": "19671465",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"screen_name": "chartrdaily",
+					"name": "chartr",
+					"id": 1088301251224207400,
+					"id_str": "1088301251224207361",
+					"indices": [
+						139,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ldrjZ53mS2",
+					"expanded_url": "https://readypipe.com/blog/data-viz-of-the-week-1/",
+					"display_url": "readypipe.com/blog/data-viz-…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098297178395721700,
+					"id_str": "1098297178395721728",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz3vdvgXQAAz7Sy.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz3vdvgXQAAz7Sy.png",
+					"url": "https://t.co/1PJsMqnPA7",
+					"display_url": "pic.twitter.com/1PJsMqnPA7",
+					"expanded_url": "https://twitter.com/PipelineBlog/status/1098297255323410432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 573,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 573,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098297178395721700,
+					"id_str": "1098297178395721728",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz3vdvgXQAAz7Sy.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz3vdvgXQAAz7Sy.png",
+					"url": "https://t.co/1PJsMqnPA7",
+					"display_url": "pic.twitter.com/1PJsMqnPA7",
+					"expanded_url": "https://twitter.com/PipelineBlog/status/1098297255323410432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 573,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 573,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1098297196343103500,
+					"id_str": "1098297196343103489",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz3veyXWkAEHIHv.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz3veyXWkAEHIHv.png",
+					"url": "https://t.co/1PJsMqnPA7",
+					"display_url": "pic.twitter.com/1PJsMqnPA7",
+					"expanded_url": "https://twitter.com/PipelineBlog/status/1098297255323410432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 552,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1098297221643157500,
+					"id_str": "1098297221643157504",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz3vgQnWwAAd8Wk.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz3vgQnWwAAd8Wk.png",
+					"url": "https://t.co/1PJsMqnPA7",
+					"display_url": "pic.twitter.com/1PJsMqnPA7",
+					"expanded_url": "https://twitter.com/PipelineBlog/status/1098297255323410432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 615,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 615,
+							"h": 332,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1088460674026606600,
+			"id_str": "1088460674026606593",
+			"name": "The Pipeline",
+			"screen_name": "PipelineBlog",
+			"location": "New York, NY",
+			"description": "Data-driven stories, powered by ReadyPipe. Get info on ReadyPipe at https://t.co/BBC4xCv9Z5",
+			"url": "https://t.co/GedN3g0zcF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GedN3g0zcF",
+							"expanded_url": "http://readypipe.com/blog",
+							"display_url": "readypipe.com/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BBC4xCv9Z5",
+							"expanded_url": "http://readypipe.com",
+							"display_url": "readypipe.com",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Thu Jan 24 15:37:02 +0000 2019",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088537087828262912/CMz506ic_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088537087828262912/CMz506ic_normal.jpg",
+			"profile_link_color": "FC636B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out our roundup of our favorite data viz of the past week, featuring work from @todd_schneider, @stiles, @ryanvmenezes, @KevinQ, and @chartrdaily https://t.co/ldrjZ53mS2 https://t.co/1PJsMqnPA7"
+	},
+	{
+		"created_at": "Wed Feb 20 19:06:21 +0000 2019",
+		"id": 1098297824343552000,
+		"id_str": "1098297824343552000",
+		"full_text": "I rarely listen again to a gov't debate to reflect on whether I could have selected better quotes from officials. But I clearly should have used this one yesterday from @mridleythomas re: the process for banning pepper spray in L.A. County juvenile detention facilities. https://t.co/s73MXBugqJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						169,
+						183
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098297430401929200,
+					"id_str": "1098297430401929217",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz3vsaTU0AEXo6E.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz3vsaTU0AEXo6E.png",
+					"url": "https://t.co/s73MXBugqJ",
+					"display_url": "pic.twitter.com/s73MXBugqJ",
+					"expanded_url": "https://twitter.com/stiles/status/1098297824343552000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 444,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 444,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098297430401929200,
+					"id_str": "1098297430401929217",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz3vsaTU0AEXo6E.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dz3vsaTU0AEXo6E.png",
+					"url": "https://t.co/s73MXBugqJ",
+					"display_url": "pic.twitter.com/s73MXBugqJ",
+					"expanded_url": "https://twitter.com/stiles/status/1098297824343552000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 444,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 444,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10450,
+			"friends_count": 1422,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13008,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I rarely listen again to a gov't debate to reflect on whether I could have selected better quotes from officials. But I clearly should have used this one yesterday from @mridleythomas re: the process for banning pepper spray in L.A. County juvenile detention facilities. https://t.co/s73MXBugqJ"
+	},
+	{
 		"created_at": "Wed Feb 20 19:04:05 +0000 2019",
 		"id": 1098297255323410400,
 		"id_str": "1098297255323410432",
