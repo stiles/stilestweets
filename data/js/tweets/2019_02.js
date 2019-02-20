@@ -1,6 +1,751 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 20 04:28:00 +0000 2019",
+		"id": 1098076780018131000,
+		"id_str": "1098076780018130944",
+		"full_text": "@GavinNewsom @HollyJMitchell @HerbJWesson @JanPerry @SharisRhodes @antonio4ca BTW: Here's an @AlSeibPhoto picture of them campaigning together at a Los Angeles restaurant during the campaign. Mitchell is the beaming grin on the left. https://t.co/basw8fTeuz",
+		"truncated": false,
+		"display_text_range": [
+			78,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinNewsom",
+					"name": "Gavin Newsom",
+					"id": 11347122,
+					"id_str": "11347122",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "HollyJMitchell",
+					"name": "Holly J Mitchell",
+					"id": 278192411,
+					"id_str": "278192411",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "HerbJWesson",
+					"name": "L.A. City Council President Herb Wesson",
+					"id": 1921537580,
+					"id_str": "1921537580",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "JanPerry",
+					"name": "Jan Perry",
+					"id": 22559078,
+					"id_str": "22559078",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "SharisRhodes",
+					"name": "Sharis Rhodes",
+					"id": 902554170430898200,
+					"id_str": "902554170430898178",
+					"indices": [
+						52,
+						65
+					]
+				},
+				{
+					"screen_name": "antonio4ca",
+					"name": "Antonio Villaraigosa",
+					"id": 607856488,
+					"id_str": "607856488",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"screen_name": "AlSeibPhoto",
+					"name": "Al Seib",
+					"id": 1686045558,
+					"id_str": "1686045558",
+					"indices": [
+						93,
+						105
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098076190701629400,
+					"id_str": "1098076190701629441",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz0mekMVsAErvyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz0mekMVsAErvyK.jpg",
+					"url": "https://t.co/basw8fTeuz",
+					"display_url": "pic.twitter.com/basw8fTeuz",
+					"expanded_url": "https://twitter.com/stiles/status/1098076780018130944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098076190701629400,
+					"id_str": "1098076190701629441",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz0mekMVsAErvyK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz0mekMVsAErvyK.jpg",
+					"url": "https://t.co/basw8fTeuz",
+					"display_url": "pic.twitter.com/basw8fTeuz",
+					"expanded_url": "https://twitter.com/stiles/status/1098076780018130944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098076137370972200,
+		"in_reply_to_status_id_str": "1098076137370972160",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10452,
+			"friends_count": 1421,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13003,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GavinNewsom @HollyJMitchell @HerbJWesson @JanPerry @SharisRhodes @antonio4ca BTW: Here's an @AlSeibPhoto picture of them campaigning together at a Los Angeles restaurant during the campaign. Mitchell is the beaming grin on the left. https://t.co/basw8fTeuz"
+	},
+	{
+		"created_at": "Wed Feb 20 04:25:27 +0000 2019",
+		"id": 1098076137370972200,
+		"id_str": "1098076137370972160",
+		"full_text": "@GavinNewsom @HollyJMitchell @HerbJWesson @JanPerry @SharisRhodes @HollyJMitchell, of course, endorsed @GavinNewsom back when other local elected Democrats were supporting @antonio4ca. https://t.co/bmGuBaBYP5",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinNewsom",
+					"name": "Gavin Newsom",
+					"id": 11347122,
+					"id_str": "11347122",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "HollyJMitchell",
+					"name": "Holly J Mitchell",
+					"id": 278192411,
+					"id_str": "278192411",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "HerbJWesson",
+					"name": "L.A. City Council President Herb Wesson",
+					"id": 1921537580,
+					"id_str": "1921537580",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "JanPerry",
+					"name": "Jan Perry",
+					"id": 22559078,
+					"id_str": "22559078",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "SharisRhodes",
+					"name": "Sharis Rhodes",
+					"id": 902554170430898200,
+					"id_str": "902554170430898178",
+					"indices": [
+						52,
+						65
+					]
+				},
+				{
+					"screen_name": "HollyJMitchell",
+					"name": "Holly J Mitchell",
+					"id": 278192411,
+					"id_str": "278192411",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"screen_name": "GavinNewsom",
+					"name": "Gavin Newsom",
+					"id": 11347122,
+					"id_str": "11347122",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"screen_name": "antonio4ca",
+					"name": "Antonio Villaraigosa",
+					"id": 607856488,
+					"id_str": "607856488",
+					"indices": [
+						172,
+						183
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bmGuBaBYP5",
+					"expanded_url": "https://twitter.com/hollyjmitchell/status/1003353683537457153",
+					"display_url": "twitter.com/hollyjmitchell…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098075097682763800,
+		"in_reply_to_status_id_str": "1098075097682763776",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10452,
+			"friends_count": 1421,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13003,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1003353683537457200,
+		"quoted_status_id_str": "1003353683537457153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bmGuBaBYP5",
+			"expanded": "https://twitter.com/hollyjmitchell/status/1003353683537457153",
+			"display": "twitter.com/hollyjmitchell…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 03 19:12:14 +0000 2018",
+			"id": 1003353683537457200,
+			"id_str": "1003353683537457153",
+			"full_text": "Newsom for Governor! https://t.co/EOQAd7Pfss",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				20
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003353669356609500,
+						"id_str": "1003353669356609536",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/Deyg2KYV4AAvy5a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Deyg2KYV4AAvy5a.jpg",
+						"url": "https://t.co/EOQAd7Pfss",
+						"display_url": "pic.twitter.com/EOQAd7Pfss",
+						"expanded_url": "https://twitter.com/HollyJMitchell/status/1003353683537457153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 761,
+								"h": 235,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 761,
+								"h": 235,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 210,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003353669356609500,
+						"id_str": "1003353669356609536",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/Deyg2KYV4AAvy5a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Deyg2KYV4AAvy5a.jpg",
+						"url": "https://t.co/EOQAd7Pfss",
+						"display_url": "pic.twitter.com/EOQAd7Pfss",
+						"expanded_url": "https://twitter.com/HollyJMitchell/status/1003353683537457153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 761,
+								"h": 235,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 761,
+								"h": 235,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 210,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 278192411,
+				"id_str": "278192411",
+				"name": "Holly J Mitchell",
+				"screen_name": "HollyJMitchell",
+				"location": "Los Angeles",
+				"description": "Mother. Fighter for Children and Working Families. Senator for California's 30th District. Candidate for LA County Board of Supervisors.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13351,
+				"friends_count": 317,
+				"listed_count": 345,
+				"created_at": "Wed Apr 06 20:01:15 +0000 2011",
+				"favourites_count": 839,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2512,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6D6D7A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/609475605516529665/f22M-SO6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/609475605516529665/f22M-SO6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/278192411/1550128657",
+				"profile_link_color": "40A647",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 66,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GavinNewsom @HollyJMitchell @HerbJWesson @JanPerry @SharisRhodes @HollyJMitchell, of course, endorsed @GavinNewsom back when other local elected Democrats were supporting @antonio4ca. https://t.co/bmGuBaBYP5"
+	},
+	{
+		"created_at": "Wed Feb 20 04:21:19 +0000 2019",
+		"id": 1098075097682763800,
+		"id_str": "1098075097682763776",
+		"full_text": "@GavinNewsom @HollyJMitchell @HerbJWesson @JanPerry @SharisRhodes The governor came to a senior center in Culver City to make the announcement. \"The most populous county in our state and country requires the inclusive leadership and budget expertise that Senator Mitchell will provide as County Supervisor,\" he said.",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			316
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinNewsom",
+					"name": "Gavin Newsom",
+					"id": 11347122,
+					"id_str": "11347122",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "HollyJMitchell",
+					"name": "Holly J Mitchell",
+					"id": 278192411,
+					"id_str": "278192411",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "HerbJWesson",
+					"name": "L.A. City Council President Herb Wesson",
+					"id": 1921537580,
+					"id_str": "1921537580",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "JanPerry",
+					"name": "Jan Perry",
+					"id": 22559078,
+					"id_str": "22559078",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "SharisRhodes",
+					"name": "Sharis Rhodes",
+					"id": 902554170430898200,
+					"id_str": "902554170430898178",
+					"indices": [
+						52,
+						65
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098074744153268200,
+		"in_reply_to_status_id_str": "1098074744153268224",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10452,
+			"friends_count": 1421,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13003,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GavinNewsom @HollyJMitchell @HerbJWesson @JanPerry @SharisRhodes The governor came to a senior center in Culver City to make the announcement. \"The most populous county in our state and country requires the inclusive leadership and budget expertise that Senator Mitchell will provide as County Supervisor,\" he said."
+	},
+	{
 		"created_at": "Wed Feb 20 04:19:54 +0000 2019",
 		"id": 1098074744153268200,
 		"id_str": "1098074744153268224",
