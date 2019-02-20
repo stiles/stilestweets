@@ -1,6 +1,766 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 20 04:19:54 +0000 2019",
+		"id": 1098074744153268200,
+		"id_str": "1098074744153268224",
+		"full_text": "Lost in today's pepper spray discussion was the fact that @GavinNewsom endorsed @HollyJMitchell in the race for the Board of Supervisors 2nd District. That's a significant boost in the early days of her campaign against @HerbJWesson, @JanPerry and @SharisRhodes. https://t.co/GlXK0fCBWo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinNewsom",
+					"name": "Gavin Newsom",
+					"id": 11347122,
+					"id_str": "11347122",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "HollyJMitchell",
+					"name": "Holly J Mitchell",
+					"id": 278192411,
+					"id_str": "278192411",
+					"indices": [
+						80,
+						95
+					]
+				},
+				{
+					"screen_name": "HerbJWesson",
+					"name": "L.A. City Council President Herb Wesson",
+					"id": 1921537580,
+					"id_str": "1921537580",
+					"indices": [
+						220,
+						232
+					]
+				},
+				{
+					"screen_name": "JanPerry",
+					"name": "Jan Perry",
+					"id": 22559078,
+					"id_str": "22559078",
+					"indices": [
+						234,
+						243
+					]
+				},
+				{
+					"screen_name": "SharisRhodes",
+					"name": "Sharis Rhodes",
+					"id": 902554170430898200,
+					"id_str": "902554170430898178",
+					"indices": [
+						248,
+						261
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098073859079598100,
+					"id_str": "1098073859079598080",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz0kW2OU8AAULUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz0kW2OU8AAULUe.jpg",
+					"url": "https://t.co/GlXK0fCBWo",
+					"display_url": "pic.twitter.com/GlXK0fCBWo",
+					"expanded_url": "https://twitter.com/stiles/status/1098074744153268224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1099,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1176,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098073859079598100,
+					"id_str": "1098073859079598080",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz0kW2OU8AAULUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz0kW2OU8AAULUe.jpg",
+					"url": "https://t.co/GlXK0fCBWo",
+					"display_url": "pic.twitter.com/GlXK0fCBWo",
+					"expanded_url": "https://twitter.com/stiles/status/1098074744153268224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1099,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1176,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10451,
+			"friends_count": 1419,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lost in today's pepper spray discussion was the fact that @GavinNewsom endorsed @HollyJMitchell in the race for the Board of Supervisors 2nd District. That's a significant boost in the early days of her campaign against @HerbJWesson, @JanPerry and @SharisRhodes. https://t.co/GlXK0fCBWo"
+	},
+	{
+		"created_at": "Sun Feb 17 16:58:41 +0000 2019",
+		"id": 1097178531346427900,
+		"id_str": "1097178531346427904",
+		"full_text": "The Senate recessed last Thursday and members went home for 10 days. https://t.co/RcRmlTF5ZH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RcRmlTF5ZH",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/1097109575248068608",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138479037,
+			"id_str": "138479037",
+			"name": "carl hulse",
+			"screen_name": "hillhulse",
+			"location": "Washington, D.C.",
+			"description": "Chief Washington Correspondent of The New York Times; On Washington column regularly in the NYT. Drummer. Experienced shipboard entertainer.",
+			"url": "https://t.co/UmqCI5AhUx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmqCI5AhUx",
+							"expanded_url": "http://www.nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36517,
+			"friends_count": 1216,
+			"listed_count": 1252,
+			"created_at": "Thu Apr 29 17:18:24 +0000 2010",
+			"favourites_count": 118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6339,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860435100/gallerysign_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860435100/gallerysign_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138479037/1535565380",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097109575248068600,
+		"quoted_status_id_str": "1097109575248068608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RcRmlTF5ZH",
+			"expanded": "https://twitter.com/realDonaldTrump/status/1097109575248068608",
+			"display": "twitter.com/realDonaldTrum…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 17 12:24:40 +0000 2019",
+			"id": 1097109575248068600,
+			"id_str": "1097109575248068608",
+			"full_text": "Democrats in the Senate are still slow walking hundreds of highly qualified people wanting to come into government. Never been such an abuse in our country’s history. Mitch should not let Senate go home until all are approved. We need our Ambassadors and all others NOW!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58417722,
+				"friends_count": 45,
+				"listed_count": 100363,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 9,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40606,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28282,
+			"favorite_count": 107255,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 342,
+		"favorite_count": 1096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Senate recessed last Thursday and members went home for 10 days. https://t.co/RcRmlTF5ZH"
+	},
+	{
+		"created_at": "Wed Feb 20 02:42:10 +0000 2019",
+		"id": 1098050148901376000,
+		"id_str": "1098050148901376003",
+		"full_text": "Great reporting by @stiles for the @latimes on an important moment for those invested in ending torture and ill treatment of children in detention and promoting human rights. This is also an issue that shows why we need to dismantle the system (not just make more humane prisons). https://t.co/Cmt0IQvG00",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						19,
+						26
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Cmt0IQvG00",
+					"expanded_url": "https://twitter.com/stiles/status/1098024319492341760",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 83494615,
+			"id_str": "83494615",
+			"name": "Ian Kysel",
+			"screen_name": "ianmkysel",
+			"location": "Los Angeles, CA",
+			"description": "Human rights lawyer @ACLU_SoCal; volunteer co-chair of @IMBRights steering committee. But tweets mine--mostly on criminal/juvenile justice and im/migration.",
+			"url": "https://t.co/Qv1VIov8rT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qv1VIov8rT",
+							"expanded_url": "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1591102",
+							"display_url": "papers.ssrn.com/sol3/cf_dev/Ab…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 1149,
+			"listed_count": 36,
+			"created_at": "Mon Oct 19 01:35:43 +0000 2009",
+			"favourites_count": 3328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3057,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2729265981/f7c02f5b02b7d861e1a5789edc2201e5_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2729265981/f7c02f5b02b7d861e1a5789edc2201e5_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83494615/1404762282",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098024319492341800,
+		"quoted_status_id_str": "1098024319492341760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Cmt0IQvG00",
+			"expanded": "https://twitter.com/stiles/status/1098024319492341760",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 20 00:59:32 +0000 2019",
+			"id": 1098024319492341800,
+			"id_str": "1098024319492341760",
+			"full_text": "After reports of abuse, L.A. supervisors voted today to ban the use of pepper spray in juvenile detention halls. My latest story on the situation confronting @LACProbation: https://t.co/mQhY68lHCG https://t.co/Hynm1JM6k8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LACProbation",
+						"name": "Los Angeles County Probation Department",
+						"id": 1683979206,
+						"id_str": "1683979206",
+						"indices": [
+							158,
+							171
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mQhY68lHCG",
+						"expanded_url": "https://lat.ms/2NfOpLv",
+						"display_url": "lat.ms/2NfOpLv",
+						"indices": [
+							173,
+							196
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1098024142610128900,
+						"id_str": "1098024142610128897",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/media/Dzz3I98UYAEclkO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dzz3I98UYAEclkO.jpg",
+						"url": "https://t.co/Hynm1JM6k8",
+						"display_url": "pic.twitter.com/Hynm1JM6k8",
+						"expanded_url": "https://twitter.com/stiles/status/1098024319492341760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1098024142610128900,
+						"id_str": "1098024142610128897",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/media/Dzz3I98UYAEclkO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dzz3I98UYAEclkO.jpg",
+						"url": "https://t.co/Hynm1JM6k8",
+						"display_url": "pic.twitter.com/Hynm1JM6k8",
+						"expanded_url": "https://twitter.com/stiles/status/1098024319492341760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "34.0522° N, 118.2437° W",
+				"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10451,
+				"friends_count": 1419,
+				"listed_count": 874,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 5141,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13000,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+				"profile_link_color": "A63144",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great reporting by @stiles for the @latimes on an important moment for those invested in ending torture and ill treatment of children in detention and promoting human rights. This is also an issue that shows why we need to dismantle the system (not just make more humane prisons). https://t.co/Cmt0IQvG00"
+	},
+	{
 		"created_at": "Wed Feb 20 02:01:26 +0000 2019",
 		"id": 1098039895669403600,
 		"id_str": "1098039895669403648",
