@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 22:10:29 +0000 2019",
+		"id": 1098706550716125200,
+		"id_str": "1098706550716125184",
+		"full_text": "@laura_nelson Here’s the view from El Segundo. Looking pretty spooky behind you. https://t.co/IWtS7DKU1G",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laura_nelson",
+					"name": "Laura J. Nelson 🦅",
+					"id": 16538210,
+					"id_str": "16538210",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098706542650519600,
+					"id_str": "1098706542650519552",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9jx4MU8AA4ry0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9jx4MU8AA4ry0.jpg",
+					"url": "https://t.co/IWtS7DKU1G",
+					"display_url": "pic.twitter.com/IWtS7DKU1G",
+					"expanded_url": "https://twitter.com/stiles/status/1098706550716125184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098706542650519600,
+					"id_str": "1098706542650519552",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz9jx4MU8AA4ry0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz9jx4MU8AA4ry0.jpg",
+					"url": "https://t.co/IWtS7DKU1G",
+					"display_url": "pic.twitter.com/IWtS7DKU1G",
+					"expanded_url": "https://twitter.com/stiles/status/1098706550716125184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1098706009864859600,
+		"in_reply_to_status_id_str": "1098706009864859648",
+		"in_reply_to_user_id": 16538210,
+		"in_reply_to_user_id_str": "16538210",
+		"in_reply_to_screen_name": "laura_nelson",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10448,
+			"friends_count": 1422,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@laura_nelson Here’s the view from El Segundo. Looking pretty spooky behind you. https://t.co/IWtS7DKU1G"
+	},
+	{
+		"created_at": "Thu Feb 21 14:06:04 +0000 2019",
+		"id": 1098584643790504000,
+		"id_str": "1098584643790503937",
+		"full_text": "Good Morning from 1 of our coldest patrol stations! Last night #LASD @PalmdaleSheriff got a little bit of snow. No big deal 30 degrees or 110 degrees, Deputies grab a hoop &amp; patrol. We will be testing for Deputy Sheriff Trainee in #AV411 this weeknd #Palmdale #ThursdayMotivation https://t.co/SRSNPIWJ1E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LASD",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "AV411",
+					"indices": [
+						235,
+						241
+					]
+				},
+				{
+					"text": "Palmdale",
+					"indices": [
+						254,
+						263
+					]
+				},
+				{
+					"text": "ThursdayMotivation",
+					"indices": [
+						264,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PalmdaleSheriff",
+					"name": "LASD Palmdale Stn.",
+					"id": 34724038,
+					"id_str": "34724038",
+					"indices": [
+						69,
+						85
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098584625960480800,
+					"id_str": "1098584625960480768",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz705ZIUcAA9b_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz705ZIUcAA9b_M.jpg",
+					"url": "https://t.co/SRSNPIWJ1E",
+					"display_url": "pic.twitter.com/SRSNPIWJ1E",
+					"expanded_url": "https://twitter.com/LASDHQ/status/1098584643790503937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098584625960480800,
+					"id_str": "1098584625960480768",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz705ZIUcAA9b_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz705ZIUcAA9b_M.jpg",
+					"url": "https://t.co/SRSNPIWJ1E",
+					"display_url": "pic.twitter.com/SRSNPIWJ1E",
+					"expanded_url": "https://twitter.com/LASDHQ/status/1098584643790503937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1098584625960472600,
+					"id_str": "1098584625960472576",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz705ZIUUAAjx0v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz705ZIUUAAjx0v.jpg",
+					"url": "https://t.co/SRSNPIWJ1E",
+					"display_url": "pic.twitter.com/SRSNPIWJ1E",
+					"expanded_url": "https://twitter.com/LASDHQ/status/1098584643790503937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46470122,
+			"id_str": "46470122",
+			"name": "LA County Sheriff's",
+			"screen_name": "LASDHQ",
+			"location": "Los Angeles County, California",
+			"description": "Los Angeles County Sheriff's Department (Headquarters). Official. #LASD https://t.co/icwmbwgpc3 https://t.co/aqLb8E8unL",
+			"url": "https://t.co/jr2qeQPnRS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jr2qeQPnRS",
+							"expanded_url": "http://careers.lasd.org",
+							"display_url": "careers.lasd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/icwmbwgpc3",
+							"expanded_url": "http://www.lasd.org",
+							"display_url": "lasd.org",
+							"indices": [
+								72,
+								95
+							]
+						},
+						{
+							"url": "https://t.co/aqLb8E8unL",
+							"expanded_url": "https://www.facebook.com/LosAngelesCountySheriffsDepartment",
+							"display_url": "facebook.com/LosAngelesCoun…",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 96265,
+			"friends_count": 152,
+			"listed_count": 1618,
+			"created_at": "Thu Jun 11 19:39:26 +0000 2009",
+			"favourites_count": 1644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "003300",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083813360812969984/881IKKd3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083813360812969984/881IKKd3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46470122/1539889784",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "006600",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good Morning from 1 of our coldest patrol stations! Last night #LASD @PalmdaleSheriff got a little bit of snow. No big deal 30 degrees or 110 degrees, Deputies grab a hoop &amp; patrol. We will be testing for Deputy Sheriff Trainee in #AV411 this weeknd #Palmdale #ThursdayMotivation https://t.co/SRSNPIWJ1E"
+	},
+	{
 		"created_at": "Thu Feb 21 14:06:04 +0000 2019",
 		"id": 1098584643790504000,
 		"id_str": "1098584643790503937",
