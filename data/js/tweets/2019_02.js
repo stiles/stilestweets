@@ -237,6 +237,288 @@ Grailbird.data.tweets_2019_02 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
+				"statuses_count": 12895,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1607602940/1423747730",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Optics are important. But there’s the risk of President Trump painting himself into a corner, if he hasn’t already, getting more and more invested in the positive optics of summitry rather than substance. https://t.co/ZZ5hT0aR4Z"
+	},
+	{
+		"created_at": "Fri Feb 22 05:19:13 +0000 2019",
+		"id": 1098814445088899100,
+		"id_str": "1098814445088899072",
+		"full_text": "Optics are important. But there’s the risk of President Trump painting himself into a corner, if he hasn’t already, getting more and more invested in the positive optics of summitry rather than substance. https://t.co/ZZ5hT0aR4Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZZ5hT0aR4Z",
+					"expanded_url": "https://twitter.com/chadocl/status/1098812892877533184",
+					"display_url": "twitter.com/chadocl/status…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3299952414,
+			"id_str": "3299952414",
+			"name": "Jung H. Pak, PhD",
+			"screen_name": "junghpak1",
+			"location": "Washington, DC",
+			"description": "Senior Fellow and SK-Korea Foundation Chair in Korea Studies, Brookings Institution. Former CIA. Usual caveats.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5689,
+			"friends_count": 392,
+			"listed_count": 155,
+			"created_at": "Wed Jul 29 00:58:06 +0000 2015",
+			"favourites_count": 2079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905540411699200002/KaduX8wu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905540411699200002/KaduX8wu_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098812892877533200,
+		"quoted_status_id_str": "1098812892877533184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZZ5hT0aR4Z",
+			"expanded": "https://twitter.com/chadocl/status/1098812892877533184",
+			"display": "twitter.com/chadocl/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 22 05:13:03 +0000 2019",
+			"id": 1098812892877533200,
+			"id_str": "1098812892877533184",
+			"full_text": "Why, at the second Kim-Trump summit, optics could matter just as much as outcomes https://t.co/E5L23mHsh2 https://t.co/OGtdbwTGEp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/E5L23mHsh2",
+						"expanded_url": "http://dlvr.it/QzQqZy",
+						"display_url": "dlvr.it/QzQqZy",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1098812890671247400,
+						"id_str": "1098812890671247361",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz_EgJcUcAEMtjG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz_EgJcUcAEMtjG.jpg",
+						"url": "https://t.co/OGtdbwTGEp",
+						"display_url": "pic.twitter.com/OGtdbwTGEp",
+						"expanded_url": "https://twitter.com/chadocl/status/1098812892877533184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 917,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 917,
+								"h": 509,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1098812890671247400,
+						"id_str": "1098812890671247361",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz_EgJcUcAEMtjG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz_EgJcUcAEMtjG.jpg",
+						"url": "https://t.co/OGtdbwTGEp",
+						"display_url": "pic.twitter.com/OGtdbwTGEp",
+						"expanded_url": "https://twitter.com/chadocl/status/1098812892877533184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 917,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 917,
+								"h": 509,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1607602940,
+				"id_str": "1607602940",
+				"name": "Chad O'Carroll",
+				"screen_name": "chadocl",
+				"location": "",
+				"description": "CEO of Korea Risk Group, which produces the specialist North Korea publications NK Pro and NK News. Views own.",
+				"url": "https://t.co/p2yQx0AkyB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p2yQx0AkyB",
+								"expanded_url": "http://www.korearisk.com",
+								"display_url": "korearisk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7285,
+				"friends_count": 813,
+				"listed_count": 364,
+				"created_at": "Sat Jul 20 06:25:11 +0000 2013",
+				"favourites_count": 4480,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
 				"statuses_count": 12894,
 				"lang": "en",
 				"contributors_enabled": false,
