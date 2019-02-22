@@ -1,6 +1,503 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 20:28:11 +0000 2019",
+		"id": 1099043195533447200,
+		"id_str": "1099043195533447168",
+		"full_text": "This @quartz interview with @Microsoft's CEO, @satyanadella, is a good read. I love how he says \"aggregate those sockets\" when describing the company's plan to use its strength in the PC and console gaming markets to become a \"Netflix for games\".  https://t.co/VvUyplTTJR https://t.co/G99nginqHP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "quartz",
+					"name": "Quartz",
+					"id": 2697099978,
+					"id_str": "2697099978",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "satyanadella",
+					"name": "Satya Nadella",
+					"id": 20571756,
+					"id_str": "20571756",
+					"indices": [
+						46,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VvUyplTTJR",
+					"expanded_url": "http://bit.ly/2SiKTkw",
+					"display_url": "bit.ly/2SiKTkw",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099042877865246700,
+					"id_str": "1099042877865246720",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D0CVrKgUwAA5SZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0CVrKgUwAA5SZg.jpg",
+					"url": "https://t.co/G99nginqHP",
+					"display_url": "pic.twitter.com/G99nginqHP",
+					"expanded_url": "https://twitter.com/stiles/status/1099043195533447168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 958,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099042877865246700,
+					"id_str": "1099042877865246720",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D0CVrKgUwAA5SZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0CVrKgUwAA5SZg.jpg",
+					"url": "https://t.co/G99nginqHP",
+					"display_url": "pic.twitter.com/G99nginqHP",
+					"expanded_url": "https://twitter.com/stiles/status/1099043195533447168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 958,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10449,
+			"friends_count": 1422,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This @quartz interview with @Microsoft's CEO, @satyanadella, is a good read. I love how he says \"aggregate those sockets\" when describing the company's plan to use its strength in the PC and console gaming markets to become a \"Netflix for games\".  https://t.co/VvUyplTTJR https://t.co/G99nginqHP"
+	},
+	{
+		"created_at": "Fri Feb 22 05:19:13 +0000 2019",
+		"id": 1098814445088899100,
+		"id_str": "1098814445088899072",
+		"full_text": "Optics are important. But there’s the risk of President Trump painting himself into a corner, if he hasn’t already, getting more and more invested in the positive optics of summitry rather than substance. https://t.co/ZZ5hT0aR4Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZZ5hT0aR4Z",
+					"expanded_url": "https://twitter.com/chadocl/status/1098812892877533184",
+					"display_url": "twitter.com/chadocl/status…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3299952414,
+			"id_str": "3299952414",
+			"name": "Jung H. Pak, PhD",
+			"screen_name": "junghpak1",
+			"location": "Washington, DC",
+			"description": "Senior Fellow and SK-Korea Foundation Chair in Korea Studies, Brookings Institution. Former CIA. Usual caveats.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5700,
+			"friends_count": 392,
+			"listed_count": 156,
+			"created_at": "Wed Jul 29 00:58:06 +0000 2015",
+			"favourites_count": 2087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 638,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905540411699200002/KaduX8wu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905540411699200002/KaduX8wu_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098812892877533200,
+		"quoted_status_id_str": "1098812892877533184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZZ5hT0aR4Z",
+			"expanded": "https://twitter.com/chadocl/status/1098812892877533184",
+			"display": "twitter.com/chadocl/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 22 05:13:03 +0000 2019",
+			"id": 1098812892877533200,
+			"id_str": "1098812892877533184",
+			"full_text": "Why, at the second Kim-Trump summit, optics could matter just as much as outcomes https://t.co/E5L23mHsh2 https://t.co/OGtdbwTGEp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/E5L23mHsh2",
+						"expanded_url": "http://dlvr.it/QzQqZy",
+						"display_url": "dlvr.it/QzQqZy",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1098812890671247400,
+						"id_str": "1098812890671247361",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz_EgJcUcAEMtjG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz_EgJcUcAEMtjG.jpg",
+						"url": "https://t.co/OGtdbwTGEp",
+						"display_url": "pic.twitter.com/OGtdbwTGEp",
+						"expanded_url": "https://twitter.com/chadocl/status/1098812892877533184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 917,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 917,
+								"h": 509,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1098812890671247400,
+						"id_str": "1098812890671247361",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz_EgJcUcAEMtjG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz_EgJcUcAEMtjG.jpg",
+						"url": "https://t.co/OGtdbwTGEp",
+						"display_url": "pic.twitter.com/OGtdbwTGEp",
+						"expanded_url": "https://twitter.com/chadocl/status/1098812892877533184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 917,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 917,
+								"h": 509,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1607602940,
+				"id_str": "1607602940",
+				"name": "Chad O'Carroll",
+				"screen_name": "chadocl",
+				"location": "",
+				"description": "CEO of Korea Risk Group, which produces the specialist North Korea publications NK Pro and NK News. Views own.",
+				"url": "https://t.co/p2yQx0AkyB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p2yQx0AkyB",
+								"expanded_url": "http://www.korearisk.com",
+								"display_url": "korearisk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7291,
+				"friends_count": 813,
+				"listed_count": 363,
+				"created_at": "Sat Jul 20 06:25:11 +0000 2013",
+				"favourites_count": 4481,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12900,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1607602940/1423747730",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Optics are important. But there’s the risk of President Trump painting himself into a corner, if he hasn’t already, getting more and more invested in the positive optics of summitry rather than substance. https://t.co/ZZ5hT0aR4Z"
+	},
+	{
 		"created_at": "Fri Feb 22 05:19:13 +0000 2019",
 		"id": 1098814445088899100,
 		"id_str": "1098814445088899072",
