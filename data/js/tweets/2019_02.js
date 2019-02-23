@@ -137,6 +137,732 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 11044842,
+			"friends_count": 14,
+			"listed_count": 74058,
+			"created_at": "Tue Mar 04 02:48:37 +0000 2008",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 65893,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875392068125769732/yrN-1k0Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875392068125769732/yrN-1k0Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14075928/1529705818",
+			"profile_link_color": "327144",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6939,
+		"favorite_count": 18648,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chicago Police Credit Their Extensive Experience Falsifying Evidence For Helping Solve Smollett Case https://t.co/wF3PDbHyOZ https://t.co/cZWlgWvFSx"
+	},
+	{
+		"created_at": "Fri Feb 22 21:30:12 +0000 2019",
+		"id": 1099058799791370200,
+		"id_str": "1099058799791370241",
+		"full_text": "Two interesting bits from that @kdoctor interview with Thompson re: the Times analytics and strategy around digital subscriptions: https://t.co/pUSgUItp1v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kdoctor",
+					"name": "Ken Doctor",
+					"id": 14254352,
+					"id_str": "14254352",
+					"indices": [
+						31,
+						39
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099058746804691000,
+					"id_str": "1099058746804690944",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/D0CkG26UYAAsQxq.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0CkG26UYAAsQxq.png",
+					"url": "https://t.co/pUSgUItp1v",
+					"display_url": "pic.twitter.com/pUSgUItp1v",
+					"expanded_url": "https://twitter.com/stiles/status/1099058799791370241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 652,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 652,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 652,
+							"h": 332,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099058746804691000,
+					"id_str": "1099058746804690944",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/D0CkG26UYAAsQxq.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0CkG26UYAAsQxq.png",
+					"url": "https://t.co/pUSgUItp1v",
+					"display_url": "pic.twitter.com/pUSgUItp1v",
+					"expanded_url": "https://twitter.com/stiles/status/1099058799791370241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 652,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 652,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 652,
+							"h": 332,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1099058791532752900,
+					"id_str": "1099058791532752897",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/D0CkJdiUcAEbVLT.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0CkJdiUcAEbVLT.png",
+					"url": "https://t.co/pUSgUItp1v",
+					"display_url": "pic.twitter.com/pUSgUItp1v",
+					"expanded_url": "https://twitter.com/stiles/status/1099058799791370241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 648,
+							"h": 107,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 107,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 648,
+							"h": 107,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 107,
+							"h": 107,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1099058300144910300,
+		"in_reply_to_status_id_str": "1099058300144910336",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10449,
+			"friends_count": 1425,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13013,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Two interesting bits from that @kdoctor interview with Thompson re: the Times analytics and strategy around digital subscriptions: https://t.co/pUSgUItp1v"
+	},
+	{
+		"created_at": "Fri Feb 22 21:28:12 +0000 2019",
+		"id": 1099058300144910300,
+		"id_str": "1099058300144910336",
+		"full_text": "The New York Times’ Mark Thompson on how he’d run a local newspaper: “Where can we stand and fight?” https://t.co/tO4QYYiPxs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tO4QYYiPxs",
+					"expanded_url": "https://nie.mn/2GVLuq9",
+					"display_url": "nie.mn/2GVLuq9",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10449,
+			"friends_count": 1425,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13013,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The New York Times’ Mark Thompson on how he’d run a local newspaper: “Where can we stand and fight?” https://t.co/tO4QYYiPxs"
+	},
+	{
+		"created_at": "Fri Feb 22 20:28:11 +0000 2019",
+		"id": 1099043195533447200,
+		"id_str": "1099043195533447168",
+		"full_text": "This @quartz interview with @Microsoft's CEO, @satyanadella, is a good read. I love how he says \"aggregate those sockets\" when describing the company's plan to use its strength in the PC and console gaming markets to become a \"Netflix for games\".  https://t.co/VvUyplTTJR https://t.co/G99nginqHP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "quartz",
+					"name": "Quartz",
+					"id": 2697099978,
+					"id_str": "2697099978",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "satyanadella",
+					"name": "Satya Nadella",
+					"id": 20571756,
+					"id_str": "20571756",
+					"indices": [
+						46,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VvUyplTTJR",
+					"expanded_url": "http://bit.ly/2SiKTkw",
+					"display_url": "bit.ly/2SiKTkw",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099042877865246700,
+					"id_str": "1099042877865246720",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D0CVrKgUwAA5SZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0CVrKgUwAA5SZg.jpg",
+					"url": "https://t.co/G99nginqHP",
+					"display_url": "pic.twitter.com/G99nginqHP",
+					"expanded_url": "https://twitter.com/stiles/status/1099043195533447168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 958,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099042877865246700,
+					"id_str": "1099042877865246720",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D0CVrKgUwAA5SZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0CVrKgUwAA5SZg.jpg",
+					"url": "https://t.co/G99nginqHP",
+					"display_url": "pic.twitter.com/G99nginqHP",
+					"expanded_url": "https://twitter.com/stiles/status/1099043195533447168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 958,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "34.0522° N, 118.2437° W",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10449,
+			"friends_count": 1425,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13013,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1549905666",
+			"profile_link_color": "A63144",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This @quartz interview with @Microsoft's CEO, @satyanadella, is a good read. I love how he says \"aggregate those sockets\" when describing the company's plan to use its strength in the PC and console gaming markets to become a \"Netflix for games\".  https://t.co/VvUyplTTJR https://t.co/G99nginqHP"
+	},
+	{
+		"created_at": "Fri Feb 22 19:46:03 +0000 2019",
+		"id": 1099032590743466000,
+		"id_str": "1099032590743465990",
+		"full_text": "Chicago Police Credit Their Extensive Experience Falsifying Evidence For Helping Solve Smollett Case https://t.co/wF3PDbHyOZ https://t.co/cZWlgWvFSx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wF3PDbHyOZ",
+					"expanded_url": "https://trib.al/gjseKSy",
+					"display_url": "trib.al/gjseKSy",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099032588977606700,
+					"id_str": "1099032588977606657",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/D0CMURaWkAEUvRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0CMURaWkAEUvRR.jpg",
+					"url": "https://t.co/cZWlgWvFSx",
+					"display_url": "pic.twitter.com/cZWlgWvFSx",
+					"expanded_url": "https://twitter.com/TheOnion/status/1099032590743465990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099032588977606700,
+					"id_str": "1099032588977606657",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/D0CMURaWkAEUvRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0CMURaWkAEUvRR.jpg",
+					"url": "https://t.co/cZWlgWvFSx",
+					"display_url": "pic.twitter.com/cZWlgWvFSx",
+					"expanded_url": "https://twitter.com/TheOnion/status/1099032590743465990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14075928,
+			"id_str": "14075928",
+			"name": "The Onion",
+			"screen_name": "TheOnion",
+			"location": "",
+			"description": "America's Finest News Source.",
+			"url": "https://t.co/EIF811U9ds",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EIF811U9ds",
+							"expanded_url": "https://www.theonion.com/",
+							"display_url": "theonion.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 11044768,
 			"friends_count": 14,
 			"listed_count": 74057,
