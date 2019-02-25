@@ -1,6 +1,643 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 12:24:36 +0000 2019",
+		"id": 1097834332469653500,
+		"id_str": "1097834332469653504",
+		"full_text": "WE'RE HIRING: \n\n- Director of Operations \n- Washington DC Correspondent\n- Account/Sales Manager\n\nApply today at @nknewsorg:\n\nhttps://t.co/M5ezVaRCUv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nknewsorg",
+					"name": "NK NEWS",
+					"id": 147017457,
+					"id_str": "147017457",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M5ezVaRCUv",
+					"expanded_url": "https://www.nknews.org/opportunities/",
+					"display_url": "nknews.org/opportunities/",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1607602940,
+			"id_str": "1607602940",
+			"name": "Chad O'Carroll",
+			"screen_name": "chadocl",
+			"location": "",
+			"description": "CEO of Korea Risk Group, which produces the specialist North Korea publications NK Pro and NK News. Views own.",
+			"url": "https://t.co/p2yQx0AkyB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p2yQx0AkyB",
+							"expanded_url": "http://www.korearisk.com",
+							"display_url": "korearisk.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7357,
+			"friends_count": 850,
+			"listed_count": 363,
+			"created_at": "Sat Jul 20 06:25:11 +0000 2013",
+			"favourites_count": 4528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1607602940/1423747730",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WE'RE HIRING: \n\n- Director of Operations \n- Washington DC Correspondent\n- Account/Sales Manager\n\nApply today at @nknewsorg:\n\nhttps://t.co/M5ezVaRCUv"
+	},
+	{
+		"created_at": "Mon Feb 25 12:56:41 +0000 2019",
+		"id": 1100016735023812600,
+		"id_str": "1100016735023812609",
+		"full_text": "DATA: U.S.-DPRK summit v2.0 is so far having a negligible impact on global interest in North Korea issues.\n\nWhether or not that picks up in the coming days remains to be seen...\n\nPersonally, I suspect it will not come close to levels of int'l interest in the Singapore summit... https://t.co/fJomHirJvb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100015742299205600,
+					"id_str": "1100015742299205634",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D0QKfU8U8AIFpQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0QKfU8U8AIFpQv.jpg",
+					"url": "https://t.co/fJomHirJvb",
+					"display_url": "pic.twitter.com/fJomHirJvb",
+					"expanded_url": "https://twitter.com/chadocl/status/1100016735023812609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 491,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 278,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1838,
+							"h": 752,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100015742299205600,
+					"id_str": "1100015742299205634",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D0QKfU8U8AIFpQv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0QKfU8U8AIFpQv.jpg",
+					"url": "https://t.co/fJomHirJvb",
+					"display_url": "pic.twitter.com/fJomHirJvb",
+					"expanded_url": "https://twitter.com/chadocl/status/1100016735023812609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 491,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 278,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1838,
+							"h": 752,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1607602940,
+			"id_str": "1607602940",
+			"name": "Chad O'Carroll",
+			"screen_name": "chadocl",
+			"location": "",
+			"description": "CEO of Korea Risk Group, which produces the specialist North Korea publications NK Pro and NK News. Views own.",
+			"url": "https://t.co/p2yQx0AkyB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p2yQx0AkyB",
+							"expanded_url": "http://www.korearisk.com",
+							"display_url": "korearisk.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7357,
+			"friends_count": 850,
+			"listed_count": 363,
+			"created_at": "Sat Jul 20 06:25:11 +0000 2013",
+			"favourites_count": 4528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1607602940/1423747730",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DATA: U.S.-DPRK summit v2.0 is so far having a negligible impact on global interest in North Korea issues.\n\nWhether or not that picks up in the coming days remains to be seen...\n\nPersonally, I suspect it will not come close to levels of int'l interest in the Singapore summit... https://t.co/fJomHirJvb"
+	},
+	{
+		"created_at": "Mon Feb 25 14:04:41 +0000 2019",
+		"id": 1100033848635781100,
+		"id_str": "1100033848635781120",
+		"full_text": "Trump campaign staffer says he gave her unwanted kiss on her mouth before Florida rally in 2016. “I can still see his lips coming straight for my face,” Alva Johnson told the Post. White House denies it happened. With @Alice_Crites https://t.co/buYmiY9rKb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alice_crites",
+					"name": "Alice Crites",
+					"id": 969276824311263200,
+					"id_str": "969276824311263232",
+					"indices": [
+						218,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/buYmiY9rKb",
+					"expanded_url": "https://wapo.st/2IKaYtk?tid=ss_tw&utm_term=.c90481020d61",
+					"display_url": "wapo.st/2IKaYtk?tid=ss…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34022952,
+			"id_str": "34022952",
+			"name": "Beth Reinhard",
+			"screen_name": "bethreinhard",
+			"location": "Washington, D.C.",
+			"description": "Reporter at The Washington Post. Formerly at WSJ, National Journal, Miami Herald, et al. Email me at beth.reinhard@washpost.com. Also on Signal and WhatsApp.",
+			"url": "https://t.co/fJMCeIGWXa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJMCeIGWXa",
+							"expanded_url": "http://www.washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27251,
+			"friends_count": 129,
+			"listed_count": 1081,
+			"created_at": "Tue Apr 21 20:08:38 +0000 2009",
+			"favourites_count": 510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879827314766426112/6Iri486H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879827314766426112/6Iri486H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34022952/1503415451",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1655,
+		"favorite_count": 2344,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump campaign staffer says he gave her unwanted kiss on her mouth before Florida rally in 2016. “I can still see his lips coming straight for my face,” Alva Johnson told the Post. White House denies it happened. With @Alice_Crites https://t.co/buYmiY9rKb"
+	},
+	{
+		"created_at": "Mon Feb 25 14:06:59 +0000 2019",
+		"id": 1100034427948859400,
+		"id_str": "1100034427948859394",
+		"full_text": "While more than a dozen women have publicly accused Trump of kissing or groping them, Johnson is only accuser to come forward since the president took office and only one to allege unwanted contact during the campaign. She filed suit Monday in federal court in Florida. https://t.co/nBwfdMq8rA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nBwfdMq8rA",
+					"expanded_url": "https://twitter.com/bethreinhard/status/1100033848635781120",
+					"display_url": "twitter.com/bethreinhard/s…",
+					"indices": [
+						270,
+						293
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34022952,
+			"id_str": "34022952",
+			"name": "Beth Reinhard",
+			"screen_name": "bethreinhard",
+			"location": "Washington, D.C.",
+			"description": "Reporter at The Washington Post. Formerly at WSJ, National Journal, Miami Herald, et al. Email me at beth.reinhard@washpost.com. Also on Signal and WhatsApp.",
+			"url": "https://t.co/fJMCeIGWXa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJMCeIGWXa",
+							"expanded_url": "http://www.washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27251,
+			"friends_count": 129,
+			"listed_count": 1081,
+			"created_at": "Tue Apr 21 20:08:38 +0000 2009",
+			"favourites_count": 510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879827314766426112/6Iri486H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879827314766426112/6Iri486H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34022952/1503415451",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100033848635781100,
+		"quoted_status_id_str": "1100033848635781120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nBwfdMq8rA",
+			"expanded": "https://twitter.com/bethreinhard/status/1100033848635781120",
+			"display": "twitter.com/bethreinhard/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 25 14:04:41 +0000 2019",
+			"id": 1100033848635781100,
+			"id_str": "1100033848635781120",
+			"full_text": "Trump campaign staffer says he gave her unwanted kiss on her mouth before Florida rally in 2016. “I can still see his lips coming straight for my face,” Alva Johnson told the Post. White House denies it happened. With @Alice_Crites https://t.co/buYmiY9rKb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alice_crites",
+						"name": "Alice Crites",
+						"id": 969276824311263200,
+						"id_str": "969276824311263232",
+						"indices": [
+							218,
+							231
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/buYmiY9rKb",
+						"expanded_url": "https://wapo.st/2IKaYtk?tid=ss_tw&utm_term=.c90481020d61",
+						"display_url": "wapo.st/2IKaYtk?tid=ss…",
+						"indices": [
+							232,
+							255
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34022952,
+				"id_str": "34022952",
+				"name": "Beth Reinhard",
+				"screen_name": "bethreinhard",
+				"location": "Washington, D.C.",
+				"description": "Reporter at The Washington Post. Formerly at WSJ, National Journal, Miami Herald, et al. Email me at beth.reinhard@washpost.com. Also on Signal and WhatsApp.",
+				"url": "https://t.co/fJMCeIGWXa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fJMCeIGWXa",
+								"expanded_url": "http://www.washingtonpost.com",
+								"display_url": "washingtonpost.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27251,
+				"friends_count": 129,
+				"listed_count": 1081,
+				"created_at": "Tue Apr 21 20:08:38 +0000 2009",
+				"favourites_count": 510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16940,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879827314766426112/6Iri486H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879827314766426112/6Iri486H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34022952/1503415451",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1655,
+			"favorite_count": 2344,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1097,
+		"favorite_count": 2611,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "While more than a dozen women have publicly accused Trump of kissing or groping them, Johnson is only accuser to come forward since the president took office and only one to allege unwanted contact during the campaign. She filed suit Monday in federal court in Florida. https://t.co/nBwfdMq8rA"
+	},
+	{
 		"created_at": "Mon Feb 25 07:57:26 +0000 2019",
 		"id": 1099941423950884900,
 		"id_str": "1099941423950884864",
