@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Feb 28 15:17:07 +0000 2019",
+		"id": 1101139237997592600,
+		"id_str": "1101139237997592576",
+		"full_text": "Just one reason @TexasTribune is worthy of your support on #AmplifyATX day? \n\nWe’re powering local newspapers across the state at no cost to them. \n\nToday alone, reporter @emmaplatoff is on 3 front pages — @tylerpaper, @DentonRC, @wacotrib \n\nhttps://t.co/uLT4Q4BEQ9 https://t.co/yaNskrM587",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AmplifyATX",
+					"indices": [
+						59,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TexasTribune",
+					"name": "Texas Tribune",
+					"id": 44513878,
+					"id_str": "44513878",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "emmaplatoff",
+					"name": "Emma Platoff",
+					"id": 272729720,
+					"id_str": "272729720",
+					"indices": [
+						171,
+						183
+					]
+				},
+				{
+					"screen_name": "Tylerpaper",
+					"name": "Tylerpaper",
+					"id": 17889684,
+					"id_str": "17889684",
+					"indices": [
+						206,
+						217
+					]
+				},
+				{
+					"screen_name": "DentonRC",
+					"name": "DentonRC",
+					"id": 20178548,
+					"id_str": "20178548",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"screen_name": "wacotrib",
+					"name": "Waco Tribune-Herald",
+					"id": 15101583,
+					"id_str": "15101583",
+					"indices": [
+						230,
+						239
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uLT4Q4BEQ9",
+					"expanded_url": "https://www.amplifyatx.org/organizations/the-texas-tribune",
+					"display_url": "amplifyatx.org/organizations/…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1101139229852254200,
+					"id_str": "1101139229852254208",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/D0gIS6OXQAAONeY.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0gIS6OXQAAONeY.png",
+					"url": "https://t.co/yaNskrM587",
+					"display_url": "pic.twitter.com/yaNskrM587",
+					"expanded_url": "https://twitter.com/eramshaw/status/1101139237997592576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 794,
+							"h": 515,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 794,
+							"h": 515,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101139229852254200,
+					"id_str": "1101139229852254208",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/D0gIS6OXQAAONeY.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0gIS6OXQAAONeY.png",
+					"url": "https://t.co/yaNskrM587",
+					"display_url": "pic.twitter.com/yaNskrM587",
+					"expanded_url": "https://twitter.com/eramshaw/status/1101139237997592576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 794,
+							"h": 515,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 794,
+							"h": 515,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1101139229579636700,
+					"id_str": "1101139229579636736",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/D0gIS5NXcAAhwls.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0gIS5NXcAAhwls.png",
+					"url": "https://t.co/yaNskrM587",
+					"display_url": "pic.twitter.com/yaNskrM587",
+					"expanded_url": "https://twitter.com/eramshaw/status/1101139237997592576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 779,
+							"h": 228,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 779,
+							"h": 228,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101139230204592100,
+					"id_str": "1101139230204592128",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/D0gIS7iXgAA_jOM.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0gIS7iXgAA_jOM.png",
+					"url": "https://t.co/yaNskrM587",
+					"display_url": "pic.twitter.com/yaNskrM587",
+					"expanded_url": "https://twitter.com/eramshaw/status/1101139237997592576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 405,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 405,
+							"h": 384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 405,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20626103,
+			"id_str": "20626103",
+			"name": "Emily Ramshaw",
+			"screen_name": "eramshaw",
+			"location": "Austin, TX",
+			"description": "Texas Tribune editor & enthusiast. Wife of filmmaker @d_hartstein. I RT because I'm interested; aren't you?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25317,
+			"friends_count": 1522,
+			"listed_count": 865,
+			"created_at": "Wed Feb 11 20:48:32 +0000 2009",
+			"favourites_count": 5282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94D487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011365134067908608/71EikAVH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011365134067908608/71EikAVH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20626103/1484060504",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "9F60CD",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 63,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just one reason @TexasTribune is worthy of your support on #AmplifyATX day? \n\nWe’re powering local newspapers across the state at no cost to them. \n\nToday alone, reporter @emmaplatoff is on 3 front pages — @tylerpaper, @DentonRC, @wacotrib \n\nhttps://t.co/uLT4Q4BEQ9 https://t.co/yaNskrM587"
+	},
+	{
 		"created_at": "Fri Mar 01 01:23:42 +0000 2019",
 		"id": 1101291891499315200,
 		"id_str": "1101291891499315200",
