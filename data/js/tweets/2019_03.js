@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 01 21:43:14 +0000 2019",
+		"id": 1101598796352434200,
+		"id_str": "1101598796352434176",
+		"full_text": "No one should ever have to choose between their family’s well-being and working ethically. https://t.co/R3oCugGNHc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R3oCugGNHc",
+					"expanded_url": "https://medium.com/@monteiro/politics-is-the-design-problem-of-our-times-baab979e1a8d",
+					"display_url": "medium.com/@monteiro/poli…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2426,
+			"id_str": "2426",
+			"name": "Mike Monteiro",
+			"screen_name": "monteiro",
+			"location": "SF",
+			"description": "This is a personal account and does not reflect the opinions of my boss, who is an asshole.",
+			"url": "https://t.co/dqzwn4zDv8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqzwn4zDv8",
+							"expanded_url": "http://mikemonteiro.com",
+							"display_url": "mikemonteiro.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64189,
+			"friends_count": 1100,
+			"listed_count": 3370,
+			"created_at": "Tue Jul 18 21:14:20 +0000 2006",
+			"favourites_count": 9000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 80101,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803718083864989696/HmANkE-1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803718083864989696/HmANkE-1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2426/1480456464",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No one should ever have to choose between their family’s well-being and working ethically. https://t.co/R3oCugGNHc"
+	},
+	{
+		"created_at": "Thu Feb 28 18:01:49 +0000 2019",
+		"id": 1101180686290030600,
+		"id_str": "1101180686290030598",
+		"full_text": "Hands up everyone who now wants Idris Elba to DJ their wedding. Turn Up Charlie, March 15 only on @netflix https://t.co/tZTDxEMnL7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "netflix",
+					"name": "Netflix US",
+					"id": 16573941,
+					"id_str": "16573941",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101180275894222800,
+					"id_str": "1101180275894222849",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101180275894222849/pu/img/U0r99ZHgmfqQvwML.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101180275894222849/pu/img/U0r99ZHgmfqQvwML.jpg",
+					"url": "https://t.co/tZTDxEMnL7",
+					"display_url": "pic.twitter.com/tZTDxEMnL7",
+					"expanded_url": "https://twitter.com/idriselba/status/1101180686290030598/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101180275894222800,
+					"id_str": "1101180275894222849",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101180275894222849/pu/img/U0r99ZHgmfqQvwML.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101180275894222849/pu/img/U0r99ZHgmfqQvwML.jpg",
+					"url": "https://t.co/tZTDxEMnL7",
+					"display_url": "pic.twitter.com/tZTDxEMnL7",
+					"expanded_url": "https://twitter.com/idriselba/status/1101180686290030598/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 127127,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101180275894222849/pu/vid/720x720/5Omb1OXVJ6YJKXeq.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101180275894222849/pu/vid/320x320/DxNQs13_rz_5Rn1O.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1101180275894222849/pu/pl/XYqStd4Eg-t4EeJP.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101180275894222849/pu/vid/480x480/cFElTjxspD2AcWnI.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92717138,
+			"id_str": "92717138",
+			"name": "Idris Elba",
+			"screen_name": "idriselba",
+			"location": "Everywhere You Are!",
+			"description": "MOVIES, MUSIC AND EMMA EFFAS... Instagram: @idriselba",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2647413,
+			"friends_count": 945,
+			"listed_count": 6745,
+			"created_at": "Thu Nov 26 08:58:43 +0000 2009",
+			"favourites_count": 368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4016,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F9F9F9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028552872882069504/DRcoJtOz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028552872882069504/DRcoJtOz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/92717138/1548182138",
+			"profile_link_color": "0C8249",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2136,
+		"favorite_count": 11879,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hands up everyone who now wants Idris Elba to DJ their wedding. Turn Up Charlie, March 15 only on @netflix https://t.co/tZTDxEMnL7"
+	},
+	{
 		"created_at": "Fri Mar 01 19:05:48 +0000 2019",
 		"id": 1101559175270690800,
 		"id_str": "1101559175270690816",
