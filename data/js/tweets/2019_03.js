@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 02 00:35:19 +0000 2019",
+		"id": 1101642103950532600,
+		"id_str": "1101642103950532608",
+		"full_text": "i know i'm not that young but I'm the same age as Jared Kushner &amp; I can't figure out where he's found the time to get into this much trouble already",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64783035,
+			"id_str": "64783035",
+			"name": "jon klassen",
+			"screen_name": "burstofbeaden",
+			"location": "los angeles, ca. 🇨🇦",
+			"description": "book illustration, mostly. I Want My Hat Back, This Is Not My Hat & We Found A Hat. Latest is Square, the sequel to Triangle by Mac Barnett & me",
+			"url": "https://t.co/TJ5jJ9FUqU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TJ5jJ9FUqU",
+							"expanded_url": "https://www.instagram.com/jonklassen/",
+							"display_url": "instagram.com/jonklassen/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52822,
+			"friends_count": 876,
+			"listed_count": 1015,
+			"created_at": "Tue Aug 11 18:02:27 +0000 2009",
+			"favourites_count": 16240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15833,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922545046758371328/j7lLoh6Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922545046758371328/j7lLoh6Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64783035/1456476537",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3FAF0",
+			"profile_text_color": "141414",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 89,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "i know i'm not that young but I'm the same age as Jared Kushner &amp; I can't figure out where he's found the time to get into this much trouble already"
+	},
+	{
+		"created_at": "Fri Mar 01 21:43:14 +0000 2019",
+		"id": 1101598796352434200,
+		"id_str": "1101598796352434176",
+		"full_text": "No one should ever have to choose between their family’s well-being and working ethically. https://t.co/R3oCugGNHc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R3oCugGNHc",
+					"expanded_url": "https://medium.com/@monteiro/politics-is-the-design-problem-of-our-times-baab979e1a8d",
+					"display_url": "medium.com/@monteiro/poli…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2426,
+			"id_str": "2426",
+			"name": "Mike Monteiro",
+			"screen_name": "monteiro",
+			"location": "SF",
+			"description": "This is a personal account and does not reflect the opinions of my boss, who is an asshole.",
+			"url": "https://t.co/dqzwn4zDv8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqzwn4zDv8",
+							"expanded_url": "http://mikemonteiro.com",
+							"display_url": "mikemonteiro.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64189,
+			"friends_count": 1100,
+			"listed_count": 3370,
+			"created_at": "Tue Jul 18 21:14:20 +0000 2006",
+			"favourites_count": 9001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 80102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803718083864989696/HmANkE-1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803718083864989696/HmANkE-1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2426/1480456464",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No one should ever have to choose between their family’s well-being and working ethically. https://t.co/R3oCugGNHc"
+	},
+	{
 		"created_at": "Fri Mar 01 21:43:14 +0000 2019",
 		"id": 1101598796352434200,
 		"id_str": "1101598796352434176",
