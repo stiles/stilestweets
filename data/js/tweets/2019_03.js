@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 02 16:15:28 +0000 2019",
+		"id": 1101853184434323500,
+		"id_str": "1101878701426266113",
+		"full_text": "Cool. Now do median. https://t.co/ZNc2YoF7uv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZNc2YoF7uv",
+					"expanded_url": "https://twitter.com/CNN/status/1101471999908593669",
+					"display_url": "twitter.com/CNN/status/110…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13273832,
+			"id_str": "13273832",
+			"name": "Brent Jones",
+			"screen_name": "brentajones",
+			"location": "STL",
+			"description": "Data/visual journalist @stlpublicradio. PGP:  https://t.co/goUxEmFMwn I know a man who once stole a Ferris wheel. — Dashiell Hammett. He/him.",
+			"url": "http://t.co/np3oC8Hs9g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/np3oC8Hs9g",
+							"expanded_url": "http://news.stlpublicradio.org/people/brent-jones",
+							"display_url": "news.stlpublicradio.org/people/brent-j…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/goUxEmFMwn",
+							"expanded_url": "https://twitter.com/brentajones/status/652515174901940224",
+							"display_url": "twitter.com/brentajones/st…",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1331,
+			"friends_count": 736,
+			"listed_count": 153,
+			"created_at": "Sat Feb 09 04:45:52 +0000 2008",
+			"favourites_count": 2321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2552557937/x6ud8ykj6mjcerx3v0e9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2552557937/x6ud8ykj6mjcerx3v0e9_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13273832/1446044718",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101471999908593700,
+		"quoted_status_id_str": "1101471999908593669",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZNc2YoF7uv",
+			"expanded": "https://twitter.com/CNN/status/1101471999908593669",
+			"display": "twitter.com/CNN/status/110…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 01 13:19:23 +0000 2019",
+			"id": 1101471999908593700,
+			"id_str": "1101471999908593669",
+			"full_text": "The average tax refund is up $40 for 2019 https://t.co/AxUjyx5QGs https://t.co/fp7VgetVcF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AxUjyx5QGs",
+						"expanded_url": "https://cnn.it/2EmTVrF",
+						"display_url": "cnn.it/2EmTVrF",
+						"indices": [
+							42,
+							65
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1101471997681385500,
+						"id_str": "1101471997681385472",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/D0k28i_WwAASWGN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0k28i_WwAASWGN.jpg",
+						"url": "https://t.co/fp7VgetVcF",
+						"display_url": "pic.twitter.com/fp7VgetVcF",
+						"expanded_url": "https://twitter.com/CNN/status/1101471999908593669/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 619,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 619,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1101471997681385500,
+						"id_str": "1101471997681385472",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/D0k28i_WwAASWGN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0k28i_WwAASWGN.jpg",
+						"url": "https://t.co/fp7VgetVcF",
+						"display_url": "pic.twitter.com/fp7VgetVcF",
+						"expanded_url": "https://twitter.com/CNN/status/1101471999908593669/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 619,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 619,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759251,
+				"id_str": "759251",
+				"name": "CNN",
+				"screen_name": "CNN",
+				"location": "",
+				"description": "It’s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK  & Download our app 📲https://t.co/Xgo5kjIt8c",
+				"url": "http://t.co/IaghNW8Xm2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IaghNW8Xm2",
+								"expanded_url": "http://www.cnn.com",
+								"display_url": "cnn.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Xgo5kjIt8c",
+								"expanded_url": "http://cnn.it/apps",
+								"display_url": "cnn.it/apps",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41449760,
+				"friends_count": 1111,
+				"listed_count": 137807,
+				"created_at": "Fri Feb 09 00:35:02 +0000 2007",
+				"favourites_count": 1445,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 229461,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "323232",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1508752874",
+				"profile_link_color": "004287",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 82,
+			"favorite_count": 172,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 225,
+		"favorite_count": 1353,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cool. Now do median. https://t.co/ZNc2YoF7uv"
+	},
+	{
 		"created_at": "Sat Mar 02 04:03:52 +0000 2019",
 		"id": 1101694586580131800,
 		"id_str": "1101694586580131840",
