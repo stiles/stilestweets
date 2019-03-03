@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 18:08:20 +0000 2019",
+		"id": 1102269490295758800,
+		"id_str": "1102269490295758848",
+		"full_text": "Rand Paul to vote to block emergency declaration, forcing Trump veto https://t.co/RqKC2hLBYU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RqKC2hLBYU",
+					"expanded_url": "https://www.axios.com/rand-paul-supports-resolution-block-trumps-emergency-declaration-3ddfdfbf-e11c-4362-b897-3191c8d3e148.html?utm_source=twitter&utm_medium=twsocialshare&utm_campaign=organic",
+					"display_url": "axios.com/rand-paul-supp…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10476,
+			"friends_count": 1450,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13119,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551636386",
+			"profile_link_color": "A07EE2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rand Paul to vote to block emergency declaration, forcing Trump veto https://t.co/RqKC2hLBYU"
+	},
+	{
+		"created_at": "Sun Mar 03 17:32:29 +0000 2019",
+		"id": 1102260467051814900,
+		"id_str": "1102260467051814912",
+		"full_text": "Me, reading this story (https://t.co/3C3ePzKr6O), to daughter, 6: \"Hey, check out this bird!\"\n\nDaughter: \"That's an eagle. It's not a Bird, like the scooter. \" \n\nYou're changing the vocabulary, @BirdRide! https://t.co/aykwkil93r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BirdRide",
+					"name": "Bird",
+					"id": 907400253455835100,
+					"id_str": "907400253455835136",
+					"indices": [
+						194,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3C3ePzKr6O",
+					"expanded_url": "https://www.nytimes.com/2019/02/28/opinion/the-eagles-of-reelfoot-lake.html",
+					"display_url": "nytimes.com/2019/02/28/opi…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102260103229501400,
+					"id_str": "1102260103229501440",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D0wDuU8UcAAKe8p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0wDuU8UcAAKe8p.jpg",
+					"url": "https://t.co/aykwkil93r",
+					"display_url": "pic.twitter.com/aykwkil93r",
+					"expanded_url": "https://twitter.com/stiles/status/1102260467051814912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 966,
+							"h": 998,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 998,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102260103229501400,
+					"id_str": "1102260103229501440",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D0wDuU8UcAAKe8p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0wDuU8UcAAKe8p.jpg",
+					"url": "https://t.co/aykwkil93r",
+					"display_url": "pic.twitter.com/aykwkil93r",
+					"expanded_url": "https://twitter.com/stiles/status/1102260467051814912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 966,
+							"h": 998,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 998,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1102260252651663400,
+					"id_str": "1102260252651663361",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D0wD3BlVsAEcQuf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0wD3BlVsAEcQuf.jpg",
+					"url": "https://t.co/aykwkil93r",
+					"display_url": "pic.twitter.com/aykwkil93r",
+					"expanded_url": "https://twitter.com/stiles/status/1102260467051814912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1019,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 577,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1604,
+							"h": 1362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10476,
+			"friends_count": 1450,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13119,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551636386",
+			"profile_link_color": "A07EE2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me, reading this story (https://t.co/3C3ePzKr6O), to daughter, 6: \"Hey, check out this bird!\"\n\nDaughter: \"That's an eagle. It's not a Bird, like the scooter. \" \n\nYou're changing the vocabulary, @BirdRide! https://t.co/aykwkil93r"
+	},
+	{
 		"created_at": "Sun Mar 03 17:17:26 +0000 2019",
 		"id": 1102256680685854700,
 		"id_str": "1102256680685854720",
