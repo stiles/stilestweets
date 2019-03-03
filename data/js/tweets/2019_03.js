@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 07:18:38 +0000 2019",
+		"id": 1101783949678968800,
+		"id_str": "1102105986603528193",
+		"full_text": "Kim now available in widescreen, via @reuters https://t.co/yykhXYFSGA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reuters",
+					"name": "Reuters Top News",
+					"id": 1652541,
+					"id_str": "1652541",
+					"indices": [
+						37,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101783924412502000,
+					"id_str": "1101783924412502016",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D0pSpEnX0AA8Rdw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0pSpEnX0AA8Rdw.jpg",
+					"url": "https://t.co/yykhXYFSGA",
+					"display_url": "pic.twitter.com/yykhXYFSGA",
+					"expanded_url": "https://twitter.com/John_Hudson/status/1101783949678968833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 685,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101783924412502000,
+					"id_str": "1101783924412502016",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D0pSpEnX0AA8Rdw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0pSpEnX0AA8Rdw.jpg",
+					"url": "https://t.co/yykhXYFSGA",
+					"display_url": "pic.twitter.com/yykhXYFSGA",
+					"expanded_url": "https://twitter.com/John_Hudson/status/1101783949678968833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 685,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26668729,
+			"id_str": "26668729",
+			"name": "John Hudson",
+			"screen_name": "John_Hudson",
+			"location": "Washington, D.C.",
+			"description": "I cover diplomacy & national security for The @WashingtonPost | Tips: John.Hudson@WashPost.com or 202-334-9172 | Newsletter: https://t.co/FveMTxhPdo",
+			"url": "https://t.co/Kegxac7xCs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kegxac7xCs",
+							"expanded_url": "https://www.facebook.com/John.P.Hudson2",
+							"display_url": "facebook.com/John.P.Hudson2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FveMTxhPdo",
+							"expanded_url": "https://tinyletter.com/John_Hudson",
+							"display_url": "tinyletter.com/John_Hudson",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34844,
+			"friends_count": 2798,
+			"listed_count": 1052,
+			"created_at": "Thu Mar 26 02:39:24 +0000 2009",
+			"favourites_count": 6516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18377,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/831307428364972036/NMwnVD8I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/831307428364972036/NMwnVD8I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26668729/1486572198",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "017f6751306425f0",
+			"url": "https://api.twitter.com/1.1/geo/id/017f6751306425f0.json",
+			"place_type": "admin",
+			"name": "Islands District",
+			"full_name": "Islands District, Hong Kong",
+			"country_code": "HK",
+			"country": "Hong Kong",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							113.81813,
+							22.1465116
+						],
+						[
+							114.3103439,
+							22.1465116
+						],
+						[
+							114.3103439,
+							22.346553
+						],
+						[
+							113.81813,
+							22.346553
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kim now available in widescreen, via @reuters https://t.co/yykhXYFSGA"
+	},
+	{
 		"created_at": "Sun Mar 03 06:19:56 +0000 2019",
 		"id": 1102091214952661000,
 		"id_str": "1102091214952660993",
