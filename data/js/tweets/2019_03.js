@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 06:19:56 +0000 2019",
+		"id": 1102091214952661000,
+		"id_str": "1102091214952660993",
+		"full_text": "\"For a president who often complains that his predecessors only let the North Korea problem fester, the 8,000-mile trek from Washington to Hanoi was a crash course in why those past presidents failed.\" https://t.co/z5XH17YHJO https://t.co/Ugh7aCnXPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z5XH17YHJO",
+					"expanded_url": "https://nyti.ms/2Uit4nd",
+					"display_url": "nyti.ms/2Uit4nd",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102091050569461800,
+					"id_str": "1102091050569461760",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/D0tp-KtUcAAbw_V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0tp-KtUcAAbw_V.jpg",
+					"url": "https://t.co/Ugh7aCnXPD",
+					"display_url": "pic.twitter.com/Ugh7aCnXPD",
+					"expanded_url": "https://twitter.com/stiles/status/1102091214952660993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 763,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1303,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102091050569461800,
+					"id_str": "1102091050569461760",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/D0tp-KtUcAAbw_V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0tp-KtUcAAbw_V.jpg",
+					"url": "https://t.co/Ugh7aCnXPD",
+					"display_url": "pic.twitter.com/Ugh7aCnXPD",
+					"expanded_url": "https://twitter.com/stiles/status/1102091214952660993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 763,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1303,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10474,
+			"friends_count": 1448,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13111,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551591681",
+			"profile_link_color": "C4070F",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"For a president who often complains that his predecessors only let the North Korea problem fester, the 8,000-mile trek from Washington to Hanoi was a crash course in why those past presidents failed.\" https://t.co/z5XH17YHJO https://t.co/Ugh7aCnXPD"
+	},
+	{
 		"created_at": "Sun Mar 03 05:01:28 +0000 2019",
 		"id": 1102071470052634600,
 		"id_str": "1102071470052634624",
