@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 02:22:47 +0000 2019",
+		"id": 1102031536705036300,
+		"id_str": "1102031536705036289",
+		"full_text": "This improvement in @realDonaldTrump's standing in South Korea is surprising. Until recently, many people there viewed him anger and befuddlement, especially re: gripes over military costs and trade deficits (or gaffes likes these I covered in 2017): https://t.co/3kOXXxWgij https://t.co/rMLKybRFCV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3kOXXxWgij",
+					"expanded_url": "https://www.latimes.com/world/asia/la-fg-southkorea-20170421-story.html",
+					"display_url": "latimes.com/world/asia/la-…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102030265168216000,
+					"id_str": "1102030265168216064",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D0syr_cUwAAerti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0syr_cUwAAerti.jpg",
+					"url": "https://t.co/rMLKybRFCV",
+					"display_url": "pic.twitter.com/rMLKybRFCV",
+					"expanded_url": "https://twitter.com/stiles/status/1102031536705036289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 449,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102030265168216000,
+					"id_str": "1102030265168216064",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D0syr_cUwAAerti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0syr_cUwAAerti.jpg",
+					"url": "https://t.co/rMLKybRFCV",
+					"display_url": "pic.twitter.com/rMLKybRFCV",
+					"expanded_url": "https://twitter.com/stiles/status/1102031536705036289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 449,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1102028358697726000,
+		"in_reply_to_status_id_str": "1102028358697725954",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10474,
+			"friends_count": 1447,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13108,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551479951",
+			"profile_link_color": "7C9A95",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This improvement in @realDonaldTrump's standing in South Korea is surprising. Until recently, many people there viewed him anger and befuddlement, especially re: gripes over military costs and trade deficits (or gaffes likes these I covered in 2017): https://t.co/3kOXXxWgij https://t.co/rMLKybRFCV"
+	},
+	{
 		"created_at": "Sun Mar 03 02:10:10 +0000 2019",
 		"id": 1102028358697726000,
 		"id_str": "1102028358697725954",
