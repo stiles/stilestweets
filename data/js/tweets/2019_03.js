@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 02:10:10 +0000 2019",
+		"id": 1102028358697726000,
+		"id_str": "1102028358697725954",
+		"full_text": "But global concerns about North Korea’s nuclear program remained high before @realDonaldTrump's latest summit with Kim Jong Un, via @pewresearch: https://t.co/CE0AfxbN55 https://t.co/v6AeXVgGyt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						77,
+						93
+					]
+				},
+				{
+					"screen_name": "pewresearch",
+					"name": "Pew Research Center",
+					"id": 22642788,
+					"id_str": "22642788",
+					"indices": [
+						132,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CE0AfxbN55",
+					"expanded_url": "http://www.pewresearch.org/fact-tank/2019/02/25/global-concerns-persist-about-north-koreas-nuclear-program-before-second-trump-kim-summit",
+					"display_url": "pewresearch.org/fact-tank/2019…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102027962700845000,
+					"id_str": "1102027962700845056",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D0swl-FU0AAjCp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0swl-FU0AAjCp8.jpg",
+					"url": "https://t.co/v6AeXVgGyt",
+					"display_url": "pic.twitter.com/v6AeXVgGyt",
+					"expanded_url": "https://twitter.com/stiles/status/1102028358697725954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 452,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 1646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 256,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102027962700845000,
+					"id_str": "1102027962700845056",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D0swl-FU0AAjCp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0swl-FU0AAjCp8.jpg",
+					"url": "https://t.co/v6AeXVgGyt",
+					"display_url": "pic.twitter.com/v6AeXVgGyt",
+					"expanded_url": "https://twitter.com/stiles/status/1102028358697725954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 452,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 1646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 256,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1102028136848351200,
+					"id_str": "1102028136848351234",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D0swwG1U4AIdQYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0swwG1U4AIdQYe.jpg",
+					"url": "https://t.co/v6AeXVgGyt",
+					"display_url": "pic.twitter.com/v6AeXVgGyt",
+					"expanded_url": "https://twitter.com/stiles/status/1102028358697725954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 1602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1102027609997602800,
+		"in_reply_to_status_id_str": "1102027609997602817",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10474,
+			"friends_count": 1447,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551479951",
+			"profile_link_color": "7C9A95",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "But global concerns about North Korea’s nuclear program remained high before @realDonaldTrump's latest summit with Kim Jong Un, via @pewresearch: https://t.co/CE0AfxbN55 https://t.co/v6AeXVgGyt"
+	},
+	{
+		"created_at": "Sun Mar 03 02:07:11 +0000 2019",
+		"id": 1102027609997602800,
+		"id_str": "1102027609997602817",
+		"full_text": "The North Korea summit reminds me of a @pewresearch survey on global confidence in our president. Turns out @realDonaldTrump's diplomacy has boosted South Koreans' trust in him on the world stage. (It's still half as high as @BarackObama, though). https://t.co/hFCg67xh3x https://t.co/n6q4b6LFzn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pewresearch",
+					"name": "Pew Research Center",
+					"id": 22642788,
+					"id_str": "22642788",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"screen_name": "BarackObama",
+					"name": "Barack Obama",
+					"id": 813286,
+					"id_str": "813286",
+					"indices": [
+						225,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hFCg67xh3x",
+					"expanded_url": "http://www.pewresearch.org/fact-tank/2019/02/25/global-concerns-persist-about-north-koreas-nuclear-program-before-second-trump-kim-summit/ft_19-02-25_northkorea_in2018southkorean/",
+					"display_url": "pewresearch.org/fact-tank/2019…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102025415554609200,
+					"id_str": "1102025415554609152",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D0suRtOVsAAoBzM.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0suRtOVsAAoBzM.png",
+					"url": "https://t.co/n6q4b6LFzn",
+					"display_url": "pic.twitter.com/n6q4b6LFzn",
+					"expanded_url": "https://twitter.com/stiles/status/1102027609997602817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102025415554609200,
+					"id_str": "1102025415554609152",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D0suRtOVsAAoBzM.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0suRtOVsAAoBzM.png",
+					"url": "https://t.co/n6q4b6LFzn",
+					"display_url": "pic.twitter.com/n6q4b6LFzn",
+					"expanded_url": "https://twitter.com/stiles/status/1102027609997602817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10474,
+			"friends_count": 1447,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551479951",
+			"profile_link_color": "7C9A95",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The North Korea summit reminds me of a @pewresearch survey on global confidence in our president. Turns out @realDonaldTrump's diplomacy has boosted South Koreans' trust in him on the world stage. (It's still half as high as @BarackObama, though). https://t.co/hFCg67xh3x https://t.co/n6q4b6LFzn"
+	},
+	{
 		"created_at": "Sat Mar 02 16:15:28 +0000 2019",
 		"id": 1101853184434323500,
 		"id_str": "1101878701426266113",
