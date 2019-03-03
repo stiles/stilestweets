@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 17:17:26 +0000 2019",
+		"id": 1102256680685854700,
+		"id_str": "1102256680685854720",
+		"full_text": "\"A physical globe is our best way to understand the actual shape of the Earth.\"\n\n-- @briromer https://t.co/khUDbTAjlh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "briromer",
+					"name": "Brian Romer",
+					"id": 130917833,
+					"id_str": "130917833",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102256649153142800,
+					"id_str": "1102256649153142784",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D0wAlRgV4AAnkLy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0wAlRgV4AAnkLy.jpg",
+					"url": "https://t.co/khUDbTAjlh",
+					"display_url": "pic.twitter.com/khUDbTAjlh",
+					"expanded_url": "https://twitter.com/stiles/status/1102256680685854720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 641,
+							"h": 689,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 641,
+							"h": 689,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102256649153142800,
+					"id_str": "1102256649153142784",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D0wAlRgV4AAnkLy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0wAlRgV4AAnkLy.jpg",
+					"url": "https://t.co/khUDbTAjlh",
+					"display_url": "pic.twitter.com/khUDbTAjlh",
+					"expanded_url": "https://twitter.com/stiles/status/1102256680685854720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 641,
+							"h": 689,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 641,
+							"h": 689,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10474,
+			"friends_count": 1450,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13116,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551591681",
+			"profile_link_color": "C4070F",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"A physical globe is our best way to understand the actual shape of the Earth.\"\n\n-- @briromer https://t.co/khUDbTAjlh"
+	},
+	{
+		"created_at": "Sun Mar 03 17:14:23 +0000 2019",
+		"id": 1102255658735411200,
+		"id_str": "1102255915032502272",
+		"full_text": "Hard to believe, but California has an inferiority complex when it comes to politics. @melmason puts the state on the couch. https://t.co/ljZPFdW0OO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melmason",
+					"name": "Melanie Mason",
+					"id": 27993391,
+					"id_str": "27993391",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ljZPFdW0OO",
+					"expanded_url": "https://www.latimes.com/politics/la-na-pol-california-primary-inferiority-complex-20190303-story.html",
+					"display_url": "latimes.com/politics/la-na…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24484939,
+			"id_str": "24484939",
+			"name": "Janet Hook",
+			"screen_name": "hookjan",
+			"location": "Washington D.C.",
+			"description": "National political reporter for the Los Angeles Times. Wall Street Journal alum.  Mom. Arsenal fan. Lover of Maine.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8313,
+			"friends_count": 1040,
+			"listed_count": 332,
+			"created_at": "Sun Mar 15 04:13:26 +0000 2009",
+			"favourites_count": 121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4490,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000403351560/ea51879b0194327923018d3e98138156_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000403351560/ea51879b0194327923018d3e98138156_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24484939/1546383030",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hard to believe, but California has an inferiority complex when it comes to politics. @melmason puts the state on the couch. https://t.co/ljZPFdW0OO"
+	},
+	{
 		"created_at": "Sun Mar 03 16:03:00 +0000 2019",
 		"id": 1102237949091930100,
 		"id_str": "1102237949091930113",
