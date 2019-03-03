@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 05:01:28 +0000 2019",
+		"id": 1102071470052634600,
+		"id_str": "1102071470052634624",
+		"full_text": "Prepping for my #NICAR19 demo, \"data-driven disaster coverage (https://t.co/vDPNqeITVf), reminded me of this old @nprviz tornado project:  https://t.co/b1oJaVS7Un Recreating it step-by-step locally now for the demo. Look familiar, @onyxfish, @alykat @brianboyer? https://t.co/IodWgvaXqX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NICAR19",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nprviz",
+					"name": "NPR visuals team",
+					"id": 582282558,
+					"id_str": "582282558",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"screen_name": "onyxfish",
+					"name": "Christopher Groskopf",
+					"id": 32633517,
+					"id_str": "32633517",
+					"indices": [
+						231,
+						240
+					]
+				},
+				{
+					"screen_name": "alykat",
+					"name": "Alyson Hurt",
+					"id": 6627892,
+					"id_str": "6627892",
+					"indices": [
+						242,
+						249
+					]
+				},
+				{
+					"screen_name": "brianboyer",
+					"name": "Brian Boyer",
+					"id": 14570738,
+					"id_str": "14570738",
+					"indices": [
+						250,
+						261
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vDPNqeITVf",
+					"expanded_url": "http://bit.ly/2C2GRY3",
+					"display_url": "bit.ly/2C2GRY3",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/b1oJaVS7Un",
+					"expanded_url": "https://n.pr/2C2GSv5",
+					"display_url": "n.pr/2C2GSv5",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102070814348734500,
+					"id_str": "1102070814348734464",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/D0tXkQ6U8AAMzfB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0tXkQ6U8AAMzfB.jpg",
+					"url": "https://t.co/IodWgvaXqX",
+					"display_url": "pic.twitter.com/IodWgvaXqX",
+					"expanded_url": "https://twitter.com/stiles/status/1102071470052634624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1408,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 948,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102070814348734500,
+					"id_str": "1102070814348734464",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/D0tXkQ6U8AAMzfB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0tXkQ6U8AAMzfB.jpg",
+					"url": "https://t.co/IodWgvaXqX",
+					"display_url": "pic.twitter.com/IodWgvaXqX",
+					"expanded_url": "https://twitter.com/stiles/status/1102071470052634624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1408,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 948,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10474,
+			"friends_count": 1448,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13110,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551479951",
+			"profile_link_color": "7C9A95",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Prepping for my #NICAR19 demo, \"data-driven disaster coverage (https://t.co/vDPNqeITVf), reminded me of this old @nprviz tornado project:  https://t.co/b1oJaVS7Un Recreating it step-by-step locally now for the demo. Look familiar, @onyxfish, @alykat @brianboyer? https://t.co/IodWgvaXqX"
+	},
+	{
 		"created_at": "Sun Mar 03 02:22:47 +0000 2019",
 		"id": 1102031536705036300,
 		"id_str": "1102031536705036289",
