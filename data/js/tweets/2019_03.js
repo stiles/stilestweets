@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 21:19:59 +0000 2019",
+		"id": 1102317722489172000,
+		"id_str": "1102317722489171969",
+		"full_text": "@LACoSheriff @mayalau You can read an annotated copy of the county's letter overruling @LACoSheriff's decision here, via @documentcloud: https://t.co/3BY5ty8Ehq cc @mayalau https://t.co/Z6VzThICXo",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACoSheriff",
+					"name": "Alex Villanueva",
+					"id": 1067499378175238100,
+					"id_str": "1067499378175238144",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mayalau",
+					"name": "Maya Lau 🦅",
+					"id": 74304212,
+					"id_str": "74304212",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "LACoSheriff",
+					"name": "Alex Villanueva",
+					"id": 1067499378175238100,
+					"id_str": "1067499378175238144",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"screen_name": "documentcloud",
+					"name": "DocumentCloud",
+					"id": 44744034,
+					"id_str": "44744034",
+					"indices": [
+						121,
+						135
+					]
+				},
+				{
+					"screen_name": "mayalau",
+					"name": "Maya Lau 🦅",
+					"id": 74304212,
+					"id_str": "74304212",
+					"indices": [
+						164,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3BY5ty8Ehq",
+					"expanded_url": "http://bit.ly/2C1JDwT",
+					"display_url": "bit.ly/2C1JDwT",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102317211505422300,
+					"id_str": "1102317211505422336",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D0w3qd2UcAAJ-ko.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0w3qd2UcAAJ-ko.png",
+					"url": "https://t.co/Z6VzThICXo",
+					"display_url": "pic.twitter.com/Z6VzThICXo",
+					"expanded_url": "https://twitter.com/stiles/status/1102317722489171969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102317211505422300,
+					"id_str": "1102317211505422336",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D0w3qd2UcAAJ-ko.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0w3qd2UcAAJ-ko.png",
+					"url": "https://t.co/Z6VzThICXo",
+					"display_url": "pic.twitter.com/Z6VzThICXo",
+					"expanded_url": "https://twitter.com/stiles/status/1102317722489171969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1102317070543347700,
+		"in_reply_to_status_id_str": "1102317070543347712",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10479,
+			"friends_count": 1450,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551636386",
+			"profile_link_color": "A07EE2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LACoSheriff @mayalau You can read an annotated copy of the county's letter overruling @LACoSheriff's decision here, via @documentcloud: https://t.co/3BY5ty8Ehq cc @mayalau https://t.co/Z6VzThICXo"
+	},
+	{
 		"created_at": "Sun Mar 03 18:08:20 +0000 2019",
 		"id": 1102269490295758800,
 		"id_str": "1102269490295758848",
