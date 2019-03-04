@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 07:40:59 +0000 2019",
+		"id": 1102132016047374300,
+		"id_str": "1102474001769590785",
+		"full_text": "NEW with @muradahmed:\n\nA deep-dive into Man United, where business is booming, but on the pitch the club is still a shadow of its former self https://t.co/BoSstpk2yU\n\nDespite the uptick under Solskjaer, United are still far less dominant than they were a decade ago https://t.co/0gW2AgbMoP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "muradahmed",
+					"name": "Murad Ahmed",
+					"id": 14123689,
+					"id_str": "14123689",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BoSstpk2yU",
+					"expanded_url": "https://www.ft.com/content/842e0290-39f5-11e9-b856-5404d3811663",
+					"display_url": "ft.com/content/842e02…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102132011261669400,
+					"id_str": "1102132011261669376",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/D0uPOZLWsAAwJFr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0uPOZLWsAAwJFr.jpg",
+					"url": "https://t.co/0gW2AgbMoP",
+					"display_url": "pic.twitter.com/0gW2AgbMoP",
+					"expanded_url": "https://twitter.com/jburnmurdoch/status/1102132016047374336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 712,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1215,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102132011261669400,
+					"id_str": "1102132011261669376",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/D0uPOZLWsAAwJFr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0uPOZLWsAAwJFr.jpg",
+					"url": "https://t.co/0gW2AgbMoP",
+					"display_url": "pic.twitter.com/0gW2AgbMoP",
+					"expanded_url": "https://twitter.com/jburnmurdoch/status/1102132016047374336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 712,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1215,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43878033,
+			"id_str": "43878033",
+			"name": "John Burn-Murdoch",
+			"screen_name": "jburnmurdoch",
+			"location": "Doncaster ➡️ London",
+			"description": "Stories, stats & scatterplots for @FinancialTimes | Currently working on bias in AI | john.burn-murdoch@ft.com | #dataviz",
+			"url": "https://t.co/VZF28wenJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VZF28wenJw",
+							"expanded_url": "https://www.ft.com/jbm",
+							"display_url": "ft.com/jbm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22324,
+			"friends_count": 3417,
+			"listed_count": 1262,
+			"created_at": "Mon Jun 01 12:48:11 +0000 2009",
+			"favourites_count": 23305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 42052,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922511756110557184/IDxUQ_rr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922511756110557184/IDxUQ_rr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43878033/1480034618",
+			"profile_link_color": "B1493F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW with @muradahmed:\n\nA deep-dive into Man United, where business is booming, but on the pitch the club is still a shadow of its former self https://t.co/BoSstpk2yU\n\nDespite the uptick under Solskjaer, United are still far less dominant than they were a decade ago https://t.co/0gW2AgbMoP"
+	},
+	{
 		"created_at": "Sun Mar 03 21:52:58 +0000 2019",
 		"id": 1102326022391783400,
 		"id_str": "1102326022391783424",
