@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 18:42:20 +0000 2019",
+		"id": 1102640433992101900,
+		"id_str": "1102640433992101888",
+		"full_text": "Source? https://t.co/jTw0Aj26d1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jTw0Aj26d1",
+					"expanded_url": "https://twitter.com/StoltzeFrankly/status/1102638357081780224",
+					"display_url": "twitter.com/StoltzeFrankly…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10486,
+			"friends_count": 1451,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551636386",
+			"profile_link_color": "A07EE2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102638357081780200,
+		"quoted_status_id_str": "1102638357081780224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jTw0Aj26d1",
+			"expanded": "https://twitter.com/StoltzeFrankly/status/1102638357081780224",
+			"display": "twitter.com/StoltzeFrankly…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 04 18:34:05 +0000 2019",
+			"id": 1102638357081780200,
+			"id_str": "1102638357081780224",
+			"full_text": "1/2 BREAKING: #LASD Sheriff's Deputy Carl Mandoyan defies Board of Supervisors, refuses to give up badge &amp; gun, according to his atty Greg Smith. Auditor-Controller, backed by Supes, has stopped paying Mandoyan - sez @LACoSheriff Villanueva had no right to rehire him @KPCC @laist",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LASD",
+						"indices": [
+							14,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LACoSheriff",
+						"name": "Alex Villanueva",
+						"id": 1067499378175238100,
+						"id_str": "1067499378175238144",
+						"indices": [
+							221,
+							233
+						]
+					},
+					{
+						"screen_name": "KPCC",
+						"name": "89.3 KPCC",
+						"id": 12804312,
+						"id_str": "12804312",
+						"indices": [
+							272,
+							277
+						]
+					},
+					{
+						"screen_name": "LAist",
+						"name": "LAist",
+						"id": 6487292,
+						"id_str": "6487292",
+						"indices": [
+							278,
+							284
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30130169,
+				"id_str": "30130169",
+				"name": "Frank Stoltze",
+				"screen_name": "StoltzeFrankly",
+				"location": "Los Angeles, CA",
+				"description": "Correspondent covering the Los Angeles area, with a focus on politics and criminal justice for KPCC Public Radio, et al.",
+				"url": "https://t.co/62njWbk6LC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/62njWbk6LC",
+								"expanded_url": "http://scpr.org",
+								"display_url": "scpr.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4085,
+				"friends_count": 1595,
+				"listed_count": 204,
+				"created_at": "Fri Apr 10 02:01:39 +0000 2009",
+				"favourites_count": 11,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3647,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1450065860/image_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450065860/image_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Source? https://t.co/jTw0Aj26d1"
+	},
+	{
 		"created_at": "Mon Mar 04 14:42:49 +0000 2019",
 		"id": 1102580157980659700,
 		"id_str": "1102580157980659712",
