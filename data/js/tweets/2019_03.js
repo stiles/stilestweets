@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 21:40:45 +0000 2019",
+		"id": 1102685334649790500,
+		"id_str": "1102685334649790464",
+		"full_text": "Oh my. \n\nI saw a still image over the weekend, but this is much more weird. https://t.co/v5VmsLrsUa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v5VmsLrsUa",
+					"expanded_url": "https://twitter.com/CillizzaCNN/status/1102685080558989312",
+					"display_url": "twitter.com/CillizzaCNN/st…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "🌴 Matt Stiles 🌴",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10485,
+			"friends_count": 1452,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551636386",
+			"profile_link_color": "A07EE2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102685080558989300,
+		"quoted_status_id_str": "1102685080558989312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v5VmsLrsUa",
+			"expanded": "https://twitter.com/CillizzaCNN/status/1102685080558989312",
+			"display": "twitter.com/CillizzaCNN/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 04 21:39:44 +0000 2019",
+			"id": 1102685080558989300,
+			"id_str": "1102685080558989312",
+			"full_text": "[saves forever]\n\nThanks @brennawilliams -- as always https://t.co/lDRCrqijWM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brennawilliams",
+						"name": "Brenna Williams",
+						"id": 38855868,
+						"id_str": "38855868",
+						"indices": [
+							24,
+							39
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1102684993338388500,
+						"id_str": "1102684993338388486",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D02GKL8WsAYxYsT.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D02GKL8WsAYxYsT.jpg",
+						"url": "https://t.co/lDRCrqijWM",
+						"display_url": "pic.twitter.com/lDRCrqijWM",
+						"expanded_url": "https://twitter.com/CillizzaCNN/status/1102685080558989312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 418,
+								"h": 232,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 418,
+								"h": 232,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 418,
+								"h": 232,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1102684993338388500,
+						"id_str": "1102684993338388486",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D02GKL8WsAYxYsT.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D02GKL8WsAYxYsT.jpg",
+						"url": "https://t.co/lDRCrqijWM",
+						"display_url": "pic.twitter.com/lDRCrqijWM",
+						"expanded_url": "https://twitter.com/CillizzaCNN/status/1102685080558989312/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 418,
+								"h": 232,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 418,
+								"h": 232,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 418,
+								"h": 232,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								209,
+								116
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D02GKL8WsAYxYsT.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14412533,
+				"id_str": "14412533",
+				"name": "Chris Cillizza",
+				"screen_name": "CillizzaCNN",
+				"location": "Washington, D.C.",
+				"description": "\"One of the dumber and least respected of the political pundits.\" -- Donald Trump; \"A f*!-ing mouth breather.\" -- Roseanne Barr",
+				"url": "https://t.co/VM2JQsQH6X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VM2JQsQH6X",
+								"expanded_url": "http://CNN.com/ThePoint",
+								"display_url": "CNN.com/ThePoint",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 666070,
+				"friends_count": 3321,
+				"listed_count": 9916,
+				"created_at": "Wed Apr 16 20:34:24 +0000 2008",
+				"favourites_count": 197,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 128815,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918126286610018305/0LVMCwOV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918126286610018305/0LVMCwOV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14412533/1498647512",
+				"profile_link_color": "A81B1B",
+				"profile_sidebar_border_color": "5E8B9C",
+				"profile_sidebar_fill_color": "8EA5BF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh my. \n\nI saw a still image over the weekend, but this is much more weird. https://t.co/v5VmsLrsUa"
+	},
+	{
 		"created_at": "Mon Mar 04 21:12:48 +0000 2019",
 		"id": 1102678300088926200,
 		"id_str": "1102678300088926209",
