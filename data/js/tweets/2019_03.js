@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 21:12:48 +0000 2019",
+		"id": 1102678300088926200,
+		"id_str": "1102678300088926209",
+		"full_text": "Cue the Tweets! https://t.co/mPBLm9tdHT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mPBLm9tdHT",
+					"expanded_url": "https://twitter.com/TheLeadCNN/status/1102677624004972546",
+					"display_url": "twitter.com/TheLeadCNN/sta…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "🌴 Matt Stiles 🌴",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10486,
+			"friends_count": 1452,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13128,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551636386",
+			"profile_link_color": "A07EE2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102677624004972500,
+		"quoted_status_id_str": "1102677624004972546",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mPBLm9tdHT",
+			"expanded": "https://twitter.com/TheLeadCNN/status/1102677624004972546",
+			"display": "twitter.com/TheLeadCNN/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 04 21:10:06 +0000 2019",
+			"id": 1102677624004972500,
+			"id_str": "1102677624004972546",
+			"full_text": "The House Judiciary Committee announced a sprawling investigation into Trump's inner circle, sending letters to 81 people &amp; entities including the White House, DOJ, senior campaign officials, Trump Organization officials &amp; Trump's sons, @mkraju reports. https://t.co/tu8meEZ3Ut https://t.co/KPu94ZRJq8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				285
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mkraju",
+						"name": "Manu Raju",
+						"id": 39155029,
+						"id_str": "39155029",
+						"indices": [
+							245,
+							252
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tu8meEZ3Ut",
+						"expanded_url": "https://cnn.it/2EMZ51y",
+						"display_url": "cnn.it/2EMZ51y",
+						"indices": [
+							262,
+							285
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1102676958444482600,
+						"id_str": "1102676958444482561",
+						"indices": [
+							286,
+							309
+						],
+						"media_url": "http://pbs.twimg.com/media/D01_PTIXQAITAQD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D01_PTIXQAITAQD.jpg",
+						"url": "https://t.co/KPu94ZRJq8",
+						"display_url": "pic.twitter.com/KPu94ZRJq8",
+						"expanded_url": "https://twitter.com/TheLeadCNN/status/1102677624004972546/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1102676958444482600,
+						"id_str": "1102676958444482561",
+						"indices": [
+							286,
+							309
+						],
+						"media_url": "http://pbs.twimg.com/media/D01_PTIXQAITAQD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D01_PTIXQAITAQD.jpg",
+						"url": "https://t.co/KPu94ZRJq8",
+						"display_url": "pic.twitter.com/KPu94ZRJq8",
+						"expanded_url": "https://twitter.com/TheLeadCNN/status/1102677624004972546/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 179700,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1102676958444482561/vid/320x180/GVY-kSn3LH6d5Gec.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1102676958444482561/pl/Q8Km274w8V5BjB5X.m3u8?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1102676958444482561/vid/1280x720/Wu4idypoikaiJ0UJ.mp4?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1102676958444482561/vid/640x360/qsE4fPKARposBKBk.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1176994477,
+				"id_str": "1176994477",
+				"name": "The Lead CNN",
+				"screen_name": "TheLeadCNN",
+				"location": "",
+				"description": "The Lead with @jaketapper airs at 4pm ET on CNN.",
+				"url": "http://t.co/Ioy35ZzEhw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Ioy35ZzEhw",
+								"expanded_url": "http://cnn.com/thelead",
+								"display_url": "cnn.com/thelead",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 149165,
+				"friends_count": 383,
+				"listed_count": 1789,
+				"created_at": "Wed Feb 13 22:17:40 +0000 2013",
+				"favourites_count": 209,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 26691,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3372288429/4663473f84a22d828bfda4c279b640e6_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3372288429/4663473f84a22d828bfda4c279b640e6_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1176994477/1478896060",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 118,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cue the Tweets! https://t.co/mPBLm9tdHT"
+	},
+	{
+		"created_at": "Mon Mar 04 21:11:06 +0000 2019",
+		"id": 1102677872504791000,
+		"id_str": "1102677872504791041",
+		"full_text": "RIP, Luke \"Dylan McKay\" Perry. \n\nhttps://t.co/VhnuKPoslV https://t.co/yBFylhydc4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VhnuKPoslV",
+					"expanded_url": "https://lat.ms/2XCeNE3",
+					"display_url": "lat.ms/2XCeNE3",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102668882907521000,
+					"id_str": "1102668882907521026",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D013gb6UYAIoZeS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D013gb6UYAIoZeS.jpg",
+					"url": "https://t.co/yBFylhydc4",
+					"display_url": "pic.twitter.com/yBFylhydc4",
+					"expanded_url": "https://twitter.com/stiles/status/1102677872504791041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102668882907521000,
+					"id_str": "1102668882907521026",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D013gb6UYAIoZeS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D013gb6UYAIoZeS.jpg",
+					"url": "https://t.co/yBFylhydc4",
+					"display_url": "pic.twitter.com/yBFylhydc4",
+					"expanded_url": "https://twitter.com/stiles/status/1102677872504791041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "🌴 Matt Stiles 🌴",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10486,
+			"friends_count": 1452,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13128,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551636386",
+			"profile_link_color": "A07EE2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RIP, Luke \"Dylan McKay\" Perry. \n\nhttps://t.co/VhnuKPoslV https://t.co/yBFylhydc4"
+	},
+	{
 		"created_at": "Mon Mar 04 18:42:20 +0000 2019",
 		"id": 1102640433992101900,
 		"id_str": "1102640433992101888",
