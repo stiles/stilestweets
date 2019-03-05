@@ -1,6 +1,1163 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 05:37:57 +0000 2019",
+		"id": 1102557101857992700,
+		"id_str": "1102805427807375360",
+		"full_text": "🗞️ #NICAR19 🗞️\n\nThe @latimes has a new owner, new headquarters, new union — and new story to tell.\n\nWe're sending 34 journalists, a new record, to this week's @IRE_NICAR event in Newport Beach.\n \nSeek them out to learn about the new future we're building.\n\nhttps://t.co/7aPg5l5dgZ https://t.co/1REPkGmQxy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NICAR19",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						20,
+						28
+					]
+				},
+				{
+					"screen_name": "IRE_NICAR",
+					"name": "IRE and NICAR",
+					"id": 12655722,
+					"id_str": "12655722",
+					"indices": [
+						159,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7aPg5l5dgZ",
+					"expanded_url": "https://www.latimes.com/projects/nicar19-roster/",
+					"display_url": "latimes.com/projects/nicar…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102556775130128400,
+					"id_str": "1102556775130128384",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D00Ri55U4AA0mZl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D00Ri55U4AA0mZl.jpg",
+					"url": "https://t.co/1REPkGmQxy",
+					"display_url": "pic.twitter.com/1REPkGmQxy",
+					"expanded_url": "https://twitter.com/palewire/status/1102557101857992705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102556775130128400,
+					"id_str": "1102556775130128384",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D00Ri55U4AA0mZl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D00Ri55U4AA0mZl.jpg",
+					"url": "https://t.co/1REPkGmQxy",
+					"display_url": "pic.twitter.com/1REPkGmQxy",
+					"expanded_url": "https://twitter.com/palewire/status/1102557101857992705/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D00Ri55U4AA0mZl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+			"url": "https://t.co/kogJ0fJceo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kogJ0fJceo",
+							"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lZvqTdDOmO",
+							"expanded_url": "http://www.californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8584,
+			"friends_count": 3041,
+			"listed_count": 693,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 53807,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗞️ #NICAR19 🗞️\n\nThe @latimes has a new owner, new headquarters, new union — and new story to tell.\n\nWe're sending 34 journalists, a new record, to this week's @IRE_NICAR event in Newport Beach.\n \nSeek them out to learn about the new future we're building.\n\nhttps://t.co/7aPg5l5dgZ https://t.co/1REPkGmQxy"
+	},
+	{
+		"created_at": "Tue Mar 05 05:35:37 +0000 2019",
+		"id": 1102804840202158100,
+		"id_str": "1102804840202158080",
+		"full_text": "And just like that, it's over. Check out all the onlookers on the right taking photos with smartphones. Amazing. https://t.co/AFnyrH6gw1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102804781859369000,
+					"id_str": "1102804781859368960",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D03zGy9UcAAjEWm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D03zGy9UcAAjEWm.jpg",
+					"url": "https://t.co/AFnyrH6gw1",
+					"display_url": "pic.twitter.com/AFnyrH6gw1",
+					"expanded_url": "https://twitter.com/stiles/status/1102804840202158080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 749,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102804781859369000,
+					"id_str": "1102804781859368960",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D03zGy9UcAAjEWm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D03zGy9UcAAjEWm.jpg",
+					"url": "https://t.co/AFnyrH6gw1",
+					"display_url": "pic.twitter.com/AFnyrH6gw1",
+					"expanded_url": "https://twitter.com/stiles/status/1102804840202158080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 749,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "🌴 Matt Stiles 🌴",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10490,
+			"friends_count": 1454,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13148,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551636386",
+			"profile_link_color": "A07EE2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And just like that, it's over. Check out all the onlookers on the right taking photos with smartphones. Amazing. https://t.co/AFnyrH6gw1"
+	},
+	{
+		"created_at": "Tue Mar 05 05:31:43 +0000 2019",
+		"id": 1102803859519418400,
+		"id_str": "1102803859519418370",
+		"full_text": "I guess I'm just gonna sit back and enjoy this car chase for a bit. @netflix can wait. https://t.co/s9FyZgHSlt https://t.co/xZKfdzpJz4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "netflix",
+					"name": "Netflix US",
+					"id": 16573941,
+					"id_str": "16573941",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s9FyZgHSlt",
+					"expanded_url": "http://bit.ly/2UmaU4i",
+					"display_url": "bit.ly/2UmaU4i",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102803783891869700,
+					"id_str": "1102803783891869696",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D03yMtPU4AABHgv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D03yMtPU4AABHgv.jpg",
+					"url": "https://t.co/xZKfdzpJz4",
+					"display_url": "pic.twitter.com/xZKfdzpJz4",
+					"expanded_url": "https://twitter.com/stiles/status/1102803859519418370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 716,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1846,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102803783891869700,
+					"id_str": "1102803783891869696",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D03yMtPU4AABHgv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D03yMtPU4AABHgv.jpg",
+					"url": "https://t.co/xZKfdzpJz4",
+					"display_url": "pic.twitter.com/xZKfdzpJz4",
+					"expanded_url": "https://twitter.com/stiles/status/1102803859519418370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 716,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1846,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "🌴 Matt Stiles 🌴",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10490,
+			"friends_count": 1454,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13148,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551636386",
+			"profile_link_color": "A07EE2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I guess I'm just gonna sit back and enjoy this car chase for a bit. @netflix can wait. https://t.co/s9FyZgHSlt https://t.co/xZKfdzpJz4"
+	},
+	{
+		"created_at": "Tue Mar 05 05:31:07 +0000 2019",
+		"id": 1102801312922591200,
+		"id_str": "1102803707232579584",
+		"full_text": "Truck attempting to block suspect. DON’T DO THAT! #pursuit https://t.co/KZlP47Jfpm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pursuit",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102801308732424200,
+					"id_str": "1102801308732424192",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D03v8ojVAAAUgiE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D03v8ojVAAAUgiE.jpg",
+					"url": "https://t.co/KZlP47Jfpm",
+					"display_url": "pic.twitter.com/KZlP47Jfpm",
+					"expanded_url": "https://twitter.com/LAPolicePursuit/status/1102801312922591232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102801308732424200,
+					"id_str": "1102801308732424192",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D03v8ojVAAAUgiE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D03v8ojVAAAUgiE.jpg",
+					"url": "https://t.co/KZlP47Jfpm",
+					"display_url": "pic.twitter.com/KZlP47Jfpm",
+					"expanded_url": "https://twitter.com/LAPolicePursuit/status/1102801312922591232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37162208,
+			"id_str": "37162208",
+			"name": "LA Police Pursuits",
+			"screen_name": "LAPolicePursuit",
+			"location": "Los Angeles, CA",
+			"description": "Alerts for police pursuits in & around LA and OC. Text tips to 818-697-1551 🚨 Insta: @lapolicepursuit • Personal Twitter: @JustinMichael",
+			"url": "https://t.co/WqIl5YfYlD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WqIl5YfYlD",
+							"expanded_url": "http://bit.ly/2EWnJy4",
+							"display_url": "bit.ly/2EWnJy4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20070,
+			"friends_count": 883,
+			"listed_count": 364,
+			"created_at": "Sat May 02 07:29:58 +0000 2009",
+			"favourites_count": 7168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4640,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685267317287079937/L9AUnTG1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685267317287079937/L9AUnTG1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37162208/1524357718",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Truck attempting to block suspect. DON’T DO THAT! #pursuit https://t.co/KZlP47Jfpm"
+	},
+	{
+		"created_at": "Tue Mar 05 05:29:05 +0000 2019",
+		"id": 1102802467614470100,
+		"id_str": "1102803194709663744",
+		"full_text": "@stiles @jbillinson @Wendys In 1989, I just arrived in DC getting ready to start grad school at Gallaudet. Went to THAT Wendy’s - my NYC spidey-sense told me to get my food and leave. Found out that two also-new Gally grad students from NH were mugged there 10 minutes after I left. 😑",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "🌴 Matt Stiles 🌴",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "jbillinson",
+					"name": "Josh Billinson",
+					"id": 437737633,
+					"id_str": "437737633",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"screen_name": "Wendys",
+					"name": "Wendy's",
+					"id": 59553554,
+					"id_str": "59553554",
+					"indices": [
+						20,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1102727302993985500,
+		"in_reply_to_status_id_str": "1102727302993985536",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 35626578,
+			"id_str": "35626578",
+			"name": "Kym Meyer",
+			"screen_name": "KnEzmom",
+			"location": "Wuh-stah, MA",
+			"description": "1st gen HS grad | PhD research: MA #DeafEd #TeacherShortage, Educational Audiology #EdAudAdvocacy, #AccessibleLanguage #EdPolicy #DisabilityJustice #UseTheMic🎤",
+			"url": "https://t.co/ycVOThAUUo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ycVOThAUUo",
+							"expanded_url": "http://blogs.umass.edu/kpmeyer/",
+							"display_url": "blogs.umass.edu/kpmeyer/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 956,
+			"friends_count": 1754,
+			"listed_count": 14,
+			"created_at": "Mon Apr 27 01:25:08 +0000 2009",
+			"favourites_count": 10300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7462,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043678665995943939/Gb5CuoeV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043678665995943939/Gb5CuoeV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35626578/1490740530",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@stiles @jbillinson @Wendys In 1989, I just arrived in DC getting ready to start grad school at Gallaudet. Went to THAT Wendy’s - my NYC spidey-sense told me to get my food and leave. Found out that two also-new Gally grad students from NH were mugged there 10 minutes after I left. 😑"
+	},
+	{
+		"created_at": "Tue Mar 05 05:26:05 +0000 2019",
+		"id": 1102802302740586500,
+		"id_str": "1102802440565321728",
+		"full_text": "This is the weirdest car chase I have ever seen 😂 https://t.co/yiZ8CN2VdL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yiZ8CN2VdL",
+					"expanded_url": "https://twitter.com/gustavoarellano/status/1102801917934092288",
+					"display_url": "twitter.com/gustavoarellan…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47732682,
+			"id_str": "47732682",
+			"name": "🔪Dylan Floro’s #1 Fan🔪",
+			"screen_name": "morasee",
+			"location": "Southern California",
+			"description": "My e-friends call me L. DIE HARD DODGER FAN ⚾️ Seasonal Astros fan😏 Rams fan 🐏 Mexican/Italian blood 🇲🇽🇮🇹 Morrissey fan 💐 Winner of a best lips poll 💋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2515,
+			"friends_count": 996,
+			"listed_count": 29,
+			"created_at": "Tue Jun 16 20:15:34 +0000 2009",
+			"favourites_count": 78748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20627,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102740675336974336/GGrdxU4h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102740675336974336/GGrdxU4h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47732682/1543533405",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5e68ca240e32025a",
+			"url": "https://api.twitter.com/1.1/geo/id/5e68ca240e32025a.json",
+			"place_type": "city",
+			"name": "Chino Hills",
+			"full_name": "Chino Hills, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.788282,
+							33.921548
+						],
+						[
+							-117.6552404,
+							33.921548
+						],
+						[
+							-117.6552404,
+							34.0234834
+						],
+						[
+							-117.788282,
+							34.0234834
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102801917934092300,
+		"quoted_status_id_str": "1102801917934092288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yiZ8CN2VdL",
+			"expanded": "https://twitter.com/gustavoarellano/status/1102801917934092288",
+			"display": "twitter.com/gustavoarellan…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 05 05:24:00 +0000 2019",
+			"id": 1102801917934092300,
+			"id_str": "1102801917934092288",
+			"full_text": "Now someone is chasing after the #carchase! Quis chasiet ipsos chases?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "carchase",
+						"indices": [
+							33,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15518170,
+				"id_str": "15518170",
+				"name": "GustavoArellano",
+				"screen_name": "GustavoArellano",
+				"location": "Anacrime,OC,Zacatecas",
+				"description": "Con su pluma en su mano for @latimes. Investigations/tacos/history/OC/DESMADRE. Eternal Mexican. ✉️: mexicanwithglasses @ gmail dot com & my newsletter below!",
+				"url": "https://t.co/h6ctxIBhQr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h6ctxIBhQr",
+								"expanded_url": "http://tinyletter.com/gustavoarellanosweekly",
+								"display_url": "tinyletter.com/gustavoarellan…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20930,
+				"friends_count": 389,
+				"listed_count": 595,
+				"created_at": "Mon Jul 21 17:45:07 +0000 2008",
+				"favourites_count": 23,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 218742,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/777962389639606272/UM5BxMlu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/777962389639606272/UM5BxMlu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15518170/1545190490",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the weirdest car chase I have ever seen 😂 https://t.co/yiZ8CN2VdL"
+	},
+	{
 		"created_at": "Tue Mar 05 05:14:40 +0000 2019",
 		"id": 1102799568532529200,
 		"id_str": "1102799568532529152",
