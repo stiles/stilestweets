@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 03:02:56 +0000 2019",
+		"id": 1102766360512192500,
+		"id_str": "1102766413641445376",
+		"full_text": "Evidence is growing that the U.S. economy is a net loser from Trump's trade wars https://t.co/KS7Ya6dCef via @bpolitics",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bpolitics",
+					"name": "Bloomberg Politics",
+					"id": 564111558,
+					"id_str": "564111558",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KS7Ya6dCef",
+					"expanded_url": "https://www.bloomberg.com/news/articles/2019-03-04/evidence-grows-that-trump-s-trade-wars-are-hitting-u-s-economy",
+					"display_url": "bloomberg.com/news/articles/…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948430884,
+			"id_str": "948430884",
+			"name": "Chloe Whiteaker",
+			"screen_name": "ChloeWhiteaker",
+			"location": "Hong Kong",
+			"description": "Visual journalist and data junkie @BBGVisualData @business. Tar Heel. In my free time I build things other than graphics & blog about it @lilhousebigcity",
+			"url": "https://t.co/3UemxXItgz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3UemxXItgz",
+							"expanded_url": "http://www.littlehousebigcity.com",
+							"display_url": "littlehousebigcity.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1442,
+			"friends_count": 664,
+			"listed_count": 120,
+			"created_at": "Wed Nov 14 20:25:57 +0000 2012",
+			"favourites_count": 1691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2555,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796818585024864257/mg1gSmvz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796818585024864257/mg1gSmvz_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Evidence is growing that the U.S. economy is a net loser from Trump's trade wars https://t.co/KS7Ya6dCef via @bpolitics"
+	},
+	{
 		"created_at": "Tue Mar 05 00:28:41 +0000 2019",
 		"id": 1102727399328886800,
 		"id_str": "1102727598495289344",
