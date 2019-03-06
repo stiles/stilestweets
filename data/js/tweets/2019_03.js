@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 22:15:05 +0000 2019",
+		"id": 1103418667402850300,
+		"id_str": "1103418750332633088",
+		"full_text": "Up to 121 percent of a normal year's rainfall #LArain https://t.co/SUNTvbgZps",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LArain",
+					"indices": [
+						46,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103418626478989300,
+					"id_str": "1103418626478989313",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D1AhZQXUYAE7RXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1AhZQXUYAE7RXG.jpg",
+					"url": "https://t.co/SUNTvbgZps",
+					"display_url": "pic.twitter.com/SUNTvbgZps",
+					"expanded_url": "https://twitter.com/a_mendelson/status/1103418667402850305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1099,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1099,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103418626478989300,
+					"id_str": "1103418626478989313",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D1AhZQXUYAE7RXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1AhZQXUYAE7RXG.jpg",
+					"url": "https://t.co/SUNTvbgZps",
+					"display_url": "pic.twitter.com/SUNTvbgZps",
+					"expanded_url": "https://twitter.com/a_mendelson/status/1103418667402850305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1099,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1099,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 531724834,
+			"id_str": "531724834",
+			"name": "Aaron Mendelson",
+			"screen_name": "a_mendelson",
+			"location": "Los Angeles, CA",
+			"description": "Data reporter at @KPCC / @LAist amendelson@scpr.org",
+			"url": "https://t.co/istetGYgr5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/istetGYgr5",
+							"expanded_url": "http://www.scpr.org/about/people/staff/aaron-mendelson",
+							"display_url": "scpr.org/about/people/s…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 897,
+			"listed_count": 96,
+			"created_at": "Tue Mar 20 23:09:06 +0000 2012",
+			"favourites_count": 6440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5777,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016804355616280576/NuoneIhV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016804355616280576/NuoneIhV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/531724834/1531179865",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Up to 121 percent of a normal year's rainfall #LArain https://t.co/SUNTvbgZps"
+	},
+	{
 		"created_at": "Wed Mar 06 20:34:16 +0000 2019",
 		"id": 1103393378736062500,
 		"id_str": "1103393378736062465",
