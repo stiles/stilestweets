@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 20:34:16 +0000 2019",
+		"id": 1103393378736062500,
+		"id_str": "1103393378736062465",
+		"full_text": "A judge delays settling the dispute between the county and @LACoSheriff over a fired deputy. So his stalemate with the Board of Supervisors seems likely to continue until a June hearing. My reporting with @mayalau: https://t.co/Wtk99AldDB https://t.co/EdBVWglVA6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACoSheriff",
+					"name": "Alex Villanueva",
+					"id": 1067499378175238100,
+					"id_str": "1067499378175238144",
+					"indices": [
+						59,
+						71
+					]
+				},
+				{
+					"screen_name": "mayalau",
+					"name": "Maya Lau 🦅",
+					"id": 74304212,
+					"id_str": "74304212",
+					"indices": [
+						205,
+						213
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wtk99AldDB",
+					"expanded_url": "https://lat.ms/2H2i6PT",
+					"display_url": "lat.ms/2H2i6PT",
+					"indices": [
+						215,
+						238
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1103392372702904300,
+					"id_str": "1103392372702904325",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/D1AJhFbVAAUbcGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1AJhFbVAAUbcGW.jpg",
+					"url": "https://t.co/EdBVWglVA6",
+					"display_url": "pic.twitter.com/EdBVWglVA6",
+					"expanded_url": "https://twitter.com/stiles/status/1103393378736062465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103392372702904300,
+					"id_str": "1103392372702904325",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/D1AJhFbVAAUbcGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1AJhFbVAAUbcGW.jpg",
+					"url": "https://t.co/EdBVWglVA6",
+					"display_url": "pic.twitter.com/EdBVWglVA6",
+					"expanded_url": "https://twitter.com/stiles/status/1103393378736062465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "🌴 Matt Stiles 🌴",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10499,
+			"friends_count": 1459,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13159,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551769110",
+			"profile_link_color": "C72831",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A judge delays settling the dispute between the county and @LACoSheriff over a fired deputy. So his stalemate with the Board of Supervisors seems likely to continue until a June hearing. My reporting with @mayalau: https://t.co/Wtk99AldDB https://t.co/EdBVWglVA6"
+	},
+	{
 		"created_at": "Wed Mar 06 19:46:42 +0000 2019",
 		"id": 1103381408549023700,
 		"id_str": "1103381408549023744",
