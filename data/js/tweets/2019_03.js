@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 14:43:31 +0000 2019",
+		"id": 1103029638207483900,
+		"id_str": "1103305110719889409",
+		"full_text": "Today I’m launching my website for NewsGuild International President. Join the grassroots movement at https://t.co/3XOd1l2az2 (thread!) https://t.co/92ZuNJH72t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3XOd1l2az2",
+					"expanded_url": "https://jonforpresident.com",
+					"display_url": "jonforpresident.com",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1103029572180701200,
+					"id_str": "1103029572180701184",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D06_jUKU8AApS3a.png",
+					"media_url_https": "https://pbs.twimg.com/media/D06_jUKU8AApS3a.png",
+					"url": "https://t.co/92ZuNJH72t",
+					"display_url": "pic.twitter.com/92ZuNJH72t",
+					"expanded_url": "https://twitter.com/gaufre/status/1103029638207483904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 259,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 312,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 820,
+							"h": 312,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103029572180701200,
+					"id_str": "1103029572180701184",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D06_jUKU8AApS3a.png",
+					"media_url_https": "https://pbs.twimg.com/media/D06_jUKU8AApS3a.png",
+					"url": "https://t.co/92ZuNJH72t",
+					"display_url": "pic.twitter.com/92ZuNJH72t",
+					"expanded_url": "https://twitter.com/gaufre/status/1103029638207483904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 259,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 312,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 820,
+							"h": 312,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12561082,
+			"id_str": "12561082",
+			"name": "Jon Schleuss 🦅",
+			"screen_name": "gaufre",
+			"location": "Los Angeles, CA",
+			"description": "Journalist @latimes, activist @latguild, educator @USCAnnenberg. From Arkansas. Running for @news_guild president. he/him",
+			"url": "https://t.co/H19cgwNPKn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H19cgwNPKn",
+							"expanded_url": "http://jonforpresident.com",
+							"display_url": "jonforpresident.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3031,
+			"friends_count": 2614,
+			"listed_count": 159,
+			"created_at": "Tue Jan 22 20:35:45 +0000 2008",
+			"favourites_count": 9038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2025,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1038087662710579203/7r0irRHg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038087662710579203/7r0irRHg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12561082/1532451617",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 44,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today I’m launching my website for NewsGuild International President. Join the grassroots movement at https://t.co/3XOd1l2az2 (thread!) https://t.co/92ZuNJH72t"
+	},
+	{
 		"created_at": "Wed Mar 06 06:08:22 +0000 2019",
 		"id": 1103175469367611400,
 		"id_str": "1103175469367611392",
