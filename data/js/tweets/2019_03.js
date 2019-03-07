@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 07 07:04:58 +0000 2019",
+		"id": 1103395502828089300,
+		"id_str": "1103552100598870016",
+		"full_text": "Get this — a deputy sheriff is remaining on duty w/ gun &amp; badge, but the county is not paying him anymore &amp; says he's not an employee. That's the outcome of a judge's move today in battle between LA Sheriff &amp; County Supervisors; next hearing in June https://t.co/jD9peuorDT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jD9peuorDT",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-sheriff-fired-deputy-court-showdown-abuse-supervisors-20190306-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74304212,
+			"id_str": "74304212",
+			"name": "Maya Lau 🦅",
+			"screen_name": "mayalau",
+			"location": "Los Angeles, CA",
+			"description": "@latimes reporter covering L.A. Sheriff's Dept. Proud alum: @theadvocatebr, @shreveporttimes, @NYTMag, @peacecorps, @vassar // CONTACT: https://t.co/XiXiicmKXp",
+			"url": "https://t.co/XiXiicmKXp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XiXiicmKXp",
+							"expanded_url": "http://mayalau.com",
+							"display_url": "mayalau.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XiXiicmKXp",
+							"expanded_url": "http://mayalau.com",
+							"display_url": "mayalau.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10509,
+			"friends_count": 2773,
+			"listed_count": 294,
+			"created_at": "Mon Sep 14 23:45:56 +0000 2009",
+			"favourites_count": 1712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11835,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004414950670884864/p5mAiD6-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004414950670884864/p5mAiD6-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74304212/1439662591",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 63,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get this — a deputy sheriff is remaining on duty w/ gun &amp; badge, but the county is not paying him anymore &amp; says he's not an employee. That's the outcome of a judge's move today in battle between LA Sheriff &amp; County Supervisors; next hearing in June https://t.co/jD9peuorDT"
+	},
+	{
 		"created_at": "Wed Mar 06 22:22:29 +0000 2019",
 		"id": 1103420611550838800,
 		"id_str": "1103420611550838784",
