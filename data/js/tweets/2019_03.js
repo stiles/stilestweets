@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 07 22:08:51 +0000 2019",
+		"id": 1103779570778431500,
+		"id_str": "1103779570778431488",
+		"full_text": "@abtran @documentcloud @MuckRock @morisy Where can I snag one of those??",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abtran",
+					"name": "Andrew Ba Tran",
+					"id": 11670602,
+					"id_str": "11670602",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "documentcloud",
+					"name": "DocumentCloud",
+					"id": 44744034,
+					"id_str": "44744034",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"screen_name": "MuckRock",
+					"name": "MuckRock",
+					"id": 124531391,
+					"id_str": "124531391",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "morisy",
+					"name": "Michael Morisy",
+					"id": 6181532,
+					"id_str": "6181532",
+					"indices": [
+						33,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1103777770922889200,
+		"in_reply_to_status_id_str": "1103777770922889216",
+		"in_reply_to_user_id": 11670602,
+		"in_reply_to_user_id_str": "11670602",
+		"in_reply_to_screen_name": "abtran",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10504,
+			"friends_count": 1466,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5291,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1551945462",
+			"profile_link_color": "6D746A",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@abtran @documentcloud @MuckRock @morisy Where can I snag one of those??"
+	},
+	{
 		"created_at": "Thu Mar 07 19:42:47 +0000 2019",
 		"id": 1103720061523484700,
 		"id_str": "1103742812921581568",
