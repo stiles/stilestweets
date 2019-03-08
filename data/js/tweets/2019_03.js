@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 08 07:38:37 +0000 2019",
+		"id": 1103748230288859100,
+		"id_str": "1103922956604911617",
+		"full_text": "Arriving a bit late to the party but here are my thoughts on Hanoi &amp; where to head next next. via @ForeignAffairs https://t.co/keyS7eXwLT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ForeignAffairs",
+					"name": "Foreign Affairs",
+					"id": 21114659,
+					"id_str": "21114659",
+					"indices": [
+						102,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/keyS7eXwLT",
+					"expanded_url": "https://www.foreignaffairs.com/articles/north-korea/2019-03-07/south-korea-can-save-nuclear-talks?utm_medium=social&utm_source=twitter_posts&utm_campaign=tw_daily_soc",
+					"display_url": "foreignaffairs.com/articles/north…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14906658,
+			"id_str": "14906658",
+			"name": "John Delury",
+			"screen_name": "JohnDelury",
+			"location": "Seoul",
+			"description": "Yonsei University Professor",
+			"url": "https://t.co/3yoK7siWqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3yoK7siWqC",
+							"expanded_url": "http://johndelury.weebly.com/",
+							"display_url": "johndelury.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12745,
+			"friends_count": 1557,
+			"listed_count": 514,
+			"created_at": "Mon May 26 08:20:13 +0000 2008",
+			"favourites_count": 2079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15260,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/625922199518490625/i_PvVpGK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/625922199518490625/i_PvVpGK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14906658/1531354605",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0185a65a271b66e9",
+			"url": "https://api.twitter.com/1.1/geo/id/0185a65a271b66e9.json",
+			"place_type": "city",
+			"name": "Jung-gu",
+			"full_name": "Jung-gu, Republic of Korea",
+			"country_code": "KR",
+			"country": "Republic of Korea",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.963035798302,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5421009933115
+						],
+						[
+							127.018855343463,
+							37.5670483405101
+						],
+						[
+							126.963035798302,
+							37.5670483405101
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Arriving a bit late to the party but here are my thoughts on Hanoi &amp; where to head next next. via @ForeignAffairs https://t.co/keyS7eXwLT"
+	},
+	{
 		"created_at": "Thu Mar 07 22:46:17 +0000 2019",
 		"id": 1103788990761590800,
 		"id_str": "1103788990761590784",
