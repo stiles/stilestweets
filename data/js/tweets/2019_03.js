@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 09 19:33:07 +0000 2019",
+		"id": 1104465033797414900,
+		"id_str": "1104465152877846529",
+		"full_text": "Standing room only at #NICAR19 machine learning for data journalists https://t.co/6ryrhGQ7S8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NICAR19",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104465018509115400,
+					"id_str": "1104465018509115392",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D1PZFScUwAANsVz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1PZFScUwAANsVz.jpg",
+					"url": "https://t.co/6ryrhGQ7S8",
+					"display_url": "pic.twitter.com/6ryrhGQ7S8",
+					"expanded_url": "https://twitter.com/EvanWagstaff/status/1104465033797414912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104465018509115400,
+					"id_str": "1104465018509115392",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D1PZFScUwAANsVz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1PZFScUwAANsVz.jpg",
+					"url": "https://t.co/6ryrhGQ7S8",
+					"display_url": "pic.twitter.com/6ryrhGQ7S8",
+					"expanded_url": "https://twitter.com/EvanWagstaff/status/1104465033797414912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38196399,
+			"id_str": "38196399",
+			"name": "Evan Wagstaff",
+			"screen_name": "EvanWagstaff",
+			"location": "Los Angeles, CA",
+			"description": "Multimedia storyteller at the nexus of tech and journalism. Digital producer at @sfchronicle, @LATimes alum, avid coffee drinker.",
+			"url": "https://t.co/YyiEg2aUAr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YyiEg2aUAr",
+							"expanded_url": "http://evanwagstaff.com",
+							"display_url": "evanwagstaff.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1063,
+			"friends_count": 578,
+			"listed_count": 63,
+			"created_at": "Wed May 06 15:08:39 +0000 2009",
+			"favourites_count": 1975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850465330975490048/JbaiZChl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850465330975490048/JbaiZChl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38196399/1491602398",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Standing room only at #NICAR19 machine learning for data journalists https://t.co/6ryrhGQ7S8"
+	},
+	{
 		"created_at": "Fri Mar 08 17:47:08 +0000 2019",
 		"id": 1104076093265371100,
 		"id_str": "1104076093265371136",
