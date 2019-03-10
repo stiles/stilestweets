@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 15:38:08 +0000 2019",
+		"id": 1104763659949989900,
+		"id_str": "1104768405570150400",
+		"full_text": "Ten years ago @stiles visited my student newspaper and introduced me to CAR/data journalism. \n\nIt was the literal beginning of my data hero origin story. \n\nA decade later, a highlight of the wkend was hosting a panel with him, helping others learn how to analyze data. \n\n#NICAR19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NICAR19",
+					"indices": [
+						271,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27323880,
+			"id_str": "27323880",
+			"name": "John D. Harden",
+			"screen_name": "Jdharden",
+			"location": "Washington, DC",
+			"description": "Metro database reporter @washingtonpost | Previously @houstonchron | say hello john.harden@washpost.com",
+			"url": "https://t.co/EYNL5agRYB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EYNL5agRYB",
+							"expanded_url": "http://jdharden.github.io",
+							"display_url": "jdharden.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3874,
+			"friends_count": 2128,
+			"listed_count": 223,
+			"created_at": "Sat Mar 28 22:32:53 +0000 2009",
+			"favourites_count": 10148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5C5A5C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1018166412542664704/vheoGti5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018166412542664704/vheoGti5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27323880/1551470906",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 29,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Ten years ago @stiles visited my student newspaper and introduced me to CAR/data journalism. \n\nIt was the literal beginning of my data hero origin story. \n\nA decade later, a highlight of the wkend was hosting a panel with him, helping others learn how to analyze data. \n\n#NICAR19"
+	},
+	{
 		"created_at": "Sun Mar 10 14:11:42 +0000 2019",
 		"id": 1104746656044441600,
 		"id_str": "1104746656044441600",
