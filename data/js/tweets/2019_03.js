@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 13:07:28 +0000 2019",
+		"id": 1105682815683715100,
+		"id_str": "1105817653422129152",
+		"full_text": "My life has been dramatically improved since I figured out typing https://t.co/2TDwm2TMy5 in the Chrome address bar creates a new Google Doc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2TDwm2TMy5",
+					"expanded_url": "http://doc.new",
+					"display_url": "doc.new",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11545652,
+			"id_str": "11545652",
+			"name": "Daniel Victor",
+			"screen_name": "bydanielvictor",
+			"location": "Hong Kong via NYC",
+			"description": "Reporter @nytimes on breaking news and a little of everything else. Zazu was a traitor, he was in on it with Scar",
+			"url": "https://t.co/RQzgnpDwvF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RQzgnpDwvF",
+							"expanded_url": "http://bydanielvictor.com/about",
+							"display_url": "bydanielvictor.com/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23966,
+			"friends_count": 3375,
+			"listed_count": 1417,
+			"created_at": "Wed Dec 26 21:24:52 +0000 2007",
+			"favourites_count": 9396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36528,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953653262137417729/QR5mLKWl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953653262137417729/QR5mLKWl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11545652/1515712959",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 218,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My life has been dramatically improved since I figured out typing https://t.co/2TDwm2TMy5 in the Chrome address bar creates a new Google Doc"
+	},
+	{
 		"created_at": "Wed Mar 13 03:58:42 +0000 2019",
 		"id": 1105679551454015500,
 		"id_str": "1105679551454015488",
