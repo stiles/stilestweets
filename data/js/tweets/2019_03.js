@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 03:58:42 +0000 2019",
+		"id": 1105679551454015500,
+		"id_str": "1105679551454015488",
+		"full_text": "@MatthewKeysLive @LATstevelopez https://t.co/5DBmGfv826 https://t.co/2qgLjlowTd",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthewKeysLive",
+					"name": "Matthew Keys",
+					"id": 754485,
+					"id_str": "754485",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "LATstevelopez",
+					"name": "Steve Lopez LA Times",
+					"id": 19942100,
+					"id_str": "19942100",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5DBmGfv826",
+					"expanded_url": "https://www.cnn.com/2019/03/12/us/college-admission-cheating-scheme/index.html",
+					"display_url": "cnn.com/2019/03/12/us/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105679205944066000,
+					"id_str": "1105679205944066055",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D1gpYTHVAAcI1AP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1gpYTHVAAcI1AP.jpg",
+					"url": "https://t.co/2qgLjlowTd",
+					"display_url": "pic.twitter.com/2qgLjlowTd",
+					"expanded_url": "https://twitter.com/stiles/status/1105679551454015488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 306,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1546,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 173,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105679205944066000,
+					"id_str": "1105679205944066055",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D1gpYTHVAAcI1AP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1gpYTHVAAcI1AP.jpg",
+					"url": "https://t.co/2qgLjlowTd",
+					"display_url": "pic.twitter.com/2qgLjlowTd",
+					"expanded_url": "https://twitter.com/stiles/status/1105679551454015488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 306,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1546,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 173,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1105678206525333500,
+		"in_reply_to_status_id_str": "1105678206525333504",
+		"in_reply_to_user_id": 754485,
+		"in_reply_to_user_id_str": "754485",
+		"in_reply_to_screen_name": "MatthewKeysLive",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10537,
+			"friends_count": 1469,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1552448061",
+			"profile_link_color": "EE4C06",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@MatthewKeysLive @LATstevelopez https://t.co/5DBmGfv826 https://t.co/2qgLjlowTd"
+	},
+	{
+		"created_at": "Wed Mar 13 03:51:32 +0000 2019",
+		"id": 1105677747387428900,
+		"id_str": "1105677747387428865",
+		"full_text": "\"... William H. Macy, star of a TV drama in which a main character was busted for taking SAT tests for other students. The show is called 'Shameless,' and what can I add to that?\" -- @LATstevelopez https://t.co/CIT3rzHzce https://t.co/o6JqhV85aT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATstevelopez",
+					"name": "Steve Lopez LA Times",
+					"id": 19942100,
+					"id_str": "19942100",
+					"indices": [
+						183,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CIT3rzHzce",
+					"expanded_url": "https://lat.ms/2UyTh0Y",
+					"display_url": "lat.ms/2UyTh0Y",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105677695986262000,
+					"id_str": "1105677695986262016",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D1goAaFVYAAOFrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1goAaFVYAAOFrI.jpg",
+					"url": "https://t.co/o6JqhV85aT",
+					"display_url": "pic.twitter.com/o6JqhV85aT",
+					"expanded_url": "https://twitter.com/stiles/status/1105677747387428865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1106,
+							"h": 754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105677695986262000,
+					"id_str": "1105677695986262016",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D1goAaFVYAAOFrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1goAaFVYAAOFrI.jpg",
+					"url": "https://t.co/o6JqhV85aT",
+					"display_url": "pic.twitter.com/o6JqhV85aT",
+					"expanded_url": "https://twitter.com/stiles/status/1105677747387428865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1106,
+							"h": 754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10537,
+			"friends_count": 1469,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1552448061",
+			"profile_link_color": "EE4C06",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"... William H. Macy, star of a TV drama in which a main character was busted for taking SAT tests for other students. The show is called 'Shameless,' and what can I add to that?\" -- @LATstevelopez https://t.co/CIT3rzHzce https://t.co/o6JqhV85aT"
+	},
+	{
+		"created_at": "Wed Mar 13 03:33:16 +0000 2019",
+		"id": 1105604775796576300,
+		"id_str": "1105673154045698048",
+		"full_text": "⚡️ “🦋 You're not crazy. There are butterflies all over L.A. right now. 🦋”\n\nhttps://t.co/VMB3E5fnMu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VMB3E5fnMu",
+					"expanded_url": "https://twitter.com/i/moments/1105508058094985216",
+					"display_url": "twitter.com/i/moments/1105…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16664681,
+			"id_str": "16664681",
+			"name": "Los Angeles Times",
+			"screen_name": "latimes",
+			"location": "El Segundo, CA",
+			"description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/KW9cHofnW4",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KW9cHofnW4",
+							"expanded_url": "http://latimes.com/subscribe",
+							"display_url": "latimes.com/subscribe",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3344995,
+			"friends_count": 6883,
+			"listed_count": 31662,
+			"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+			"favourites_count": 1946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 217560,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043205431340892160/uvDP6wTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043205431340892160/uvDP6wTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "615F61",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 224,
+		"favorite_count": 564,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⚡️ “🦋 You're not crazy. There are butterflies all over L.A. right now. 🦋”\n\nhttps://t.co/VMB3E5fnMu"
+	},
+	{
 		"created_at": "Wed Mar 13 01:26:11 +0000 2019",
 		"id": 1105641169642348500,
 		"id_str": "1105641169642348544",
