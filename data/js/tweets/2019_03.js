@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 00:33:50 +0000 2019",
+		"id": 1105508863133012000,
+		"id_str": "1105627996507955200",
+		"full_text": "Brian quotes a woman who had done a focus group with college students recently about their news habits, and the response one of them gave stood out:\n\n\"If the news is that important, it will find me.\" https://t.co/F4aVqfShkh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105499832137990100,
+					"id_str": "1105499832137990144",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/D1eGPXnWwAANljF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1eGPXnWwAANljF.jpg",
+					"url": "https://t.co/F4aVqfShkh",
+					"display_url": "pic.twitter.com/F4aVqfShkh",
+					"expanded_url": "https://twitter.com/jbenton/status/1105508863133011968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1192,
+							"h": 788,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105499832137990100,
+					"id_str": "1105499832137990144",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/D1eGPXnWwAANljF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1eGPXnWwAANljF.jpg",
+					"url": "https://t.co/F4aVqfShkh",
+					"display_url": "pic.twitter.com/F4aVqfShkh",
+					"expanded_url": "https://twitter.com/jbenton/status/1105508863133011968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1192,
+							"h": 788,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1105508862126448600,
+		"in_reply_to_status_id_str": "1105508862126448640",
+		"in_reply_to_user_id": 36623,
+		"in_reply_to_user_id_str": "36623",
+		"in_reply_to_screen_name": "jbenton",
+		"user": {
+			"id": 36623,
+			"id_str": "36623",
+			"name": "Joshua Benton",
+			"screen_name": "jbenton",
+			"location": "Cambridge, Mass.",
+			"description": "Occasional enemy of the American people. I run @niemanlab at Harvard. Proud Cajun. I love @leahalexis + @dashiellbenton. All opinions mine, not Harvard's.",
+			"url": "https://t.co/HAIJkDgroR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HAIJkDgroR",
+							"expanded_url": "http://www.joshuabenton.com/",
+							"display_url": "joshuabenton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32276,
+			"friends_count": 2689,
+			"listed_count": 1629,
+			"created_at": "Sat Dec 02 06:32:23 +0000 2006",
+			"favourites_count": 26551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 65734,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/500365878269984768/OYxjyPTb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/500365878269984768/OYxjyPTb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36623/1498237310",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brian quotes a woman who had done a focus group with college students recently about their news habits, and the response one of them gave stood out:\n\n\"If the news is that important, it will find me.\" https://t.co/F4aVqfShkh"
+	},
+	{
 		"created_at": "Tue Mar 12 22:56:07 +0000 2019",
 		"id": 1105603405949489200,
 		"id_str": "1105603405949489152",
