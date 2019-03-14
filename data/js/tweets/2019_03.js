@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 14 22:18:06 +0000 2019",
+		"id": 1105510952592502800,
+		"id_str": "1106318612971700224",
+		"full_text": "Big News! @LACountyLibrary is a finalist for the @US_IMLS National Medal for Museum and Library Service—the nation's highest honor for libraries! Use #IMLSMedals to tell the world how much you appreciate L.A. County Library 📚 https://t.co/atcbC1DA0S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IMLSMedals",
+					"indices": [
+						150,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyLibrary",
+					"name": "LA County Library",
+					"id": 15359126,
+					"id_str": "15359126",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "US_IMLS",
+					"name": "IMLS",
+					"id": 36240331,
+					"id_str": "36240331",
+					"indices": [
+						49,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105510811001282600,
+					"id_str": "1105510811001282560",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1eQObEV4AAEXiW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1eQObEV4AAEXiW.jpg",
+					"url": "https://t.co/atcbC1DA0S",
+					"display_url": "pic.twitter.com/atcbC1DA0S",
+					"expanded_url": "https://twitter.com/CountyofLA/status/1105510952592502784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105510811001282600,
+					"id_str": "1105510811001282560",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1eQObEV4AAEXiW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1eQObEV4AAEXiW.jpg",
+					"url": "https://t.co/atcbC1DA0S",
+					"display_url": "pic.twitter.com/atcbC1DA0S",
+					"expanded_url": "https://twitter.com/CountyofLA/status/1105510952592502784/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D1eQObEV4AAEXiW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193771633,
+			"id_str": "193771633",
+			"name": "Los Angeles County",
+			"screen_name": "CountyofLA",
+			"location": "Los Angeles County",
+			"description": "Official account of Los Angeles County",
+			"url": "http://t.co/7Z6JLrLfYn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7Z6JLrLfYn",
+							"expanded_url": "http://lacounty.gov",
+							"display_url": "lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33668,
+			"friends_count": 4746,
+			"listed_count": 629,
+			"created_at": "Wed Sep 22 17:08:50 +0000 2010",
+			"favourites_count": 4067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11563,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193771633/1546975416",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big News! @LACountyLibrary is a finalist for the @US_IMLS National Medal for Museum and Library Service—the nation's highest honor for libraries! Use #IMLSMedals to tell the world how much you appreciate L.A. County Library 📚 https://t.co/atcbC1DA0S"
+	},
+	{
+		"created_at": "Thu Mar 14 21:54:20 +0000 2019",
+		"id": 1106215398431588400,
+		"id_str": "1106312630484918272",
+		"full_text": "Yes, this. That filming/distributing hidden sex cam footage &amp; trafficking women for sex work has ensnared high profile ppl is just a sign of how prolific it is in South Korea. https://t.co/HzqFMxGRPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HzqFMxGRPr",
+					"expanded_url": "https://twitter.com/ariahychen/status/1106093760515985409",
+					"display_url": "twitter.com/ariahychen/sta…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16001350,
+			"id_str": "16001350",
+			"name": "Elise Hu",
+			"screen_name": "elisewho",
+			"location": "California, USA",
+			"description": "LA-based @NPRNews. Ex-expat buro chief in Koreas and Japan. @TexasTribune & #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. IG @elisewho | ehu@npr.org",
+			"url": "https://t.co/5UvjA81oSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5UvjA81oSH",
+							"expanded_url": "http://elisehu.com",
+							"display_url": "elisehu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39874,
+			"friends_count": 1888,
+			"listed_count": 1732,
+			"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+			"favourites_count": 2925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29908,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDEDEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1498480092",
+			"profile_link_color": "4E647A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106093760515985400,
+		"quoted_status_id_str": "1106093760515985409",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HzqFMxGRPr",
+			"expanded": "https://twitter.com/ariahychen/status/1106093760515985409",
+			"display": "twitter.com/ariahychen/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 14 07:24:37 +0000 2019",
+			"id": 1106093760515985400,
+			"id_str": "1106093760515985409",
+			"full_text": "Unfortunate how this whole investigation has been framed as a “k-pop thing”. The story struck a chord b/c women in South Korea want an end to the hidden camera epidemic, sexual violence, and the culture of women abuse perpetuated by powerful, wealthy men in various industries.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 871253046,
+				"id_str": "871253046",
+				"name": "Aria Hangyu Chen 陳航宇",
+				"screen_name": "ariahychen",
+				"location": "Hong Kong",
+				"description": "Video producer @TIME. Alum: @McClatchy @CNN @columbiajourn. News, kpop🖤💗, jpop and ramen. \n https://t.co/pjLnWjoK0q  ✍🏻 廣東話/國語/日本語/한국어. ✉️ aria.chen@time.com",
+				"url": "https://t.co/Ufr0ZkNjVN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ufr0ZkNjVN",
+								"expanded_url": "http://ariachen.com",
+								"display_url": "ariachen.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pjLnWjoK0q",
+								"expanded_url": "http://instagram.com/ariahychen",
+								"display_url": "instagram.com/ariahychen",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1799,
+				"friends_count": 1197,
+				"listed_count": 35,
+				"created_at": "Wed Oct 10 06:46:56 +0000 2012",
+				"favourites_count": 612,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2512,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844445194137354240/Iz-SLiH-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844445194137354240/Iz-SLiH-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/871253046/1401566313",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4274,
+			"favorite_count": 6828,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 304,
+		"favorite_count": 431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes, this. That filming/distributing hidden sex cam footage &amp; trafficking women for sex work has ensnared high profile ppl is just a sign of how prolific it is in South Korea. https://t.co/HzqFMxGRPr"
+	},
+	{
+		"created_at": "Thu Mar 14 21:22:32 +0000 2019",
+		"id": 1106304628801433600,
+		"id_str": "1106304628801433601",
+		"full_text": "@LACountyPRIT @LACProbation This image is from another jurisdiction, correct?",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyPRIT",
+					"name": "LACountyPRIT",
+					"id": 1048374028077944800,
+					"id_str": "1048374028077944833",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "LACProbation",
+					"name": "Los Angeles County Probation Department",
+					"id": 1683979206,
+					"id_str": "1683979206",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1105160381280837600,
+		"in_reply_to_status_id_str": "1105160381280837632",
+		"in_reply_to_user_id": 1048374028077944800,
+		"in_reply_to_user_id_str": "1048374028077944833",
+		"in_reply_to_screen_name": "LACountyPRIT",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10544,
+			"friends_count": 1469,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13197,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1552448061",
+			"profile_link_color": "EE4C06",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LACountyPRIT @LACProbation This image is from another jurisdiction, correct?"
+	},
+	{
 		"created_at": "Wed Mar 13 14:18:38 +0000 2019",
 		"id": 1105835564341719000,
 		"id_str": "1105835564341719041",
