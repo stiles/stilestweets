@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 14 23:27:55 +0000 2019",
+		"id": 1106254964664483800,
+		"id_str": "1106336183783579648",
+		"full_text": "Hi all, \n\nI was part of the research and data team that was laid off yesterday at The Intercept. \n\nHere’s a thread on what the management said on why they are laying us off, the crucial work our team did and the future we need to build together.\n\n✊🏽",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13304662,
+			"id_str": "13304662",
+			"name": "Moiz Syed",
+			"screen_name": "MoizSyed",
+			"location": "New York / Toronto",
+			"description": "data journalist + designer @theintercept. formerly @wikimedia. he/him",
+			"url": "https://t.co/yvRqVEtsSy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvRqVEtsSy",
+							"expanded_url": "http://moiz.ca",
+							"display_url": "moiz.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3462,
+			"friends_count": 2604,
+			"listed_count": 188,
+			"created_at": "Sun Feb 10 08:07:22 +0000 2008",
+			"favourites_count": 5547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 469,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/593124707949359104/G8p4Cn0A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/593124707949359104/G8p4Cn0A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13304662/1536331304",
+			"profile_link_color": "53283A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 436,
+		"favorite_count": 1043,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hi all, \n\nI was part of the research and data team that was laid off yesterday at The Intercept. \n\nHere’s a thread on what the management said on why they are laying us off, the crucial work our team did and the future we need to build together.\n\n✊🏽"
+	},
+	{
 		"created_at": "Thu Mar 14 22:32:18 +0000 2019",
 		"id": 1106322187760238600,
 		"id_str": "1106322187760238592",
