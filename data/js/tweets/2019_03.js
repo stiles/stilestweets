@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 22:24:24 +0000 2019",
+		"id": 1106682586766569500,
+		"id_str": "1106682586766569472",
+		"full_text": "@TWallack @christinezhang @palewire @sastoudt @LATdatadesk @abtran Some reporters here use both, too.",
+		"truncated": false,
+		"display_text_range": [
+			67,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TWallack",
+					"name": "Todd Wallack",
+					"id": 135997883,
+					"id_str": "135997883",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "christinezhang",
+					"name": "Christine Zhang",
+					"id": 37171680,
+					"id_str": "37171680",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "palewire",
+					"name": "Ben Welsh",
+					"id": 14559196,
+					"id_str": "14559196",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "sastoudt",
+					"name": "Sara Stoudt",
+					"id": 2158970839,
+					"id_str": "2158970839",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "LATdatadesk",
+					"name": "The Data Desk",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"screen_name": "abtran",
+					"name": "Andrew Ba Tran",
+					"id": 11670602,
+					"id_str": "11670602",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1106663339302809600,
+		"in_reply_to_status_id_str": "1106663339302809600",
+		"in_reply_to_user_id": 135997883,
+		"in_reply_to_user_id_str": "135997883",
+		"in_reply_to_screen_name": "TWallack",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10546,
+			"friends_count": 1471,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1552448061",
+			"profile_link_color": "EE4C06",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TWallack @christinezhang @palewire @sastoudt @LATdatadesk @abtran Some reporters here use both, too."
+	},
+	{
 		"created_at": "Fri Mar 15 22:14:17 +0000 2019",
 		"id": 1106680042224930800,
 		"id_str": "1106680042224930816",
