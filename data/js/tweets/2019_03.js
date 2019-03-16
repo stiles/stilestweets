@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 16 18:19:31 +0000 2019",
+		"id": 1106983345701843000,
+		"id_str": "1106983345701842944",
+		"full_text": "@LACProbation Interested in juvenile justice reform in L.A.? There's an @LACountyPRIT meeting today in Carson about pepper-spray use and probation data. Details and live streaming here: (https://t.co/5fRMvsPxbT) https://t.co/TzxzGdPTtw",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACProbation",
+					"name": "Los Angeles County Probation Department",
+					"id": 1683979206,
+					"id_str": "1683979206",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "LACountyPRIT",
+					"name": "LACountyPRIT",
+					"id": 1048374028077944800,
+					"id_str": "1048374028077944833",
+					"indices": [
+						72,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5fRMvsPxbT",
+					"expanded_url": "http://bit.ly/2TcftfY",
+					"display_url": "bit.ly/2TcftfY",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1106983160967888900,
+					"id_str": "1106983160967888897",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/D1zLUeHUgAEPJoO.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1zLUeHUgAEPJoO.png",
+					"url": "https://t.co/TzxzGdPTtw",
+					"display_url": "pic.twitter.com/TzxzGdPTtw",
+					"expanded_url": "https://twitter.com/stiles/status/1106983345701842944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 492,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 492,
+							"h": 252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 252,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106983160967888900,
+					"id_str": "1106983160967888897",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/D1zLUeHUgAEPJoO.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1zLUeHUgAEPJoO.png",
+					"url": "https://t.co/TzxzGdPTtw",
+					"display_url": "pic.twitter.com/TzxzGdPTtw",
+					"expanded_url": "https://twitter.com/stiles/status/1106983345701842944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 492,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 492,
+							"h": 252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 252,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1106982828871344100,
+		"in_reply_to_status_id_str": "1106982828871344128",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10549,
+			"friends_count": 1473,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13211,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1552718689",
+			"profile_link_color": "01A8D4",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LACProbation Interested in juvenile justice reform in L.A.? There's an @LACountyPRIT meeting today in Carson about pepper-spray use and probation data. Details and live streaming here: (https://t.co/5fRMvsPxbT) https://t.co/TzxzGdPTtw"
+	},
+	{
 		"created_at": "Sat Mar 16 02:08:43 +0000 2019",
 		"id": 1106739039904788500,
 		"id_str": "1106739039904788481",
