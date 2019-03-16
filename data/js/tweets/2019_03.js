@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 16 23:19:36 +0000 2019",
+		"id": 1107034462183841800,
+		"id_str": "1107058866640977922",
+		"full_text": "@LACountyPRIT Public Comment Section #1; “Training needs to be addressed. Staff don’t know how to talk to kids. They use pepper spray because they think they do not have alternatives.\" https://t.co/b2GRLX8xSJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyPRIT",
+					"name": "LACountyPRIT",
+					"id": 1048374028077944800,
+					"id_str": "1048374028077944833",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107034453015035900,
+					"id_str": "1107034453015035904",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D1z5-D4UgAALVzT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1z5-D4UgAALVzT.jpg",
+					"url": "https://t.co/b2GRLX8xSJ",
+					"display_url": "pic.twitter.com/b2GRLX8xSJ",
+					"expanded_url": "https://twitter.com/LACountyPRIT/status/1107034462183841793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107034453015035900,
+					"id_str": "1107034453015035904",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D1z5-D4UgAALVzT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1z5-D4UgAALVzT.jpg",
+					"url": "https://t.co/b2GRLX8xSJ",
+					"display_url": "pic.twitter.com/b2GRLX8xSJ",
+					"expanded_url": "https://twitter.com/LACountyPRIT/status/1107034462183841793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1048374028077944800,
+		"in_reply_to_user_id_str": "1048374028077944833",
+		"in_reply_to_screen_name": "LACountyPRIT",
+		"user": {
+			"id": 1048374028077944800,
+			"id_str": "1048374028077944833",
+			"name": "LACountyPRIT",
+			"screen_name": "LACountyPRIT",
+			"location": "Los Angeles, CA",
+			"description": "Temporary body, charged with the creation of the Probation Oversight Commission in 6-9 months",
+			"url": "https://t.co/zOKqHQaiGh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zOKqHQaiGh",
+							"expanded_url": "http://prit.lacounty.gov",
+							"display_url": "prit.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 123,
+			"friends_count": 234,
+			"listed_count": 0,
+			"created_at": "Sat Oct 06 00:47:00 +0000 2018",
+			"favourites_count": 224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048376684276113408/xRA-bdKq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048376684276113408/xRA-bdKq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1048374028077944833/1538788251",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "@LACountyPRIT Public Comment Section #1; “Training needs to be addressed. Staff don’t know how to talk to kids. They use pepper spray because they think they do not have alternatives.\" https://t.co/b2GRLX8xSJ"
+	},
+	{
 		"created_at": "Sat Mar 16 22:01:26 +0000 2019",
 		"id": 1107038880895852500,
 		"id_str": "1107039194327613440",
