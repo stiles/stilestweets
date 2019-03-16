@@ -1,6 +1,959 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 16 19:08:23 +0000 2019",
+		"id": 1106994877772881900,
+		"id_str": "1106995644604940289",
+		"full_text": "Our related coalition letter here: https://t.co/pRirE9v70n https://t.co/6CVnql1O3t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pRirE9v70n",
+					"expanded_url": "https://urldefense.proofpoint.com/v2/url?u=Https-3A__www.cdfca.org_wp-2Dcontent_uploads_sites_4_2019_03_Coalition-2DChemical-2DAgents-2DSubmission-5FWith-2DLogos.pdf&d=DwMFAg&c=_LAjAGye_IIiKN_ovTDKew&r=JKUSMewR-3Cb3dTsrkgOtGHjvCsNqzObl2mxjVdb_1w&m=Ykpm-UHIbIoy1Fp02s-gJyrT92J2efLIuv960J6-w8M&s=gT8n4NFGeZFo8HhKYgS5VZfaoZQQMGzrPaY_QY-VvDE&e=",
+					"display_url": "urldefense.proofpoint.com/v2/url?u=Https…",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/6CVnql1O3t",
+					"expanded_url": "https://twitter.com/stiles/status/1106985710785978368",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 83494615,
+			"id_str": "83494615",
+			"name": "Ian Kysel",
+			"screen_name": "ianmkysel",
+			"location": "Los Angeles, CA",
+			"description": "Human rights lawyer @ACLU_SoCal; volunteer co-chair of @IMBRights steering committee. But tweets mine--mostly on criminal/juvenile justice and im/migration.",
+			"url": "https://t.co/Qv1VIov8rT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qv1VIov8rT",
+							"expanded_url": "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1591102",
+							"display_url": "papers.ssrn.com/sol3/cf_dev/Ab…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 836,
+			"friends_count": 1162,
+			"listed_count": 38,
+			"created_at": "Mon Oct 19 01:35:43 +0000 2009",
+			"favourites_count": 3389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2729265981/f7c02f5b02b7d861e1a5789edc2201e5_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2729265981/f7c02f5b02b7d861e1a5789edc2201e5_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83494615/1404762282",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106985710785978400,
+		"quoted_status_id_str": "1106985710785978368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6CVnql1O3t",
+			"expanded": "https://twitter.com/stiles/status/1106985710785978368",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 16 18:28:54 +0000 2019",
+			"id": 1106985710785978400,
+			"id_str": "1106985710785978368",
+			"full_text": "And we've made available our growing cache of documents and data obtained from @LACProbation under the state's open-records law. You can read and search the records here: https://t.co/LtrAohvs2I https://t.co/G5MhQTnAxQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LACProbation",
+						"name": "Los Angeles County Probation Department",
+						"id": 1683979206,
+						"id_str": "1683979206",
+						"indices": [
+							79,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LtrAohvs2I",
+						"expanded_url": "http://www.documentcloud.org/search/preview?q=document%3A+5771408+document%3A+5758404+document%3A+5750497+document%3A+5750496+document%3A+5750493+document%3A+5750489+document%3A+5724228&slug=document-5771408-document-5758404-document-5750497-document-5750496-document-5750493-document-5750489-document-5724228&options=%7B%22q%22%3A%22document%3A+5771408+document%3A+5758404+document%3A+5750497+document%3A+5750496+document%3A+5750493+document%3A+5750489+document%3A+5724228%22%2C%22container%22%3A%22%23DC-search-document-5771408-document-5758404-document-5750497-document-5750496-document-5750493-document-5750489-document-5724228%22%2C%22title%22%3A%22LA+Times%3A+LA+County+Probation+Documents%22%2C%22order%22%3A%22title%22%2C%22per_page%22%3A%2212%22%2C%22search_bar%22%3Atrue%2C%22organization%22%3A5%7D",
+						"display_url": "documentcloud.org/search/preview…",
+						"indices": [
+							171,
+							194
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1106985450030301200,
+						"id_str": "1106985450030301184",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/D1zNZtiVAAATiz5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1zNZtiVAAATiz5.jpg",
+						"url": "https://t.co/G5MhQTnAxQ",
+						"display_url": "pic.twitter.com/G5MhQTnAxQ",
+						"expanded_url": "https://twitter.com/stiles/status/1106985710785978368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 268,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 995,
+								"h": 392,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 995,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1106985450030301200,
+						"id_str": "1106985450030301184",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/D1zNZtiVAAATiz5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1zNZtiVAAATiz5.jpg",
+						"url": "https://t.co/G5MhQTnAxQ",
+						"display_url": "pic.twitter.com/G5MhQTnAxQ",
+						"expanded_url": "https://twitter.com/stiles/status/1106985710785978368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 268,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 995,
+								"h": 392,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 995,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1106984386233163800,
+			"in_reply_to_status_id_str": "1106984386233163776",
+			"in_reply_to_user_id": 14790314,
+			"in_reply_to_user_id_str": "14790314",
+			"in_reply_to_screen_name": "stiles",
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles, CA",
+				"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10550,
+				"friends_count": 1474,
+				"listed_count": 878,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 5336,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13215,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1552718689",
+				"profile_link_color": "01A8D4",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our related coalition letter here: https://t.co/pRirE9v70n https://t.co/6CVnql1O3t"
+	},
+	{
+		"created_at": "Sat Mar 16 19:03:37 +0000 2019",
+		"id": 1106994173641543700,
+		"id_str": "1106994445772193792",
+		"full_text": "More coverage by @stiles on broken @LACProbation and assault on youth. Key detail - pepper spray use NOT clearly declining. Highlights need for transparency and independent oversight as Department shows it cannot police (or accurately track and evaluate) itself. https://t.co/uc92pvRGxk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "LACProbation",
+					"name": "Los Angeles County Probation Department",
+					"id": 1683979206,
+					"id_str": "1683979206",
+					"indices": [
+						35,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uc92pvRGxk",
+					"expanded_url": "https://twitter.com/stiles/status/1106982828871344128",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 83494615,
+			"id_str": "83494615",
+			"name": "Ian Kysel",
+			"screen_name": "ianmkysel",
+			"location": "Los Angeles, CA",
+			"description": "Human rights lawyer @ACLU_SoCal; volunteer co-chair of @IMBRights steering committee. But tweets mine--mostly on criminal/juvenile justice and im/migration.",
+			"url": "https://t.co/Qv1VIov8rT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qv1VIov8rT",
+							"expanded_url": "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1591102",
+							"display_url": "papers.ssrn.com/sol3/cf_dev/Ab…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 836,
+			"friends_count": 1162,
+			"listed_count": 38,
+			"created_at": "Mon Oct 19 01:35:43 +0000 2009",
+			"favourites_count": 3389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2729265981/f7c02f5b02b7d861e1a5789edc2201e5_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2729265981/f7c02f5b02b7d861e1a5789edc2201e5_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83494615/1404762282",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106982828871344100,
+		"quoted_status_id_str": "1106982828871344128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uc92pvRGxk",
+			"expanded": "https://twitter.com/stiles/status/1106982828871344128",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 16 18:17:27 +0000 2019",
+			"id": 1106982828871344100,
+			"id_str": "1106982828871344128",
+			"full_text": "‘Unreliable’ data threatening reforms at L.A. County’s juvenile detention centers. My latest story on @LACProbation: https://t.co/9Akn1m9QZ7 https://t.co/tgqoI5br8P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LACProbation",
+						"name": "Los Angeles County Probation Department",
+						"id": 1683979206,
+						"id_str": "1683979206",
+						"indices": [
+							102,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9Akn1m9QZ7",
+						"expanded_url": "https://lat.ms/2TfQpVC",
+						"display_url": "lat.ms/2TfQpVC",
+						"indices": [
+							117,
+							140
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1106982690421510100,
+						"id_str": "1106982690421510144",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/D1zK5FMUkAAjdiG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1zK5FMUkAAjdiG.jpg",
+						"url": "https://t.co/tgqoI5br8P",
+						"display_url": "pic.twitter.com/tgqoI5br8P",
+						"expanded_url": "https://twitter.com/stiles/status/1106982828871344128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1106982690421510100,
+						"id_str": "1106982690421510144",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/D1zK5FMUkAAjdiG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1zK5FMUkAAjdiG.jpg",
+						"url": "https://t.co/tgqoI5br8P",
+						"display_url": "pic.twitter.com/tgqoI5br8P",
+						"expanded_url": "https://twitter.com/stiles/status/1106982828871344128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles, CA",
+				"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10550,
+				"friends_count": 1474,
+				"listed_count": 878,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 5336,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13215,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1552718689",
+				"profile_link_color": "01A8D4",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More coverage by @stiles on broken @LACProbation and assault on youth. Key detail - pepper spray use NOT clearly declining. Highlights need for transparency and independent oversight as Department shows it cannot police (or accurately track and evaluate) itself. https://t.co/uc92pvRGxk"
+	},
+	{
+		"created_at": "Sat Mar 16 18:39:32 +0000 2019",
+		"id": 1106684923455262700,
+		"id_str": "1106988386483474432",
+		"full_text": ".@thewendylee and @ronlin are in Christchurch: https://t.co/roxndTnw8y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thewendylee",
+					"name": "Wendy Lee",
+					"id": 43875529,
+					"id_str": "43875529",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"screen_name": "ronlin",
+					"name": "Ron Lin",
+					"id": 14480618,
+					"id_str": "14480618",
+					"indices": [
+						18,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/roxndTnw8y",
+					"expanded_url": "https://www.latimes.com/world/la-fg-new-zealand-mosque-terrorist-attack-20190315-story.html",
+					"display_url": "latimes.com/world/la-fg-ne…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69004966,
+			"id_str": "69004966",
+			"name": "Matt Pearce 🦅",
+			"screen_name": "mattdpearce",
+			"location": "matt.pearce@latimes.com",
+			"description": "National correspondent for the Los Angeles Times. May the forces of evil become confused on the way to your house.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142900,
+			"friends_count": 2561,
+			"listed_count": 4199,
+			"created_at": "Wed Aug 26 15:05:15 +0000 2009",
+			"favourites_count": 128256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 123300,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "383838",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002554410717757442/ywgIlN3N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002554410717757442/ywgIlN3N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69004966/1484268255",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0E0E0",
+			"profile_text_color": "4F4E4E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@thewendylee and @ronlin are in Christchurch: https://t.co/roxndTnw8y"
+	},
+	{
+		"created_at": "Sat Mar 16 18:28:54 +0000 2019",
+		"id": 1106985710785978400,
+		"id_str": "1106985710785978368",
+		"full_text": "And we've made available our growing cache of documents and data obtained from @LACProbation under the state's open-records law. You can read and search the records here: https://t.co/LtrAohvs2I https://t.co/G5MhQTnAxQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACProbation",
+					"name": "Los Angeles County Probation Department",
+					"id": 1683979206,
+					"id_str": "1683979206",
+					"indices": [
+						79,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LtrAohvs2I",
+					"expanded_url": "http://www.documentcloud.org/search/preview?q=document%3A+5771408+document%3A+5758404+document%3A+5750497+document%3A+5750496+document%3A+5750493+document%3A+5750489+document%3A+5724228&slug=document-5771408-document-5758404-document-5750497-document-5750496-document-5750493-document-5750489-document-5724228&options=%7B%22q%22%3A%22document%3A+5771408+document%3A+5758404+document%3A+5750497+document%3A+5750496+document%3A+5750493+document%3A+5750489+document%3A+5724228%22%2C%22container%22%3A%22%23DC-search-document-5771408-document-5758404-document-5750497-document-5750496-document-5750493-document-5750489-document-5724228%22%2C%22title%22%3A%22LA+Times%3A+LA+County+Probation+Documents%22%2C%22order%22%3A%22title%22%2C%22per_page%22%3A%2212%22%2C%22search_bar%22%3Atrue%2C%22organization%22%3A5%7D",
+					"display_url": "documentcloud.org/search/preview…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1106985450030301200,
+					"id_str": "1106985450030301184",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D1zNZtiVAAATiz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1zNZtiVAAATiz5.jpg",
+					"url": "https://t.co/G5MhQTnAxQ",
+					"display_url": "pic.twitter.com/G5MhQTnAxQ",
+					"expanded_url": "https://twitter.com/stiles/status/1106985710785978368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 995,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 995,
+							"h": 392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106985450030301200,
+					"id_str": "1106985450030301184",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/D1zNZtiVAAATiz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1zNZtiVAAATiz5.jpg",
+					"url": "https://t.co/G5MhQTnAxQ",
+					"display_url": "pic.twitter.com/G5MhQTnAxQ",
+					"expanded_url": "https://twitter.com/stiles/status/1106985710785978368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 995,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 995,
+							"h": 392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1106984386233163800,
+		"in_reply_to_status_id_str": "1106984386233163776",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10550,
+			"friends_count": 1474,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13215,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1552718689",
+			"profile_link_color": "01A8D4",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And we've made available our growing cache of documents and data obtained from @LACProbation under the state's open-records law. You can read and search the records here: https://t.co/LtrAohvs2I https://t.co/G5MhQTnAxQ"
+	},
+	{
 		"created_at": "Sat Mar 16 18:19:31 +0000 2019",
 		"id": 1106983345701843000,
 		"id_str": "1106983345701842944",
