@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 13:56:51 +0000 2019",
+		"id": 1107032498188501000,
+		"id_str": "1107279631940378624",
+		"full_text": "Fox News asks Pompeo where climate change ranks on his list of top threats to the United States. He says it doesn't break his top 5. His list is:\n1. China \n2. Pakistan\n3. North Korea\n...\"I think I’m at five already\"... https://t.co/npv7J48dqK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107031960424206300,
+					"id_str": "1107031960424206338",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/D1z3s-QW0AIEj7U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1z3s-QW0AIEj7U.jpg",
+					"url": "https://t.co/npv7J48dqK",
+					"display_url": "pic.twitter.com/npv7J48dqK",
+					"expanded_url": "https://twitter.com/John_Hudson/status/1107032498188500995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 166,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1494,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107031960424206300,
+					"id_str": "1107031960424206338",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/D1z3s-QW0AIEj7U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1z3s-QW0AIEj7U.jpg",
+					"url": "https://t.co/npv7J48dqK",
+					"display_url": "pic.twitter.com/npv7J48dqK",
+					"expanded_url": "https://twitter.com/John_Hudson/status/1107032498188500995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 166,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1494,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26668729,
+			"id_str": "26668729",
+			"name": "John Hudson",
+			"screen_name": "John_Hudson",
+			"location": "Washington, D.C.",
+			"description": "I cover diplomacy & national security for The @WashingtonPost | Tips: John.Hudson@WashPost.com or 202-334-9172 | Newsletter: https://t.co/FveMTxhPdo",
+			"url": "https://t.co/Kegxac7xCs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kegxac7xCs",
+							"expanded_url": "https://www.facebook.com/John.P.Hudson2",
+							"display_url": "facebook.com/John.P.Hudson2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FveMTxhPdo",
+							"expanded_url": "https://tinyletter.com/John_Hudson",
+							"display_url": "tinyletter.com/John_Hudson",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35444,
+			"friends_count": 2802,
+			"listed_count": 1070,
+			"created_at": "Thu Mar 26 02:39:24 +0000 2009",
+			"favourites_count": 6573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18471,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/831307428364972036/NMwnVD8I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/831307428364972036/NMwnVD8I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26668729/1486572198",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1366,
+		"favorite_count": 3470,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fox News asks Pompeo where climate change ranks on his list of top threats to the United States. He says it doesn't break his top 5. His list is:\n1. China \n2. Pakistan\n3. North Korea\n...\"I think I’m at five already\"... https://t.co/npv7J48dqK"
+	},
+	{
+		"created_at": "Sun Mar 17 13:52:06 +0000 2019",
+		"id": 1106904302553960400,
+		"id_str": "1107278439998869505",
+		"full_text": "Dear @moonriver365 and @TheBlueHouseENG - please can you kindly clarify your position on the role of journalism in South Korea?\n\n(Cc @JongseokYun) https://t.co/6nZtsEJZt6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "moonriver365",
+					"name": "문재인",
+					"id": 444465942,
+					"id_str": "444465942",
+					"indices": [
+						5,
+						18
+					]
+				},
+				{
+					"screen_name": "TheBlueHouseENG",
+					"name": "The Office of President Moon Jae-in",
+					"id": 1009306516514488300,
+					"id_str": "1009306516514488321",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"screen_name": "JongseokYun",
+					"name": "jongseok yun",
+					"id": 993860396434899000,
+					"id_str": "993860396434898944",
+					"indices": [
+						133,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6nZtsEJZt6",
+					"expanded_url": "https://twitter.com/SubinBKim/status/1106811782469808128",
+					"display_url": "twitter.com/SubinBKim/stat…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1607602940,
+			"id_str": "1607602940",
+			"name": "Chad O'Carroll",
+			"screen_name": "chadocl",
+			"location": "",
+			"description": "CEO of Korea Risk Group, which produces the specialist North Korea publications NK Pro and NK News. Views own.",
+			"url": "https://t.co/p2yQx0AkyB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p2yQx0AkyB",
+							"expanded_url": "http://www.korearisk.com",
+							"display_url": "korearisk.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7789,
+			"friends_count": 630,
+			"listed_count": 381,
+			"created_at": "Sat Jul 20 06:25:11 +0000 2013",
+			"favourites_count": 4644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1607602940/1423747730",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106811782469808100,
+		"quoted_status_id_str": "1106811782469808128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6nZtsEJZt6",
+			"expanded": "https://twitter.com/SubinBKim/status/1106811782469808128",
+			"display": "twitter.com/SubinBKim/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 16 06:57:47 +0000 2019",
+			"id": 1106811782469808100,
+			"id_str": "1106811782469808128",
+			"full_text": "SFCC released a statement on the ruling party’s personal attack on the Bloomberg journalist today: https://t.co/gOQATZNhwX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1106811774316101600,
+						"id_str": "1106811774316101632",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/D1wvcdFUwAATstQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1wvcdFUwAATstQ.jpg",
+						"url": "https://t.co/gOQATZNhwX",
+						"display_url": "pic.twitter.com/gOQATZNhwX",
+						"expanded_url": "https://twitter.com/SubinBKim/status/1106811782469808128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 534,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1581,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 943,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1106811774316101600,
+						"id_str": "1106811774316101632",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/D1wvcdFUwAATstQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1wvcdFUwAATstQ.jpg",
+						"url": "https://t.co/gOQATZNhwX",
+						"display_url": "pic.twitter.com/gOQATZNhwX",
+						"expanded_url": "https://twitter.com/SubinBKim/status/1106811782469808128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 534,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1581,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 943,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 190125206,
+				"id_str": "190125206",
+				"name": "Subin Kim",
+				"screen_name": "SubinBKim",
+				"location": "Seoul, Korea",
+				"description": "Broadcast Journalist @ BBC Korean; reserve air defense artillery lieutenant; porcine enthusiast; views are mine not my employer's",
+				"url": "https://t.co/jwXauZncOM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jwXauZncOM",
+								"expanded_url": "http://subin.kim",
+								"display_url": "subin.kim",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1518,
+				"friends_count": 223,
+				"listed_count": 89,
+				"created_at": "Mon Sep 13 03:43:04 +0000 2010",
+				"favourites_count": 1932,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8618,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964142879923826688/pYMV6cyj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964142879923826688/pYMV6cyj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/190125206/1544328015",
+				"profile_link_color": "FF6517",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 202,
+			"favorite_count": 94,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 26,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear @moonriver365 and @TheBlueHouseENG - please can you kindly clarify your position on the role of journalism in South Korea?\n\n(Cc @JongseokYun) https://t.co/6nZtsEJZt6"
+	},
+	{
 		"created_at": "Sat Mar 16 23:19:36 +0000 2019",
 		"id": 1107034462183841800,
 		"id_str": "1107058866640977922",
