@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 17:23:14 +0000 2019",
+		"id": 1108033865757544400,
+		"id_str": "1108056345146580993",
+		"full_text": "New L.A. Times owner Patrick Soon-Shiong says he will invest what it takes to make the company ‘a viable business for at least another 100 years.’ https://t.co/RvU8EzDqyF via @WSJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WSJ",
+					"name": "The Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						175,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RvU8EzDqyF",
+					"expanded_url": "https://www.wsj.com/articles/los-angeles-times-owner-has-high-digital-ambitions-11553006559?shareToken=std79be44c2b60442188891d3d20954869",
+					"display_url": "wsj.com/articles/los-a…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56872769,
+			"id_str": "56872769",
+			"name": "Steve Clow",
+			"screen_name": "steveclowLA",
+			"location": "405, California",
+			"description": "Los Angeles Times 📰| City/county/state/homelessness/projects. | Previous: Movies, politics, baseball and more | Alum of: USC, National Sports Daily",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1824,
+			"friends_count": 2840,
+			"listed_count": 96,
+			"created_at": "Wed Jul 15 00:44:38 +0000 2009",
+			"favourites_count": 7801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9157,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/823985317044633600/Rn9VEWNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/823985317044633600/Rn9VEWNC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56872769/1541827929",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New L.A. Times owner Patrick Soon-Shiong says he will invest what it takes to make the company ‘a viable business for at least another 100 years.’ https://t.co/RvU8EzDqyF via @WSJ"
+	},
+	{
 		"created_at": "Tue Mar 19 17:08:57 +0000 2019",
 		"id": 1108052753455169500,
 		"id_str": "1108052753455169537",
