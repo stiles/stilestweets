@@ -1,6 +1,648 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 17:08:57 +0000 2019",
+		"id": 1108052753455169500,
+		"id_str": "1108052753455169537",
+		"full_text": "YAY BOWERS https://t.co/pLdeU7ubHG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pLdeU7ubHG",
+					"expanded_url": "https://twitter.com/WashPostPR/status/1108006912715558912",
+					"display_url": "twitter.com/WashPostPR/sta…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10553,
+			"friends_count": 1475,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1552718689",
+			"profile_link_color": "01A8D4",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108006912715558900,
+		"quoted_status_id_str": "1108006912715558912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pLdeU7ubHG",
+			"expanded": "https://twitter.com/WashPostPR/status/1108006912715558912",
+			"display": "twitter.com/WashPostPR/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 19 14:06:48 +0000 2019",
+			"id": 1108006912715558900,
+			"id_str": "1108006912715558912",
+			"full_text": "The Post adds @jeremybowers as director of engineering, overseeing a team dedicated to supporting @postpolitics ahead of the 2020 presidential election. https://t.co/1jdqmDAco9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jeremybowers",
+						"name": "Jeremy Bowers",
+						"id": 8083262,
+						"id_str": "8083262",
+						"indices": [
+							14,
+							27
+						]
+					},
+					{
+						"screen_name": "postpolitics",
+						"name": "Post Politics",
+						"id": 14345062,
+						"id_str": "14345062",
+						"indices": [
+							98,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1jdqmDAco9",
+						"expanded_url": "https://wapo.st/2ThwCF7",
+						"display_url": "wapo.st/2ThwCF7",
+						"indices": [
+							153,
+							176
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34369632,
+				"id_str": "34369632",
+				"name": "Washington Post PR",
+				"screen_name": "WashPostPR",
+				"location": "Washington, D.C.",
+				"description": "The Washington Post PR Team takes you inside The Post with links to breaking news, exclusive reporting and general musings about what’s hot in the news.",
+				"url": "http://t.co/x6kUi7pS07",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/x6kUi7pS07",
+								"expanded_url": "http://www.washingtonpost.com/pr/",
+								"display_url": "washingtonpost.com/pr/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22911,
+				"friends_count": 1085,
+				"listed_count": 875,
+				"created_at": "Wed Apr 22 19:27:33 +0000 2009",
+				"favourites_count": 241,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9329,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908408310071808000/_py8uoqs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908408310071808000/_py8uoqs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34369632/1469482405",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 88,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YAY BOWERS https://t.co/pLdeU7ubHG"
+	},
+	{
+		"created_at": "Tue Mar 19 17:07:46 +0000 2019",
+		"id": 1107776890813800400,
+		"id_str": "1108052452970881025",
+		"full_text": "Big loss for @TexasTribune — @rdmurphy is practically OG TT — but we’re all so happy for our pal, the Boy King of Sour Lake. After nine years he deserves his time in the California sun. He made us so much better than we would have been #txlege https://t.co/4i5Mphb0EE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "txlege",
+					"indices": [
+						236,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TexasTribune",
+					"name": "Texas Tribune",
+					"id": 44513878,
+					"id_str": "44513878",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "rdmurphy",
+					"name": "Ryan Murphy",
+					"id": 20031243,
+					"id_str": "20031243",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4i5Mphb0EE",
+					"expanded_url": "https://twitter.com/palewire/status/1107774392325410816",
+					"display_url": "twitter.com/palewire/statu…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18791654,
+			"id_str": "18791654",
+			"name": "Evan Smith",
+			"screen_name": "evanasmith",
+			"location": "Austin, Texas",
+			"description": "CEO of @texastribune. Host of @overheardpbs. Former editor of @texasmonthly. Political junkie, passable tennis player, @wilco fanboy, future ex-vegetarian.",
+			"url": "https://t.co/6AlMrCBSkt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6AlMrCBSkt",
+							"expanded_url": "http://www.texastribune.org",
+							"display_url": "texastribune.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51835,
+			"friends_count": 4168,
+			"listed_count": 1550,
+			"created_at": "Fri Jan 09 04:08:03 +0000 2009",
+			"favourites_count": 1224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33536,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/652120854541631488/zifcbSVc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/652120854541631488/zifcbSVc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18791654/1543465234",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107774392325410800,
+		"quoted_status_id_str": "1107774392325410816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4i5Mphb0EE",
+			"expanded": "https://twitter.com/palewire/status/1107774392325410816",
+			"display": "twitter.com/palewire/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 18 22:42:51 +0000 2019",
+			"id": 1107774392325410800,
+			"id_str": "1107774392325410816",
+			"full_text": "🗞️ #BREAKING 🗞️\n\nYour @LATdatadesk is growing.\n\nPlease welcome @sandhya__k and @rdmurphy to the @latimes newsroom.\n\nHere's the announcement to our staff from @NPearlstine and @sewellchan, sent moments ago. https://t.co/MBmjTigdFe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BREAKING",
+						"indices": [
+							3,
+							12
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LATdatadesk",
+						"name": "The Data Desk",
+						"id": 17918860,
+						"id_str": "17918860",
+						"indices": [
+							22,
+							34
+						]
+					},
+					{
+						"screen_name": "sandhya__k",
+						"name": "Sandhya Kambhampati",
+						"id": 221255986,
+						"id_str": "221255986",
+						"indices": [
+							63,
+							74
+						]
+					},
+					{
+						"screen_name": "rdmurphy",
+						"name": "Ryan Murphy",
+						"id": 20031243,
+						"id_str": "20031243",
+						"indices": [
+							79,
+							88
+						]
+					},
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							96,
+							104
+						]
+					},
+					{
+						"screen_name": "NPearlstine",
+						"name": "Norman Pearlstine",
+						"id": 14345207,
+						"id_str": "14345207",
+						"indices": [
+							158,
+							170
+						]
+					},
+					{
+						"screen_name": "sewellchan",
+						"name": "Sewell Chan",
+						"id": 1198481,
+						"id_str": "1198481",
+						"indices": [
+							175,
+							186
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1107774166646681600,
+						"id_str": "1107774166646681600",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/D1-avD5UcAA1AIZ.png",
+						"media_url_https": "https://pbs.twimg.com/media/D1-avD5UcAA1AIZ.png",
+						"url": "https://t.co/MBmjTigdFe",
+						"display_url": "pic.twitter.com/MBmjTigdFe",
+						"expanded_url": "https://twitter.com/palewire/status/1107774392325410816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 526,
+								"h": 852,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 526,
+								"h": 852,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1107774166646681600,
+						"id_str": "1107774166646681600",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/D1-avD5UcAA1AIZ.png",
+						"media_url_https": "https://pbs.twimg.com/media/D1-avD5UcAA1AIZ.png",
+						"url": "https://t.co/MBmjTigdFe",
+						"display_url": "pic.twitter.com/MBmjTigdFe",
+						"expanded_url": "https://twitter.com/palewire/status/1107774392325410816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 526,
+								"h": 852,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 526,
+								"h": 852,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 420,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14559196,
+				"id_str": "14559196",
+				"name": "Ben Welsh",
+				"screen_name": "palewire",
+				"location": "Live and direct",
+				"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+				"url": "https://t.co/kogJ0fJceo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kogJ0fJceo",
+								"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+								"display_url": "palewi.re/who-is-ben-wel…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lZvqTdDOmO",
+								"expanded_url": "http://www.californiacivicdata.org",
+								"display_url": "californiacivicdata.org",
+								"indices": [
+									46,
+									69
+								]
+							},
+							{
+								"url": "https://t.co/CaO6K276g3",
+								"expanded_url": "http://pastpages.org",
+								"display_url": "pastpages.org",
+								"indices": [
+									83,
+									106
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8756,
+				"friends_count": 3047,
+				"listed_count": 696,
+				"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53986,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDDDDD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 237,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big loss for @TexasTribune — @rdmurphy is practically OG TT — but we’re all so happy for our pal, the Boy King of Sour Lake. After nine years he deserves his time in the California sun. He made us so much better than we would have been #txlege https://t.co/4i5Mphb0EE"
+	},
+	{
 		"created_at": "Tue Mar 19 04:07:46 +0000 2019",
 		"id": 1107776667584512000,
 		"id_str": "1107856162660061184",
