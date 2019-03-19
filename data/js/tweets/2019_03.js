@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 04:07:46 +0000 2019",
+		"id": 1107776667584512000,
+		"id_str": "1107856162660061184",
+		"full_text": "Some personal news: I'm excited to announce I'm joining the @LATdatadesk as a data reporter working w/ @uscensusbureau data &amp; immigration in May 📊📈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATdatadesk",
+					"name": "The Data Desk",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "uscensusbureau",
+					"name": "U.S. Census Bureau",
+					"id": 23092890,
+					"id_str": "23092890",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 221255986,
+			"id_str": "221255986",
+			"name": "Sandhya Kambhampati",
+			"screen_name": "sandhya__k",
+			"location": "Chicago, IL",
+			"description": "Data reporter @ProPublicaIL. Likes stats, FOIA & ice cream | email: sandhya@propublica.org | DM for Signal #",
+			"url": "https://t.co/raU7Y1RJNF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/raU7Y1RJNF",
+							"expanded_url": "http://www.sandhyakambhampati.com",
+							"display_url": "sandhyakambhampati.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4830,
+			"friends_count": 866,
+			"listed_count": 263,
+			"created_at": "Tue Nov 30 04:37:53 +0000 2010",
+			"favourites_count": 9052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8641,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DFEFF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/918495743475728389/-9L31zWN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/918495743475728389/-9L31zWN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/221255986/1508726878",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 327,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Some personal news: I'm excited to announce I'm joining the @LATdatadesk as a data reporter working w/ @uscensusbureau data &amp; immigration in May 📊📈"
+	},
+	{
 		"created_at": "Mon Mar 18 14:58:58 +0000 2019",
 		"id": 1107657654556598300,
 		"id_str": "1107657654556598272",
