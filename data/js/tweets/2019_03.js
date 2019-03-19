@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 18:42:56 +0000 2019",
+		"id": 1108075796214607900,
+		"id_str": "1108076402769686529",
+		"full_text": "Devin Nunes' lawsuit is already having a big impact — @DevinCow went from 1,000 to 115,000 followers, @sarahdwire\nreports. \n\nhttps://t.co/iJ5mUBYxH8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DevinCow",
+					"name": "Devin Nunes’ cow",
+					"id": 892275857779118100,
+					"id_str": "892275857779118080",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"screen_name": "sarahdwire",
+					"name": "Sarah D. Wire",
+					"id": 15704971,
+					"id_str": "15704971",
+					"indices": [
+						102,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iJ5mUBYxH8",
+					"expanded_url": "https://www.latimes.com/politics/la-na-pol-devin-nunes-twitter-lawsuit-parody-cow-20190319-story.html",
+					"display_url": "latimes.com/politics/la-na…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31532083,
+			"id_str": "31532083",
+			"name": "Chris Megerian",
+			"screen_name": "ChrisMegerian",
+			"location": "Washington, DC",
+			"description": "Los Angeles Times reporter in Washington writing about the Russia investigation. Previously covered the 2016 campaign and Sacramento. Former Star-Ledger writer.",
+			"url": "https://t.co/Pzslg4M8Od",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pzslg4M8Od",
+							"expanded_url": "http://www.latimes.com/la-bio-chris-megerian-staff.html",
+							"display_url": "latimes.com/la-bio-chris-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29346,
+			"friends_count": 1624,
+			"listed_count": 1099,
+			"created_at": "Wed Apr 15 21:48:21 +0000 2009",
+			"favourites_count": 2145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 62534,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/917983855734411264/Eg2d29P6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/917983855734411264/Eg2d29P6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31532083/1507686182",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 290,
+		"favorite_count": 1049,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Devin Nunes' lawsuit is already having a big impact — @DevinCow went from 1,000 to 115,000 followers, @sarahdwire\nreports. \n\nhttps://t.co/iJ5mUBYxH8"
+	},
+	{
+		"created_at": "Tue Mar 19 18:41:47 +0000 2019",
+		"id": 1107804000294965200,
+		"id_str": "1108076113673089025",
+		"full_text": "And here is how Nunes describes himself: https://t.co/lFbkW4JKSZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107803992942411800,
+					"id_str": "1107803992942411776",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D1-13LgXgAAL3Zd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1-13LgXgAAL3Zd.jpg",
+					"url": "https://t.co/lFbkW4JKSZ",
+					"display_url": "pic.twitter.com/lFbkW4JKSZ",
+					"expanded_url": "https://twitter.com/bradheath/status/1107804000294965248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1420,
+							"h": 257,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 217,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107803992942411800,
+					"id_str": "1107803992942411776",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D1-13LgXgAAL3Zd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1-13LgXgAAL3Zd.jpg",
+					"url": "https://t.co/lFbkW4JKSZ",
+					"display_url": "pic.twitter.com/lFbkW4JKSZ",
+					"expanded_url": "https://twitter.com/bradheath/status/1107804000294965248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1420,
+							"h": 257,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 217,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1107803428321935400,
+		"in_reply_to_status_id_str": "1107803428321935360",
+		"in_reply_to_user_id": 14362404,
+		"in_reply_to_user_id_str": "14362404",
+		"in_reply_to_screen_name": "bradheath",
+		"user": {
+			"id": 14362404,
+			"id_str": "14362404",
+			"name": "Brad Heath",
+			"screen_name": "bradheath",
+			"location": "Washington",
+			"description": "DC Justice and Investigations Editor for @usatoday. Data, documents and, allegedly, \"convoluted KGB style back-door\" stuff. • bheath@usatoday.com • 202-527-9709",
+			"url": "https://t.co/4PolW6u8mZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4PolW6u8mZ",
+							"expanded_url": "http://bradheath.org/contact",
+							"display_url": "bradheath.org/contact",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54416,
+			"friends_count": 1074,
+			"listed_count": 1435,
+			"created_at": "Fri Apr 11 16:45:09 +0000 2008",
+			"favourites_count": 3408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29822,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058483170667040768/PjNCtHgg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058483170667040768/PjNCtHgg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14362404/1539921868",
+			"profile_link_color": "336699",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 180,
+		"favorite_count": 882,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And here is how Nunes describes himself: https://t.co/lFbkW4JKSZ"
+	},
+	{
 		"created_at": "Tue Mar 19 17:23:14 +0000 2019",
 		"id": 1108033865757544400,
 		"id_str": "1108056345146580993",
