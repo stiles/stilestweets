@@ -552,8 +552,8 @@ var Grailbird = function (type, date, data) {
 
     exports.localizeStrings = function() {
       $('html').attr('lang', payload_details["lang"]);
-      document.title = "Your Twitter archive";
-      $('#footer-text').append("This is an offline archive of your Tweets from Twitter. Use the months above to navigate the archive.");
+      document.title = "Matt @stiles Twitter archive";
+      $('#footer-text').append("These are your Tweets. There are many like it, but this one is yours.");
       var compose_new_tweet = "Compose new Tweet";
       $('#compose-tweet').append(compose_new_tweet);
       $('#compose-tweet-a').attr('title', compose_new_tweet);
