@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 20 02:24:52 +0000 2019",
+		"id": 1108192483501064200,
+		"id_str": "1108192654553018368",
+		"full_text": "Relevant for 2020: a map of how liberal identification varies among Democrats by state https://t.co/jiwj6T4HGa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108190738272137200,
+					"id_str": "1108190738272137216",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D2EVmuIWsAAwVx3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2EVmuIWsAAwVx3.jpg",
+					"url": "https://t.co/jiwj6T4HGa",
+					"display_url": "pic.twitter.com/jiwj6T4HGa",
+					"expanded_url": "https://twitter.com/gelliottmorris/status/1108192483501064194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 692,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1652,
+							"h": 952,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108190738272137200,
+					"id_str": "1108190738272137216",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/D2EVmuIWsAAwVx3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2EVmuIWsAAwVx3.jpg",
+					"url": "https://t.co/jiwj6T4HGa",
+					"display_url": "pic.twitter.com/jiwj6T4HGa",
+					"expanded_url": "https://twitter.com/gelliottmorris/status/1108192483501064194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 692,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1652,
+							"h": 952,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57029492,
+			"id_str": "57029492",
+			"name": "G. Elliott Morris",
+			"screen_name": "gelliottmorris",
+			"location": "Washington, DC",
+			"description": "Data journalist for @TheEconomist | Polls, elections, & poli sci blogger | Past: @pewmethods @DecisionDeskHQ | Alum @UTAustin | Do #rstats at @DataCamp",
+			"url": "https://t.co/YHogBUNSIR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YHogBUNSIR",
+							"expanded_url": "http://thecrosstab.com",
+							"display_url": "thecrosstab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31005,
+			"friends_count": 752,
+			"listed_count": 1000,
+			"created_at": "Wed Jul 15 14:24:06 +0000 2009",
+			"favourites_count": 32899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31042,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045772033232175104/y18foYIv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045772033232175104/y18foYIv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57029492/1542074106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Relevant for 2020: a map of how liberal identification varies among Democrats by state https://t.co/jiwj6T4HGa"
+	},
+	{
 		"created_at": "Wed Mar 20 02:18:48 +0000 2019",
 		"id": 1108191128086442000,
 		"id_str": "1108191128086441984",
