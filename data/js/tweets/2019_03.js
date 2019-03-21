@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 14:58:43 +0000 2019",
+		"id": 1108404294556897300,
+		"id_str": "1108744755863678976",
+		"full_text": "*taps on nerd mic*\n\nSo after being inspired by @abtran's NICAR crash course into mapping in R, I decided to take what I learned and apply it to this recent collab with @AlpertReyes https://t.co/eqoXdcahuE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abtran",
+					"name": "Andrew Ba Tran",
+					"id": 11670602,
+					"id_str": "11670602",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"screen_name": "AlpertReyes",
+					"name": "Emily Alpert Reyes",
+					"id": 25458792,
+					"id_str": "25458792",
+					"indices": [
+						168,
+						180
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eqoXdcahuE",
+					"expanded_url": "https://twitter.com/AlpertReyes/status/1108376791004020736",
+					"display_url": "twitter.com/AlpertReyes/st…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16608336,
+			"id_str": "16608336",
+			"name": "Kyle Kim",
+			"screen_name": "kyleykim",
+			"location": "Los Angeles",
+			"description": "Graphics and data viz @latimesgraphics | 🎾 NTRP 3.5 | banh mi and tacos al pastor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4807,
+			"friends_count": 1154,
+			"listed_count": 181,
+			"created_at": "Mon Oct 06 01:25:53 +0000 2008",
+			"favourites_count": 8302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923318022189629440/v1MpbAT2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923318022189629440/v1MpbAT2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16608336/1532537655",
+			"profile_link_color": "6CA9D6",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "1F1D25",
+			"profile_text_color": "51CECE",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108376791004020700,
+		"quoted_status_id_str": "1108376791004020736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eqoXdcahuE",
+			"expanded": "https://twitter.com/AlpertReyes/status/1108376791004020736",
+			"display": "twitter.com/AlpertReyes/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 20 14:36:34 +0000 2019",
+			"id": 1108376791004020700,
+			"id_str": "1108376791004020736",
+			"full_text": "L.A. promised more housing for homeless people — but some neighborhoods are way behind https://t.co/D0xDVxbKd7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D0xDVxbKd7",
+						"expanded_url": "https://www.latimes.com/local/lanow/la-me-ln-homeless-housing-hhh-20190320-story.html",
+						"display_url": "latimes.com/local/lanow/la…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25458792,
+				"id_str": "25458792",
+				"name": "Emily Alpert Reyes",
+				"screen_name": "AlpertReyes",
+				"location": "Los Angeles",
+				"description": "Reporter covering L.A. city government and politics for the Los Angeles Times. Reach me at emily.alpert@latimes.com.",
+				"url": "https://t.co/ifWgDURyxw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ifWgDURyxw",
+								"expanded_url": "http://www.latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8758,
+				"friends_count": 2630,
+				"listed_count": 499,
+				"created_at": "Fri Mar 20 04:19:07 +0000 2009",
+				"favourites_count": 2925,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29480,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/955240465175003137/XQS_1ax3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/955240465175003137/XQS_1ax3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25458792/1496177808",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*taps on nerd mic*\n\nSo after being inspired by @abtran's NICAR crash course into mapping in R, I decided to take what I learned and apply it to this recent collab with @AlpertReyes https://t.co/eqoXdcahuE"
+	},
+	{
 		"created_at": "Thu Mar 21 03:19:58 +0000 2019",
 		"id": 1108568907026067500,
 		"id_str": "1108568907026067458",
