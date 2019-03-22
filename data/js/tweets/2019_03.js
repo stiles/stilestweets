@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 21:02:23 +0000 2019",
+		"id": 1109198384693432300,
+		"id_str": "1109198661353762817",
+		"full_text": "BREAKING —&gt; Mueller has submitted his report to the Justice Department, officials say. 1/x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20114089,
+			"id_str": "20114089",
+			"name": "Del Quentin Wilber",
+			"screen_name": "DelWilber",
+			"location": "Washington, DC",
+			"description": "LA Times scribe & author of two books. Former WSJ, LA Times, Bloomberg News, Washington Post, Baltimore Sun. Recovering police reporter. Open DMs.",
+			"url": "https://t.co/ftouahQ8vx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ftouahQ8vx",
+							"expanded_url": "http://us.macmillan.com/books/9780805098822",
+							"display_url": "us.macmillan.com/books/97808050…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9426,
+			"friends_count": 2033,
+			"listed_count": 330,
+			"created_at": "Thu Feb 05 02:03:53 +0000 2009",
+			"favourites_count": 2970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35890,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104204469775056896/X_A6fvJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104204469775056896/X_A6fvJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20114089/1506609242",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 340,
+		"favorite_count": 470,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING —&gt; Mueller has submitted his report to the Justice Department, officials say. 1/x"
+	},
+	{
 		"created_at": "Fri Mar 22 05:03:35 +0000 2019",
 		"id": 1108957370988683300,
 		"id_str": "1108957370988683266",
