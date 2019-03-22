@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 01:16:52 +0000 2019",
+		"id": 1108865934176014300,
+		"id_str": "1108900317595222016",
+		"full_text": ".@LACOFD Chief Daryl Osby and @CountyofLA Public Works Director Mark Pestrella will present to the #Malibu City Council on fire flow capacity for #WoolseyFire rebuilds. The meeting is at Malibu City Hall on Mon, 3/25 at 6:30 PM. Agenda: https://t.co/mSU0cQHVrC https://t.co/GN9fJXaoyq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Malibu",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "WoolseyFire",
+					"indices": [
+						146,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACOFD",
+					"name": "LACoFD",
+					"id": 308751479,
+					"id_str": "308751479",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						30,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mSU0cQHVrC",
+					"expanded_url": "http://ow.ly/JDtd50nMMzn",
+					"display_url": "ow.ly/JDtd50nMMzn",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108865932410175500,
+					"id_str": "1108865932410175488",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D2N7sMTXQAAoN3W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2N7sMTXQAAoN3W.jpg",
+					"url": "https://t.co/GN9fJXaoyq",
+					"display_url": "pic.twitter.com/GN9fJXaoyq",
+					"expanded_url": "https://twitter.com/CityMalibu/status/1108865934176014336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108865932410175500,
+					"id_str": "1108865932410175488",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D2N7sMTXQAAoN3W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2N7sMTXQAAoN3W.jpg",
+					"url": "https://t.co/GN9fJXaoyq",
+					"display_url": "pic.twitter.com/GN9fJXaoyq",
+					"expanded_url": "https://twitter.com/CityMalibu/status/1108865934176014336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 389057579,
+			"id_str": "389057579",
+			"name": "City of Malibu",
+			"screen_name": "CityMalibu",
+			"location": "Malibu, California",
+			"description": "Official Twitter account of the City of Malibu. Follow us for the latest information on City news, events, projects and issues.",
+			"url": "http://t.co/GKaeMUg7Rk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/GKaeMUg7Rk",
+							"expanded_url": "http://www.malibucity.org",
+							"display_url": "malibucity.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12773,
+			"friends_count": 406,
+			"listed_count": 236,
+			"created_at": "Tue Oct 11 19:48:28 +0000 2011",
+			"favourites_count": 2470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7557,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "112257",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968928011939532800/iXE6INec_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968928011939532800/iXE6INec_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389057579/1519845316",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "404D66",
+			"profile_text_color": "080808",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": ".@LACOFD Chief Daryl Osby and @CountyofLA Public Works Director Mark Pestrella will present to the #Malibu City Council on fire flow capacity for #WoolseyFire rebuilds. The meeting is at Malibu City Hall on Mon, 3/25 at 6:30 PM. Agenda: https://t.co/mSU0cQHVrC https://t.co/GN9fJXaoyq"
+	},
+	{
 		"created_at": "Thu Mar 21 16:58:13 +0000 2019",
 		"id": 1108774825437220900,
 		"id_str": "1108774825437220864",
