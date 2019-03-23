@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 20:25:53 +0000 2019",
+		"id": 1109507660225884200,
+		"id_str": "1109551865102921728",
+		"full_text": "Just stumbled back on this classic #FOIA usage: To figure out the best place to fish https://t.co/wbZJTHerwA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FOIA",
+					"indices": [
+						35,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wbZJTHerwA",
+					"expanded_url": "https://www.cbc.ca/news/canada/thunder-bay/foi-request-fishing-spot-1.4232556",
+					"display_url": "cbc.ca/news/canada/th…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6181532,
+			"id_str": "6181532",
+			"name": "Michael Morisy",
+			"screen_name": "morisy",
+			"location": "Undisclosed Bunker, Cambridge",
+			"description": "Founder and chief executive @MuckRock, helping run @FOIAMachine @DocumentCloud QuackBot @oTranscribe. Board @NFOIC @asapACCESSPRO @CornellSun.",
+			"url": "https://t.co/peoL9sFr1R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/peoL9sFr1R",
+							"expanded_url": "https://www.muckrock.com",
+							"display_url": "muckrock.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8898,
+			"friends_count": 7439,
+			"listed_count": 511,
+			"created_at": "Sun May 20 16:43:11 +0000 2007",
+			"favourites_count": 28770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 646,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798990090336866304/yh-_aB1C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798990090336866304/yh-_aB1C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6181532/1424567511",
+			"profile_link_color": "0B23BD",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just stumbled back on this classic #FOIA usage: To figure out the best place to fish https://t.co/wbZJTHerwA"
+	},
+	{
 		"created_at": "Sat Mar 23 16:29:52 +0000 2019",
 		"id": 1109492467823329300,
 		"id_str": "1109492467823329281",
