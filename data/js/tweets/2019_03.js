@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 16:29:52 +0000 2019",
+		"id": 1109492467823329300,
+		"id_str": "1109492467823329281",
+		"full_text": "Useful summary by @peterbakernyt of what we've learned already from the #MuellerInvestigation — regardless of the report's contents. https://t.co/xDKBKVn9aU https://t.co/DiImSSFOGt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MuellerInvestigation",
+					"indices": [
+						72,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterbakernyt",
+					"name": "Peter Baker",
+					"id": 123327472,
+					"id_str": "123327472",
+					"indices": [
+						18,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xDKBKVn9aU",
+					"expanded_url": "https://nyti.ms/2CuJ3Ib",
+					"display_url": "nyti.ms/2CuJ3Ib",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1109492403541401600,
+					"id_str": "1109492403541401600",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D2W1dnIUYAA9RJi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2W1dnIUYAA9RJi.jpg",
+					"url": "https://t.co/DiImSSFOGt",
+					"display_url": "pic.twitter.com/DiImSSFOGt",
+					"expanded_url": "https://twitter.com/stiles/status/1109492467823329281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 833,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 888,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109492403541401600,
+					"id_str": "1109492403541401600",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D2W1dnIUYAA9RJi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2W1dnIUYAA9RJi.jpg",
+					"url": "https://t.co/DiImSSFOGt",
+					"display_url": "pic.twitter.com/DiImSSFOGt",
+					"expanded_url": "https://twitter.com/stiles/status/1109492467823329281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 833,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 888,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10566,
+			"friends_count": 1488,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1553270452",
+			"profile_link_color": "365977",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Useful summary by @peterbakernyt of what we've learned already from the #MuellerInvestigation — regardless of the report's contents. https://t.co/xDKBKVn9aU https://t.co/DiImSSFOGt"
+	},
+	{
 		"created_at": "Sat Mar 23 15:44:15 +0000 2019",
 		"id": 1109214982862983200,
 		"id_str": "1109480987006636032",
