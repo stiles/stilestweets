@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 15:44:15 +0000 2019",
+		"id": 1109214982862983200,
+		"id_str": "1109480987006636032",
+		"full_text": "Release the Mueller report to the American people.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 342863309,
+			"id_str": "342863309",
+			"name": "Beto O'Rourke",
+			"screen_name": "BetoORourke",
+			"location": "El Paso, TX",
+			"description": "",
+			"url": "https://t.co/W2jeGJ9ErW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W2jeGJ9ErW",
+							"expanded_url": "http://BetoORourke.com",
+							"display_url": "BetoORourke.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1366665,
+			"friends_count": 764,
+			"listed_count": 4436,
+			"created_at": "Tue Jul 26 18:05:52 +0000 2011",
+			"favourites_count": 3001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5042,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1018220845829951489/k52zY0rS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018220845829951489/k52zY0rS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/342863309/1548290966",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23946,
+		"favorite_count": 127319,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Release the Mueller report to the American people."
+	},
+	{
 		"created_at": "Fri Mar 22 23:43:48 +0000 2019",
 		"id": 1109239283536191500,
 		"id_str": "1109239283536191488",
