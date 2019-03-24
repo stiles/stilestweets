@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 02:57:32 +0000 2019",
+		"id": 1109254298150584300,
+		"id_str": "1109650427165831169",
+		"full_text": "Very useful Korean slang. As in, \"fuck it, I'm tired, I'm taking the cab instead of the bus although it's more expensive.\" https://t.co/tybWgijOmN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tybWgijOmN",
+					"expanded_url": "https://twitter.com/Nonohnoh/status/1109251551409766400",
+					"display_url": "twitter.com/Nonohnoh/statu…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266269231,
+			"id_str": "266269231",
+			"name": "T.K. of AAK!",
+			"screen_name": "AskAKorean",
+			"location": "Eastern",
+			"description": "Blogger for Ask a Korean!",
+			"url": "https://t.co/2UhjoLCVhK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2UhjoLCVhK",
+							"expanded_url": "http://www.askakorean.net",
+							"display_url": "askakorean.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17026,
+			"friends_count": 3277,
+			"listed_count": 401,
+			"created_at": "Mon Mar 14 23:43:47 +0000 2011",
+			"favourites_count": 15220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108441077231611904/qehRkCBj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108441077231611904/qehRkCBj_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109251551409766400,
+		"quoted_status_id_str": "1109251551409766400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tybWgijOmN",
+			"expanded": "https://twitter.com/Nonohnoh/status/1109251551409766400",
+			"display": "twitter.com/Nonohnoh/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 23 00:32:33 +0000 2019",
+			"id": 1109251551409766400,
+			"id_str": "1109251551409766400",
+			"full_text": "Last night I learned a new phrase all the (working) kids are using: \"시발비용 [shibal biyong]\". \n\nI'd translate it to \"fuckit expenses\" - as in \"'Fuckit, I am working so hard, I'm gonna buy this for myself' expenses.\"\n\nKids these days are so smart.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 85394220,
+				"id_str": "85394220",
+				"name": "Jean Noh",
+				"screen_name": "Nonohnoh",
+				"location": "Seoul & other places",
+				"description": "Deputy Asia Editor & Korea Correspondent at Screen International. I once walked through a typhoon in Busan. So I don't need to do that again.",
+				"url": "https://t.co/vhyExGt5Df",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vhyExGt5Df",
+								"expanded_url": "http://www.screendaily.com",
+								"display_url": "screendaily.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 990,
+				"friends_count": 244,
+				"listed_count": 39,
+				"created_at": "Mon Oct 26 19:35:34 +0000 2009",
+				"favourites_count": 24634,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10629,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DDEFF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/730045998949507072/Ms3BdpjS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/730045998949507072/Ms3BdpjS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85394220/1446503109",
+				"profile_link_color": "0C2BF0",
+				"profile_sidebar_border_color": "1BD1DB",
+				"profile_sidebar_fill_color": "B0E645",
+				"profile_text_color": "38343D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 313,
+			"favorite_count": 761,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 134,
+		"favorite_count": 426,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very useful Korean slang. As in, \"fuck it, I'm tired, I'm taking the cab instead of the bus although it's more expensive.\" https://t.co/tybWgijOmN"
+	},
+	{
 		"created_at": "Sat Mar 23 20:25:53 +0000 2019",
 		"id": 1109507660225884200,
 		"id_str": "1109551865102921728",
