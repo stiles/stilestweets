@@ -1,6 +1,826 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 16:55:39 +0000 2019",
+		"id": 1110222357082206200,
+		"id_str": "1110223731266191362",
+		"full_text": "Spotted at Apple HQ for the launch of a new news subscription service: LA Times owner @DrPatSoonShiong and exec editor @NPearlstine, NYMag CEO Pam Wasserstein, plus execs from News Corp, Condé Nast, more...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrPatSoonShiong",
+					"name": "Dr. Pat Soon-Shiong",
+					"id": 71322014,
+					"id_str": "71322014",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"screen_name": "NPearlstine",
+					"name": "Norman Pearlstine",
+					"id": 14345207,
+					"id_str": "14345207",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1110220858407026700,
+		"in_reply_to_status_id_str": "1110220858407026691",
+		"in_reply_to_user_id": 14515799,
+		"in_reply_to_user_id_str": "14515799",
+		"in_reply_to_screen_name": "brianstelter",
+		"user": {
+			"id": 14515799,
+			"id_str": "14515799",
+			"name": "Brian Stelter",
+			"screen_name": "brianstelter",
+			"location": "New York City",
+			"description": "Anchor of @ReliableSources and @CNN's chief media correspondent. Formerly @nytimes, @tvnewser and Top of the Morning. Email: bstelter@gmail.com",
+			"url": "https://t.co/oAdPr7RfVz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAdPr7RfVz",
+							"expanded_url": "http://www.brianstelter.com/",
+							"display_url": "brianstelter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 632658,
+			"friends_count": 6308,
+			"listed_count": 13910,
+			"created_at": "Thu Apr 24 18:41:42 +0000 2008",
+			"favourites_count": 240414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 177228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+			"profile_link_color": "D44700",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Spotted at Apple HQ for the launch of a new news subscription service: LA Times owner @DrPatSoonShiong and exec editor @NPearlstine, NYMag CEO Pam Wasserstein, plus execs from News Corp, Condé Nast, more..."
+	},
+	{
+		"created_at": "Mon Mar 25 16:54:23 +0000 2019",
+		"id": 1110223415451877400,
+		"id_str": "1110223415451877376",
+		"full_text": "@GordonRDill @flowingdata @bposton @joelrubin Probably. Pull them into sqlite just to poke around.",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GordonRDill",
+					"name": "Gordon R. Dill",
+					"id": 266767202,
+					"id_str": "266767202",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "flowingdata",
+					"name": "Nathan Yau",
+					"id": 14109167,
+					"id_str": "14109167",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "bposton",
+					"name": "🦅 Ben Poston - LA Times",
+					"id": 14927843,
+					"id_str": "14927843",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "joelrubin",
+					"name": "Joel Rubin",
+					"id": 14480397,
+					"id_str": "14480397",
+					"indices": [
+						35,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1110221512856997900,
+		"in_reply_to_status_id_str": "1110221512856997889",
+		"in_reply_to_user_id": 266767202,
+		"in_reply_to_user_id_str": "266767202",
+		"in_reply_to_screen_name": "GordonRDill",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10566,
+			"friends_count": 1491,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1553270452",
+			"profile_link_color": "365977",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GordonRDill @flowingdata @bposton @joelrubin Probably. Pull them into sqlite just to poke around."
+	},
+	{
+		"created_at": "Mon Mar 25 16:42:15 +0000 2019",
+		"id": 1110220361977610200,
+		"id_str": "1110220361977610240",
+		"full_text": "@flowingdata @bposton @joelrubin You can also get the standardized police stop data in CSV format — and, in some locations, even shapefiles. There's no Los Angeles data, but I'm diving into Long Beach at some point. https://t.co/wGa1NRX0RG",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flowingdata",
+					"name": "Nathan Yau",
+					"id": 14109167,
+					"id_str": "14109167",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "bposton",
+					"name": "🦅 Ben Poston - LA Times",
+					"id": 14927843,
+					"id_str": "14927843",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "joelrubin",
+					"name": "Joel Rubin",
+					"id": 14480397,
+					"id_str": "14480397",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wGa1NRX0RG",
+					"expanded_url": "https://stanford.io/2YnlOZS",
+					"display_url": "stanford.io/2YnlOZS",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1110218490462371800,
+		"in_reply_to_status_id_str": "1110218490462371840",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10566,
+			"friends_count": 1491,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1553270452",
+			"profile_link_color": "365977",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@flowingdata @bposton @joelrubin You can also get the standardized police stop data in CSV format — and, in some locations, even shapefiles. There's no Los Angeles data, but I'm diving into Long Beach at some point. https://t.co/wGa1NRX0RG"
+	},
+	{
+		"created_at": "Mon Mar 25 16:34:49 +0000 2019",
+		"id": 1110218490462371800,
+		"id_str": "1110218490462371840",
+		"full_text": "A team at Stanford is analyzing and publishing data on millions of police traffic stops across the country. Download (in .rds format!) here: https://t.co/Qb0gywO6mk via @flowingdata cc @bposton @joelrubin https://t.co/krQEMX6XCJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flowingdata",
+					"name": "Nathan Yau",
+					"id": 14109167,
+					"id_str": "14109167",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"screen_name": "bposton",
+					"name": "🦅 Ben Poston - LA Times",
+					"id": 14927843,
+					"id_str": "14927843",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"screen_name": "joelrubin",
+					"name": "Joel Rubin",
+					"id": 14480397,
+					"id_str": "14480397",
+					"indices": [
+						194,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qb0gywO6mk",
+					"expanded_url": "https://stanford.io/2Ylkg2y",
+					"display_url": "stanford.io/2Ylkg2y",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110218053101314000,
+					"id_str": "1110218053101314048",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D2hJb-ZUYAA500z.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2hJb-ZUYAA500z.png",
+					"url": "https://t.co/krQEMX6XCJ",
+					"display_url": "pic.twitter.com/krQEMX6XCJ",
+					"expanded_url": "https://twitter.com/stiles/status/1110218490462371840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 894,
+							"h": 761,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 761,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 579,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110218053101314000,
+					"id_str": "1110218053101314048",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D2hJb-ZUYAA500z.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2hJb-ZUYAA500z.png",
+					"url": "https://t.co/krQEMX6XCJ",
+					"display_url": "pic.twitter.com/krQEMX6XCJ",
+					"expanded_url": "https://twitter.com/stiles/status/1110218490462371840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 894,
+							"h": 761,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 761,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 579,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10566,
+			"friends_count": 1491,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1553270452",
+			"profile_link_color": "365977",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A team at Stanford is analyzing and publishing data on millions of police traffic stops across the country. Download (in .rds format!) here: https://t.co/Qb0gywO6mk via @flowingdata cc @bposton @joelrubin https://t.co/krQEMX6XCJ"
+	},
+	{
+		"created_at": "Mon Mar 25 16:24:47 +0000 2019",
+		"id": 1110173974649098200,
+		"id_str": "1110215964656697344",
+		"full_text": "Subscribe to the Wall Street Journal. https://t.co/6VYLpVpuLF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6VYLpVpuLF",
+					"expanded_url": "https://twitter.com/brianstelter/status/1110147820265398272",
+					"display_url": "twitter.com/brianstelter/s…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47862557,
+			"id_str": "47862557",
+			"name": "Andrea Fuller",
+			"screen_name": "anfuller",
+			"location": "Brooklyn, NY",
+			"description": "Data Cowgirl. Reporter @WSJ. NYC resident, WNC native. Signal: 202-656-2088.",
+			"url": "http://t.co/83UtgEQyg2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/83UtgEQyg2",
+							"expanded_url": "http://www.andreanicolefuller.com",
+							"display_url": "andreanicolefuller.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2018,
+			"friends_count": 514,
+			"listed_count": 112,
+			"created_at": "Wed Jun 17 05:04:40 +0000 2009",
+			"favourites_count": 6036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7096,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/857733511637237761/1UUcRpmK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/857733511637237761/1UUcRpmK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47862557/1395195735",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110147820265398300,
+		"quoted_status_id_str": "1110147820265398272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6VYLpVpuLF",
+			"expanded": "https://twitter.com/brianstelter/status/1110147820265398272",
+			"display": "twitter.com/brianstelter/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 25 11:54:00 +0000 2019",
+			"id": 1110147820265398300,
+			"id_str": "1110147820265398272",
+			"full_text": "There's been so much solid reporting about the Trump-Russia mystery, but the media ecosystem tends to reward speculation over straight news. Are there ways to change this? https://t.co/zwJrobFpOe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zwJrobFpOe",
+						"expanded_url": "https://cnn.it/2FwemEc",
+						"display_url": "cnn.it/2FwemEc",
+						"indices": [
+							172,
+							195
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14515799,
+				"id_str": "14515799",
+				"name": "Brian Stelter",
+				"screen_name": "brianstelter",
+				"location": "New York City",
+				"description": "Anchor of @ReliableSources and @CNN's chief media correspondent. Formerly @nytimes, @tvnewser and Top of the Morning. Email: bstelter@gmail.com",
+				"url": "https://t.co/oAdPr7RfVz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oAdPr7RfVz",
+								"expanded_url": "http://www.brianstelter.com/",
+								"display_url": "brianstelter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 632658,
+				"friends_count": 6308,
+				"listed_count": 13910,
+				"created_at": "Thu Apr 24 18:41:42 +0000 2008",
+				"favourites_count": 240414,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 177228,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+				"profile_link_color": "D44700",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 127,
+			"favorite_count": 390,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 39,
+		"favorite_count": 264,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Subscribe to the Wall Street Journal. https://t.co/6VYLpVpuLF"
+	},
+	{
 		"created_at": "Mon Mar 25 13:59:19 +0000 2019",
 		"id": 1110179177242591200,
 		"id_str": "1110179356196786176",
