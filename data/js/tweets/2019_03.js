@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 02:51:13 +0000 2019",
+		"id": 1110011224945623000,
+		"id_str": "1110011224945623040",
+		"full_text": "676 days ago... this from @Tom_Winter was among the the first verified tweets with the Robert Mueller appointment news. @SteveKopack also high on the list: https://t.co/JVfkQ3JWt0 https://t.co/hyKOjp3kVa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tom_Winter",
+					"name": "Tom Winter",
+					"id": 27101698,
+					"id_str": "27101698",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "SteveKopack",
+					"name": "Steve Kopack",
+					"id": 15065434,
+					"id_str": "15065434",
+					"indices": [
+						120,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JVfkQ3JWt0",
+					"expanded_url": "https://twitter.com/Tom_Winter/status/864963740340563970",
+					"display_url": "twitter.com/Tom_Winter/sta…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110011197946921000,
+					"id_str": "1110011197946920960",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D2eNTa5VAAAtd51.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2eNTa5VAAAtd51.png",
+					"url": "https://t.co/hyKOjp3kVa",
+					"display_url": "pic.twitter.com/hyKOjp3kVa",
+					"expanded_url": "https://twitter.com/stiles/status/1110011224945623040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1022,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 339,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110011197946921000,
+					"id_str": "1110011197946920960",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D2eNTa5VAAAtd51.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2eNTa5VAAAtd51.png",
+					"url": "https://t.co/hyKOjp3kVa",
+					"display_url": "pic.twitter.com/hyKOjp3kVa",
+					"expanded_url": "https://twitter.com/stiles/status/1110011224945623040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1022,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 339,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10567,
+			"friends_count": 1491,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1553270452",
+			"profile_link_color": "365977",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 864963740340564000,
+		"quoted_status_id_str": "864963740340563970",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JVfkQ3JWt0",
+			"expanded": "https://twitter.com/Tom_Winter/status/864963740340563970",
+			"display": "twitter.com/Tom_Winter/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 17 22:00:00 +0000 2017",
+			"id": 864963740340564000,
+			"id_str": "864963740340563970",
+			"full_text": "BREAKING | NBC News: Department of Justice appoints former FBI Director Robert Mueller as Special Prosecutor for Russia investigation.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27101698,
+				"id_str": "27101698",
+				"name": "Tom Winter",
+				"screen_name": "Tom_Winter",
+				"location": "New York, NY",
+				"description": "NBC News Investigations reporter based in New York focusing on Police, Courts, Corruption, Cyber Security, and Counter-terrorism stories in the Eastern U.S.",
+				"url": "http://t.co/InqGcyyjNH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/InqGcyyjNH",
+								"expanded_url": "http://investigations.nbcnews.com",
+								"display_url": "investigations.nbcnews.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46800,
+				"friends_count": 1989,
+				"listed_count": 1094,
+				"created_at": "Fri Mar 27 21:27:02 +0000 2009",
+				"favourites_count": 4452,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17989,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000512131592/95ce6b43c812d86d0ef229791371d254_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000512131592/95ce6b43c812d86d0ef229791371d254_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27101698/1502912557",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 375,
+			"favorite_count": 414,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "676 days ago... this from @Tom_Winter was among the the first verified tweets with the Robert Mueller appointment news. @SteveKopack also high on the list: https://t.co/JVfkQ3JWt0 https://t.co/hyKOjp3kVa"
+	},
+	{
 		"created_at": "Sun Mar 24 17:23:02 +0000 2019",
 		"id": 1109868237666189300,
 		"id_str": "1109868237666189312",
