@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 05:00:46 +0000 2019",
+		"id": 1110406213143937000,
+		"id_str": "1110406213143937024",
+		"full_text": "Charting verified Twitter's reactions to the #MuellerInvestigation. My latest (rushed) post on The Daily Viz: https://t.co/HetlsjUJdW https://t.co/xOR7TluKY1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MuellerInvestigation",
+					"indices": [
+						45,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HetlsjUJdW",
+					"expanded_url": "http://bit.ly/2UTQsYx",
+					"display_url": "bit.ly/2UTQsYx",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110406035880054800,
+					"id_str": "1110406035880054784",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/D2j0aA0UkAAk5K9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2j0aA0UkAAk5K9.jpg",
+					"url": "https://t.co/xOR7TluKY1",
+					"display_url": "pic.twitter.com/xOR7TluKY1",
+					"expanded_url": "https://twitter.com/stiles/status/1110406213143937024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1708,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 778,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110406035880054800,
+					"id_str": "1110406035880054784",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/D2j0aA0UkAAk5K9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2j0aA0UkAAk5K9.jpg",
+					"url": "https://t.co/xOR7TluKY1",
+					"display_url": "pic.twitter.com/xOR7TluKY1",
+					"expanded_url": "https://twitter.com/stiles/status/1110406213143937024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1708,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 778,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Data journalist @latimes. Telling stories about LA County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10566,
+			"friends_count": 1492,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13301,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1553270452",
+			"profile_link_color": "365977",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Charting verified Twitter's reactions to the #MuellerInvestigation. My latest (rushed) post on The Daily Viz: https://t.co/HetlsjUJdW https://t.co/xOR7TluKY1"
+	},
+	{
 		"created_at": "Tue Mar 26 04:15:30 +0000 2019",
 		"id": 1110394822060171300,
 		"id_str": "1110394822060171264",
