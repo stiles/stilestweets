@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 14:04:00 +0000 2019",
+		"id": 1110542923916038100,
+		"id_str": "1110542923916038144",
+		"full_text": "Verified Twitter went nuts during major developments in the #MuellerInvestigation. My quick look at 400,000+ tweets about the inquiry since 2017: https://t.co/HetlsjD8mo https://t.co/1OXBJWfuzV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MuellerInvestigation",
+					"indices": [
+						60,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HetlsjD8mo",
+					"expanded_url": "http://bit.ly/2UTQsYx",
+					"display_url": "bit.ly/2UTQsYx",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110407057067249700,
+					"id_str": "1110407057067249665",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D2j1VdCUkAEB7A7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2j1VdCUkAEB7A7.jpg",
+					"url": "https://t.co/1OXBJWfuzV",
+					"display_url": "pic.twitter.com/1OXBJWfuzV",
+					"expanded_url": "https://twitter.com/stiles/status/1110542923916038144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1708,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 778,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110407057067249700,
+					"id_str": "1110407057067249665",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D2j1VdCUkAEB7A7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2j1VdCUkAEB7A7.jpg",
+					"url": "https://t.co/1OXBJWfuzV",
+					"display_url": "pic.twitter.com/1OXBJWfuzV",
+					"expanded_url": "https://twitter.com/stiles/status/1110542923916038144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1708,
+							"h": 1108,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 778,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about L.A. County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10568,
+			"friends_count": 1492,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13302,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1553270452",
+			"profile_link_color": "365977",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Verified Twitter went nuts during major developments in the #MuellerInvestigation. My quick look at 400,000+ tweets about the inquiry since 2017: https://t.co/HetlsjD8mo https://t.co/1OXBJWfuzV"
+	},
+	{
 		"created_at": "Tue Mar 26 05:00:46 +0000 2019",
 		"id": 1110406213143937000,
 		"id_str": "1110406213143937024",
