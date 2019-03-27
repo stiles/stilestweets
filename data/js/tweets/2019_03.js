@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 19:25:43 +0000 2019",
+		"id": 1110981258195005400,
+		"id_str": "1110986271919202305",
+		"full_text": "LA Sheriff Villanueva said there are 14 vacancies in command staff on Dept (orange dots). That includes captains @ some stations, where currently there are only interim captains. After removing several top officials upon taking office, he’s still finalizing his command staff https://t.co/FXso88Oge3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110981242080632800,
+					"id_str": "1110981242080632834",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D2r_ja5WoAI_yht.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2r_ja5WoAI_yht.jpg",
+					"url": "https://t.co/FXso88Oge3",
+					"display_url": "pic.twitter.com/FXso88Oge3",
+					"expanded_url": "https://twitter.com/mayalau/status/1110981258195005442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 959,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110981242080632800,
+					"id_str": "1110981242080632834",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D2r_ja5WoAI_yht.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2r_ja5WoAI_yht.jpg",
+					"url": "https://t.co/FXso88Oge3",
+					"display_url": "pic.twitter.com/FXso88Oge3",
+					"expanded_url": "https://twitter.com/mayalau/status/1110981258195005442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 959,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74304212,
+			"id_str": "74304212",
+			"name": "Maya Lau 🦅",
+			"screen_name": "mayalau",
+			"location": "Los Angeles, CA",
+			"description": "@latimes reporter covering L.A. Sheriff's Dept. Proud alum: @theadvocatebr, @shreveporttimes, @NYTMag, @peacecorps, @vassar // CONTACT: https://t.co/XiXiicmKXp",
+			"url": "https://t.co/XiXiicmKXp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XiXiicmKXp",
+							"expanded_url": "http://mayalau.com",
+							"display_url": "mayalau.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XiXiicmKXp",
+							"expanded_url": "http://mayalau.com",
+							"display_url": "mayalau.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10593,
+			"friends_count": 2798,
+			"listed_count": 296,
+			"created_at": "Mon Sep 14 23:45:56 +0000 2009",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11916,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004414950670884864/p5mAiD6-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004414950670884864/p5mAiD6-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74304212/1439662591",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LA Sheriff Villanueva said there are 14 vacancies in command staff on Dept (orange dots). That includes captains @ some stations, where currently there are only interim captains. After removing several top officials upon taking office, he’s still finalizing his command staff https://t.co/FXso88Oge3"
+	},
+	{
 		"created_at": "Wed Mar 27 15:44:06 +0000 2019",
 		"id": 1110930349020700700,
 		"id_str": "1110930504373559296",
