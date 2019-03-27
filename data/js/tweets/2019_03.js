@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 03:25:26 +0000 2019",
+		"id": 1110574995959222300,
+		"id_str": "1110744612262469632",
+		"full_text": "The stages of relationships towards marriage https://t.co/vT9aote2WG https://t.co/aevdhWpUa7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vT9aote2WG",
+					"expanded_url": "https://flowingdata.com/2019/03/26/relationship-stages/",
+					"display_url": "flowingdata.com/2019/03/26/rel…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110574950178406400,
+					"id_str": "1110574950178406400",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2mOCHnUwAAKr9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2mOCHnUwAAKr9T.jpg",
+					"url": "https://t.co/aevdhWpUa7",
+					"display_url": "pic.twitter.com/aevdhWpUa7",
+					"expanded_url": "https://twitter.com/flowingdata/status/1110574995959222272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 649,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 668,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110574950178406400,
+					"id_str": "1110574950178406400",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D2mOCHnUwAAKr9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D2mOCHnUwAAKr9T.jpg",
+					"url": "https://t.co/aevdhWpUa7",
+					"display_url": "pic.twitter.com/aevdhWpUa7",
+					"expanded_url": "https://twitter.com/flowingdata/status/1110574995959222272/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 649,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 668,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							175,
+							167
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D2mOCHnUwAAKr9T.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14109167,
+			"id_str": "14109167",
+			"name": "Nathan Yau",
+			"screen_name": "flowingdata",
+			"location": "California",
+			"description": "Statistician, with a specialty in visualization and a background in eating and beer. FlowingData.",
+			"url": "https://t.co/20bv2QSOka",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/20bv2QSOka",
+							"expanded_url": "http://flowingdata.com",
+							"display_url": "flowingdata.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76458,
+			"friends_count": 255,
+			"listed_count": 5303,
+			"created_at": "Sun Mar 09 20:07:38 +0000 2008",
+			"favourites_count": 1491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10268,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8F8F8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103367947009982464/mzPludXL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103367947009982464/mzPludXL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14109167/1472060910",
+			"profile_link_color": "821122",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 347,
+		"favorite_count": 830,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The stages of relationships towards marriage https://t.co/vT9aote2WG https://t.co/aevdhWpUa7"
+	},
+	{
 		"created_at": "Wed Mar 27 03:16:32 +0000 2019",
 		"id": 1110724588650950700,
 		"id_str": "1110742371124178944",
