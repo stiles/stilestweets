@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 15:44:06 +0000 2019",
+		"id": 1110930349020700700,
+		"id_str": "1110930504373559296",
+		"full_text": "Closing loopholes: L.A. County is expanding an existing ban on using tobacco products at beaches, parks and government buildings to include electronic cigarettes and pot. Read more by @stiles: https://t.co/mdT9i81ARF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mdT9i81ARF",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-smoking-ban-beaches-vape-cannabis-20190326-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151682694,
+			"id_str": "151682694",
+			"name": "Rosanna Xia",
+			"screen_name": "RosannaXia",
+			"location": "Los Angeles, CA",
+			"description": "I cover the California coast for @latimes. Previously: education reporter, earthquake nerd, economist.",
+			"url": "https://t.co/078slX1G75",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/078slX1G75",
+							"expanded_url": "http://www.latimes.com/la-bio-rosanna-xia-staff.html",
+							"display_url": "latimes.com/la-bio-rosanna…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5511,
+			"friends_count": 752,
+			"listed_count": 248,
+			"created_at": "Fri Jun 04 00:37:23 +0000 2010",
+			"favourites_count": 1422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8417,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961487498168815616/YcjitSzB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961487498168815616/YcjitSzB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151682694/1517984142",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Closing loopholes: L.A. County is expanding an existing ban on using tobacco products at beaches, parks and government buildings to include electronic cigarettes and pot. Read more by @stiles: https://t.co/mdT9i81ARF"
+	},
+	{
 		"created_at": "Wed Mar 27 03:25:26 +0000 2019",
 		"id": 1110574995959222300,
 		"id_str": "1110744612262469632",
