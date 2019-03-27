@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 00:41:07 +0000 2019",
+		"id": 1110689715525550100,
+		"id_str": "1110703257272213504",
+		"full_text": "AND the motion just passed unanimously! @mridleythomas &amp; @SupJaniceHahn showed important leadership getting this motion on the calendar with lightening speed, when it was needed. Then Supes @SheilaKuehl @HildaSolis, &amp; @kathrynbarger each stepped up individually in a big way. https://t.co/DB7GNaS7jo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						40,
+						54
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						194,
+						206
+					]
+				},
+				{
+					"screen_name": "HildaSolis",
+					"name": "Hilda Solis",
+					"id": 2377732207,
+					"id_str": "2377732207",
+					"indices": [
+						207,
+						218
+					]
+				},
+				{
+					"screen_name": "kathrynbarger",
+					"name": "Kathryn Barger",
+					"id": 3165949670,
+					"id_str": "3165949670",
+					"indices": [
+						226,
+						240
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DB7GNaS7jo",
+					"expanded_url": "https://twitter.com/mridleythomas/status/1110686821195743232",
+					"display_url": "twitter.com/mridleythomas/…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16797844,
+			"id_str": "16797844",
+			"name": "Celeste Fremon",
+			"screen_name": "WitnessLA",
+			"location": "Los Angeles",
+			"description": "author...editor... (WitnessLA)...journalist...criminal justice junkie...river rafter...critter patter....rose wrangler...happy mom & now grandma! (Wooo-hoo!)",
+			"url": "http://t.co/UysVMvrfeq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/UysVMvrfeq",
+							"expanded_url": "http://witnessla.com",
+							"display_url": "witnessla.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2130,
+			"friends_count": 1447,
+			"listed_count": 144,
+			"created_at": "Thu Oct 16 00:33:59 +0000 2008",
+			"favourites_count": 3154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752925067621707777/lr-n7D5a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752925067621707777/lr-n7D5a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16797844/1468282013",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110686821195743200,
+		"quoted_status_id_str": "1110686821195743232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DB7GNaS7jo",
+			"expanded": "https://twitter.com/mridleythomas/status/1110686821195743232",
+			"display": "twitter.com/mridleythomas/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 26 23:35:48 +0000 2019",
+			"id": 1110686821195743200,
+			"id_str": "1110686821195743232",
+			"full_text": "LA Supervisors Are Fed Up With County’s Ongoing Failure to Spend State-Supplied Juvenile Justice $ Millions on Proven Programs for LA’s at Risk Kids. ⁦@WitnessLA⁩ ⁦@AntiRecidivism⁩ ⁦@CoCoSouthLA⁩ ⁦@cdfca⁩ ⁦@EveryoneIn_LA⁩  https://t.co/HjpcDTAich",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WitnessLA",
+						"name": "Celeste Fremon",
+						"id": 16797844,
+						"id_str": "16797844",
+						"indices": [
+							151,
+							161
+						]
+					},
+					{
+						"screen_name": "AntiRecidivism",
+						"name": "ARC",
+						"id": 1686797810,
+						"id_str": "1686797810",
+						"indices": [
+							164,
+							179
+						]
+					},
+					{
+						"screen_name": "CoCoSouthLA",
+						"name": "Community Coalition",
+						"id": 69440018,
+						"id_str": "69440018",
+						"indices": [
+							182,
+							194
+						]
+					},
+					{
+						"screen_name": "cdfca",
+						"name": "CDF-California",
+						"id": 1191845912,
+						"id_str": "1191845912",
+						"indices": [
+							197,
+							203
+						]
+					},
+					{
+						"screen_name": "EveryoneIn_LA",
+						"name": "Everyone In LA",
+						"id": 772802441716854800,
+						"id_str": "772802441716854784",
+						"indices": [
+							206,
+							220
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HjpcDTAich",
+						"expanded_url": "https://witnessla.com/la-supervisors-are-fed-up-with-countys-ongoing-failure-to-spend-state-supplied-juvenile-justice-millions-on-proven-programs-for-la-countys-at-risk-kids/",
+						"display_url": "witnessla.com/la-supervisors…",
+						"indices": [
+							223,
+							246
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16369269,
+				"id_str": "16369269",
+				"name": "Mark Ridley-Thomas",
+				"screen_name": "mridleythomas",
+				"location": "Los Angeles",
+				"description": "@CountyOfLA Supervisor- Carson, Compton, Culver City, Gardena, Hawthorne, Inglewood, Lawndale, LA City, Lynwood, & unincorporated areas (2M ppl) 12/08.",
+				"url": "http://t.co/ecWCHkYaHI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ecWCHkYaHI",
+								"expanded_url": "http://ridley-thomas.lacounty.gov/",
+								"display_url": "ridley-thomas.lacounty.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18680,
+				"friends_count": 813,
+				"listed_count": 508,
+				"created_at": "Fri Sep 19 19:56:37 +0000 2008",
+				"favourites_count": 6276,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34812,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "141633",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16369269/1432680050",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "34C7BB",
+				"profile_sidebar_fill_color": "7CBBEB",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AND the motion just passed unanimously! @mridleythomas &amp; @SupJaniceHahn showed important leadership getting this motion on the calendar with lightening speed, when it was needed. Then Supes @SheilaKuehl @HildaSolis, &amp; @kathrynbarger each stepped up individually in a big way. https://t.co/DB7GNaS7jo"
+	},
+	{
 		"created_at": "Tue Mar 26 20:59:30 +0000 2019",
 		"id": 1110647488749301800,
 		"id_str": "1110647488749301760",
