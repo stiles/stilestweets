@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 21:09:30 +0000 2019",
+		"id": 1111012391431528400,
+		"id_str": "1111012391431528448",
+		"full_text": "I must try this. \n\ncc @elisewho https://t.co/fnge04yr3P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elisewho",
+					"name": "Elise Hu",
+					"id": 16001350,
+					"id_str": "16001350",
+					"indices": [
+						22,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fnge04yr3P",
+					"expanded_url": "https://twitter.com/AmyScattergood/status/1110931190989479942",
+					"display_url": "twitter.com/AmyScattergood…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about L.A. County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10571,
+			"friends_count": 1496,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13310,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1553270452",
+			"profile_link_color": "365977",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110931190989480000,
+		"quoted_status_id_str": "1110931190989479942",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fnge04yr3P",
+			"expanded": "https://twitter.com/AmyScattergood/status/1110931190989479942",
+			"display": "twitter.com/AmyScattergood…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 27 15:46:50 +0000 2019",
+			"id": 1110931190989480000,
+			"id_str": "1110931190989479942",
+			"full_text": "In praise of the excellent noodle soup from @laotaostfood https://t.co/BY82GIFonX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "laotaostfood",
+						"name": "Lao Tao",
+						"id": 3251993292,
+						"id_str": "3251993292",
+						"indices": [
+							44,
+							57
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BY82GIFonX",
+						"expanded_url": "https://lat.ms/2FFAex6",
+						"display_url": "lat.ms/2FFAex6",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21987741,
+				"id_str": "21987741",
+				"name": "amy scattergood",
+				"screen_name": "AmyScattergood",
+				"location": "Los Angeles",
+				"description": "@LATimes",
+				"url": "https://t.co/WjrLVRJJGN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WjrLVRJJGN",
+								"expanded_url": "http://latimes.com/food",
+								"display_url": "latimes.com/food",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3983,
+				"friends_count": 671,
+				"listed_count": 188,
+				"created_at": "Thu Feb 26 07:44:02 +0000 2009",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 540,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/285154655/me_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/285154655/me_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21987741/1414094809",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I must try this. \n\ncc @elisewho https://t.co/fnge04yr3P"
+	},
+	{
 		"created_at": "Wed Mar 27 19:25:43 +0000 2019",
 		"id": 1110981258195005400,
 		"id_str": "1110986271919202305",
