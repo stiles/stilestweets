@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 20:14:13 +0000 2019",
+		"id": 1111110270410080300,
+		"id_str": "1111360866937528320",
+		"full_text": "Villanueva gaslighting constituent over contents of video at 1h03m https://t.co/TLS0RL6IVT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TLS0RL6IVT",
+					"expanded_url": "https://twitter.com/runbaja20/status/1111079575960739841",
+					"display_url": "twitter.com/runbaja20/stat…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 912726632686813200,
+			"id_str": "912726632686813184",
+			"name": "LA Justice Defenders",
+			"screen_name": "LADefenders2020",
+			"location": "Los Angeles, CA",
+			"description": "Criminal justice politics and policy focus on Los Angeles. Not affiliated with the LA County Public Defender.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1219,
+			"friends_count": 4997,
+			"listed_count": 16,
+			"created_at": "Tue Sep 26 17:12:41 +0000 2017",
+			"favourites_count": 3518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/913116083091058688/ttGU2Yq6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/913116083091058688/ttGU2Yq6_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1111079575960739800,
+		"quoted_status_id_str": "1111079575960739841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TLS0RL6IVT",
+			"expanded": "https://twitter.com/runbaja20/status/1111079575960739841",
+			"display": "twitter.com/runbaja20/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 28 01:36:28 +0000 2019",
+			"id": 1111079575960739800,
+			"id_str": "1111079575960739841",
+			"full_text": "@LADefenders2020 @EAPDLA @mayalau in case you want to watch. https://t.co/6ML53qRzOb",
+			"truncated": false,
+			"display_text_range": [
+				25,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LADefenders2020",
+						"name": "LA Justice Defenders",
+						"id": 912726632686813200,
+						"id_str": "912726632686813184",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "EAPDLA",
+						"name": "East Area Prog. Dems",
+						"id": 2351890220,
+						"id_str": "2351890220",
+						"indices": [
+							17,
+							24
+						]
+					},
+					{
+						"screen_name": "mayalau",
+						"name": "Maya Lau 🦅",
+						"id": 74304212,
+						"id_str": "74304212",
+						"indices": [
+							25,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6ML53qRzOb",
+						"expanded_url": "https://www.facebook.com/FeeltheBernDemClubLA/videos/420638982025623/",
+						"display_url": "facebook.com/FeeltheBernDem…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1110940211427659800,
+			"in_reply_to_status_id_str": "1110940211427659777",
+			"in_reply_to_user_id": 912726632686813200,
+			"in_reply_to_user_id_str": "912726632686813184",
+			"in_reply_to_screen_name": "LADefenders2020",
+			"user": {
+				"id": 597007625,
+				"id_str": "597007625",
+				"name": "See",
+				"screen_name": "runbaja20",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39,
+				"friends_count": 356,
+				"listed_count": 0,
+				"created_at": "Sat Jun 02 02:32:31 +0000 2012",
+				"favourites_count": 180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 985,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1069910397044441088/xsbsVVGW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069910397044441088/xsbsVVGW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/597007625/1348029955",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Villanueva gaslighting constituent over contents of video at 1h03m https://t.co/TLS0RL6IVT"
+	},
+	{
 		"created_at": "Thu Mar 28 19:02:09 +0000 2019",
 		"id": 1111342730758643700,
 		"id_str": "1111342730758643714",
