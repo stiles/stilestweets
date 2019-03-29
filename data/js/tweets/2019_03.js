@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 29 18:30:48 +0000 2019",
+		"id": 1111336261594148900,
+		"id_str": "1111697228492464128",
+		"full_text": "🔢 #CODE 🔢\n\nYour @LATdatadesk is releasing a new open-source library. \n\nWe call it census-consolidator.\n\nIt is a simple tool for combining @uscensusbureau\nblocks into custom maps.\n\nCheck it out!\n\nhttps://t.co/l5e8q29wOI https://t.co/dDETg4nRRT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CODE",
+					"indices": [
+						2,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATdatadesk",
+					"name": "The Data Desk",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "uscensusbureau",
+					"name": "U.S. Census Bureau",
+					"id": 23092890,
+					"id_str": "23092890",
+					"indices": [
+						138,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l5e8q29wOI",
+					"expanded_url": "https://github.com/datadesk/census-consolidator",
+					"display_url": "github.com/datadesk/censu…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1111334606102356000,
+					"id_str": "1111334606102355968",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111334606102355968/pu/img/wdERlnQLlT5re4Zt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111334606102355968/pu/img/wdERlnQLlT5re4Zt.jpg",
+					"url": "https://t.co/dDETg4nRRT",
+					"display_url": "pic.twitter.com/dDETg4nRRT",
+					"expanded_url": "https://twitter.com/palewire/status/1111336261594148864/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 908,
+							"h": 786,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 589,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 786,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111334606102356000,
+					"id_str": "1111334606102355968",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1111334606102355968/pu/img/wdERlnQLlT5re4Zt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1111334606102355968/pu/img/wdERlnQLlT5re4Zt.jpg",
+					"url": "https://t.co/dDETg4nRRT",
+					"display_url": "pic.twitter.com/dDETg4nRRT",
+					"expanded_url": "https://twitter.com/palewire/status/1111336261594148864/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 908,
+							"h": 786,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 589,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 786,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							454,
+							393
+						],
+						"duration_millis": 17200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1111334606102355968/pu/vid/414x360/TUJ_2TRa5xA8MtD7.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1111334606102355968/pu/vid/206x180/J6M5YIQp1FtHkzxE.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1111334606102355968/pu/vid/830x720/PluIC0EzSh3LidMk.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1111334606102355968/pu/pl/Gazd27NGMsFxjYW8.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+			"url": "https://t.co/kogJ0fJceo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kogJ0fJceo",
+							"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lZvqTdDOmO",
+							"expanded_url": "http://www.californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8823,
+			"friends_count": 3052,
+			"listed_count": 699,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔢 #CODE 🔢\n\nYour @LATdatadesk is releasing a new open-source library. \n\nWe call it census-consolidator.\n\nIt is a simple tool for combining @uscensusbureau\nblocks into custom maps.\n\nCheck it out!\n\nhttps://t.co/l5e8q29wOI https://t.co/dDETg4nRRT"
+	},
+	{
 		"created_at": "Fri Mar 29 17:05:58 +0000 2019",
 		"id": 1111675878725972000,
 		"id_str": "1111675878725971969",
