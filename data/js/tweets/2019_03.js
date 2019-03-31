@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 18:49:27 +0000 2019",
+		"id": 1112392502135476200,
+		"id_str": "1112426697066979328",
+		"full_text": "At 9:38 p.m. last Monday, I got a call from 212-206-7587, a Manhattan Verizon store. It was Michael Avenatti, who had just made bail.\n\nEven after he'd been charged with extortion, bank fraud and wire fraud, his impulse was to turn to the press. (1/6)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15593561,
+			"id_str": "15593561",
+			"name": "Rebecca R. Ruiz",
+			"screen_name": "RebeccaRuiz",
+			"location": "New York, NY",
+			"description": "Reporter for The New York Times. Fact Finder and Enthusiastic Eccentric. rebecca.ruiz@nytimes.com",
+			"url": "https://t.co/YbvBSMzvhQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YbvBSMzvhQ",
+							"expanded_url": "http://www.nytimes.com/by/rebecca-r-ruiz",
+							"display_url": "nytimes.com/by/rebecca-r-r…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4663,
+			"friends_count": 1391,
+			"listed_count": 156,
+			"created_at": "Fri Jul 25 03:27:11 +0000 2008",
+			"favourites_count": 2782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2789,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "303436",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875579942292963328/KByhY_RI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875579942292963328/KByhY_RI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15593561/1400646016",
+			"profile_link_color": "2E64FE",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "At 9:38 p.m. last Monday, I got a call from 212-206-7587, a Manhattan Verizon store. It was Michael Avenatti, who had just made bail.\n\nEven after he'd been charged with extortion, bank fraud and wire fraud, his impulse was to turn to the press. (1/6)"
+	},
+	{
 		"created_at": "Sun Mar 31 13:55:39 +0000 2019",
 		"id": 1112195548243648500,
 		"id_str": "1112352761792729088",
