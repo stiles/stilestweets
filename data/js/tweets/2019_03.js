@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 02:08:33 +0000 2019",
+		"id": 1112121568119803900,
+		"id_str": "1112174814108672001",
+		"full_text": "In my long journalism career, which has included two stints as a union organizer and officer, I've never met a more-effective labor leader than Jon Schleuss.  He was co-leader of the historic L.A. Times organizing campaign. Elect him president of the NewsGuild.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21282353,
+			"id_str": "21282353",
+			"name": "Paul Pringle",
+			"screen_name": "PringleLATimes",
+			"location": "Los Angeles, CA",
+			"description": "An investigative reporter for the Los Angeles Times specializing in government, corporate and labor corruption. Tips welcome at paul.pringle@latimes.com.",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3247,
+			"friends_count": 696,
+			"listed_count": 168,
+			"created_at": "Thu Feb 19 07:56:13 +0000 2009",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073139653518155777/7LW-g9mQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073139653518155777/7LW-g9mQ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In my long journalism career, which has included two stints as a union organizer and officer, I've never met a more-effective labor leader than Jon Schleuss.  He was co-leader of the historic L.A. Times organizing campaign. Elect him president of the NewsGuild."
+	},
+	{
 		"created_at": "Fri Mar 29 18:30:48 +0000 2019",
 		"id": 1111336261594148900,
 		"id_str": "1111697228492464128",
