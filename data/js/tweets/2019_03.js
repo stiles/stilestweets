@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 13:55:39 +0000 2019",
+		"id": 1112195548243648500,
+		"id_str": "1112352761792729088",
+		"full_text": "A great moment in LA journalism -- reporting on last night's police pursuit when today's police pursuit is happening behind you!!! https://t.co/pX6ji0Lenh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pX6ji0Lenh",
+					"expanded_url": "https://twitter.com/abc7leanne/status/1112187778110914562",
+					"display_url": "twitter.com/abc7leanne/sta…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14827461,
+			"id_str": "14827461",
+			"name": "Shelby Grad",
+			"screen_name": "shelbygrad",
+			"location": "🌴Los Angeles💥",
+			"description": "@latimes Assistant Managing Editor overseeing Metro & California.",
+			"url": "https://t.co/emWaPa3SBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emWaPa3SBu",
+							"expanded_url": "http://www.latimes.com/california",
+							"display_url": "latimes.com/california",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12367,
+			"friends_count": 993,
+			"listed_count": 511,
+			"created_at": "Mon May 19 02:25:01 +0000 2008",
+			"favourites_count": 5366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094741407577722880/i1W8qbQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094741407577722880/i1W8qbQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14827461/1551118865",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1112187778110914600,
+		"quoted_status_id_str": "1112187778110914562",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pX6ji0Lenh",
+			"expanded": "https://twitter.com/abc7leanne/status/1112187778110914562",
+			"display": "twitter.com/abc7leanne/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 31 03:00:04 +0000 2019",
+			"id": 1112187778110914600,
+			"id_str": "1112187778110914562",
+			"full_text": "Well that was a first! You can hear the tires squeal &amp; see the smoke as an #lapd #pursuit races by during my #liveshot on last nights pursuit. #onlyinLA https://t.co/UVtwlUc5OB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "lapd",
+						"indices": [
+							79,
+							84
+						]
+					},
+					{
+						"text": "pursuit",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"text": "liveshot",
+						"indices": [
+							113,
+							122
+						]
+					},
+					{
+						"text": "onlyinLA",
+						"indices": [
+							147,
+							156
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1112187734330765300,
+						"id_str": "1112187734330765312",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112187734330765312/pu/img/OW-7NHIhsxZ9En2P.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112187734330765312/pu/img/OW-7NHIhsxZ9En2P.jpg",
+						"url": "https://t.co/UVtwlUc5OB",
+						"display_url": "pic.twitter.com/UVtwlUc5OB",
+						"expanded_url": "https://twitter.com/abc7leanne/status/1112187778110914562/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1112187734330765300,
+						"id_str": "1112187734330765312",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112187734330765312/pu/img/OW-7NHIhsxZ9En2P.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112187734330765312/pu/img/OW-7NHIhsxZ9En2P.jpg",
+						"url": "https://t.co/UVtwlUc5OB",
+						"display_url": "pic.twitter.com/UVtwlUc5OB",
+						"expanded_url": "https://twitter.com/abc7leanne/status/1112187778110914562/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 16375,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1112187734330765312/pu/pl/9sR4ZD84aZXLNUyd.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1112187734330765312/pu/vid/640x360/lyED6cUtlPhUs9qi.mp4?tag=8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1112187734330765312/pu/vid/320x180/F3n5JpRSAxOdVbQu.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1112187734330765312/pu/vid/1280x720/2TP2knmDqywWPOK9.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2321478247,
+				"id_str": "2321478247",
+				"name": "Leanne Suter",
+				"screen_name": "abc7leanne",
+				"location": "Los Angeles",
+				"description": "@abc7 Eyewitness News Reporter, @ohiostate Buckeye & seeker of great adventure https://t.co/qhfH5Jqs1J",
+				"url": "https://t.co/wA2krgJd0y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wA2krgJd0y",
+								"expanded_url": "http://abc7.com",
+								"display_url": "abc7.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qhfH5Jqs1J",
+								"expanded_url": "http://Facebook.com/abc7Leanne",
+								"display_url": "Facebook.com/abc7Leanne",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6253,
+				"friends_count": 264,
+				"listed_count": 125,
+				"created_at": "Fri Jan 31 23:14:19 +0000 2014",
+				"favourites_count": 16690,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10272,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "044CC1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/492342253960966144/zhM0kg5R_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/492342253960966144/zhM0kg5R_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2321478247/1406218505",
+				"profile_link_color": "044CC1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 253,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 24,
+		"favorite_count": 93,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A great moment in LA journalism -- reporting on last night's police pursuit when today's police pursuit is happening behind you!!! https://t.co/pX6ji0Lenh"
+	},
+	{
 		"created_at": "Sun Mar 31 02:51:50 +0000 2019",
 		"id": 1112185708045893600,
 		"id_str": "1112185708045893640",
