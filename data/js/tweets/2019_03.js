@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 20:48:41 +0000 2019",
+		"id": 1112374852625805300,
+		"id_str": "1112456705009291264",
+		"full_text": ".@jesusrodriguezb @politico analyzed the Spanish sites of 2020 hopefuls. How’d they do?  \n\nBooker A-\nGabbard A-  \nHarris A-\nInslee A-\nCastro B+\nGillibrand B+\nWarren C+\nKlobuchar C\nO’Rourke I*\nSanders I*\nButtigieg F\nDelaney F\nYang F\n\n* Incomplete\n\nhttps://t.co/xjTzvbKsMN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jesusrodriguezb",
+					"name": "Jesús A. Rodríguez",
+					"id": 805666971438252000,
+					"id_str": "805666971438252032",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"screen_name": "politico",
+					"name": "POLITICO",
+					"id": 9300262,
+					"id_str": "9300262",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xjTzvbKsMN",
+					"expanded_url": "https://www.politico.com/interactives/2019/2020-democrats-spanish-translation/",
+					"display_url": "politico.com/interactives/2…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17327596,
+			"id_str": "17327596",
+			"name": "L I L Y",
+			"screen_name": "mazet",
+			"location": "Washington, DC",
+			"description": "Editor of News Design @POLITICO. Proud alum of @LATDataDesk, @KPCC, @KQED, @KCAW & @Flipboard. Dressed for rescue.",
+			"url": "https://t.co/BE5JFzmnFU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BE5JFzmnFU",
+							"expanded_url": "http://www.politico.com",
+							"display_url": "politico.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2295,
+			"friends_count": 2751,
+			"listed_count": 131,
+			"created_at": "Wed Nov 12 01:04:27 +0000 2008",
+			"favourites_count": 14802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F7FBFC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084285300719919105/zx2RvLsP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084285300719919105/zx2RvLsP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17327596/1463448652",
+			"profile_link_color": "2A94EB",
+			"profile_sidebar_border_color": "84BFF0",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "0D0D0D",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01fbe706f872cb32",
+			"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+			"place_type": "city",
+			"name": "Washington",
+			"full_name": "Washington, DC",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-77.119401,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.9953797
+						],
+						[
+							-77.119401,
+							38.9953797
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@jesusrodriguezb @politico analyzed the Spanish sites of 2020 hopefuls. How’d they do?  \n\nBooker A-\nGabbard A-  \nHarris A-\nInslee A-\nCastro B+\nGillibrand B+\nWarren C+\nKlobuchar C\nO’Rourke I*\nSanders I*\nButtigieg F\nDelaney F\nYang F\n\n* Incomplete\n\nhttps://t.co/xjTzvbKsMN"
+	},
+	{
 		"created_at": "Sun Mar 31 18:49:27 +0000 2019",
 		"id": 1112392502135476200,
 		"id_str": "1112426697066979328",
