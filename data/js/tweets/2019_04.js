@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 23:01:43 +0000 2019",
+		"id": 1113939736379285500,
+		"id_str": "1113939736379285504",
+		"full_text": "@LACoSheriff Speaking of @LACoSheriff, the deputy at the center of the controversy has filed a federal lawsuit against the county: https://t.co/Ksxxjg9jUp cc @Hannahnfry https://t.co/xX4GeXgjA2",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACoSheriff",
+					"name": "Alex Villanueva",
+					"id": 1067499378175238100,
+					"id_str": "1067499378175238144",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "LACoSheriff",
+					"name": "Alex Villanueva",
+					"id": 1067499378175238100,
+					"id_str": "1067499378175238144",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "Hannahnfry",
+					"name": "Hannah Fry",
+					"id": 1727077808,
+					"id_str": "1727077808",
+					"indices": [
+						158,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ksxxjg9jUp",
+					"expanded_url": "https://lat.ms/2OOMU7T",
+					"display_url": "lat.ms/2OOMU7T",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113938876479885300,
+					"id_str": "1113938876479885312",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D3WBgZoU0AAC8Rr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3WBgZoU0AAC8Rr.jpg",
+					"url": "https://t.co/xX4GeXgjA2",
+					"display_url": "pic.twitter.com/xX4GeXgjA2",
+					"expanded_url": "https://twitter.com/stiles/status/1113939736379285504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113938876479885300,
+					"id_str": "1113938876479885312",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D3WBgZoU0AAC8Rr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3WBgZoU0AAC8Rr.jpg",
+					"url": "https://t.co/xX4GeXgjA2",
+					"display_url": "pic.twitter.com/xX4GeXgjA2",
+					"expanded_url": "https://twitter.com/stiles/status/1113939736379285504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1113937607509987300,
+		"in_reply_to_status_id_str": "1113937607509987333",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about L.A. County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10575,
+			"friends_count": 1510,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554396773",
+			"profile_link_color": "D87D60",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LACoSheriff Speaking of @LACoSheriff, the deputy at the center of the controversy has filed a federal lawsuit against the county: https://t.co/Ksxxjg9jUp cc @Hannahnfry https://t.co/xX4GeXgjA2"
+	},
+	{
 		"created_at": "Thu Apr 04 20:41:57 +0000 2019",
 		"id": 1113904561368920000,
 		"id_str": "1113904561368920064",
