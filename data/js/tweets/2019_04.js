@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 17:38:57 +0000 2019",
+		"id": 1113858509416718300,
+		"id_str": "1113858509416718336",
+		"full_text": "How Nipsey Hussle saw Slauson Avenue. @emsimani, @priyakkumar and @LilEdit explore how places on the street influenced the late rapper's music: https://t.co/bI43M1wYyp https://t.co/oKI4hEMeJa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emsimani",
+					"name": "Ellis Simani",
+					"id": 2561920597,
+					"id_str": "2561920597",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "priyakkumar",
+					"name": "Priya Krishnakumar",
+					"id": 192995488,
+					"id_str": "192995488",
+					"indices": [
+						49,
+						61
+					]
+				},
+				{
+					"screen_name": "LilEdit",
+					"name": "Randall Roberts 🦅",
+					"id": 15263981,
+					"id_str": "15263981",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bI43M1wYyp",
+					"expanded_url": "http://bit.ly/2uUkIHH",
+					"display_url": "bit.ly/2uUkIHH",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1113857617963524100,
+					"id_str": "1113857617963524096",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/D3U3miEUIAAkH1m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3U3miEUIAAkH1m.jpg",
+					"url": "https://t.co/oKI4hEMeJa",
+					"display_url": "pic.twitter.com/oKI4hEMeJa",
+					"expanded_url": "https://twitter.com/stiles/status/1113858509416718336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1019,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1019,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113857617963524100,
+					"id_str": "1113857617963524096",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/D3U3miEUIAAkH1m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3U3miEUIAAkH1m.jpg",
+					"url": "https://t.co/oKI4hEMeJa",
+					"display_url": "pic.twitter.com/oKI4hEMeJa",
+					"expanded_url": "https://twitter.com/stiles/status/1113858509416718336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1019,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1019,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about L.A. County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10578,
+			"friends_count": 1508,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554396773",
+			"profile_link_color": "D87D60",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Nipsey Hussle saw Slauson Avenue. @emsimani, @priyakkumar and @LilEdit explore how places on the street influenced the late rapper's music: https://t.co/bI43M1wYyp https://t.co/oKI4hEMeJa"
+	},
+	{
 		"created_at": "Thu Apr 04 05:57:21 +0000 2019",
 		"id": 1113681943336349700,
 		"id_str": "1113681943336349696",
