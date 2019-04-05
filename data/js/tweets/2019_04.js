@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 15:08:41 +0000 2019",
+		"id": 1114182722384064500,
+		"id_str": "1114183080607006720",
+		"full_text": "“I am actually assuming the proper role of the sheriff,” says LA Sheriff Alex Villanueva re criticism that he’s not working collaboratively w Board of Supervisors &amp; making controversial hiring choices. A new dynamic emerges for Sheriff &amp; Board: https://t.co/ykLqpyic04 by @stiles",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						280,
+						287
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ykLqpyic04",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-sheriff-board-of-supervisors-20190404-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74304212,
+			"id_str": "74304212",
+			"name": "Maya Lau 🦅",
+			"screen_name": "mayalau",
+			"location": "Los Angeles, CA",
+			"description": "@latimes reporter covering L.A. Sheriff's Dept. Proud alum: @theadvocatebr, @shreveporttimes, @NYTMag, @peacecorps, @vassar // CONTACT: https://t.co/XiXiicmKXp",
+			"url": "https://t.co/XiXiicmKXp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XiXiicmKXp",
+							"expanded_url": "http://mayalau.com",
+							"display_url": "mayalau.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XiXiicmKXp",
+							"expanded_url": "http://mayalau.com",
+							"display_url": "mayalau.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10673,
+			"friends_count": 2804,
+			"listed_count": 298,
+			"created_at": "Mon Sep 14 23:45:56 +0000 2009",
+			"favourites_count": 1722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11945,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004414950670884864/p5mAiD6-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004414950670884864/p5mAiD6-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74304212/1439662591",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I am actually assuming the proper role of the sheriff,” says LA Sheriff Alex Villanueva re criticism that he’s not working collaboratively w Board of Supervisors &amp; making controversial hiring choices. A new dynamic emerges for Sheriff &amp; Board: https://t.co/ykLqpyic04 by @stiles"
+	},
+	{
 		"created_at": "Fri Apr 05 06:05:55 +0000 2019",
 		"id": 1114046490068918300,
 		"id_str": "1114046490068918274",
