@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 19:53:52 +0000 2019",
+		"id": 1113958174204121100,
+		"id_str": "1114254848650649600",
+		"full_text": "The facts behind the reinstatement of Dep Courtial were recommended by a previous Chief &amp; County Counsel. Between 2013-2018, there have been 14 settlement agreements executed during the civil service appellate process that resulted in the imposition of discharge being rescinded https://t.co/b6NvdmB7zl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113958033153912800,
+					"id_str": "1113958033153912832",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113958033153912832/pu/img/u_KUQNGrASjro5JQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113958033153912832/pu/img/u_KUQNGrASjro5JQ.jpg",
+					"url": "https://t.co/b6NvdmB7zl",
+					"display_url": "pic.twitter.com/b6NvdmB7zl",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1113958174204121088/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113958033153912800,
+					"id_str": "1113958033153912832",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113958033153912832/pu/img/u_KUQNGrASjro5JQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113958033153912832/pu/img/u_KUQNGrASjro5JQ.jpg",
+					"url": "https://t.co/b6NvdmB7zl",
+					"display_url": "pic.twitter.com/b6NvdmB7zl",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1113958174204121088/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 71510,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1113958033153912832/pu/vid/318x180/DdUlDYX29QdZxmOR.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1113958033153912832/pu/pl/67kueHy1Frw8c7v-.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1113958033153912832/pu/vid/426x240/in9DbroiVm0SDXZ6.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067499378175238100,
+			"id_str": "1067499378175238144",
+			"name": "Alex Villanueva",
+			"screen_name": "LACoSheriff",
+			"location": "Los Angeles, CA",
+			"description": "Sheriff, Los Angeles County; Veteran; Doctorate of Public Administration; 30+ years LASD",
+			"url": "https://t.co/rDy4m9WlSL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rDy4m9WlSL",
+							"expanded_url": "https://lasd.org",
+							"display_url": "lasd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1946,
+			"friends_count": 27,
+			"listed_count": 18,
+			"created_at": "Tue Nov 27 19:24:19 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067499378175238144/1543898306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The facts behind the reinstatement of Dep Courtial were recommended by a previous Chief &amp; County Counsel. Between 2013-2018, there have been 14 settlement agreements executed during the civil service appellate process that resulted in the imposition of discharge being rescinded https://t.co/b6NvdmB7zl"
+	},
+	{
 		"created_at": "Fri Apr 05 15:08:41 +0000 2019",
 		"id": 1114182722384064500,
 		"id_str": "1114183080607006720",
