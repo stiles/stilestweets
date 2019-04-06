@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 14:49:34 +0000 2019",
+		"id": 1114164437865435100,
+		"id_str": "1114540657358467074",
+		"full_text": "I realized today I don't have an IDE installed, am not running Postgres locally, and didn't even have the xcode tools installed.\n\nLike, who even AM I anymore.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1114163902768717800,
+		"in_reply_to_status_id_str": "1114163902768717824",
+		"in_reply_to_user_id": 8083262,
+		"in_reply_to_user_id_str": "8083262",
+		"in_reply_to_screen_name": "jeremybowers",
+		"user": {
+			"id": 8083262,
+			"id_str": "8083262",
+			"name": "Jeremy Bowers",
+			"screen_name": "jeremybowers",
+			"location": "Washington, D.C.",
+			"description": "Director of engineering, @wapoengineering. Adjunct @Duke_DeWitt. Priors: @nytinteractive, @nprviz, @tb_times. #TheSqueezle #TheGiblette @beckybowers",
+			"url": "https://t.co/bJcwfkCU7u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bJcwfkCU7u",
+							"expanded_url": "https://jeremybowers.com/",
+							"display_url": "jeremybowers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12657,
+			"friends_count": 3785,
+			"listed_count": 732,
+			"created_at": "Thu Aug 09 16:00:54 +0000 2007",
+			"favourites_count": 77100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 66347,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111640752705155072/LeF2cZ6r_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111640752705155072/LeF2cZ6r_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8083262/1553870743",
+			"profile_link_color": "005599",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 84,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I realized today I don't have an IDE installed, am not running Postgres locally, and didn't even have the xcode tools installed.\n\nLike, who even AM I anymore."
+	},
+	{
 		"created_at": "Sat Apr 06 00:45:24 +0000 2019",
 		"id": 1114328217530196000,
 		"id_str": "1114328217530195968",
