@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 00:45:24 +0000 2019",
+		"id": 1114328217530196000,
+		"id_str": "1114328217530195968",
+		"full_text": "Supervisor @mridleythomas reacts to news that six juvenile officers have been charged in an excessive pepper spray case: \"It ... underscores the urgent need to safely and responsibly phase out the use of pepper spray, and to implement stronger oversight.\" https://t.co/ULxcG2flYO https://t.co/VEFXnMdEti",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ULxcG2flYO",
+					"expanded_url": "https://lat.ms/2uR9dke",
+					"display_url": "lat.ms/2uR9dke",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1114328150568132600,
+					"id_str": "1114328150568132610",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D3bjjInU4AIsoCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3bjjInU4AIsoCe.jpg",
+					"url": "https://t.co/VEFXnMdEti",
+					"display_url": "pic.twitter.com/VEFXnMdEti",
+					"expanded_url": "https://twitter.com/stiles/status/1114328217530195968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114328150568132600,
+					"id_str": "1114328150568132610",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D3bjjInU4AIsoCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3bjjInU4AIsoCe.jpg",
+					"url": "https://t.co/VEFXnMdEti",
+					"display_url": "pic.twitter.com/VEFXnMdEti",
+					"expanded_url": "https://twitter.com/stiles/status/1114328217530195968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about L.A. County gov’t with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10585,
+			"friends_count": 1513,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554396773",
+			"profile_link_color": "D87D60",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Supervisor @mridleythomas reacts to news that six juvenile officers have been charged in an excessive pepper spray case: \"It ... underscores the urgent need to safely and responsibly phase out the use of pepper spray, and to implement stronger oversight.\" https://t.co/ULxcG2flYO https://t.co/VEFXnMdEti"
+	},
+	{
+		"created_at": "Sat Apr 06 00:25:05 +0000 2019",
+		"id": 1113975229414424600,
+		"id_str": "1114323103109091329",
+		"full_text": "After 10 years of running data journalism programmes, the launch of https://t.co/PfOfzBimpB yesterday represents a new era for @ejcnet's support of #datajournalism. Our Director, @datatheism, wrote about our journey so far: https://t.co/QiTGUclSU7 #ddj #data #journalism",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "datajournalism",
+					"indices": [
+						148,
+						163
+					]
+				},
+				{
+					"text": "ddj",
+					"indices": [
+						248,
+						252
+					]
+				},
+				{
+					"text": "data",
+					"indices": [
+						253,
+						258
+					]
+				},
+				{
+					"text": "journalism",
+					"indices": [
+						259,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ejcnet",
+					"name": "European Journalism Centre",
+					"id": 22495264,
+					"id_str": "22495264",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"screen_name": "datatheism",
+					"name": "Adam Thomas",
+					"id": 397870753,
+					"id_str": "397870753",
+					"indices": [
+						179,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PfOfzBimpB",
+					"expanded_url": "http://DataJournalism.com",
+					"display_url": "DataJournalism.com",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/QiTGUclSU7",
+					"expanded_url": "http://bit.ly/2WKbtFN",
+					"display_url": "bit.ly/2WKbtFN",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 303687748,
+			"id_str": "303687748",
+			"name": "DataJournalism.com",
+			"screen_name": "datajournalism",
+			"location": "Maastricht, The Netherlands",
+			"description": "Where journalism meets data: https://t.co/Dq6e7trGSL is a space to read, watch and discuss everything data. Brought to you by @ejcnet",
+			"url": "https://t.co/dEUUXm6tmp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dEUUXm6tmp",
+							"expanded_url": "https://DataJournalism.com",
+							"display_url": "DataJournalism.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Dq6e7trGSL",
+							"expanded_url": "http://DataJournalism.com",
+							"display_url": "DataJournalism.com",
+							"indices": [
+								29,
+								52
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30275,
+			"friends_count": 1061,
+			"listed_count": 2217,
+			"created_at": "Mon May 23 08:45:01 +0000 2011",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113363717352247297/t1ml73NX_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113363717352247297/t1ml73NX_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/303687748/1554281600",
+			"profile_link_color": "7A3C84",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F1C9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 81,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After 10 years of running data journalism programmes, the launch of https://t.co/PfOfzBimpB yesterday represents a new era for @ejcnet's support of #datajournalism. Our Director, @datatheism, wrote about our journey so far: https://t.co/QiTGUclSU7 #ddj #data #journalism"
+	},
+	{
 		"created_at": "Sat Apr 06 00:01:36 +0000 2019",
 		"id": 1114317192831455200,
 		"id_str": "1114317192831455232",
