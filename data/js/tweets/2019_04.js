@@ -1,6 +1,920 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 02:16:53 +0000 2019",
+		"id": 1114272230446252000,
+		"id_str": "1114713625078292482",
+		"full_text": "Agents inspect aircraft passenger stairs that President Donald Trump is expected to disembark Air Force One on at @flyLAXairport. https://t.co/MVZkE4Cq77",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flyLAXairport",
+					"name": "LAX Airport",
+					"id": 26886095,
+					"id_str": "26886095",
+					"indices": [
+						114,
+						128
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114272224423231500,
+					"id_str": "1114272224423231488",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D3awrzfUwAA1DRX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3awrzfUwAA1DRX.jpg",
+					"url": "https://t.co/MVZkE4Cq77",
+					"display_url": "pic.twitter.com/MVZkE4Cq77",
+					"expanded_url": "https://twitter.com/kentnish/status/1114272230446252032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114272224423231500,
+					"id_str": "1114272224423231488",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D3awrzfUwAA1DRX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3awrzfUwAA1DRX.jpg",
+					"url": "https://t.co/MVZkE4Cq77",
+					"display_url": "pic.twitter.com/MVZkE4Cq77",
+					"expanded_url": "https://twitter.com/kentnish/status/1114272230446252032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14879434,
+			"id_str": "14879434",
+			"name": "𝕂𝕖𝕟𝕥 ℕ𝕚𝕤𝕙𝕚𝕞𝕦𝕣𝕒",
+			"screen_name": "kentnish",
+			"location": "Los Angeles, CA",
+			"description": "Photographer, @latimes. Interested in tech, news, visual storytelling. Previous: @denverpost, @tb_times, @csgazette @honadv. 📨: kent.nishimura@latimes.com",
+			"url": "https://t.co/Cp0200B4Na",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cp0200B4Na",
+							"expanded_url": "http://www.latimes.com/la-bio-kent-nishimura-staff.html",
+							"display_url": "latimes.com/la-bio-kent-ni…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3114,
+			"friends_count": 2148,
+			"listed_count": 154,
+			"created_at": "Fri May 23 08:58:26 +0000 2008",
+			"favourites_count": 8365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14931,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108757787964665856/gVYF51gR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108757787964665856/gVYF51gR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14879434/1552628309",
+			"profile_link_color": "77D4FD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9f0999d086000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9f0999d086000.json",
+			"place_type": "poi",
+			"name": "Gate 209 - Remote Terminal",
+			"full_name": "Gate 209 - Remote Terminal",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.42485871403954,
+							33.9440430573292
+						],
+						[
+							-118.42485871403954,
+							33.9440430573292
+						],
+						[
+							-118.42485871403954,
+							33.9440430573292
+						],
+						[
+							-118.42485871403954,
+							33.9440430573292
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 224,
+		"favorite_count": 1197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Agents inspect aircraft passenger stairs that President Donald Trump is expected to disembark Air Force One on at @flyLAXairport. https://t.co/MVZkE4Cq77"
+	},
+	{
+		"created_at": "Sun Apr 07 01:45:12 +0000 2019",
+		"id": 1114560839418372100,
+		"id_str": "1114705651337322496",
+		"full_text": "We need a new reckoning on this behavior because it is so sticky and despite all our gains (awards! most trafficked stories! book deals! praise! Pulitzers!) people are still like “hey make my piece a lil prettier” https://t.co/kBRcZoLXEH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kBRcZoLXEH",
+					"expanded_url": "https://twitter.com/suenew/status/1114507959705452550",
+					"display_url": "twitter.com/suenew/status/…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68727303,
+			"id_str": "68727303",
+			"name": "Stuart A. Thompson",
+			"screen_name": "stuartathompson",
+			"location": "New York, New York",
+			"description": "Visual journalism director @nytopinion. Former graphics director @WSJ. My tweets auto-delete. Visual op-ed pitches: stuart.thompson@nytimes.com",
+			"url": "https://t.co/HV5OyCOmLa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HV5OyCOmLa",
+							"expanded_url": "https://www.nytimes.com/by/stuart-a-thompson",
+							"display_url": "nytimes.com/by/stuart-a-th…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7737,
+			"friends_count": 531,
+			"listed_count": 423,
+			"created_at": "Tue Aug 25 15:53:23 +0000 2009",
+			"favourites_count": 3885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 37,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054380805773058053/rdq8xvOj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054380805773058053/rdq8xvOj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68727303/1484843155",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114507959705452500,
+		"quoted_status_id_str": "1114507959705452550",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kBRcZoLXEH",
+			"expanded": "https://twitter.com/suenew/status/1114507959705452550",
+			"display": "twitter.com/suenew/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 06 12:39:38 +0000 2019",
+			"id": 1114507959705452500,
+			"id_str": "1114507959705452550",
+			"full_text": "Watching @wsj's @shazna at #ijf19 talking about how tired she is of hearing visual work marginalized, dismissed as \"bells and whistles', \"furniture'. Quotes John Berger: \"Seeing comes before words...\" #hero 👊 Thoughts, @kingsjournalism , #ukc3005 ?https://t.co/IizF64O8Z4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ijf19",
+						"indices": [
+							27,
+							33
+						]
+					},
+					{
+						"text": "hero",
+						"indices": [
+							201,
+							206
+						]
+					},
+					{
+						"text": "ukc3005",
+						"indices": [
+							238,
+							246
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WSJ",
+						"name": "The Wall Street Journal",
+						"id": 3108351,
+						"id_str": "3108351",
+						"indices": [
+							9,
+							13
+						]
+					},
+					{
+						"screen_name": "shazna",
+						"name": "Shazna Nessa",
+						"id": 14130084,
+						"id_str": "14130084",
+						"indices": [
+							16,
+							23
+						]
+					},
+					{
+						"screen_name": "kingsjournalism",
+						"name": "King's Journalism",
+						"id": 113097731,
+						"id_str": "113097731",
+						"indices": [
+							219,
+							235
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IizF64O8Z4",
+						"expanded_url": "https://www.journalismfestival.com/programme/2019/goodbye-news-hello-drama-visual-forms-and-post-news-journalism",
+						"display_url": "journalismfestival.com/programme/2019…",
+						"indices": [
+							248,
+							271
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16470835,
+				"id_str": "16470835",
+				"name": "Sue Newhook",
+				"screen_name": "suenew",
+				"location": "Halifax NS",
+				"description": "Teaching @kingsjournalism. Fogo Island films, mobile reporting, stories with pictures moving & still.  Townie. RT = that's interesting! #shotoniphone",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2861,
+				"friends_count": 2834,
+				"listed_count": 230,
+				"created_at": "Fri Sep 26 17:29:18 +0000 2008",
+				"favourites_count": 21901,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23738,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/581378014413471744/-87VTGSw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/581378014413471744/-87VTGSw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16470835/1417375642",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We need a new reckoning on this behavior because it is so sticky and despite all our gains (awards! most trafficked stories! book deals! praise! Pulitzers!) people are still like “hey make my piece a lil prettier” https://t.co/kBRcZoLXEH"
+	},
+	{
+		"created_at": "Sun Apr 07 01:40:43 +0000 2019",
+		"id": 1114704523556057100,
+		"id_str": "1114704523556057088",
+		"full_text": "Gold https://t.co/E5k064FtAs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E5k064FtAs",
+					"expanded_url": "https://twitter.com/adrienneshih/status/1114675625887797248",
+					"display_url": "twitter.com/adrienneshih/s…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10592,
+			"friends_count": 1512,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554396773",
+			"profile_link_color": "D87D60",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114675625887797200,
+		"quoted_status_id_str": "1114675625887797248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E5k064FtAs",
+			"expanded": "https://twitter.com/adrienneshih/status/1114675625887797248",
+			"display": "twitter.com/adrienneshih/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 06 23:45:53 +0000 2019",
+			"id": 1114675625887797200,
+			"id_str": "1114675625887797248",
+			"full_text": "My best friend’s dad found a book of @latimes front page archives from 1881-1970s. Needless to say, we spent hours perusing. https://t.co/YR5xcPKLQd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							37,
+							45
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1114675568270643200,
+						"id_str": "1114675568270643200",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/D3gfhgaUEAAJR54.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3gfhgaUEAAJR54.jpg",
+						"url": "https://t.co/YR5xcPKLQd",
+						"display_url": "pic.twitter.com/YR5xcPKLQd",
+						"expanded_url": "https://twitter.com/adrienneshih/status/1114675625887797248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114675568270643200,
+						"id_str": "1114675568270643200",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/D3gfhgaUEAAJR54.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3gfhgaUEAAJR54.jpg",
+						"url": "https://t.co/YR5xcPKLQd",
+						"display_url": "pic.twitter.com/YR5xcPKLQd",
+						"expanded_url": "https://twitter.com/adrienneshih/status/1114675625887797248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1114675568291668000,
+						"id_str": "1114675568291667968",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/D3gfhgfU4AArdLb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3gfhgfU4AArdLb.jpg",
+						"url": "https://t.co/YR5xcPKLQd",
+						"display_url": "pic.twitter.com/YR5xcPKLQd",
+						"expanded_url": "https://twitter.com/adrienneshih/status/1114675625887797248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1114675568400785400,
+						"id_str": "1114675568400785409",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/D3gfhg5V4AEJjZT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3gfhg5V4AEJjZT.jpg",
+						"url": "https://t.co/YR5xcPKLQd",
+						"display_url": "pic.twitter.com/YR5xcPKLQd",
+						"expanded_url": "https://twitter.com/adrienneshih/status/1114675625887797248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1114675568400670700,
+						"id_str": "1114675568400670720",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/D3gfhg5UIAA3U5o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3gfhg5UIAA3U5o.jpg",
+						"url": "https://t.co/YR5xcPKLQd",
+						"display_url": "pic.twitter.com/YR5xcPKLQd",
+						"expanded_url": "https://twitter.com/adrienneshih/status/1114675625887797248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 123525091,
+				"id_str": "123525091",
+				"name": "Adrienne Shih👩🏻‍💻",
+				"screen_name": "adrienneshih",
+				"location": "Washington, DC",
+				"description": "Audience engagement editor @latimes + @latimespolitics • Proud alum @washingtonpost, @CNN, @ForeignPolicy • DC transplant by way of LA & TPE",
+				"url": "https://t.co/eTksmynSH7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eTksmynSH7",
+								"expanded_url": "http://latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2236,
+				"friends_count": 870,
+				"listed_count": 59,
+				"created_at": "Tue Mar 16 10:45:18 +0000 2010",
+				"favourites_count": 28545,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2268,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1086114503362781184/bWwtkyn9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086114503362781184/bWwtkyn9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/123525091/1554594182",
+				"profile_link_color": "B75D6C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gold https://t.co/E5k064FtAs"
+	},
+	{
 		"created_at": "Sat Apr 06 17:18:03 +0000 2019",
 		"id": 1114577438355230700,
 		"id_str": "1114578024802873345",
