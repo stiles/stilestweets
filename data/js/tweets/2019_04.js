@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 03:11:57 +0000 2019",
+		"id": 1114581735394631700,
+		"id_str": "1114727485340389377",
+		"full_text": "he's likable enough, for a relic https://t.co/2zNSBZ09m0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2zNSBZ09m0",
+					"expanded_url": "https://twitter.com/DavidZahniser/status/1114577438355230720",
+					"display_url": "twitter.com/DavidZahniser/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16001350,
+			"id_str": "16001350",
+			"name": "Elise Hu",
+			"screen_name": "elisewho",
+			"location": "California, USA",
+			"description": "LA-based @NPRNews. Ex-expat buro chief in Koreas and Japan. @TexasTribune & #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. IG @elisewho | ehu@npr.org",
+			"url": "https://t.co/5UvjA81oSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5UvjA81oSH",
+							"expanded_url": "http://elisehu.com",
+							"display_url": "elisehu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40021,
+			"friends_count": 1902,
+			"listed_count": 1724,
+			"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+			"favourites_count": 2958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30017,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDEDEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1498480092",
+			"profile_link_color": "4E647A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114577438355230700,
+		"quoted_status_id_str": "1114577438355230720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2zNSBZ09m0",
+			"expanded": "https://twitter.com/DavidZahniser/status/1114577438355230720",
+			"display": "twitter.com/DavidZahniser/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 06 17:15:43 +0000 2019",
+			"id": 1114577438355230700,
+			"id_str": "1114577438355230720",
+			"full_text": "I know front pages are a relic of the past, but I still think it's awesome that @stiles, who covers @CountyofLA for the LAT, scored bylines on two A1 stories today https://t.co/l0TW3Wmsih",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stiles",
+						"name": "Matt Stiles",
+						"id": 14790314,
+						"id_str": "14790314",
+						"indices": [
+							80,
+							87
+						]
+					},
+					{
+						"screen_name": "CountyofLA",
+						"name": "Los Angeles County",
+						"id": 193771633,
+						"id_str": "193771633",
+						"indices": [
+							100,
+							111
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1114575518832005100,
+						"id_str": "1114575518832005120",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/D3fEh3NUEAAX8KA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3fEh3NUEAAX8KA.jpg",
+						"url": "https://t.co/l0TW3Wmsih",
+						"display_url": "pic.twitter.com/l0TW3Wmsih",
+						"expanded_url": "https://twitter.com/DavidZahniser/status/1114577438355230720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114575518832005100,
+						"id_str": "1114575518832005120",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/D3fEh3NUEAAX8KA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3fEh3NUEAAX8KA.jpg",
+						"url": "https://t.co/l0TW3Wmsih",
+						"display_url": "pic.twitter.com/l0TW3Wmsih",
+						"expanded_url": "https://twitter.com/DavidZahniser/status/1114577438355230720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 714617040,
+				"id_str": "714617040",
+				"name": "David Zahniser 🦅",
+				"screen_name": "DavidZahniser",
+				"location": "Los Angeles, CA",
+				"description": "L.A. Times reporter covering City Hall, local government and other L.A.-related things. Ex-L.A. Weekly, Ex-Daily Breeze, ex cetera",
+				"url": "https://t.co/ifWgDURyxw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ifWgDURyxw",
+								"expanded_url": "http://www.latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5428,
+				"friends_count": 883,
+				"listed_count": 204,
+				"created_at": "Tue Jul 24 17:11:43 +0000 2012",
+				"favourites_count": 1031,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7789,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903054701297631234/U8OYnEiu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903054701297631234/U8OYnEiu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/714617040/1504939172",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "he's likable enough, for a relic https://t.co/2zNSBZ09m0"
+	},
+	{
 		"created_at": "Sun Apr 07 02:16:53 +0000 2019",
 		"id": 1114272230446252000,
 		"id_str": "1114713625078292482",
@@ -836,7 +1143,7 @@ Grailbird.data.tweets_2019_04 =
 			"user": {
 				"id": 123525091,
 				"id_str": "123525091",
-				"name": "Adrienne Shih👩🏻‍💻",
+				"name": "Adrienne Shih👩🏻💻",
 				"screen_name": "adrienneshih",
 				"location": "Washington, DC",
 				"description": "Audience engagement editor @latimes + @latimespolitics • Proud alum @washingtonpost, @CNN, @ForeignPolicy • DC transplant by way of LA & TPE",
