@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 20:22:07 +0000 2019",
+		"id": 1115349122301579300,
+		"id_str": "1115349122301579264",
+		"full_text": "This is amazing. \n\ncc @gaufre https://t.co/iczYkmLh4P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gaufre",
+					"name": "Jon Schleuss 🦅",
+					"id": 12561082,
+					"id_str": "12561082",
+					"indices": [
+						22,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iczYkmLh4P",
+					"expanded_url": "https://twitter.com/a_mendelson/status/1115342389651038208",
+					"display_url": "twitter.com/a_mendelson/st…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10603,
+			"friends_count": 1516,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554606613",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115342389651038200,
+		"quoted_status_id_str": "1115342389651038208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iczYkmLh4P",
+			"expanded": "https://twitter.com/a_mendelson/status/1115342389651038208",
+			"display": "twitter.com/a_mendelson/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 08 19:55:22 +0000 2019",
+			"id": 1115342389651038200,
+			"id_str": "1115342389651038208",
+			"full_text": "thank you @onthatbombshell for alerting me to this awesome repository of aerial photos maintained by the @UCSBLibrary https://t.co/yFFSTpNgih",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "onthatbombshell",
+						"name": "Matt Tinoco",
+						"id": 386873851,
+						"id_str": "386873851",
+						"indices": [
+							10,
+							26
+						]
+					},
+					{
+						"screen_name": "UCSBLibrary",
+						"name": "UCSB Library",
+						"id": 101367986,
+						"id_str": "101367986",
+						"indices": [
+							105,
+							117
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yFFSTpNgih",
+						"expanded_url": "http://mil.library.ucsb.edu/ap_indexes/FrameFinder/",
+						"display_url": "mil.library.ucsb.edu/ap_indexes/Fra…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1115342041779556400,
+			"in_reply_to_status_id_str": "1115342041779556352",
+			"in_reply_to_user_id": 531724834,
+			"in_reply_to_user_id_str": "531724834",
+			"in_reply_to_screen_name": "a_mendelson",
+			"user": {
+				"id": 531724834,
+				"id_str": "531724834",
+				"name": "Aaron Mendelson",
+				"screen_name": "a_mendelson",
+				"location": "Los Angeles, CA",
+				"description": "Data reporter at @KPCC / @LAist amendelson@scpr.org",
+				"url": "https://t.co/istetGYgr5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/istetGYgr5",
+								"expanded_url": "http://www.scpr.org/about/people/staff/aaron-mendelson",
+								"display_url": "scpr.org/about/people/s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1539,
+				"friends_count": 914,
+				"listed_count": 99,
+				"created_at": "Tue Mar 20 23:09:06 +0000 2012",
+				"favourites_count": 6629,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5871,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1016804355616280576/NuoneIhV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016804355616280576/NuoneIhV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/531724834/1531179865",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is amazing. \n\ncc @gaufre https://t.co/iczYkmLh4P"
+	},
+	{
 		"created_at": "Mon Apr 08 19:03:48 +0000 2019",
 		"id": 1115329413468393500,
 		"id_str": "1115329413468393472",
