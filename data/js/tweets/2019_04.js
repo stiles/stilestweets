@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 19:03:48 +0000 2019",
+		"id": 1115329413468393500,
+		"id_str": "1115329413468393472",
+		"full_text": "Felicity Huffman joining the list of ‘profoundly sorry’ parents pleading guilty in college admissions scandal: \"I am ashamed of the pain I have caused my daughter, my family, my friends, my colleagues and the educational community.\" https://t.co/6FU9bUqRwj cc @MatthewOrmseth https://t.co/IvWiK6wvZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthewOrmseth",
+					"name": "Matthew Ormseth",
+					"id": 791017034570166300,
+					"id_str": "791017034570166273",
+					"indices": [
+						260,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6FU9bUqRwj",
+					"expanded_url": "https://lat.ms/2YXljGf",
+					"display_url": "lat.ms/2YXljGf",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115328837317824500,
+					"id_str": "1115328837317824512",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D3pxqxQUEAAUOhm.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3pxqxQUEAAUOhm.png",
+					"url": "https://t.co/IvWiK6wvZ5",
+					"display_url": "pic.twitter.com/IvWiK6wvZ5",
+					"expanded_url": "https://twitter.com/stiles/status/1115329413468393472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 648,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 648,
+							"h": 426,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115328837317824500,
+					"id_str": "1115328837317824512",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D3pxqxQUEAAUOhm.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3pxqxQUEAAUOhm.png",
+					"url": "https://t.co/IvWiK6wvZ5",
+					"display_url": "pic.twitter.com/IvWiK6wvZ5",
+					"expanded_url": "https://twitter.com/stiles/status/1115329413468393472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 648,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 648,
+							"h": 426,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10602,
+			"friends_count": 1514,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13377,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554606613",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Felicity Huffman joining the list of ‘profoundly sorry’ parents pleading guilty in college admissions scandal: \"I am ashamed of the pain I have caused my daughter, my family, my friends, my colleagues and the educational community.\" https://t.co/6FU9bUqRwj cc @MatthewOrmseth https://t.co/IvWiK6wvZ5"
+	},
+	{
 		"created_at": "Mon Apr 08 18:02:56 +0000 2019",
 		"id": 1115314093475258400,
 		"id_str": "1115314093475258368",
