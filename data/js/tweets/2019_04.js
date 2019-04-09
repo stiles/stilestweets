@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 00:20:16 +0000 2019",
+		"id": 1115409053499383800,
+		"id_str": "1115409053499383808",
+		"full_text": "Yes, @Tan_Shelly, I know you have many, many more great pieces left in you, but this is approaching a masterpiece. I love that you made this data, illustrated the characters and weaved it all together — and you keep updating it for us. https://t.co/nYul89Zdhu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tan_Shelly",
+					"name": "Shelly Tan",
+					"id": 233844420,
+					"id_str": "233844420",
+					"indices": [
+						5,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nYul89Zdhu",
+					"expanded_url": "https://twitter.com/chiquiesteban/status/1115321263264862208",
+					"display_url": "twitter.com/chiquiesteban/…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10601,
+			"friends_count": 1516,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13386,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554606613",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115321263264862200,
+		"quoted_status_id_str": "1115321263264862208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nYul89Zdhu",
+			"expanded": "https://twitter.com/chiquiesteban/status/1115321263264862208",
+			"display": "twitter.com/chiquiesteban/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 08 18:31:25 +0000 2019",
+			"id": 1115321263264862200,
+			"id_str": "1115321263264862208",
+			"full_text": "The level of detail of this 'Game of Thrones Deaths tracker' by @Tan_Shelly is awesome\n\nhttps://t.co/KSX7aK6ULp https://t.co/8Pg6y1XfQA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Tan_Shelly",
+						"name": "Shelly Tan",
+						"id": 233844420,
+						"id_str": "233844420",
+						"indices": [
+							64,
+							75
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KSX7aK6ULp",
+						"expanded_url": "https://www.washingtonpost.com/graphics/entertainment/game-of-thrones/?utm_term=.a1974d3c7ff6",
+						"display_url": "washingtonpost.com/graphics/enter…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1115321238103130100,
+						"id_str": "1115321238103130112",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/D3pqwb-WAAA2IAl.png",
+						"media_url_https": "https://pbs.twimg.com/media/D3pqwb-WAAA2IAl.png",
+						"url": "https://t.co/8Pg6y1XfQA",
+						"display_url": "pic.twitter.com/8Pg6y1XfQA",
+						"expanded_url": "https://twitter.com/chiquiesteban/status/1115321263264862208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 124,
+								"h": 97,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 124,
+								"h": 97,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 124,
+								"h": 97,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 97,
+								"h": 97,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1115321238103130100,
+						"id_str": "1115321238103130112",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/D3pqwb-WAAA2IAl.png",
+						"media_url_https": "https://pbs.twimg.com/media/D3pqwb-WAAA2IAl.png",
+						"url": "https://t.co/8Pg6y1XfQA",
+						"display_url": "pic.twitter.com/8Pg6y1XfQA",
+						"expanded_url": "https://twitter.com/chiquiesteban/status/1115321263264862208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 124,
+								"h": 97,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 124,
+								"h": 97,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 124,
+								"h": 97,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 97,
+								"h": 97,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1115321238078087200,
+						"id_str": "1115321238078087169",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/D3pqwb4X4AEIWxY.png",
+						"media_url_https": "https://pbs.twimg.com/media/D3pqwb4X4AEIWxY.png",
+						"url": "https://t.co/8Pg6y1XfQA",
+						"display_url": "pic.twitter.com/8Pg6y1XfQA",
+						"expanded_url": "https://twitter.com/chiquiesteban/status/1115321263264862208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 641,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 641,
+								"h": 308,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 641,
+								"h": 308,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13734322,
+				"id_str": "13734322",
+				"name": "Chiqui Esteban (pronounced 'Cheeky')",
+				"screen_name": "chiquiesteban",
+				"location": "Maryland, USA",
+				"description": "Graphics Director @washingtonpost. Before: @NatGeo @BostonGlobe, Spain. Baseball and soccer fan, reads American history, capable of eating 1m albóndigas.",
+				"url": "https://t.co/7rWcJXqhdc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7rWcJXqhdc",
+								"expanded_url": "https://www.washingtonpost.com/people/chiqui-esteban",
+								"display_url": "washingtonpost.com/people/chiqui-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8771,
+				"friends_count": 1255,
+				"listed_count": 720,
+				"created_at": "Wed Feb 20 19:09:26 +0000 2008",
+				"favourites_count": 1058,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20251,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953004854355652608/4ZK0_siE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953004854355652608/4ZK0_siE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13734322/1447556493",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "4F4A4F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes, @Tan_Shelly, I know you have many, many more great pieces left in you, but this is approaching a masterpiece. I love that you made this data, illustrated the characters and weaved it all together — and you keep updating it for us. https://t.co/nYul89Zdhu"
+	},
+	{
 		"created_at": "Mon Apr 08 22:27:29 +0000 2019",
 		"id": 1115380671214571500,
 		"id_str": "1115380671214571520",
