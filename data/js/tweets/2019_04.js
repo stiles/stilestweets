@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 03:47:49 +0000 2019",
+		"id": 1115822049610600400,
+		"id_str": "1115823672042897408",
+		"full_text": "Love L.A.’s palm trees on windy days: https://t.co/ygOK47JF4c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115821993402589200,
+					"id_str": "1115821993402589184",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115821993402589184/pu/img/K7m96Cdb7WO8AlBW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115821993402589184/pu/img/K7m96Cdb7WO8AlBW.jpg",
+					"url": "https://t.co/ygOK47JF4c",
+					"display_url": "pic.twitter.com/ygOK47JF4c",
+					"expanded_url": "https://twitter.com/laura_nelson/status/1115822049610600450/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115821993402589200,
+					"id_str": "1115821993402589184",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115821993402589184/pu/img/K7m96Cdb7WO8AlBW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115821993402589184/pu/img/K7m96Cdb7WO8AlBW.jpg",
+					"url": "https://t.co/ygOK47JF4c",
+					"display_url": "pic.twitter.com/ygOK47JF4c",
+					"expanded_url": "https://twitter.com/laura_nelson/status/1115822049610600450/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115821993402589184/pu/vid/720x1280/kRSrAmL2M6OGNTgM.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1115821993402589184/pu/pl/F3a186mWn3dyw06F.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115821993402589184/pu/vid/360x640/P8Ef8NnWhdP4MqGd.mp4?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115821993402589184/pu/vid/320x568/LfHOLNPYXIvtVAX-.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16538210,
+			"id_str": "16538210",
+			"name": "Laura J. Nelson 🦅",
+			"screen_name": "laura_nelson",
+			"location": "Los Angeles, CA",
+			"description": "@latimes transportation reporter. I cover 🚙, 🚌, 🚇, 🚲, 🚶🏽‍♀️, 🛴 and more. Proud @latguild organizer. Kansan. Plant lady. Tips? laura.nelson@latimes(.)com",
+			"url": "https://t.co/PXMg3UiFM4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PXMg3UiFM4",
+							"expanded_url": "http://lat.ms/1nh6tnA",
+							"display_url": "lat.ms/1nh6tnA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24189,
+			"friends_count": 999,
+			"listed_count": 933,
+			"created_at": "Wed Oct 01 01:20:51 +0000 2008",
+			"favourites_count": 42389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103359797305307136/O06s5RoX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103359797305307136/O06s5RoX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16538210/1533145672",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 79,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love L.A.’s palm trees on windy days: https://t.co/ygOK47JF4c"
+	},
+	{
 		"created_at": "Wed Apr 10 03:19:26 +0000 2019",
 		"id": 1115723901814710300,
 		"id_str": "1115816531286319104",
