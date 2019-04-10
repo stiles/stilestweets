@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 00:04:52 +0000 2019",
+		"id": 1115767464325832700,
+		"id_str": "1115767565643472897",
+		"full_text": "AG Barr was the second most noteworthy testimony today — https://t.co/aqo2l8kE1h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aqo2l8kE1h",
+					"expanded_url": "https://twitter.com/stiles/status/1115689395661578240",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14270650,
+			"id_str": "14270650",
+			"name": "Karen Tumulty",
+			"screen_name": "ktumulty",
+			"location": "Washington, DC",
+			"description": "Trying to adapt. Also, political columnist for the Washington Post.",
+			"url": "https://t.co/fJMCeIYylK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJMCeIYylK",
+							"expanded_url": "http://www.washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150886,
+			"friends_count": 2743,
+			"listed_count": 4005,
+			"created_at": "Mon Mar 31 23:45:58 +0000 2008",
+			"favourites_count": 7742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958521934689525760/Uo09Jrhn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958521934689525760/Uo09Jrhn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14270650/1464892435",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115689395661578200,
+		"quoted_status_id_str": "1115689395661578240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aqo2l8kE1h",
+			"expanded": "https://twitter.com/stiles/status/1115689395661578240",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 09 18:54:15 +0000 2019",
+			"id": 1115689395661578200,
+			"id_str": "1115689395661578240",
+			"full_text": "“I must admit it’s a bit more intimidating than I anticipated.” — Brad Pitt on speaking at the Board of Supervisors @CountyofLA https://t.co/RsCAdtrHY2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CountyofLA",
+						"name": "Los Angeles County",
+						"id": 193771633,
+						"id_str": "193771633",
+						"indices": [
+							116,
+							127
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1115689386085982200,
+						"id_str": "1115689386085982208",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/media/D3u5leFUIAAJ3do.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3u5leFUIAAJ3do.jpg",
+						"url": "https://t.co/RsCAdtrHY2",
+						"display_url": "pic.twitter.com/RsCAdtrHY2",
+						"expanded_url": "https://twitter.com/stiles/status/1115689395661578240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1115689386085982200,
+						"id_str": "1115689386085982208",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/media/D3u5leFUIAAJ3do.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3u5leFUIAAJ3do.jpg",
+						"url": "https://t.co/RsCAdtrHY2",
+						"display_url": "pic.twitter.com/RsCAdtrHY2",
+						"expanded_url": "https://twitter.com/stiles/status/1115689395661578240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles, CA",
+				"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10616,
+				"friends_count": 1516,
+				"listed_count": 876,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 5497,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13391,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554606613",
+				"profile_link_color": "CA7A47",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 170,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AG Barr was the second most noteworthy testimony today — https://t.co/aqo2l8kE1h"
+	},
+	{
 		"created_at": "Tue Apr 09 19:19:38 +0000 2019",
 		"id": 1115695496780075000,
 		"id_str": "1115695786929479680",
