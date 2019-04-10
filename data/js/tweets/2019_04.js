@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 13:53:10 +0000 2019",
+		"id": 1115969569565208600,
+		"id_str": "1115976015342268417",
+		"full_text": "Who monitors sheriffs? New law would place that power firmly with counties. With @stiles  https://t.co/1jAh30H8Oe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1jAh30H8Oe",
+					"expanded_url": "https://www.latimes.com/local/california/la-pol-ca-sheriff-oversight-bill-california-legislature-20190410-story.html",
+					"display_url": "latimes.com/local/californ…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1630851128,
+			"id_str": "1630851128",
+			"name": "Anita Chabria",
+			"screen_name": "chabriaa",
+			"location": "California, USA",
+			"description": "Staff writer for the Los Angeles Times. Formerly @sacbee_news",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1791,
+			"friends_count": 1270,
+			"listed_count": 65,
+			"created_at": "Mon Jul 29 17:26:33 +0000 2013",
+			"favourites_count": 1326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4232,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753425392887660544/7rrdcXg__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753425392887660544/7rrdcXg__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who monitors sheriffs? New law would place that power firmly with counties. With @stiles  https://t.co/1jAh30H8Oe"
+	},
+	{
 		"created_at": "Wed Apr 10 06:12:08 +0000 2019",
 		"id": 1115859991129403400,
 		"id_str": "1115859991129403395",
