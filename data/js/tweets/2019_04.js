@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 14:57:50 +0000 2019",
+		"id": 1115978564715704300,
+		"id_str": "1115992291007590400",
+		"full_text": "Who monitors sheriffs? New law would place that power firmly with counties, via @chabriaa &amp; @stiles  https://t.co/L2NIgc0Vdo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chabriaa",
+					"name": "Anita Chabria",
+					"id": 1630851128,
+					"id_str": "1630851128",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L2NIgc0Vdo",
+					"expanded_url": "https://www.latimes.com/local/california/la-pol-ca-sheriff-oversight-bill-california-legislature-20190410-story.html",
+					"display_url": "latimes.com/local/californ…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37735734,
+			"id_str": "37735734",
+			"name": "Stuart Leavenworth",
+			"screen_name": "sleavenworth",
+			"location": "Los Angeles, CA",
+			"description": "California Enterprise Editor, @latimes. Formerly scribe & editor in DC, Beijing & Sacramento. Escaped newspapers to be a kitchen slave in '09, but came back.",
+			"url": "https://t.co/vdcY2u4ncM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vdcY2u4ncM",
+							"expanded_url": "https://www.latimes.com/la-bio-stuart-leavenworth-staff.html",
+							"display_url": "latimes.com/la-bio-stuart-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5498,
+			"friends_count": 4210,
+			"listed_count": 297,
+			"created_at": "Mon May 04 19:37:10 +0000 2009",
+			"favourites_count": 9831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10511,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/627730765711695872/3rNaU6rj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/627730765711695872/3rNaU6rj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37735734/1549059836",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who monitors sheriffs? New law would place that power firmly with counties, via @chabriaa &amp; @stiles  https://t.co/L2NIgc0Vdo"
+	},
+	{
 		"created_at": "Wed Apr 10 13:53:10 +0000 2019",
 		"id": 1115969569565208600,
 		"id_str": "1115976015342268417",
