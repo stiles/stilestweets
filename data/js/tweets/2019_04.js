@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 19:28:12 +0000 2019",
+		"id": 1116059646551179300,
+		"id_str": "1116060328016498688",
+		"full_text": "The company’s lawyers show up late and come to the table empty-handed. They want to wear us down. We see you and we’re sticking together. @latguild holds massive walkout. Company: come to the table and stop stalling. We have work to do. ✊🦅 https://t.co/35stvO3gn7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latguild",
+					"name": "L.A. Times Guild 🦅",
+					"id": 859504635773464600,
+					"id_str": "859504635773464576",
+					"indices": [
+						138,
+						147
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116059625952960500,
+					"id_str": "1116059625952960512",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116059625952960512/pu/img/4NsepaJ6CO2BEEC8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116059625952960512/pu/img/4NsepaJ6CO2BEEC8.jpg",
+					"url": "https://t.co/35stvO3gn7",
+					"display_url": "pic.twitter.com/35stvO3gn7",
+					"expanded_url": "https://twitter.com/gaufre/status/1116059646551179264/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116059625952960500,
+					"id_str": "1116059625952960512",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116059625952960512/pu/img/4NsepaJ6CO2BEEC8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116059625952960512/pu/img/4NsepaJ6CO2BEEC8.jpg",
+					"url": "https://t.co/35stvO3gn7",
+					"display_url": "pic.twitter.com/35stvO3gn7",
+					"expanded_url": "https://twitter.com/gaufre/status/1116059646551179264/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 1800,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116059625952960512/pu/vid/1280x720/kJAFDcpINc60mcBP.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1116059625952960512/pu/pl/BiUTiNg1CSeXxv6L.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116059625952960512/pu/vid/640x360/SLFxn9kne-6bQ16l.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116059625952960512/pu/vid/320x180/jIAqhr7XtDTi36wt.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12561082,
+			"id_str": "12561082",
+			"name": "Jon Schleuss 🦅",
+			"screen_name": "gaufre",
+			"location": "Los Angeles, CA",
+			"description": "Data/graphics/coding journalist @latimes, activist @latguild, educator @USCAnnenberg. From Arkansas. Running for @news_guild president. he/him ✊🏳️‍🌈",
+			"url": "https://t.co/H19cgwNPKn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H19cgwNPKn",
+							"expanded_url": "http://jonforpresident.com",
+							"display_url": "jonforpresident.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3302,
+			"friends_count": 3336,
+			"listed_count": 159,
+			"created_at": "Tue Jan 22 20:35:45 +0000 2008",
+			"favourites_count": 10140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104917411898187778/J6j8EZWX_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104917411898187778/J6j8EZWX_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12561082/1532451617",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The company’s lawyers show up late and come to the table empty-handed. They want to wear us down. We see you and we’re sticking together. @latguild holds massive walkout. Company: come to the table and stop stalling. We have work to do. ✊🦅 https://t.co/35stvO3gn7"
+	},
+	{
 		"created_at": "Wed Apr 10 18:25:10 +0000 2019",
 		"id": 1116044465808990200,
 		"id_str": "1116044465808990208",
