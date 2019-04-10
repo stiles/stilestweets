@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 18:14:57 +0000 2019",
+		"id": 1116041895589732400,
+		"id_str": "1116041895589732352",
+		"full_text": "👀 \n🇷🇺\n👀 \n🇷🇺 https://t.co/t40vWLesWi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t40vWLesWi",
+					"expanded_url": "https://twitter.com/BBCAfrica/status/1115940466892185600",
+					"display_url": "twitter.com/BBCAfrica/stat…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10626,
+			"friends_count": 1517,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13404,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554606613",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115940466892185600,
+		"quoted_status_id_str": "1115940466892185600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/t40vWLesWi",
+			"expanded": "https://twitter.com/BBCAfrica/status/1115940466892185600",
+			"display": "twitter.com/BBCAfrica/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 10 11:31:55 +0000 2019",
+			"id": 1115940466892185600,
+			"id_str": "1115940466892185600",
+			"full_text": "THREAD\n\nIn the lead-up to Madagascar’s 2018 Presidential elections, teams of Russian 'tourists' and 'observers' were spotted on the island. \n\nWho were these Russians? What were they doing in the country? And who was backing them?\n\n#BBCAfricaEye investigates. https://t.co/k4Hz6BJ2Ka",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BBCAfricaEye",
+						"indices": [
+							231,
+							244
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1115932967413612500,
+						"id_str": "1115932967413612545",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/D3yXHxPWAAEDLLU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3yXHxPWAAEDLLU.jpg",
+						"url": "https://t.co/k4Hz6BJ2Ka",
+						"display_url": "pic.twitter.com/k4Hz6BJ2Ka",
+						"expanded_url": "https://twitter.com/BBCAfrica/status/1115940466892185600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1115932967413612500,
+						"id_str": "1115932967413612545",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/D3yXHxPWAAEDLLU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3yXHxPWAAEDLLU.jpg",
+						"url": "https://t.co/k4Hz6BJ2Ka",
+						"display_url": "pic.twitter.com/k4Hz6BJ2Ka",
+						"expanded_url": "https://twitter.com/BBCAfrica/status/1115940466892185600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36670025,
+				"id_str": "36670025",
+				"name": "BBC News Africa",
+				"screen_name": "BBCAfrica",
+				"location": "",
+				"description": "African news from the BBC. Facebook: https://t.co/WO6e37RBOY Instagram: https://t.co/DI6qruNWHJ YouTube: https://t.co/ZJFI3G9fex",
+				"url": "https://t.co/OHYYkRTi7o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OHYYkRTi7o",
+								"expanded_url": "http://www.bbcafrica.com",
+								"display_url": "bbcafrica.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WO6e37RBOY",
+								"expanded_url": "https://www.facebook.com/BBCnewsAfrica/",
+								"display_url": "facebook.com/BBCnewsAfrica/",
+								"indices": [
+									37,
+									60
+								]
+							},
+							{
+								"url": "https://t.co/DI6qruNWHJ",
+								"expanded_url": "https://www.instagram.com/bbcafrica/",
+								"display_url": "instagram.com/bbcafrica/",
+								"indices": [
+									72,
+									95
+								]
+							},
+							{
+								"url": "https://t.co/ZJFI3G9fex",
+								"expanded_url": "http://www.youtube.com/bbcafrica",
+								"display_url": "youtube.com/bbcafrica",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2414724,
+				"friends_count": 748,
+				"listed_count": 7430,
+				"created_at": "Thu Apr 30 14:10:28 +0000 2009",
+				"favourites_count": 4213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 75084,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974268677808951296/liHjl2Rl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974268677808951296/liHjl2Rl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36670025/1545060671",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6D593",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 688,
+			"favorite_count": 762,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀 \n🇷🇺\n👀 \n🇷🇺 https://t.co/t40vWLesWi"
+	},
+	{
 		"created_at": "Wed Apr 10 14:57:50 +0000 2019",
 		"id": 1115978564715704300,
 		"id_str": "1115992291007590400",
