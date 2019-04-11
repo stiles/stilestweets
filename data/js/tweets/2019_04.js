@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 20:13:49 +0000 2019",
+		"id": 1116433555049963500,
+		"id_str": "1116434197697064960",
+		"full_text": "they said this day would never come https://t.co/gacvvIO8Uo https://t.co/LiYKiInzoS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gacvvIO8Uo",
+					"expanded_url": "https://www.sec.gov/Archives/edgar/data/1543151/000119312519103850/d647752ds1.htm",
+					"display_url": "sec.gov/Archives/edgar…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116433504756101100,
+					"id_str": "1116433504756101120",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D35eW4JU8AABQXC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D35eW4JU8AABQXC.jpg",
+					"url": "https://t.co/LiYKiInzoS",
+					"display_url": "pic.twitter.com/LiYKiInzoS",
+					"expanded_url": "https://twitter.com/teddyschleifer/status/1116433555049963520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1069,
+							"h": 581,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1069,
+							"h": 581,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116433504756101100,
+					"id_str": "1116433504756101120",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D35eW4JU8AABQXC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D35eW4JU8AABQXC.jpg",
+					"url": "https://t.co/LiYKiInzoS",
+					"display_url": "pic.twitter.com/LiYKiInzoS",
+					"expanded_url": "https://twitter.com/teddyschleifer/status/1116433555049963520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1069,
+							"h": 581,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1069,
+							"h": 581,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 286432534,
+			"id_str": "286432534",
+			"name": "Teddy Schleifer",
+			"screen_name": "teddyschleifer",
+			"location": "A person familiar with the matter",
+			"description": "I write about money in tech for @Recode. Once wrote about money in politics for @CNN. Find me through open DMs, on Signal or at teddy.schleifer@recode.net.",
+			"url": "https://t.co/pyyo3GliDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pyyo3GliDG",
+							"expanded_url": "https://www.recode.net/authors/theodore-schleifer",
+							"display_url": "recode.net/authors/theodo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19945,
+			"friends_count": 4456,
+			"listed_count": 752,
+			"created_at": "Sat Apr 23 00:33:06 +0000 2011",
+			"favourites_count": 10445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011681474121101312/2nGWIJDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011681474121101312/2nGWIJDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/286432534/1477797714",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "they said this day would never come https://t.co/gacvvIO8Uo https://t.co/LiYKiInzoS"
+	},
+	{
 		"created_at": "Thu Apr 11 15:14:25 +0000 2019",
 		"id": 1116353621203963900,
 		"id_str": "1116358851828142080",
