@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 15:14:25 +0000 2019",
+		"id": 1116353621203963900,
+		"id_str": "1116358851828142080",
+		"full_text": "The new @latimes Food section begins with this amazing map that (again) shows food is actually is the ultimate way to navigate LA's history, immigration patterns, economic disparities and geography https://t.co/Ti0uXAYujN https://t.co/usgunNcRkq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ti0uXAYujN",
+					"expanded_url": "https://www.latimes.com/food/la-fo-food-section-letter-to-readers-20190411-story.html",
+					"display_url": "latimes.com/food/la-fo-foo…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116353083217338400,
+					"id_str": "1116353083217338370",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D34VNukU4AIP2j2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D34VNukU4AIP2j2.jpg",
+					"url": "https://t.co/usgunNcRkq",
+					"display_url": "pic.twitter.com/usgunNcRkq",
+					"expanded_url": "https://twitter.com/shelbygrad/status/1116353621203963904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1018,
+							"h": 1428,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 855,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116353083217338400,
+					"id_str": "1116353083217338370",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D34VNukU4AIP2j2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D34VNukU4AIP2j2.jpg",
+					"url": "https://t.co/usgunNcRkq",
+					"display_url": "pic.twitter.com/usgunNcRkq",
+					"expanded_url": "https://twitter.com/shelbygrad/status/1116353621203963904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1018,
+							"h": 1428,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 855,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116353135750967300,
+					"id_str": "1116353135750967296",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D34VQyRUcAAzT9a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D34VQyRUcAAzT9a.jpg",
+					"url": "https://t.co/usgunNcRkq",
+					"display_url": "pic.twitter.com/usgunNcRkq",
+					"expanded_url": "https://twitter.com/shelbygrad/status/1116353621203963904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1030,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14827461,
+			"id_str": "14827461",
+			"name": "Shelby Grad",
+			"screen_name": "shelbygrad",
+			"location": "🌴Los Angeles💥",
+			"description": "@latimes Assistant Managing Editor overseeing Metro & California.",
+			"url": "https://t.co/emWaPa3SBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emWaPa3SBu",
+							"expanded_url": "http://www.latimes.com/california",
+							"display_url": "latimes.com/california",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12491,
+			"friends_count": 997,
+			"listed_count": 509,
+			"created_at": "Mon May 19 02:25:01 +0000 2008",
+			"favourites_count": 5402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40864,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094741407577722880/i1W8qbQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094741407577722880/i1W8qbQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14827461/1551118865",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The new @latimes Food section begins with this amazing map that (again) shows food is actually is the ultimate way to navigate LA's history, immigration patterns, economic disparities and geography https://t.co/Ti0uXAYujN https://t.co/usgunNcRkq"
+	},
+	{
 		"created_at": "Thu Apr 11 13:57:32 +0000 2019",
 		"id": 1116335625743945700,
 		"id_str": "1116339502195171328",
