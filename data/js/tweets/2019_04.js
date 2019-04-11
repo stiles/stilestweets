@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 01:44:32 +0000 2019",
+		"id": 1116145654705770500,
+		"id_str": "1116155037619642369",
+		"full_text": "This has been my family for nine wild, wonderful years and I will miss them all very, very much.\n\nY’all keep an eye on Texas while I’m away, okay? https://t.co/LKs5ta6bv4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116145649643339800,
+					"id_str": "1116145649643339776",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D31YjgSWwAAmC_p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D31YjgSWwAAmC_p.jpg",
+					"url": "https://t.co/LKs5ta6bv4",
+					"display_url": "pic.twitter.com/LKs5ta6bv4",
+					"expanded_url": "https://twitter.com/rdmurphy/status/1116145654705770497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116145649643339800,
+					"id_str": "1116145649643339776",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D31YjgSWwAAmC_p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D31YjgSWwAAmC_p.jpg",
+					"url": "https://t.co/LKs5ta6bv4",
+					"display_url": "pic.twitter.com/LKs5ta6bv4",
+					"expanded_url": "https://twitter.com/rdmurphy/status/1116145654705770497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20031243,
+			"id_str": "20031243",
+			"name": "Ryan Murphy",
+			"screen_name": "rdmurphy",
+			"location": "Austin, TX",
+			"description": "reporter + designer + developer with @TexasTribune. soon @LATdatadesk. probably thinking the text on your site is kinda hard to read. ♦",
+			"url": "https://t.co/HVAqHXQ6PQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HVAqHXQ6PQ",
+							"expanded_url": "https://www.texastribune.org/about/staff/ryan-murphy/",
+							"display_url": "texastribune.org/about/staff/ry…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2990,
+			"friends_count": 688,
+			"listed_count": 316,
+			"created_at": "Wed Feb 04 06:31:49 +0000 2009",
+			"favourites_count": 5636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "53394C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850347530453831680/VXdSrLrO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850347530453831680/VXdSrLrO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20031243/1429572252",
+			"profile_link_color": "352430",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "33A650",
+			"profile_text_color": "6080C4",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This has been my family for nine wild, wonderful years and I will miss them all very, very much.\n\nY’all keep an eye on Texas while I’m away, okay? https://t.co/LKs5ta6bv4"
+	},
+	{
 		"created_at": "Thu Apr 11 00:04:45 +0000 2019",
 		"id": 1116129924601958400,
 		"id_str": "1116129924601958400",
