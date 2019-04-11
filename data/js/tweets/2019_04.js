@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 00:04:45 +0000 2019",
+		"id": 1116129924601958400,
+		"id_str": "1116129924601958400",
+		"full_text": "Hey, the #BlackHole scientist is using the same beast of heavy MacBook as I am. There's hope for me. https://t.co/owW5DVCet7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackHole",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/owW5DVCet7",
+					"expanded_url": "https://twitter.com/MIT_CSAIL/status/1116020858282180609",
+					"display_url": "twitter.com/MIT_CSAIL/stat…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10627,
+			"friends_count": 1518,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13412,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554921049",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116020858282180600,
+		"quoted_status_id_str": "1116020858282180609",
+		"quoted_status_permalink": {
+			"url": "https://t.co/owW5DVCet7",
+			"expanded": "https://twitter.com/MIT_CSAIL/status/1116020858282180609",
+			"display": "twitter.com/MIT_CSAIL/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 10 16:51:21 +0000 2019",
+			"id": 1116020858282180600,
+			"id_str": "1116020858282180609",
+			"full_text": "Here's the moment when the first black hole image was processed, from the eyes of researcher Katie Bouman. #EHTBlackHole #BlackHoleDay #BlackHole (v/@dfbarajas) https://t.co/n0ZnIoeG1d",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EHTBlackHole",
+						"indices": [
+							107,
+							120
+						]
+					},
+					{
+						"text": "BlackHoleDay",
+						"indices": [
+							121,
+							134
+						]
+					},
+					{
+						"text": "BlackHole",
+						"indices": [
+							135,
+							145
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dfbarajas",
+						"name": "David Barajas",
+						"id": 409429088,
+						"id_str": "409429088",
+						"indices": [
+							149,
+							159
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1116020251077021700,
+						"id_str": "1116020251077021701",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/D3zmgWOWkAUwWdC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3zmgWOWkAUwWdC.jpg",
+						"url": "https://t.co/n0ZnIoeG1d",
+						"display_url": "pic.twitter.com/n0ZnIoeG1d",
+						"expanded_url": "https://twitter.com/MIT_CSAIL/status/1116020858282180609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 475,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1189,
+								"h": 830,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1189,
+								"h": 830,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116020251077021700,
+						"id_str": "1116020251077021701",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/D3zmgWOWkAUwWdC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3zmgWOWkAUwWdC.jpg",
+						"url": "https://t.co/n0ZnIoeG1d",
+						"display_url": "pic.twitter.com/n0ZnIoeG1d",
+						"expanded_url": "https://twitter.com/MIT_CSAIL/status/1116020858282180609/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 475,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1189,
+								"h": 830,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1189,
+								"h": 830,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82364810,
+				"id_str": "82364810",
+				"name": "MIT CSAIL",
+				"screen_name": "MIT_CSAIL",
+				"location": "Cambridge, MA",
+				"description": "MIT's largest research lab, the Computer Science & Artificial Intelligence Lab https://t.co/oEBFg67jYJ #ai #ml #bigdata #iot #nlp #wmif19",
+				"url": "https://t.co/2YIudij4og",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2YIudij4og",
+								"expanded_url": "http://csail.mit.edu",
+								"display_url": "csail.mit.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oEBFg67jYJ",
+								"expanded_url": "https://www.instagram.com/mit_csail/",
+								"display_url": "instagram.com/mit_csail/",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80742,
+				"friends_count": 14411,
+				"listed_count": 1822,
+				"created_at": "Wed Oct 14 13:55:58 +0000 2009",
+				"favourites_count": 2414,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3522,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885505956272115712/U81HpDxb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885505956272115712/U81HpDxb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82364810/1499357815",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6487,
+			"favorite_count": 19562,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey, the #BlackHole scientist is using the same beast of heavy MacBook as I am. There's hope for me. https://t.co/owW5DVCet7"
+	},
+	{
+		"created_at": "Wed Apr 10 23:58:05 +0000 2019",
+		"id": 1116128249476595700,
+		"id_str": "1116128249476595713",
+		"full_text": "This is what happens when you root for @FulhamFC: https://t.co/1XPo8Mr2jq #COYW https://t.co/DMJpXS2511",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COYW",
+					"indices": [
+						74,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FulhamFC",
+					"name": "Fulham Football Club",
+					"id": 22903812,
+					"id_str": "22903812",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1XPo8Mr2jq",
+					"expanded_url": "https://lat.ms/2VxV7zW",
+					"display_url": "lat.ms/2VxV7zW",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116128079049441300,
+					"id_str": "1116128079049441280",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/D31IkwuUwAArkG5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D31IkwuUwAArkG5.jpg",
+					"url": "https://t.co/DMJpXS2511",
+					"display_url": "pic.twitter.com/DMJpXS2511",
+					"expanded_url": "https://twitter.com/stiles/status/1116128249476595713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116128079049441300,
+					"id_str": "1116128079049441280",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/D31IkwuUwAArkG5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D31IkwuUwAArkG5.jpg",
+					"url": "https://t.co/DMJpXS2511",
+					"display_url": "pic.twitter.com/DMJpXS2511",
+					"expanded_url": "https://twitter.com/stiles/status/1116128249476595713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10627,
+			"friends_count": 1518,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13412,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554921049",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what happens when you root for @FulhamFC: https://t.co/1XPo8Mr2jq #COYW https://t.co/DMJpXS2511"
+	},
+	{
 		"created_at": "Wed Apr 10 22:04:59 +0000 2019",
 		"id": 1116099783049928700,
 		"id_str": "1116099783049928707",
