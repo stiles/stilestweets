@@ -1,6 +1,861 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 20:08:58 +0000 2019",
+		"id": 1116791172129673200,
+		"id_str": "1116795362579103744",
+		"full_text": "JUST IN: President Trump told the head of Customs and Border Protection he would pardon him if he was sent to jail for violating immigration law, sources say https://t.co/FimlqQXSrd https://t.co/ejIUZTkEpY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FimlqQXSrd",
+					"expanded_url": "https://cnn.it/2UEiVWw",
+					"display_url": "cnn.it/2UEiVWw",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116791169625796600,
+					"id_str": "1116791169625796615",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/D3-jptnWsAcScRu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3-jptnWsAcScRu.jpg",
+					"url": "https://t.co/ejIUZTkEpY",
+					"display_url": "pic.twitter.com/ejIUZTkEpY",
+					"expanded_url": "https://twitter.com/CNN/status/1116791172129673217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116791169625796600,
+					"id_str": "1116791169625796615",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/D3-jptnWsAcScRu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3-jptnWsAcScRu.jpg",
+					"url": "https://t.co/ejIUZTkEpY",
+					"display_url": "pic.twitter.com/ejIUZTkEpY",
+					"expanded_url": "https://twitter.com/CNN/status/1116791172129673217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 759251,
+			"id_str": "759251",
+			"name": "CNN",
+			"screen_name": "CNN",
+			"location": "",
+			"description": "It’s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK  & Download our app 📲https://t.co/Xgo5kjIt8c",
+			"url": "http://t.co/IaghNW8Xm2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/IaghNW8Xm2",
+							"expanded_url": "http://www.cnn.com",
+							"display_url": "cnn.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Xgo5kjIt8c",
+							"expanded_url": "http://cnn.it/apps",
+							"display_url": "cnn.it/apps",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 41704787,
+			"friends_count": 1109,
+			"listed_count": 138194,
+			"created_at": "Fri Feb 09 00:35:02 +0000 2007",
+			"favourites_count": 1437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 236167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "323232",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1508752874",
+			"profile_link_color": "004287",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 268,
+		"favorite_count": 298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JUST IN: President Trump told the head of Customs and Border Protection he would pardon him if he was sent to jail for violating immigration law, sources say https://t.co/FimlqQXSrd https://t.co/ejIUZTkEpY"
+	},
+	{
+		"created_at": "Fri Apr 12 19:59:44 +0000 2019",
+		"id": 1116793042369794000,
+		"id_str": "1116793042369794048",
+		"full_text": "@j3nnyt0wn The @DigitalGlobe imagery used by Google for the Yuktaeso-ri Peninsula is decent. He's a tile showing the L-shaped pier. (Not good enough to read the propaganda placards, tho). https://t.co/IUuQEjp6Tf https://t.co/ROA8uq8olA",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "j3nnyt0wn",
+					"name": "Jenny Town",
+					"id": 2938827689,
+					"id_str": "2938827689",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "DigitalGlobe",
+					"name": "DigitalGlobe",
+					"id": 17027323,
+					"id_str": "17027323",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IUuQEjp6Tf",
+					"expanded_url": "http://bit.ly/2ZbzgjI",
+					"display_url": "bit.ly/2ZbzgjI",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116792524020961300,
+					"id_str": "1116792524020961281",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/D3-k4jIU0AEJKun.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3-k4jIU0AEJKun.jpg",
+					"url": "https://t.co/ROA8uq8olA",
+					"display_url": "pic.twitter.com/ROA8uq8olA",
+					"expanded_url": "https://twitter.com/stiles/status/1116793042369794048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 694,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1360,
+							"h": 786,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116792524020961300,
+					"id_str": "1116792524020961281",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/D3-k4jIU0AEJKun.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3-k4jIU0AEJKun.jpg",
+					"url": "https://t.co/ROA8uq8olA",
+					"display_url": "pic.twitter.com/ROA8uq8olA",
+					"expanded_url": "https://twitter.com/stiles/status/1116793042369794048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 694,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1360,
+							"h": 786,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1116788681019404300,
+		"in_reply_to_status_id_str": "1116788681019404291",
+		"in_reply_to_user_id": 2938827689,
+		"in_reply_to_user_id_str": "2938827689",
+		"in_reply_to_screen_name": "j3nnyt0wn",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10626,
+			"friends_count": 1521,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13437,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554921049",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@j3nnyt0wn The @DigitalGlobe imagery used by Google for the Yuktaeso-ri Peninsula is decent. He's a tile showing the L-shaped pier. (Not good enough to read the propaganda placards, tho). https://t.co/IUuQEjp6Tf https://t.co/ROA8uq8olA"
+	},
+	{
+		"created_at": "Fri Apr 12 19:55:50 +0000 2019",
+		"id": 1116788681019404300,
+		"id_str": "1116792057052319744",
+		"full_text": "Some interesting movement at the test stand at Sinpo. It may be nothing, especially since there are no other vehicles/equipment on or around the pad while it is taking place; it may just be exercising the equipment after a long winter. https://t.co/zi4CWaXXLw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zi4CWaXXLw",
+					"expanded_url": "https://twitter.com/38NorthNK/status/1116786983760748544",
+					"display_url": "twitter.com/38NorthNK/stat…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2938827689,
+			"id_str": "2938827689",
+			"name": "Jenny Town",
+			"screen_name": "j3nnyt0wn",
+			"location": "Washington, DC",
+			"description": "Korea specialist, Fellow at @StimsonCenter; managing editor of @38NorthNK; Associate Fellow of @FPI_SAIS; Member of @NCNKorea and @CouncilKA",
+			"url": "https://t.co/u1rStdtPBn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u1rStdtPBn",
+							"expanded_url": "http://38north.org",
+							"display_url": "38north.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5349,
+			"friends_count": 1205,
+			"listed_count": 256,
+			"created_at": "Tue Dec 23 22:01:01 +0000 2014",
+			"favourites_count": 13484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6632,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/547521831029456896/jN7ZgKJQ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/547521831029456896/jN7ZgKJQ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2938827689/1419374352",
+			"profile_link_color": "6193BF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116786983760748500,
+		"quoted_status_id_str": "1116786983760748544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zi4CWaXXLw",
+			"expanded": "https://twitter.com/38NorthNK/status/1116786983760748544",
+			"display": "twitter.com/38NorthNK/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 12 19:35:40 +0000 2019",
+			"id": 1116786983760748500,
+			"id_str": "1116786983760748544",
+			"full_text": "Recent commercial satellite imagery of the #DPRK's Sinpo South Shipyard indicates that construction of a submarine is ongoing. https://t.co/iZjO3ezm6q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DPRK",
+						"indices": [
+							43,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iZjO3ezm6q",
+						"expanded_url": "http://bit.ly/2UDgvrb",
+						"display_url": "bit.ly/2UDgvrb",
+						"indices": [
+							127,
+							150
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2296459634,
+				"id_str": "2296459634",
+				"name": "38 North",
+				"screen_name": "38NorthNK",
+				"location": "Washington, DC",
+				"description": "Informed analysis of events in and around the DPRK. A program under @StimsonCenter's @Stimson_EAsia Program",
+				"url": "http://t.co/0LiAAbbPz2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0LiAAbbPz2",
+								"expanded_url": "http://38north.org/",
+								"display_url": "38north.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28341,
+				"friends_count": 405,
+				"listed_count": 978,
+				"created_at": "Fri Jan 17 17:13:31 +0000 2014",
+				"favourites_count": 1186,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3084,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872460443595546624/UqARc_cK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872460443595546624/UqARc_cK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2296459634/1492806136",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some interesting movement at the test stand at Sinpo. It may be nothing, especially since there are no other vehicles/equipment on or around the pad while it is taking place; it may just be exercising the equipment after a long winter. https://t.co/zi4CWaXXLw"
+	},
+	{
+		"created_at": "Fri Apr 12 19:43:03 +0000 2019",
+		"id": 1116788023126044700,
+		"id_str": "1116788843477258240",
+		"full_text": "@jaketapper @NatashaBertrand @CNN The Rule of Law thing was fun while it lasted.",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaketapper",
+					"name": "Jake Tapper",
+					"id": 14529929,
+					"id_str": "14529929",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "NatashaBertrand",
+					"name": "Natasha Bertrand",
+					"id": 372536101,
+					"id_str": "372536101",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "CNN",
+					"name": "CNN",
+					"id": 759251,
+					"id_str": "759251",
+					"indices": [
+						29,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1116787246303195100,
+		"in_reply_to_status_id_str": "1116787246303195136",
+		"in_reply_to_user_id": 14529929,
+		"in_reply_to_user_id_str": "14529929",
+		"in_reply_to_screen_name": "jaketapper",
+		"user": {
+			"id": 3380503114,
+			"id_str": "3380503114",
+			"name": "Not My Thing Michael",
+			"screen_name": "Merv515",
+			"location": "Eastern Nambia",
+			"description": "Erstwhile centrist, pushed to the left by Trump and his GOP enablers; Believe in the Rule of Law; Knowledge and competence are not elitist.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5758,
+			"friends_count": 6125,
+			"listed_count": 13,
+			"created_at": "Fri Jul 17 15:12:47 +0000 2015",
+			"favourites_count": 67902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111496411286249473/5Pb0kk0V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111496411286249473/5Pb0kk0V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3380503114/1493603088",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@jaketapper @NatashaBertrand @CNN The Rule of Law thing was fun while it lasted."
+	},
+	{
+		"created_at": "Fri Apr 12 19:41:02 +0000 2019",
+		"id": 1116788333961629700,
+		"id_str": "1116788333961629697",
+		"full_text": "@MrDanZak I love this take on redactions by the late William Safire: “By dramatizing the word or sentence cut out with a glaring black line ... a redaction fairly cries out, ‘Catch me if you can!’” https://t.co/ytu7JAewdN",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrDanZak",
+					"name": "Dan Zak",
+					"id": 66267332,
+					"id_str": "66267332",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ytu7JAewdN",
+					"expanded_url": "https://wapo.st/2Z7Arkr",
+					"display_url": "wapo.st/2Z7Arkr",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1116786908611264500,
+		"in_reply_to_status_id_str": "1116786908611264512",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10626,
+			"friends_count": 1521,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13437,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554921049",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MrDanZak I love this take on redactions by the late William Safire: “By dramatizing the word or sentence cut out with a glaring black line ... a redaction fairly cries out, ‘Catch me if you can!’” https://t.co/ytu7JAewdN"
+	},
+	{
 		"created_at": "Fri Apr 12 13:54:54 +0000 2019",
 		"id": 1115627763300483100,
 		"id_str": "1116701229051043840",
