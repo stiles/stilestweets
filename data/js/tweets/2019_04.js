@@ -1,6 +1,845 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 04:31:04 +0000 2019",
+		"id": 1116559333536350200,
+		"id_str": "1116559333536350208",
+		"full_text": "He deleted it! \n\nhttps://t.co/6n04JbCpqE https://t.co/QNBMrcxM7Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6n04JbCpqE",
+					"expanded_url": "https://twitter.com/MichaelAvenatti/status/1116556259648393216",
+					"display_url": "twitter.com/MichaelAvenatt…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116559181383782400,
+					"id_str": "1116559181383782400",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D37QqOEU0AAHlqn.png",
+					"media_url_https": "https://pbs.twimg.com/media/D37QqOEU0AAHlqn.png",
+					"url": "https://t.co/QNBMrcxM7Y",
+					"display_url": "pic.twitter.com/QNBMrcxM7Y",
+					"expanded_url": "https://twitter.com/stiles/status/1116559333536350208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 508,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 428,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 508,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116559181383782400,
+					"id_str": "1116559181383782400",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D37QqOEU0AAHlqn.png",
+					"media_url_https": "https://pbs.twimg.com/media/D37QqOEU0AAHlqn.png",
+					"url": "https://t.co/QNBMrcxM7Y",
+					"display_url": "pic.twitter.com/QNBMrcxM7Y",
+					"expanded_url": "https://twitter.com/stiles/status/1116559333536350208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 508,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 428,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 508,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10628,
+			"friends_count": 1521,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554921049",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He deleted it! \n\nhttps://t.co/6n04JbCpqE https://t.co/QNBMrcxM7Y"
+	},
+	{
+		"created_at": "Fri Apr 12 04:26:19 +0000 2019",
+		"id": 1116558060833476600,
+		"id_str": "1116558139044708352",
+		"full_text": "Are u seeing what I'm seeing lately in the @latimes? These past few months the paper has consistently &amp; masterfully been doing something all news agencies should be doing every day: mirroring the communities we cover with our storytelling ⬇️ https://t.co/2niJZEwlLq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						43,
+						51
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116558052197404700,
+					"id_str": "1116558052197404678",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/D37PofhUEAYgUTd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D37PofhUEAYgUTd.jpg",
+					"url": "https://t.co/2niJZEwlLq",
+					"display_url": "pic.twitter.com/2niJZEwlLq",
+					"expanded_url": "https://twitter.com/LATbermudez/status/1116558060833476610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1195,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2033,
+							"h": 2042,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116558052197404700,
+					"id_str": "1116558052197404678",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/D37PofhUEAYgUTd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D37PofhUEAYgUTd.jpg",
+					"url": "https://t.co/2niJZEwlLq",
+					"display_url": "pic.twitter.com/2niJZEwlLq",
+					"expanded_url": "https://twitter.com/LATbermudez/status/1116558060833476610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1195,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2033,
+							"h": 2042,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 378749192,
+			"id_str": "378749192",
+			"name": "Esmeralda Bermudez 🦅",
+			"screen_name": "LATbermudez",
+			"location": "Los Angeles",
+			"description": "LA Times Staff Writer storytelling about Latinos since 2003. Made in El Salvador. Raised in LA. Bred by @Oregonian. Send ideas: esmeralda.bermudez@latimes.com",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12210,
+			"friends_count": 2471,
+			"listed_count": 220,
+			"created_at": "Fri Sep 23 19:00:39 +0000 2011",
+			"favourites_count": 5243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4462,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "020505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088082170332119040/d_rgyDGM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088082170332119040/d_rgyDGM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/378749192/1549344886",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are u seeing what I'm seeing lately in the @latimes? These past few months the paper has consistently &amp; masterfully been doing something all news agencies should be doing every day: mirroring the communities we cover with our storytelling ⬇️ https://t.co/2niJZEwlLq"
+	},
+	{
+		"created_at": "Fri Apr 12 04:26:03 +0000 2019",
+		"id": 1116558070362935300,
+		"id_str": "1116558070362935297",
+		"full_text": "@NewYorker @Comey @realDonaldTrump \"Something is missing in his life that has created this orientation — I meant what I said — that i have not seen in an adult before.\" @Comey on @realDonaldTrump https://t.co/VJfN6R6i36 https://t.co/rUaX32H7b4",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewYorker",
+					"name": "The New Yorker",
+					"id": 14677919,
+					"id_str": "14677919",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Comey",
+					"name": "James Comey",
+					"id": 2334193741,
+					"id_str": "2334193741",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						18,
+						34
+					]
+				},
+				{
+					"screen_name": "Comey",
+					"name": "James Comey",
+					"id": 2334193741,
+					"id_str": "2334193741",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						179,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VJfN6R6i36",
+					"expanded_url": "http://bit.ly/2DbTkcv",
+					"display_url": "bit.ly/2DbTkcv",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116558053128564700,
+					"id_str": "1116558053128564736",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/D37Poi_UcAAs7w0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D37Poi_UcAAs7w0.jpg",
+					"url": "https://t.co/rUaX32H7b4",
+					"display_url": "pic.twitter.com/rUaX32H7b4",
+					"expanded_url": "https://twitter.com/stiles/status/1116558070362935297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 639,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1270,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116558053128564700,
+					"id_str": "1116558053128564736",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/D37Poi_UcAAs7w0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D37Poi_UcAAs7w0.jpg",
+					"url": "https://t.co/rUaX32H7b4",
+					"display_url": "pic.twitter.com/rUaX32H7b4",
+					"expanded_url": "https://twitter.com/stiles/status/1116558070362935297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 639,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1270,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1116557875243933700,
+		"in_reply_to_status_id_str": "1116557875243933697",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10628,
+			"friends_count": 1521,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554921049",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NewYorker @Comey @realDonaldTrump \"Something is missing in his life that has created this orientation — I meant what I said — that i have not seen in an adult before.\" @Comey on @realDonaldTrump https://t.co/VJfN6R6i36 https://t.co/rUaX32H7b4"
+	},
+	{
+		"created_at": "Fri Apr 12 04:25:16 +0000 2019",
+		"id": 1116557875243933700,
+		"id_str": "1116557875243933697",
+		"full_text": "@NewYorker @Comey @realDonaldTrump \"I think that he lacks external reference points. Instead of making hard decisions by calling on a religious tradition or logic or tradition or history, it's all, 'what will fill this hole',\" @Comey said of @realDonaldTrump, pointing to his chest. https://t.co/VJfN6R6i36 https://t.co/mMxXBpj9Ye",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			306
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewYorker",
+					"name": "The New Yorker",
+					"id": 14677919,
+					"id_str": "14677919",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Comey",
+					"name": "James Comey",
+					"id": 2334193741,
+					"id_str": "2334193741",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						18,
+						34
+					]
+				},
+				{
+					"screen_name": "Comey",
+					"name": "James Comey",
+					"id": 2334193741,
+					"id_str": "2334193741",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						242,
+						258
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VJfN6R6i36",
+					"expanded_url": "http://bit.ly/2DbTkcv",
+					"display_url": "bit.ly/2DbTkcv",
+					"indices": [
+						283,
+						306
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1116557761389555700,
+					"id_str": "1116557761389555713",
+					"indices": [
+						307,
+						330
+					],
+					"media_url": "http://pbs.twimg.com/media/D37PXkLUcAE8lne.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D37PXkLUcAE8lne.jpg",
+					"url": "https://t.co/mMxXBpj9Ye",
+					"display_url": "pic.twitter.com/mMxXBpj9Ye",
+					"expanded_url": "https://twitter.com/stiles/status/1116557875243933697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 639,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1270,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116557761389555700,
+					"id_str": "1116557761389555713",
+					"indices": [
+						307,
+						330
+					],
+					"media_url": "http://pbs.twimg.com/media/D37PXkLUcAE8lne.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D37PXkLUcAE8lne.jpg",
+					"url": "https://t.co/mMxXBpj9Ye",
+					"display_url": "pic.twitter.com/mMxXBpj9Ye",
+					"expanded_url": "https://twitter.com/stiles/status/1116557875243933697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 639,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1270,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1116557609534779400,
+		"in_reply_to_status_id_str": "1116557609534779400",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10628,
+			"friends_count": 1521,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554921049",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NewYorker @Comey @realDonaldTrump \"I think that he lacks external reference points. Instead of making hard decisions by calling on a religious tradition or logic or tradition or history, it's all, 'what will fill this hole',\" @Comey said of @realDonaldTrump, pointing to his chest. https://t.co/VJfN6R6i36 https://t.co/mMxXBpj9Ye"
+	},
+	{
 		"created_at": "Fri Apr 12 02:07:16 +0000 2019",
 		"id": 1116523144867508200,
 		"id_str": "1116523144867508226",
