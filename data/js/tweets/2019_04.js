@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 06:00:51 +0000 2019",
+		"id": 1115982533177610200,
+		"id_str": "1116581929267019779",
+		"full_text": "In the past 2 years, the @postandcourier:\n-Stopped focusing on pageviews\n-Started publishing fewer stories per day\n-Grew digital subscriptions by 250% https://t.co/Ccq1X20b76 https://t.co/g7WHeUfxdx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "postandcourier",
+					"name": "The Post and Courier",
+					"id": 14693499,
+					"id_str": "14693499",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ccq1X20b76",
+					"expanded_url": "https://www.poynter.org/reporting-editing/2019/how-the-post-and-courier-grew-digital-subscriptions-by-250/",
+					"display_url": "poynter.org/reporting-edit…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115982467855528000,
+					"id_str": "1115982467855527936",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D3zEJEwXsAAaDaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D3zEJEwXsAAaDaU.jpg",
+					"url": "https://t.co/g7WHeUfxdx",
+					"display_url": "pic.twitter.com/g7WHeUfxdx",
+					"expanded_url": "https://twitter.com/kristenhare/status/1115982533177610243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115982467855528000,
+					"id_str": "1115982467855527936",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D3zEJEwXsAAaDaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D3zEJEwXsAAaDaU.jpg",
+					"url": "https://t.co/g7WHeUfxdx",
+					"display_url": "pic.twitter.com/g7WHeUfxdx",
+					"expanded_url": "https://twitter.com/kristenhare/status/1115982533177610243/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D3zEJEwXsAAaDaU.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38479889,
+			"id_str": "38479889",
+			"name": "Kristen Hare",
+			"screen_name": "kristenhare",
+			"location": "Tampa, Florida",
+			"description": "Covering local news for @poynter & death for @TB_Times, author 100 Things to do in Tampa Bay Before You Die. All kinda related, but not how you think.",
+			"url": "https://t.co/X8DvGTPD26",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8DvGTPD26",
+							"expanded_url": "https://www.instagram.com/werememberthem/?hl=en",
+							"display_url": "instagram.com/werememberthem…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8380,
+			"friends_count": 4052,
+			"listed_count": 500,
+			"created_at": "Thu May 07 17:56:55 +0000 2009",
+			"favourites_count": 9939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19597,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927190082070519808/8eGlh6c5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927190082070519808/8eGlh6c5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38479889/1544207689",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 371,
+		"favorite_count": 877,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the past 2 years, the @postandcourier:\n-Stopped focusing on pageviews\n-Started publishing fewer stories per day\n-Grew digital subscriptions by 250% https://t.co/Ccq1X20b76 https://t.co/g7WHeUfxdx"
+	},
+	{
 		"created_at": "Fri Apr 12 04:31:04 +0000 2019",
 		"id": 1116559333536350200,
 		"id_str": "1116559333536350208",
