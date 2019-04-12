@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 00:59:43 +0000 2019",
+		"id": 1116189266852212700,
+		"id_str": "1116506143876997120",
+		"full_text": "Warring protests/press conferences ahead of a ruling expected from South Korea’s top court on the country’s 65-year abortion ban. The pro-life side has much louder amps... and children with signs saying they were recently fetuses https://t.co/l7JBP9DDXW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116189238830067700,
+					"id_str": "1116189238830067712",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/D32AMuqUcAArpso.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32AMuqUcAArpso.jpg",
+					"url": "https://t.co/l7JBP9DDXW",
+					"display_url": "pic.twitter.com/l7JBP9DDXW",
+					"expanded_url": "https://twitter.com/vicjkim/status/1116189266852212736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116189238830067700,
+					"id_str": "1116189238830067712",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/D32AMuqUcAArpso.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32AMuqUcAArpso.jpg",
+					"url": "https://t.co/l7JBP9DDXW",
+					"display_url": "pic.twitter.com/l7JBP9DDXW",
+					"expanded_url": "https://twitter.com/vicjkim/status/1116189266852212736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116189238851096600,
+					"id_str": "1116189238851096576",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/D32AMuvVUAAzRkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32AMuvVUAAzRkZ.jpg",
+					"url": "https://t.co/l7JBP9DDXW",
+					"display_url": "pic.twitter.com/l7JBP9DDXW",
+					"expanded_url": "https://twitter.com/vicjkim/status/1116189266852212736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1116189238834286600,
+					"id_str": "1116189238834286592",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/D32AMurU0AAENW-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D32AMurU0AAENW-.jpg",
+					"url": "https://t.co/l7JBP9DDXW",
+					"display_url": "pic.twitter.com/l7JBP9DDXW",
+					"expanded_url": "https://twitter.com/vicjkim/status/1116189266852212736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54643600,
+			"id_str": "54643600",
+			"name": "Victoria Kim",
+			"screen_name": "vicjkim",
+			"location": "Los Angeles, CA",
+			"description": "@LATimes Seoul correspondent. Seoul-bred, LA-forged. Formerly K-town, courts, investigations. Reach me at https://t.co/aCqVWMmXQW (at) https://t.co/eTksmynSH7. DMs open.",
+			"url": "https://t.co/oLZaH6LhdI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oLZaH6LhdI",
+							"expanded_url": "http://www.latimes.com/la-bio-victoria-kim-staff.html",
+							"display_url": "latimes.com/la-bio-victori…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aCqVWMmXQW",
+							"expanded_url": "http://victoria.kim",
+							"display_url": "victoria.kim",
+							"indices": [
+								106,
+								129
+							]
+						},
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4748,
+			"friends_count": 1853,
+			"listed_count": 168,
+			"created_at": "Tue Jul 07 19:07:04 +0000 2009",
+			"favourites_count": 2778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2254,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557735738825920512/VzyhVLUB_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557735738825920512/VzyhVLUB_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54643600/1421810039",
+			"profile_link_color": "737CA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Warring protests/press conferences ahead of a ruling expected from South Korea’s top court on the country’s 65-year abortion ban. The pro-life side has much louder amps... and children with signs saying they were recently fetuses https://t.co/l7JBP9DDXW"
+	},
+	{
+		"created_at": "Fri Apr 12 00:58:44 +0000 2019",
+		"id": 1116505897818136600,
+		"id_str": "1116505897818136576",
+		"full_text": "Love this map illustration.\n\nDaughter, 6: Where is the Sizzler?\n\nMe: Uh, this map isn’t to scale, dear. https://t.co/NaJIGBwSux",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NaJIGBwSux",
+					"expanded_url": "https://twitter.com/a_martinaibanez/status/1116388066946457601",
+					"display_url": "twitter.com/a_martinaibane…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10629,
+			"friends_count": 1518,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1554921049",
+			"profile_link_color": "CA7A47",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116388066946457600,
+		"quoted_status_id_str": "1116388066946457601",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NaJIGBwSux",
+			"expanded": "https://twitter.com/a_martinaibanez/status/1116388066946457601",
+			"display": "twitter.com/a_martinaibane…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 11 17:10:31 +0000 2019",
+			"id": 1116388066946457600,
+			"id_str": "1116388066946457601",
+			"full_text": "It’s here! The inaugural issue of the @latimesfood weekly print section. Wrap around cover illustration by Clay Hickson https://t.co/H9eQqT8Jsw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "latimesfood",
+						"name": "L.A. Times Food",
+						"id": 17796018,
+						"id_str": "17796018",
+						"indices": [
+							38,
+							50
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1116388060155891700,
+						"id_str": "1116388060155891712",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/D341Bp0UUAAK-1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D341Bp0UUAAK-1B.jpg",
+						"url": "https://t.co/H9eQqT8Jsw",
+						"display_url": "pic.twitter.com/H9eQqT8Jsw",
+						"expanded_url": "https://twitter.com/A_MartinaIbanez/status/1116388066946457601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1011,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1011,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 671,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116388060155891700,
+						"id_str": "1116388060155891712",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/D341Bp0UUAAK-1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D341Bp0UUAAK-1B.jpg",
+						"url": "https://t.co/H9eQqT8Jsw",
+						"display_url": "pic.twitter.com/H9eQqT8Jsw",
+						"expanded_url": "https://twitter.com/A_MartinaIbanez/status/1116388066946457601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1011,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1011,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 671,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 191687384,
+				"id_str": "191687384",
+				"name": "Martina Ibáñez-Baldor",
+				"screen_name": "A_MartinaIbanez",
+				"location": "Los Angeles, CA",
+				"description": "@LAtimes news designer. Former @StarTribune, @Milwaukeemag, @MarquetteU. 🇺🇸🇨🇦🇦🇷🇨🇱",
+				"url": "https://t.co/Y7ysB5AXj7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y7ysB5AXj7",
+								"expanded_url": "http://martinaibanezbaldor.com",
+								"display_url": "martinaibanezbaldor.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1090,
+				"friends_count": 757,
+				"listed_count": 18,
+				"created_at": "Fri Sep 17 02:27:09 +0000 2010",
+				"favourites_count": 1338,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 757,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986031628211208192/t1HzijiD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986031628211208192/t1HzijiD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/191687384/1445303355",
+				"profile_link_color": "B9BF0F",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 149,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this map illustration.\n\nDaughter, 6: Where is the Sizzler?\n\nMe: Uh, this map isn’t to scale, dear. https://t.co/NaJIGBwSux"
+	},
+	{
 		"created_at": "Thu Apr 11 20:13:49 +0000 2019",
 		"id": 1116433555049963500,
 		"id_str": "1116434197697064960",
