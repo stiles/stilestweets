@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 16:59:50 +0000 2019",
+		"id": 1117472541486895100,
+		"id_str": "1117472541486895104",
+		"full_text": "Dads, when they find the face painting booth at the #LATFOB @latimes   https://t.co/uxrGP9iNKg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LATFOB",
+					"indices": [
+						52,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						60,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112760359495045100,
+					"id_str": "1112760359495045122",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112760359495045122/pu/img/7OWQytL3qVqblJdu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112760359495045122/pu/img/7OWQytL3qVqblJdu.jpg",
+					"url": "https://t.co/uxrGP9iNKg",
+					"display_url": "pic.twitter.com/uxrGP9iNKg",
+					"expanded_url": "https://twitter.com/SopanDeb/status/1112760553485807618/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1112760553485807600,
+					"source_status_id_str": "1112760553485807618",
+					"source_user_id": 48120914,
+					"source_user_id_str": "48120914"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112760359495045100,
+					"id_str": "1112760359495045122",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112760359495045122/pu/img/7OWQytL3qVqblJdu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112760359495045122/pu/img/7OWQytL3qVqblJdu.jpg",
+					"url": "https://t.co/uxrGP9iNKg",
+					"display_url": "pic.twitter.com/uxrGP9iNKg",
+					"expanded_url": "https://twitter.com/SopanDeb/status/1112760553485807618/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1112760553485807600,
+					"source_status_id_str": "1112760553485807618",
+					"source_user_id": 48120914,
+					"source_user_id_str": "48120914",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 24458,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1112760359495045122/pu/pl/1TjdqxbqMD8u8OHN.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112760359495045122/pu/vid/480x360/m6ABdU2STEDHHl9n.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112760359495045122/pu/vid/240x180/oXieVdNucN7MI6pD.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 48120914,
+							"id_str": "48120914",
+							"name": "Sopan Deb",
+							"screen_name": "SopanDeb",
+							"location": "ÜT: 42.352328,-71.095774",
+							"description": "NBA writer for @nytimes. Did culture. Stand up comic. past: Trump scribe for CBS. Pianist. @comatbu alum. Email: Sopan.deb@nytimes.com",
+							"url": "https://t.co/UmqCI5AhUx",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/UmqCI5AhUx",
+											"expanded_url": "http://www.nytimes.com",
+											"display_url": "nytimes.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 181345,
+							"friends_count": 7265,
+							"listed_count": 3743,
+							"created_at": "Wed Jun 17 21:20:59 +0000 2009",
+							"favourites_count": 29858,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 3332,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/889971544994263042/26bhQeDg_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/889971544994263042/26bhQeDg_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/48120914/1471387972",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10635,
+			"friends_count": 1524,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555133009",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dads, when they find the face painting booth at the #LATFOB @latimes   https://t.co/uxrGP9iNKg"
+	},
+	{
 		"created_at": "Sun Apr 14 13:44:42 +0000 2019",
 		"id": 1116303310221467600,
 		"id_str": "1117423434307227650",
