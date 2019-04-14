@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 13:44:42 +0000 2019",
+		"id": 1116303310221467600,
+		"id_str": "1117423434307227650",
+		"full_text": "All the dads when The Masters starts. https://t.co/YRJTj9vv8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112760359495045100,
+					"id_str": "1112760359495045122",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112760359495045122/pu/img/7OWQytL3qVqblJdu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112760359495045122/pu/img/7OWQytL3qVqblJdu.jpg",
+					"url": "https://t.co/YRJTj9vv8c",
+					"display_url": "pic.twitter.com/YRJTj9vv8c",
+					"expanded_url": "https://twitter.com/SopanDeb/status/1112760553485807618/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1112760553485807600,
+					"source_status_id_str": "1112760553485807618",
+					"source_user_id": 48120914,
+					"source_user_id_str": "48120914"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112760359495045100,
+					"id_str": "1112760359495045122",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1112760359495045122/pu/img/7OWQytL3qVqblJdu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1112760359495045122/pu/img/7OWQytL3qVqblJdu.jpg",
+					"url": "https://t.co/YRJTj9vv8c",
+					"display_url": "pic.twitter.com/YRJTj9vv8c",
+					"expanded_url": "https://twitter.com/SopanDeb/status/1112760553485807618/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1112760553485807600,
+					"source_status_id_str": "1112760553485807618",
+					"source_user_id": 48120914,
+					"source_user_id_str": "48120914",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 24458,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1112760359495045122/pu/pl/1TjdqxbqMD8u8OHN.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112760359495045122/pu/vid/480x360/m6ABdU2STEDHHl9n.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1112760359495045122/pu/vid/240x180/oXieVdNucN7MI6pD.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 48120914,
+							"id_str": "48120914",
+							"name": "Sopan Deb",
+							"screen_name": "SopanDeb",
+							"location": "ÜT: 42.352328,-71.095774",
+							"description": "NBA writer for @nytimes. Did culture. Stand up comic. past: Trump scribe for CBS. Pianist. @comatbu alum. Email: Sopan.deb@nytimes.com",
+							"url": "https://t.co/UmqCI5AhUx",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/UmqCI5AhUx",
+											"expanded_url": "http://www.nytimes.com",
+											"display_url": "nytimes.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 181351,
+							"friends_count": 7260,
+							"listed_count": 3744,
+							"created_at": "Wed Jun 17 21:20:59 +0000 2009",
+							"favourites_count": 29851,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 3306,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/889971544994263042/26bhQeDg_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/889971544994263042/26bhQeDg_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/48120914/1471387972",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 81646141,
+			"id_str": "81646141",
+			"name": "Karen Howell",
+			"screen_name": "karenehowell",
+			"location": "Jackson, MS",
+			"description": "''I love bread. - Oprah'' - Karen Howell",
+			"url": "https://t.co/wiEay3H0fL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wiEay3H0fL",
+							"expanded_url": "http://karenehowell.tumblr.com/",
+							"display_url": "karenehowell.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10651,
+			"friends_count": 315,
+			"listed_count": 95,
+			"created_at": "Sun Oct 11 17:48:39 +0000 2009",
+			"favourites_count": 31653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18170,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775030250711293952/EvSTOz7z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775030250711293952/EvSTOz7z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81646141/1406100233",
+			"profile_link_color": "040F85",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18847,
+		"favorite_count": 80101,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All the dads when The Masters starts. https://t.co/YRJTj9vv8c"
+	},
+	{
 		"created_at": "Sun Apr 14 00:12:41 +0000 2019",
 		"id": 1117097527176601600,
 		"id_str": "1117219083617853441",
