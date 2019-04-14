@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 00:12:41 +0000 2019",
+		"id": 1117097527176601600,
+		"id_str": "1117219083617853441",
+		"full_text": "Just a peacock running down the street in L.A. https://t.co/5CoFaZKrnL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117097496889577500,
+					"id_str": "1117097496889577475",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117097496889577475/pu/img/uRhnBfNnYt57sg22.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117097496889577475/pu/img/uRhnBfNnYt57sg22.jpg",
+					"url": "https://t.co/5CoFaZKrnL",
+					"display_url": "pic.twitter.com/5CoFaZKrnL",
+					"expanded_url": "https://twitter.com/hbecerraLATimes/status/1117097527176601600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117097496889577500,
+					"id_str": "1117097496889577475",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117097496889577475/pu/img/uRhnBfNnYt57sg22.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117097496889577475/pu/img/uRhnBfNnYt57sg22.jpg",
+					"url": "https://t.co/5CoFaZKrnL",
+					"display_url": "pic.twitter.com/5CoFaZKrnL",
+					"expanded_url": "https://twitter.com/hbecerraLATimes/status/1117097527176601600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 5300,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117097496889577475/pu/vid/480x480/QoxksfGiqMDUzsML.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1117097496889577475/pu/pl/FZulmbebID2V33GD.m3u8?tag=8"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117097496889577475/pu/vid/320x320/UdQVPOIE7dswBpfy.mp4?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117097496889577475/pu/vid/720x720/1bp90rAX9UryDCY7.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19074004,
+			"id_str": "19074004",
+			"name": "Hector Becerra",
+			"screen_name": "hbecerraLATimes",
+			"location": "Los Angeles",
+			"description": "City Editor, Los Angeles Times. L.A born and raised. Story tips welcome Hector.becerra@latimes.com Twitter: @hbecerralatimes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4764,
+			"friends_count": 402,
+			"listed_count": 197,
+			"created_at": "Fri Jan 16 16:35:59 +0000 2009",
+			"favourites_count": 4313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24967,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094677772071399424/H5sH6_yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094677772071399424/H5sH6_yJ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 52,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just a peacock running down the street in L.A. https://t.co/5CoFaZKrnL"
+	},
+	{
 		"created_at": "Sat Apr 13 17:31:33 +0000 2019",
 		"id": 1116821270622904300,
 		"id_str": "1117118137864822784",
