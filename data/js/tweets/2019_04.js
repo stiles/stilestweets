@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 21:49:47 +0000 2019",
+		"id": 1117869188071034900,
+		"id_str": "1117907898749734912",
+		"full_text": "USC team wins Pulitzer for investigative reporting!! @latimes @MattHjourno @latimesharriet @PringleLATimes https://t.co/oJcCoCje3x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"screen_name": "MattHjourno",
+					"name": "Matt Hamilton",
+					"id": 76459927,
+					"id_str": "76459927",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "latimesharriet",
+					"name": "Harriet Ryan",
+					"id": 16213490,
+					"id_str": "16213490",
+					"indices": [
+						75,
+						90
+					]
+				},
+				{
+					"screen_name": "PringleLATimes",
+					"name": "Paul Pringle",
+					"id": 21282353,
+					"id_str": "21282353",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117868881123483600,
+					"id_str": "1117868881123483648",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117868881123483648/pu/img/r0PkcuCVF0MYuL0P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117868881123483648/pu/img/r0PkcuCVF0MYuL0P.jpg",
+					"url": "https://t.co/oJcCoCje3x",
+					"display_url": "pic.twitter.com/oJcCoCje3x",
+					"expanded_url": "https://twitter.com/bposton/status/1117869188071034880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117868881123483600,
+					"id_str": "1117868881123483648",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117868881123483648/pu/img/r0PkcuCVF0MYuL0P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117868881123483648/pu/img/r0PkcuCVF0MYuL0P.jpg",
+					"url": "https://t.co/oJcCoCje3x",
+					"display_url": "pic.twitter.com/oJcCoCje3x",
+					"expanded_url": "https://twitter.com/bposton/status/1117869188071034880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26333,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1117868881123483648/pu/pl/ajMVnwfon87f45Z7.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117868881123483648/pu/vid/640x360/yvRhTDXTsguNuLoP.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117868881123483648/pu/vid/320x180/_4cyme-Np6SQNHR3.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117868881123483648/pu/vid/1280x720/XAAHJuiQXGLpLnfU.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14927843,
+			"id_str": "14927843",
+			"name": "🦅 Ben Poston - LA Times",
+			"screen_name": "bposton",
+			"location": "Los Angeles, CA",
+			"description": "@latimes data reporter | adjunct journalism professor at @USCAnnenberg | alum of @js_watchdog | @IRE_NICAR changed my life. ben.poston@latimes.com",
+			"url": "https://t.co/sEOR7XeZys",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sEOR7XeZys",
+							"expanded_url": "http://fw.to/sABONoE",
+							"display_url": "fw.to/sABONoE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2608,
+			"friends_count": 1840,
+			"listed_count": 178,
+			"created_at": "Wed May 28 00:24:51 +0000 2008",
+			"favourites_count": 7321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/790624783276740608/ZWDDU46o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/790624783276740608/ZWDDU46o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14927843/1480636967",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "USC team wins Pulitzer for investigative reporting!! @latimes @MattHjourno @latimesharriet @PringleLATimes https://t.co/oJcCoCje3x"
+	},
+	{
+		"created_at": "Mon Apr 15 21:49:16 +0000 2019",
+		"id": 1117883009217097700,
+		"id_str": "1117907767501570048",
+		"full_text": "I'm so proud of my colleagues, @latimesharriet, @pringlelatimes and @matthjourno for their inspiring work, begun during some of the darkest days at the @latimes.This one means a lot. https://t.co/xFXELvytoJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimesharriet",
+					"name": "Harriet Ryan",
+					"id": 16213490,
+					"id_str": "16213490",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "PringleLATimes",
+					"name": "Paul Pringle",
+					"id": 21282353,
+					"id_str": "21282353",
+					"indices": [
+						48,
+						63
+					]
+				},
+				{
+					"screen_name": "MattHjourno",
+					"name": "Matt Hamilton",
+					"id": 76459927,
+					"id_str": "76459927",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						152,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xFXELvytoJ",
+					"expanded_url": "https://www.latimes.com/business/hollywood/la-fi-ct-los-angeles-times-wins-pulitzer-investigation-usc-gynecologist-scandal-20190415-story.html",
+					"display_url": "latimes.com/business/holly…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55138885,
+			"id_str": "55138885",
+			"name": "Mitchell Landsberg",
+			"screen_name": "LATlands",
+			"location": "Los Angeles",
+			"description": "Foreign Editor, acting National Editor, LA Times. Formerly AP Reno, NYC, Moscow. SFGiants fan in Dodgertown.",
+			"url": "http://t.co/DwhrVjtTlf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DwhrVjtTlf",
+							"expanded_url": "http://latimes.com/world",
+							"display_url": "latimes.com/world",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3038,
+			"friends_count": 1346,
+			"listed_count": 153,
+			"created_at": "Thu Jul 09 04:15:22 +0000 2009",
+			"favourites_count": 3902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7897,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3495920902/fac3cb9e366a9f18342f56e7c515d460_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3495920902/fac3cb9e366a9f18342f56e7c515d460_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55138885/1382654661",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm so proud of my colleagues, @latimesharriet, @pringlelatimes and @matthjourno for their inspiring work, begun during some of the darkest days at the @latimes.This one means a lot. https://t.co/xFXELvytoJ"
+	},
+	{
+		"created_at": "Mon Apr 15 21:48:41 +0000 2019",
+		"id": 1117869799105646600,
+		"id_str": "1117907620726075392",
+		"full_text": "Here’s the moment when @latimes reporters @latimesharriet @MattHjourno @PringleLATimes won a Pulitzer Prize for their investigation into a former USC gynecologist accused of sexually abusing students. https://t.co/YnDJwDA4Tp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"screen_name": "latimesharriet",
+					"name": "Harriet Ryan",
+					"id": 16213490,
+					"id_str": "16213490",
+					"indices": [
+						42,
+						57
+					]
+				},
+				{
+					"screen_name": "MattHjourno",
+					"name": "Matt Hamilton",
+					"id": 76459927,
+					"id_str": "76459927",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "PringleLATimes",
+					"name": "Paul Pringle",
+					"id": 21282353,
+					"id_str": "21282353",
+					"indices": [
+						71,
+						86
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117869719296462800,
+					"id_str": "1117869719296462849",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117869719296462849/pu/img/5tw3G3zyHy5XCJZ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117869719296462849/pu/img/5tw3G3zyHy5XCJZ4.jpg",
+					"url": "https://t.co/YnDJwDA4Tp",
+					"display_url": "pic.twitter.com/YnDJwDA4Tp",
+					"expanded_url": "https://twitter.com/adrienneshih/status/1117869799105646592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117869719296462800,
+					"id_str": "1117869719296462849",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117869719296462849/pu/img/5tw3G3zyHy5XCJZ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117869719296462849/pu/img/5tw3G3zyHy5XCJZ4.jpg",
+					"url": "https://t.co/YnDJwDA4Tp",
+					"display_url": "pic.twitter.com/YnDJwDA4Tp",
+					"expanded_url": "https://twitter.com/adrienneshih/status/1117869799105646592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36060,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1117869719296462849/pu/pl/rXhs-qRxpiJIuUX-.m3u8?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117869719296462849/pu/vid/320x180/D0RwBPhmLEsQqBlk.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117869719296462849/pu/vid/1280x720/Kht4pb6BHkrWjfLh.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1117869719296462849/pu/vid/640x360/-WW0pJo6bMCCYylz.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123525091,
+			"id_str": "123525091",
+			"name": "Adrienne Shih👩🏻‍💻",
+			"screen_name": "adrienneshih",
+			"location": "Washington, DC",
+			"description": "Audience engagement editor @latimes + @latimespolitics • Proud alum @washingtonpost, @CNN, @ForeignPolicy • DC transplant by way of LA & TPE",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2263,
+			"friends_count": 872,
+			"listed_count": 60,
+			"created_at": "Tue Mar 16 10:45:18 +0000 2010",
+			"favourites_count": 29230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2335,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086114503362781184/bWwtkyn9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086114503362781184/bWwtkyn9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123525091/1554612633",
+			"profile_link_color": "B75D6C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s the moment when @latimes reporters @latimesharriet @MattHjourno @PringleLATimes won a Pulitzer Prize for their investigation into a former USC gynecologist accused of sexually abusing students. https://t.co/YnDJwDA4Tp"
+	},
+	{
 		"created_at": "Mon Apr 15 21:19:56 +0000 2019",
 		"id": 1117900387862794200,
 		"id_str": "1117900387862794240",
