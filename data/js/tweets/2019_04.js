@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 15:05:26 +0000 2019",
+		"id": 1118168529566453800,
+		"id_str": "1118168529566453766",
+		"full_text": "Love this story. https://t.co/XnAqpL8Qcw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XnAqpL8Qcw",
+					"expanded_url": "https://twitter.com/ryanvmenezes/status/1118164407517757440",
+					"display_url": "twitter.com/ryanvmenezes/s…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10639,
+			"friends_count": 1527,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00af7bd33e05ab00",
+			"url": "https://api.twitter.com/1.1/geo/id/00af7bd33e05ab00.json",
+			"place_type": "city",
+			"name": "Indian Wells",
+			"full_name": "Indian Wells, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-116.374119,
+							33.6718148
+						],
+						[
+							-116.294972,
+							33.6718148
+						],
+						[
+							-116.294972,
+							33.743643
+						],
+						[
+							-116.374119,
+							33.743643
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118164407517757400,
+		"quoted_status_id_str": "1118164407517757440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XnAqpL8Qcw",
+			"expanded": "https://twitter.com/ryanvmenezes/status/1118164407517757440",
+			"display": "twitter.com/ryanvmenezes/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 14:49:03 +0000 2019",
+			"id": 1118164407517757400,
+			"id_str": "1118164407517757440",
+			"full_text": "Clippers broadcaster Ralph Lawler's proposition that the first team to 100 will win the game has long been a subject of my fascination. I analyzed the accuracy of Lawler's Law and found this playful quip actually portends greater truths about the game.\nhttps://t.co/AlxXyqwJq8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AlxXyqwJq8",
+						"expanded_url": "https://www.latimes.com/sports/clippers/la-sp-col1-basketball-clippers-lawlers-law-20190416-htmlstory.html",
+						"display_url": "latimes.com/sports/clipper…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24972827,
+				"id_str": "24972827",
+				"name": "Ryan Menezes",
+				"screen_name": "ryanvmenezes",
+				"location": "Los Feliz, Los Angeles, CA",
+				"description": "Analyzing data and writing stories for @latimes @LATdatadesk. Amateur statistician. Armchair point-forward. From BOM to LAX with a bunch of stops in between.",
+				"url": "https://t.co/RN3b6n8GNA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RN3b6n8GNA",
+								"expanded_url": "http://www.latimes.com/la-bio-ryan-menezes-staff.html",
+								"display_url": "latimes.com/la-bio-ryan-me…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1276,
+				"friends_count": 626,
+				"listed_count": 76,
+				"created_at": "Tue Mar 17 22:46:17 +0000 2009",
+				"favourites_count": 1088,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3097,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1064306583834742785/hre8rwPG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064306583834742785/hre8rwPG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24972827/1524548952",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this story. https://t.co/XnAqpL8Qcw"
+	},
+	{
 		"created_at": "Tue Apr 16 13:54:24 +0000 2019",
 		"id": 1118150651874144300,
 		"id_str": "1118150651874144257",
