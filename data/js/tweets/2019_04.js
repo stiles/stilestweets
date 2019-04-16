@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 13:54:24 +0000 2019",
+		"id": 1118150651874144300,
+		"id_str": "1118150651874144257",
+		"full_text": "N̶̰͇̟̓͊o̵̱̫͔͌̕ ̸͎͎̰̓̃́C̵̝͚̽ò̵͎̃l̸̨͂̂̕l̵̫͎̞̀͝ũ̸͓̂s̴̻̈́̽͝ï̸̹͈̜̓o̴͉͔̍̀̌n̴̪̼̼̈́͌̕ ̶͍͈̽́-̷̭͕͐̌ ̴̜̻͔̔N̴̫̊̌͘ó̵̠̣ ̸̡͉̥̅O̴̲͕͌̂b̴̖͂s̷̨̖̄̕t̵͖̯͊͂͝r̵̼͉͇̐͐̍ǘ̵̪͆c̵̭̱͍̃̚ṭ̶̒͌̚i̶͙͇̝̚o̷̹̊͊̂n̵̹̐̎ https://t.co/AYnhga7CY7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AYnhga7CY7",
+					"expanded_url": "https://twitter.com/realdonaldtrump/status/1118145749148209153",
+					"display_url": "twitter.com/realdonaldtrum…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Telling stories about @CountyofLA with words, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10639,
+			"friends_count": 1527,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00af7bd33e05ab00",
+			"url": "https://api.twitter.com/1.1/geo/id/00af7bd33e05ab00.json",
+			"place_type": "city",
+			"name": "Indian Wells",
+			"full_name": "Indian Wells, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-116.374119,
+							33.6718148
+						],
+						[
+							-116.294972,
+							33.6718148
+						],
+						[
+							-116.294972,
+							33.743643
+						],
+						[
+							-116.374119,
+							33.743643
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118145749148209200,
+		"quoted_status_id_str": "1118145749148209153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AYnhga7CY7",
+			"expanded": "https://twitter.com/realdonaldtrump/status/1118145749148209153",
+			"display": "twitter.com/realdonaldtrum…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 13:34:55 +0000 2019",
+			"id": 1118145749148209200,
+			"id_str": "1118145749148209153",
+			"full_text": "No Collusion - No Obstruction!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59726322,
+				"friends_count": 45,
+				"listed_count": 101873,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 41267,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1550087458",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5990,
+			"favorite_count": 27931,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "N̶̰͇̟̓͊o̵̱̫͔͌̕ ̸͎͎̰̓̃́C̵̝͚̽ò̵͎̃l̸̨͂̂̕l̵̫͎̞̀͝ũ̸͓̂s̴̻̈́̽͝ï̸̹͈̜̓o̴͉͔̍̀̌n̴̪̼̼̈́͌̕ ̶͍͈̽́-̷̭͕͐̌ ̴̜̻͔̔N̴̫̊̌͘ó̵̠̣ ̸̡͉̥̅O̴̲͕͌̂b̴̖͂s̷̨̖̄̕t̵͖̯͊͂͝r̵̼͉͇̐͐̍ǘ̵̪͆c̵̭̱͍̃̚ṭ̶̒͌̚i̶͙͇̝̚o̷̹̊͊̂n̵̹̐̎ https://t.co/AYnhga7CY7"
+	},
+	{
 		"created_at": "Mon Apr 15 21:49:47 +0000 2019",
 		"id": 1117869188071034900,
 		"id_str": "1117907898749734912",
@@ -568,7 +808,7 @@ Grailbird.data.tweets_2019_04 =
 		"user": {
 			"id": 123525091,
 			"id_str": "123525091",
-			"name": "Adrienne Shih👩🏻‍💻",
+			"name": "Adrienne Shih👩🏻💻",
 			"screen_name": "adrienneshih",
 			"location": "Washington, DC",
 			"description": "Audience engagement editor @latimes + @latimespolitics • Proud alum @washingtonpost, @CNN, @ForeignPolicy • DC transplant by way of LA & TPE",
