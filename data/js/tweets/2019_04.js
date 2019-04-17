@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 04:09:49 +0000 2019",
+		"id": 1118365923566673900,
+		"id_str": "1118365923566673922",
+		"full_text": "In his tale of Mick Mulvaney's tenure at CFPB, @nickconfessore nails the Trump administration's impact on some federal agencies (\"contrary to their basic premises\"): \"https://t.co/Ci6klxwlrU https://t.co/jaI3ksF6Jm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nickconfessore",
+					"name": "Nick Confessore",
+					"id": 258885469,
+					"id_str": "258885469",
+					"indices": [
+						47,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ci6klxwlrU",
+					"expanded_url": "https://nyti.ms/2Gn5eBd",
+					"display_url": "nyti.ms/2Gn5eBd",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118365210132328400,
+					"id_str": "1118365210132328451",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/D4U7O7cXsAMuc32.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4U7O7cXsAMuc32.jpg",
+					"url": "https://t.co/jaI3ksF6Jm",
+					"display_url": "pic.twitter.com/jaI3ksF6Jm",
+					"expanded_url": "https://twitter.com/stiles/status/1118365923566673922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1302,
+							"h": 804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 741,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118365210132328400,
+					"id_str": "1118365210132328451",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/D4U7O7cXsAMuc32.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4U7O7cXsAMuc32.jpg",
+					"url": "https://t.co/jaI3ksF6Jm",
+					"display_url": "pic.twitter.com/jaI3ksF6Jm",
+					"expanded_url": "https://twitter.com/stiles/status/1118365923566673922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1302,
+							"h": 804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 741,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1118364563563536400,
+		"in_reply_to_status_id_str": "1118364563563536385",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10632,
+			"friends_count": 1531,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13454,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In his tale of Mick Mulvaney's tenure at CFPB, @nickconfessore nails the Trump administration's impact on some federal agencies (\"contrary to their basic premises\"): \"https://t.co/Ci6klxwlrU https://t.co/jaI3ksF6Jm"
+	},
+	{
+		"created_at": "Wed Apr 17 04:04:24 +0000 2019",
+		"id": 1118364563563536400,
+		"id_str": "1118364563563536385",
+		"full_text": "The C.F.P.B. was created to protect Americans from predatory lenders after the financial crisis. President Trump’s new chief of staff took it apart on his way to White House. https://t.co/Ci6klxwlrU https://t.co/NnO92HpDAi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ci6klxwlrU",
+					"expanded_url": "https://nyti.ms/2Gn5eBd",
+					"display_url": "nyti.ms/2Gn5eBd",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118364533255438300,
+					"id_str": "1118364533255438336",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D4U6nh4WAAA1YfF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4U6nh4WAAA1YfF.jpg",
+					"url": "https://t.co/NnO92HpDAi",
+					"display_url": "pic.twitter.com/NnO92HpDAi",
+					"expanded_url": "https://twitter.com/stiles/status/1118364563563536385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1090,
+							"h": 1210,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118364533255438300,
+					"id_str": "1118364533255438336",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D4U6nh4WAAA1YfF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4U6nh4WAAA1YfF.jpg",
+					"url": "https://t.co/NnO92HpDAi",
+					"display_url": "pic.twitter.com/NnO92HpDAi",
+					"expanded_url": "https://twitter.com/stiles/status/1118364563563536385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1090,
+							"h": 1210,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10632,
+			"friends_count": 1531,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13454,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The C.F.P.B. was created to protect Americans from predatory lenders after the financial crisis. President Trump’s new chief of staff took it apart on his way to White House. https://t.co/Ci6klxwlrU https://t.co/NnO92HpDAi"
+	},
+	{
 		"created_at": "Wed Apr 17 01:22:46 +0000 2019",
 		"id": 1118323886452555800,
 		"id_str": "1118323886452555776",
