@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 13:42:38 +0000 2019",
+		"id": 1118510081111281700,
+		"id_str": "1118510081111281664",
+		"full_text": "Wow https://t.co/sjhT8epbgn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sjhT8epbgn",
+					"expanded_url": "https://twitter.com/a_l/status/1118161045485510656",
+					"display_url": "twitter.com/a_l/status/111…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10635,
+			"friends_count": 1531,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00af7bd33e05ab00",
+			"url": "https://api.twitter.com/1.1/geo/id/00af7bd33e05ab00.json",
+			"place_type": "city",
+			"name": "Indian Wells",
+			"full_name": "Indian Wells, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-116.374119,
+							33.6718148
+						],
+						[
+							-116.294972,
+							33.6718148
+						],
+						[
+							-116.294972,
+							33.743643
+						],
+						[
+							-116.374119,
+							33.743643
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118161045485510700,
+		"quoted_status_id_str": "1118161045485510656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sjhT8epbgn",
+			"expanded": "https://twitter.com/a_l/status/1118161045485510656",
+			"display": "twitter.com/a_l/status/111…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 14:35:42 +0000 2019",
+			"id": 1118161045485510700,
+			"id_str": "1118161045485510656",
+			"full_text": "This @sahilchinoy project is so damn good.\n\nhttps://t.co/UcATtagBIH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sahilchinoy",
+						"name": "Sahil Chinoy",
+						"id": 23888623,
+						"id_str": "23888623",
+						"indices": [
+							5,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UcATtagBIH",
+						"expanded_url": "https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html",
+						"display_url": "nytimes.com/interactive/20…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7865282,
+				"id_str": "7865282",
+				"name": "Al Shaw",
+				"screen_name": "A_L",
+				"location": "Brooklyn, NY",
+				"description": "developer / designer / reporter at ProPublica • #bikenyc'er • PGP: https://t.co/Rm7puIOjUB",
+				"url": "https://t.co/Vd6TZGY7VE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Vd6TZGY7VE",
+								"expanded_url": "https://www.propublica.org/site/author/al_shaw",
+								"display_url": "propublica.org/site/author/al…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Rm7puIOjUB",
+								"expanded_url": "http://j.mp/a_l-pgp",
+								"display_url": "j.mp/a_l-pgp",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7314,
+				"friends_count": 1266,
+				"listed_count": 527,
+				"created_at": "Wed Aug 01 01:41:32 +0000 2007",
+				"favourites_count": 5937,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18079,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/534125016330153984/4Dd721lC_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/534125016330153984/4Dd721lC_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7865282/1357226693",
+				"profile_link_color": "858483",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Wow https://t.co/sjhT8epbgn"
+	},
+	{
 		"created_at": "Wed Apr 17 04:09:49 +0000 2019",
 		"id": 1118365923566673900,
 		"id_str": "1118365923566673922",
