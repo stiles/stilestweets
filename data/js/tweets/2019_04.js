@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 15:31:54 +0000 2019",
+		"id": 1118866058767679500,
+		"id_str": "1118899965701414913",
+		"full_text": "Bookmark this. Come back to it when Twitter is too much of a garbage fire today. https://t.co/TyrNa1Omgu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TyrNa1Omgu",
+					"expanded_url": "https://www.nytimes.com/2018/11/05/style/self-care/the-calm-place-on-the-internet.html",
+					"display_url": "nytimes.com/2018/11/05/sty…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14403440,
+			"id_str": "14403440",
+			"name": "Michael Gold",
+			"screen_name": "migold",
+			"location": "New York, NY",
+			"description": "metro reporter at @nytimes, writing about the weird stuff in your neighborhood. squidward stan, jody sawyer apologist.",
+			"url": "https://t.co/UnszPEz57q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UnszPEz57q",
+							"expanded_url": "http://nytimes.com/by/michael-gold",
+							"display_url": "nytimes.com/by/michael-gold",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10527,
+			"friends_count": 1468,
+			"listed_count": 328,
+			"created_at": "Wed Apr 16 01:51:59 +0000 2008",
+			"favourites_count": 7448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29561,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/967025657245990913/XaNsFd6l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/967025657245990913/XaNsFd6l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14403440/1485301467",
+			"profile_link_color": "0A6480",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bookmark this. Come back to it when Twitter is too much of a garbage fire today. https://t.co/TyrNa1Omgu"
+	},
+	{
 		"created_at": "Thu Apr 18 14:30:55 +0000 2019",
 		"id": 1118884619321954300,
 		"id_str": "1118884619321954304",
