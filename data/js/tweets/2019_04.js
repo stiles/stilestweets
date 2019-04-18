@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 14:01:59 +0000 2019",
+		"id": 1118877337565614100,
+		"id_str": "1118877337565614081",
+		"full_text": "First thing my daughter, 4, said this morning (when she saw me watching AG Barr's press conference): \"Who picked Obama?\" Then: \"Does Obama fight with Mr. Trump?\" She's very concerned about this Mr. Trump.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10631,
+			"friends_count": 1531,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "First thing my daughter, 4, said this morning (when she saw me watching AG Barr's press conference): \"Who picked Obama?\" Then: \"Does Obama fight with Mr. Trump?\" She's very concerned about this Mr. Trump."
+	},
+	{
+		"created_at": "Thu Apr 18 13:34:44 +0000 2019",
+		"id": 1118868414481731600,
+		"id_str": "1118870481233309696",
+		"full_text": "Reminder: It is _not_ Mueller Time™ https://t.co/lhBDqsyAYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lhBDqsyAYm",
+					"expanded_url": "https://twitter.com/samsanders/status/1118507601237381121?s=21",
+					"display_url": "twitter.com/samsanders/sta…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14823197,
+			"id_str": "14823197",
+			"name": "Danny DeBelius",
+			"screen_name": "dannydb",
+			"location": "Colorado Springs, CO",
+			"description": "Design at @PlanningCenter. Previously at @nytimes and @npr. Saved by grace (Eph. 2:8).",
+			"url": "https://t.co/Ytz42yzPoG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ytz42yzPoG",
+							"expanded_url": "http://dannydebelius.com",
+							"display_url": "dannydebelius.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2141,
+			"friends_count": 1305,
+			"listed_count": 151,
+			"created_at": "Sun May 18 18:45:33 +0000 2008",
+			"favourites_count": 16461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 415,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/746098532885594113/yVVrZRvx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/746098532885594113/yVVrZRvx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14823197/1554650227",
+			"profile_link_color": "30A5C9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118507601237381100,
+		"quoted_status_id_str": "1118507601237381121",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lhBDqsyAYm",
+			"expanded": "https://twitter.com/samsanders/status/1118507601237381121?s=21",
+			"display": "twitter.com/samsanders/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 17 13:32:47 +0000 2019",
+			"id": 1118507601237381100,
+			"id_str": "1118507601237381121",
+			"full_text": "Inbox #nprlife https://t.co/cVVhe1tzyL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nprlife",
+						"indices": [
+							6,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1118507597785493500,
+						"id_str": "1118507597785493504",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/D4W8u-yUcAAvIZh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4W8u-yUcAAvIZh.jpg",
+						"url": "https://t.co/cVVhe1tzyL",
+						"display_url": "pic.twitter.com/cVVhe1tzyL",
+						"expanded_url": "https://twitter.com/samsanders/status/1118507601237381121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 749,
+								"h": 963,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 963,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 529,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118507597785493500,
+						"id_str": "1118507597785493504",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/D4W8u-yUcAAvIZh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4W8u-yUcAAvIZh.jpg",
+						"url": "https://t.co/cVVhe1tzyL",
+						"display_url": "pic.twitter.com/cVVhe1tzyL",
+						"expanded_url": "https://twitter.com/samsanders/status/1118507601237381121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 749,
+								"h": 963,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 963,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 529,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16442379,
+				"id_str": "16442379",
+				"name": "Sam Sanders",
+				"screen_name": "samsanders",
+				"location": "L.A. (for the second time)",
+				"description": "Texan. Procrastinator. Loud. Also host of an @NPR show called \"It's Been A Minute.\" I'd love 4 u to listen. @NPRItsBeenAMin https://t.co/iXR4YG7SDn",
+				"url": "https://t.co/Sclbzwsfbj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Sclbzwsfbj",
+								"expanded_url": "https://n.pr/2hir3pj",
+								"display_url": "n.pr/2hir3pj",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iXR4YG7SDn",
+								"expanded_url": "https://Instagram.com/samsanders/",
+								"display_url": "Instagram.com/samsanders/",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 102524,
+				"friends_count": 3066,
+				"listed_count": 1633,
+				"created_at": "Wed Sep 24 22:35:18 +0000 2008",
+				"favourites_count": 73937,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28657,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882698164997808128/Mym6RZ3M_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882698164997808128/Mym6RZ3M_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16442379/1498487131",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 730,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reminder: It is _not_ Mueller Time™ https://t.co/lhBDqsyAYm"
+	},
+	{
+		"created_at": "Thu Apr 18 13:22:00 +0000 2019",
+		"id": 1118866896684605400,
+		"id_str": "1118867274914353153",
+		"full_text": "Gov. @GavinNewsom plans to take on Big Pharma over prescription drugs. L.A. County wants in, despite many details still pending- Los Angeles Times https://t.co/m2CJhQor4V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinNewsom",
+					"name": "Gavin Newsom",
+					"id": 11347122,
+					"id_str": "11347122",
+					"indices": [
+						5,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m2CJhQor4V",
+					"expanded_url": "https://www.latimes.com/politics/la-pol-ca-california-gavin-newsom-prescription-drugs-costs-20190417-story.html",
+					"display_url": "latimes.com/politics/la-po…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21346215,
+			"id_str": "21346215",
+			"name": "Melody Gutierrez",
+			"screen_name": "MelodyGutierrez",
+			"location": "Sacramento",
+			"description": "Sacramento-based politics and state government reporter for The Los Angeles Times. Send story ideas to melody.gutierrez@latimes.com",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9391,
+			"friends_count": 3445,
+			"listed_count": 440,
+			"created_at": "Thu Feb 19 22:20:57 +0000 2009",
+			"favourites_count": 483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15547,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101192211104821248/d-zuvV-y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101192211104821248/d-zuvV-y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21346215/1542052798",
+			"profile_link_color": "02070F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gov. @GavinNewsom plans to take on Big Pharma over prescription drugs. L.A. County wants in, despite many details still pending- Los Angeles Times https://t.co/m2CJhQor4V"
+	},
+	{
 		"created_at": "Thu Apr 18 13:20:17 +0000 2019",
 		"id": 1118549071600296000,
 		"id_str": "1118866844503248896",
