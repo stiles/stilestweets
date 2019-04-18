@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 17:29:29 +0000 2019",
+		"id": 1118929555371073500,
+		"id_str": "1118929555371073536",
+		"full_text": "Noted. https://t.co/GFwFHgpNxp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GFwFHgpNxp",
+					"expanded_url": "https://twitter.com/rdmurphy/status/1118882868325945344",
+					"display_url": "twitter.com/rdmurphy/statu…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10632,
+			"friends_count": 1533,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13471,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118882868325945300,
+		"quoted_status_id_str": "1118882868325945344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GFwFHgpNxp",
+			"expanded": "https://twitter.com/rdmurphy/status/1118882868325945344",
+			"display": "twitter.com/rdmurphy/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 14:23:58 +0000 2019",
+			"id": 1118882868325945300,
+			"id_str": "1118882868325945344",
+			"full_text": "None of the hot takes you see the hour after the release on here or on TV will even come *close* to the polished, well-edited coverage you’ll be able to read tonight/tomorrow morning. Get out of here! Enjoy your day! You don’t have to do this!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20031243,
+				"id_str": "20031243",
+				"name": "Ryan Murphy",
+				"screen_name": "rdmurphy",
+				"location": "Austin, TX",
+				"description": "soon @LATdatadesk. always @TexasTribune. probably thinking the text on your site is kinda hard to read. ♦",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3028,
+				"friends_count": 693,
+				"listed_count": 315,
+				"created_at": "Wed Feb 04 06:31:49 +0000 2009",
+				"favourites_count": 5680,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20962,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "53394C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/850347530453831680/VXdSrLrO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/850347530453831680/VXdSrLrO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20031243/1429572252",
+				"profile_link_color": "352430",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "33A650",
+				"profile_text_color": "6080C4",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "f515486276aa6192",
+				"url": "https://api.twitter.com/1.1/geo/id/f515486276aa6192.json",
+				"place_type": "city",
+				"name": "Las Cruces",
+				"full_name": "Las Cruces, NM",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-106.8434266,
+								32.2383612
+							],
+							[
+								-106.63145,
+								32.2383612
+							],
+							[
+								-106.63145,
+								32.446238
+							],
+							[
+								-106.8434266,
+								32.446238
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Noted. https://t.co/GFwFHgpNxp"
+	},
+	{
 		"created_at": "Thu Apr 18 17:02:27 +0000 2019",
 		"id": 1118922753208270800,
 		"id_str": "1118922753208270849",
