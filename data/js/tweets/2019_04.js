@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 13:20:17 +0000 2019",
+		"id": 1118549071600296000,
+		"id_str": "1118866844503248896",
+		"full_text": "ICYMI: The @uscensusbureau is developing open-source standards for its future data visualizations.\n\nhttps://t.co/vzVsTy94if https://t.co/Zc3X0o59kP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uscensusbureau",
+					"name": "U.S. Census Bureau",
+					"id": 23092890,
+					"id_str": "23092890",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vzVsTy94if",
+					"expanded_url": "https://xdgov.github.io/data-design-standards/",
+					"display_url": "xdgov.github.io/data-design-st…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118549043607588900,
+					"id_str": "1118549043607588865",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D4XibcgVUAEDcbw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4XibcgVUAEDcbw.jpg",
+					"url": "https://t.co/Zc3X0o59kP",
+					"display_url": "pic.twitter.com/Zc3X0o59kP",
+					"expanded_url": "https://twitter.com/palewire/status/1118549071600295936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1363,
+							"h": 1029,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118549043607588900,
+					"id_str": "1118549043607588865",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D4XibcgVUAEDcbw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4XibcgVUAEDcbw.jpg",
+					"url": "https://t.co/Zc3X0o59kP",
+					"display_url": "pic.twitter.com/Zc3X0o59kP",
+					"expanded_url": "https://twitter.com/palewire/status/1118549071600295936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1363,
+							"h": 1029,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+			"url": "https://t.co/kogJ0fJceo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kogJ0fJceo",
+							"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lZvqTdDOmO",
+							"expanded_url": "http://www.californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8929,
+			"friends_count": 3056,
+			"listed_count": 702,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54317,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ICYMI: The @uscensusbureau is developing open-source standards for its future data visualizations.\n\nhttps://t.co/vzVsTy94if https://t.co/Zc3X0o59kP"
+	},
+	{
 		"created_at": "Thu Apr 18 04:24:13 +0000 2019",
 		"id": 1118731936166318100,
 		"id_str": "1118731936166318080",
