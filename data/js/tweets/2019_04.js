@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 06:24:08 +0000 2019",
+		"id": 1118909171439550500,
+		"id_str": "1119124504435838979",
+		"full_text": "MY LATEST STORY FOR @latimesfood: I get one last Lent with my Mami. I'm using it to learn our family's capirotada recipe. A thread: https://t.co/zmlCg4bGiQ https://t.co/A22ll0a6G2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimesfood",
+					"name": "L.A. Times Food",
+					"id": 17796018,
+					"id_str": "17796018",
+					"indices": [
+						20,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zmlCg4bGiQ",
+					"expanded_url": "https://www.latimes.com/food/la-fo-receta-capirotada-cuaresma-lent-20190418-htmlstory.html",
+					"display_url": "latimes.com/food/la-fo-rec…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118909088635605000,
+					"id_str": "1118909088635604992",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D4cp40wU0AAf3Bl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4cp40wU0AAf3Bl.jpg",
+					"url": "https://t.co/A22ll0a6G2",
+					"display_url": "pic.twitter.com/A22ll0a6G2",
+					"expanded_url": "https://twitter.com/GustavoArellano/status/1118909171439550464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1018,
+							"h": 626,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 626,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118909088635605000,
+					"id_str": "1118909088635604992",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D4cp40wU0AAf3Bl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4cp40wU0AAf3Bl.jpg",
+					"url": "https://t.co/A22ll0a6G2",
+					"display_url": "pic.twitter.com/A22ll0a6G2",
+					"expanded_url": "https://twitter.com/GustavoArellano/status/1118909171439550464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1018,
+							"h": 626,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 626,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15518170,
+			"id_str": "15518170",
+			"name": "GustavoArellano",
+			"screen_name": "GustavoArellano",
+			"location": "Anacrime,OC,Zacatecas",
+			"description": "Con su pluma en su mano for @latimes. Investigations/tacos/history/OC/DESMADRE. Eternal Mexican. ✉️: mexicanwithglasses @ gmail dot com & my newsletter below!",
+			"url": "https://t.co/h6ctxIBhQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6ctxIBhQr",
+							"expanded_url": "http://tinyletter.com/gustavoarellanosweekly",
+							"display_url": "tinyletter.com/gustavoarellan…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21345,
+			"friends_count": 395,
+			"listed_count": 602,
+			"created_at": "Mon Jul 21 17:45:07 +0000 2008",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 228184,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105308321668460545/G2xfLioi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105308321668460545/G2xfLioi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15518170/1545190490",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 244,
+		"favorite_count": 738,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MY LATEST STORY FOR @latimesfood: I get one last Lent with my Mami. I'm using it to learn our family's capirotada recipe. A thread: https://t.co/zmlCg4bGiQ https://t.co/A22ll0a6G2"
+	},
+	{
 		"created_at": "Fri Apr 19 03:53:36 +0000 2019",
 		"id": 1119086621809201200,
 		"id_str": "1119086621809201152",
