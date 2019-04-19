@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 20:08:18 +0000 2019",
+		"id": 1119331911493509100,
+		"id_str": "1119331911493509120",
+		"full_text": "@mlstotts @CountyofLA @LACity I worried about both those things. So I searched for these words (https://t.co/RErqEJXLIr) AND also the word \"expletive\" in brackets in both the city and county transcripts. I'm confident we analyzed the data we have effectively. We can't account for transcript quality, tho.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			305
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mlstotts",
+					"name": "Matthew Stotts",
+					"id": 46582158,
+					"id_str": "46582158",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "LACity",
+					"name": "City of Los Angeles",
+					"id": 880028463704363000,
+					"id_str": "880028463704363008",
+					"indices": [
+						22,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RErqEJXLIr",
+					"expanded_url": "http://bit.ly/2FWi36i",
+					"display_url": "bit.ly/2FWi36i",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1119329982692462600,
+		"in_reply_to_status_id_str": "1119329982692462592",
+		"in_reply_to_user_id": 46582158,
+		"in_reply_to_user_id_str": "46582158",
+		"in_reply_to_screen_name": "mlstotts",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10641,
+			"friends_count": 1534,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13496,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mlstotts @CountyofLA @LACity I worried about both those things. So I searched for these words (https://t.co/RErqEJXLIr) AND also the word \"expletive\" in brackets in both the city and county transcripts. I'm confident we analyzed the data we have effectively. We can't account for transcript quality, tho."
+	},
+	{
 		"created_at": "Fri Apr 19 19:06:15 +0000 2019",
 		"id": 1119316294430445600,
 		"id_str": "1119316294430445569",
