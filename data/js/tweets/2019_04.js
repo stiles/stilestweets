@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 23:00:12 +0000 2019",
+		"id": 1119375171150696400,
+		"id_str": "1119375171150696448",
+		"full_text": "How living on the wrong side of a time zone can be hazardous to your health, @_cingraham reports: https://t.co/XecnnWaWw1 https://t.co/3EX6RKq2GU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_cingraham",
+					"name": "Christopher Ingraham",
+					"id": 452521774,
+					"id_str": "452521774",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XecnnWaWw1",
+					"expanded_url": "https://wapo.st/2UqEZyB",
+					"display_url": "wapo.st/2UqEZyB",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119375008491380700,
+					"id_str": "1119375008491380736",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D4jRo7eUIAAz0YW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4jRo7eUIAAz0YW.jpg",
+					"url": "https://t.co/3EX6RKq2GU",
+					"display_url": "pic.twitter.com/3EX6RKq2GU",
+					"expanded_url": "https://twitter.com/stiles/status/1119375171150696448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1484,
+							"h": 1203,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 973,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119375008491380700,
+					"id_str": "1119375008491380736",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/D4jRo7eUIAAz0YW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4jRo7eUIAAz0YW.jpg",
+					"url": "https://t.co/3EX6RKq2GU",
+					"display_url": "pic.twitter.com/3EX6RKq2GU",
+					"expanded_url": "https://twitter.com/stiles/status/1119375171150696448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1484,
+							"h": 1203,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 973,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10642,
+			"friends_count": 1536,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13505,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How living on the wrong side of a time zone can be hazardous to your health, @_cingraham reports: https://t.co/XecnnWaWw1 https://t.co/3EX6RKq2GU"
+	},
+	{
 		"created_at": "Fri Apr 19 22:08:45 +0000 2019",
 		"id": 1119362221568475100,
 		"id_str": "1119362221568475136",
