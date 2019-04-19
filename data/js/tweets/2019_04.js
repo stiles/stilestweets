@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 22:08:45 +0000 2019",
+		"id": 1119362221568475100,
+		"id_str": "1119362221568475136",
+		"full_text": "I hope @vicjkim is on this. https://t.co/Ua6qWoZkag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vicjkim",
+					"name": "Victoria Kim",
+					"id": 54643600,
+					"id_str": "54643600",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ua6qWoZkag",
+					"expanded_url": "https://twitter.com/TheOnion/status/1118946576448225281",
+					"display_url": "twitter.com/TheOnion/statu…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10642,
+			"friends_count": 1536,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13503,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118946576448225300,
+		"quoted_status_id_str": "1118946576448225281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ua6qWoZkag",
+			"expanded": "https://twitter.com/TheOnion/status/1118946576448225281",
+			"display": "twitter.com/TheOnion/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 18:37:07 +0000 2019",
+			"id": 1118946576448225300,
+			"id_str": "1118946576448225281",
+			"full_text": "North Korea Tests Out New Knife In Smaller Escalation Of Threats To U.S. https://t.co/2ZJILVixFG https://t.co/p9QZWdako8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2ZJILVixFG",
+						"expanded_url": "https://trib.al/yROkxNg",
+						"display_url": "trib.al/yROkxNg",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1118946574665699300,
+						"id_str": "1118946574665699328",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/D4dL-zGW0AAlJX6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4dL-zGW0AAlJX6.jpg",
+						"url": "https://t.co/p9QZWdako8",
+						"display_url": "pic.twitter.com/p9QZWdako8",
+						"expanded_url": "https://twitter.com/TheOnion/status/1118946576448225281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1118946574665699300,
+						"id_str": "1118946574665699328",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/D4dL-zGW0AAlJX6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4dL-zGW0AAlJX6.jpg",
+						"url": "https://t.co/p9QZWdako8",
+						"display_url": "pic.twitter.com/p9QZWdako8",
+						"expanded_url": "https://twitter.com/TheOnion/status/1118946576448225281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14075928,
+				"id_str": "14075928",
+				"name": "The Onion",
+				"screen_name": "TheOnion",
+				"location": "",
+				"description": "America's Finest News Source.",
+				"url": "https://t.co/EIF811CxOS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EIF811CxOS",
+								"expanded_url": "https://www.theonion.com/",
+								"display_url": "theonion.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11120239,
+				"friends_count": 14,
+				"listed_count": 73977,
+				"created_at": "Tue Mar 04 02:48:37 +0000 2008",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 67054,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875392068125769732/yrN-1k0Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875392068125769732/yrN-1k0Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14075928/1529705818",
+				"profile_link_color": "327144",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 156,
+			"favorite_count": 1546,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I hope @vicjkim is on this. https://t.co/Ua6qWoZkag"
+	},
+	{
 		"created_at": "Fri Apr 19 21:07:01 +0000 2019",
 		"id": 1119346689607815200,
 		"id_str": "1119346689607815168",
