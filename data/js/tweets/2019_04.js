@@ -1,6 +1,957 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 21:07:01 +0000 2019",
+		"id": 1119346689607815200,
+		"id_str": "1119346689607815168",
+		"full_text": "The latest image on https://t.co/p3tbRtgvHY is gold. \n\nThanks, @elonmusk. https://t.co/BzwI9A4Tcb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elonmusk",
+					"name": "Elon Musk",
+					"id": 44196397,
+					"id_str": "44196397",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p3tbRtgvHY",
+					"expanded_url": "http://bit.ly/2ZpbXmH",
+					"display_url": "bit.ly/2ZpbXmH",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119346654870532100,
+					"id_str": "1119346654870532096",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/D4i32iAUcAAw0sh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4i32iAUcAAw0sh.jpg",
+					"url": "https://t.co/BzwI9A4Tcb",
+					"display_url": "pic.twitter.com/BzwI9A4Tcb",
+					"expanded_url": "https://twitter.com/stiles/status/1119346689607815168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1049,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119346654870532100,
+					"id_str": "1119346654870532096",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/D4i32iAUcAAw0sh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4i32iAUcAAw0sh.jpg",
+					"url": "https://t.co/BzwI9A4Tcb",
+					"display_url": "pic.twitter.com/BzwI9A4Tcb",
+					"expanded_url": "https://twitter.com/stiles/status/1119346689607815168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1049,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10643,
+			"friends_count": 1536,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13502,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The latest image on https://t.co/p3tbRtgvHY is gold. \n\nThanks, @elonmusk. https://t.co/BzwI9A4Tcb"
+	},
+	{
+		"created_at": "Fri Apr 19 21:01:58 +0000 2019",
+		"id": 1119329326317670400,
+		"id_str": "1119345417638924288",
+		"full_text": "Six years ago, U.S. District Judge Dean Pregerson said L.A. officials should expect speakers to \"sometimes\" use offensive language at public meetings. Since then, the N-word &amp; other slurs have become commonplace https://t.co/4CrmmKvrQn @stiles",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						240,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4CrmmKvrQn",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-city-county-meetings-expletive-curse-racial-slur-language-20190419-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 714617040,
+			"id_str": "714617040",
+			"name": "David Zahniser 🦅",
+			"screen_name": "DavidZahniser",
+			"location": "Los Angeles, CA",
+			"description": "L.A. Times reporter covering City Hall, local government and other L.A.-related things. Ex-L.A. Weekly, Ex-Daily Breeze, ex cetera",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5453,
+			"friends_count": 886,
+			"listed_count": 208,
+			"created_at": "Tue Jul 24 17:11:43 +0000 2012",
+			"favourites_count": 1079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7816,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903054701297631234/U8OYnEiu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903054701297631234/U8OYnEiu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714617040/1504939172",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Six years ago, U.S. District Judge Dean Pregerson said L.A. officials should expect speakers to \"sometimes\" use offensive language at public meetings. Since then, the N-word &amp; other slurs have become commonplace https://t.co/4CrmmKvrQn @stiles"
+	},
+	{
+		"created_at": "Fri Apr 19 20:58:30 +0000 2019",
+		"id": 1119344545102045200,
+		"id_str": "1119344545102045184",
+		"full_text": "\"The members of Joy Division were driven to create something of immense beauty, as if there were no other choice.\" https://t.co/6OtOZgyQmJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6OtOZgyQmJ",
+					"expanded_url": "https://www.latimes.com/books/la-ca-jc-jon-savage-joy-division-henry-rollins-20190420-story.html",
+					"display_url": "latimes.com/books/la-ca-jc…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10643,
+			"friends_count": 1536,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13502,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The members of Joy Division were driven to create something of immense beauty, as if there were no other choice.\" https://t.co/6OtOZgyQmJ"
+	},
+	{
+		"created_at": "Fri Apr 19 20:47:37 +0000 2019",
+		"id": 1119341804447391700,
+		"id_str": "1119341804447391745",
+		"full_text": "@ronrodgers The supervisor said what sounded like \"gauntlet,\" though I get your point. I guess it would depend on her meaning. (@SheilaKuehl?). Here's @latimes style on the word: https://t.co/gOIJPaXBKO",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ronrodgers",
+					"name": "Ronald R. Rodgers",
+					"id": 16262497,
+					"id_str": "16262497",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						151,
+						159
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119340917217906700,
+					"id_str": "1119340917217906688",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D4iyojlVUAAr7aA.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4iyojlVUAAr7aA.png",
+					"url": "https://t.co/gOIJPaXBKO",
+					"display_url": "pic.twitter.com/gOIJPaXBKO",
+					"expanded_url": "https://twitter.com/stiles/status/1119341804447391745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 305,
+							"h": 162,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 305,
+							"h": 162,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 305,
+							"h": 162,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119340917217906700,
+					"id_str": "1119340917217906688",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D4iyojlVUAAr7aA.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4iyojlVUAAr7aA.png",
+					"url": "https://t.co/gOIJPaXBKO",
+					"display_url": "pic.twitter.com/gOIJPaXBKO",
+					"expanded_url": "https://twitter.com/stiles/status/1119341804447391745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 305,
+							"h": 162,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 305,
+							"h": 162,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 305,
+							"h": 162,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1119334996613976000,
+		"in_reply_to_status_id_str": "1119334996613976065",
+		"in_reply_to_user_id": 16262497,
+		"in_reply_to_user_id_str": "16262497",
+		"in_reply_to_screen_name": "ronrodgers",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10643,
+			"friends_count": 1536,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13502,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ronrodgers The supervisor said what sounded like \"gauntlet,\" though I get your point. I guess it would depend on her meaning. (@SheilaKuehl?). Here's @latimes style on the word: https://t.co/gOIJPaXBKO"
+	},
+	{
+		"created_at": "Fri Apr 19 20:41:09 +0000 2019",
+		"id": 1119340178525417500,
+		"id_str": "1119340178525417472",
+		"full_text": "@MommieEki @latimes @CountyofLA I don't, normally. I explained here: https://t.co/jFk3i0kr5o",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MommieEki",
+					"name": "Mommie",
+					"id": 77122841,
+					"id_str": "77122841",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jFk3i0kr5o",
+					"expanded_url": "https://twitter.com/stiles/status/1119280366781472770",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1119337887944699900,
+		"in_reply_to_status_id_str": "1119337887944699904",
+		"in_reply_to_user_id": 77122841,
+		"in_reply_to_user_id_str": "77122841",
+		"in_reply_to_screen_name": "MommieEki",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10643,
+			"friends_count": 1536,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13502,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119280366781472800,
+		"quoted_status_id_str": "1119280366781472770",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jFk3i0kr5o",
+			"expanded": "https://twitter.com/stiles/status/1119280366781472770",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 19 16:43:29 +0000 2019",
+			"id": 1119280366781472800,
+			"id_str": "1119280366781472770",
+			"full_text": "THREAD: 1) My ears perked up on April 2 at the weekly Board of Supervisors meeting @CountyofLA when I heard an expletive-filled rant by a speaker during public comment. It's not unusual to hear offensive words on occasion at a public meeting — but I sensed something different. https://t.co/kbq8x5zd1o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CountyofLA",
+						"name": "Los Angeles County",
+						"id": 193771633,
+						"id_str": "193771633",
+						"indices": [
+							83,
+							94
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1119280075579351000,
+						"id_str": "1119280075579351040",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D4h7TG0UYAAFaOh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4h7TG0UYAAFaOh.jpg",
+						"url": "https://t.co/kbq8x5zd1o",
+						"display_url": "pic.twitter.com/kbq8x5zd1o",
+						"expanded_url": "https://twitter.com/stiles/status/1119280366781472770/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1164,
+								"h": 502,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 293,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1164,
+								"h": 502,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1119280075579351000,
+						"id_str": "1119280075579351040",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D4h7TG0UYAAFaOh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4h7TG0UYAAFaOh.jpg",
+						"url": "https://t.co/kbq8x5zd1o",
+						"display_url": "pic.twitter.com/kbq8x5zd1o",
+						"expanded_url": "https://twitter.com/stiles/status/1119280366781472770/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1164,
+								"h": 502,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 293,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1164,
+								"h": 502,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles, CA",
+				"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10643,
+				"friends_count": 1536,
+				"listed_count": 874,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 5593,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13502,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MommieEki @latimes @CountyofLA I don't, normally. I explained here: https://t.co/jFk3i0kr5o"
+	},
+	{
 		"created_at": "Fri Apr 19 20:08:18 +0000 2019",
 		"id": 1119331911493509100,
 		"id_str": "1119331911493509120",
