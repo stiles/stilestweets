@@ -1,6 +1,6 @@
 # How to use your Twitter archive
 
-The simplest way to use [https://stiles.github.io/twitter-archive/](your Twitter archive) is through the archive browser interface provided in this file. Just double-click `index.html` from the root folder and you can browse your entire history of Tweets from inside your browser.
+The simplest way to use [your twitter archive](https://stiles.github.io/twitter-archive/) is through the archive browser interface provided in this file. Just double-click `index.html` from the root folder and you can browse your entire history of Tweets from inside your browser.
 
 In the `data` folder, your Twitter archive is present in two formats: JSON and CSV exports by month and year.
 
