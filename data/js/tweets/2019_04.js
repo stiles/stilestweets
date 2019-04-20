@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 13:59:17 +0000 2019",
+		"id": 1119364976475422700,
+		"id_str": "1119601431416152071",
+		"full_text": "In the LAT Asian slack we have agreed to steam and eat the potentially expired frozen dumplings I left in the freezer lastNovember. deeply inspired and proud to work amongst brave journalists like these",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17626551,
+			"id_str": "17626551",
+			"name": "Frank Shyong 熊紹岡",
+			"screen_name": "frankshyong",
+			"location": "Los Angeles, CA",
+			"description": "@latimes columnist writing about the city. Likes Dodgers, old restaurants, & criticizing your city's Chinese food.",
+			"url": "https://t.co/HfXAlF2tFn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HfXAlF2tFn",
+							"expanded_url": "http://www.frankshyong.com",
+							"display_url": "frankshyong.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9033,
+			"friends_count": 4640,
+			"listed_count": 270,
+			"created_at": "Tue Nov 25 18:18:49 +0000 2008",
+			"favourites_count": 6624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7551,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963956534303584256/teGjNY_R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963956534303584256/teGjNY_R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17626551/1512431164",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 346,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In the LAT Asian slack we have agreed to steam and eat the potentially expired frozen dumplings I left in the freezer lastNovember. deeply inspired and proud to work amongst brave journalists like these"
+	},
+	{
 		"created_at": "Sat Apr 20 04:35:53 +0000 2019",
 		"id": 1119459650485678100,
 		"id_str": "1119459650485678081",
