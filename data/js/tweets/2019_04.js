@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 20:53:57 +0000 2019",
+		"id": 1119705788979617800,
+		"id_str": "1119705788979617792",
+		"full_text": "@ericpreven @SupJaniceHahn @MRTempower @SheilaKuehl The meetings are definitely longer this year, in terms of numbers of words uttered ... https://t.co/yMG3aFZbu2",
+		"truncated": false,
+		"display_text_range": [
+			52,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ericpreven",
+					"name": "eric preven",
+					"id": 48035360,
+					"id_str": "48035360",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "MRTempower",
+					"name": "Mark Ridley-Thomas",
+					"id": 474351727,
+					"id_str": "474351727",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						39,
+						51
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119705420723933200,
+					"id_str": "1119705420723933184",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D4n-Jc9UUAA9kiX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4n-Jc9UUAA9kiX.jpg",
+					"url": "https://t.co/yMG3aFZbu2",
+					"display_url": "pic.twitter.com/yMG3aFZbu2",
+					"expanded_url": "https://twitter.com/stiles/status/1119705788979617792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1184,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1184,
+							"h": 724,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119705420723933200,
+					"id_str": "1119705420723933184",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/D4n-Jc9UUAA9kiX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4n-Jc9UUAA9kiX.jpg",
+					"url": "https://t.co/yMG3aFZbu2",
+					"display_url": "pic.twitter.com/yMG3aFZbu2",
+					"expanded_url": "https://twitter.com/stiles/status/1119705788979617792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1184,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1184,
+							"h": 724,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1119695549437898800,
+		"in_reply_to_status_id_str": "1119695549437898752",
+		"in_reply_to_user_id": 48035360,
+		"in_reply_to_user_id_str": "48035360",
+		"in_reply_to_screen_name": "ericpreven",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10646,
+			"friends_count": 1543,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13514,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ericpreven @SupJaniceHahn @MRTempower @SheilaKuehl The meetings are definitely longer this year, in terms of numbers of words uttered ... https://t.co/yMG3aFZbu2"
+	},
+	{
+		"created_at": "Sat Apr 20 20:39:20 +0000 2019",
+		"id": 1119702108624711700,
+		"id_str": "1119702108624711680",
+		"full_text": "@ericpreven @SupJaniceHahn @MRTempower @SheilaKuehl What's the source for this chart?",
+		"truncated": false,
+		"display_text_range": [
+			52,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ericpreven",
+					"name": "eric preven",
+					"id": 48035360,
+					"id_str": "48035360",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "MRTempower",
+					"name": "Mark Ridley-Thomas",
+					"id": 474351727,
+					"id_str": "474351727",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						39,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1119695549437898800,
+		"in_reply_to_status_id_str": "1119695549437898752",
+		"in_reply_to_user_id": 48035360,
+		"in_reply_to_user_id_str": "48035360",
+		"in_reply_to_screen_name": "ericpreven",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10646,
+			"friends_count": 1543,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13514,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555392722",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ericpreven @SupJaniceHahn @MRTempower @SheilaKuehl What's the source for this chart?"
+	},
+	{
 		"created_at": "Sat Apr 20 17:13:37 +0000 2019",
 		"id": 1119650339265884200,
 		"id_str": "1119650339265884160",
