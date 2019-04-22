@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 12:56:03 +0000 2019",
+		"id": 1120089797538635800,
+		"id_str": "1120310293895286786",
+		"full_text": "Please share if you’re in St. Andrews Sq, Larchmont Village, Koreatown, Hancock Park areas of Los Angeles. This thief stole my $500 mountain bike, which was chained to bike rack in secure garage. He got into cars two nights earlier. He’s determined. https://t.co/xUVzotJjO9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120089793059143700,
+					"id_str": "1120089793059143680",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/D4tbu3fUwAAo0je.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4tbu3fUwAAo0je.jpg",
+					"url": "https://t.co/xUVzotJjO9",
+					"display_url": "pic.twitter.com/xUVzotJjO9",
+					"expanded_url": "https://twitter.com/MarkPuente/status/1120089797538635776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120089793059143700,
+					"id_str": "1120089793059143680",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/D4tbu3fUwAAo0je.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4tbu3fUwAAo0je.jpg",
+					"url": "https://t.co/xUVzotJjO9",
+					"display_url": "pic.twitter.com/xUVzotJjO9",
+					"expanded_url": "https://twitter.com/MarkPuente/status/1120089797538635776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1120089793050763300,
+					"id_str": "1120089793050763264",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/D4tbu3dU4AAPWBZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4tbu3dU4AAPWBZ.jpg",
+					"url": "https://t.co/xUVzotJjO9",
+					"display_url": "pic.twitter.com/xUVzotJjO9",
+					"expanded_url": "https://twitter.com/MarkPuente/status/1120089797538635776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1120089793054928900,
+					"id_str": "1120089793054928896",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/D4tbu3eUcAAaauv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4tbu3eUcAAaauv.jpg",
+					"url": "https://t.co/xUVzotJjO9",
+					"display_url": "pic.twitter.com/xUVzotJjO9",
+					"expanded_url": "https://twitter.com/MarkPuente/status/1120089797538635776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1120089793054904300,
+					"id_str": "1120089793054904320",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/D4tbu3eUEAASAp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4tbu3eUEAASAp8.jpg",
+					"url": "https://t.co/xUVzotJjO9",
+					"display_url": "pic.twitter.com/xUVzotJjO9",
+					"expanded_url": "https://twitter.com/MarkPuente/status/1120089797538635776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119945205,
+			"id_str": "119945205",
+			"name": "Mark Puente",
+			"screen_name": "MarkPuente",
+			"location": "Los Angeles, CA",
+			"description": "LAPD reporter at @LATimes | Former investigative reporter: @TB_Times, @baltimoresun, @theplaindealer |Once a trucker & Teamster | BBQ aficionado | Go Tar Heels!",
+			"url": "https://t.co/EvwisqNIA5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EvwisqNIA5",
+							"expanded_url": "https://www.latimes.com/la-bio-mark-puente-staff.html",
+							"display_url": "latimes.com/la-bio-mark-pu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4227,
+			"friends_count": 2457,
+			"listed_count": 254,
+			"created_at": "Fri Mar 05 01:07:56 +0000 2010",
+			"favourites_count": 5689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107681713327505408/c3Bt1MN7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107681713327505408/c3Bt1MN7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119945205/1551670363",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please share if you’re in St. Andrews Sq, Larchmont Village, Koreatown, Hancock Park areas of Los Angeles. This thief stole my $500 mountain bike, which was chained to bike rack in secure garage. He got into cars two nights earlier. He’s determined. https://t.co/xUVzotJjO9"
+	},
+	{
 		"created_at": "Sun Apr 21 21:21:04 +0000 2019",
 		"id": 1120074999044431900,
 		"id_str": "1120074999044431877",
