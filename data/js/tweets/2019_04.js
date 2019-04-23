@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 18:31:36 +0000 2019",
+		"id": 1120757128216469500,
+		"id_str": "1120757128216469504",
+		"full_text": "Strangely opaque memo, especially given this news org's mission. https://t.co/qCRvYeUHuc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qCRvYeUHuc",
+					"expanded_url": "https://twitter.com/team_markup/status/1120736481226571776",
+					"display_url": "twitter.com/team_markup/st…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10649,
+			"friends_count": 1552,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555940068",
+			"profile_link_color": "BD7F7B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120736481226571800,
+		"quoted_status_id_str": "1120736481226571776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qCRvYeUHuc",
+			"expanded": "https://twitter.com/team_markup/status/1120736481226571776",
+			"display": "twitter.com/team_markup/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 23 17:09:34 +0000 2019",
+			"id": 1120736481226571800,
+			"id_str": "1120736481226571776",
+			"full_text": "Some news: https://t.co/ZNbv8Mp6Ll",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				10
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1120736421868736500,
+						"id_str": "1120736421868736514",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/D42n1nhUEAICjak.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D42n1nhUEAICjak.jpg",
+						"url": "https://t.co/ZNbv8Mp6Ll",
+						"display_url": "pic.twitter.com/ZNbv8Mp6Ll",
+						"expanded_url": "https://twitter.com/team_markup/status/1120736481226571776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1119,
+								"h": 1448,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1120736421868736500,
+						"id_str": "1120736421868736514",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/D42n1nhUEAICjak.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D42n1nhUEAICjak.jpg",
+						"url": "https://t.co/ZNbv8Mp6Ll",
+						"display_url": "pic.twitter.com/ZNbv8Mp6Ll",
+						"expanded_url": "https://twitter.com/team_markup/status/1120736481226571776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1119,
+								"h": 1448,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1041785194095816700,
+				"id_str": "1041785194095816704",
+				"name": "The Markup",
+				"screen_name": "team_markup",
+				"location": "New York, NY",
+				"description": "We are a new publication illuminating how powerful institutions are using technology in ways that impact people and society.",
+				"url": "https://t.co/5ao1Dap6N7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5ao1Dap6N7",
+								"expanded_url": "https://themarkup.org",
+								"display_url": "themarkup.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28513,
+				"friends_count": 11,
+				"listed_count": 374,
+				"created_at": "Mon Sep 17 20:25:20 +0000 2018",
+				"favourites_count": 31,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 52,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043999371665317888/5ab1NIiC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043999371665317888/5ab1NIiC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1041785194095816704/1537743877",
+				"profile_link_color": "FF335F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Strangely opaque memo, especially given this news org's mission. https://t.co/qCRvYeUHuc"
+	},
+	{
 		"created_at": "Tue Apr 23 18:08:36 +0000 2019",
 		"id": 1120751339582054400,
 		"id_str": "1120751339582054401",
