@@ -1,6 +1,860 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 03:17:21 +0000 2019",
+		"id": 1120357825111150600,
+		"id_str": "1120527048429191170",
+		"full_text": "We continue to work diligently with our many partners to ensure the best care for our jail population, as well as the safe reentry of those dealing with mental health issues back into our communities. https://t.co/XoXN3rfQ8g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120357816882085900,
+					"id_str": "1120357816882085888",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/D4xPf6CWwAAc_G6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4xPf6CWwAAc_G6.jpg",
+					"url": "https://t.co/XoXN3rfQ8g",
+					"display_url": "pic.twitter.com/XoXN3rfQ8g",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1120357825111150592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 913,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1558,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120357816882085900,
+					"id_str": "1120357816882085888",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/D4xPf6CWwAAc_G6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4xPf6CWwAAc_G6.jpg",
+					"url": "https://t.co/XoXN3rfQ8g",
+					"display_url": "pic.twitter.com/XoXN3rfQ8g",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1120357825111150592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 913,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1558,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067499378175238100,
+			"id_str": "1067499378175238144",
+			"name": "Alex Villanueva",
+			"screen_name": "LACoSheriff",
+			"location": "Los Angeles, CA",
+			"description": "Sheriff, Los Angeles County; Veteran; Doctorate of Public Administration; 30+ years LASD",
+			"url": "https://t.co/rDy4m9WlSL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rDy4m9WlSL",
+							"expanded_url": "https://lasd.org",
+							"display_url": "lasd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2033,
+			"friends_count": 27,
+			"listed_count": 20,
+			"created_at": "Tue Nov 27 19:24:19 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067499378175238144/1543898306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We continue to work diligently with our many partners to ensure the best care for our jail population, as well as the safe reentry of those dealing with mental health issues back into our communities. https://t.co/XoXN3rfQ8g"
+	},
+	{
+		"created_at": "Tue Apr 23 03:15:25 +0000 2019",
+		"id": 1120526561583816700,
+		"id_str": "1120526561583816713",
+		"full_text": "Important: “Also Amanda Cox knows who I am.” https://t.co/Tb7xy9OJ5Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tb7xy9OJ5Q",
+					"expanded_url": "https://twitter.com/stuartathompson/status/1120506249513189379",
+					"display_url": "twitter.com/stuartathompso…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10649,
+			"friends_count": 1552,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13531,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555940068",
+			"profile_link_color": "BD7F7B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120506249513189400,
+		"quoted_status_id_str": "1120506249513189379",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Tb7xy9OJ5Q",
+			"expanded": "https://twitter.com/stuartathompson/status/1120506249513189379",
+			"display": "twitter.com/stuartathompso…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 23 01:54:42 +0000 2019",
+			"id": 1120506249513189400,
+			"id_str": "1120506249513189379",
+			"full_text": "Wow, five years! When the Upshot started, I was still in Canada dreaming of doing more work like this. By June that year, I moved to NYC to work at @WSJ. Three years later I started at @NYT. Now I work with the original Upshot editor, @DLeonhardt. Also Amanda Cox knows who I am. https://t.co/yr2QJWXm2f",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WSJ",
+						"name": "The Wall Street Journal",
+						"id": 3108351,
+						"id_str": "3108351",
+						"indices": [
+							148,
+							152
+						]
+					},
+					{
+						"screen_name": "NYT",
+						"name": "NYT",
+						"id": 1255671,
+						"id_str": "1255671",
+						"indices": [
+							185,
+							189
+						]
+					},
+					{
+						"screen_name": "DLeonhardt",
+						"name": "David Leonhardt",
+						"id": 168295477,
+						"id_str": "168295477",
+						"indices": [
+							235,
+							246
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yr2QJWXm2f",
+						"expanded_url": "https://twitter.com/John_N_Friedman/status/1120490970766872579",
+						"display_url": "twitter.com/John_N_Friedma…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 68727303,
+				"id_str": "68727303",
+				"name": "Stuart A. Thompson",
+				"screen_name": "stuartathompson",
+				"location": "New York, New York",
+				"description": "Visual journalism director @nytopinion. Former graphics director @WSJ. My tweets auto-delete. Visual op-ed pitches: stuart.thompson@nytimes.com",
+				"url": "https://t.co/HV5OyCOmLa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HV5OyCOmLa",
+								"expanded_url": "https://www.nytimes.com/by/stuart-a-thompson",
+								"display_url": "nytimes.com/by/stuart-a-th…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7771,
+				"friends_count": 536,
+				"listed_count": 425,
+				"created_at": "Tue Aug 25 15:53:23 +0000 2009",
+				"favourites_count": 3916,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 45,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054380805773058053/rdq8xvOj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054380805773058053/rdq8xvOj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/68727303/1484843155",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1120490970766872600,
+			"quoted_status_id_str": "1120490970766872579",
+			"quoted_status_permalink": {
+				"url": "https://t.co/yr2QJWXm2f",
+				"expanded": "https://twitter.com/John_N_Friedman/status/1120490970766872579",
+				"display": "twitter.com/John_N_Friedma…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Important: “Also Amanda Cox knows who I am.” https://t.co/Tb7xy9OJ5Q"
+	},
+	{
+		"created_at": "Tue Apr 23 02:49:56 +0000 2019",
+		"id": 1120511944497221600,
+		"id_str": "1120520150606856197",
+		"full_text": "@stiles She broke the cardinal rule: Never speak to anyone without an exit plan.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1120507762000240600,
+		"in_reply_to_status_id_str": "1120507762000240642",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 15679965,
+			"id_str": "15679965",
+			"name": "Bill Dempsey",
+			"screen_name": "mrbilldempsey",
+			"location": "CT",
+			"description": "Shyness is my El Guapo.",
+			"url": "https://t.co/SxmjeL0fOX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SxmjeL0fOX",
+							"expanded_url": "http://mrbilldempsey.com",
+							"display_url": "mrbilldempsey.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328,
+			"friends_count": 1130,
+			"listed_count": 7,
+			"created_at": "Thu Jul 31 20:18:25 +0000 2008",
+			"favourites_count": 8820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19458,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928660320935067649/xLEkYAaO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928660320935067649/xLEkYAaO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15679965/1536349183",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@stiles She broke the cardinal rule: Never speak to anyone without an exit plan."
+	},
+	{
+		"created_at": "Tue Apr 23 02:45:47 +0000 2019",
+		"id": 1120519106929877000,
+		"id_str": "1120519106929876992",
+		"full_text": "He’s now going on about another book, “Autobiography of a Yogi.” It’s one of the greatest books every written. Top 10. Maybe top 20.”\n\nI’m going to try to tune this out now.  Thanks for indulging my tweets. I had to document this scene. \n\n3+ hours to LAX.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1120517382055891000,
+		"in_reply_to_status_id_str": "1120517382055890945",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10649,
+			"friends_count": 1552,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13531,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555940068",
+			"profile_link_color": "BD7F7B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "He’s now going on about another book, “Autobiography of a Yogi.” It’s one of the greatest books every written. Top 10. Maybe top 20.”\n\nI’m going to try to tune this out now.  Thanks for indulging my tweets. I had to document this scene. \n\n3+ hours to LAX."
+	},
+	{
+		"created_at": "Tue Apr 23 02:38:56 +0000 2019",
+		"id": 1120517382055891000,
+		"id_str": "1120517382055890945",
+		"full_text": "The crazy talk continues:\n\n“Those beings totally exist!” “Imaging you’re playing a video game, and God is, like, winning.” “This book has golden images of the year 4000.” “His whole existence was to prove he could do that to you.” \n\nScientology? What is happening?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1120515159204737000,
+		"in_reply_to_status_id_str": "1120515159204737026",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10649,
+			"friends_count": 1552,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13531,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555940068",
+			"profile_link_color": "BD7F7B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The crazy talk continues:\n\n“Those beings totally exist!” “Imaging you’re playing a video game, and God is, like, winning.” “This book has golden images of the year 4000.” “His whole existence was to prove he could do that to you.” \n\nScientology? What is happening?"
+	},
+	{
+		"created_at": "Tue Apr 23 02:30:06 +0000 2019",
+		"id": 1120515159204737000,
+		"id_str": "1120515159204737026",
+		"full_text": "“Psychology is crap! Avoid psychology.” “This book also tells you to avoid astrology.” “You should believe in yourself.” \n\nThe poor woman is too polite. She does just enough to encourage him. \n\nI wish I could tell her I’ve been live tweeting her agony.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1120514065816793100,
+		"in_reply_to_status_id_str": "1120514065816793088",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10649,
+			"friends_count": 1552,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13531,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555940068",
+			"profile_link_color": "BD7F7B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“Psychology is crap! Avoid psychology.” “This book also tells you to avoid astrology.” “You should believe in yourself.” \n\nThe poor woman is too polite. She does just enough to encourage him. \n\nI wish I could tell her I’ve been live tweeting her agony."
+	},
+	{
 		"created_at": "Tue Apr 23 02:10:47 +0000 2019",
 		"id": 1120510298664898600,
 		"id_str": "1120510298664898562",
