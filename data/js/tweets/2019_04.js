@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 21:14:47 +0000 2019",
+		"id": 1120798195813011500,
+		"id_str": "1120798195813011456",
+		"full_text": "I'm afraid some of the regular public speakers at the meetings might have read @latimes https://t.co/oeAaIpv4o1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oeAaIpv4o1",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-city-county-meetings-expletive-curse-racial-slur-language-20190419-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1120797970377478100,
+		"in_reply_to_status_id_str": "1120797970377478144",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10650,
+			"friends_count": 1552,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555940068",
+			"profile_link_color": "BD7F7B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm afraid some of the regular public speakers at the meetings might have read @latimes https://t.co/oeAaIpv4o1"
+	},
+	{
 		"created_at": "Tue Apr 23 18:31:36 +0000 2019",
 		"id": 1120757128216469500,
 		"id_str": "1120757128216469504",
