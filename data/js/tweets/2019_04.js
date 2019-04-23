@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 02:10:47 +0000 2019",
+		"id": 1120510298664898600,
+		"id_str": "1120510298664898562",
+		"full_text": "They’re across from me, in the adjacent aisle and middle seats. A man in the window seat is eavesdropping like me and smirking and glancing at me to see if I’m hearing this crazy. “Oh yeah, I’m taking it in,” my eyes are screaming back at him.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1120509369295286300,
+		"in_reply_to_status_id_str": "1120509369295286272",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10649,
+			"friends_count": 1552,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13524,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555940068",
+			"profile_link_color": "BD7F7B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b74cebcb62a1a686",
+			"url": "https://api.twitter.com/1.1/geo/id/b74cebcb62a1a686.json",
+			"place_type": "city",
+			"name": "Elizabeth",
+			"full_name": "Elizabeth, NJ",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.254211,
+							40.634285
+						],
+						[
+							-74.138838,
+							40.634285
+						],
+						[
+							-74.138838,
+							40.690673
+						],
+						[
+							-74.254211,
+							40.690673
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "They’re across from me, in the adjacent aisle and middle seats. A man in the window seat is eavesdropping like me and smirking and glancing at me to see if I’m hearing this crazy. “Oh yeah, I’m taking it in,” my eyes are screaming back at him."
+	},
+	{
+		"created_at": "Tue Apr 23 02:07:06 +0000 2019",
+		"id": 1120509369295286300,
+		"id_str": "1120509369295286272",
+		"full_text": "She looks desperate to make it stop but the cult talk continues. Phrases I’ve heard: “The angels go like, ‘zap!’” “If you purify yourself your eyes will vibrate faster.” “These beings appeared to Benjamin Franklin.” “I the secret to happiness is in here,” tapping on the book.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1120507762000240600,
+		"in_reply_to_status_id_str": "1120507762000240642",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10649,
+			"friends_count": 1552,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13524,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1555940068",
+			"profile_link_color": "BD7F7B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b74cebcb62a1a686",
+			"url": "https://api.twitter.com/1.1/geo/id/b74cebcb62a1a686.json",
+			"place_type": "city",
+			"name": "Elizabeth",
+			"full_name": "Elizabeth, NJ",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.254211,
+							40.634285
+						],
+						[
+							-74.138838,
+							40.634285
+						],
+						[
+							-74.138838,
+							40.690673
+						],
+						[
+							-74.254211,
+							40.690673
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "She looks desperate to make it stop but the cult talk continues. Phrases I’ve heard: “The angels go like, ‘zap!’” “If you purify yourself your eyes will vibrate faster.” “These beings appeared to Benjamin Franklin.” “I the secret to happiness is in here,” tapping on the book."
+	},
+	{
 		"created_at": "Mon Apr 22 23:49:10 +0000 2019",
 		"id": 1120474657294049300,
 		"id_str": "1120474657294049280",
