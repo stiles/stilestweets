@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 24 05:38:47 +0000 2019",
+		"id": 1120821171300257800,
+		"id_str": "1120925031674945536",
+		"full_text": "On Mueller Day last week, I worked with @thomaswilburn @relucasz on a piece about the report's redactions, in which we pulled the doc apart and stitched the pages back together by section. https://t.co/AiRfQQRp1S https://t.co/R1NIw4DgIp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomaswilburn",
+					"name": "Thomas Wilburn",
+					"id": 14924086,
+					"id_str": "14924086",
+					"indices": [
+						40,
+						54
+					]
+				},
+				{
+					"screen_name": "relucasz",
+					"name": "Ryan Lucas",
+					"id": 602199246,
+					"id_str": "602199246",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AiRfQQRp1S",
+					"expanded_url": "https://n.pr/2W3wGuc",
+					"display_url": "n.pr/2W3wGuc",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1120820936423428100,
+					"id_str": "1120820936423428101",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/D430tAxW0AU8bsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D430tAxW0AU8bsI.jpg",
+					"url": "https://t.co/R1NIw4DgIp",
+					"display_url": "pic.twitter.com/R1NIw4DgIp",
+					"expanded_url": "https://twitter.com/alykat/status/1120821171300257792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120820936423428100,
+					"id_str": "1120820936423428101",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/D430tAxW0AU8bsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D430tAxW0AU8bsI.jpg",
+					"url": "https://t.co/R1NIw4DgIp",
+					"display_url": "pic.twitter.com/R1NIw4DgIp",
+					"expanded_url": "https://twitter.com/alykat/status/1120821171300257792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6627892,
+			"id_str": "6627892",
+			"name": "Alyson Hurt",
+			"screen_name": "alykat",
+			"location": "Arlington, Va.",
+			"description": "Graphics editor for @NPR, on the @nprviz team. Married to @pong. Shutterbug. Wanderer. Geek. I use ❤️s as a queue.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4017,
+			"friends_count": 1096,
+			"listed_count": 355,
+			"created_at": "Wed Jun 06 21:27:34 +0000 2007",
+			"favourites_count": 24823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19070,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/28267962/aly-aim_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/28267962/aly-aim_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6627892/1424490809",
+			"profile_link_color": "ABCAC2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On Mueller Day last week, I worked with @thomaswilburn @relucasz on a piece about the report's redactions, in which we pulled the doc apart and stitched the pages back together by section. https://t.co/AiRfQQRp1S https://t.co/R1NIw4DgIp"
+	},
+	{
 		"created_at": "Wed Apr 24 04:19:16 +0000 2019",
 		"id": 1120823894728937500,
 		"id_str": "1120905016657596416",
