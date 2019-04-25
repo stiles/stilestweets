@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 25 01:01:02 +0000 2019",
+		"id": 1121180057198661600,
+		"id_str": "1121217517425319936",
+		"full_text": "We wear jeans with a purpose! Assessor employees take a stand against sexual assault today by rockin' their #denimday best. #DenimDay2019 ☮️👖@PeaceOvrViolnce @SheilaKuehl @LACWGI @LACWomenLeaders @CountyofLA @HildaSolis @SupJaniceHahn https://t.co/bTlpwJrHsj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "denimday",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "DenimDay2019",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeaceOvrViolnce",
+					"name": "Peace Over Violence",
+					"id": 61626870,
+					"id_str": "61626870",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"screen_name": "LACWGI",
+					"name": "Women & Girls Initiative",
+					"id": 935576416443285500,
+					"id_str": "935576416443285504",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"screen_name": "LACWomenLeaders",
+					"name": "LA County Women's Leadership Conference",
+					"id": 831098959,
+					"id_str": "831098959",
+					"indices": [
+						179,
+						195
+					]
+				},
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						196,
+						207
+					]
+				},
+				{
+					"screen_name": "HildaSolis",
+					"name": "Hilda Solis",
+					"id": 2377732207,
+					"id_str": "2377732207",
+					"indices": [
+						208,
+						219
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						220,
+						234
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121180048969437200,
+					"id_str": "1121180048969437184",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D487UHQUEAAQ0fx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D487UHQUEAAQ0fx.jpg",
+					"url": "https://t.co/bTlpwJrHsj",
+					"display_url": "pic.twitter.com/bTlpwJrHsj",
+					"expanded_url": "https://twitter.com/LACAssessor/status/1121180057198661632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1369,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121180048969437200,
+					"id_str": "1121180048969437184",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D487UHQUEAAQ0fx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D487UHQUEAAQ0fx.jpg",
+					"url": "https://t.co/bTlpwJrHsj",
+					"display_url": "pic.twitter.com/bTlpwJrHsj",
+					"expanded_url": "https://twitter.com/LACAssessor/status/1121180057198661632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1369,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121180048965300200,
+					"id_str": "1121180048965300224",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D487UHPU8AAWu3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D487UHPU8AAWu3g.jpg",
+					"url": "https://t.co/bTlpwJrHsj",
+					"display_url": "pic.twitter.com/bTlpwJrHsj",
+					"expanded_url": "https://twitter.com/LACAssessor/status/1121180057198661632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121180048956936200,
+					"id_str": "1121180048956936192",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D487UHNVUAAAW0_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D487UHNVUAAAW0_.jpg",
+					"url": "https://t.co/bTlpwJrHsj",
+					"display_url": "pic.twitter.com/bTlpwJrHsj",
+					"expanded_url": "https://twitter.com/LACAssessor/status/1121180057198661632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1369,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21264229,
+			"id_str": "21264229",
+			"name": "Assessor Jeffrey Prang",
+			"screen_name": "LACAssessor",
+			"location": "Los Angeles, CA",
+			"description": "LA County Office of the Assessor.\nProperty assessment and tax savings programs. We don't collect taxes, but we're here to help with any property issue.",
+			"url": "https://t.co/4Kt16D1gPz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4Kt16D1gPz",
+							"expanded_url": "http://assessor.lacounty.gov/",
+							"display_url": "assessor.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1590,
+			"friends_count": 758,
+			"listed_count": 37,
+			"created_at": "Thu Feb 19 01:33:15 +0000 2009",
+			"favourites_count": 1515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFCFC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059532798921334784/UjPhhn9-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059532798921334784/UjPhhn9-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21264229/1542229458",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We wear jeans with a purpose! Assessor employees take a stand against sexual assault today by rockin' their #denimday best. #DenimDay2019 ☮️👖@PeaceOvrViolnce @SheilaKuehl @LACWGI @LACWomenLeaders @CountyofLA @HildaSolis @SupJaniceHahn https://t.co/bTlpwJrHsj"
+	},
+	{
 		"created_at": "Wed Apr 24 05:38:47 +0000 2019",
 		"id": 1120821171300257800,
 		"id_str": "1120925031674945536",
