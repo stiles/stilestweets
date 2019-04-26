@@ -1,6 +1,1842 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 19:39:56 +0000 2019",
+		"id": 1121861488531009500,
+		"id_str": "1121861488531009536",
+		"full_text": "11. Thanks for indulging my tree interest. Happy Arbor Day! \n\nThe Beverly Hills tree data is all here on @Github: https://t.co/GP08OAEHD2 Along with data from 34 other cities: https://t.co/nn9FXHqSek.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "github",
+					"name": "GitHub",
+					"id": 13334762,
+					"id_str": "13334762",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GP08OAEHD2",
+					"expanded_url": "https://github.com/stiles/data/tree/master/los-angeles-street-trees/beverly-hills",
+					"display_url": "github.com/stiles/data/tr…",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/nn9FXHqSek",
+					"expanded_url": "https://github.com/stiles/data/tree/master/los-angeles-street-trees",
+					"display_url": "github.com/stiles/data/tr…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1121861487159459800,
+		"in_reply_to_status_id_str": "1121861487159459840",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10661,
+			"friends_count": 1554,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+			"profile_link_color": "506DFA",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "11. Thanks for indulging my tree interest. Happy Arbor Day! \n\nThe Beverly Hills tree data is all here on @Github: https://t.co/GP08OAEHD2 Along with data from 34 other cities: https://t.co/nn9FXHqSek."
+	},
+	{
+		"created_at": "Fri Apr 26 19:39:56 +0000 2019",
+		"id": 1121861487159459800,
+		"id_str": "1121861487159459840",
+		"full_text": "10. My favorite distribution map is of the New Zealand Christmas trees, which were planted in large numbers along Elevado Ave, which curves through the middle of the city: https://t.co/qwnslTbxhm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121859930200260600,
+					"id_str": "1121859930200260608",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GlqaNUwAAT601.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GlqaNUwAAT601.jpg",
+					"url": "https://t.co/qwnslTbxhm",
+					"display_url": "pic.twitter.com/qwnslTbxhm",
+					"expanded_url": "https://twitter.com/stiles/status/1121861487159459840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121859930200260600,
+					"id_str": "1121859930200260608",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GlqaNUwAAT601.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GlqaNUwAAT601.jpg",
+					"url": "https://t.co/qwnslTbxhm",
+					"display_url": "pic.twitter.com/qwnslTbxhm",
+					"expanded_url": "https://twitter.com/stiles/status/1121861487159459840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1121861485871808500,
+		"in_reply_to_status_id_str": "1121861485871808512",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10661,
+			"friends_count": 1554,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+			"profile_link_color": "506DFA",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "10. My favorite distribution map is of the New Zealand Christmas trees, which were planted in large numbers along Elevado Ave, which curves through the middle of the city: https://t.co/qwnslTbxhm"
+	},
+	{
+		"created_at": "Fri Apr 26 19:39:56 +0000 2019",
+		"id": 1121861485871808500,
+		"id_str": "1121861485871808512",
+		"full_text": "9. Like with the jacarandas, someone strangely decided to plant most of the camphor trees along a place named North Maple Drive, in the city's central neighborhood — as this heat maps shows: https://t.co/gCp8E8iTd6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121859432525074400,
+					"id_str": "1121859432525074432",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GlNcOUEAABLQp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GlNcOUEAABLQp.jpg",
+					"url": "https://t.co/gCp8E8iTd6",
+					"display_url": "pic.twitter.com/gCp8E8iTd6",
+					"expanded_url": "https://twitter.com/stiles/status/1121861485871808512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121859432525074400,
+					"id_str": "1121859432525074432",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GlNcOUEAABLQp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GlNcOUEAABLQp.jpg",
+					"url": "https://t.co/gCp8E8iTd6",
+					"display_url": "pic.twitter.com/gCp8E8iTd6",
+					"expanded_url": "https://twitter.com/stiles/status/1121861485871808512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1121861483925606400,
+		"in_reply_to_status_id_str": "1121861483925606401",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10661,
+			"friends_count": 1554,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+			"profile_link_color": "506DFA",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "9. Like with the jacarandas, someone strangely decided to plant most of the camphor trees along a place named North Maple Drive, in the city's central neighborhood — as this heat maps shows: https://t.co/gCp8E8iTd6"
+	},
+	{
+		"created_at": "Fri Apr 26 19:39:55 +0000 2019",
+		"id": 1121861483925606400,
+		"id_str": "1121861483925606401",
+		"full_text": "8. London plane trees were planted in the north-south street neighborhoods at the south of the city, forming a distinctive grid. Aleppo pines are in the northern neighborhoods. Indian laurel figs are along all the major roads. https://t.co/IYg9TFvP8V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121858260619812900,
+					"id_str": "1121858260619812864",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GkJOiU4AANgrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GkJOiU4AANgrc.jpg",
+					"url": "https://t.co/IYg9TFvP8V",
+					"display_url": "pic.twitter.com/IYg9TFvP8V",
+					"expanded_url": "https://twitter.com/stiles/status/1121861483925606401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121858260619812900,
+					"id_str": "1121858260619812864",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GkJOiU4AANgrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GkJOiU4AANgrc.jpg",
+					"url": "https://t.co/IYg9TFvP8V",
+					"display_url": "pic.twitter.com/IYg9TFvP8V",
+					"expanded_url": "https://twitter.com/stiles/status/1121861483925606401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121858478782304300,
+					"id_str": "1121858478782304256",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GkV7QUUAArdu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GkV7QUUAArdu3.jpg",
+					"url": "https://t.co/IYg9TFvP8V",
+					"display_url": "pic.twitter.com/IYg9TFvP8V",
+					"expanded_url": "https://twitter.com/stiles/status/1121861483925606401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121858776200466400,
+					"id_str": "1121858776200466432",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GknPOVUAAS9TS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GknPOVUAAS9TS.jpg",
+					"url": "https://t.co/IYg9TFvP8V",
+					"display_url": "pic.twitter.com/IYg9TFvP8V",
+					"expanded_url": "https://twitter.com/stiles/status/1121861483925606401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1121861481904033800,
+		"in_reply_to_status_id_str": "1121861481904033792",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10661,
+			"friends_count": 1554,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+			"profile_link_color": "506DFA",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "8. London plane trees were planted in the north-south street neighborhoods at the south of the city, forming a distinctive grid. Aleppo pines are in the northern neighborhoods. Indian laurel figs are along all the major roads. https://t.co/IYg9TFvP8V"
+	},
+	{
+		"created_at": "Fri Apr 26 19:39:55 +0000 2019",
+		"id": 1121861481904033800,
+		"id_str": "1121861481904033792",
+		"full_text": "7. The jacarandas, which have a distinctive purple flower, should be blooming soon in Beverly Hills . They are clustered on the east side, like all along the oddly named OAKhurst Dr., which has a nice canopy of shade. (There's also a bunch ironically along Palm Drive). https://t.co/kWJDAJBBfi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121857568115019800,
+					"id_str": "1121857568115019776",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Gjg6wUUAAu1h1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Gjg6wUUAAu1h1.jpg",
+					"url": "https://t.co/kWJDAJBBfi",
+					"display_url": "pic.twitter.com/kWJDAJBBfi",
+					"expanded_url": "https://twitter.com/stiles/status/1121861481904033792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121857568115019800,
+					"id_str": "1121857568115019776",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Gjg6wUUAAu1h1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Gjg6wUUAAu1h1.jpg",
+					"url": "https://t.co/kWJDAJBBfi",
+					"display_url": "pic.twitter.com/kWJDAJBBfi",
+					"expanded_url": "https://twitter.com/stiles/status/1121861481904033792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121857746339369000,
+					"id_str": "1121857746339368960",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GjrSsUEAA4hyw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GjrSsUEAA4hyw.jpg",
+					"url": "https://t.co/kWJDAJBBfi",
+					"display_url": "pic.twitter.com/kWJDAJBBfi",
+					"expanded_url": "https://twitter.com/stiles/status/1121861481904033792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1172,
+							"h": 1444,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 974,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1121861479496437800,
+		"in_reply_to_status_id_str": "1121861479496437761",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10661,
+			"friends_count": 1554,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+			"profile_link_color": "506DFA",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "7. The jacarandas, which have a distinctive purple flower, should be blooming soon in Beverly Hills . They are clustered on the east side, like all along the oddly named OAKhurst Dr., which has a nice canopy of shade. (There's also a bunch ironically along Palm Drive). https://t.co/kWJDAJBBfi"
+	},
+	{
+		"created_at": "Fri Apr 26 19:39:54 +0000 2019",
+		"id": 1121861479496437800,
+		"id_str": "1121861479496437761",
+		"full_text": "6. One species that isn't spread out is the Victorian Box. They are almost exclusively planted at Greystone Park's mansion, which has a nice view of the city on clear days. https://t.co/UResUNXYfM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121854317235847200,
+					"id_str": "1121854317235847168",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GgjsSUwAAa-dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GgjsSUwAAa-dz.jpg",
+					"url": "https://t.co/UResUNXYfM",
+					"display_url": "pic.twitter.com/UResUNXYfM",
+					"expanded_url": "https://twitter.com/stiles/status/1121861479496437761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 885,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1972,
+							"h": 1454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121854317235847200,
+					"id_str": "1121854317235847168",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GgjsSUwAAa-dz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GgjsSUwAAa-dz.jpg",
+					"url": "https://t.co/UResUNXYfM",
+					"display_url": "pic.twitter.com/UResUNXYfM",
+					"expanded_url": "https://twitter.com/stiles/status/1121861479496437761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 885,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1972,
+							"h": 1454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121854385112268800,
+					"id_str": "1121854385112268800",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GgnpJUwAARrZg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GgnpJUwAARrZg.jpg",
+					"url": "https://t.co/UResUNXYfM",
+					"display_url": "pic.twitter.com/UResUNXYfM",
+					"expanded_url": "https://twitter.com/stiles/status/1121861479496437761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1121861477474816000,
+		"in_reply_to_status_id_str": "1121861477474816000",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10661,
+			"friends_count": 1554,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+			"profile_link_color": "506DFA",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "6. One species that isn't spread out is the Victorian Box. They are almost exclusively planted at Greystone Park's mansion, which has a nice view of the city on clear days. https://t.co/UResUNXYfM"
+	},
+	{
+		"created_at": "Fri Apr 26 19:39:54 +0000 2019",
+		"id": 1121861477474816000,
+		"id_str": "1121861477474816000",
+		"full_text": "5. Of course, Beverly Hills also has many other species. Southern Magnolias, for one, are quite common. They are spread along well-known corridors, but they are concentrated around a park near La Cienega and Wilshire blvds. https://t.co/3VXmqfcXvB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121851421354119200,
+					"id_str": "1121851421354119168",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Gd7ISUUAAOnQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Gd7ISUUAAOnQf.jpg",
+					"url": "https://t.co/3VXmqfcXvB",
+					"display_url": "pic.twitter.com/3VXmqfcXvB",
+					"expanded_url": "https://twitter.com/stiles/status/1121861477474816000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121851421354119200,
+					"id_str": "1121851421354119168",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Gd7ISUUAAOnQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Gd7ISUUAAOnQf.jpg",
+					"url": "https://t.co/3VXmqfcXvB",
+					"display_url": "pic.twitter.com/3VXmqfcXvB",
+					"expanded_url": "https://twitter.com/stiles/status/1121861477474816000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1121861475499270100,
+		"in_reply_to_status_id_str": "1121861475499270144",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10661,
+			"friends_count": 1554,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+			"profile_link_color": "506DFA",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5. Of course, Beverly Hills also has many other species. Southern Magnolias, for one, are quite common. They are spread along well-known corridors, but they are concentrated around a park near La Cienega and Wilshire blvds. https://t.co/3VXmqfcXvB"
+	},
+	{
+		"created_at": "Fri Apr 26 19:39:53 +0000 2019",
+		"id": 1121861475499270100,
+		"id_str": "1121861475499270144",
+		"full_text": "4. Mexican fan palms can be among the tallest in the city — around 60 feet. Beverly Hills' Greystone Park also has redwoods, which are even taller. This map shows that the city's tallest street trees — higher than 60 feet — are clustered in and around the park. https://t.co/a1UPKY2uSq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121850599945805800,
+					"id_str": "1121850599945805825",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GdLUTUIAEhns4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GdLUTUIAEhns4.jpg",
+					"url": "https://t.co/a1UPKY2uSq",
+					"display_url": "pic.twitter.com/a1UPKY2uSq",
+					"expanded_url": "https://twitter.com/stiles/status/1121861475499270144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121850599945805800,
+					"id_str": "1121850599945805825",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GdLUTUIAEhns4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GdLUTUIAEhns4.jpg",
+					"url": "https://t.co/a1UPKY2uSq",
+					"display_url": "pic.twitter.com/a1UPKY2uSq",
+					"expanded_url": "https://twitter.com/stiles/status/1121861475499270144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1121861474144546800,
+		"in_reply_to_status_id_str": "1121861474144546816",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10661,
+			"friends_count": 1554,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+			"profile_link_color": "506DFA",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4. Mexican fan palms can be among the tallest in the city — around 60 feet. Beverly Hills' Greystone Park also has redwoods, which are even taller. This map shows that the city's tallest street trees — higher than 60 feet — are clustered in and around the park. https://t.co/a1UPKY2uSq"
+	},
+	{
+		"created_at": "Fri Apr 26 19:39:53 +0000 2019",
+		"id": 1121861474144546800,
+		"id_str": "1121861474144546816",
+		"full_text": "3. The Mexican fan palms, which are also common in Los Angeles and Santa Monica, are clustered along Wilshire Blvd and around Will Rogers Memorial Park on Sunset — right in front of the Beverly Hills Hotel. https://t.co/cEyGSx9aSw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121852412153581600,
+					"id_str": "1121852412153581568",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Ge0zTUUAA4fZi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Ge0zTUUAA4fZi.jpg",
+					"url": "https://t.co/cEyGSx9aSw",
+					"display_url": "pic.twitter.com/cEyGSx9aSw",
+					"expanded_url": "https://twitter.com/stiles/status/1121861474144546816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121852412153581600,
+					"id_str": "1121852412153581568",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Ge0zTUUAA4fZi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Ge0zTUUAA4fZi.jpg",
+					"url": "https://t.co/cEyGSx9aSw",
+					"display_url": "pic.twitter.com/cEyGSx9aSw",
+					"expanded_url": "https://twitter.com/stiles/status/1121861474144546816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1121861472961716200,
+		"in_reply_to_status_id_str": "1121861472961716224",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10661,
+			"friends_count": 1554,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+			"profile_link_color": "506DFA",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "3. The Mexican fan palms, which are also common in Los Angeles and Santa Monica, are clustered along Wilshire Blvd and around Will Rogers Memorial Park on Sunset — right in front of the Beverly Hills Hotel. https://t.co/cEyGSx9aSw"
+	},
+	{
+		"created_at": "Fri Apr 26 19:39:52 +0000 2019",
+		"id": 1121861472961716200,
+		"id_str": "1121861472961716224",
+		"full_text": "2. Beverly Hills has a database with 29,000 street trees, and I'm interested in how species distribution varies by neighborhood. About 1 in 10 are Mexican fan palms — the most common species. These are the skinny, tall trees that many people associate with L.A. The top species: https://t.co/OR4LvMsYmc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121848031748350000,
+					"id_str": "1121848031748349952",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Ga11BU4AAHgu6.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5Ga11BU4AAHgu6.png",
+					"url": "https://t.co/OR4LvMsYmc",
+					"display_url": "pic.twitter.com/OR4LvMsYmc",
+					"expanded_url": "https://twitter.com/stiles/status/1121861472961716224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 716,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 716,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121848031748350000,
+					"id_str": "1121848031748349952",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Ga11BU4AAHgu6.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5Ga11BU4AAHgu6.png",
+					"url": "https://t.co/OR4LvMsYmc",
+					"display_url": "pic.twitter.com/OR4LvMsYmc",
+					"expanded_url": "https://twitter.com/stiles/status/1121861472961716224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 716,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 716,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1121861471523049500,
+		"in_reply_to_status_id_str": "1121861471523049472",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10661,
+			"friends_count": 1554,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+			"profile_link_color": "506DFA",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2. Beverly Hills has a database with 29,000 street trees, and I'm interested in how species distribution varies by neighborhood. About 1 in 10 are Mexican fan palms — the most common species. These are the skinny, tall trees that many people associate with L.A. The top species: https://t.co/OR4LvMsYmc"
+	},
+	{
 		"created_at": "Fri Apr 26 17:21:35 +0000 2019",
 		"id": 1121795560158007300,
 		"id_str": "1121826670460067840",
