@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 17:21:35 +0000 2019",
+		"id": 1121795560158007300,
+		"id_str": "1121826670460067840",
+		"full_text": "JOB: WaPo is looking for a UX/product designer for its 2020 live election coverage. https://t.co/2xQpFDhA95",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2xQpFDhA95",
+					"expanded_url": "https://twitter.com/jeremybowers/status/1121515008712749056",
+					"display_url": "twitter.com/jeremybowers/s…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6627892,
+			"id_str": "6627892",
+			"name": "Alyson Hurt",
+			"screen_name": "alykat",
+			"location": "Arlington, Va.",
+			"description": "Graphics editor for @NPR, on the @nprviz team. Married to @pong. Shutterbug. Wanderer. Geek. I use ❤️s as a queue.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4019,
+			"friends_count": 1096,
+			"listed_count": 355,
+			"created_at": "Wed Jun 06 21:27:34 +0000 2007",
+			"favourites_count": 24831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/28267962/aly-aim_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/28267962/aly-aim_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6627892/1424490809",
+			"profile_link_color": "ABCAC2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121515008712749000,
+		"quoted_status_id_str": "1121515008712749056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2xQpFDhA95",
+			"expanded": "https://twitter.com/jeremybowers/status/1121515008712749056",
+			"display": "twitter.com/jeremybowers/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 25 20:43:09 +0000 2019",
+			"id": 1121515008712749000,
+			"id_str": "1121515008712749056",
+			"full_text": "🚨🚨 JOB ALERT 🚨🚨\n\nWe're hiring a product designer to focus on the UX and UI of our election night and other live stuff.\n\nhttps://t.co/5Dt57hR1Oo\n\nYou get to work for the fabulous @katdowns and hang out with my team through 2020 and possibly beyond.\n\nDon't wait! Apply now!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "katdowns",
+						"name": "Kat Downs Mulder",
+						"id": 16332914,
+						"id_str": "16332914",
+						"indices": [
+							178,
+							187
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5Dt57hR1Oo",
+						"expanded_url": "https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Product-Designer_JR-90270727",
+						"display_url": "washpost.wd5.myworkdayjobs.com/en-US/washingt…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8083262,
+				"id_str": "8083262",
+				"name": "Jeremy Bowers",
+				"screen_name": "jeremybowers",
+				"location": "Washington, D.C.",
+				"description": "Director of engineering, @wapoengineering. Adjunct @Duke_DeWitt. Priors: @nytinteractive, @nprviz, @tb_times. #TheSqueezle #TheGiblette @beckybowers",
+				"url": "https://t.co/bJcwfkCU7u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bJcwfkCU7u",
+								"expanded_url": "https://jeremybowers.com/",
+								"display_url": "jeremybowers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12776,
+				"friends_count": 3818,
+				"listed_count": 738,
+				"created_at": "Thu Aug 09 16:00:54 +0000 2007",
+				"favourites_count": 77838,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 66689,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111640752705155072/LeF2cZ6r_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111640752705155072/LeF2cZ6r_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8083262/1553870743",
+				"profile_link_color": "005599",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JOB: WaPo is looking for a UX/product designer for its 2020 live election coverage. https://t.co/2xQpFDhA95"
+	},
+	{
 		"created_at": "Fri Apr 26 13:55:28 +0000 2019",
 		"id": 1121773925262749700,
 		"id_str": "1121774800915951616",
