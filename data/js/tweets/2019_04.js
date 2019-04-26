@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 21:59:03 +0000 2019",
+		"id": 1121882676649132000,
+		"id_str": "1121896496549388288",
+		"full_text": "I’m definitely here for palm tree Twitter.\n\nhttps://t.co/OrzIKFeo0Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OrzIKFeo0Q",
+					"expanded_url": "https://twitter.com/stiles/status/1121861471523049472",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 709313,
+			"id_str": "709313",
+			"name": "Cyrus Farivar",
+			"screen_name": "cfarivar",
+			"location": "Oakland, CA",
+			"description": "\"suh-ROOS\" / Investigative Tech Reporter, @nbcnews / ex-@arstechnica / cyrus.farivar@nbcuni.com / +1-646-872-5369 (Signal/WhatsApp) / Author, HABEAS DATA (2018)",
+			"url": "https://t.co/1ilGNAwGvb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ilGNAwGvb",
+							"expanded_url": "http://cfarivar.org",
+							"display_url": "cfarivar.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23001,
+			"friends_count": 24370,
+			"listed_count": 1307,
+			"created_at": "Fri Jan 26 16:38:14 +0000 2007",
+			"favourites_count": 14093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114647,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940051675116482560/dI-5z8sX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940051675116482560/dI-5z8sX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/709313/1484291429",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121861471523049500,
+		"quoted_status_id_str": "1121861471523049472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OrzIKFeo0Q",
+			"expanded": "https://twitter.com/stiles/status/1121861471523049472",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 19:39:52 +0000 2019",
+			"id": 1121861471523049500,
+			"id_str": "1121861471523049472",
+			"full_text": "It's #ArborDay. Let's talk about trees in Beverly Hills, specifically those planted along the moneyed community's streets. It's these trees that can help define how we perceive a neighborhood, especially given the time Angelenos spend on the road. A THREAD ... https://t.co/PNF37lIvM3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ArborDay",
+						"indices": [
+							5,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1121830592830533600,
+						"id_str": "1121830592830533632",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/D5GK-v_UcAAf-9_.png",
+						"media_url_https": "https://pbs.twimg.com/media/D5GK-v_UcAAf-9_.png",
+						"url": "https://t.co/PNF37lIvM3",
+						"display_url": "pic.twitter.com/PNF37lIvM3",
+						"expanded_url": "https://twitter.com/stiles/status/1121861471523049472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 574,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 652,
+								"h": 773,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 652,
+								"h": 773,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121830592830533600,
+						"id_str": "1121830592830533632",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/D5GK-v_UcAAf-9_.png",
+						"media_url_https": "https://pbs.twimg.com/media/D5GK-v_UcAAf-9_.png",
+						"url": "https://t.co/PNF37lIvM3",
+						"display_url": "pic.twitter.com/PNF37lIvM3",
+						"expanded_url": "https://twitter.com/stiles/status/1121861471523049472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 574,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 652,
+								"h": 773,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 652,
+								"h": 773,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles, CA",
+				"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10661,
+				"friends_count": 1554,
+				"listed_count": 875,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 5654,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13576,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+				"profile_link_color": "506DFA",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m definitely here for palm tree Twitter.\n\nhttps://t.co/OrzIKFeo0Q"
+	},
+	{
 		"created_at": "Fri Apr 26 20:58:50 +0000 2019",
 		"id": 1121881344353521700,
 		"id_str": "1121881344353521664",
