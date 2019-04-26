@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 01:55:44 +0000 2019",
+		"id": 1121579436745338900,
+		"id_str": "1121593671437017088",
+		"full_text": "Shoulda hired @upstatement! https://t.co/qb0oCtIF24",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "upstatement",
+					"name": "Upstatement",
+					"id": 41506199,
+					"id_str": "41506199",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qb0oCtIF24",
+					"expanded_url": "https://twitter.com/allafarce/status/1121174850226147328",
+					"display_url": "twitter.com/allafarce/stat…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 292137997,
+			"id_str": "292137997",
+			"name": "Jared Novack",
+			"screen_name": "jaredNova",
+			"location": "Boston, MA",
+			"description": "Partner at @upstatement, maker of @TimberWP, scholar of @RoboCop",
+			"url": "https://t.co/3TO4RMFgca",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3TO4RMFgca",
+							"expanded_url": "http://jared.uno",
+							"display_url": "jared.uno",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1047,
+			"friends_count": 1066,
+			"listed_count": 51,
+			"created_at": "Tue May 03 04:57:35 +0000 2011",
+			"favourites_count": 3083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2440,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337259289/jaredtv_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337259289/jaredtv_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/292137997/1400037127",
+			"profile_link_color": "4AE0AE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121174850226147300,
+		"quoted_status_id_str": "1121174850226147328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qb0oCtIF24",
+			"expanded": "https://twitter.com/allafarce/status/1121174850226147328",
+			"display": "twitter.com/allafarce/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 24 22:11:29 +0000 2019",
+			"id": 1121174850226147300,
+			"id_str": "1121174850226147328",
+			"full_text": "Hertz has sued Accenture for failing to deliver on a $32 million \"digital transformation\" project.\n\nFollow along as we read the lawsuit's details...\n\nhttps://t.co/Tat6WPLLJC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Tat6WPLLJC",
+						"expanded_url": "https://www.theregister.co.uk/2019/04/23/hertz_accenture_lawsuit/",
+						"display_url": "theregister.co.uk/2019/04/23/her…",
+						"indices": [
+							150,
+							173
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 109090495,
+				"id_str": "109090495",
+				"name": "Dave Guarino",
+				"screen_name": "allafarce",
+				"location": "Oakland, CA",
+				"description": "Pursuing the public good, sometimes with technology. Built https://t.co/UNlkJNBWxN @codeforamerica for 5 years. Engineer & food stamp wonk. Exploring new ideas.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UNlkJNBWxN",
+								"expanded_url": "http://GetCalFresh.org",
+								"display_url": "GetCalFresh.org",
+								"indices": [
+									59,
+									82
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5647,
+				"friends_count": 1844,
+				"listed_count": 255,
+				"created_at": "Wed Jan 27 23:21:42 +0000 2010",
+				"favourites_count": 34182,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25629,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/954221439980376064/7v8pNrfu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/954221439980376064/7v8pNrfu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109090495/1472839761",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1053,
+			"favorite_count": 2014,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shoulda hired @upstatement! https://t.co/qb0oCtIF24"
+	},
+	{
+		"created_at": "Fri Apr 26 01:54:09 +0000 2019",
+		"id": 1121593272986550300,
+		"id_str": "1121593272986550272",
+		"full_text": "Sad story. Lovely map. https://t.co/7rNBYtfA2v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7rNBYtfA2v",
+					"expanded_url": "https://twitter.com/nytgraphics/status/1121399923986063363",
+					"display_url": "twitter.com/nytgraphics/st…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10658,
+			"friends_count": 1554,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556086639",
+			"profile_link_color": "506DFA",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121399923986063400,
+		"quoted_status_id_str": "1121399923986063363",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7rNBYtfA2v",
+			"expanded": "https://twitter.com/nytgraphics/status/1121399923986063363",
+			"display": "twitter.com/nytgraphics/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 25 13:05:51 +0000 2019",
+			"id": 1121399923986063400,
+			"id_str": "1121399923986063363",
+			"full_text": "In today’s print edition: A look at the complex landscape of tensions that have shaped Sri Lanka https://t.co/akX9J0US0x https://t.co/Nkwnue6mVI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/akX9J0US0x",
+						"expanded_url": "https://www.nytimes.com/interactive/2019/04/23/world/asia/sri-lanka-isis-religious-ethnic-tensions-map.html",
+						"display_url": "nytimes.com/interactive/20…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1121399919485567000,
+						"id_str": "1121399919485566978",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/D5ADSQwWwAIV-Yc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5ADSQwWwAIV-Yc.jpg",
+						"url": "https://t.co/Nkwnue6mVI",
+						"display_url": "pic.twitter.com/Nkwnue6mVI",
+						"expanded_url": "https://twitter.com/nytgraphics/status/1121399923986063363/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 655,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1118,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 371,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121399919485567000,
+						"id_str": "1121399919485566978",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/D5ADSQwWwAIV-Yc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5ADSQwWwAIV-Yc.jpg",
+						"url": "https://t.co/Nkwnue6mVI",
+						"display_url": "pic.twitter.com/Nkwnue6mVI",
+						"expanded_url": "https://twitter.com/nytgraphics/status/1121399923986063363/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 655,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1118,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 371,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 86640232,
+				"id_str": "86640232",
+				"name": "NYT Graphics",
+				"screen_name": "nytgraphics",
+				"location": "New York, NY",
+				"description": "The New York Times Graphics Department",
+				"url": "http://t.co/RWXhcxY5rv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RWXhcxY5rv",
+								"expanded_url": "http://www.nytimes.com/",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 145393,
+				"friends_count": 71,
+				"listed_count": 4749,
+				"created_at": "Sun Nov 01 01:48:22 +0000 2009",
+				"favourites_count": 73,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5479,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964525048353775616/InmWAWbL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964525048353775616/InmWAWbL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/86640232/1506726555",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sad story. Lovely map. https://t.co/7rNBYtfA2v"
+	},
+	{
 		"created_at": "Fri Apr 26 00:20:05 +0000 2019",
 		"id": 1121184412585082900,
 		"id_str": "1121569602494967809",
