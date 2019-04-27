@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 18:56:23 +0000 2019",
+		"id": 1122160823860748300,
+		"id_str": "1122212915346432000",
+		"full_text": "So, I took Ralph's list of webpages and fed them into a script.\n\nIt downloaded them all, then parsed out every link to a PDF. \n\nNext, it downloaded each document. \n\nFinally, it counted all their pages.\n\nVoila. Here's the code. Enjoy your Saturday.\n\nhttps://t.co/FnZIeG41Q7 https://t.co/ZhDoKTqeEi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FnZIeG41Q7",
+					"expanded_url": "https://nbviewer.jupyter.org/github/datadesk/hsr-document-analysis/blob/master/notebook.ipynb",
+					"display_url": "nbviewer.jupyter.org/github/datades…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1122160676703653900,
+					"id_str": "1122160676703653888",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1122160676703653888/pu/img/fObzWs_ICOZnAt89.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1122160676703653888/pu/img/fObzWs_ICOZnAt89.jpg",
+					"url": "https://t.co/ZhDoKTqeEi",
+					"display_url": "pic.twitter.com/ZhDoKTqeEi",
+					"expanded_url": "https://twitter.com/palewire/status/1122160823860748291/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1178,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1178,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122160676703653900,
+					"id_str": "1122160676703653888",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1122160676703653888/pu/img/fObzWs_ICOZnAt89.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1122160676703653888/pu/img/fObzWs_ICOZnAt89.jpg",
+					"url": "https://t.co/ZhDoKTqeEi",
+					"display_url": "pic.twitter.com/ZhDoKTqeEi",
+					"expanded_url": "https://twitter.com/palewire/status/1122160823860748291/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1178,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1178,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							589,
+							422
+						],
+						"duration_millis": 9400,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1122160676703653888/pu/vid/1004x720/LITB4K7rQHXil0rN.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1122160676703653888/pu/vid/502x360/_HmN1GLv3TfSCDYM.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1122160676703653888/pu/vid/376x270/qpTOjgUFXOTJj24N.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1122160676703653888/pu/pl/0RZA139qZ_8yZIrT.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1122160493550923800,
+		"in_reply_to_status_id_str": "1122160493550923776",
+		"in_reply_to_user_id": 14559196,
+		"in_reply_to_user_id_str": "14559196",
+		"in_reply_to_screen_name": "palewire",
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+			"url": "https://t.co/kogJ0fJceo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kogJ0fJceo",
+							"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lZvqTdDOmO",
+							"expanded_url": "http://www.californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8956,
+			"friends_count": 3056,
+			"listed_count": 702,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54418,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So, I took Ralph's list of webpages and fed them into a script.\n\nIt downloaded them all, then parsed out every link to a PDF. \n\nNext, it downloaded each document. \n\nFinally, it counted all their pages.\n\nVoila. Here's the code. Enjoy your Saturday.\n\nhttps://t.co/FnZIeG41Q7 https://t.co/ZhDoKTqeEi"
+	},
+	{
 		"created_at": "Sat Apr 27 02:28:49 +0000 2019",
 		"id": 1121964385180610600,
 		"id_str": "1121964385180610560",
