@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 28 15:17:25 +0000 2019",
+		"id": 1122346432961241100,
+		"id_str": "1122520198047604736",
+		"full_text": "My heart 😭\n\n“My memory, hand and tongue don’t work like I wish...But I am going to learn to write before I die.\" -- Running Out of Children, a South Korea School Enrolls Illiterate Grandmothers\nhttps://t.co/Vw5Nrioqf9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vw5Nrioqf9",
+					"expanded_url": "https://www.nytimes.com/2019/04/27/world/asia/south-korea-school-grandmothers.html",
+					"display_url": "nytimes.com/2019/04/27/wor…",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54643600,
+			"id_str": "54643600",
+			"name": "Victoria Kim",
+			"screen_name": "vicjkim",
+			"location": "Los Angeles, CA",
+			"description": "@LATimes Seoul correspondent. Seoul-bred, LA-forged. Formerly K-town, courts, investigations. Reach me at https://t.co/aCqVWMmXQW (at) https://t.co/eTksmynSH7. DMs open.",
+			"url": "https://t.co/oLZaH6LhdI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oLZaH6LhdI",
+							"expanded_url": "http://www.latimes.com/la-bio-victoria-kim-staff.html",
+							"display_url": "latimes.com/la-bio-victori…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aCqVWMmXQW",
+							"expanded_url": "http://victoria.kim",
+							"display_url": "victoria.kim",
+							"indices": [
+								106,
+								129
+							]
+						},
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4960,
+			"friends_count": 1882,
+			"listed_count": 173,
+			"created_at": "Tue Jul 07 19:07:04 +0000 2009",
+			"favourites_count": 2891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2303,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557735738825920512/VzyhVLUB_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557735738825920512/VzyhVLUB_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54643600/1421810039",
+			"profile_link_color": "737CA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My heart 😭\n\n“My memory, hand and tongue don’t work like I wish...But I am going to learn to write before I die.\" -- Running Out of Children, a South Korea School Enrolls Illiterate Grandmothers\nhttps://t.co/Vw5Nrioqf9"
+	},
+	{
 		"created_at": "Sun Apr 28 13:57:17 +0000 2019",
 		"id": 1122500034140860400,
 		"id_str": "1122500034140860416",
