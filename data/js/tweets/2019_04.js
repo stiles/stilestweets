@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 29 02:52:08 +0000 2019",
+		"id": 1122695031213551600,
+		"id_str": "1122695031213551617",
+		"full_text": "The @countyofLA Board of Supervisors is changing its general \"public comment\" routine, it seems. This section is now scheduled at the beginning of the meeting, not at the end. Related to this [expletive] story? Perhaps. \nhttps://t.co/5ts48HM3TX https://t.co/R5vRyR5iRZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						4,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5ts48HM3TX",
+					"expanded_url": "https://lat.ms/2UsaecH",
+					"display_url": "lat.ms/2UsaecH",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1122693990787059700,
+					"id_str": "1122693990787059713",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/D5ScPIBUEAEJyhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5ScPIBUEAEJyhh.jpg",
+					"url": "https://t.co/R5vRyR5iRZ",
+					"display_url": "pic.twitter.com/R5vRyR5iRZ",
+					"expanded_url": "https://twitter.com/stiles/status/1122695031213551617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1044,
+							"h": 922,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1044,
+							"h": 922,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 601,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122693990787059700,
+					"id_str": "1122693990787059713",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/D5ScPIBUEAEJyhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5ScPIBUEAEJyhh.jpg",
+					"url": "https://t.co/R5vRyR5iRZ",
+					"display_url": "pic.twitter.com/R5vRyR5iRZ",
+					"expanded_url": "https://twitter.com/stiles/status/1122695031213551617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1044,
+							"h": 922,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1044,
+							"h": 922,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 601,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1122694041034838000,
+					"id_str": "1122694041034838016",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/D5ScSDNUUAAx_Ok.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5ScSDNUUAAx_Ok.jpg",
+					"url": "https://t.co/R5vRyR5iRZ",
+					"display_url": "pic.twitter.com/R5vRyR5iRZ",
+					"expanded_url": "https://twitter.com/stiles/status/1122695031213551617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 462,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1230,
+							"h": 474,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10662,
+			"friends_count": 1557,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13582,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556461491",
+			"profile_link_color": "8E8AB2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @countyofLA Board of Supervisors is changing its general \"public comment\" routine, it seems. This section is now scheduled at the beginning of the meeting, not at the end. Related to this [expletive] story? Perhaps. \nhttps://t.co/5ts48HM3TX https://t.co/R5vRyR5iRZ"
+	},
+	{
 		"created_at": "Mon Apr 29 02:02:04 +0000 2019",
 		"id": 1122255864507682800,
 		"id_str": "1122682430681280513",
