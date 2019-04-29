@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 29 21:54:18 +0000 2019",
+		"id": 1122982147642445800,
+		"id_str": "1122982465851682816",
+		"full_text": "Rest in sweet heaven, you have paved the way. 🙏🏽 #JohnSingleton https://t.co/sZ8Km6XGEw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JohnSingleton",
+					"indices": [
+						49,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122982143238463500,
+					"id_str": "1122982143238463488",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/D5WiTzjV4AAifKy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5WiTzjV4AAifKy.jpg",
+					"url": "https://t.co/sZ8Km6XGEw",
+					"display_url": "pic.twitter.com/sZ8Km6XGEw",
+					"expanded_url": "https://twitter.com/SharisRhodes/status/1122982147642445830/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122982143238463500,
+					"id_str": "1122982143238463488",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/D5WiTzjV4AAifKy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5WiTzjV4AAifKy.jpg",
+					"url": "https://t.co/sZ8Km6XGEw",
+					"display_url": "pic.twitter.com/sZ8Km6XGEw",
+					"expanded_url": "https://twitter.com/SharisRhodes/status/1122982147642445830/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 902554170430898200,
+			"id_str": "902554170430898178",
+			"name": "Sharis Rhodes",
+			"screen_name": "SharisRhodes",
+			"location": "Los Angeles, CA",
+			"description": "Mother. Educator. The People’s Politician. “Keep your eyes on the prize”",
+			"url": "https://t.co/NnsMsZifzV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NnsMsZifzV",
+							"expanded_url": "Http://www.sharisrhodes.net",
+							"display_url": "sharisrhodes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29,
+			"friends_count": 48,
+			"listed_count": 0,
+			"created_at": "Tue Aug 29 15:30:57 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096989792426815488/CRS6xdyp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096989792426815488/CRS6xdyp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/902554170430898178/1556489709",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rest in sweet heaven, you have paved the way. 🙏🏽 #JohnSingleton https://t.co/sZ8Km6XGEw"
+	},
+	{
 		"created_at": "Mon Apr 29 21:13:24 +0000 2019",
 		"id": 1122972171775569900,
 		"id_str": "1122972171775569920",
