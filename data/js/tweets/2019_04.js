@@ -1,6 +1,662 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 22:11:17 +0000 2019",
+		"id": 1123349129483079700,
+		"id_str": "1123349129483079680",
+		"full_text": "@joemosch @latimes @CountyofLA Such good tunes when the board adjourns. https://t.co/66m4FN4TDu",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joemosch",
+					"name": "Joe Moschella",
+					"id": 18341320,
+					"id_str": "18341320",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123349092430536700,
+					"id_str": "1123349092430536704",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123349092430536704/pu/img/jRt5IVTkRUd5TMyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123349092430536704/pu/img/jRt5IVTkRUd5TMyT.jpg",
+					"url": "https://t.co/66m4FN4TDu",
+					"display_url": "pic.twitter.com/66m4FN4TDu",
+					"expanded_url": "https://twitter.com/stiles/status/1123349129483079680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123349092430536700,
+					"id_str": "1123349092430536704",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1123349092430536704/pu/img/jRt5IVTkRUd5TMyT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1123349092430536704/pu/img/jRt5IVTkRUd5TMyT.jpg",
+					"url": "https://t.co/66m4FN4TDu",
+					"display_url": "pic.twitter.com/66m4FN4TDu",
+					"expanded_url": "https://twitter.com/stiles/status/1123349129483079680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 9867,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1123349092430536704/pu/vid/360x640/6Q6w-IsimE2cTOVl.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1123349092430536704/pu/pl/n-QPIODxBWCbYKyb.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1123349092430536704/pu/vid/320x568/NYPER4GVXPpv-hVx.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1123349092430536704/pu/vid/720x1280/3ihHJ1aGpJ1i5KP7.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1123347830100226000,
+		"in_reply_to_status_id_str": "1123347830100226048",
+		"in_reply_to_user_id": 18341320,
+		"in_reply_to_user_id_str": "18341320",
+		"in_reply_to_screen_name": "joemosch",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10663,
+			"friends_count": 1559,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13607,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556461491",
+			"profile_link_color": "8E8AB2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@joemosch @latimes @CountyofLA Such good tunes when the board adjourns. https://t.co/66m4FN4TDu"
+	},
+	{
+		"created_at": "Tue Apr 30 22:00:04 +0000 2019",
+		"id": 1123285562671001600,
+		"id_str": "1123346303499431936",
+		"full_text": "This @frankshyong piece really hits on why Los Angeles is such a special place -- and filled with so many contradictions: https://t.co/vs7lmyvb37",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankshyong",
+					"name": "Frank Shyong 熊紹岡",
+					"id": 17626551,
+					"id_str": "17626551",
+					"indices": [
+						5,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vs7lmyvb37",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-col1-metro-bus-two-20190429-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20207956,
+			"id_str": "20207956",
+			"name": "Nicole Santa Cruz",
+			"screen_name": "nicolesantacruz",
+			"location": "Los Angeles, Calif.",
+			"description": "@latimeshomicide for @latimes. Interests: crime & justice, Pilates and my dog, Panda. Bear down. Always looking for a good story: nicole.santacruz@latimes.com.",
+			"url": "https://t.co/iB7XPXluhn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iB7XPXluhn",
+							"expanded_url": "http://homicide.latimes.com",
+							"display_url": "homicide.latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3805,
+			"friends_count": 1631,
+			"listed_count": 176,
+			"created_at": "Fri Feb 06 01:12:21 +0000 2009",
+			"favourites_count": 1964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5883,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930949239244390400/-LF-RPJZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930949239244390400/-LF-RPJZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20207956/1489531884",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This @frankshyong piece really hits on why Los Angeles is such a special place -- and filled with so many contradictions: https://t.co/vs7lmyvb37"
+	},
+	{
+		"created_at": "Tue Apr 30 21:59:44 +0000 2019",
+		"id": 1123345797309841400,
+		"id_str": "1123346218929647616",
+		"full_text": "Not something you get to do everyday. I came up to meet the Sheriffs of California during @calsheriffs, and I had the opportunity meet legendary actor, Mr. Clint Eastwood, who interestingly enough, was @LASDHQ’s special guest at our last Rodeo in 1962. https://t.co/9TlseEPpEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "calsheriffs",
+					"name": "CSSA",
+					"id": 499985599,
+					"id_str": "499985599",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"screen_name": "LASDHQ",
+					"name": "LA County Sheriff's",
+					"id": 46470122,
+					"id_str": "46470122",
+					"indices": [
+						202,
+						209
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123345789193875500,
+					"id_str": "1123345789193875457",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/D5btCyTU8AE4OJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5btCyTU8AE4OJ9.jpg",
+					"url": "https://t.co/9TlseEPpEd",
+					"display_url": "pic.twitter.com/9TlseEPpEd",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1123345797309841408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1110,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1819,
+							"h": 1966,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123345789193875500,
+					"id_str": "1123345789193875457",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/D5btCyTU8AE4OJ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5btCyTU8AE4OJ9.jpg",
+					"url": "https://t.co/9TlseEPpEd",
+					"display_url": "pic.twitter.com/9TlseEPpEd",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1123345797309841408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1110,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1819,
+							"h": 1966,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1123345789206405100,
+					"id_str": "1123345789206405120",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/D5btCyWUIAAQoM2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5btCyWUIAAQoM2.jpg",
+					"url": "https://t.co/9TlseEPpEd",
+					"display_url": "pic.twitter.com/9TlseEPpEd",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1123345797309841408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1832,
+							"h": 1374,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1123345789202227200,
+					"id_str": "1123345789202227200",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/D5btCyVUYAA1gbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5btCyVUYAA1gbd.jpg",
+					"url": "https://t.co/9TlseEPpEd",
+					"display_url": "pic.twitter.com/9TlseEPpEd",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1123345797309841408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1609,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 943,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1123345789210640400,
+					"id_str": "1123345789210640384",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/D5btCyXUwAA3Vkc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5btCyXUwAA3Vkc.jpg",
+					"url": "https://t.co/9TlseEPpEd",
+					"display_url": "pic.twitter.com/9TlseEPpEd",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1123345797309841408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067499378175238100,
+			"id_str": "1067499378175238144",
+			"name": "Alex Villanueva",
+			"screen_name": "LACoSheriff",
+			"location": "Los Angeles, CA",
+			"description": "Sheriff, Los Angeles County; Veteran; Doctorate of Public Administration; 30+ years LASD",
+			"url": "https://t.co/rDy4m9WlSL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rDy4m9WlSL",
+							"expanded_url": "https://lasd.org",
+							"display_url": "lasd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2050,
+			"friends_count": 27,
+			"listed_count": 20,
+			"created_at": "Tue Nov 27 19:24:19 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067499378175238144/1543898306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not something you get to do everyday. I came up to meet the Sheriffs of California during @calsheriffs, and I had the opportunity meet legendary actor, Mr. Clint Eastwood, who interestingly enough, was @LASDHQ’s special guest at our last Rodeo in 1962. https://t.co/9TlseEPpEd"
+	},
+	{
 		"created_at": "Tue Apr 30 19:44:05 +0000 2019",
 		"id": 1123312084333125600,
 		"id_str": "1123312084333125633",
