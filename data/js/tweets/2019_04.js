@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 19:11:17 +0000 2019",
+		"id": 1123284352798941200,
+		"id_str": "1123303829817008128",
+		"full_text": "It's no surprise that the cost of housing is making life harder for Angelenos, but I wish @ZevYaroslavsky, who led this survey, would accept some responsibility for his role in making housing so expensive in the first place. https://t.co/b8Jh4upQ0j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZevYaroslavsky",
+					"name": "Zev Yaroslavsky",
+					"id": 89052543,
+					"id_str": "89052543",
+					"indices": [
+						90,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b8Jh4upQ0j",
+					"expanded_url": "https://twitter.com/stiles/status/1123225181353201664",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 531758739,
+			"id_str": "531758739",
+			"name": "Nick Burns",
+			"screen_name": "nkburns3",
+			"location": "Los Angeles, CA",
+			"description": "legalize apartments",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 473,
+			"listed_count": 3,
+			"created_at": "Tue Mar 20 21:54:30 +0000 2012",
+			"favourites_count": 3988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 832,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728385760169074690/X7d3YSIK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728385760169074690/X7d3YSIK_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1123225181353201700,
+		"quoted_status_id_str": "1123225181353201664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b8Jh4upQ0j",
+			"expanded": "https://twitter.com/stiles/status/1123225181353201664",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 30 13:58:46 +0000 2019",
+			"id": 1123225181353201700,
+			"id_str": "1123225181353201664",
+			"full_text": "Read the full report on attitudes about quality of life in Los Angeles County here, by @ZevYaroslavsky, @fm3research, et al.: https://t.co/QI9oANvNzs https://t.co/8tpCwX9oOD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ZevYaroslavsky",
+						"name": "Zev Yaroslavsky",
+						"id": 89052543,
+						"id_str": "89052543",
+						"indices": [
+							87,
+							102
+						]
+					},
+					{
+						"screen_name": "FM3Research",
+						"name": "FM3 Research",
+						"id": 389642521,
+						"id_str": "389642521",
+						"indices": [
+							104,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QI9oANvNzs",
+						"expanded_url": "http://bit.ly/2GRzoxK",
+						"display_url": "bit.ly/2GRzoxK",
+						"indices": [
+							126,
+							149
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1123225167147102200,
+						"id_str": "1123225167147102211",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/D5Z_VqKU8AMRUUa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5Z_VqKU8AMRUUa.jpg",
+						"url": "https://t.co/8tpCwX9oOD",
+						"display_url": "pic.twitter.com/8tpCwX9oOD",
+						"expanded_url": "https://twitter.com/stiles/status/1123225181353201664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1270,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1123225167147102200,
+						"id_str": "1123225167147102211",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/D5Z_VqKU8AMRUUa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5Z_VqKU8AMRUUa.jpg",
+						"url": "https://t.co/8tpCwX9oOD",
+						"display_url": "pic.twitter.com/8tpCwX9oOD",
+						"expanded_url": "https://twitter.com/stiles/status/1123225181353201664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1270,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1123224363006693400,
+			"in_reply_to_status_id_str": "1123224363006693376",
+			"in_reply_to_user_id": 14790314,
+			"in_reply_to_user_id_str": "14790314",
+			"in_reply_to_screen_name": "stiles",
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles, CA",
+				"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10663,
+				"friends_count": 1558,
+				"listed_count": 876,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 5681,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13600,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556461491",
+				"profile_link_color": "8E8AB2",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's no surprise that the cost of housing is making life harder for Angelenos, but I wish @ZevYaroslavsky, who led this survey, would accept some responsibility for his role in making housing so expensive in the first place. https://t.co/b8Jh4upQ0j"
+	},
+	{
+		"created_at": "Tue Apr 30 19:07:47 +0000 2019",
+		"id": 1123302947712987100,
+		"id_str": "1123302947712987136",
+		"full_text": "Forty years ago, a serial killer terrorized Atlanta. Families have been searching for answers ever since. Great story told with verve by @abscribe about a harrowing time for the city. https://t.co/wCEzqEGRC0 https://t.co/a7nbYn8AEQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abscribe",
+					"name": "Audra Burch",
+					"id": 75129245,
+					"id_str": "75129245",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wCEzqEGRC0",
+					"expanded_url": "https://nyti.ms/2IRwifC",
+					"display_url": "nyti.ms/2IRwifC",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1123302795094872000,
+					"id_str": "1123302795094872064",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D5bF8MzVUAAuOCK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5bF8MzVUAAuOCK.jpg",
+					"url": "https://t.co/a7nbYn8AEQ",
+					"display_url": "pic.twitter.com/a7nbYn8AEQ",
+					"expanded_url": "https://twitter.com/stiles/status/1123302947712987136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123302795094872000,
+					"id_str": "1123302795094872064",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D5bF8MzVUAAuOCK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5bF8MzVUAAuOCK.jpg",
+					"url": "https://t.co/a7nbYn8AEQ",
+					"display_url": "pic.twitter.com/a7nbYn8AEQ",
+					"expanded_url": "https://twitter.com/stiles/status/1123302947712987136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10663,
+			"friends_count": 1558,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556461491",
+			"profile_link_color": "8E8AB2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Forty years ago, a serial killer terrorized Atlanta. Families have been searching for answers ever since. Great story told with verve by @abscribe about a harrowing time for the city. https://t.co/wCEzqEGRC0 https://t.co/a7nbYn8AEQ"
+	},
+	{
 		"created_at": "Tue Apr 30 14:19:39 +0000 2019",
 		"id": 1123227638565179400,
 		"id_str": "1123230436157607937",
