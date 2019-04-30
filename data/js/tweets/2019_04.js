@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 14:19:39 +0000 2019",
+		"id": 1123227638565179400,
+		"id_str": "1123230436157607937",
+		"full_text": "I ❤️LA? Well, we love it less than we used to. https://t.co/WgKIBz0llo @stiles https://t.co/3UoN3lzoJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						71,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WgKIBz0llo",
+					"expanded_url": "https://www.latimes.com/local/countygovernment/la-me-quality-life-housing-cost-of-living-ucla-survey-20190430-story.html",
+					"display_url": "latimes.com/local/countygo…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1123227513881129000,
+					"id_str": "1123227513881128960",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/D5aBeQbUcAAegrM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5aBeQbUcAAegrM.jpg",
+					"url": "https://t.co/3UoN3lzoJZ",
+					"display_url": "pic.twitter.com/3UoN3lzoJZ",
+					"expanded_url": "https://twitter.com/shelbygrad/status/1123227638565179392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1416,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 949,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123227513881129000,
+					"id_str": "1123227513881128960",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/D5aBeQbUcAAegrM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5aBeQbUcAAegrM.jpg",
+					"url": "https://t.co/3UoN3lzoJZ",
+					"display_url": "pic.twitter.com/3UoN3lzoJZ",
+					"expanded_url": "https://twitter.com/shelbygrad/status/1123227638565179392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1416,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 949,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14827461,
+			"id_str": "14827461",
+			"name": "Shelby Grad",
+			"screen_name": "shelbygrad",
+			"location": "🌴Los Angeles💥",
+			"description": "@latimes Assistant Managing Editor overseeing Metro & California.",
+			"url": "https://t.co/emWaPa3SBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emWaPa3SBu",
+							"expanded_url": "http://www.latimes.com/california",
+							"display_url": "latimes.com/california",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12625,
+			"friends_count": 983,
+			"listed_count": 508,
+			"created_at": "Mon May 19 02:25:01 +0000 2008",
+			"favourites_count": 5554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094741407577722880/i1W8qbQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094741407577722880/i1W8qbQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14827461/1556225950",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I ❤️LA? Well, we love it less than we used to. https://t.co/WgKIBz0llo @stiles https://t.co/3UoN3lzoJZ"
+	},
+	{
+		"created_at": "Tue Apr 30 13:58:46 +0000 2019",
+		"id": 1123225181353201700,
+		"id_str": "1123225181353201664",
+		"full_text": "Read the full report on attitudes about quality of life in Los Angeles County here, by @ZevYaroslavsky, @fm3research, et al.: https://t.co/QI9oANvNzs https://t.co/8tpCwX9oOD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZevYaroslavsky",
+					"name": "Zev Yaroslavsky",
+					"id": 89052543,
+					"id_str": "89052543",
+					"indices": [
+						87,
+						102
+					]
+				},
+				{
+					"screen_name": "FM3Research",
+					"name": "FM3 Research",
+					"id": 389642521,
+					"id_str": "389642521",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QI9oANvNzs",
+					"expanded_url": "http://bit.ly/2GRzoxK",
+					"display_url": "bit.ly/2GRzoxK",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1123225167147102200,
+					"id_str": "1123225167147102211",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Z_VqKU8AMRUUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Z_VqKU8AMRUUa.jpg",
+					"url": "https://t.co/8tpCwX9oOD",
+					"display_url": "pic.twitter.com/8tpCwX9oOD",
+					"expanded_url": "https://twitter.com/stiles/status/1123225181353201664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1270,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123225167147102200,
+					"id_str": "1123225167147102211",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Z_VqKU8AMRUUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Z_VqKU8AMRUUa.jpg",
+					"url": "https://t.co/8tpCwX9oOD",
+					"display_url": "pic.twitter.com/8tpCwX9oOD",
+					"expanded_url": "https://twitter.com/stiles/status/1123225181353201664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1270,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1123224363006693400,
+		"in_reply_to_status_id_str": "1123224363006693376",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10660,
+			"friends_count": 1557,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13597,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556461491",
+			"profile_link_color": "8E8AB2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the full report on attitudes about quality of life in Los Angeles County here, by @ZevYaroslavsky, @fm3research, et al.: https://t.co/QI9oANvNzs https://t.co/8tpCwX9oOD"
+	},
+	{
+		"created_at": "Tue Apr 30 13:55:31 +0000 2019",
+		"id": 1123224363006693400,
+		"id_str": "1123224363006693376",
+		"full_text": "Do you still love L.A.? The high cost of housing is testing our affections, poll shows\nhttps://t.co/gVeqEbz0uV https://t.co/ZtRW4Kb4Qa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gVeqEbz0uV",
+					"expanded_url": "https://lat.ms/2GSoYOp",
+					"display_url": "lat.ms/2GSoYOp",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1123224218408087600,
+					"id_str": "1123224218408087552",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Z-eb1UcAAnXjj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Z-eb1UcAAnXjj.jpg",
+					"url": "https://t.co/ZtRW4Kb4Qa",
+					"display_url": "pic.twitter.com/ZtRW4Kb4Qa",
+					"expanded_url": "https://twitter.com/stiles/status/1123224363006693376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123224218408087600,
+					"id_str": "1123224218408087552",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D5Z-eb1UcAAnXjj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5Z-eb1UcAAnXjj.jpg",
+					"url": "https://t.co/ZtRW4Kb4Qa",
+					"display_url": "pic.twitter.com/ZtRW4Kb4Qa",
+					"expanded_url": "https://twitter.com/stiles/status/1123224363006693376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10660,
+			"friends_count": 1557,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13597,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556461491",
+			"profile_link_color": "8E8AB2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you still love L.A.? The high cost of housing is testing our affections, poll shows\nhttps://t.co/gVeqEbz0uV https://t.co/ZtRW4Kb4Qa"
+	},
+	{
 		"created_at": "Mon Apr 29 22:36:38 +0000 2019",
 		"id": 1122993117995528200,
 		"id_str": "1122993117995528192",
