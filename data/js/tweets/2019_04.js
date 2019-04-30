@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 19:44:05 +0000 2019",
+		"id": 1123312084333125600,
+		"id_str": "1123312084333125633",
+		"full_text": "@ericpreven Noted.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ericpreven",
+					"name": "eric preven",
+					"id": 48035360,
+					"id_str": "48035360",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1123311779033935900,
+		"in_reply_to_status_id_str": "1123311779033935872",
+		"in_reply_to_user_id": 48035360,
+		"in_reply_to_user_id_str": "48035360",
+		"in_reply_to_screen_name": "ericpreven",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10663,
+			"friends_count": 1558,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13603,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556461491",
+			"profile_link_color": "8E8AB2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ericpreven Noted."
+	},
+	{
+		"created_at": "Tue Apr 30 19:41:00 +0000 2019",
+		"id": 1123311306864390100,
+		"id_str": "1123311306864390149",
+		"full_text": "I want this kitteh. https://t.co/vj00lhMqVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vj00lhMqVi",
+					"expanded_url": "https://twitter.com/kathrynbarger/status/1123310927355334657",
+					"display_url": "twitter.com/kathrynbarger/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10663,
+			"friends_count": 1558,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13603,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556461491",
+			"profile_link_color": "8E8AB2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1123310927355334700,
+		"quoted_status_id_str": "1123310927355334657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vj00lhMqVi",
+			"expanded": "https://twitter.com/kathrynbarger/status/1123310927355334657",
+			"display": "twitter.com/kathrynbarger/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 30 19:39:29 +0000 2019",
+			"id": 1123310927355334700,
+			"id_str": "1123310927355334657",
+			"full_text": "I have a favor to ask: Can someone please adopt these adorable pets? Otherwise, I'll be too tempted to bring them home myself! \nYou can rescue these two, or choose from hundreds of others, from an animal care center near you. @LACoAnimalCare https://t.co/gIx2x9MkgM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LACoAnimalCare",
+						"name": "LA Co Animal Care",
+						"id": 172419793,
+						"id_str": "172419793",
+						"indices": [
+							226,
+							241
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1123310919407231000,
+						"id_str": "1123310919407230976",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/D5bNVGOV4AAhODQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5bNVGOV4AAhODQ.jpg",
+						"url": "https://t.co/gIx2x9MkgM",
+						"display_url": "pic.twitter.com/gIx2x9MkgM",
+						"expanded_url": "https://twitter.com/kathrynbarger/status/1123310927355334657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1123310919407231000,
+						"id_str": "1123310919407230976",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/D5bNVGOV4AAhODQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5bNVGOV4AAhODQ.jpg",
+						"url": "https://t.co/gIx2x9MkgM",
+						"display_url": "pic.twitter.com/gIx2x9MkgM",
+						"expanded_url": "https://twitter.com/kathrynbarger/status/1123310927355334657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1123310919528865800,
+						"id_str": "1123310919528865793",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/D5bNVGrV4AEjo82.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5bNVGrV4AEjo82.jpg",
+						"url": "https://t.co/gIx2x9MkgM",
+						"display_url": "pic.twitter.com/gIx2x9MkgM",
+						"expanded_url": "https://twitter.com/kathrynbarger/status/1123310927355334657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3165949670,
+				"id_str": "3165949670",
+				"name": "Kathryn Barger",
+				"screen_name": "kathrynbarger",
+				"location": "Los Angeles County",
+				"description": "Los Angeles County Supervisor representing the Fifth District.",
+				"url": "https://t.co/BCmP4YpRwZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BCmP4YpRwZ",
+								"expanded_url": "http://kathrynbarger.lacounty.gov",
+								"display_url": "kathrynbarger.lacounty.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3726,
+				"friends_count": 719,
+				"listed_count": 62,
+				"created_at": "Mon Apr 20 21:37:11 +0000 2015",
+				"favourites_count": 1082,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2417,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857018241754947584/PCDUNXwD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857018241754947584/PCDUNXwD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3165949670/1551217533",
+				"profile_link_color": "BE8D97",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I want this kitteh. https://t.co/vj00lhMqVi"
+	},
+	{
 		"created_at": "Tue Apr 30 19:11:17 +0000 2019",
 		"id": 1123284352798941200,
 		"id_str": "1123303829817008128",
