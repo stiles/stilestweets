@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 01 22:40:22 +0000 2019",
+		"id": 1123717859178418200,
+		"id_str": "1123718833305419776",
+		"full_text": "@brittny_mejia I did a similar Twitter tirade recently, and finally Spectrum responded, informed me you could change your preferences here. https://t.co/v5z0rEKvDL \n\nI haven't gotten a call since.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brittny_mejia",
+					"name": "Brittny Mejia",
+					"id": 555433957,
+					"id_str": "555433957",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v5z0rEKvDL",
+					"expanded_url": "http://bit.ly/2Tj3fDe",
+					"display_url": "bit.ly/2Tj3fDe",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1123699431084314600,
+		"in_reply_to_status_id_str": "1123699431084314625",
+		"in_reply_to_user_id": 555433957,
+		"in_reply_to_user_id_str": "555433957",
+		"in_reply_to_screen_name": "brittny_mejia",
+		"user": {
+			"id": 37735734,
+			"id_str": "37735734",
+			"name": "Stuart Leavenworth",
+			"screen_name": "sleavenworth",
+			"location": "Los Angeles, CA",
+			"description": "California Enterprise Editor, @latimes. I edit Star Trek stories & others that try to go where no one has gone before. Formerly in Sac, Beijing & D",
+			"url": "https://t.co/vdcY2u4ncM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vdcY2u4ncM",
+							"expanded_url": "https://www.latimes.com/la-bio-stuart-leavenworth-staff.html",
+							"display_url": "latimes.com/la-bio-stuart-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5540,
+			"friends_count": 4250,
+			"listed_count": 299,
+			"created_at": "Mon May 04 19:37:10 +0000 2009",
+			"favourites_count": 9984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10646,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/627730765711695872/3rNaU6rj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/627730765711695872/3rNaU6rj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37735734/1556346442",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@brittny_mejia I did a similar Twitter tirade recently, and finally Spectrum responded, informed me you could change your preferences here. https://t.co/v5z0rEKvDL \n\nI haven't gotten a call since."
+	},
+	{
 		"created_at": "Wed May 01 20:00:33 +0000 2019",
 		"id": 1123678615558926300,
 		"id_str": "1123678615558926336",
