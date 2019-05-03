@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 00:59:02 +0000 2019",
+		"id": 1124116120091283500,
+		"id_str": "1124116120091283456",
+		"full_text": "Fair. https://t.co/JrSoTvgH0O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JrSoTvgH0O",
+					"expanded_url": "https://twitter.com/MelendezTMZ/status/1124097050147057664",
+					"display_url": "twitter.com/MelendezTMZ/st…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10670,
+			"friends_count": 1562,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556461491",
+			"profile_link_color": "8E8AB2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124097050147057700,
+		"quoted_status_id_str": "1124097050147057664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JrSoTvgH0O",
+			"expanded": "https://twitter.com/MelendezTMZ/status/1124097050147057664",
+			"display": "twitter.com/MelendezTMZ/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 02 23:43:16 +0000 2019",
+			"id": 1124097050147057700,
+			"id_str": "1124097050147057664",
+			"full_text": "@stiles To be fair, you can find a perfectly good burger in the Beverly Hills area.",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stiles",
+						"name": "Matt Stiles",
+						"id": 14790314,
+						"id_str": "14790314",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1124088372094480400,
+			"in_reply_to_status_id_str": "1124088372094480390",
+			"in_reply_to_user_id": 14790314,
+			"in_reply_to_user_id_str": "14790314",
+			"in_reply_to_screen_name": "stiles",
+			"user": {
+				"id": 19417134,
+				"id_str": "19417134",
+				"name": "Miguel Melendez@TMZ",
+				"screen_name": "MelendezTMZ",
+				"location": "El Segundo, CA",
+				"description": "@TMZ Writer/Producer | Previously @USATODAY | @FOXSports | @NFLNetwork | @OCRegister | @PasStarNews | @LAsBEST Board of Dir. | #UCLA #ITFDB #GKG Made in Mexico",
+				"url": "https://t.co/l8poGdeoUc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l8poGdeoUc",
+								"expanded_url": "http://TMZ.com",
+								"display_url": "TMZ.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2492,
+				"friends_count": 3087,
+				"listed_count": 77,
+				"created_at": "Fri Jan 23 22:13:16 +0000 2009",
+				"favourites_count": 5555,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26527,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DD2E44",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/975883542923157504/CFa_7nSr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/975883542923157504/CFa_7nSr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19417134/1552003770",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Fair. https://t.co/JrSoTvgH0O"
+	},
+	{
 		"created_at": "Thu May 02 23:08:47 +0000 2019",
 		"id": 1124088372094480400,
 		"id_str": "1124088372094480390",
