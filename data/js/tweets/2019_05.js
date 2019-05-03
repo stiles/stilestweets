@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 02:39:17 +0000 2019",
+		"id": 1124141346816585700,
+		"id_str": "1124141346816585729",
+		"full_text": "I’m in Porter Ranch for a community meeting on the big changes coming next spring to voting in @CountyofLA via @LACountyRRCC. @mariluguevara from @lwvlosangeles explaining the process for selecting the new community voting centers. More info: https://t.co/oacbc6TJUW https://t.co/SDZhKWnYB2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"screen_name": "mariluguevara",
+					"name": "Marilú Guevara",
+					"id": 144297464,
+					"id_str": "144297464",
+					"indices": [
+						126,
+						140
+					]
+				},
+				{
+					"screen_name": "lwvlosangeles",
+					"name": "LWV Los Angeles",
+					"id": 161775230,
+					"id_str": "161775230",
+					"indices": [
+						146,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oacbc6TJUW",
+					"expanded_url": "http://vsap.lavote.net",
+					"display_url": "vsap.lavote.net",
+					"indices": [
+						243,
+						266
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1124141322091130900,
+					"id_str": "1124141322091130880",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/D5nAk5SUcAAYKXj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5nAk5SUcAAYKXj.jpg",
+					"url": "https://t.co/SDZhKWnYB2",
+					"display_url": "pic.twitter.com/SDZhKWnYB2",
+					"expanded_url": "https://twitter.com/stiles/status/1124141346816585729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124141322091130900,
+					"id_str": "1124141322091130880",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/D5nAk5SUcAAYKXj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5nAk5SUcAAYKXj.jpg",
+					"url": "https://t.co/SDZhKWnYB2",
+					"display_url": "pic.twitter.com/SDZhKWnYB2",
+					"expanded_url": "https://twitter.com/stiles/status/1124141346816585729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10669,
+			"friends_count": 1562,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5715,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556461491",
+			"profile_link_color": "8E8AB2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m in Porter Ranch for a community meeting on the big changes coming next spring to voting in @CountyofLA via @LACountyRRCC. @mariluguevara from @lwvlosangeles explaining the process for selecting the new community voting centers. More info: https://t.co/oacbc6TJUW https://t.co/SDZhKWnYB2"
+	},
+	{
 		"created_at": "Fri May 03 01:45:32 +0000 2019",
 		"id": 1124127822056792000,
 		"id_str": "1124127822056792064",
