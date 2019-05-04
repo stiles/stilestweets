@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 04:21:54 +0000 2019",
+		"id": 1124529558785384400,
+		"id_str": "1124529558785384457",
+		"full_text": "He's originally from Florida. https://t.co/dxD7kmeeMf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dxD7kmeeMf",
+					"expanded_url": "https://twitter.com/FOXLA/status/1124492750643052544",
+					"display_url": "twitter.com/FOXLA/status/1…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes. Covering the @CountyofLA beat with words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10670,
+			"friends_count": 1564,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13639,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1556461491",
+			"profile_link_color": "8E8AB2",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124492750643052500,
+		"quoted_status_id_str": "1124492750643052544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dxD7kmeeMf",
+			"expanded": "https://twitter.com/FOXLA/status/1124492750643052544",
+			"display": "twitter.com/FOXLA/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 04 01:55:38 +0000 2019",
+			"id": 1124492750643052500,
+			"id_str": "1124492750643052544",
+			"full_text": "A New Jersey teacher who had a sexual relationship with a 14-year-old girl and later impregnated her while he was a Catholic priest will get to keep his job at a middle school. https://t.co/VKbMcYBmlv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VKbMcYBmlv",
+						"expanded_url": "http://bit.ly/2VNqCJo",
+						"display_url": "bit.ly/2VNqCJo",
+						"indices": [
+							177,
+							200
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9648652,
+				"id_str": "9648652",
+				"name": "FOX 11 Los Angeles",
+				"screen_name": "FOXLA",
+				"location": "Los Angeles, CA",
+				"description": "Official FOX 11 Los Angeles account for #LA News. Send news tips to fox11news@foxtv.com, use @FOXLA or call 310-584-2025. Follow @GDLA, too!",
+				"url": "https://t.co/qUiWXZT1DR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qUiWXZT1DR",
+								"expanded_url": "http://www.foxla.com",
+								"display_url": "foxla.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 223416,
+				"friends_count": 16693,
+				"listed_count": 3122,
+				"created_at": "Wed Oct 24 08:04:57 +0000 2007",
+				"favourites_count": 2557,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 158813,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050505",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974081542669533184/cWiTpfYN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974081542669533184/cWiTpfYN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9648652/1527187307",
+				"profile_link_color": "D40000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He's originally from Florida. https://t.co/dxD7kmeeMf"
+	},
+	{
 		"created_at": "Fri May 03 20:25:47 +0000 2019",
 		"id": 1124409740459630600,
 		"id_str": "1124409740459630593",
