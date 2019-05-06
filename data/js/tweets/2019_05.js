@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 00:55:38 +0000 2019",
+		"id": 1125137172774801400,
+		"id_str": "1125202426091335680",
+		"full_text": "Guys I still miss the building https://t.co/dnrsPoj62U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125137167682945000,
+					"id_str": "1125137167682945025",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D51KSvNUwAEzWaD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D51KSvNUwAEzWaD.jpg",
+					"url": "https://t.co/dnrsPoj62U",
+					"display_url": "pic.twitter.com/dnrsPoj62U",
+					"expanded_url": "https://twitter.com/klcpegher/status/1125137172774801409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125137167682945000,
+					"id_str": "1125137167682945025",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D51KSvNUwAEzWaD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D51KSvNUwAEzWaD.jpg",
+					"url": "https://t.co/dnrsPoj62U",
+					"display_url": "pic.twitter.com/dnrsPoj62U",
+					"expanded_url": "https://twitter.com/klcpegher/status/1125137172774801409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87585047,
+			"id_str": "87585047",
+			"name": "Kelcie Pegher",
+			"screen_name": "klcpegher",
+			"location": "Los Angeles, CA",
+			"description": "Digital editor @latimes. I want you to read the news — not picky about the medium. Alum: @cctnews, @capgaznews, @socalnewsgroup. PGH ➡️ DC ➡️ LA",
+			"url": "https://t.co/eTksmyFu5H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmyFu5H",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1393,
+			"friends_count": 1010,
+			"listed_count": 62,
+			"created_at": "Thu Nov 05 01:23:21 +0000 2009",
+			"favourites_count": 6844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E5EBC3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743890723414540289/LRVgfQuQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743890723414540289/LRVgfQuQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87585047/1549943420",
+			"profile_link_color": "4CBFBF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8D2A8",
+			"profile_text_color": "033649",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Guys I still miss the building https://t.co/dnrsPoj62U"
+	},
+	{
 		"created_at": "Sun May 05 16:57:36 +0000 2019",
 		"id": 1125082124439023600,
 		"id_str": "1125082124439023621",
