@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 19:43:02 +0000 2019",
+		"id": 1125485314372276200,
+		"id_str": "1125486144546791425",
+		"full_text": "First day of work at @latimes going pretty well https://t.co/CVr4rJQfen",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125485307099402200,
+					"id_str": "1125485307099402240",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/D56G7HmU0AAQBdm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D56G7HmU0AAQBdm.jpg",
+					"url": "https://t.co/CVr4rJQfen",
+					"display_url": "pic.twitter.com/CVr4rJQfen",
+					"expanded_url": "https://twitter.com/rdmurphy/status/1125485314372276224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125485307099402200,
+					"id_str": "1125485307099402240",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/D56G7HmU0AAQBdm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D56G7HmU0AAQBdm.jpg",
+					"url": "https://t.co/CVr4rJQfen",
+					"display_url": "pic.twitter.com/CVr4rJQfen",
+					"expanded_url": "https://twitter.com/rdmurphy/status/1125485314372276224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20031243,
+			"id_str": "20031243",
+			"name": "Ryan Murphy",
+			"screen_name": "rdmurphy",
+			"location": "Los Angeles, CA",
+			"description": "now @LATdatadesk. always @TexasTribune. probably thinking the text on your site is kinda hard to read. ♦",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3036,
+			"friends_count": 693,
+			"listed_count": 315,
+			"created_at": "Wed Feb 04 06:31:49 +0000 2009",
+			"favourites_count": 5748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20999,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "53394C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850347530453831680/VXdSrLrO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850347530453831680/VXdSrLrO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20031243/1429572252",
+			"profile_link_color": "352430",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "33A650",
+			"profile_text_color": "6080C4",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9d21a78c80006",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9d21a78c80006.json",
+			"place_type": "poi",
+			"name": "Dockweiler State Beach",
+			"full_name": "Dockweiler State Beach",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.4395694732666,
+							33.93623922104493
+						],
+						[
+							-118.4395694732666,
+							33.93623922104493
+						],
+						[
+							-118.4395694732666,
+							33.93623922104493
+						],
+						[
+							-118.4395694732666,
+							33.93623922104493
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First day of work at @latimes going pretty well https://t.co/CVr4rJQfen"
+	},
+	{
 		"created_at": "Mon May 06 18:09:30 +0000 2019",
 		"id": 1125462609178681300,
 		"id_str": "1125462609178681344",
