@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 14:00:30 +0000 2019",
+		"id": 1125737795929149400,
+		"id_str": "1125762334083805189",
+		"full_text": "My new thing begins rolling out today! It's a monthly original video series called Future You w/Elise Hu, which spins off from #elisetries to try...the future. How is emerging science changing what it means to be human?\n\nHere's a season preview... #futurehu https://t.co/7ePTXb2LkU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "elisetries",
+					"indices": [
+						127,
+						138
+					]
+				},
+				{
+					"text": "futurehu",
+					"indices": [
+						248,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125611963289964500,
+					"id_str": "1125611963289964544",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125611963289964544/pu/img/mabVGWGgs71qFpIg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125611963289964544/pu/img/mabVGWGgs71qFpIg.jpg",
+					"url": "https://t.co/7ePTXb2LkU",
+					"display_url": "pic.twitter.com/7ePTXb2LkU",
+					"expanded_url": "https://twitter.com/elisewho/status/1125737795929149440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125611963289964500,
+					"id_str": "1125611963289964544",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1125611963289964544/pu/img/mabVGWGgs71qFpIg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1125611963289964544/pu/img/mabVGWGgs71qFpIg.jpg",
+					"url": "https://t.co/7ePTXb2LkU",
+					"display_url": "pic.twitter.com/7ePTXb2LkU",
+					"expanded_url": "https://twitter.com/elisewho/status/1125737795929149440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49341,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125611963289964544/pu/vid/1280x720/a-bUmbNA3V_WzQC5.mp4?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125611963289964544/pu/vid/320x180/r5khmsA-U9T6jJc3.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1125611963289964544/pu/vid/640x360/8EYJlUI8AbauqwmK.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1125611963289964544/pu/pl/M6WedKaTEwmUCEZ6.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16001350,
+			"id_str": "16001350",
+			"name": "Elise Hu",
+			"screen_name": "elisewho",
+			"location": "California, USA",
+			"description": "LA-based @NPRNews. Ex-expat buro chief in Koreas and Japan. @TexasTribune & #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. IG @elisewho | ehu@npr.org",
+			"url": "https://t.co/5UvjA81oSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5UvjA81oSH",
+							"expanded_url": "http://elisehu.com",
+							"display_url": "elisehu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40150,
+			"friends_count": 1908,
+			"listed_count": 1734,
+			"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+			"favourites_count": 3006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDEDEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1498480092",
+			"profile_link_color": "4E647A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My new thing begins rolling out today! It's a monthly original video series called Future You w/Elise Hu, which spins off from #elisetries to try...the future. How is emerging science changing what it means to be human?\n\nHere's a season preview... #futurehu https://t.co/7ePTXb2LkU"
+	},
+	{
 		"created_at": "Tue May 07 01:37:55 +0000 2019",
 		"id": 1125568623836160000,
 		"id_str": "1125575456114135040",
