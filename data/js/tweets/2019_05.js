@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 15:01:17 +0000 2019",
+		"id": 1125746966397378600,
+		"id_str": "1125777630324596737",
+		"full_text": "Look, @beckybowers is preparing to embarrass me on the internet and I just need you to know whatever she says is not true.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beckybowers",
+					"name": "Becky Bowers",
+					"id": 14283164,
+					"id_str": "14283164",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8083262,
+			"id_str": "8083262",
+			"name": "Jeremy Bowers",
+			"screen_name": "jeremybowers",
+			"location": "Washington, D.C.",
+			"description": "Director of engineering, @wapoengineering. Adjunct @Duke_DeWitt. Priors: @nytinteractive, @nprviz, @tb_times. #TheSqueezle #TheGiblette @beckybowers",
+			"url": "https://t.co/bJcwfkCU7u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bJcwfkCU7u",
+							"expanded_url": "https://jeremybowers.com/",
+							"display_url": "jeremybowers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12840,
+			"friends_count": 3879,
+			"listed_count": 737,
+			"created_at": "Thu Aug 09 16:00:54 +0000 2007",
+			"favourites_count": 78298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 66771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125757420972707841/Oe_4kIhk_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125757420972707841/Oe_4kIhk_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8083262/1557236493",
+			"profile_link_color": "005599",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Look, @beckybowers is preparing to embarrass me on the internet and I just need you to know whatever she says is not true."
+	},
+	{
 		"created_at": "Tue May 07 14:00:30 +0000 2019",
 		"id": 1125737795929149400,
 		"id_str": "1125762334083805189",
