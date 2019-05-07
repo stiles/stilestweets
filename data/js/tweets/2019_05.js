@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 01:37:55 +0000 2019",
+		"id": 1125568623836160000,
+		"id_str": "1125575456114135040",
+		"full_text": "This NEW version of the Mueller report released to me/@BuzzFeedNews in response to our #FOIA lawsuit contains more details about the redactions \n\nhttps://t.co/0TlsJBoqyx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FOIA",
+					"indices": [
+						87,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BuzzFeedNews",
+					"name": "BuzzFeed News",
+					"id": 1020058453,
+					"id_str": "1020058453",
+					"indices": [
+						54,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0TlsJBoqyx",
+					"expanded_url": "https://www.buzzfeed.com/jasonleopold/doj-mueller-report-release-redactions-foia-lawsuit",
+					"display_url": "buzzfeed.com/jasonleopold/d…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17094311,
+			"id_str": "17094311",
+			"name": "Jason Leopold",
+			"screen_name": "JasonLeopold",
+			"location": "City of Angels",
+			"description": "Senior investigative reporter @BuzzFeedNews investigations team. 'FOIA terrorist.' Band Tshirt hoarder. Punk. RISE ABOVE. Signal: 213-270-4334",
+			"url": "https://t.co/tv4WlNoqyA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tv4WlNoqyA",
+							"expanded_url": "https://www.buzzfeednews.com/author/jasonleopold",
+							"display_url": "buzzfeednews.com/author/jasonle…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98730,
+			"friends_count": 3895,
+			"listed_count": 2698,
+			"created_at": "Fri Oct 31 23:36:20 +0000 2008",
+			"favourites_count": 8645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 101354,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080202",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118765016235167749/UwBM4ZPz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118765016235167749/UwBM4ZPz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17094311/1451153551",
+			"profile_link_color": "050202",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FCEEEE",
+			"profile_text_color": "475366",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 240,
+		"favorite_count": 346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This NEW version of the Mueller report released to me/@BuzzFeedNews in response to our #FOIA lawsuit contains more details about the redactions \n\nhttps://t.co/0TlsJBoqyx"
+	},
+	{
+		"created_at": "Tue May 07 01:37:24 +0000 2019",
+		"id": 834932146955513900,
+		"id_str": "1125575326073929729",
+		"full_text": "This must be the ultimate #map projection GIF! Good reminder for all lovers of #Geography #GIS #Cartography. https://t.co/noXVOnqML3 https://t.co/dvsm1HmunN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "map",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "Geography",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "GIS",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "Cartography",
+					"indices": [
+						95,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/noXVOnqML3",
+					"expanded_url": "http://ow.ly/XVvD309eM2y",
+					"display_url": "ow.ly/XVvD309eM2y",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 834932141276422100,
+					"id_str": "834932141276422145",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C5ZGW9xWYAEXIMd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C5ZGW9xWYAEXIMd.jpg",
+					"url": "https://t.co/dvsm1HmunN",
+					"display_url": "pic.twitter.com/dvsm1HmunN",
+					"expanded_url": "https://twitter.com/simongerman600/status/834932146955513857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 834932141276422100,
+					"id_str": "834932141276422145",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C5ZGW9xWYAEXIMd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C5ZGW9xWYAEXIMd.jpg",
+					"url": "https://t.co/dvsm1HmunN",
+					"display_url": "pic.twitter.com/dvsm1HmunN",
+					"expanded_url": "https://twitter.com/simongerman600/status/834932146955513857/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 642,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							400,
+							321
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C5ZGW9xWYAEXIMd.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 359188534,
+			"id_str": "359188534",
+			"name": "Simon Kuestenmacher",
+			"screen_name": "simongerman600",
+			"location": "Melbourne, Victoria",
+			"description": "German #geographer and #demographer in #Melbourne. I love and share #maps and #data that explain how the #world works.",
+			"url": "https://t.co/Y6CYASFSon",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6CYASFSon",
+							"expanded_url": "http://SimonK.com.au",
+							"display_url": "SimonK.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150385,
+			"friends_count": 152195,
+			"listed_count": 2057,
+			"created_at": "Sun Aug 21 04:53:55 +0000 2011",
+			"favourites_count": 43039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109070642798718977/3dhmTNGC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109070642798718977/3dhmTNGC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/359188534/1553338896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This must be the ultimate #map projection GIF! Good reminder for all lovers of #Geography #GIS #Cartography. https://t.co/noXVOnqML3 https://t.co/dvsm1HmunN"
+	},
+	{
 		"created_at": "Tue May 07 01:07:09 +0000 2019",
 		"id": 1125537012365369300,
 		"id_str": "1125567711159783424",
