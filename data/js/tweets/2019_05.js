@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 17:17:20 +0000 2019",
+		"id": 1126174253647257600,
+		"id_str": "1126174253647257600",
+		"full_text": "Lovely tribute. \n\nI remember him as being the master of getting wonky policy stories on page one (which also seemed perfectly timed to find page one space on Saturdays). https://t.co/2MJOqMmVq9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2MJOqMmVq9",
+					"expanded_url": "https://twitter.com/MaggieAstor/status/1126124038454165506",
+					"display_url": "twitter.com/MaggieAstor/st…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10682,
+			"friends_count": 1565,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1557202214",
+			"profile_link_color": "4A696B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126124038454165500,
+		"quoted_status_id_str": "1126124038454165506",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2MJOqMmVq9",
+			"expanded": "https://twitter.com/MaggieAstor/status/1126124038454165506",
+			"display": "twitter.com/MaggieAstor/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 08 13:57:47 +0000 2019",
+			"id": 1126124038454165500,
+			"id_str": "1126124038454165506",
+			"full_text": "There are a handful of bylines I remember from looking at NYT front pages as a little kid. Robert Pear is one of them. Then I got hired as a copy editor at NYT and got to work with him. 1/x https://t.co/aDOGLrIgYY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aDOGLrIgYY",
+						"expanded_url": "https://www.nytimes.com/2019/05/08/obituaries/robert-pear-dead.html",
+						"display_url": "nytimes.com/2019/05/08/obi…",
+						"indices": [
+							190,
+							213
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 326562333,
+				"id_str": "326562333",
+				"name": "Maggie Astor",
+				"screen_name": "MaggieAstor",
+				"location": "New York, N.Y.",
+				"description": "Reporter @NYTimes. I like books, cats, gymnastics, and Oxford commas, but my bosses make me delete them. Not one of those Astors. maggie.astor@nytimes.com",
+				"url": "https://t.co/HhSOBeNa5A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HhSOBeNa5A",
+								"expanded_url": "https://www.nytimes.com/by/maggie-astor",
+								"display_url": "nytimes.com/by/maggie-astor",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7294,
+				"friends_count": 815,
+				"listed_count": 203,
+				"created_at": "Thu Jun 30 03:36:13 +0000 2011",
+				"favourites_count": 1542,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2593,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968762584567615488/pmFo0Sfd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968762584567615488/pmFo0Sfd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/326562333/1547161725",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 238,
+			"favorite_count": 831,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lovely tribute. \n\nI remember him as being the master of getting wonky policy stories on page one (which also seemed perfectly timed to find page one space on Saturdays). https://t.co/2MJOqMmVq9"
+	},
+	{
 		"created_at": "Wed May 08 04:05:45 +0000 2019",
 		"id": 1125972424187699200,
 		"id_str": "1125975045900099586",
