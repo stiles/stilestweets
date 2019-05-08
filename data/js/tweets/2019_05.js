@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 04:05:45 +0000 2019",
+		"id": 1125972424187699200,
+		"id_str": "1125975045900099586",
+		"full_text": "House supports ending red-light cameras in Texas #txlege\nhttps://t.co/peB57KH8of",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "txlege",
+					"indices": [
+						49,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/peB57KH8of",
+					"expanded_url": "https://atxne.ws/2VmQNar",
+					"display_url": "atxne.ws/2VmQNar",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5692542,
+			"id_str": "5692542",
+			"name": "Austin Statesman",
+			"screen_name": "statesman",
+			"location": "Austin, Texas",
+			"description": "Austin news, entertainment and more brought to you by the Austin American-Statesman web desk.",
+			"url": "http://t.co/oqMKMOCG7l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oqMKMOCG7l",
+							"expanded_url": "http://statesman.com",
+							"display_url": "statesman.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296782,
+			"friends_count": 20327,
+			"listed_count": 5156,
+			"created_at": "Tue May 01 19:36:41 +0000 2007",
+			"favourites_count": 612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 144604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6E7B8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/434344911039504385/jm5x8G4F_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/434344911039504385/jm5x8G4F_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5692542/1538804539",
+			"profile_link_color": "8EA7FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "House supports ending red-light cameras in Texas #txlege\nhttps://t.co/peB57KH8of"
+	},
+	{
 		"created_at": "Wed May 08 02:24:17 +0000 2019",
 		"id": 1125790693786562600,
 		"id_str": "1125949510281072640",
