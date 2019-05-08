@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 18:10:14 +0000 2019",
+		"id": 1126149950474088400,
+		"id_str": "1126187566816841728",
+		"full_text": "Kudos to whoever drew this sweet looking Jesus out of the dirt accumulated in the back of this truck on the 605. https://t.co/NsqeNs9Wsj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126149773365366800,
+					"id_str": "1126149773365366784",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126149773365366784/pu/img/s_kGZaR3m9AXyEem.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126149773365366784/pu/img/s_kGZaR3m9AXyEem.jpg",
+					"url": "https://t.co/NsqeNs9Wsj",
+					"display_url": "pic.twitter.com/NsqeNs9Wsj",
+					"expanded_url": "https://twitter.com/hbecerraLATimes/status/1126149950474088450/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126149773365366800,
+					"id_str": "1126149773365366784",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126149773365366784/pu/img/s_kGZaR3m9AXyEem.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126149773365366784/pu/img/s_kGZaR3m9AXyEem.jpg",
+					"url": "https://t.co/NsqeNs9Wsj",
+					"display_url": "pic.twitter.com/NsqeNs9Wsj",
+					"expanded_url": "https://twitter.com/hbecerraLATimes/status/1126149950474088450/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 9700,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126149773365366784/pu/vid/720x1280/U7fVYKz4FUQDQCXZ.mp4?tag=9"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126149773365366784/pu/vid/320x568/kYWX_CmesuQMiKg0.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126149773365366784/pu/vid/360x640/6S9jSfWXIHRA4j2m.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1126149773365366784/pu/pl/3pZzWQH0vx00TxR4.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19074004,
+			"id_str": "19074004",
+			"name": "Hector Becerra",
+			"screen_name": "hbecerraLATimes",
+			"location": "Los Angeles",
+			"description": "City Editor, Los Angeles Times. L.A born and raised. Story tips welcome Hector.becerra@latimes.com Twitter: @hbecerralatimes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4859,
+			"friends_count": 399,
+			"listed_count": 198,
+			"created_at": "Fri Jan 16 16:35:59 +0000 2009",
+			"favourites_count": 4453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094677772071399424/H5sH6_yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094677772071399424/H5sH6_yJ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 310,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kudos to whoever drew this sweet looking Jesus out of the dirt accumulated in the back of this truck on the 605. https://t.co/NsqeNs9Wsj"
+	},
+	{
 		"created_at": "Wed May 08 17:17:20 +0000 2019",
 		"id": 1126174253647257600,
 		"id_str": "1126174253647257600",
