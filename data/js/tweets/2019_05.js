@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 03:49:52 +0000 2019",
+		"id": 1126333438816972800,
+		"id_str": "1126333438816972801",
+		"full_text": "Asian diets have undergone drastic change in the last 50 years. Consumption of animal products increased fivefold in Korea, for example, while rice, millet, and sweet potatoes declined. Fascinating: https://t.co/UWnUHvvems \n\n(via @jsvine's fab newsletter: https://t.co/4bqaYXYwcp) https://t.co/j9XBkADP0f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jsvine",
+					"name": "Jeremy Singer-Vine",
+					"id": 261025036,
+					"id_str": "261025036",
+					"indices": [
+						230,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UWnUHvvems",
+					"expanded_url": "https://on.natgeo.com/2DYox3l",
+					"display_url": "on.natgeo.com/2DYox3l",
+					"indices": [
+						199,
+						222
+					]
+				},
+				{
+					"url": "https://t.co/4bqaYXYwcp",
+					"expanded_url": "http://bit.ly/2DYSaS0",
+					"display_url": "bit.ly/2DYSaS0",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126332734232617000,
+					"id_str": "1126332734232616966",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D6GJp3rUYAYpPaA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6GJp3rUYAYpPaA.jpg",
+					"url": "https://t.co/j9XBkADP0f",
+					"display_url": "pic.twitter.com/j9XBkADP0f",
+					"expanded_url": "https://twitter.com/stiles/status/1126333438816972801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 976,
+							"h": 838,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 976,
+							"h": 838,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126332734232617000,
+					"id_str": "1126332734232616966",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D6GJp3rUYAYpPaA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6GJp3rUYAYpPaA.jpg",
+					"url": "https://t.co/j9XBkADP0f",
+					"display_url": "pic.twitter.com/j9XBkADP0f",
+					"expanded_url": "https://twitter.com/stiles/status/1126333438816972801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 976,
+							"h": 838,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 976,
+							"h": 838,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10680,
+			"friends_count": 1568,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1557202214",
+			"profile_link_color": "4A696B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Asian diets have undergone drastic change in the last 50 years. Consumption of animal products increased fivefold in Korea, for example, while rice, millet, and sweet potatoes declined. Fascinating: https://t.co/UWnUHvvems \n\n(via @jsvine's fab newsletter: https://t.co/4bqaYXYwcp) https://t.co/j9XBkADP0f"
+	},
+	{
 		"created_at": "Thu May 09 03:07:06 +0000 2019",
 		"id": 1126322675486347300,
 		"id_str": "1126322675486347264",
