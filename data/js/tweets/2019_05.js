@@ -1,6 +1,1095 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 01:09:29 +0000 2019",
+		"id": 1126275345626218500,
+		"id_str": "1126293076790501376",
+		"full_text": ".@CountyofLA standing shoulder to shoulder at congressional reception on Capitol Hill. Honored @SupJaniceHahn introduced me as first female CEO of #LACounty Feeling fortunate to fund strategic priorities of our amazing majority female elected Board. @LACWGI https://t.co/DEfmMAnK34",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LACounty",
+					"indices": [
+						147,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"screen_name": "LACWGI",
+					"name": "Women & Girls Initiative",
+					"id": 935576416443285500,
+					"id_str": "935576416443285504",
+					"indices": [
+						250,
+						257
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126275341809356800,
+					"id_str": "1126275341809356800",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/D6FVdMPUEAAfoJ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6FVdMPUEAAfoJ7.jpg",
+					"url": "https://t.co/DEfmMAnK34",
+					"display_url": "pic.twitter.com/DEfmMAnK34",
+					"expanded_url": "https://twitter.com/LACountyCEO/status/1126275345626218501/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 958,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 958,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126275341809356800,
+					"id_str": "1126275341809356800",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/D6FVdMPUEAAfoJ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6FVdMPUEAAfoJ7.jpg",
+					"url": "https://t.co/DEfmMAnK34",
+					"display_url": "pic.twitter.com/DEfmMAnK34",
+					"expanded_url": "https://twitter.com/LACountyCEO/status/1126275345626218501/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 958,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 958,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236576462,
+			"id_str": "236576462",
+			"name": "LA County CEO",
+			"screen_name": "LACountyCEO",
+			"location": "Los Angeles County",
+			"description": "The official Twitter account of @CountyofLA Chief Executive Officer Sachi A. Hamai",
+			"url": "https://t.co/11nXXyInRF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/11nXXyInRF",
+							"expanded_url": "http://ceo.lacounty.gov",
+							"display_url": "ceo.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4413,
+			"friends_count": 670,
+			"listed_count": 141,
+			"created_at": "Mon Jan 10 22:29:06 +0000 2011",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725005013592891392/-ULQrV0V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725005013592891392/-ULQrV0V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236576462/1461690058",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@CountyofLA standing shoulder to shoulder at congressional reception on Capitol Hill. Honored @SupJaniceHahn introduced me as first female CEO of #LACounty Feeling fortunate to fund strategic priorities of our amazing majority female elected Board. @LACWGI https://t.co/DEfmMAnK34"
+	},
+	{
+		"created_at": "Thu May 09 01:08:57 +0000 2019",
+		"id": 1126292943633915900,
+		"id_str": "1126292943633915904",
+		"full_text": "@priyakkumar #centroid",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			22
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "centroid",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "priyakkumar",
+					"name": "Detective Prikachu",
+					"id": 192995488,
+					"id_str": "192995488",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1126267077507993600,
+		"in_reply_to_status_id_str": "1126267077507993600",
+		"in_reply_to_user_id": 192995488,
+		"in_reply_to_user_id_str": "192995488",
+		"in_reply_to_screen_name": "priyakkumar",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10682,
+			"friends_count": 1568,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13678,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1557202214",
+			"profile_link_color": "4A696B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@priyakkumar #centroid"
+	},
+	{
+		"created_at": "Thu May 09 01:06:48 +0000 2019",
+		"id": 1126292402661015600,
+		"id_str": "1126292402661015552",
+		"full_text": "My arms do this when I see  yukgaejang. \n\nI think @jeremybowers has seen this move. https://t.co/tHkQmH6Bza",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeremybowers",
+					"name": "Jeremy Bowers",
+					"id": 8083262,
+					"id_str": "8083262",
+					"indices": [
+						50,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tHkQmH6Bza",
+					"expanded_url": "https://twitter.com/jennargibson/status/1126117008100216832",
+					"display_url": "twitter.com/jennargibson/s…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10682,
+			"friends_count": 1568,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13678,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1557202214",
+			"profile_link_color": "4A696B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126117008100216800,
+		"quoted_status_id_str": "1126117008100216832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tHkQmH6Bza",
+			"expanded": "https://twitter.com/jennargibson/status/1126117008100216832",
+			"display": "twitter.com/jennargibson/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 08 13:29:51 +0000 2019",
+			"id": 1126117008100216800,
+			"id_str": "1126117008100216832",
+			"full_text": "I feel very seen.\n\n\"Foreign tourists in Korea last year say they were most satisfied with their culinary experiences and spent the most on food...the study showed that most foreign tourists spent their time shopping (92.5%) and eating (71.3%).\"\nhttps://t.co/WuKNQZiZ4x https://t.co/CYGowYC8S7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WuKNQZiZ4x",
+						"expanded_url": "http://www.korea.net/NewsFocus/Society/view?articleId=170814&fbclid=IwAR2d2eVyql1_dQaEU4Mo4fQi8SRGNjWItAnsktFs4FzZjMB-Ah36THEjGjo",
+						"display_url": "korea.net/NewsFocus/Soci…",
+						"indices": [
+							245,
+							268
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1126116990903570400,
+						"id_str": "1126116990903570432",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6DFb9JW0AA-18C.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6DFb9JW0AA-18C.jpg",
+						"url": "https://t.co/CYGowYC8S7",
+						"display_url": "pic.twitter.com/CYGowYC8S7",
+						"expanded_url": "https://twitter.com/jennargibson/status/1126117008100216832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 224,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 224,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 224,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1126116990903570400,
+						"id_str": "1126116990903570432",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6DFb9JW0AA-18C.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6DFb9JW0AA-18C.jpg",
+						"url": "https://t.co/CYGowYC8S7",
+						"display_url": "pic.twitter.com/CYGowYC8S7",
+						"expanded_url": "https://twitter.com/jennargibson/status/1126117008100216832/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 224,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 224,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 224,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								14
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D6DFb9JW0AA-18C.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 182974187,
+				"id_str": "182974187",
+				"name": "Jenna Gibson",
+				"screen_name": "jennargibson",
+				"location": "Chicago, IL",
+				"description": "PhD student @ U Chicago & writing on Korea for The Diplomat. Tweeting mostly on Korean politics and k-pop. Alum of Georgetown MSFS, Fulbright Korea, & UNL.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1628,
+				"friends_count": 427,
+				"listed_count": 57,
+				"created_at": "Wed Aug 25 21:18:53 +0000 2010",
+				"favourites_count": 5854,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7747,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842752302293295104/ADTTCmOg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842752302293295104/ADTTCmOg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/182974187/1472779939",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My arms do this when I see  yukgaejang. \n\nI think @jeremybowers has seen this move. https://t.co/tHkQmH6Bza"
+	},
+	{
+		"created_at": "Thu May 09 01:01:46 +0000 2019",
+		"id": 1126291134433488900,
+		"id_str": "1126291134433488897",
+		"full_text": "This is the best thing I read on the Internet today... https://t.co/eXKF9WPsWL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eXKF9WPsWL",
+					"expanded_url": "https://twitter.com/idislikestephen/status/1126232279326568448",
+					"display_url": "twitter.com/idislikestephe…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10682,
+			"friends_count": 1568,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13678,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1557202214",
+			"profile_link_color": "4A696B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126232279326568400,
+		"quoted_status_id_str": "1126232279326568448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eXKF9WPsWL",
+			"expanded": "https://twitter.com/idislikestephen/status/1126232279326568448",
+			"display": "twitter.com/idislikestephe…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 08 21:07:54 +0000 2019",
+			"id": 1126232279326568400,
+			"id_str": "1126232279326568448",
+			"full_text": "Just walked over to watch the Sesame Street Band rehearse for a Tiny Desk concert and realized I was staring straight into the vaguely doleful eyes of Grover himself. Under my breath, totally involuntarily, I cooed, \"Hey, buddy.\" This remains the greatest job in the world.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21574303,
+				"id_str": "21574303",
+				"name": "Stephen Thompson",
+				"screen_name": "idislikestephen",
+				"location": "Silver Spring, MD",
+				"description": "NPR Music writer, yakker; Pop Culture Happy Hour panelist; long-ago Onion A.V. Club editor; snack-eater; TV-watcher; dad and multicade owner; nap-taker.",
+				"url": "http://t.co/d77ApzO1BK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/d77ApzO1BK",
+								"expanded_url": "http://n.pr/eYGnYa",
+								"display_url": "n.pr/eYGnYa",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49599,
+				"friends_count": 189,
+				"listed_count": 1411,
+				"created_at": "Sun Feb 22 16:06:33 +0000 2009",
+				"favourites_count": 2279,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6478,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950207605200142336/Xmu4t4wa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950207605200142336/Xmu4t4wa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21574303/1499817432",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 717,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the best thing I read on the Internet today... https://t.co/eXKF9WPsWL"
+	},
+	{
+		"created_at": "Thu May 09 00:30:46 +0000 2019",
+		"id": 1126139010391466000,
+		"id_str": "1126283333443276800",
+		"full_text": "There is a lot of Robert Pear love in my TL. I’ll add just a little: Robert once came by my desk and asked about @sisiwei and @giratikanon’s code camp. Even then, at the top of his game and revered by his coworkers, he was looking for a little edge.\n\nBless you, Robert.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sisiwei",
+					"name": "Sisi Wei",
+					"id": 22426104,
+					"id_str": "22426104",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"screen_name": "giratikanon",
+					"name": "Tom Giratikanon",
+					"id": 15187074,
+					"id_str": "15187074",
+					"indices": [
+						126,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8083262,
+			"id_str": "8083262",
+			"name": "Jeremy Bowers",
+			"screen_name": "jeremybowers",
+			"location": "Washington, D.C.",
+			"description": "Director of engineering, @wapoengineering. Adjunct @Duke_DeWitt. Priors: @nytinteractive, @nprviz, @tb_times. #TheSqueezle #TheGiblette @beckybowers",
+			"url": "https://t.co/bJcwfkCU7u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bJcwfkCU7u",
+							"expanded_url": "https://jeremybowers.com/",
+							"display_url": "jeremybowers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12846,
+			"friends_count": 3885,
+			"listed_count": 737,
+			"created_at": "Thu Aug 09 16:00:54 +0000 2007",
+			"favourites_count": 78402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 66790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126122376477986816/ISbPlu4x_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126122376477986816/ISbPlu4x_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8083262/1557236493",
+			"profile_link_color": "005599",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There is a lot of Robert Pear love in my TL. I’ll add just a little: Robert once came by my desk and asked about @sisiwei and @giratikanon’s code camp. Even then, at the top of his game and revered by his coworkers, he was looking for a little edge.\n\nBless you, Robert."
+	},
+	{
 		"created_at": "Wed May 08 18:10:14 +0000 2019",
 		"id": 1126149950474088400,
 		"id_str": "1126187566816841728",
