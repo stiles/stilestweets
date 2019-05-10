@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 02:55:18 +0000 2019",
+		"id": 1126681467726311400,
+		"id_str": "1126682091712729088",
+		"full_text": "I work hard at listening to voters first about their expectations and their experience rather than relying on other people to talk for or about them. #votersfirst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "votersfirst",
+					"indices": [
+						150,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23175052,
+			"id_str": "23175052",
+			"name": "Dean Logan",
+			"screen_name": "DCLogan",
+			"location": "Whittier, CA - L.A. County",
+			"description": "These are my personal views/shares. For official tweets of the Los Angeles County Registrar-Recorder/County Clerk, please follow @lacountyrrcc.",
+			"url": "http://t.co/VkLKHVYxBl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VkLKHVYxBl",
+							"expanded_url": "http://www.lavote.net",
+							"display_url": "lavote.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1214,
+			"friends_count": 445,
+			"listed_count": 33,
+			"created_at": "Sat Mar 07 07:24:08 +0000 2009",
+			"favourites_count": 2327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/706191961800052736/I4_b8FIg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/706191961800052736/I4_b8FIg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23175052/1357195589",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I work hard at listening to voters first about their expectations and their experience rather than relying on other people to talk for or about them. #votersfirst"
+	},
+	{
 		"created_at": "Thu May 09 13:50:45 +0000 2019",
 		"id": 1126484654779813900,
 		"id_str": "1126484654779813888",
