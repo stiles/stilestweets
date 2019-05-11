@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 19:28:17 +0000 2019",
+		"id": 1127294305087967200,
+		"id_str": "1127294373677256704",
+		"full_text": "What do you want to learn today? With your LA County Library card, you have free access to thousands of instructional videos on Lynda. Learn tech, business skills, photography, and more - at your own pace! https://t.co/Y71PaZErbp https://t.co/tPnmcvbtr7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y71PaZErbp",
+					"expanded_url": "https://www.lynda.com/portal/sip?org=lacountylibrary.org",
+					"display_url": "lynda.com/portal/sip?org…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1127294303607373800,
+					"id_str": "1127294303607373824",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/D6T0MkvWwAAsRCb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6T0MkvWwAAsRCb.jpg",
+					"url": "https://t.co/tPnmcvbtr7",
+					"display_url": "pic.twitter.com/tPnmcvbtr7",
+					"expanded_url": "https://twitter.com/LACountyLibrary/status/1127294305087967233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127294303607373800,
+					"id_str": "1127294303607373824",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/D6T0MkvWwAAsRCb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6T0MkvWwAAsRCb.jpg",
+					"url": "https://t.co/tPnmcvbtr7",
+					"display_url": "pic.twitter.com/tPnmcvbtr7",
+					"expanded_url": "https://twitter.com/LACountyLibrary/status/1127294305087967233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15359126,
+			"id_str": "15359126",
+			"name": "LA County Library",
+			"screen_name": "LACountyLibrary",
+			"location": "Los Angeles County, California",
+			"description": "Serving 3.4 million residents of Los Angeles County with 87 libraries and our mobile fleet.",
+			"url": "https://t.co/KgdvlkvSD2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KgdvlkvSD2",
+							"expanded_url": "http://LACountyLibrary.org",
+							"display_url": "LACountyLibrary.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9203,
+			"friends_count": 2644,
+			"listed_count": 416,
+			"created_at": "Tue Jul 08 22:32:57 +0000 2008",
+			"favourites_count": 2514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13420,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996030100859572224/Xn7XtVAc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996030100859572224/Xn7XtVAc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15359126/1557167026",
+			"profile_link_color": "1A75BC",
+			"profile_sidebar_border_color": "0A7AD0",
+			"profile_sidebar_fill_color": "E9EDF2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What do you want to learn today? With your LA County Library card, you have free access to thousands of instructional videos on Lynda. Learn tech, business skills, photography, and more - at your own pace! https://t.co/Y71PaZErbp https://t.co/tPnmcvbtr7"
+	},
+	{
 		"created_at": "Sat May 11 15:25:10 +0000 2019",
 		"id": 1127233190987321300,
 		"id_str": "1127233190987321344",
