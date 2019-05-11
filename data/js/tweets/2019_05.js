@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 14:17:08 +0000 2019",
+		"id": 1126871078624735200,
+		"id_str": "1127216071906287626",
+		"full_text": "Here is a story I've been working on for longer than it takes to gestate a human. It's about the difficulties faced by working moms in the entertainment business and how the lack of support for parents may be  contributing to the gender gap https://t.co/TcRRWyTI27",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TcRRWyTI27",
+					"expanded_url": "https://www.latimes.com/entertainment/tv/la-ca-working-moms-hollywood-20190510-story.html",
+					"display_url": "latimes.com/entertainment/…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16135407,
+			"id_str": "16135407",
+			"name": "Meredith Blake",
+			"screen_name": "MeredithBlake",
+			"location": "NYC, NY",
+			"description": "I write about the teevee for the Los Angeles Times. Sometimes confused with the Parent Trap character. \"A totally incompetent reporter.\" -- Bill O'Reilly",
+			"url": "http://t.co/c0dmXfHsEt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/c0dmXfHsEt",
+							"expanded_url": "http://www.latimes.com/la-bio-meredith-blake-staff.html",
+							"display_url": "latimes.com/la-bio-meredit…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8045,
+			"friends_count": 1582,
+			"listed_count": 308,
+			"created_at": "Thu Sep 04 21:12:28 +0000 2008",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17329,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844020385582583808/ay5b-RDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844020385582583808/ay5b-RDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16135407/1386087098",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 369,
+		"favorite_count": 1007,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is a story I've been working on for longer than it takes to gestate a human. It's about the difficulties faced by working moms in the entertainment business and how the lack of support for parents may be  contributing to the gender gap https://t.co/TcRRWyTI27"
+	},
+	{
 		"created_at": "Sat May 11 01:49:52 +0000 2019",
 		"id": 1127028013554470900,
 		"id_str": "1127028013554470914",
