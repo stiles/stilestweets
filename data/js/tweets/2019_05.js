@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 00:44:00 +0000 2019",
+		"id": 1126905618093068300,
+		"id_str": "1127011437023350784",
+		"full_text": "1/ Today the @latimes is launching a tips page providing secure ways to get in touch with our journalists and share confidential information.  \n\nA little background on how this project came to be and the folks who contributed along the way: https://t.co/Z4t2WzleKR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126905316203884500,
+					"id_str": "1126905316203884544",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/D6OSahvU8AAXdSY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6OSahvU8AAXdSY.jpg",
+					"url": "https://t.co/Z4t2WzleKR",
+					"display_url": "pic.twitter.com/Z4t2WzleKR",
+					"expanded_url": "https://twitter.com/phihado/status/1126905618093068288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126905316203884500,
+					"id_str": "1126905316203884544",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/D6OSahvU8AAXdSY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6OSahvU8AAXdSY.jpg",
+					"url": "https://t.co/Z4t2WzleKR",
+					"display_url": "pic.twitter.com/Z4t2WzleKR",
+					"expanded_url": "https://twitter.com/phihado/status/1126905618093068288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3111647040,
+			"id_str": "3111647040",
+			"name": "Phi Do",
+			"screen_name": "phihado",
+			"location": "gone phishing",
+			"description": "Words and data. Sometimes film. Always d&d | reporting @LATdatadesk | alum @DailyNexus @SBIndyNews @VoiceofOC @ONAnewsroom @THR | 📨 phi.do@latimes.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 295,
+			"listed_count": 11,
+			"created_at": "Fri Mar 27 21:52:00 +0000 2015",
+			"favourites_count": 582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 264,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055959387813101568/vdJS3Urb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055959387813101568/vdJS3Urb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3111647040/1540596192",
+			"profile_link_color": "28BFBA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 88,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/ Today the @latimes is launching a tips page providing secure ways to get in touch with our journalists and share confidential information.  \n\nA little background on how this project came to be and the folks who contributed along the way: https://t.co/Z4t2WzleKR"
+	},
+	{
 		"created_at": "Fri May 10 03:39:54 +0000 2019",
 		"id": 1126693315443773400,
 		"id_str": "1126693315443773441",
