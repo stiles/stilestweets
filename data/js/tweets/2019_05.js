@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 21:31:48 +0000 2019",
+		"id": 1127325459753029600,
+		"id_str": "1127325459753029632",
+		"full_text": "At least 560 Americans named their baby daughters \"Khaleesi\" last year, which was about 0.03% of all female births, according to @socialsecurity. #GameofThrones https://t.co/Uae0agdeXq https://t.co/L0JuWB16pJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GameofThrones",
+					"indices": [
+						146,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SocialSecurity",
+					"name": "Social Security",
+					"id": 39580052,
+					"id_str": "39580052",
+					"indices": [
+						129,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Uae0agdeXq",
+					"expanded_url": "https://www.ssa.gov/oact/babynames/index.html",
+					"display_url": "ssa.gov/oact/babynames…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1127324991601532900,
+					"id_str": "1127324991601532929",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D6UQG2bUYAEJfKK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6UQG2bUYAEJfKK.jpg",
+					"url": "https://t.co/L0JuWB16pJ",
+					"display_url": "pic.twitter.com/L0JuWB16pJ",
+					"expanded_url": "https://twitter.com/stiles/status/1127325459753029632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 958,
+							"h": 286,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 203,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 958,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127324991601532900,
+					"id_str": "1127324991601532929",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/D6UQG2bUYAEJfKK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6UQG2bUYAEJfKK.jpg",
+					"url": "https://t.co/L0JuWB16pJ",
+					"display_url": "pic.twitter.com/L0JuWB16pJ",
+					"expanded_url": "https://twitter.com/stiles/status/1127325459753029632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 958,
+							"h": 286,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 203,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 958,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10678,
+			"friends_count": 1570,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13695,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1557610576",
+			"profile_link_color": "7DAFA0",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At least 560 Americans named their baby daughters \"Khaleesi\" last year, which was about 0.03% of all female births, according to @socialsecurity. #GameofThrones https://t.co/Uae0agdeXq https://t.co/L0JuWB16pJ"
+	},
+	{
 		"created_at": "Sat May 11 19:28:17 +0000 2019",
 		"id": 1127294305087967200,
 		"id_str": "1127294373677256704",
