@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 15:25:10 +0000 2019",
+		"id": 1127233190987321300,
+		"id_str": "1127233190987321344",
+		"full_text": "About 3 in 10 Americans say it would bother them to hear people speak a language other than English in public (about half of white Republicans feel this way), via @pewresearch: https://t.co/DrAh8jLeIN https://t.co/Mg1egR4iRJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pewresearch",
+					"name": "Pew Research Center",
+					"id": 22642788,
+					"id_str": "22642788",
+					"indices": [
+						163,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DrAh8jLeIN",
+					"expanded_url": "https://pewrsr.ch/2DZsQLK",
+					"display_url": "pewrsr.ch/2DZsQLK",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1127232631152697300,
+					"id_str": "1127232631152697345",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/D6S8Gw8V4AE6csh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6S8Gw8V4AE6csh.jpg",
+					"url": "https://t.co/Mg1egR4iRJ",
+					"display_url": "pic.twitter.com/Mg1egR4iRJ",
+					"expanded_url": "https://twitter.com/stiles/status/1127233190987321344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 624,
+							"h": 1320,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 321,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127232631152697300,
+					"id_str": "1127232631152697345",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/D6S8Gw8V4AE6csh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6S8Gw8V4AE6csh.jpg",
+					"url": "https://t.co/Mg1egR4iRJ",
+					"display_url": "pic.twitter.com/Mg1egR4iRJ",
+					"expanded_url": "https://twitter.com/stiles/status/1127233190987321344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 624,
+							"h": 1320,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 321,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10678,
+			"friends_count": 1570,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13692,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1557202214",
+			"profile_link_color": "4A696B",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "About 3 in 10 Americans say it would bother them to hear people speak a language other than English in public (about half of white Republicans feel this way), via @pewresearch: https://t.co/DrAh8jLeIN https://t.co/Mg1egR4iRJ"
+	},
+	{
 		"created_at": "Sat May 11 14:27:21 +0000 2019",
 		"id": 1127218641781567500,
 		"id_str": "1127218641781567488",
