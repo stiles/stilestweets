@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 22:15:44 +0000 2019",
+		"id": 1128420894316085200,
+		"id_str": "1128423677626728448",
+		"full_text": "News about Durham inquiry whose existence we broke last night: he's conducting a \"review\" of intel collection involving the Trump campaign &amp; Russia, not a criminal investigation w/ power to subpoena documents and witnesses. w/ @adamgoldmanNYT @npfandos https://t.co/COIs4H23JW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamgoldmanNYT",
+					"name": "Adam Goldman",
+					"id": 21534951,
+					"id_str": "21534951",
+					"indices": [
+						231,
+						246
+					]
+				},
+				{
+					"screen_name": "npfandos",
+					"name": "Nicholas Fandos",
+					"id": 782806500,
+					"id_str": "782806500",
+					"indices": [
+						247,
+						256
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/COIs4H23JW",
+					"expanded_url": "https://www.nytimes.com/2019/05/14/us/politics/russia-investigation-review.html",
+					"display_url": "nytimes.com/2019/05/14/us/…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16172747,
+			"id_str": "16172747",
+			"name": "Charlie Savage",
+			"screen_name": "charlie_savage",
+			"location": "Washington, DC",
+			"description": "New York Times national security and legal reporter; MSNBC contributor; \nauthor of the books \"Power Wars\" and \"Takeover\"",
+			"url": "http://t.co/MLhxkdD893",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MLhxkdD893",
+							"expanded_url": "http://www.charliesavage.com",
+							"display_url": "charliesavage.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56932,
+			"friends_count": 2569,
+			"listed_count": 1840,
+			"created_at": "Sun Sep 07 19:34:16 +0000 2008",
+			"favourites_count": 351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11442,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926083738559062018/naJGS21t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926083738559062018/naJGS21t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16172747/1498492259",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "News about Durham inquiry whose existence we broke last night: he's conducting a \"review\" of intel collection involving the Trump campaign &amp; Russia, not a criminal investigation w/ power to subpoena documents and witnesses. w/ @adamgoldmanNYT @npfandos https://t.co/COIs4H23JW"
+	},
+	{
 		"created_at": "Tue May 14 19:03:10 +0000 2019",
 		"id": 1128375218295017500,
 		"id_str": "1128375218295017472",
