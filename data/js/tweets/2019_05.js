@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 23:00:30 +0000 2019",
+		"id": 1128434457034125300,
+		"id_str": "1128434941786636289",
+		"full_text": "The NewsGuild leadership may be discovering what countless L.A. officials have learned over time: You don't want @PringleLATimes nosing around in your business. He will bring you down. https://t.co/hyJZqeRwZl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PringleLATimes",
+					"name": "Paul Pringle",
+					"id": 21282353,
+					"id_str": "21282353",
+					"indices": [
+						113,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hyJZqeRwZl",
+					"expanded_url": "https://twitter.com/PringleLATimes/status/1128419031591993349",
+					"display_url": "twitter.com/PringleLATimes…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55138885,
+			"id_str": "55138885",
+			"name": "Mitchell Landsberg",
+			"screen_name": "LATlands",
+			"location": "Los Angeles",
+			"description": "Foreign Editor, acting National Editor, LA Times. Formerly AP Reno, NYC, Moscow. SFGiants fan in Dodgertown.",
+			"url": "http://t.co/DwhrVjtTlf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DwhrVjtTlf",
+							"expanded_url": "http://latimes.com/world",
+							"display_url": "latimes.com/world",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3070,
+			"friends_count": 1360,
+			"listed_count": 153,
+			"created_at": "Thu Jul 09 04:15:22 +0000 2009",
+			"favourites_count": 4095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7999,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3495920902/fac3cb9e366a9f18342f56e7c515d460_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3495920902/fac3cb9e366a9f18342f56e7c515d460_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55138885/1382654661",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128419031591993300,
+		"quoted_status_id_str": "1128419031591993349",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hyJZqeRwZl",
+			"expanded": "https://twitter.com/PringleLATimes/status/1128419031591993349",
+			"display": "twitter.com/PringleLATimes…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 14 21:57:16 +0000 2019",
+			"id": 1128419031591993300,
+			"id_str": "1128419031591993349",
+			"full_text": "I can't decide if the NewsGuild's national HQ conducted the union's presidential election like a banana republic or the gang that couldn't shoot straight. Probably a combination of both.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21282353,
+				"id_str": "21282353",
+				"name": "Paul Pringle",
+				"screen_name": "PringleLATimes",
+				"location": "Los Angeles, CA",
+				"description": "An investigative reporter for the Los Angeles Times specializing in government, corporate and labor corruption. Tips welcome at paul.pringle@latimes.com.",
+				"url": "https://t.co/eTksmynSH7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eTksmynSH7",
+								"expanded_url": "http://latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3543,
+				"friends_count": 698,
+				"listed_count": 172,
+				"created_at": "Thu Feb 19 07:56:13 +0000 2009",
+				"favourites_count": 38,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3412,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073139653518155777/7LW-g9mQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073139653518155777/7LW-g9mQ_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The NewsGuild leadership may be discovering what countless L.A. officials have learned over time: You don't want @PringleLATimes nosing around in your business. He will bring you down. https://t.co/hyJZqeRwZl"
+	},
+	{
 		"created_at": "Tue May 14 22:15:44 +0000 2019",
 		"id": 1128420894316085200,
 		"id_str": "1128423677626728448",
