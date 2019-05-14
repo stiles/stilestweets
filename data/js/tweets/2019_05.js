@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 19:03:10 +0000 2019",
+		"id": 1128375218295017500,
+		"id_str": "1128375218295017472",
+		"full_text": "Yikes https://t.co/ccINAPJSt5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ccINAPJSt5",
+					"expanded_url": "https://twitter.com/business/status/1128294423585071104",
+					"display_url": "twitter.com/business/statu…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10677,
+			"friends_count": 1573,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13709,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1557807507",
+			"profile_link_color": "A89847",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128294423585071100,
+		"quoted_status_id_str": "1128294423585071104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ccINAPJSt5",
+			"expanded": "https://twitter.com/business/status/1128294423585071104",
+			"display": "twitter.com/business/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 14 13:42:07 +0000 2019",
+			"id": 1128294423585071100,
+			"id_str": "1128294423585071104",
+			"full_text": "WhatsApp's hack shows end-to-end encryption is largely pointless https://t.co/A0cILAUsO3 via @bopinion",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bopinion",
+						"name": "Bloomberg Opinion",
+						"id": 227682918,
+						"id_str": "227682918",
+						"indices": [
+							93,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/A0cILAUsO3",
+						"expanded_url": "https://bloom.bg/2VAkGV9",
+						"display_url": "bloom.bg/2VAkGV9",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34713362,
+				"id_str": "34713362",
+				"name": "Bloomberg",
+				"screen_name": "business",
+				"location": "New York and the World",
+				"description": "The first word in business news.",
+				"url": "http://t.co/YFISwy1upH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YFISwy1upH",
+								"expanded_url": "http://www.bloomberg.com",
+								"display_url": "bloomberg.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5329450,
+				"friends_count": 1242,
+				"listed_count": 51567,
+				"created_at": "Thu Apr 23 20:05:17 +0000 2009",
+				"favourites_count": 456,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 454607,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "101112",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991818020233404416/alrBF_dr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991818020233404416/alrBF_dr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34713362/1503349279",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "DADADA",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 126,
+			"favorite_count": 181,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yikes https://t.co/ccINAPJSt5"
+	},
+	{
 		"created_at": "Tue May 14 15:43:13 +0000 2019",
 		"id": 1128315224614789100,
 		"id_str": "1128324897627824128",
