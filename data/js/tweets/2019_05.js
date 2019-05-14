@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 15:43:13 +0000 2019",
+		"id": 1128315224614789100,
+		"id_str": "1128324897627824128",
+		"full_text": "So, after @stiles article about 'expletives', the board may have changed it's \"prior\" practice. Were there hearings? Was any input sought from the public? What will prevent @SupJaniceHahn from drawing all comments B4 A-items to stymie input from an exhausted public @LADAOffice 🦅 https://t.co/X6bTYAvGLQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						173,
+						187
+					]
+				},
+				{
+					"screen_name": "LADAOffice",
+					"name": "Los Angeles County District Attorney",
+					"id": 2176738226,
+					"id_str": "2176738226",
+					"indices": [
+						266,
+						277
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128170926871273500,
+					"id_str": "1128170926871273472",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D6gRew4V4AA-TAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6gRew4V4AA-TAu.jpg",
+					"url": "https://t.co/X6bTYAvGLQ",
+					"display_url": "pic.twitter.com/X6bTYAvGLQ",
+					"expanded_url": "https://twitter.com/ericpreven/status/1128315224614789121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1512,
+							"h": 696,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 313,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128170926871273500,
+					"id_str": "1128170926871273472",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D6gRew4V4AA-TAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6gRew4V4AA-TAu.jpg",
+					"url": "https://t.co/X6bTYAvGLQ",
+					"display_url": "pic.twitter.com/X6bTYAvGLQ",
+					"expanded_url": "https://twitter.com/ericpreven/status/1128315224614789121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1512,
+							"h": 696,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 313,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128169523616501800,
+		"in_reply_to_status_id_str": "1128169523616501760",
+		"in_reply_to_user_id": 48035360,
+		"in_reply_to_user_id_str": "48035360",
+		"in_reply_to_screen_name": "ericpreven",
+		"user": {
+			"id": 48035360,
+			"id_str": "48035360",
+			"name": "eric preven",
+			"screen_name": "ericpreven",
+			"location": "Los Angeles, CA",
+			"description": "",
+			"url": "https://t.co/n3Ccj5Nzse",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n3Ccj5Nzse",
+							"expanded_url": "http://www.ThePrevenReport.com",
+							"display_url": "ThePrevenReport.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 609,
+			"listed_count": 3,
+			"created_at": "Wed Jun 17 17:16:54 +0000 2009",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1460,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48035360/1394392597",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So, after @stiles article about 'expletives', the board may have changed it's \"prior\" practice. Were there hearings? Was any input sought from the public? What will prevent @SupJaniceHahn from drawing all comments B4 A-items to stymie input from an exhausted public @LADAOffice 🦅 https://t.co/X6bTYAvGLQ"
+	},
+	{
 		"created_at": "Mon May 13 18:10:30 +0000 2019",
 		"id": 1127918894595764200,
 		"id_str": "1127999575275368451",
