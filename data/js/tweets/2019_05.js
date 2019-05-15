@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 17:48:10 +0000 2019",
+		"id": 1128679336976846800,
+		"id_str": "1128718731364855809",
+		"full_text": "@LATimescitybeat @kyoshino @latimes The return of Nita Lelyveld’s column is a major blessing for the readers of @latimes. I can’t wait for the first one to land. Congratulations!",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATimescitybeat",
+					"name": "LA Times City Beat",
+					"id": 20642650,
+					"id_str": "20642650",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "kyoshino",
+					"name": "Kimi Yoshino",
+					"id": 23040137,
+					"id_str": "23040137",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1128670588774391800,
+		"in_reply_to_status_id_str": "1128670588774391809",
+		"in_reply_to_user_id": 20642650,
+		"in_reply_to_user_id_str": "20642650",
+		"in_reply_to_screen_name": "LATimescitybeat",
+		"user": {
+			"id": 1198481,
+			"id_str": "1198481",
+			"name": "Sewell Chan",
+			"screen_name": "sewellchan",
+			"location": "Los Angeles",
+			"description": "Deputy Managing Editor @latimes; previously @nytimes @washingtonpost; urban explorer; native New Yorker; aspiring Californian; son of immigrants",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33397,
+			"friends_count": 3234,
+			"listed_count": 1064,
+			"created_at": "Thu Mar 15 02:38:28 +0000 2007",
+			"favourites_count": 20803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16185,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198481/1511924158",
+			"profile_link_color": "92A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LATimescitybeat @kyoshino @latimes The return of Nita Lelyveld’s column is a major blessing for the readers of @latimes. I can’t wait for the first one to land. Congratulations!"
+	},
+	{
 		"created_at": "Wed May 15 15:34:03 +0000 2019",
 		"id": 1128684977527427100,
 		"id_str": "1128684977527427073",
