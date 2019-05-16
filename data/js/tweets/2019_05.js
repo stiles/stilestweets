@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 19:11:41 +0000 2019",
+		"id": 1128803958904959000,
+		"id_str": "1129102136715800576",
+		"full_text": "Thank you to the LA @Chargers, including @tspoon90, @twenty7savage, @_tscott78 and Coach Lynn for visiting @LACProbation youth and staff at Central Juvenile Hall today and spreading a positive message. Your presence matters! #Boltup @chargerscr https://t.co/K8FilboQCB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Boltup",
+					"indices": [
+						225,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Chargers",
+					"name": "Los Angeles Chargers",
+					"id": 713143,
+					"id_str": "713143",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"screen_name": "Tspoon90",
+					"name": "Anthony M. Lanier II",
+					"id": 229704092,
+					"id_str": "229704092",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"screen_name": "Twenty7Savage",
+					"name": "Justin M. Jones",
+					"id": 632901104,
+					"id_str": "632901104",
+					"indices": [
+						52,
+						66
+					]
+				},
+				{
+					"screen_name": "_tscott78",
+					"name": "Trent Scott",
+					"id": 281912751,
+					"id_str": "281912751",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"screen_name": "LACProbation",
+					"name": "Los Angeles County Probation Department",
+					"id": 1683979206,
+					"id_str": "1683979206",
+					"indices": [
+						107,
+						120
+					]
+				},
+				{
+					"screen_name": "ChargersCR",
+					"name": "Chargers Community",
+					"id": 3270411408,
+					"id_str": "3270411408",
+					"indices": [
+						233,
+						244
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128803952630198300,
+					"id_str": "1128803952630198273",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/D6pRNtmUcAEK66d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6pRNtmUcAEK66d.jpg",
+					"url": "https://t.co/K8FilboQCB",
+					"display_url": "pic.twitter.com/K8FilboQCB",
+					"expanded_url": "https://twitter.com/LACProbation/status/1128803958904958976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128803952630198300,
+					"id_str": "1128803952630198273",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/D6pRNtmUcAEK66d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6pRNtmUcAEK66d.jpg",
+					"url": "https://t.co/K8FilboQCB",
+					"display_url": "pic.twitter.com/K8FilboQCB",
+					"expanded_url": "https://twitter.com/LACProbation/status/1128803958904958976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1128803952638644200,
+					"id_str": "1128803952638644224",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/D6pRNtoVUAAvu-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6pRNtoVUAAvu-l.jpg",
+					"url": "https://t.co/K8FilboQCB",
+					"display_url": "pic.twitter.com/K8FilboQCB",
+					"expanded_url": "https://twitter.com/LACProbation/status/1128803958904958976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1683979206,
+			"id_str": "1683979206",
+			"name": "Los Angeles County Probation Department",
+			"screen_name": "LACProbation",
+			"location": "Los Angeles County",
+			"description": "Official Twitter Feed of the Los Angeles County Probation Department",
+			"url": "http://t.co/xufKRngNQf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xufKRngNQf",
+							"expanded_url": "http://probation.lacounty.gov",
+							"display_url": "probation.lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1111,
+			"friends_count": 368,
+			"listed_count": 26,
+			"created_at": "Mon Aug 19 19:29:19 +0000 2013",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 523,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954426285672951809/VN4PKccx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954426285672951809/VN4PKccx_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you to the LA @Chargers, including @tspoon90, @twenty7savage, @_tscott78 and Coach Lynn for visiting @LACProbation youth and staff at Central Juvenile Hall today and spreading a positive message. Your presence matters! #Boltup @chargerscr https://t.co/K8FilboQCB"
+	},
+	{
 		"created_at": "Wed May 15 19:11:46 +0000 2019",
 		"id": 1128739769557573600,
 		"id_str": "1128739769557573632",
