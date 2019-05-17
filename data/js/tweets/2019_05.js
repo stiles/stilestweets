@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 01:04:51 +0000 2019",
+		"id": 1129083935592468500,
+		"id_str": "1129191011047993344",
+		"full_text": "I am extremely proud of the campaign I ran. It has been a privilege to connect with so many amazing members in a very short amount of time. Thank you for believing in me. I am reviewing the results and will keep everyone posted with a longer response soon.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1129082193492500500,
+		"in_reply_to_status_id_str": "1129082193492500481",
+		"in_reply_to_user_id": 12561082,
+		"in_reply_to_user_id_str": "12561082",
+		"in_reply_to_screen_name": "gaufre",
+		"user": {
+			"id": 12561082,
+			"id_str": "12561082",
+			"name": "Jon Schleuss 🦅",
+			"screen_name": "gaufre",
+			"location": "Los Angeles, CA",
+			"description": "Data/graphics/coding journalist @latimes, activist @latguild, educator @USCAnnenberg. From Arkansas. Running for @news_guild president. he/him ✊🏳️‍🌈",
+			"url": "https://t.co/H19cgwNPKn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H19cgwNPKn",
+							"expanded_url": "http://jonforpresident.com",
+							"display_url": "jonforpresident.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3724,
+			"friends_count": 3718,
+			"listed_count": 166,
+			"created_at": "Tue Jan 22 20:35:45 +0000 2008",
+			"favourites_count": 11518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104917411898187778/J6j8EZWX_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104917411898187778/J6j8EZWX_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12561082/1532451617",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 90,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I am extremely proud of the campaign I ran. It has been a privilege to connect with so many amazing members in a very short amount of time. Thank you for believing in me. I am reviewing the results and will keep everyone posted with a longer response soon."
+	},
+	{
+		"created_at": "Fri May 17 01:00:21 +0000 2019",
+		"id": 1129189879710199800,
+		"id_str": "1129189879710199808",
+		"full_text": "How do we feel about kimchi ramen? I’m a fan. @ Marina del Rey, California https://t.co/dxqkJJlSon",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dxqkJJlSon",
+					"expanded_url": "https://www.instagram.com/p/Bxi19vAl-AJ/?igshid=abs3iz78vl1s",
+					"display_url": "instagram.com/p/Bxi19vAl-AJ/…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10680,
+			"friends_count": 1577,
+			"listed_count": 873,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13720,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1557885584",
+			"profile_link_color": "B89681",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				33.9833,
+				-118.4574
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-118.4574,
+				33.9833
+			]
+		},
+		"place": {
+			"id": "38ea9782c8d83a4b",
+			"url": "https://api.twitter.com/1.1/geo/id/38ea9782c8d83a4b.json",
+			"place_type": "city",
+			"name": "Marina del Rey",
+			"full_name": "Marina del Rey, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.463481,
+							33.964019
+						],
+						[
+							-118.4321992,
+							33.964019
+						],
+						[
+							-118.4321992,
+							33.98647
+						],
+						[
+							-118.463481,
+							33.98647
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How do we feel about kimchi ramen? I’m a fan. @ Marina del Rey, California https://t.co/dxqkJJlSon"
+	},
+	{
 		"created_at": "Thu May 16 19:11:41 +0000 2019",
 		"id": 1128803958904959000,
 		"id_str": "1129102136715800576",
