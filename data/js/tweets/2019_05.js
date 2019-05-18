@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 02:46:36 +0000 2019",
+		"id": 1129579007236698100,
+		"id_str": "1129579007236698112",
+		"full_text": "I have three girls: ages 2, 3 &amp; 6. That means I get to watch 'Confessions of a Tooth Fairy' w/ Kristen Wiig and @melindahill like 60 times, right? Awesome! https://t.co/FPzSs1pS9F #takethemoney https://t.co/aWSb7eEupS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "takethemoney",
+					"indices": [
+						184,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melindahill",
+					"name": "melinda hill",
+					"id": 26320449,
+					"id_str": "26320449",
+					"indices": [
+						116,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FPzSs1pS9F",
+					"expanded_url": "https://www.youtube.com/watch?v=m72GNRrvc88",
+					"display_url": "youtube.com/watch?v=m72GNR…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1129578551739465700,
+					"id_str": "1129578551739465728",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/D60RtUJUwAA2ko-.png",
+					"media_url_https": "https://pbs.twimg.com/media/D60RtUJUwAA2ko-.png",
+					"url": "https://t.co/aWSb7eEupS",
+					"display_url": "pic.twitter.com/aWSb7eEupS",
+					"expanded_url": "https://twitter.com/stiles/status/1129579007236698112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 586,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 586,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 586,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129578551739465700,
+					"id_str": "1129578551739465728",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/D60RtUJUwAA2ko-.png",
+					"media_url_https": "https://pbs.twimg.com/media/D60RtUJUwAA2ko-.png",
+					"url": "https://t.co/aWSb7eEupS",
+					"display_url": "pic.twitter.com/aWSb7eEupS",
+					"expanded_url": "https://twitter.com/stiles/status/1129579007236698112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 586,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 586,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 586,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10690,
+			"friends_count": 1583,
+			"listed_count": 873,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13728,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1557885584",
+			"profile_link_color": "B89681",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have three girls: ages 2, 3 &amp; 6. That means I get to watch 'Confessions of a Tooth Fairy' w/ Kristen Wiig and @melindahill like 60 times, right? Awesome! https://t.co/FPzSs1pS9F #takethemoney https://t.co/aWSb7eEupS"
+	},
+	{
 		"created_at": "Sat May 18 01:48:51 +0000 2019",
 		"id": 1129562745500774400,
 		"id_str": "1129564472316637184",
