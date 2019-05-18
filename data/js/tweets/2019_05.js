@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 20:29:24 +0000 2019",
+		"id": 1129780705213517800,
+		"id_str": "1129846469828079616",
+		"full_text": "`flyTo` is a great feature for storytelling maps like the @latimes history of LA's original people, the Tongva: https://t.co/1JmIPpjHMK. Here's how to smoothly interpolate between locations with flyTo: https://t.co/cI9XSdjJCr https://t.co/8XZUy7EOKY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						58,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1JmIPpjHMK",
+					"expanded_url": "https://buff.ly/2Ef3WrM",
+					"display_url": "buff.ly/2Ef3WrM",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/cI9XSdjJCr",
+					"expanded_url": "https://buff.ly/2EbgY9r",
+					"display_url": "buff.ly/2EbgY9r",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1129780699978977300,
+					"id_str": "1129780699978977280",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D63Jj5BW0AAvmSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D63Jj5BW0AAvmSI.jpg",
+					"url": "https://t.co/8XZUy7EOKY",
+					"display_url": "pic.twitter.com/8XZUy7EOKY",
+					"expanded_url": "https://twitter.com/Mapbox/status/1129780705213517824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 304,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 304,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 304,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129780699978977300,
+					"id_str": "1129780699978977280",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D63Jj5BW0AAvmSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D63Jj5BW0AAvmSI.jpg",
+					"url": "https://t.co/8XZUy7EOKY",
+					"display_url": "pic.twitter.com/8XZUy7EOKY",
+					"expanded_url": "https://twitter.com/Mapbox/status/1129780705213517824/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 304,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 304,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 304,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							19
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D63Jj5BW0AAvmSI.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55236002,
+			"id_str": "55236002",
+			"name": "Mapbox",
+			"screen_name": "Mapbox",
+			"location": "Washington DC + San Francisco",
+			"description": "Mapbox is the location data platform for mobile and web applications. We’re changing the way people move around cities and explore our world.",
+			"url": "https://t.co/dNEgySRm0u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dNEgySRm0u",
+							"expanded_url": "http://www.mapbox.com/",
+							"display_url": "mapbox.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64200,
+			"friends_count": 2077,
+			"listed_count": 2432,
+			"created_at": "Thu Jul 09 13:34:45 +0000 2009",
+			"favourites_count": 2338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10806,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D102D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112778715333836801/JDuDUMwe_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112778715333836801/JDuDUMwe_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55236002/1528132871",
+			"profile_link_color": "565656",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCEDFA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "`flyTo` is a great feature for storytelling maps like the @latimes history of LA's original people, the Tongva: https://t.co/1JmIPpjHMK. Here's how to smoothly interpolate between locations with flyTo: https://t.co/cI9XSdjJCr https://t.co/8XZUy7EOKY"
+	},
+	{
 		"created_at": "Sat May 18 19:11:25 +0000 2019",
 		"id": 1129826844075630600,
 		"id_str": "1129826844075630593",
