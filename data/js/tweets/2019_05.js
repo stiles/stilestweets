@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 19:11:25 +0000 2019",
+		"id": 1129826844075630600,
+		"id_str": "1129826844075630593",
+		"full_text": "Ok this is getting out of hand now that Eva, 6, is in charge of art direction. https://t.co/f7YSYVaMAz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129826807945941000,
+					"id_str": "1129826807945940993",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/D63zfulU0AEqo5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D63zfulU0AEqo5w.jpg",
+					"url": "https://t.co/f7YSYVaMAz",
+					"display_url": "pic.twitter.com/f7YSYVaMAz",
+					"expanded_url": "https://twitter.com/stiles/status/1129826844075630593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129826807945941000,
+					"id_str": "1129826807945940993",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/D63zfulU0AEqo5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D63zfulU0AEqo5w.jpg",
+					"url": "https://t.co/f7YSYVaMAz",
+					"display_url": "pic.twitter.com/f7YSYVaMAz",
+					"expanded_url": "https://twitter.com/stiles/status/1129826844075630593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10701,
+			"friends_count": 1585,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13735,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1558204339",
+			"profile_link_color": "E37E58",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9de70c9487000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9de70c9487000.json",
+			"place_type": "poi",
+			"name": "Grandview Elementary",
+			"full_name": "Grandview Elementary",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.42995848072017,
+							34.000962295285305
+						],
+						[
+							-118.42995848072017,
+							34.000962295285305
+						],
+						[
+							-118.42995848072017,
+							34.000962295285305
+						],
+						[
+							-118.42995848072017,
+							34.000962295285305
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ok this is getting out of hand now that Eva, 6, is in charge of art direction. https://t.co/f7YSYVaMAz"
+	},
+	{
 		"created_at": "Sat May 18 17:51:17 +0000 2019",
 		"id": 1129806679208484900,
 		"id_str": "1129806679208484864",
