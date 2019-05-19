@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 16:00:27 +0000 2019",
+		"id": 1130141104030937100,
+		"id_str": "1130141175313158145",
+		"full_text": "This is latest in a series of stories by @stiles uncovering the dysfunction and chaos at juvenile facilities across Los Angeles. https://t.co/KIUTXioD84",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						41,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KIUTXioD84",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-county-juvenile-detention-reform-20190211-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1130136073386901500,
+		"in_reply_to_status_id_str": "1130136073386901506",
+		"in_reply_to_user_id": 14827461,
+		"in_reply_to_user_id_str": "14827461",
+		"in_reply_to_screen_name": "shelbygrad",
+		"user": {
+			"id": 14827461,
+			"id_str": "14827461",
+			"name": "Shelby Grad",
+			"screen_name": "shelbygrad",
+			"location": "🌴Los Angeles💥",
+			"description": "@latimes Assistant Managing Editor overseeing Metro & California.",
+			"url": "https://t.co/emWaPa3SBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emWaPa3SBu",
+							"expanded_url": "http://www.latimes.com/california",
+							"display_url": "latimes.com/california",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12686,
+			"friends_count": 984,
+			"listed_count": 511,
+			"created_at": "Mon May 19 02:25:01 +0000 2008",
+			"favourites_count": 5622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41583,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126637021835870208/4V1wSeUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126637021835870208/4V1wSeUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14827461/1557793823",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is latest in a series of stories by @stiles uncovering the dysfunction and chaos at juvenile facilities across Los Angeles. https://t.co/KIUTXioD84"
+	},
+	{
 		"created_at": "Sun May 19 14:35:38 +0000 2019",
 		"id": 1126303248514736100,
 		"id_str": "1130119827924738048",
