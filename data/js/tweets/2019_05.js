@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 18:20:16 +0000 2019",
+		"id": 1130176216235831300,
+		"id_str": "1130176359832014848",
+		"full_text": "@stiles THANK YOU for truthful reporting. The Juvenile Hall article is the first one that we (officers) feel is an accurate representation of that horrible work environment. The youth violence is just the tip of the iceberg. It is traumatic for us all",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 31228341,
+			"id_str": "31228341",
+			"name": "Sequan Canady",
+			"screen_name": "SequanCanady",
+			"location": "Los Angeles",
+			"description": "Christian(reformed), Calvinist... Actor/writer/director/producer. CEO of Iconoclast films. Songwriter, composer",
+			"url": "https://t.co/3zk0dY27Dz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3zk0dY27Dz",
+							"expanded_url": "http://www.iconoclastfilmworks.com",
+							"display_url": "iconoclastfilmworks.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 468,
+			"friends_count": 489,
+			"listed_count": 18,
+			"created_at": "Tue Apr 14 21:15:16 +0000 2009",
+			"favourites_count": 1205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10333,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845738864337567744/F88qC4Hs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845738864337567744/F88qC4Hs_normal.jpg",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@stiles THANK YOU for truthful reporting. The Juvenile Hall article is the first one that we (officers) feel is an accurate representation of that horrible work environment. The youth violence is just the tip of the iceberg. It is traumatic for us all"
+	},
+	{
 		"created_at": "Sun May 19 16:00:27 +0000 2019",
 		"id": 1130141104030937100,
 		"id_str": "1130141175313158145",
