@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 17:51:32 +0000 2019",
+		"id": 1130531514981109800,
+		"id_str": "1130531514981109760",
+		"full_text": "The organizers of the rally, @laprobation, which is worried about assaults on staff inside the juvenile halls, used the #SafeAtWork hashtag in their announcement. We'll see if that catches on with the workers today. Not sure how many are super active on Twitter. https://t.co/WiZBaIKdSW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SafeAtWork",
+					"indices": [
+						120,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LAProbation",
+					"name": "AFSCME Local 685",
+					"id": 955840554520100900,
+					"id_str": "955840554520100864",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130531445867393000,
+					"id_str": "1130531445867393024",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/D7B0XDZVsAA8JzV.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7B0XDZVsAA8JzV.png",
+					"url": "https://t.co/WiZBaIKdSW",
+					"display_url": "pic.twitter.com/WiZBaIKdSW",
+					"expanded_url": "https://twitter.com/stiles/status/1130531514981109760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130531445867393000,
+					"id_str": "1130531445867393024",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/D7B0XDZVsAA8JzV.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7B0XDZVsAA8JzV.png",
+					"url": "https://t.co/WiZBaIKdSW",
+					"display_url": "pic.twitter.com/WiZBaIKdSW",
+					"expanded_url": "https://twitter.com/stiles/status/1130531514981109760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1130530253518938100,
+		"in_reply_to_status_id_str": "1130530253518938112",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10727,
+			"friends_count": 1593,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1558236714",
+			"profile_link_color": "FF8254",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The organizers of the rally, @laprobation, which is worried about assaults on staff inside the juvenile halls, used the #SafeAtWork hashtag in their announcement. We'll see if that catches on with the workers today. Not sure how many are super active on Twitter. https://t.co/WiZBaIKdSW"
+	},
+	{
+		"created_at": "Mon May 20 17:46:31 +0000 2019",
+		"id": 1130530253518938100,
+		"id_str": "1130530253518938112",
+		"full_text": "In response to our story about troubling conditions in @CountyofLA juvenile detention facilities, the union representing officers is holding a rally at tomorrow's Board of Supervisors meeting. https://t.co/SYtQf1lHLN https://t.co/rN6XBjzU1Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						55,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SYtQf1lHLN",
+					"expanded_url": "https://www.latimes.com/local/countygovernment/la-me-juvenile-halls-chaos-pepper-spray-detention-probation-20190519-story.html",
+					"display_url": "latimes.com/local/countygo…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130529526620934100,
+					"id_str": "1130529526620934144",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/D7BynVpU0AAoNjj.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7BynVpU0AAoNjj.png",
+					"url": "https://t.co/rN6XBjzU1Q",
+					"display_url": "pic.twitter.com/rN6XBjzU1Q",
+					"expanded_url": "https://twitter.com/stiles/status/1130530253518938112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130529526620934100,
+					"id_str": "1130529526620934144",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/D7BynVpU0AAoNjj.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7BynVpU0AAoNjj.png",
+					"url": "https://t.co/rN6XBjzU1Q",
+					"display_url": "pic.twitter.com/rN6XBjzU1Q",
+					"expanded_url": "https://twitter.com/stiles/status/1130530253518938112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 254,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10727,
+			"friends_count": 1593,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13747,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1558236714",
+			"profile_link_color": "FF8254",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In response to our story about troubling conditions in @CountyofLA juvenile detention facilities, the union representing officers is holding a rally at tomorrow's Board of Supervisors meeting. https://t.co/SYtQf1lHLN https://t.co/rN6XBjzU1Q"
+	},
+	{
+		"created_at": "Mon May 20 17:33:01 +0000 2019",
+		"id": 1130522038400049200,
+		"id_str": "1130526856212467712",
+		"full_text": "Officers have become reluctant to physically restrain youths to control tense situations, allowing eruptions to occur that have led to injuries or property damage. https://t.co/bAPEfMnCAL https://t.co/R0LQGD3PMB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bAPEfMnCAL",
+					"expanded_url": "https://www.latimes.com/local/countygovernment/la-me-juvenile-halls-chaos-pepper-spray-detention-probation-20190519-story.html",
+					"display_url": "latimes.com/local/countygo…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130521204488413200,
+					"id_str": "1130521204488413203",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/D7BrC7SUIBMJCp6.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7BrC7SUIBMJCp6.png",
+					"url": "https://t.co/R0LQGD3PMB",
+					"display_url": "pic.twitter.com/R0LQGD3PMB",
+					"expanded_url": "https://twitter.com/latimes/status/1130522038400049152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130521204488413200,
+					"id_str": "1130521204488413203",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/D7BrC7SUIBMJCp6.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7BrC7SUIBMJCp6.png",
+					"url": "https://t.co/R0LQGD3PMB",
+					"display_url": "pic.twitter.com/R0LQGD3PMB",
+					"expanded_url": "https://twitter.com/latimes/status/1130522038400049152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1130522037414268900,
+		"in_reply_to_status_id_str": "1130522037414268928",
+		"in_reply_to_user_id": 16664681,
+		"in_reply_to_user_id_str": "16664681",
+		"in_reply_to_screen_name": "latimes",
+		"user": {
+			"id": 16664681,
+			"id_str": "16664681",
+			"name": "Los Angeles Times",
+			"screen_name": "latimes",
+			"location": "El Segundo, CA",
+			"description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/4UQaQvNbCp",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4UQaQvNbCp",
+							"expanded_url": "http://checkout2.latimes.com",
+							"display_url": "checkout2.latimes.com",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3371737,
+			"friends_count": 6916,
+			"listed_count": 31726,
+			"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+			"favourites_count": 2129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 225951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043205431340892160/uvDP6wTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043205431340892160/uvDP6wTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "615F61",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Officers have become reluctant to physically restrain youths to control tense situations, allowing eruptions to occur that have led to injuries or property damage. https://t.co/bAPEfMnCAL https://t.co/R0LQGD3PMB"
+	},
+	{
 		"created_at": "Mon May 20 17:14:54 +0000 2019",
 		"id": 1130522040123789300,
 		"id_str": "1130522296685252608",
