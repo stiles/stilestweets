@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 13:36:58 +0000 2019",
+		"id": 1130467146121789400,
+		"id_str": "1130467453606064128",
+		"full_text": "I mean, when we asked them before the season people considered Bran to be a sub-par leader, like the 13th best option only ahead of like The Hound and Cersei and Grey Worm. https://t.co/InSKRWDyNd https://t.co/YJVnTV0CbJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/InSKRWDyNd",
+					"expanded_url": "https://www.insider.com/game-of-thrones-characters-most-likely-to-win-2019-4",
+					"display_url": "insider.com/game-of-throne…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130467142036541400,
+					"id_str": "1130467142036541441",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/D7A54E9W0AE05qX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7A54E9W0AE05qX.jpg",
+					"url": "https://t.co/YJVnTV0CbJ",
+					"display_url": "pic.twitter.com/YJVnTV0CbJ",
+					"expanded_url": "https://twitter.com/WaltHickey/status/1130467146121789440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 741,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130467142036541400,
+					"id_str": "1130467142036541441",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/D7A54E9W0AE05qX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7A54E9W0AE05qX.jpg",
+					"url": "https://t.co/YJVnTV0CbJ",
+					"display_url": "pic.twitter.com/YJVnTV0CbJ",
+					"expanded_url": "https://twitter.com/WaltHickey/status/1130467146121789440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 741,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 587,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 235700566,
+			"id_str": "235700566",
+			"name": "Walter Hickey",
+			"screen_name": "WaltHickey",
+			"location": "New York",
+			"description": "https://t.co/FUsQZ4YrUf & Senior Editor for Data, @thisisinsider. Previously: @FiveThirtyEight and @WilliamAndMary.",
+			"url": "https://t.co/69wFnkVUBy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/69wFnkVUBy",
+							"expanded_url": "http://Numlock.news",
+							"display_url": "Numlock.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FUsQZ4YrUf",
+							"expanded_url": "http://numlock.news",
+							"display_url": "numlock.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20580,
+			"friends_count": 2083,
+			"listed_count": 594,
+			"created_at": "Sat Jan 08 21:53:02 +0000 2011",
+			"favourites_count": 28288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078135087148003335/5Gi9tBdn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078135087148003335/5Gi9tBdn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/235700566/1542336792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 72,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean, when we asked them before the season people considered Bran to be a sub-par leader, like the 13th best option only ahead of like The Hound and Cersei and Grey Worm. https://t.co/InSKRWDyNd https://t.co/YJVnTV0CbJ"
+	},
+	{
 		"created_at": "Mon May 20 00:24:44 +0000 2019",
 		"id": 1130268082667057200,
 		"id_str": "1130268082667057152",
