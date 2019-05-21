@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 01:08:46 +0000 2019",
+		"id": 1130601842919039000,
+		"id_str": "1130641549140717568",
+		"full_text": "0xe70e83 https://t.co/RMQkthfrHa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130601842084388900,
+					"id_str": "1130601842084388864",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D7C0YpvXoAAW8BO.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7C0YpvXoAAW8BO.png",
+					"url": "https://t.co/RMQkthfrHa",
+					"display_url": "pic.twitter.com/RMQkthfrHa",
+					"expanded_url": "https://twitter.com/everycolorbot/status/1130601842919038977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130601842084388900,
+					"id_str": "1130601842084388864",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/D7C0YpvXoAAW8BO.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7C0YpvXoAAW8BO.png",
+					"url": "https://t.co/RMQkthfrHa",
+					"display_url": "pic.twitter.com/RMQkthfrHa",
+					"expanded_url": "https://twitter.com/everycolorbot/status/1130601842919038977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://github.com/vogon/everycolor\" rel=\"nofollow\">everycolor.rb</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1909219404,
+			"id_str": "1909219404",
+			"name": "Every Color",
+			"screen_name": "everycolorbot",
+			"location": "the RGB color space",
+			"description": "colors.  all of 'em. | developed by @vogon; feel free to send him feedback/feature requests",
+			"url": "https://t.co/ICFGFTYbjQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ICFGFTYbjQ",
+							"expanded_url": "https://github.com/vogon/everycolor",
+							"display_url": "github.com/vogon/everycol…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 177096,
+			"friends_count": 0,
+			"listed_count": 1498,
+			"created_at": "Thu Sep 26 21:22:10 +0000 2013",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49241,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526752965068345344/apsYsEVk_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526752965068345344/apsYsEVk_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 189,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "0xe70e83 https://t.co/RMQkthfrHa"
+	},
+	{
 		"created_at": "Tue May 21 00:09:54 +0000 2019",
 		"id": 1130626734867374100,
 		"id_str": "1130626734867374080",
