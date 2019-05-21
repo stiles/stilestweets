@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 22:37:44 +0000 2019",
+		"id": 1130964415765856300,
+		"id_str": "1130965927661412353",
+		"full_text": "Thanks to data collected &amp; made available by @stiles &amp; @latimes, the @LongBeachPost made a thing: a heat map locating the 6,800 jacaranda trees blooming along public streets in Long Beach. Here are the heliotrope hotspots: https://t.co/0DIFV9jRUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"screen_name": "LongBeachPost",
+					"name": "Long Beach Post",
+					"id": 20496846,
+					"id_str": "20496846",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0DIFV9jRUN",
+					"expanded_url": "https://lbpost.com/news/city/jacaranda-map/",
+					"display_url": "lbpost.com/news/city/jaca…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158615300,
+			"id_str": "158615300",
+			"name": "David Sommers",
+			"screen_name": "david_sommers",
+			"location": "Long Beach, CA",
+			"description": "Publisher, @LongBeachPost #GoLongBeach via @SacState @TheStateHornet @KGWNews @KTVB & @CountyofLA",
+			"url": "https://t.co/tvC0tIszhD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tvC0tIszhD",
+							"expanded_url": "http://www.lbpost.com",
+							"display_url": "lbpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 132,
+			"listed_count": 6,
+			"created_at": "Wed Jun 23 04:28:35 +0000 2010",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1008807459572469760/YEj-ZO5A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008807459572469760/YEj-ZO5A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158615300/1529126116",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to data collected &amp; made available by @stiles &amp; @latimes, the @LongBeachPost made a thing: a heat map locating the 6,800 jacaranda trees blooming along public streets in Long Beach. Here are the heliotrope hotspots: https://t.co/0DIFV9jRUN"
+	},
+	{
 		"created_at": "Tue May 21 21:22:39 +0000 2019",
 		"id": 1130947032233865200,
 		"id_str": "1130947032233865216",
