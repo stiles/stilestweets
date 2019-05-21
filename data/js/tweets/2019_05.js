@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 21 19:11:48 +0000 2019",
+		"id": 1130895569130467300,
+		"id_str": "1130914105424932865",
+		"full_text": "Today seems like a good day to tweet the demographics of Los Angeles County. According to the 2013-2017 ACS estimates, the county is:\n\n27% White \n48% Latino\n15% Asian\n8% Black\n\nPlease apply this information to your world view! Thank you!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17626551,
+			"id_str": "17626551",
+			"name": "Frank Shyong 熊紹岡",
+			"screen_name": "frankshyong",
+			"location": "Los Angeles, CA",
+			"description": "@latimes columnist writing about the city. Likes Dodgers, old restaurants, & criticizing your city's Chinese food.",
+			"url": "https://t.co/HfXAlF2tFn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HfXAlF2tFn",
+							"expanded_url": "http://www.frankshyong.com",
+							"display_url": "frankshyong.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9429,
+			"friends_count": 4697,
+			"listed_count": 278,
+			"created_at": "Tue Nov 25 18:18:49 +0000 2008",
+			"favourites_count": 7089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7817,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963956534303584256/teGjNY_R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963956534303584256/teGjNY_R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17626551/1512431164",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 278,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Today seems like a good day to tweet the demographics of Los Angeles County. According to the 2013-2017 ACS estimates, the county is:\n\n27% White \n48% Latino\n15% Asian\n8% Black\n\nPlease apply this information to your world view! Thank you!"
+	},
+	{
 		"created_at": "Tue May 21 17:01:48 +0000 2019",
 		"id": 1130881389434294300,
 		"id_str": "1130881389434294274",
