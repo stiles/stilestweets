@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 13:49:28 +0000 2019",
+		"id": 1131045278067437600,
+		"id_str": "1131195374658437123",
+		"full_text": "20s: Who will pay me for my labor?\n\n30s: Who can I labor for whilst furthering my beliefs?\n\n40s: Who is worthy of my labor?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14570738,
+			"id_str": "14570738",
+			"name": "Brian Boyer",
+			"screen_name": "brianboyer",
+			"location": "Chicago",
+			"description": "Hire me! Formerly VP Product + People at @spiritedmediaco, @nprviz, @tribapps, @propubnerds. Adviser, @detroitsound.",
+			"url": "https://t.co/ASuNrDlpFT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ASuNrDlpFT",
+							"expanded_url": "https://brianboyer.net/",
+							"display_url": "brianboyer.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12788,
+			"friends_count": 780,
+			"listed_count": 1225,
+			"created_at": "Mon Apr 28 15:37:43 +0000 2008",
+			"favourites_count": 815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986978578989486080/_4_JBD7__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986978578989486080/_4_JBD7__normal.jpg",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F7F4",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 41,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "20s: Who will pay me for my labor?\n\n30s: Who can I labor for whilst furthering my beliefs?\n\n40s: Who is worthy of my labor?"
+	},
+	{
+		"created_at": "Wed May 22 13:49:11 +0000 2019",
+		"id": 1131035532677357600,
+		"id_str": "1131195303153946626",
+		"full_text": "it took 8 years of avoiding spoilers but im glad i went into this Aaron Rodgers game of thrones content totally pure https://t.co/ZdptafDUx7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZdptafDUx7",
+					"expanded_url": "https://twitter.com/ClayTravis/status/1130985670217015296",
+					"display_url": "twitter.com/ClayTravis/sta…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24657506,
+			"id_str": "24657506",
+			"name": "Javier Panzar 🦅",
+			"screen_name": "jpanzar",
+			"location": "Los Angeles, CA",
+			"description": "Reporter: @latimes. I tweet about maps, bikes, movies, history and other weird stuff. Oakland grown. Fiat Lux. javier.panzar@latimes.com",
+			"url": "https://t.co/7sQbHlQT0U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7sQbHlQT0U",
+							"expanded_url": "http://www.latimes.com/la-bio-javier-panzar-staff.html",
+							"display_url": "latimes.com/la-bio-javier-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6869,
+			"friends_count": 4030,
+			"listed_count": 258,
+			"created_at": "Mon Mar 16 05:55:12 +0000 2009",
+			"favourites_count": 24663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050226970460483584/fbndladh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050226970460483584/fbndladh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24657506/1447376241",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130985670217015300,
+		"quoted_status_id_str": "1130985670217015296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZdptafDUx7",
+			"expanded": "https://twitter.com/ClayTravis/status/1130985670217015296",
+			"display": "twitter.com/ClayTravis/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 21 23:56:11 +0000 2019",
+			"id": 1130985670217015300,
+			"id_str": "1130985670217015296",
+			"full_text": "Aaron Rodgers with an absolutely perfect take on the Game of Thrones series finale sucking. https://t.co/am3084Z6TG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1130969845607149600,
+						"id_str": "1130969845607149568",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130969845607149568/pu/img/mtAPIzulzuMewO3q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130969845607149568/pu/img/mtAPIzulzuMewO3q.jpg",
+						"url": "https://t.co/am3084Z6TG",
+						"display_url": "pic.twitter.com/am3084Z6TG",
+						"expanded_url": "https://twitter.com/espn/status/1130969958509424640/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1130969958509424600,
+						"source_status_id_str": "1130969958509424640",
+						"source_user_id": 2557521,
+						"source_user_id_str": "2557521"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1130969845607149600,
+						"id_str": "1130969845607149568",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130969845607149568/pu/img/mtAPIzulzuMewO3q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130969845607149568/pu/img/mtAPIzulzuMewO3q.jpg",
+						"url": "https://t.co/am3084Z6TG",
+						"display_url": "pic.twitter.com/am3084Z6TG",
+						"expanded_url": "https://twitter.com/espn/status/1130969958509424640/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1130969958509424600,
+						"source_status_id_str": "1130969958509424640",
+						"source_user_id": 2557521,
+						"source_user_id_str": "2557521",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 98966,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1130969845607149568/pu/pl/ztrcltkvR5yMhI2A.m3u8?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1130969845607149568/pu/vid/480x480/oTm2tvBcjjrhmfCB.mp4?tag=9"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1130969845607149568/pu/vid/720x720/VjDRgerazA8z9uIW.mp4?tag=9"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1130969845607149568/pu/vid/320x320/Ss3BugJecOqvi9SJ.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2557521,
+								"id_str": "2557521",
+								"name": "ESPN",
+								"screen_name": "espn",
+								"location": "",
+								"description": "Download the ESPN App ⬇️",
+								"url": "https://t.co/RqqkIwR5jx",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/RqqkIwR5jx",
+												"expanded_url": "http://es.pn/app",
+												"display_url": "es.pn/app",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 33936643,
+								"friends_count": 297,
+								"listed_count": 59926,
+								"created_at": "Tue Mar 27 20:46:16 +0000 2007",
+								"favourites_count": 234,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 102273,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": true,
+								"profile_background_color": "C8C8C8",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1027403255607746560/dIyhrGOz_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027403255607746560/dIyhrGOz_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2557521/1516042897",
+								"profile_link_color": "CC0000",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "EFEFEF",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50772918,
+				"id_str": "50772918",
+				"name": "Clay Travis",
+				"screen_name": "ClayTravis",
+				"location": "Nashville",
+				"description": "https://t.co/Ut3ejMNAQd, @outkick @foxsportsradio 6-9 am et & @lockitinonfs1 TV show 4:30 et, author, Republicans Buy Sneakers Too, dad of three boys, lawyer",
+				"url": "https://t.co/c46ZljJT0b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c46ZljJT0b",
+								"expanded_url": "http://www.outkick.com",
+								"display_url": "outkick.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ut3ejMNAQd",
+								"expanded_url": "http://Outkick.com",
+								"display_url": "Outkick.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 615603,
+				"friends_count": 337,
+				"listed_count": 3590,
+				"created_at": "Thu Jun 25 21:16:40 +0000 2009",
+				"favourites_count": 3125,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 96455,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/668983225860034564/PIdSf23G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/668983225860034564/PIdSf23G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50772918/1448333179",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1502,
+			"favorite_count": 6392,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "it took 8 years of avoiding spoilers but im glad i went into this Aaron Rodgers game of thrones content totally pure https://t.co/ZdptafDUx7"
+	},
+	{
 		"created_at": "Tue May 21 23:30:45 +0000 2019",
 		"id": 1130979269763448800,
 		"id_str": "1130979269763448832",
