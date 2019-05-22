@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 18:05:10 +0000 2019",
+		"id": 1131259724307939300,
+		"id_str": "1131259724307939328",
+		"full_text": "Ick. I have no knowledge of their history — perfect for an opinion on Twitter. Thanks for setting me straight. https://t.co/V4zQri7EMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V4zQri7EMA",
+					"expanded_url": "https://twitter.com/schwanksta/status/1131259382598184966",
+					"display_url": "twitter.com/schwanksta/sta…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10769,
+			"friends_count": 1592,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1558480371",
+			"profile_link_color": "4E5438",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131259382598185000,
+		"quoted_status_id_str": "1131259382598184966",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V4zQri7EMA",
+			"expanded": "https://twitter.com/schwanksta/status/1131259382598184966",
+			"display": "twitter.com/schwanksta/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 22 18:03:49 +0000 2019",
+			"id": 1131259382598185000,
+			"id_str": "1131259382598184966",
+			"full_text": "@stiles well, considering the actual story is that she said he was creepy to her when she was 18....i wouldn't feel too bad for him.",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				132
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stiles",
+						"name": "Matt Stiles",
+						"id": 14790314,
+						"id_str": "14790314",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1131258847606190100,
+			"in_reply_to_status_id_str": "1131258847606190080",
+			"in_reply_to_user_id": 14790314,
+			"in_reply_to_user_id_str": "14790314",
+			"in_reply_to_screen_name": "stiles",
+			"user": {
+				"id": 12750422,
+				"id_str": "12750422",
+				"name": "Ken Schwencke",
+				"screen_name": "schwanksta",
+				"location": "Brooklyn, NY",
+				"description": "Journalist and programmer. News apps @propublica. Formerly @electionland @nytimes @latimes. Super gay. ken.schwencke@propublica.org",
+				"url": "https://t.co/eSYPBvh2hY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eSYPBvh2hY",
+								"expanded_url": "http://schwanksta.com",
+								"display_url": "schwanksta.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5765,
+				"friends_count": 1486,
+				"listed_count": 432,
+				"created_at": "Sun Jan 27 14:45:10 +0000 2008",
+				"favourites_count": 13973,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25490,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E9F4F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981628800797741057/KwWEFOeW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981628800797741057/KwWEFOeW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12750422/1485373091",
+				"profile_link_color": "FF5443",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ick. I have no knowledge of their history — perfect for an opinion on Twitter. Thanks for setting me straight. https://t.co/V4zQri7EMA"
+	},
+	{
+		"created_at": "Wed May 22 18:01:41 +0000 2019",
+		"id": 1131258847606190100,
+		"id_str": "1131258847606190080",
+		"full_text": "Poor Moby. https://t.co/JB8rNZftCy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131252914637250600,
+					"id_str": "1131252914637250560",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D7MEiEAUIAAwtBJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7MEiEAUIAAwtBJ.png",
+					"url": "https://t.co/JB8rNZftCy",
+					"display_url": "pic.twitter.com/JB8rNZftCy",
+					"expanded_url": "https://twitter.com/stiles/status/1131258847606190080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 558,
+							"h": 256,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 558,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 558,
+							"h": 256,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131252914637250600,
+					"id_str": "1131252914637250560",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D7MEiEAUIAAwtBJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7MEiEAUIAAwtBJ.png",
+					"url": "https://t.co/JB8rNZftCy",
+					"display_url": "pic.twitter.com/JB8rNZftCy",
+					"expanded_url": "https://twitter.com/stiles/status/1131258847606190080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 558,
+							"h": 256,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 558,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 558,
+							"h": 256,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10769,
+			"friends_count": 1592,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1558480371",
+			"profile_link_color": "4E5438",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Poor Moby. https://t.co/JB8rNZftCy"
+	},
+	{
 		"created_at": "Wed May 22 13:49:28 +0000 2019",
 		"id": 1131045278067437600,
 		"id_str": "1131195374658437123",
