@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 15:23:05 +0000 2019",
+		"id": 1131248086951583700,
+		"id_str": "1131581322474876929",
+		"full_text": "You've might heard I published the last and FINAL update to the #GameOfThrones death count graphic here: https://t.co/UdJtuqidIs\n\nI was a naive, tiny baby when I first pitched this graphic 5 years ago shortly after season 4. Here's a lil thread about how this all started: https://t.co/eNqiYbkA3a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GameOfThrones",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UdJtuqidIs",
+					"expanded_url": "https://wapo.st/thrones",
+					"display_url": "wapo.st/thrones",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1131247976289099800,
+					"id_str": "1131247976289099777",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7MACnOXYAEQQWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7MACnOXYAEQQWX.jpg",
+					"url": "https://t.co/eNqiYbkA3a",
+					"display_url": "pic.twitter.com/eNqiYbkA3a",
+					"expanded_url": "https://twitter.com/Tan_Shelly/status/1131248086951583746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 248,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131247976289099800,
+					"id_str": "1131247976289099777",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7MACnOXYAEQQWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7MACnOXYAEQQWX.jpg",
+					"url": "https://t.co/eNqiYbkA3a",
+					"display_url": "pic.twitter.com/eNqiYbkA3a",
+					"expanded_url": "https://twitter.com/Tan_Shelly/status/1131248086951583746/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 248,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							115,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D7MACnOXYAEQQWX.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 233844420,
+			"id_str": "233844420",
+			"name": "Shelly Tan",
+			"screen_name": "Tan_Shelly",
+			"location": "Washington, D.C.",
+			"description": "Pop culture graphics reporter + illustrator @PostGraphics. Overly invested in fictional characters | Prev @NPRViz, @KnightLab. @MedillSchool alum",
+			"url": "https://t.co/gy0rfbFVDL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gy0rfbFVDL",
+							"expanded_url": "https://www.washingtonpost.com/people/shelly-tan",
+							"display_url": "washingtonpost.com/people/shelly-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2358,
+			"friends_count": 893,
+			"listed_count": 128,
+			"created_at": "Tue Jan 04 07:18:06 +0000 2011",
+			"favourites_count": 8835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960301440412495873/eatUevLu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960301440412495873/eatUevLu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/233844420/1421435291",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 339,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You've might heard I published the last and FINAL update to the #GameOfThrones death count graphic here: https://t.co/UdJtuqidIs\n\nI was a naive, tiny baby when I first pitched this graphic 5 years ago shortly after season 4. Here's a lil thread about how this all started: https://t.co/eNqiYbkA3a"
+	},
+	{
 		"created_at": "Wed May 22 23:02:19 +0000 2019",
 		"id": 1131334502926639100,
 		"id_str": "1131334502926639105",
