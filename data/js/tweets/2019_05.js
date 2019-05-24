@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 23:44:22 +0000 2019",
+		"id": 1131701554749222900,
+		"id_str": "1131707474556252162",
+		"full_text": "Days after @stiles reported on major problems at LA juvenile halls, the condition prompt a visit from state investigators. https://t.co/5gktfmJ8Op",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5gktfmJ8Op",
+					"expanded_url": "https://www.latimes.com/local/california/la-me-juvenile-halls-doj-justice-department-inspection-20190523-story.html",
+					"display_url": "latimes.com/local/californ…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14827461,
+			"id_str": "14827461",
+			"name": "Shelby Grad",
+			"screen_name": "shelbygrad",
+			"location": "🌴Los Angeles💥",
+			"description": "@latimes Assistant Managing Editor overseeing Metro & California.",
+			"url": "https://t.co/emWaPa3SBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emWaPa3SBu",
+							"expanded_url": "http://www.latimes.com/california",
+							"display_url": "latimes.com/california",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12708,
+			"friends_count": 985,
+			"listed_count": 512,
+			"created_at": "Mon May 19 02:25:01 +0000 2008",
+			"favourites_count": 5630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126637021835870208/4V1wSeUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126637021835870208/4V1wSeUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14827461/1557793823",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Days after @stiles reported on major problems at LA juvenile halls, the condition prompt a visit from state investigators. https://t.co/5gktfmJ8Op"
+	},
+	{
 		"created_at": "Thu May 23 23:15:21 +0000 2019",
 		"id": 1131700170939224000,
 		"id_str": "1131700170939224064",
