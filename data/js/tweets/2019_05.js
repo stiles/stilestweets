@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 24 13:44:46 +0000 2019",
+		"id": 1131870654742114300,
+		"id_str": "1131918968229203969",
+		"full_text": "How Common is Your Birthday? This Visualization Might Surprise You https://t.co/tqPIds7RDm via @stiles",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						95,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tqPIds7RDm",
+					"expanded_url": "http://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/",
+					"display_url": "thedailyviz.com/2016/09/17/how…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14624231,
+			"id_str": "14624231",
+			"name": "MH",
+			"screen_name": "iMarcelo",
+			"location": "Maribor",
+			"description": "Slovenia, Europe",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 388,
+			"listed_count": 13,
+			"created_at": "Fri May 02 10:15:22 +0000 2008",
+			"favourites_count": 4391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/533591622382919682/AuqFCjOi_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/533591622382919682/AuqFCjOi_normal.jpeg",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Common is Your Birthday? This Visualization Might Surprise You https://t.co/tqPIds7RDm via @stiles"
+	},
+	{
 		"created_at": "Thu May 23 23:44:22 +0000 2019",
 		"id": 1131701554749222900,
 		"id_str": "1131707474556252162",
