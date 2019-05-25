@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 25 02:36:01 +0000 2019",
+		"id": 1132082628058857500,
+		"id_str": "1132113057906225158",
+		"full_text": "How Facebook, YouTube, and Twitter dealt with the doctored video of Pelosi may serve as a warning of what’s to come in 2020. https://t.co/5jP9GobCma",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5jP9GobCma",
+					"expanded_url": "https://lat.ms/2QmLpOW",
+					"display_url": "lat.ms/2QmLpOW",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16664681,
+			"id_str": "16664681",
+			"name": "Los Angeles Times",
+			"screen_name": "latimes",
+			"location": "El Segundo, CA",
+			"description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/4UQaQvNbCp",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4UQaQvNbCp",
+							"expanded_url": "http://checkout2.latimes.com",
+							"display_url": "checkout2.latimes.com",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3373506,
+			"friends_count": 6913,
+			"listed_count": 31723,
+			"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+			"favourites_count": 2137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 226589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043205431340892160/uvDP6wTZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043205431340892160/uvDP6wTZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "615F61",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Facebook, YouTube, and Twitter dealt with the doctored video of Pelosi may serve as a warning of what’s to come in 2020. https://t.co/5jP9GobCma"
+	},
+	{
 		"created_at": "Fri May 24 18:13:49 +0000 2019",
 		"id": 1131986675284947000,
 		"id_str": "1131986675284946944",
