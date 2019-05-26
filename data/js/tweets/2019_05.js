@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 14:10:44 +0000 2019",
+		"id": 1132650135614382100,
+		"id_str": "1132650276555350017",
+		"full_text": "This is so true. The press seems to want this to be more black and white — it's not. https://t.co/lT56G5TF9G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lT56G5TF9G",
+					"expanded_url": "https://twitter.com/ev/status/1131258487625867264",
+					"display_url": "twitter.com/ev/status/1131…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13479,
+			"id_str": "13479",
+			"name": "Matt Mullenweg",
+			"screen_name": "photomatt",
+			"location": "On a Plane",
+			"description": "I can think. I can wait. I can fast.",
+			"url": "https://t.co/E0gApO8Ywc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E0gApO8Ywc",
+							"expanded_url": "https://ma.tt/",
+							"display_url": "ma.tt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105474,
+			"friends_count": 1197,
+			"listed_count": 5951,
+			"created_at": "Tue Nov 21 10:08:08 +0000 2006",
+			"favourites_count": 2424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1980685215/avatar_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1980685215/avatar_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13479/1398199440",
+			"profile_link_color": "EB14C5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFD291",
+			"profile_text_color": "701E00",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131258487625867300,
+		"quoted_status_id_str": "1131258487625867264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lT56G5TF9G",
+			"expanded": "https://twitter.com/ev/status/1131258487625867264",
+			"display": "twitter.com/ev/status/1131…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 22 18:00:15 +0000 2019",
+			"id": 1131258487625867300,
+			"id_str": "1131258487625867264",
+			"full_text": "I still strongly believe open platforms like Twitter are important for society. *And* it is almost impossible to capture the good without getting some bad. *And* there is much that should (and will) be done to make these places (this place) more civil.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1131258484610048000,
+			"in_reply_to_status_id_str": "1131258484610048001",
+			"in_reply_to_user_id": 20,
+			"in_reply_to_user_id_str": "20",
+			"in_reply_to_screen_name": "ev",
+			"user": {
+				"id": 20,
+				"id_str": "20",
+				"name": "Ev",
+				"screen_name": "ev",
+				"location": "San Francisco, CA, US",
+				"description": "",
+				"url": "https://t.co/eVBubDDyC8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eVBubDDyC8",
+								"expanded_url": "http://medium.com/",
+								"display_url": "medium.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1798759,
+				"friends_count": 1049,
+				"listed_count": 19999,
+				"created_at": "Tue Mar 21 21:02:31 +0000 2006",
+				"favourites_count": 4654,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8267,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B6D4D1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112521685045923840/PNTlqJOF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112521685045923840/PNTlqJOF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20/1554080858",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EE7C6E",
+				"profile_text_color": "AF4E4D",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 166,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is so true. The press seems to want this to be more black and white — it's not. https://t.co/lT56G5TF9G"
+	},
+	{
 		"created_at": "Sun May 26 02:13:33 +0000 2019",
 		"id": 1132469791032086500,
 		"id_str": "1132469791032086530",
