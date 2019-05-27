@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 16:50:45 +0000 2019",
+		"id": 1133052935175254000,
+		"id_str": "1133052935175254016",
+		"full_text": "@jrkoren @palewire A “proxy method”. I like that term.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jrkoren",
+					"name": "James Rufus Koren",
+					"id": 27905510,
+					"id_str": "27905510",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "palewire",
+					"name": "Ben Welsh",
+					"id": 14559196,
+					"id_str": "14559196",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1133050514436870100,
+		"in_reply_to_status_id_str": "1133050514436870146",
+		"in_reply_to_user_id": 27905510,
+		"in_reply_to_user_id_str": "27905510",
+		"in_reply_to_screen_name": "jrkoren",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10799,
+			"friends_count": 1594,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1558880563",
+			"profile_link_color": "C33826",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "38ea9782c8d83a4b",
+			"url": "https://api.twitter.com/1.1/geo/id/38ea9782c8d83a4b.json",
+			"place_type": "city",
+			"name": "Marina del Rey",
+			"full_name": "Marina del Rey, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.463481,
+							33.964019
+						],
+						[
+							-118.4321992,
+							33.964019
+						],
+						[
+							-118.4321992,
+							33.98647
+						],
+						[
+							-118.463481,
+							33.98647
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jrkoren @palewire A “proxy method”. I like that term."
+	},
+	{
+		"created_at": "Mon May 27 16:38:52 +0000 2019",
+		"id": 1133049943160107000,
+		"id_str": "1133049943160107008",
+		"full_text": "@cmaiduc @palewire @Political_Data Yikes!!",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cmaiduc",
+					"name": "Christine Mai-Duc",
+					"id": 353489777,
+					"id_str": "353489777",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "palewire",
+					"name": "Ben Welsh",
+					"id": 14559196,
+					"id_str": "14559196",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "Political_Data",
+					"name": "Political Data",
+					"id": 731167752,
+					"id_str": "731167752",
+					"indices": [
+						19,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1133049523624824800,
+		"in_reply_to_status_id_str": "1133049523624824832",
+		"in_reply_to_user_id": 353489777,
+		"in_reply_to_user_id_str": "353489777",
+		"in_reply_to_screen_name": "cmaiduc",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10799,
+			"friends_count": 1594,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1558880563",
+			"profile_link_color": "C33826",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "38ea9782c8d83a4b",
+			"url": "https://api.twitter.com/1.1/geo/id/38ea9782c8d83a4b.json",
+			"place_type": "city",
+			"name": "Marina del Rey",
+			"full_name": "Marina del Rey, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.463481,
+							33.964019
+						],
+						[
+							-118.4321992,
+							33.964019
+						],
+						[
+							-118.4321992,
+							33.98647
+						],
+						[
+							-118.463481,
+							33.98647
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cmaiduc @palewire @Political_Data Yikes!!"
+	},
+	{
+		"created_at": "Mon May 27 16:36:03 +0000 2019",
+		"id": 1133049235887149000,
+		"id_str": "1133049235887149056",
+		"full_text": "@cmaiduc @palewire @Political_Data Not that I can tell. The surname lists are derived from samples of people born in the various countries, but I'm not sure if this group uses birthplace from registration cards in addition to this matching. Still reading. More caution about the surname methodology, btw: https://t.co/MKPwr115ro",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			304
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cmaiduc",
+					"name": "Christine Mai-Duc",
+					"id": 353489777,
+					"id_str": "353489777",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "palewire",
+					"name": "Ben Welsh",
+					"id": 14559196,
+					"id_str": "14559196",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "Political_Data",
+					"name": "Political Data",
+					"id": 731167752,
+					"id_str": "731167752",
+					"indices": [
+						19,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133049015073878000,
+					"id_str": "1133049015073878016",
+					"indices": [
+						305,
+						328
+					],
+					"media_url": "http://pbs.twimg.com/media/D7lmE3iVsAAC_rI.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7lmE3iVsAAC_rI.png",
+					"url": "https://t.co/MKPwr115ro",
+					"display_url": "pic.twitter.com/MKPwr115ro",
+					"expanded_url": "https://twitter.com/stiles/status/1133049235887149056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1418,
+							"h": 838,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133049015073878000,
+					"id_str": "1133049015073878016",
+					"indices": [
+						305,
+						328
+					],
+					"media_url": "http://pbs.twimg.com/media/D7lmE3iVsAAC_rI.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7lmE3iVsAAC_rI.png",
+					"url": "https://t.co/MKPwr115ro",
+					"display_url": "pic.twitter.com/MKPwr115ro",
+					"expanded_url": "https://twitter.com/stiles/status/1133049235887149056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1418,
+							"h": 838,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1133047525726777300,
+		"in_reply_to_status_id_str": "1133047525726777344",
+		"in_reply_to_user_id": 353489777,
+		"in_reply_to_user_id_str": "353489777",
+		"in_reply_to_screen_name": "cmaiduc",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10799,
+			"friends_count": 1594,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1558880563",
+			"profile_link_color": "C33826",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cmaiduc @palewire @Political_Data Not that I can tell. The surname lists are derived from samples of people born in the various countries, but I'm not sure if this group uses birthplace from registration cards in addition to this matching. Still reading. More caution about the surname methodology, btw: https://t.co/MKPwr115ro"
+	},
+	{
+		"created_at": "Mon May 27 16:29:10 +0000 2019",
+		"id": 1133047504780423200,
+		"id_str": "1133047504780423168",
+		"full_text": "'Since that initial rush, however, O’Rourke has steadily sunk into the morass of a race with nearly two dozen candidates.' William Finnegan explores whether @BetoORourke can bounce back: https://t.co/KccbOfAFXR https://t.co/jo5ksEFZtu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BetoORourke",
+					"name": "Beto O'Rourke",
+					"id": 342863309,
+					"id_str": "342863309",
+					"indices": [
+						157,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KccbOfAFXR",
+					"expanded_url": "https://www.newyorker.com/magazine/2019/06/03/can-beto-bounce-back",
+					"display_url": "newyorker.com/magazine/2019/…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1133047501118791700,
+					"id_str": "1133047501118791680",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/D7lksvnUYAAhOLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7lksvnUYAAhOLz.jpg",
+					"url": "https://t.co/jo5ksEFZtu",
+					"display_url": "pic.twitter.com/jo5ksEFZtu",
+					"expanded_url": "https://twitter.com/stiles/status/1133047504780423168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133047501118791700,
+					"id_str": "1133047501118791680",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/D7lksvnUYAAhOLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7lksvnUYAAhOLz.jpg",
+					"url": "https://t.co/jo5ksEFZtu",
+					"display_url": "pic.twitter.com/jo5ksEFZtu",
+					"expanded_url": "https://twitter.com/stiles/status/1133047504780423168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10799,
+			"friends_count": 1594,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1558880563",
+			"profile_link_color": "C33826",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Since that initial rush, however, O’Rourke has steadily sunk into the morass of a race with nearly two dozen candidates.' William Finnegan explores whether @BetoORourke can bounce back: https://t.co/KccbOfAFXR https://t.co/jo5ksEFZtu"
+	},
+	{
 		"created_at": "Mon May 27 15:52:49 +0000 2019",
 		"id": 1133038355384418300,
 		"id_str": "1133038355384418305",
