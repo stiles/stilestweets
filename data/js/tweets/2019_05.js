@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 05:34:50 +0000 2019",
+		"id": 1132882701122322400,
+		"id_str": "1132882833091940352",
+		"full_text": "🚨 Awesome job 🚨 \nInstagram + NYT! https://t.co/n22oFMs1Qd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n22oFMs1Qd",
+					"expanded_url": "https://twitter.com/charohenriquez/status/1132678572286664704",
+					"display_url": "twitter.com/charohenriquez…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16252393,
+			"id_str": "16252393",
+			"name": "Angela Kim",
+			"screen_name": "angelaishere",
+			"location": "Los Angeles",
+			"description": "Aud dev at @yahoo. Former public radio producer @marketplace. Always making time for nat'l parks, good food, travel.",
+			"url": "https://t.co/eesJ1qyVAZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eesJ1qyVAZ",
+							"expanded_url": "http://Instagram.com/angelaishere/",
+							"display_url": "Instagram.com/angelaishere/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4438,
+			"friends_count": 1582,
+			"listed_count": 373,
+			"created_at": "Fri Sep 12 03:26:15 +0000 2008",
+			"favourites_count": 1989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/520376755522002944/vZ-JacgQ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/520376755522002944/vZ-JacgQ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16252393/1398669148",
+			"profile_link_color": "E80C8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132678572286664700,
+		"quoted_status_id_str": "1132678572286664704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n22oFMs1Qd",
+			"expanded": "https://twitter.com/charohenriquez/status/1132678572286664704",
+			"display": "twitter.com/charohenriquez…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 26 16:03:10 +0000 2019",
+			"id": 1132678572286664700,
+			"id_str": "1132678572286664704",
+			"full_text": "We’re hiring a Director of Instagram!!! —&gt; “The director’s primary role will be to manage a team that drives our Instagram strategy and execution, including visual editing and writing for the @nytimes account with six million followers.“ Details here 👇🏽  https://t.co/YYzeeLbaD9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							195,
+							203
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YYzeeLbaD9",
+						"expanded_url": "https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Director--Instagram_REQ-005468-1",
+						"display_url": "nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/…",
+						"indices": [
+							258,
+							281
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14816238,
+				"id_str": "14816238",
+				"name": "Charo Henríquez",
+				"screen_name": "charohenriquez",
+				"location": "New York, NY",
+				"description": "Sr Editor Digital Transition Strategy @nytimes, championing for more women in media leadership, @ONA Board. Priors: @elnuevodia @primerahora @peopleenespanol 🇵🇷",
+				"url": "https://t.co/UQNBQzrs07",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UQNBQzrs07",
+								"expanded_url": "https://about.me/charo",
+								"display_url": "about.me/charo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4169,
+				"friends_count": 2433,
+				"listed_count": 241,
+				"created_at": "Sun May 18 00:41:03 +0000 2008",
+				"favourites_count": 12583,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 24799,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1045099741657395201/q4orZmne_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045099741657395201/q4orZmne_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14816238/1486365608",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 83,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨 Awesome job 🚨 \nInstagram + NYT! https://t.co/n22oFMs1Qd"
+	},
+	{
 		"created_at": "Mon May 27 04:46:56 +0000 2019",
 		"id": 1132870781774381000,
 		"id_str": "1132870781774381056",
