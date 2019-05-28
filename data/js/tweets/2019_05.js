@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 22:50:48 +0000 2019",
+		"id": 1133505851115941900,
+		"id_str": "1133505934385328128",
+		"full_text": "Copying all biologists, physicists, geneticists, environmental, weather, climate scientists, and so forth cc @UMiamiRSMAS @abesscenter @MichaelEMann etc. https://t.co/qwaF2UZaoz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UMiamiRSMAS",
+					"name": "Rosenstiel School",
+					"id": 176872939,
+					"id_str": "176872939",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"screen_name": "abesscenter",
+					"name": "UM Abess Center",
+					"id": 119823856,
+					"id_str": "119823856",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"screen_name": "MichaelEMann",
+					"name": "Michael E. Mann",
+					"id": 384923143,
+					"id_str": "384923143",
+					"indices": [
+						135,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qwaF2UZaoz",
+					"expanded_url": "https://twitter.com/LacePadilla/status/1133479348554686467",
+					"display_url": "twitter.com/LacePadilla/st…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34255829,
+			"id_str": "34255829",
+			"name": "Alberto Cairo",
+			"screen_name": "AlbertoCairo",
+			"location": "USA, Brazil, Spain",
+			"description": "Knight Chair at the U of Miami. Upcoming book: How Charts Lie (Oct. 2019). Previous: The Truthful Art (2016). Consultant and freelancer https://t.co/NvSZp9tK7Y",
+			"url": "https://t.co/WViz9fwKgb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WViz9fwKgb",
+							"expanded_url": "http://www.thefunctionalart.com",
+							"display_url": "thefunctionalart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NvSZp9tK7Y",
+							"expanded_url": "http://albertocairo.com/",
+							"display_url": "albertocairo.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45362,
+			"friends_count": 3679,
+			"listed_count": 3164,
+			"created_at": "Wed Apr 22 12:25:20 +0000 2009",
+			"favourites_count": 2685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 88556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069593505553633281/hoG3VcMt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069593505553633281/hoG3VcMt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34255829/1551301401",
+			"profile_link_color": "2FAFEB",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "5C5C5C",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133479348554686500,
+		"quoted_status_id_str": "1133479348554686467",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qwaF2UZaoz",
+			"expanded": "https://twitter.com/LacePadilla/status/1133479348554686467",
+			"display": "twitter.com/LacePadilla/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 28 21:05:10 +0000 2019",
+			"id": 1133479348554686500,
+			"id_str": "1133479348554686467",
+			"full_text": "Ever wonder 'why' exactly rainbow colormaps are bad? In our EuroVis paper, we provide empirical evidence that they perceptually discretize continuous data. Turns out that the discretization happens in unpredictable ways for different datasets. Sorry 🌈 👎 https://t.co/UuMem45kkh https://t.co/QaL7i55NLO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UuMem45kkh",
+						"expanded_url": "http://bit.ly/2YSsgHK",
+						"display_url": "bit.ly/2YSsgHK",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1133479242514272300,
+						"id_str": "1133479242514272258",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D7rtXZpXkAItTXe.png",
+						"media_url_https": "https://pbs.twimg.com/media/D7rtXZpXkAItTXe.png",
+						"url": "https://t.co/QaL7i55NLO",
+						"display_url": "pic.twitter.com/QaL7i55NLO",
+						"expanded_url": "https://twitter.com/LacePadilla/status/1133479348554686467/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133479242514272300,
+						"id_str": "1133479242514272258",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D7rtXZpXkAItTXe.png",
+						"media_url_https": "https://pbs.twimg.com/media/D7rtXZpXkAItTXe.png",
+						"url": "https://t.co/QaL7i55NLO",
+						"display_url": "pic.twitter.com/QaL7i55NLO",
+						"expanded_url": "https://twitter.com/LacePadilla/status/1133479348554686467/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 824684769543741400,
+				"id_str": "824684769543741440",
+				"name": "Lace Padilla",
+				"screen_name": "LacePadilla",
+				"location": "Merced, CA",
+				"description": "Assistant Professor, Cognitive & Information Sciences @ucmerced. studies visual decision-making and spatial cognition. she/her",
+				"url": "https://t.co/zgFY6kE6x5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zgFY6kE6x5",
+								"expanded_url": "http://lacepadilla.com",
+								"display_url": "lacepadilla.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1334,
+				"friends_count": 317,
+				"listed_count": 9,
+				"created_at": "Thu Jan 26 18:25:45 +0000 2017",
+				"favourites_count": 448,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 255,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131622213503856641/G9TLuHqq_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131622213503856641/G9TLuHqq_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Copying all biologists, physicists, geneticists, environmental, weather, climate scientists, and so forth cc @UMiamiRSMAS @abesscenter @MichaelEMann etc. https://t.co/qwaF2UZaoz"
+	},
+	{
 		"created_at": "Tue May 28 21:40:00 +0000 2019",
 		"id": 1133430529322184700,
 		"id_str": "1133488115094392832",
