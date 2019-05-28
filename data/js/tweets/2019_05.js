@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 18:38:17 +0000 2019",
+		"id": 1133442306651111400,
+		"id_str": "1133442383360667648",
+		"full_text": "We're tracking cable news mentions of 2020 Democrats 📺📊. Here's the latest: \n\nMentions of 2020 candidates were down overall last week ⬇️, but mentions of Pete Buttigieg went up ⬆️.\nhttps://t.co/vtRqyeXwob\n\nYou can download the #data as well! https://t.co/FsHpL81fty https://t.co/J3eyNYxsij",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "data",
+					"indices": [
+						227,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vtRqyeXwob",
+					"expanded_url": "https://fivethirtyeight.com/features/which-2020-candidate-was-mentioned-most-on-cable-news-last-week/",
+					"display_url": "fivethirtyeight.com/features/which…",
+					"indices": [
+						181,
+						204
+					]
+				},
+				{
+					"url": "https://t.co/FsHpL81fty",
+					"expanded_url": "https://github.com/fivethirtyeight/data/tree/master/media-mentions-2020",
+					"display_url": "github.com/fivethirtyeigh…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1133434684552224800,
+					"id_str": "1133434684552224769",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/D7rE1yTXoAEt0f7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7rE1yTXoAEt0f7.jpg",
+					"url": "https://t.co/J3eyNYxsij",
+					"display_url": "pic.twitter.com/J3eyNYxsij",
+					"expanded_url": "https://twitter.com/DataDhrumil/status/1133442306651111424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 639,
+							"h": 925,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 925,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133434684552224800,
+					"id_str": "1133434684552224769",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/D7rE1yTXoAEt0f7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7rE1yTXoAEt0f7.jpg",
+					"url": "https://t.co/J3eyNYxsij",
+					"display_url": "pic.twitter.com/J3eyNYxsij",
+					"expanded_url": "https://twitter.com/DataDhrumil/status/1133442306651111424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 639,
+							"h": 925,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 925,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1234092314,
+			"id_str": "1234092314",
+			"name": "Dhrumil Mehta",
+			"screen_name": "DataDhrumil",
+			"location": "",
+			"description": "Database Journalist, Politics @FiveThirtyEight  Adjunct Lecturer @Kennedy_School. Previously: @knightlab, @amazon.",
+			"url": "http://t.co/J7Tw0kYiwQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/J7Tw0kYiwQ",
+							"expanded_url": "http://www.dhrumilmehta.com",
+							"display_url": "dhrumilmehta.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3620,
+			"friends_count": 953,
+			"listed_count": 223,
+			"created_at": "Sat Mar 02 10:38:29 +0000 2013",
+			"favourites_count": 525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/450894408947232768/Gc6cXe5g_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/450894408947232768/Gc6cXe5g_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're tracking cable news mentions of 2020 Democrats 📺📊. Here's the latest: \n\nMentions of 2020 candidates were down overall last week ⬇️, but mentions of Pete Buttigieg went up ⬆️.\nhttps://t.co/vtRqyeXwob\n\nYou can download the #data as well! https://t.co/FsHpL81fty https://t.co/J3eyNYxsij"
+	},
+	{
 		"created_at": "Tue May 28 18:13:56 +0000 2019",
 		"id": 1133436258707955700,
 		"id_str": "1133436258707955712",
