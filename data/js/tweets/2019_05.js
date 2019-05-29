@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 18:17:36 +0000 2019",
+		"id": 1133754424776691700,
+		"id_str": "1133799568984829957",
+		"full_text": "\"Read the article.\"\n\"I didn't write the headline.\"\n\"That's really not what my story was about.\"\nToday, Bob Mueller is all of us.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16319594,
+			"id_str": "16319594",
+			"name": "Ben Casselman",
+			"screen_name": "bencasselman",
+			"location": "",
+			"description": "Econ/business/data reporter for @nytimes. Formerly: @fivethirtyeight, @WSJ. Adjunct @newmarkjschool. ben.casselman@nytimes.com Photo by Earl Wilson/NYT",
+			"url": "https://t.co/owZv13Yl8h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/owZv13Yl8h",
+							"expanded_url": "https://www.nytimes.com/by/ben-casselman",
+							"display_url": "nytimes.com/by/ben-casselm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51620,
+			"friends_count": 2152,
+			"listed_count": 1924,
+			"created_at": "Tue Sep 16 23:25:58 +0000 2008",
+			"favourites_count": 11691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/915996699142819840/uMHd1CDI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/915996699142819840/uMHd1CDI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16319594/1503940736",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 224,
+		"favorite_count": 1231,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"Read the article.\"\n\"I didn't write the headline.\"\n\"That's really not what my story was about.\"\nToday, Bob Mueller is all of us."
+	},
+	{
+		"created_at": "Wed May 29 18:16:13 +0000 2019",
+		"id": 1133799218282344400,
+		"id_str": "1133799218282344448",
+		"full_text": "p.s. Let me underscore the fact that you married me despite my username being @matt_stiles back then. https://t.co/WD5b3iseTh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "matt_stiles",
+					"name": "Matt Stiles",
+					"id": 291897533,
+					"id_str": "291897533",
+					"indices": [
+						78,
+						90
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133799045082669000,
+					"id_str": "1133799045082669057",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wQOXDUYAERo5o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wQOXDUYAERo5o.jpg",
+					"url": "https://t.co/WD5b3iseTh",
+					"display_url": "pic.twitter.com/WD5b3iseTh",
+					"expanded_url": "https://twitter.com/stiles/status/1133799218282344448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1816,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133799045082669000,
+					"id_str": "1133799045082669057",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wQOXDUYAERo5o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wQOXDUYAERo5o.jpg",
+					"url": "https://t.co/WD5b3iseTh",
+					"display_url": "pic.twitter.com/WD5b3iseTh",
+					"expanded_url": "https://twitter.com/stiles/status/1133799218282344448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1816,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1133791544203391000,
+		"in_reply_to_status_id_str": "1133791544203390977",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10807,
+			"friends_count": 1595,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1559152690",
+			"profile_link_color": "C33826",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "p.s. Let me underscore the fact that you married me despite my username being @matt_stiles back then. https://t.co/WD5b3iseTh"
+	},
+	{
 		"created_at": "Wed May 29 15:46:14 +0000 2019",
 		"id": 1133761474688561200,
 		"id_str": "1133761474688561152",
