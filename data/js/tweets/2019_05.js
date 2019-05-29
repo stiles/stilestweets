@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 01:17:43 +0000 2019",
+		"id": 1133542646729908200,
+		"id_str": "1133542906902433793",
+		"full_text": "A.) Try decaf. and B.) Of course she has a decision. And one that could have legal consequences for her. Have a nice night! https://t.co/6pL3OOmtWV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6pL3OOmtWV",
+					"expanded_url": "https://twitter.com/armandodkos/status/1133541787295977472",
+					"display_url": "twitter.com/armandodkos/st…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135575282,
+			"id_str": "135575282",
+			"name": "Ben White",
+			"screen_name": "morningmoneyben",
+			"location": "NYC",
+			"description": "POLITICO Chief Economic Correspondent and Morning Money columnist. CNBC contributor. Encrypted email: benjaminjohnwhite@protonmail.com. DM for Signal.",
+			"url": "https://t.co/foE2FUQGfp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/foE2FUQGfp",
+							"expanded_url": "http://www.politico.com/morningmoney/",
+							"display_url": "politico.com/morningmoney/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99083,
+			"friends_count": 4167,
+			"listed_count": 2647,
+			"created_at": "Wed Apr 21 17:54:22 +0000 2010",
+			"favourites_count": 57653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 126932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118150543514509312/i1p0rRu5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118150543514509312/i1p0rRu5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135575282/1528726275",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133541787295977500,
+		"quoted_status_id_str": "1133541787295977472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6pL3OOmtWV",
+			"expanded": "https://twitter.com/armandodkos/status/1133541787295977472",
+			"display": "twitter.com/armandodkos/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 29 01:13:16 +0000 2019",
+			"id": 1133541787295977500,
+			"id_str": "1133541787295977472",
+			"full_text": "If I bothered to read the story? Why the hell was there even a story about “Hope Hicks’ existential decision “ when she has no decision at all!!!? WTF? Are you kidding me? https://t.co/IyM66ZFl9U",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IyM66ZFl9U",
+						"expanded_url": "https://twitter.com/morningmoneyben/status/1133541117281132552",
+						"display_url": "twitter.com/morningmoneybe…",
+						"indices": [
+							172,
+							195
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 930178296,
+				"id_str": "930178296",
+				"name": "Armando",
+				"screen_name": "armandodkos",
+				"location": "New York, USA",
+				"description": "Contributing Editor, Daily Kos",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14512,
+				"friends_count": 358,
+				"listed_count": 407,
+				"created_at": "Tue Nov 06 17:39:31 +0000 2012",
+				"favourites_count": 31352,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 189334,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971757018267705344/n_Ou_s4s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971757018267705344/n_Ou_s4s_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1133541117281132500,
+			"quoted_status_id_str": "1133541117281132552",
+			"quoted_status_permalink": {
+				"url": "https://t.co/IyM66ZFl9U",
+				"expanded": "https://twitter.com/morningmoneyben/status/1133541117281132552",
+				"display": "twitter.com/morningmoneybe…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A.) Try decaf. and B.) Of course she has a decision. And one that could have legal consequences for her. Have a nice night! https://t.co/6pL3OOmtWV"
+	},
+	{
 		"created_at": "Tue May 28 22:50:48 +0000 2019",
 		"id": 1133505851115941900,
 		"id_str": "1133505934385328128",
