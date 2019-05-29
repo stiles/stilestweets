@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 04:15:17 +0000 2019",
+		"id": 1133469090172084200,
+		"id_str": "1133587590622220288",
+		"full_text": "also weird of my man not to mention that he also placed! https://t.co/jiC8u6jEPk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jiC8u6jEPk",
+					"expanded_url": "https://www.huffpost.com/entry/thinnest-media-skins-2018_n_5c084817e4b0bf813ef3c6cc",
+					"display_url": "huffpost.com/entry/thinnest…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1133468639506718700,
+		"in_reply_to_status_id_str": "1133468639506718721",
+		"in_reply_to_user_id": 165944767,
+		"in_reply_to_user_id_str": "165944767",
+		"in_reply_to_screen_name": "ashleyfeinberg",
+		"user": {
+			"id": 165944767,
+			"id_str": "165944767",
+			"name": "Ashley Feinberg",
+			"screen_name": "ashleyfeinberg",
+			"location": "Brooklyn, NY",
+			"description": "email me at ashleyfeinberg@protonmail.com | DM for Signal #",
+			"url": "https://t.co/KGqvCKocjj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGqvCKocjj",
+							"expanded_url": "http://ashleyfeinberg.com",
+							"display_url": "ashleyfeinberg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171947,
+			"friends_count": 991,
+			"listed_count": 2247,
+			"created_at": "Mon Jul 12 23:19:50 +0000 2010",
+			"favourites_count": 33680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 36387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829782486955782148/vMthq5x2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829782486955782148/vMthq5x2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165944767/1405196339",
+			"profile_link_color": "800033",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 684,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "also weird of my man not to mention that he also placed! https://t.co/jiC8u6jEPk"
+	},
+	{
+		"created_at": "Wed May 29 03:59:01 +0000 2019",
+		"id": 1133583497967284200,
+		"id_str": "1133583497967284229",
+		"full_text": "☢️ Nice find! ☢️ https://t.co/pVf7UOzWmW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pVf7UOzWmW",
+					"expanded_url": "https://twitter.com/joemosch/status/1133583029064966145",
+					"display_url": "twitter.com/joemosch/statu…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10810,
+			"friends_count": 1595,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1558880563",
+			"profile_link_color": "C33826",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133583029064966100,
+		"quoted_status_id_str": "1133583029064966145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pVf7UOzWmW",
+			"expanded": "https://twitter.com/joemosch/status/1133583029064966145",
+			"display": "twitter.com/joemosch/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 29 03:57:09 +0000 2019",
+			"id": 1133583029064966100,
+			"id_str": "1133583029064966145",
+			"full_text": "For those needing more Chernobyl content, both excellent...\n\n1) A PBS NOVA episode from 2017 on the new containment dome. https://t.co/2ms9GmwCYV\n\n2) A documentary, also 2017, on the old women who still live there (\"The Babushkas of Chernobyl\"). https://t.co/tUttt0vlOq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2ms9GmwCYV",
+						"expanded_url": "https://www.pbs.org/video/building-chernobyls-megatomb-lyqrnh/",
+						"display_url": "pbs.org/video/building…",
+						"indices": [
+							122,
+							145
+						]
+					},
+					{
+						"url": "https://t.co/tUttt0vlOq",
+						"expanded_url": "https://thebabushkasofchernobyl.com/",
+						"display_url": "thebabushkasofchernobyl.com",
+						"indices": [
+							246,
+							269
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18341320,
+				"id_str": "18341320",
+				"name": "Joe Moschella",
+				"screen_name": "joemosch",
+				"location": "Los Angeles, CA",
+				"description": "Please support @hongkongFP and 🇹🇼. JD/MBA via Wisconsin/Cornell. Media exec. INTJJJJ. Tweets are my own. DM for @signalapp.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 924,
+				"friends_count": 2452,
+				"listed_count": 22,
+				"created_at": "Tue Dec 23 20:15:43 +0000 2008",
+				"favourites_count": 63069,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8892,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911845575477174273/b70OO5Nj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911845575477174273/b70OO5Nj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18341320/1435950186",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "☢️ Nice find! ☢️ https://t.co/pVf7UOzWmW"
+	},
+	{
 		"created_at": "Wed May 29 01:17:43 +0000 2019",
 		"id": 1133542646729908200,
 		"id_str": "1133542906902433793",
