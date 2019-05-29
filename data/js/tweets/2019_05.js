@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 22:04:30 +0000 2019",
+		"id": 1133856669669109800,
+		"id_str": "1133856669669109760",
+		"full_text": "Meet the tiny (and cute) fish playing a heroic role in sustaining coral reefs. They get gobbled up so fast that scientists liken them to 'sushi served on a conveyor belt in Japanese restaurants'. Fascinating story by @leilamillersays: https://t.co/hHtuluyzMT https://t.co/NMXoGPKYvL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leilamillersays",
+					"name": "Leila Miller",
+					"id": 4084680861,
+					"id_str": "4084680861",
+					"indices": [
+						217,
+						233
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hHtuluyzMT",
+					"expanded_url": "https://www.latimes.com/science/la-sci-coral-reef-tiny-fish-20190529-story.html",
+					"display_url": "latimes.com/science/la-sci…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1133855599781793800,
+					"id_str": "1133855599781793792",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xDqRuU0AAzdOl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xDqRuU0AAzdOl.jpg",
+					"url": "https://t.co/NMXoGPKYvL",
+					"display_url": "pic.twitter.com/NMXoGPKYvL",
+					"expanded_url": "https://twitter.com/stiles/status/1133856669669109760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133855599781793800,
+					"id_str": "1133855599781793792",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/D7xDqRuU0AAzdOl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7xDqRuU0AAzdOl.jpg",
+					"url": "https://t.co/NMXoGPKYvL",
+					"display_url": "pic.twitter.com/NMXoGPKYvL",
+					"expanded_url": "https://twitter.com/stiles/status/1133856669669109760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10810,
+			"friends_count": 1595,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1559152690",
+			"profile_link_color": "C33826",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meet the tiny (and cute) fish playing a heroic role in sustaining coral reefs. They get gobbled up so fast that scientists liken them to 'sushi served on a conveyor belt in Japanese restaurants'. Fascinating story by @leilamillersays: https://t.co/hHtuluyzMT https://t.co/NMXoGPKYvL"
+	},
+	{
 		"created_at": "Wed May 29 20:57:43 +0000 2019",
 		"id": 1133839860307857400,
 		"id_str": "1133839860307857408",
