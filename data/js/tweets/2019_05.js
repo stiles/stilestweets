@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 13:42:19 +0000 2019",
+		"id": 1133551299813707800,
+		"id_str": "1133730289123860480",
+		"full_text": "Congratulations to @MattHjourno, @latimesharriet and @PringleLATimes on your Pulitzer Prize. We’re so proud to be your colleagues. https://t.co/tE5GqKKEem",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattHjourno",
+					"name": "Matt Hamilton",
+					"id": 76459927,
+					"id_str": "76459927",
+					"indices": [
+						19,
+						31
+					]
+				},
+				{
+					"screen_name": "latimesharriet",
+					"name": "Harriet Ryan",
+					"id": 16213490,
+					"id_str": "16213490",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"screen_name": "PringleLATimes",
+					"name": "Paul Pringle",
+					"id": 21282353,
+					"id_str": "21282353",
+					"indices": [
+						53,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tE5GqKKEem",
+					"expanded_url": "https://twitter.com/matthjourno/status/1133500332590456832",
+					"display_url": "twitter.com/matthjourno/st…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 859504635773464600,
+			"id_str": "859504635773464576",
+			"name": "L.A. Times Guild 🦅",
+			"screen_name": "latguild",
+			"location": "Los Angeles, CA",
+			"description": "Our mission is to safeguard the future of the Los Angeles Times and its journalists.",
+			"url": "https://t.co/R0OXgdbmkM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R0OXgdbmkM",
+							"expanded_url": "https://latguild.com",
+							"display_url": "latguild.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6193,
+			"friends_count": 2,
+			"listed_count": 115,
+			"created_at": "Tue May 02 20:27:28 +0000 2017",
+			"favourites_count": 3934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027028614087303169/mqxsFMC8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027028614087303169/mqxsFMC8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/859504635773464576/1550872210",
+			"profile_link_color": "FAC211",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133500332590456800,
+		"quoted_status_id_str": "1133500332590456832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tE5GqKKEem",
+			"expanded": "https://twitter.com/matthjourno/status/1133500332590456832",
+			"display": "twitter.com/matthjourno/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 28 22:28:33 +0000 2019",
+			"id": 1133500332590456800,
+			"id_str": "1133500332590456832",
+			"full_text": "Celebrating with talented editors and supportive spouses https://t.co/ybDuPvoGjr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1133500325242003500,
+						"id_str": "1133500325242003456",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/D7sAik7W4AAmv36.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7sAik7W4AAmv36.jpg",
+						"url": "https://t.co/ybDuPvoGjr",
+						"display_url": "pic.twitter.com/ybDuPvoGjr",
+						"expanded_url": "https://twitter.com/MattHjourno/status/1133500332590456832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 515,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1550,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 908,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133500325242003500,
+						"id_str": "1133500325242003456",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/D7sAik7W4AAmv36.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7sAik7W4AAmv36.jpg",
+						"url": "https://t.co/ybDuPvoGjr",
+						"display_url": "pic.twitter.com/ybDuPvoGjr",
+						"expanded_url": "https://twitter.com/MattHjourno/status/1133500332590456832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 515,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1550,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 908,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76459927,
+				"id_str": "76459927",
+				"name": "Matt Hamilton",
+				"screen_name": "MattHjourno",
+				"location": "Los Angeles",
+				"description": "Los Angeles Times reporter on investigations and civil courts matt.hamilton@latimes.com mchamilton@protonmail.com (213) 237-3431",
+				"url": "https://t.co/sbHmPzt6mV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sbHmPzt6mV",
+								"expanded_url": "http://www.latimes.com/la-bio-matt-hamilton-staff.html",
+								"display_url": "latimes.com/la-bio-matt-ha…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6151,
+				"friends_count": 1702,
+				"listed_count": 270,
+				"created_at": "Tue Sep 22 21:43:52 +0000 2009",
+				"favourites_count": 7928,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16512,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/569247440855769088/E-XSvkIO_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/569247440855769088/E-XSvkIO_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76459927/1533199655",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 91,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to @MattHjourno, @latimesharriet and @PringleLATimes on your Pulitzer Prize. We’re so proud to be your colleagues. https://t.co/tE5GqKKEem"
+	},
+	{
 		"created_at": "Wed May 29 12:46:17 +0000 2019",
 		"id": 1133716189266366500,
 		"id_str": "1133716189266366464",
