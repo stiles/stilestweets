@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 03:18:45 +0000 2019",
+		"id": 1133935750821474300,
+		"id_str": "1133935750821474304",
+		"full_text": "@MeghanHoyer @googledocs Not yet!! https://t.co/9UQkhcA6aS",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeghanHoyer",
+					"name": "Meghan Hoyer",
+					"id": 258599525,
+					"id_str": "258599525",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "googledocs",
+					"name": "Google Docs",
+					"id": 488683847,
+					"id_str": "488683847",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133935745435963400,
+					"id_str": "1133935745435963392",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/D7yMjXjUEAAqzJP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7yMjXjUEAAqzJP.jpg",
+					"url": "https://t.co/9UQkhcA6aS",
+					"display_url": "pic.twitter.com/9UQkhcA6aS",
+					"expanded_url": "https://twitter.com/stiles/status/1133935750821474304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 894,
+							"h": 557,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 894,
+							"h": 557,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133935745435963400,
+					"id_str": "1133935745435963392",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/D7yMjXjUEAAqzJP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7yMjXjUEAAqzJP.jpg",
+					"url": "https://t.co/9UQkhcA6aS",
+					"display_url": "pic.twitter.com/9UQkhcA6aS",
+					"expanded_url": "https://twitter.com/stiles/status/1133935750821474304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 894,
+							"h": 557,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 894,
+							"h": 557,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1133934296518078500,
+		"in_reply_to_status_id_str": "1133934296518078464",
+		"in_reply_to_user_id": 258599525,
+		"in_reply_to_user_id_str": "258599525",
+		"in_reply_to_screen_name": "MeghanHoyer",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10812,
+			"friends_count": 1596,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 5978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1559152690",
+			"profile_link_color": "C33826",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "59612bd882018c51",
+			"url": "https://api.twitter.com/1.1/geo/id/59612bd882018c51.json",
+			"place_type": "city",
+			"name": "Santa Monica",
+			"full_name": "Santa Monica, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.5173575,
+							33.9951771
+						],
+						[
+							-118.443482,
+							33.9951771
+						],
+						[
+							-118.443482,
+							34.050199
+						],
+						[
+							-118.5173575,
+							34.050199
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MeghanHoyer @googledocs Not yet!! https://t.co/9UQkhcA6aS"
+	},
+	{
 		"created_at": "Thu May 30 01:56:45 +0000 2019",
 		"id": 1133911704427999200,
 		"id_str": "1133915118058688513",
