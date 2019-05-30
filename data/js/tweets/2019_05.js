@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 01:56:45 +0000 2019",
+		"id": 1133911704427999200,
+		"id_str": "1133915118058688513",
+		"full_text": "@gtconway3d It’s just the same first-class service that you’ll find at Trump Hotels. 👇 https://t.co/bU5xxYj2MK",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gtconway3d",
+					"name": "George Conway",
+					"id": 471677441,
+					"id_str": "471677441",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bU5xxYj2MK",
+					"expanded_url": "https://twitter.com/ericcolumbus/status/1133911000514748417?s=21",
+					"display_url": "twitter.com/ericcolumbus/s…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1133903992281587700,
+		"in_reply_to_status_id_str": "1133903992281587712",
+		"in_reply_to_user_id": 471677441,
+		"in_reply_to_user_id_str": "471677441",
+		"in_reply_to_screen_name": "gtconway3d",
+		"user": {
+			"id": 889745082,
+			"id_str": "889745082",
+			"name": "Eric Columbus",
+			"screen_name": "EricColumbus",
+			"location": "Washington, DC",
+			"description": "Obama appointee for 8 yrs at DOJ/DHS. Former Yankee Stadium hot dog vendor and Senate Judiciary Committee counsel (not at same time). Wannabe U.S. historian.",
+			"url": "https://t.co/X5LaK33tl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X5LaK33tl3",
+							"expanded_url": "http://www.politico.com/magazine/search?q=%22Eric%20Columbus%22&s=oldest",
+							"display_url": "politico.com/magazine/searc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21888,
+			"friends_count": 1233,
+			"listed_count": 356,
+			"created_at": "Thu Oct 18 21:18:21 +0000 2012",
+			"favourites_count": 27214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/429607786649894912/YApS7t3A_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/429607786649894912/YApS7t3A_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/889745082/1494434366",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133911000514748400,
+		"quoted_status_id_str": "1133911000514748417",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bU5xxYj2MK",
+			"expanded": "https://twitter.com/ericcolumbus/status/1133911000514748417?s=21",
+			"display": "twitter.com/ericcolumbus/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 30 01:40:24 +0000 2019",
+			"id": 1133911000514748400,
+			"id_str": "1133911000514748417",
+			"full_text": "When they run the government like a business. https://t.co/QhndSniQD2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1133910916049920000,
+						"id_str": "1133910916049920000",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/D7x1-G4X4AAJ4UC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7x1-G4X4AAJ4UC.jpg",
+						"url": "https://t.co/QhndSniQD2",
+						"display_url": "pic.twitter.com/QhndSniQD2",
+						"expanded_url": "https://twitter.com/EricColumbus/status/1133911000514748417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 952,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 632,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 952,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133910916049920000,
+						"id_str": "1133910916049920000",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/D7x1-G4X4AAJ4UC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7x1-G4X4AAJ4UC.jpg",
+						"url": "https://t.co/QhndSniQD2",
+						"display_url": "pic.twitter.com/QhndSniQD2",
+						"expanded_url": "https://twitter.com/EricColumbus/status/1133911000514748417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 952,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 632,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 952,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1133910916045660200,
+						"id_str": "1133910916045660160",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/D7x1-G3W4AAuZT7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7x1-G3W4AAuZT7.jpg",
+						"url": "https://t.co/QhndSniQD2",
+						"display_url": "pic.twitter.com/QhndSniQD2",
+						"expanded_url": "https://twitter.com/EricColumbus/status/1133911000514748417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 734,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 487,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 734,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 889745082,
+				"id_str": "889745082",
+				"name": "Eric Columbus",
+				"screen_name": "EricColumbus",
+				"location": "Washington, DC",
+				"description": "Obama appointee for 8 yrs at DOJ/DHS. Former Yankee Stadium hot dog vendor and Senate Judiciary Committee counsel (not at same time). Wannabe U.S. historian.",
+				"url": "https://t.co/X5LaK33tl3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/X5LaK33tl3",
+								"expanded_url": "http://www.politico.com/magazine/search?q=%22Eric%20Columbus%22&s=oldest",
+								"display_url": "politico.com/magazine/searc…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21888,
+				"friends_count": 1233,
+				"listed_count": 356,
+				"created_at": "Thu Oct 18 21:18:21 +0000 2012",
+				"favourites_count": 27214,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15644,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/429607786649894912/YApS7t3A_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/429607786649894912/YApS7t3A_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/889745082/1494434366",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@gtconway3d It’s just the same first-class service that you’ll find at Trump Hotels. 👇 https://t.co/bU5xxYj2MK"
+	},
+	{
 		"created_at": "Thu May 30 01:16:42 +0000 2019",
 		"id": 1133905038395420700,
 		"id_str": "1133905038395420677",
