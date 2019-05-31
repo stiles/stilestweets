@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 00:57:40 +0000 2019",
+		"id": 1134223610296655900,
+		"id_str": "1134262636936171520",
+		"full_text": "Some personal news: Today I start as the new Design Director of @politico. Thrilled for what’s ahead https://t.co/fSDA7pzNUS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "politico",
+					"name": "POLITICO",
+					"id": 9300262,
+					"id_str": "9300262",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fSDA7pzNUS",
+					"expanded_url": "https://twitter.com/pvolpe/status/1134219035539857408",
+					"display_url": "twitter.com/pvolpe/status/…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17327596,
+			"id_str": "17327596",
+			"name": "L I L Y",
+			"screen_name": "mazet",
+			"location": "Washington, DC",
+			"description": "Design Director @POLITICO. Proud alum of @LATDataDesk, @KPCC, @KQED, @KCAW & @Flipboard. Dressed for rescue.",
+			"url": "https://t.co/BE5JFzmnFU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BE5JFzmnFU",
+							"expanded_url": "http://www.politico.com",
+							"display_url": "politico.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2410,
+			"friends_count": 2922,
+			"listed_count": 131,
+			"created_at": "Wed Nov 12 01:04:27 +0000 2008",
+			"favourites_count": 16247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F7FBFC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084285300719919105/zx2RvLsP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084285300719919105/zx2RvLsP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17327596/1463448652",
+			"profile_link_color": "2A94EB",
+			"profile_sidebar_border_color": "84BFF0",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "0D0D0D",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134219035539857400,
+		"quoted_status_id_str": "1134219035539857408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fSDA7pzNUS",
+			"expanded": "https://twitter.com/pvolpe/status/1134219035539857408",
+			"display": "twitter.com/pvolpe/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 30 22:04:25 +0000 2019",
+			"id": 1134219035539857400,
+			"id_str": "1134219035539857408",
+			"full_text": "Couldn’t be more excited about what’s ahead. ⁦@mazet⁩ GSD. https://t.co/fsfXLjMd3F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mazet",
+						"name": "L I L Y",
+						"id": 17327596,
+						"id_str": "17327596",
+						"indices": [
+							46,
+							52
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1134219031517511700,
+						"id_str": "1134219031517511680",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D72OMycWwAAz4Yo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D72OMycWwAAz4Yo.jpg",
+						"url": "https://t.co/fsfXLjMd3F",
+						"display_url": "pic.twitter.com/fsfXLjMd3F",
+						"expanded_url": "https://twitter.com/pvolpe/status/1134219035539857408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1007,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1007,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1134219031517511700,
+						"id_str": "1134219031517511680",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D72OMycWwAAz4Yo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D72OMycWwAAz4Yo.jpg",
+						"url": "https://t.co/fsfXLjMd3F",
+						"display_url": "pic.twitter.com/fsfXLjMd3F",
+						"expanded_url": "https://twitter.com/pvolpe/status/1134219035539857408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1007,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1007,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14021902,
+				"id_str": "14021902",
+				"name": "Paul Volpe",
+				"screen_name": "pvolpe",
+				"location": "Washington, DC",
+				"description": "Executive editor @politico. @nytimes and @washingtonpost alum. Moderately useful and sometimes amusing. Spiking and retaining.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7649,
+				"friends_count": 1497,
+				"listed_count": 397,
+				"created_at": "Tue Feb 26 19:29:32 +0000 2008",
+				"favourites_count": 2206,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6645,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880203592141033472/GjFSn6U2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880203592141033472/GjFSn6U2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14021902/1482942587",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some personal news: Today I start as the new Design Director of @politico. Thrilled for what’s ahead https://t.co/fSDA7pzNUS"
+	},
+	{
 		"created_at": "Thu May 30 13:53:38 +0000 2019",
 		"id": 1134095525102248000,
 		"id_str": "1134095525102247936",
