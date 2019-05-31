@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 22:07:20 +0000 2019",
+		"id": 1134564865299714000,
+		"id_str": "1134582158952001538",
+		"full_text": "Time to soft launch this Los Angeles Times 2020 Election Calendar I've been working on.\n\nIt will contain key national events &amp; important reminders for voters in Calif. We’ll also point you to LAT stories from the campaign trail.\n\nTell me what's broken?\n\nhttps://t.co/jtWvyvI5jz https://t.co/NQnrz8RtPw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jtWvyvI5jz",
+					"expanded_url": "https://www.latimes.com/politics/la-na-pol-2020-election-key-dates-on-calendar-20190514-story.html#election-calendar",
+					"display_url": "latimes.com/politics/la-na…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1134564185709269000,
+					"id_str": "1134564185709268992",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D77IHaAU0AAVJaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D77IHaAU0AAVJaf.jpg",
+					"url": "https://t.co/NQnrz8RtPw",
+					"display_url": "pic.twitter.com/NQnrz8RtPw",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1134564865299714048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1320,
+							"h": 660,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134564185709269000,
+					"id_str": "1134564185709268992",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D77IHaAU0AAVJaf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D77IHaAU0AAVJaf.jpg",
+					"url": "https://t.co/NQnrz8RtPw",
+					"display_url": "pic.twitter.com/NQnrz8RtPw",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1134564865299714048/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1320,
+							"h": 660,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D77IHaAU0AAVJaf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 963122095747035100,
+			"id_str": "963122095747035136",
+			"name": "Chris Keller",
+			"screen_name": "ChrisLKellerLAT",
+			"location": "Los Angeles, CA",
+			"description": "Digital & visual storytelling for The Times’ 2020 election team. Former @KPCC, @madisondotcom, @nwi & @TheSPEagle. A more official-er account of @ChrisLKeller",
+			"url": "https://t.co/QPwW7wUqUW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QPwW7wUqUW",
+							"expanded_url": "http://www.latimes.com/la-bio-chris-keller-staff.html",
+							"display_url": "latimes.com/la-bio-chris-k…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 345,
+			"friends_count": 66,
+			"listed_count": 11,
+			"created_at": "Mon Feb 12 18:46:16 +0000 2018",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/963122095747035136/1518462904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Time to soft launch this Los Angeles Times 2020 Election Calendar I've been working on.\n\nIt will contain key national events &amp; important reminders for voters in Calif. We’ll also point you to LAT stories from the campaign trail.\n\nTell me what's broken?\n\nhttps://t.co/jtWvyvI5jz https://t.co/NQnrz8RtPw"
+	},
+	{
 		"created_at": "Fri May 31 17:57:53 +0000 2019",
 		"id": 1134501452213186600,
 		"id_str": "1134519380128092160",
