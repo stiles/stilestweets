@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 01 15:36:29 +0000 2019",
+		"id": 1134495428496547800,
+		"id_str": "1134846183598223360",
+		"full_text": "Howdy, y’all!  Now that the academic year has ended, time for some personal news: I will be moving to UT-San Antonio (@UTSA) in August to become the Chair of the Department of Political Science &amp; Geography (@UTSA_DPSG) w/the rank of Professor of Political Science... 😎🤙🏻 #UTSA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UTSA",
+					"indices": [
+						275,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UTSA",
+					"name": "UTSA",
+					"id": 85362822,
+					"id_str": "85362822",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"screen_name": "UTSA_DPSG",
+					"name": "UTSA Poli Sci & Geo",
+					"id": 3179816305,
+					"id_str": "3179816305",
+					"indices": [
+						211,
+						221
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171601052,
+			"id_str": "171601052",
+			"name": "Jon Taylor 高乔恩",
+			"screen_name": "ProfJonTaylor",
+			"location": "San Antonio Bound...",
+			"description": "Husband, Dad, PoliSci Prof, China Hand, OU Sooner, ΛXA Alum. Views expressed are my own. RT≠ Endorsement. 丈夫, 爸爸, 政治学, 中国通, 俄克拉何马州 RT≠认可",
+			"url": "https://t.co/gEHhLhNa3s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gEHhLhNa3s",
+							"expanded_url": "http://colfa.utsa.edu/polisci-geography/",
+							"display_url": "colfa.utsa.edu/polisci-geogra…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3687,
+			"friends_count": 696,
+			"listed_count": 319,
+			"created_at": "Tue Jul 27 18:44:56 +0000 2010",
+			"favourites_count": 229286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 172571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "404040",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781572107012493312/PO3C3OAP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781572107012493312/PO3C3OAP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171601052/1489705243",
+			"profile_link_color": "525C65",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 84,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Howdy, y’all!  Now that the academic year has ended, time for some personal news: I will be moving to UT-San Antonio (@UTSA) in August to become the Chair of the Department of Political Science &amp; Geography (@UTSA_DPSG) w/the rank of Professor of Political Science... 😎🤙🏻 #UTSA"
+	},
+	{
+		"created_at": "Sat Jun 01 15:31:56 +0000 2019",
+		"id": 1134727685467398100,
+		"id_str": "1134845041610936321",
+		"full_text": ".@ladygaga at Seoul Pride 🏳️‍🌈 https://t.co/uRwuONSsux",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ladygaga",
+					"name": "Lady Gaga",
+					"id": 14230524,
+					"id_str": "14230524",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134727611622481900,
+					"id_str": "1134727611622481920",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134727611622481920/pu/img/uMUj93cUJNfcLi5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134727611622481920/pu/img/uMUj93cUJNfcLi5r.jpg",
+					"url": "https://t.co/uRwuONSsux",
+					"display_url": "pic.twitter.com/uRwuONSsux",
+					"expanded_url": "https://twitter.com/vicjkim/status/1134727685467398144/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134727611622481900,
+					"id_str": "1134727611622481920",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134727611622481920/pu/img/uMUj93cUJNfcLi5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134727611622481920/pu/img/uMUj93cUJNfcLi5r.jpg",
+					"url": "https://t.co/uRwuONSsux",
+					"display_url": "pic.twitter.com/uRwuONSsux",
+					"expanded_url": "https://twitter.com/vicjkim/status/1134727685467398144/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15647,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134727611622481920/pu/vid/1280x720/62bif7cnfVMWK7IS.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1134727611622481920/pu/pl/oidAYKWX1KixfIML.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134727611622481920/pu/vid/640x360/cr7-z9QjabZ1wXhD.mp4?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134727611622481920/pu/vid/320x180/2diN9RZD1hnx4dxF.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54643600,
+			"id_str": "54643600",
+			"name": "Victoria Kim",
+			"screen_name": "vicjkim",
+			"location": "Los Angeles, CA",
+			"description": "@LATimes Seoul correspondent. Seoul-bred, LA-forged. Formerly K-town, courts, investigations. Reach me at https://t.co/aCqVWMmXQW (at) https://t.co/eTksmynSH7. DMs open.",
+			"url": "https://t.co/oLZaH6LhdI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oLZaH6LhdI",
+							"expanded_url": "http://www.latimes.com/la-bio-victoria-kim-staff.html",
+							"display_url": "latimes.com/la-bio-victori…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aCqVWMmXQW",
+							"expanded_url": "http://victoria.kim",
+							"display_url": "victoria.kim",
+							"indices": [
+								106,
+								129
+							]
+						},
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5059,
+			"friends_count": 1906,
+			"listed_count": 174,
+			"created_at": "Tue Jul 07 19:07:04 +0000 2009",
+			"favourites_count": 3105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557735738825920512/VzyhVLUB_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557735738825920512/VzyhVLUB_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54643600/1421810039",
+			"profile_link_color": "737CA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 109,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@ladygaga at Seoul Pride 🏳️‍🌈 https://t.co/uRwuONSsux"
+	},
+	{
 		"created_at": "Sat Jun 01 15:18:13 +0000 2019",
 		"id": 1134841588851458000,
 		"id_str": "1134841588851458049",
