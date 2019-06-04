@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 15:06:38 +0000 2019",
+		"id": 1135609671035760600,
+		"id_str": "1135925837444800512",
+		"full_text": "Something we haven't witnessed in decades:  A dozen new hires arrived at the @latimes this morning, including @thefilmgoer and @dearabbie. Welcome all!  During the dark days of Tribune/Tronc, there were no Monday morning orientations.  #WeAreBack #JournalismMatters #MyDayInLA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WeAreBack",
+					"indices": [
+						236,
+						246
+					]
+				},
+				{
+					"text": "JournalismMatters",
+					"indices": [
+						247,
+						265
+					]
+				},
+				{
+					"text": "MyDayInLA",
+					"indices": [
+						266,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"screen_name": "thefilmgoer",
+					"name": "Matt Brennan",
+					"id": 352648116,
+					"id_str": "352648116",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"screen_name": "dearabbie",
+					"name": "Abbie F. Swanson",
+					"id": 18313855,
+					"id_str": "18313855",
+					"indices": [
+						127,
+						137
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46179233,
+			"id_str": "46179233",
+			"name": "Meg James",
+			"screen_name": "MegJamesLAT",
+			"location": "Los Angeles, California ",
+			"description": "Los Angeles Times journalist; covering corporate media and the business of TV. Repairing split infinitives one sentence at a time. http://t.co/0blZEioX4Q",
+			"url": "http://t.co/rgOqfOE58F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rgOqfOE58F",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/0blZEioX4Q",
+							"expanded_url": "http://lat.ms/1jT3lHn",
+							"display_url": "lat.ms/1jT3lHn",
+							"indices": [
+								131,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5120,
+			"friends_count": 2977,
+			"listed_count": 254,
+			"created_at": "Wed Jun 10 18:02:43 +0000 2009",
+			"favourites_count": 2846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/658748487245295617/RAn40vDi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/658748487245295617/RAn40vDi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46179233/1445892751",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 230,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Something we haven't witnessed in decades:  A dozen new hires arrived at the @latimes this morning, including @thefilmgoer and @dearabbie. Welcome all!  During the dark days of Tribune/Tronc, there were no Monday morning orientations.  #WeAreBack #JournalismMatters #MyDayInLA"
+	},
+	{
+		"created_at": "Tue Jun 04 14:59:19 +0000 2019",
+		"id": 1135921440362864600,
+		"id_str": "1135923992965988352",
+		"full_text": "“We want the political people to come here and see our problems and to talk to us,” 70-year-old retired farmworker Humberto M. Gomez tells @finneganLAT &amp; @melmason in their piece about the appeal of California's Central Valley for 2020 candidates.\n\nhttps://t.co/AzEyGaQaTC https://t.co/7L4GJMvw2O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "finneganLAT",
+					"name": "Michael Finnegan",
+					"id": 150793102,
+					"id_str": "150793102",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"screen_name": "melmason",
+					"name": "Melanie Mason",
+					"id": 27993391,
+					"id_str": "27993391",
+					"indices": [
+						158,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AzEyGaQaTC",
+					"expanded_url": "https://www.latimes.com/politics/la-na-pol-central-valley-presidential-candidates-20190604-story.html",
+					"display_url": "latimes.com/politics/la-na…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135920140560678900,
+					"id_str": "1135920140560678912",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D8OZWXdUwAARm9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8OZWXdUwAARm9e.jpg",
+					"url": "https://t.co/7L4GJMvw2O",
+					"display_url": "pic.twitter.com/7L4GJMvw2O",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1135921440362864640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 415,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 415,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135920140560678900,
+					"id_str": "1135920140560678912",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D8OZWXdUwAARm9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8OZWXdUwAARm9e.jpg",
+					"url": "https://t.co/7L4GJMvw2O",
+					"display_url": "pic.twitter.com/7L4GJMvw2O",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1135921440362864640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 415,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 415,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 415,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 963122095747035100,
+			"id_str": "963122095747035136",
+			"name": "Chris Keller",
+			"screen_name": "ChrisLKellerLAT",
+			"location": "Los Angeles, CA",
+			"description": "Digital & visual storytelling for The Times’ 2020 election team. Former @KPCC, @madisondotcom, @nwi & @TheSPEagle. A more official-er account of @ChrisLKeller",
+			"url": "https://t.co/QPwW7wUqUW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QPwW7wUqUW",
+							"expanded_url": "http://www.latimes.com/la-bio-chris-keller-staff.html",
+							"display_url": "latimes.com/la-bio-chris-k…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356,
+			"friends_count": 67,
+			"listed_count": 11,
+			"created_at": "Mon Feb 12 18:46:16 +0000 2018",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/963122095747035136/1518462904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“We want the political people to come here and see our problems and to talk to us,” 70-year-old retired farmworker Humberto M. Gomez tells @finneganLAT &amp; @melmason in their piece about the appeal of California's Central Valley for 2020 candidates.\n\nhttps://t.co/AzEyGaQaTC https://t.co/7L4GJMvw2O"
+	},
+	{
 		"created_at": "Tue Jun 04 13:58:11 +0000 2019",
 		"id": 1135908610192564200,
 		"id_str": "1135908610192564225",
