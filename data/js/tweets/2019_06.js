@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 15:15:18 +0000 2019",
+		"id": 1135902057322373100,
+		"id_str": "1135928015769128960",
+		"full_text": "LAPD officer was the ‘immigrant dream’ before his life changed at a Border Patrol checkpoint https://t.co/rGB74G0qVZ Important story by @JamesQueallyLAT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesQueallyLAT",
+					"name": "James Queally",
+					"id": 347599287,
+					"id_str": "347599287",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rGB74G0qVZ",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-mambasse-patara-human-smuggling-lapd-20190604-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 555433957,
+			"id_str": "555433957",
+			"name": "Brittny Mejia",
+			"screen_name": "brittny_mejia",
+			"location": "",
+			"description": "Metro reporter @latimes. Military brat. Story tips: brittny.mejia@latimes.com Hablo español",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6315,
+			"friends_count": 1809,
+			"listed_count": 232,
+			"created_at": "Mon Apr 16 21:21:58 +0000 2012",
+			"favourites_count": 7006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1008474543139250178/LXRlTIR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008474543139250178/LXRlTIR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/555433957/1534735787",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LAPD officer was the ‘immigrant dream’ before his life changed at a Border Patrol checkpoint https://t.co/rGB74G0qVZ Important story by @JamesQueallyLAT"
+	},
+	{
 		"created_at": "Tue Jun 04 15:06:38 +0000 2019",
 		"id": 1135609671035760600,
 		"id_str": "1135925837444800512",
