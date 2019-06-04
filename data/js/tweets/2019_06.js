@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 19:45:29 +0000 2019",
+		"id": 1135996011300524000,
+		"id_str": "1135996011300524032",
+		"full_text": "DON'T TELL THE CHILDREN. https://t.co/wN9LL9VJsr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wN9LL9VJsr",
+					"expanded_url": "https://twitter.com/MirrorTech/status/1134047988786049026",
+					"display_url": "twitter.com/MirrorTech/sta…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10826,
+			"friends_count": 1604,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1559654884",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134047988786049000,
+		"quoted_status_id_str": "1134047988786049026",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wN9LL9VJsr",
+			"expanded": "https://twitter.com/MirrorTech/status/1134047988786049026",
+			"display": "twitter.com/MirrorTech/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 30 10:44:44 +0000 2019",
+			"id": 1134047988786049000,
+			"id_str": "1134047988786049026",
+			"full_text": "Eating chicken nuggets increases your risk of early death, study warns https://t.co/IMNbSTtHO3 https://t.co/RuQ69NKcAG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IMNbSTtHO3",
+						"expanded_url": "https://www.mirror.co.uk/science/eating-chicken-nuggets-increases-your-16224977",
+						"display_url": "mirror.co.uk/science/eating…",
+						"indices": [
+							71,
+							94
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1134047981148221400,
+						"id_str": "1134047981148221440",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/D7zyoWKWsAA2FGx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7zyoWKWsAA2FGx.jpg",
+						"url": "https://t.co/RuQ69NKcAG",
+						"display_url": "pic.twitter.com/RuQ69NKcAG",
+						"expanded_url": "https://twitter.com/MirrorTech/status/1134047988786049026/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 810,
+								"h": 539,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 810,
+								"h": 539,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1134047981148221400,
+						"id_str": "1134047981148221440",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/D7zyoWKWsAA2FGx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7zyoWKWsAA2FGx.jpg",
+						"url": "https://t.co/RuQ69NKcAG",
+						"display_url": "pic.twitter.com/RuQ69NKcAG",
+						"expanded_url": "https://twitter.com/MirrorTech/status/1134047988786049026/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 810,
+								"h": 539,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 810,
+								"h": 539,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39771228,
+				"id_str": "39771228",
+				"name": "Mirror Tech",
+				"screen_name": "MirrorTech",
+				"location": "London, UK",
+				"description": "The latest tech, gaming and science news and reviews from @DailyMirror",
+				"url": "http://t.co/IexOB4Wxl2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IexOB4Wxl2",
+								"expanded_url": "http://www.mirror.co.uk/news/technology/",
+								"display_url": "mirror.co.uk/news/technolog…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14058,
+				"friends_count": 381,
+				"listed_count": 379,
+				"created_at": "Wed May 13 15:24:12 +0000 2009",
+				"favourites_count": 464,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26304,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/524170308731686913/qW4j38z5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/524170308731686913/qW4j38z5_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39771228/1480686813",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F3F3",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 521,
+			"favorite_count": 2012,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DON'T TELL THE CHILDREN. https://t.co/wN9LL9VJsr"
+	},
+	{
+		"created_at": "Tue Jun 04 19:32:54 +0000 2019",
+		"id": 1135992843388969000,
+		"id_str": "1135992843388968960",
+		"full_text": "@AlexMahadevan @langstonitaylor @NHC_Atlantic My talk focused on building footprints obtained from LA and Ventura counties. We married that with parcel data to find owners, structure details, values, etc. The @Microsoft national footprint project is where I would start if doing the whole coast: https://t.co/ZQOQvPG6KB",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			319
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexMahadevan",
+					"name": "Alex Mahadevan",
+					"id": 574078733,
+					"id_str": "574078733",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "langstonitaylor",
+					"name": "Langston Taylor",
+					"id": 388403805,
+					"id_str": "388403805",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "NHC_Atlantic",
+					"name": "National Hurricane Center",
+					"id": 299798272,
+					"id_str": "299798272",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						209,
+						219
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZQOQvPG6KB",
+					"expanded_url": "http://bit.ly/2wDfbGa",
+					"display_url": "bit.ly/2wDfbGa",
+					"indices": [
+						296,
+						319
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1135975537065758700,
+		"in_reply_to_status_id_str": "1135975537065758720",
+		"in_reply_to_user_id": 574078733,
+		"in_reply_to_user_id_str": "574078733",
+		"in_reply_to_screen_name": "AlexMahadevan",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10826,
+			"friends_count": 1604,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1559654884",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AlexMahadevan @langstonitaylor @NHC_Atlantic My talk focused on building footprints obtained from LA and Ventura counties. We married that with parcel data to find owners, structure details, values, etc. The @Microsoft national footprint project is where I would start if doing the whole coast: https://t.co/ZQOQvPG6KB"
+	},
+	{
+		"created_at": "Tue Jun 04 19:23:23 +0000 2019",
+		"id": 1135990449477308400,
+		"id_str": "1135990449477308416",
+		"full_text": "LOL. I was just chatting with a county employee about stories and the @latimes called her cell asking for a subscription renewal. I hope we've earned her money.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						70,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10826,
+			"friends_count": 1604,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1559654884",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "LOL. I was just chatting with a county employee about stories and the @latimes called her cell asking for a subscription renewal. I hope we've earned her money."
+	},
+	{
 		"created_at": "Tue Jun 04 18:51:23 +0000 2019",
 		"id": 1135982396229075000,
 		"id_str": "1135982396229074944",
