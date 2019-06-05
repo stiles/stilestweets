@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 05 17:06:17 +0000 2019",
+		"id": 1136317956625915900,
+		"id_str": "1136318333643476992",
+		"full_text": "We fanned out across the country to take its temperature as the homeless count number came out. Here's what we found. Great work from @DoranyPineda90 @stiles + @alexalucina\nhttps://t.co/ANiTxDst7b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DoranyPineda90",
+					"name": "Dorany Pineda",
+					"id": 1024780597267288000,
+					"id_str": "1024780597267288064",
+					"indices": [
+						134,
+						149
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"screen_name": "alexalucina",
+					"name": "Alexa Díaz",
+					"id": 2804300178,
+					"id_str": "2804300178",
+					"indices": [
+						160,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ANiTxDst7b",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-ln-homeless-count-los-angeles-reacts-20190605-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 378122528,
+			"id_str": "378122528",
+			"name": "Benjamin Oreskes🦅",
+			"screen_name": "boreskes",
+			"location": "Los Angeles, CA",
+			"description": "Metro reporter @Latimes. benjamin.oreskes@latimes.com. 213-238-8436.\n DM me for Signal contact info.",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2463,
+			"friends_count": 999,
+			"listed_count": 88,
+			"created_at": "Thu Sep 22 17:39:50 +0000 2011",
+			"favourites_count": 11512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1776594026/377791_10150502319804221_507624220_8843375_1408464470_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1776594026/377791_10150502319804221_507624220_8843375_1408464470_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/378122528/1532773873",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We fanned out across the country to take its temperature as the homeless count number came out. Here's what we found. Great work from @DoranyPineda90 @stiles + @alexalucina\nhttps://t.co/ANiTxDst7b"
+	},
+	{
 		"created_at": "Wed Jun 05 15:39:05 +0000 2019",
 		"id": 1136296205367930900,
 		"id_str": "1136296390986878976",
