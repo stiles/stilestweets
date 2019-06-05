@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 05 15:39:05 +0000 2019",
+		"id": 1136296205367930900,
+		"id_str": "1136296390986878976",
+		"full_text": "The @latimes was not a great newspaper in 1944. But I love this front page, which used to hang in the halls of the Times' old building. It captured the drama and gravitas of the moment. https://t.co/2HIUYYliGo https://t.co/owfVnpPcQG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2HIUYYliGo",
+					"expanded_url": "https://www.latimes.com/visuals/photography/la-me-fw-archives-d-day-news-arrives-in-los-angeles-20190605-htmlstory.html",
+					"display_url": "latimes.com/visuals/photog…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136296202100568000,
+					"id_str": "1136296202100568067",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/D8TvYB3UcAMkfMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8TvYB3UcAMkfMv.jpg",
+					"url": "https://t.co/owfVnpPcQG",
+					"display_url": "pic.twitter.com/owfVnpPcQG",
+					"expanded_url": "https://twitter.com/LATlands/status/1136296205367930880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 887,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1330,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136296202100568000,
+					"id_str": "1136296202100568067",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/D8TvYB3UcAMkfMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8TvYB3UcAMkfMv.jpg",
+					"url": "https://t.co/owfVnpPcQG",
+					"display_url": "pic.twitter.com/owfVnpPcQG",
+					"expanded_url": "https://twitter.com/LATlands/status/1136296205367930880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 887,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1330,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55138885,
+			"id_str": "55138885",
+			"name": "Mitchell Landsberg",
+			"screen_name": "LATlands",
+			"location": "Los Angeles",
+			"description": "Foreign Editor, acting National Editor, LA Times. Formerly AP Reno, NYC, Moscow. SFGiants fan in Dodgertown.",
+			"url": "http://t.co/DwhrVjtTlf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DwhrVjtTlf",
+							"expanded_url": "http://latimes.com/world",
+							"display_url": "latimes.com/world",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3100,
+			"friends_count": 1374,
+			"listed_count": 153,
+			"created_at": "Thu Jul 09 04:15:22 +0000 2009",
+			"favourites_count": 4187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3495920902/fac3cb9e366a9f18342f56e7c515d460_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3495920902/fac3cb9e366a9f18342f56e7c515d460_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55138885/1382654661",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @latimes was not a great newspaper in 1944. But I love this front page, which used to hang in the halls of the Times' old building. It captured the drama and gravitas of the moment. https://t.co/2HIUYYliGo https://t.co/owfVnpPcQG"
+	},
+	{
 		"created_at": "Wed Jun 05 15:01:52 +0000 2019",
 		"id": 1136039474029187100,
 		"id_str": "1136287024262963200",
