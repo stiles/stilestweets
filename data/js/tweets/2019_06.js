@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 05 15:01:52 +0000 2019",
+		"id": 1136039474029187100,
+		"id_str": "1136287024262963200",
+		"full_text": "I lost it when Keanu started shouting the names of Chinese dignitaries in #alwaysbemymaybe. Now sitting with the idea that Neo is Asian and has always been and it's kind of mindblowing. @jenyamato zooms in on his role: https://t.co/RJFTmdxeTC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alwaysbemymaybe",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jenyamato",
+					"name": "jen yamato",
+					"id": 16400360,
+					"id_str": "16400360",
+					"indices": [
+						186,
+						196
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RJFTmdxeTC",
+					"expanded_url": "https://www.latimes.com/entertainment/movies/la-et-mn-keanu-reeves-always-be-my-maybe-20190602-story.html",
+					"display_url": "latimes.com/entertainment/…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17626551,
+			"id_str": "17626551",
+			"name": "Frank Shyong 熊紹岡",
+			"screen_name": "frankshyong",
+			"location": "Los Angeles, CA",
+			"description": "@latimes columnist writing about the city. Everyone is everyone and everything is everywhere.",
+			"url": "https://t.co/HfXAlF2tFn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HfXAlF2tFn",
+							"expanded_url": "http://www.frankshyong.com",
+							"display_url": "frankshyong.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9935,
+			"friends_count": 4719,
+			"listed_count": 286,
+			"created_at": "Tue Nov 25 18:18:49 +0000 2008",
+			"favourites_count": 7253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963956534303584256/teGjNY_R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963956534303584256/teGjNY_R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17626551/1512431164",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 206,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I lost it when Keanu started shouting the names of Chinese dignitaries in #alwaysbemymaybe. Now sitting with the idea that Neo is Asian and has always been and it's kind of mindblowing. @jenyamato zooms in on his role: https://t.co/RJFTmdxeTC"
+	},
+	{
 		"created_at": "Wed Jun 05 06:31:02 +0000 2019",
 		"id": 1136148356550484000,
 		"id_str": "1136158470002970624",
