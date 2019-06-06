@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 05:13:56 +0000 2019",
+		"id": 1136501452413624300,
+		"id_str": "1136501452413624320",
+		"full_text": "I love the show @boschamazon, even though its depictions of @latimes are at times uneven. I'm sure it doesn't get everything right about @LAPDHQ, either. But this was a nice touch. cc @jackdolanLAT @ryanvmenezes  @jackfleonard https://t.co/0cRTooHTDs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoschAmazon",
+					"name": "Bosch",
+					"id": 2149613827,
+					"id_str": "2149613827",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "LAPDHQ",
+					"name": "LAPD HQ",
+					"id": 115705583,
+					"id_str": "115705583",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"screen_name": "jackdolanLAT",
+					"name": "Jack Dolan",
+					"id": 155572186,
+					"id_str": "155572186",
+					"indices": [
+						184,
+						197
+					]
+				},
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						198,
+						211
+					]
+				},
+				{
+					"screen_name": "jackfleonard",
+					"name": "Jack Leonard",
+					"id": 30692099,
+					"id_str": "30692099",
+					"indices": [
+						213,
+						226
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136501420700590100,
+					"id_str": "1136501420700590080",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D8WqBUuV4AAeFPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8WqBUuV4AAeFPE.jpg",
+					"url": "https://t.co/0cRTooHTDs",
+					"display_url": "pic.twitter.com/0cRTooHTDs",
+					"expanded_url": "https://twitter.com/stiles/status/1136501452413624320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136501420700590100,
+					"id_str": "1136501420700590080",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D8WqBUuV4AAeFPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8WqBUuV4AAeFPE.jpg",
+					"url": "https://t.co/0cRTooHTDs",
+					"display_url": "pic.twitter.com/0cRTooHTDs",
+					"expanded_url": "https://twitter.com/stiles/status/1136501452413624320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 789,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1136501420708884500,
+					"id_str": "1136501420708884480",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D8WqBUwUcAAvUGe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8WqBUwUcAAvUGe.jpg",
+					"url": "https://t.co/0cRTooHTDs",
+					"display_url": "pic.twitter.com/0cRTooHTDs",
+					"expanded_url": "https://twitter.com/stiles/status/1136501452413624320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1294,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10832,
+			"friends_count": 1605,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1559716076",
+			"profile_link_color": "7C816C",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love the show @boschamazon, even though its depictions of @latimes are at times uneven. I'm sure it doesn't get everything right about @LAPDHQ, either. But this was a nice touch. cc @jackdolanLAT @ryanvmenezes  @jackfleonard https://t.co/0cRTooHTDs"
+	},
+	{
 		"created_at": "Thu Jun 06 03:46:07 +0000 2019",
 		"id": 1136479356224585700,
 		"id_str": "1136479356224585729",
