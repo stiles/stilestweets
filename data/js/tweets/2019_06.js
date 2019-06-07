@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 14:00:56 +0000 2019",
+		"id": 1136933857125515300,
+		"id_str": "1136996465513967616",
+		"full_text": "Post-storm skies (and breathable air!) in Seoul https://t.co/mwFiLuKcJF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136933837823389700,
+					"id_str": "1136933837823389696",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/D8czTUCVsAA3rbc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8czTUCVsAA3rbc.jpg",
+					"url": "https://t.co/mwFiLuKcJF",
+					"display_url": "pic.twitter.com/mwFiLuKcJF",
+					"expanded_url": "https://twitter.com/vicjkim/status/1136933857125515264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136933837823389700,
+					"id_str": "1136933837823389696",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/D8czTUCVsAA3rbc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8czTUCVsAA3rbc.jpg",
+					"url": "https://t.co/mwFiLuKcJF",
+					"display_url": "pic.twitter.com/mwFiLuKcJF",
+					"expanded_url": "https://twitter.com/vicjkim/status/1136933857125515264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54643600,
+			"id_str": "54643600",
+			"name": "Victoria Kim",
+			"screen_name": "vicjkim",
+			"location": "Los Angeles, CA",
+			"description": "@LATimes Seoul correspondent. Seoul-bred, LA-forged. Formerly K-town, courts, investigations. Reach me at https://t.co/aCqVWMmXQW (at) https://t.co/eTksmynSH7. DMs open.",
+			"url": "https://t.co/oLZaH6LhdI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oLZaH6LhdI",
+							"expanded_url": "http://www.latimes.com/la-bio-victoria-kim-staff.html",
+							"display_url": "latimes.com/la-bio-victori…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aCqVWMmXQW",
+							"expanded_url": "http://victoria.kim",
+							"display_url": "victoria.kim",
+							"indices": [
+								106,
+								129
+							]
+						},
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5081,
+			"friends_count": 1912,
+			"listed_count": 172,
+			"created_at": "Tue Jul 07 19:07:04 +0000 2009",
+			"favourites_count": 3151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557735738825920512/VzyhVLUB_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557735738825920512/VzyhVLUB_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54643600/1421810039",
+			"profile_link_color": "737CA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Post-storm skies (and breathable air!) in Seoul https://t.co/mwFiLuKcJF"
+	},
+	{
 		"created_at": "Fri Jun 07 04:27:28 +0000 2019",
 		"id": 1136645002325516300,
 		"id_str": "1136852147113406464",
