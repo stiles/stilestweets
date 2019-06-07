@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 16:04:03 +0000 2019",
+		"id": 1136768755562770400,
+		"id_str": "1137027447289868289",
+		"full_text": "Los Angeles Women Police Officers and Associates weighs in on Sheriff Villanueva's recent comments about women in law enforcement @lawpoa_lapd https://t.co/ieORUeeW4H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LAWPOA_LAPD",
+					"name": "LAWPOA",
+					"id": 835000464219357200,
+					"id_str": "835000464219357186",
+					"indices": [
+						130,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ieORUeeW4H",
+					"expanded_url": "https://twitter.com/LAWPOA_LAPD/status/1136749849083146240",
+					"display_url": "twitter.com/LAWPOA_LAPD/st…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74304212,
+			"id_str": "74304212",
+			"name": "Maya Lau 🦅",
+			"screen_name": "mayalau",
+			"location": "Los Angeles, CA",
+			"description": "@latimes reporter covering L.A. Sheriff's Dept. Proud alum: @theadvocatebr, @shreveporttimes, @NYTMag, @peacecorps, @vassar // CONTACT: https://t.co/XiXiicmKXp",
+			"url": "https://t.co/XiXiicmKXp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XiXiicmKXp",
+							"expanded_url": "http://mayalau.com",
+							"display_url": "mayalau.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XiXiicmKXp",
+							"expanded_url": "http://mayalau.com",
+							"display_url": "mayalau.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10914,
+			"friends_count": 2831,
+			"listed_count": 303,
+			"created_at": "Mon Sep 14 23:45:56 +0000 2009",
+			"favourites_count": 1753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004414950670884864/p5mAiD6-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004414950670884864/p5mAiD6-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74304212/1439662591",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1136749849083146200,
+		"quoted_status_id_str": "1136749849083146240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ieORUeeW4H",
+			"expanded": "https://twitter.com/LAWPOA_LAPD/status/1136749849083146240",
+			"display": "twitter.com/LAWPOA_LAPD/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 06 21:40:58 +0000 2019",
+			"id": 1136749849083146200,
+			"id_str": "1136749849083146240",
+			"full_text": "Sheriff, you should kick start your ”truth and reconciliation\" push for the Sheriff's Department by repudiating your own sexist remarks about women in law enforcement. @LACoSheriff   https://t.co/VSMSoZMSXV https://t.co/FU853iOk36",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LACoSheriff",
+						"name": "Alex Villanueva",
+						"id": 1067499378175238100,
+						"id_str": "1067499378175238144",
+						"indices": [
+							168,
+							180
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VSMSoZMSXV",
+						"expanded_url": "https://www.youtube.com/watch?reload=9&v=w1PO__j_cOM&feature=youtu.be",
+						"display_url": "youtube.com/watch?reload=9…",
+						"indices": [
+							183,
+							206
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1136749213985910800,
+						"id_str": "1136749213985910784",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/D8aLYypVsAAfHKD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8aLYypVsAAfHKD.jpg",
+						"url": "https://t.co/FU853iOk36",
+						"display_url": "pic.twitter.com/FU853iOk36",
+						"expanded_url": "https://twitter.com/LAWPOA_LAPD/status/1136749849083146240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 457,
+								"h": 472,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 457,
+								"h": 472,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 457,
+								"h": 472,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1136749213985910800,
+						"id_str": "1136749213985910784",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/D8aLYypVsAAfHKD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8aLYypVsAAfHKD.jpg",
+						"url": "https://t.co/FU853iOk36",
+						"display_url": "pic.twitter.com/FU853iOk36",
+						"expanded_url": "https://twitter.com/LAWPOA_LAPD/status/1136749849083146240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 457,
+								"h": 472,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 457,
+								"h": 472,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 457,
+								"h": 472,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835000464219357200,
+				"id_str": "835000464219357186",
+				"name": "LAWPOA",
+				"screen_name": "LAWPOA_LAPD",
+				"location": "United States",
+				"description": "We encourage & assist with the professional training and ongoing development of public safety leaders in the achievement of their professional goals.",
+				"url": "https://t.co/uudTLX3JN2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uudTLX3JN2",
+								"expanded_url": "https://www.lawpoa.org",
+								"display_url": "lawpoa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 489,
+				"friends_count": 826,
+				"listed_count": 5,
+				"created_at": "Fri Feb 24 05:36:39 +0000 2017",
+				"favourites_count": 220,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 407,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084598874323341312/GluiwlV3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084598874323341312/GluiwlV3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835000464219357186/1549545000",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 28,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Los Angeles Women Police Officers and Associates weighs in on Sheriff Villanueva's recent comments about women in law enforcement @lawpoa_lapd https://t.co/ieORUeeW4H"
+	},
+	{
 		"created_at": "Fri Jun 07 14:00:56 +0000 2019",
 		"id": 1136933857125515300,
 		"id_str": "1136996465513967616",
