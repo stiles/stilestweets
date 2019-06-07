@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 04:27:28 +0000 2019",
+		"id": 1136645002325516300,
+		"id_str": "1136852147113406464",
+		"full_text": "In Pennsylvania, people with mental illness deemed incompetent to stand trial have waited more than a year for a state hospital bed. Here is the last story I worked on with @frontlinepbs @MarshallProj before joining the L.A. Times, published today  https://t.co/nDh6knua06",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frontlinepbs",
+					"name": "FRONTLINE",
+					"id": 16016427,
+					"id_str": "16016427",
+					"indices": [
+						173,
+						186
+					]
+				},
+				{
+					"screen_name": "MarshallProj",
+					"name": "The Marshall Project",
+					"id": 2216041938,
+					"id_str": "2216041938",
+					"indices": [
+						187,
+						200
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nDh6knua06",
+					"expanded_url": "https://www.themarshallproject.org/2019/06/06/mentally-ill-and-languishing-in-jail?utm_medium=social&utm_campaign=sprout&utm_source=twitter",
+					"display_url": "themarshallproject.org/2019/06/06/men…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4084680861,
+			"id_str": "4084680861",
+			"name": "Leila Miller",
+			"screen_name": "leilamillersays",
+			"location": "Boston, MA",
+			"description": "Reporter @latimes. Previously: fellow @frontlinepbs. Alumna @columbiajourn. Half-Argentine. Story ideas: leila.miller@latimes.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 383,
+			"friends_count": 624,
+			"listed_count": 15,
+			"created_at": "Sat Oct 31 19:44:21 +0000 2015",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841788768537444352/7NSpWfs7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841788768537444352/7NSpWfs7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4084680861/1456456303",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Pennsylvania, people with mental illness deemed incompetent to stand trial have waited more than a year for a state hospital bed. Here is the last story I worked on with @frontlinepbs @MarshallProj before joining the L.A. Times, published today  https://t.co/nDh6knua06"
+	},
+	{
 		"created_at": "Fri Jun 07 02:51:36 +0000 2019",
 		"id": 1136828020772130800,
 		"id_str": "1136828020772130816",
