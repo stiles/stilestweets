@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 01:15:12 +0000 2019",
+		"id": 1136803764269043700,
+		"id_str": "1136803764269043712",
+		"full_text": "NIGHTMARE FUEL https://t.co/MfdqO6zgBG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MfdqO6zgBG",
+					"expanded_url": "https://twitter.com/jeremybowers/status/1136441788800077826",
+					"display_url": "twitter.com/jeremybowers/s…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10836,
+			"friends_count": 1608,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1559716076",
+			"profile_link_color": "7C816C",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1136441788800077800,
+		"quoted_status_id_str": "1136441788800077826",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MfdqO6zgBG",
+			"expanded": "https://twitter.com/jeremybowers/status/1136441788800077826",
+			"display": "twitter.com/jeremybowers/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 06 01:16:51 +0000 2019",
+			"id": 1136441788800077800,
+			"id_str": "1136441788800077826",
+			"full_text": "Have you ever considered just not sleeping anymore? Because I have something for you to look at. https://t.co/Fo7nfGOe6q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Fo7nfGOe6q",
+						"expanded_url": "https://twitter.com/41Strange/status/1136439594893754368",
+						"display_url": "twitter.com/41Strange/stat…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8083262,
+				"id_str": "8083262",
+				"name": "Jeremy Bowers",
+				"screen_name": "jeremybowers",
+				"location": "Washington, D.C.",
+				"description": "Director of engineering, @wapoengineering. Adjunct @Duke_DeWitt. Priors: @nytinteractive, @nprviz, @tb_times. #TheSqueezle #TheGiblette @beckybowers",
+				"url": "https://t.co/bJcwfkCU7u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bJcwfkCU7u",
+								"expanded_url": "https://jeremybowers.com/",
+								"display_url": "jeremybowers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12880,
+				"friends_count": 3963,
+				"listed_count": 737,
+				"created_at": "Thu Aug 09 16:00:54 +0000 2007",
+				"favourites_count": 79647,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 67090,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1133523444610605058/bhI49iQb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133523444610605058/bhI49iQb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8083262/1557236493",
+				"profile_link_color": "005599",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1136439594893754400,
+			"quoted_status_id_str": "1136439594893754368",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Fo7nfGOe6q",
+				"expanded": "https://twitter.com/41Strange/status/1136439594893754368",
+				"display": "twitter.com/41Strange/stat…"
+			},
+			"retweet_count": 5,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NIGHTMARE FUEL https://t.co/MfdqO6zgBG"
+	},
+	{
+		"created_at": "Fri Jun 07 01:08:53 +0000 2019",
+		"id": 1136792176715751400,
+		"id_str": "1136802172878741506",
+		"full_text": "Nearly 8 in 10 South Koreans say Economy &gt; Unified Korea in new survey. More than half say no when asked if it was acceptable to be a \"little less well off\" for the sake of unification -- only 17% said yes.  https://t.co/niU5mUPj5q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/niU5mUPj5q",
+					"expanded_url": "http://yna.kr/AKR20190606063700017?input=tw",
+					"display_url": "yna.kr/AKR20190606063…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54643600,
+			"id_str": "54643600",
+			"name": "Victoria Kim",
+			"screen_name": "vicjkim",
+			"location": "Los Angeles, CA",
+			"description": "@LATimes Seoul correspondent. Seoul-bred, LA-forged. Formerly K-town, courts, investigations. Reach me at https://t.co/aCqVWMmXQW (at) https://t.co/eTksmynSH7. DMs open.",
+			"url": "https://t.co/oLZaH6LhdI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oLZaH6LhdI",
+							"expanded_url": "http://www.latimes.com/la-bio-victoria-kim-staff.html",
+							"display_url": "latimes.com/la-bio-victori…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aCqVWMmXQW",
+							"expanded_url": "http://victoria.kim",
+							"display_url": "victoria.kim",
+							"indices": [
+								106,
+								129
+							]
+						},
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5065,
+			"friends_count": 1911,
+			"listed_count": 172,
+			"created_at": "Tue Jul 07 19:07:04 +0000 2009",
+			"favourites_count": 3145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557735738825920512/VzyhVLUB_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557735738825920512/VzyhVLUB_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54643600/1421810039",
+			"profile_link_color": "737CA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nearly 8 in 10 South Koreans say Economy &gt; Unified Korea in new survey. More than half say no when asked if it was acceptable to be a \"little less well off\" for the sake of unification -- only 17% said yes.  https://t.co/niU5mUPj5q"
+	},
+	{
 		"created_at": "Thu Jun 06 19:00:12 +0000 2019",
 		"id": 1136709391955062800,
 		"id_str": "1136709391955062784",
