@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 21:23:23 +0000 2019",
+		"id": 1137470200893198300,
+		"id_str": "1137470200893198337",
+		"full_text": "Hi @DrMuntu. We need a copy of this letter ... today. Can you help?  https://t.co/tsXJluw2N6 cc @lapublichealth matt.stiles [at] latimes [dot] com https://t.co/kdDlX3VpWc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrMuntu",
+					"name": "Muntu Davis",
+					"id": 77570470,
+					"id_str": "77570470",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "lapublichealth",
+					"name": "LA Public Health",
+					"id": 38287098,
+					"id_str": "38287098",
+					"indices": [
+						96,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tsXJluw2N6",
+					"expanded_url": "https://www.usatoday.com/story/news/nation/2019/06/08/homeless-crisis-los-angeles-county-seeks-help-toilets-rats-trash/1390562001",
+					"display_url": "usatoday.com/story/news/nat…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1137468755489935400,
+					"id_str": "1137468755489935360",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D8kZznoVUAAE5bJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8kZznoVUAAE5bJ.jpg",
+					"url": "https://t.co/kdDlX3VpWc",
+					"display_url": "pic.twitter.com/kdDlX3VpWc",
+					"expanded_url": "https://twitter.com/stiles/status/1137470200893198337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1182,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1182,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 251,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137468755489935400,
+					"id_str": "1137468755489935360",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D8kZznoVUAAE5bJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8kZznoVUAAE5bJ.jpg",
+					"url": "https://t.co/kdDlX3VpWc",
+					"display_url": "pic.twitter.com/kdDlX3VpWc",
+					"expanded_url": "https://twitter.com/stiles/status/1137470200893198337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1182,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1182,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 251,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Pastor: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10832,
+			"friends_count": 1611,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1559716076",
+			"profile_link_color": "7C816C",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi @DrMuntu. We need a copy of this letter ... today. Can you help?  https://t.co/tsXJluw2N6 cc @lapublichealth matt.stiles [at] latimes [dot] com https://t.co/kdDlX3VpWc"
+	},
+	{
 		"created_at": "Sat Jun 08 18:42:06 +0000 2019",
 		"id": 1137429610600079400,
 		"id_str": "1137429610600079361",
