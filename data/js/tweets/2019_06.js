@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 22:10:20 +0000 2019",
+		"id": 1137834933563613200,
+		"id_str": "1137844405065224192",
+		"full_text": "@stiles Tough but fair.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1137832895299502100,
+		"in_reply_to_status_id_str": "1137832895299502080",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 35496834,
+			"id_str": "35496834",
+			"name": "BStroud",
+			"screen_name": "HenryJamesBC",
+			"location": "East Austin",
+			"description": "Belgian beer, French wine, Dutch soccer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 176,
+			"listed_count": 14,
+			"created_at": "Sun Apr 26 16:13:42 +0000 2009",
+			"favourites_count": 1226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/918425934092488704/72FxAtZ7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/918425934092488704/72FxAtZ7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35496834/1507804783",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@stiles Tough but fair."
+	},
+	{
 		"created_at": "Sun Jun 09 18:00:24 +0000 2019",
 		"id": 1137781504291901400,
 		"id_str": "1137781504291901441",
