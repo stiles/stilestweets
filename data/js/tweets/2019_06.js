@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 13:55:11 +0000 2019",
+		"id": 1137536094843523100,
+		"id_str": "1137719795007180801",
+		"full_text": "I’m in Mexico. Ask me about immigration and the border wall. #PressTalk #news https://t.co/i508wSFX4B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressTalk",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "news",
+					"indices": [
+						72,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i508wSFX4B",
+					"expanded_url": "https://www.pscp.tv/w/b8xcKjF4ZUVXeVdQeXpwS1B8MVlwS2t2cVZleU14aiCDpbfrtRRl7Ng8Gsk7OCa_PtV5s0WCMc40A2poBImU",
+					"display_url": "pscp.tv/w/b8xcKjF4ZUVX…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842210275176603600,
+			"id_str": "842210275176603648",
+			"name": "Michael A.W. Ottey",
+			"screen_name": "mikelatimes",
+			"location": "Los Angeles, CA",
+			"description": "National/Foreign Assignment Editor at Los Angeles Times. Formerly @CapeCodTimes @AsburyParkPress @TheOregonian @TheMiamiHerald",
+			"url": "https://t.co/eTksmyFu5H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmyFu5H",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 199,
+			"listed_count": 5,
+			"created_at": "Thu Mar 16 03:05:51 +0000 2017",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/867165438886772736/D45Qjqyl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/867165438886772736/D45Qjqyl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842210275176603648/1514890991",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m in Mexico. Ask me about immigration and the border wall. #PressTalk #news https://t.co/i508wSFX4B"
+	},
+	{
+		"created_at": "Sun Jun 09 13:54:05 +0000 2019",
+		"id": 1136498119355461600,
+		"id_str": "1137719518883590144",
+		"full_text": "A strong majority of Californians — and a majority of diverse demographic groups, including homeowners — support allowing apartment construction in single-family home neighborhoods near transit and jobs, new @PPICNotes poll says https://t.co/7bZSKman9J #SB50",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SB50",
+					"indices": [
+						253,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PPICNotes",
+					"name": "Public Policy Institute of California",
+					"id": 43369337,
+					"id_str": "43369337",
+					"indices": [
+						208,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7bZSKman9J",
+					"expanded_url": "https://www.latimes.com/politics/la-pol-ca-housing-apartments-near-transit-poll-20190605-story.html",
+					"display_url": "latimes.com/politics/la-po…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32186559,
+			"id_str": "32186559",
+			"name": "Liam Dillon",
+			"screen_name": "dillonliam",
+			"location": "Sacramento, CA",
+			"description": "State politics and policy writer @latimes. Housing, taxes and probably a few other things. Philly native. Hoya Saxa. \n\nDMs open. liam.dillon@latimes.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15877,
+			"friends_count": 911,
+			"listed_count": 560,
+			"created_at": "Thu Apr 16 22:43:22 +0000 2009",
+			"favourites_count": 2239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/713950092504473600/Mqo-R9Y8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/713950092504473600/Mqo-R9Y8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32186559/1550872165",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A strong majority of Californians — and a majority of diverse demographic groups, including homeowners — support allowing apartment construction in single-family home neighborhoods near transit and jobs, new @PPICNotes poll says https://t.co/7bZSKman9J #SB50"
+	},
+	{
 		"created_at": "Sun Jun 09 02:15:14 +0000 2019",
 		"id": 1137543645748318200,
 		"id_str": "1137543645748318208",
