@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 04:18:20 +0000 2019",
+		"id": 1137937015473754100,
+		"id_str": "1137937015473754112",
+		"full_text": "These lovely graphics by @denisedslu really put the Democratic prez  candidates' age gap into perspective. Neat how the wide 40-year horizontal lifeline snaps into a winding path on small screens. Also, the generational block histogram is super: https://t.co/kkx8Tb3dOc https://t.co/wg6KmTaU6f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DeniseDSLu",
+					"name": "ಠ_ಠ",
+					"id": 237889929,
+					"id_str": "237889929",
+					"indices": [
+						25,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kkx8Tb3dOc",
+					"expanded_url": "https://www.nytimes.com/interactive/2019/06/09/us/politics/2020-democractic-candidates-ages.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1137937000453902300,
+					"id_str": "1137937000453902336",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D8rDrEDUEAAKX9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8rDrEDUEAAKX9e.jpg",
+					"url": "https://t.co/wg6KmTaU6f",
+					"display_url": "pic.twitter.com/wg6KmTaU6f",
+					"expanded_url": "https://twitter.com/stiles/status/1137937015473754112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1015,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1218,
+							"h": 1030,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137937000453902300,
+					"id_str": "1137937000453902336",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D8rDrEDUEAAKX9e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8rDrEDUEAAKX9e.jpg",
+					"url": "https://t.co/wg6KmTaU6f",
+					"display_url": "pic.twitter.com/wg6KmTaU6f",
+					"expanded_url": "https://twitter.com/stiles/status/1137937015473754112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1015,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1218,
+							"h": 1030,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137937000449753100,
+					"id_str": "1137937000449753088",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D8rDrECUwAAklx_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8rDrECUwAAklx_.jpg",
+					"url": "https://t.co/wg6KmTaU6f",
+					"display_url": "pic.twitter.com/wg6KmTaU6f",
+					"expanded_url": "https://twitter.com/stiles/status/1137937015473754112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 528,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1292,
+							"h": 1004,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 933,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10833,
+			"friends_count": 1612,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560056446",
+			"profile_link_color": "0046D3",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These lovely graphics by @denisedslu really put the Democratic prez  candidates' age gap into perspective. Neat how the wide 40-year horizontal lifeline snaps into a winding path on small screens. Also, the generational block histogram is super: https://t.co/kkx8Tb3dOc https://t.co/wg6KmTaU6f"
+	},
+	{
 		"created_at": "Mon Jun 10 02:08:28 +0000 2019",
 		"id": 1137904329480818700,
 		"id_str": "1137904329480818690",
