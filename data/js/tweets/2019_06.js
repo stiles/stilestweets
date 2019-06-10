@@ -1,10 +1,353 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 02:08:28 +0000 2019",
+		"id": 1137904329480818700,
+		"id_str": "1137904329480818690",
+		"full_text": "The @CountyofLA has my attention here... 🌴🌴🌴 https://t.co/E0qneYtEYL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						4,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E0qneYtEYL",
+					"expanded_url": "https://twitter.com/i/status/1137787211808747520",
+					"display_url": "twitter.com/i/status/11377…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10832,
+			"friends_count": 1611,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560056446",
+			"profile_link_color": "0046D3",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1137787211808747500,
+		"quoted_status_id_str": "1137787211808747520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E0qneYtEYL",
+			"expanded": "https://twitter.com/i/status/1137787211808747520",
+			"display": "twitter.com/i/status/11377…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 09 18:23:05 +0000 2019",
+			"id": 1137787211808747500,
+			"id_str": "1137787211808747520",
+			"full_text": "🌴 Happy Sunday! 🌴 https://t.co/6BBYpKYJt3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				17
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1137787207194959900,
+						"id_str": "1137787207194959873",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D8o7b8rW4AEWt5W.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D8o7b8rW4AEWt5W.jpg",
+						"url": "https://t.co/6BBYpKYJt3",
+						"display_url": "pic.twitter.com/6BBYpKYJt3",
+						"expanded_url": "https://twitter.com/CountyofLA/status/1137787211808747520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 464,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 464,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 464,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1137787207194959900,
+						"id_str": "1137787207194959873",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D8o7b8rW4AEWt5W.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D8o7b8rW4AEWt5W.jpg",
+						"url": "https://t.co/6BBYpKYJt3",
+						"display_url": "pic.twitter.com/6BBYpKYJt3",
+						"expanded_url": "https://twitter.com/CountyofLA/status/1137787211808747520/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 464,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 464,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 464,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								29,
+								30
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D8o7b8rW4AEWt5W.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 193771633,
+				"id_str": "193771633",
+				"name": "Los Angeles County",
+				"screen_name": "CountyofLA",
+				"location": "Los Angeles County",
+				"description": "Official account of Los Angeles County",
+				"url": "http://t.co/7Z6JLrLfYn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7Z6JLrLfYn",
+								"expanded_url": "http://lacounty.gov",
+								"display_url": "lacounty.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35085,
+				"friends_count": 4734,
+				"listed_count": 638,
+				"created_at": "Wed Sep 22 17:08:50 +0000 2010",
+				"favourites_count": 4269,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12053,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193771633/1553098987",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @CountyofLA has my attention here... 🌴🌴🌴 https://t.co/E0qneYtEYL"
+	},
+	{
 		"created_at": "Sun Jun 09 22:36:34 +0000 2019",
 		"id": 1137850575586881500,
 		"id_str": "1137851005175865346",
-		"full_text": "Happy Pride LA! 🏳️‍🌈🏳️‍🌈🏳️‍🌈 https://t.co/oavqaTMoz9",
+		"full_text": "Happy Pride LA! 🏳️🌈🏳️🌈🏳️🌈 https://t.co/oavqaTMoz9",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -182,7 +525,7 @@ Grailbird.data.tweets_2019_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Happy Pride LA! 🏳️‍🌈🏳️‍🌈🏳️‍🌈 https://t.co/oavqaTMoz9"
+		"text": "Happy Pride LA! 🏳️🌈🏳️🌈🏳️🌈 https://t.co/oavqaTMoz9"
 	},
 	{
 		"created_at": "Sun Jun 09 22:10:20 +0000 2019",
