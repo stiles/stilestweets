@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 23:00:22 +0000 2019",
+		"id": 1138154494150103000,
+		"id_str": "1138219380473356289",
+		"full_text": "If you care about L.A.'s homelessness problem, subscribe to the @latimes \n\nWe're pumping out content daily that explains the issues and possible solutions.\n\nToday, @latimesopinion sets the record straight on some popular myths:  https://t.co/JjkWIGpQra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"screen_name": "latimesopinion",
+					"name": "L.A. Times Opinion",
+					"id": 17825891,
+					"id_str": "17825891",
+					"indices": [
+						164,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JjkWIGpQra",
+					"expanded_url": "https://www.latimes.com/opinion/editorials/la-ed-four-homelessness-myths-20190610-story.html",
+					"display_url": "latimes.com/opinion/editor…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68556549,
+			"id_str": "68556549",
+			"name": "Samantha Melbourneweaver",
+			"screen_name": "SamanthaMVB",
+			"location": "Highland Park, CA",
+			"description": "Audience Engagement Director at @latimes. Previously @socalnewsgroup and @azcentral. @Cronkite_ASU alum.",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2162,
+			"friends_count": 2326,
+			"listed_count": 94,
+			"created_at": "Tue Aug 25 00:26:03 +0000 2009",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063972074606092288/-6dPY7XB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063972074606092288/-6dPY7XB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68556549/1420212339",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you care about L.A.'s homelessness problem, subscribe to the @latimes \n\nWe're pumping out content daily that explains the issues and possible solutions.\n\nToday, @latimesopinion sets the record straight on some popular myths:  https://t.co/JjkWIGpQra"
+	},
+	{
 		"created_at": "Mon Jun 10 04:18:20 +0000 2019",
 		"id": 1137937015473754100,
 		"id_str": "1137937015473754112",
