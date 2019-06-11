@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 17:29:56 +0000 2019",
+		"id": 1138486474947477500,
+		"id_str": "1138498612445339648",
+		"full_text": "Please note that for today’s meeting, members of the public will have the opportunity to speak for only one minute per item and donation of time will not be permitted. — I wonder WHY? @stiles ⁦@SupJaniceHahn⁩ https://t.co/GvPdBBKiiY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						184,
+						191
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						193,
+						207
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138486445427970000,
+					"id_str": "1138486445427970048",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/D8y3Y-FU0AAzun5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8y3Y-FU0AAzun5.jpg",
+					"url": "https://t.co/GvPdBBKiiY",
+					"display_url": "pic.twitter.com/GvPdBBKiiY",
+					"expanded_url": "https://twitter.com/ericpreven/status/1138486474947477504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 770,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138486445427970000,
+					"id_str": "1138486445427970048",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/D8y3Y-FU0AAzun5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8y3Y-FU0AAzun5.jpg",
+					"url": "https://t.co/GvPdBBKiiY",
+					"display_url": "pic.twitter.com/GvPdBBKiiY",
+					"expanded_url": "https://twitter.com/ericpreven/status/1138486474947477504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 770,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48035360,
+			"id_str": "48035360",
+			"name": "eric preven",
+			"screen_name": "ericpreven",
+			"location": "Los Angeles, CA",
+			"description": "",
+			"url": "https://t.co/n3Ccj5Nzse",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n3Ccj5Nzse",
+							"expanded_url": "http://www.ThePrevenReport.com",
+							"display_url": "ThePrevenReport.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 212,
+			"friends_count": 621,
+			"listed_count": 3,
+			"created_at": "Wed Jun 17 17:16:54 +0000 2009",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48035360/1394392597",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please note that for today’s meeting, members of the public will have the opportunity to speak for only one minute per item and donation of time will not be permitted. — I wonder WHY? @stiles ⁦@SupJaniceHahn⁩ https://t.co/GvPdBBKiiY"
+	},
+	{
 		"created_at": "Tue Jun 11 14:59:35 +0000 2019",
 		"id": 1138460778317508600,
 		"id_str": "1138460778317508608",
