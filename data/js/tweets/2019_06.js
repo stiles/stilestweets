@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 03:33:44 +0000 2019",
+		"id": 1138284670737457200,
+		"id_str": "1138288177465004033",
+		"full_text": "Sending positive thoughts and prayers 🙏🏼  to the @LASDHQ Deputy who was shot this afternoon. Thinking of the family, friends and co workers that are impacted during this difficult time. The @CountyofLA is pulling for you. https://t.co/BWhUo44u3b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LASDHQ",
+					"name": "LA County Sheriff's",
+					"id": 46470122,
+					"id_str": "46470122",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						190,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BWhUo44u3b",
+					"expanded_url": "https://abc7.com/sheriffs-deputy-shot-at-alhambra-restaurant/5341127/",
+					"display_url": "abc7.com/sheriffs-deput…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 414244466,
+			"id_str": "414244466",
+			"name": "Nicole Nishida",
+			"screen_name": "CIONicole",
+			"location": "Los Angeles County ",
+			"description": "Community Information Officer, Los Angeles County. Passion for news & good storytelling. @GWUspr Grad Student. Retweet does not = endorsement",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8543,
+			"friends_count": 5574,
+			"listed_count": 205,
+			"created_at": "Wed Nov 16 20:25:44 +0000 2011",
+			"favourites_count": 5002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092958230865575936/K8KTnp6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092958230865575936/K8KTnp6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/414244466/1559841664",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 64,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sending positive thoughts and prayers 🙏🏼  to the @LASDHQ Deputy who was shot this afternoon. Thinking of the family, friends and co workers that are impacted during this difficult time. The @CountyofLA is pulling for you. https://t.co/BWhUo44u3b"
+	},
+	{
 		"created_at": "Tue Jun 11 00:26:43 +0000 2019",
 		"id": 1138241114299744300,
 		"id_str": "1138241114299744256",
