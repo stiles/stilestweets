@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 04:58:15 +0000 2019",
+		"id": 1138511047801942000,
+		"id_str": "1138671833337647104",
+		"full_text": "“the Government of Mexico will take all necessary steps under domestic law to bring the agreement into force with a view to ensuring that the agreement will enter into force within 45 days.” @realDonaldTrump #Mexico agreement. Second photo flipped @washingtonpost @postpolitics https://t.co/lWuJU9bpYK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Mexico",
+					"indices": [
+						208,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						191,
+						207
+					]
+				},
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						248,
+						263
+					]
+				},
+				{
+					"screen_name": "postpolitics",
+					"name": "Post Politics",
+					"id": 14345062,
+					"id_str": "14345062",
+					"indices": [
+						264,
+						277
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138511037999829000,
+					"id_str": "1138511037999828992",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D8zNwcjXUAAbnAA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8zNwcjXUAAbnAA.jpg",
+					"url": "https://t.co/lWuJU9bpYK",
+					"display_url": "pic.twitter.com/lWuJU9bpYK",
+					"expanded_url": "https://twitter.com/jabinbotsford/status/1138511047801942017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138511037999829000,
+					"id_str": "1138511037999828992",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D8zNwcjXUAAbnAA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8zNwcjXUAAbnAA.jpg",
+					"url": "https://t.co/lWuJU9bpYK",
+					"display_url": "pic.twitter.com/lWuJU9bpYK",
+					"expanded_url": "https://twitter.com/jabinbotsford/status/1138511047801942017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1138511037991460900,
+					"id_str": "1138511037991460864",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D8zNwchXoAAaw2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8zNwchXoAAaw2R.jpg",
+					"url": "https://t.co/lWuJU9bpYK",
+					"display_url": "pic.twitter.com/lWuJU9bpYK",
+					"expanded_url": "https://twitter.com/jabinbotsford/status/1138511047801942017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 804,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 100420381,
+			"id_str": "100420381",
+			"name": "Jabin Botsford",
+			"screen_name": "jabinbotsford",
+			"location": "Washington, DC",
+			"description": "Staff Photographer at The Washington Post. The good stuff is on Instagram",
+			"url": "https://t.co/fkKXJ1qvFa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fkKXJ1qvFa",
+							"expanded_url": "http://www.jabinbotsford.com",
+							"display_url": "jabinbotsford.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3704,
+			"friends_count": 344,
+			"listed_count": 99,
+			"created_at": "Wed Dec 30 05:58:33 +0000 2009",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770704410234191874/ctCCXKGG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770704410234191874/ctCCXKGG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/100420381/1472585283",
+			"profile_link_color": "F7DB23",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "122066",
+			"profile_text_color": "32B4FA",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9dafff4481002",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9dafff4481002.json",
+			"place_type": "poi",
+			"name": "The White House",
+			"full_name": "The White House",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-77.03652437041796,
+							38.89868207852219
+						],
+						[
+							-77.03652437041796,
+							38.89868207852219
+						],
+						[
+							-77.03652437041796,
+							38.89868207852219
+						],
+						[
+							-77.03652437041796,
+							38.89868207852219
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1748,
+		"favorite_count": 2769,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“the Government of Mexico will take all necessary steps under domestic law to bring the agreement into force with a view to ensuring that the agreement will enter into force within 45 days.” @realDonaldTrump #Mexico agreement. Second photo flipped @washingtonpost @postpolitics https://t.co/lWuJU9bpYK"
+	},
+	{
 		"created_at": "Wed Jun 12 04:08:08 +0000 2019",
 		"id": 1138659222386692100,
 		"id_str": "1138659222386692096",
