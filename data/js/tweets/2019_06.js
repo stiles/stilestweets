@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 17:07:42 +0000 2019",
+		"id": 1139157961769537500,
+		"id_str": "1139217793671237632",
+		"full_text": "🗞️ #NEWS 🗞️\n\nIn the last census, nearly 1 in 7 Native Americans living on a reservation was missed.\n\nCan @uscensusbureau make sure it doesn't happen again in #Census2020?\n\n@kurtisalee and your @LATdatadesk are on the case. Read all about it.\n\nhttps://t.co/TxyUnPsuyt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"text": "Census2020",
+					"indices": [
+						158,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uscensusbureau",
+					"name": "U.S. Census Bureau",
+					"id": 23092890,
+					"id_str": "23092890",
+					"indices": [
+						105,
+						120
+					]
+				},
+				{
+					"screen_name": "kurtisalee",
+					"name": "Kurtis Lee",
+					"id": 230611723,
+					"id_str": "230611723",
+					"indices": [
+						172,
+						183
+					]
+				},
+				{
+					"screen_name": "LATdatadesk",
+					"name": "The Data Desk",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						193,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TxyUnPsuyt",
+					"expanded_url": "https://www.latimes.com/projects/la-na-census-native-americans-navajo-nation/",
+					"display_url": "latimes.com/projects/la-na…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+			"url": "https://t.co/kogJ0fJceo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kogJ0fJceo",
+							"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lZvqTdDOmO",
+							"expanded_url": "http://www.californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9077,
+			"friends_count": 3062,
+			"listed_count": 706,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗞️ #NEWS 🗞️\n\nIn the last census, nearly 1 in 7 Native Americans living on a reservation was missed.\n\nCan @uscensusbureau make sure it doesn't happen again in #Census2020?\n\n@kurtisalee and your @LATdatadesk are on the case. Read all about it.\n\nhttps://t.co/TxyUnPsuyt"
+	},
+	{
 		"created_at": "Thu Jun 13 03:23:16 +0000 2019",
 		"id": 1139004911868186600,
 		"id_str": "1139010317399150592",
