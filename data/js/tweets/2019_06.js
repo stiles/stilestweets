@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 03:23:16 +0000 2019",
+		"id": 1139004911868186600,
+		"id_str": "1139010317399150592",
+		"full_text": "#LASD Deputies marching in formation as fallen Deputy Solano arrives to the LA Coroner’s office. https://t.co/pGSjObJSqL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LASD",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139004852187435000,
+					"id_str": "1139004852187435008",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1139004852187435008/pu/img/k8uO6GQGBcPMNLNq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1139004852187435008/pu/img/k8uO6GQGBcPMNLNq.jpg",
+					"url": "https://t.co/pGSjObJSqL",
+					"display_url": "pic.twitter.com/pGSjObJSqL",
+					"expanded_url": "https://twitter.com/LASDHQ/status/1139004911868186624/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139004852187435000,
+					"id_str": "1139004852187435008",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1139004852187435008/pu/img/k8uO6GQGBcPMNLNq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1139004852187435008/pu/img/k8uO6GQGBcPMNLNq.jpg",
+					"url": "https://t.co/pGSjObJSqL",
+					"display_url": "pic.twitter.com/pGSjObJSqL",
+					"expanded_url": "https://twitter.com/LASDHQ/status/1139004911868186624/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 11875,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1139004852187435008/pu/vid/1280x720/OTrne3Ooahz3fePV.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1139004852187435008/pu/pl/nwKbc46MoJ9rkJ21.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1139004852187435008/pu/vid/640x360/q1LkspsS_lGOe9nl.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1139004852187435008/pu/vid/480x270/XSzbAmEjsHFzLsnq.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46470122,
+			"id_str": "46470122",
+			"name": "LA County Sheriff's",
+			"screen_name": "LASDHQ",
+			"location": "Los Angeles County, California",
+			"description": "Los Angeles County Sheriff's Department (Headquarters). Official. #LASD https://t.co/icwmbwgpc3 https://t.co/aqLb8E8unL",
+			"url": "https://t.co/jr2qeQPnRS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jr2qeQPnRS",
+							"expanded_url": "http://careers.lasd.org",
+							"display_url": "careers.lasd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/icwmbwgpc3",
+							"expanded_url": "http://www.lasd.org",
+							"display_url": "lasd.org",
+							"indices": [
+								72,
+								95
+							]
+						},
+						{
+							"url": "https://t.co/aqLb8E8unL",
+							"expanded_url": "https://www.facebook.com/LosAngelesCountySheriffsDepartment",
+							"display_url": "facebook.com/LosAngelesCoun…",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 100867,
+			"friends_count": 150,
+			"listed_count": 1651,
+			"created_at": "Thu Jun 11 19:39:26 +0000 2009",
+			"favourites_count": 1980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "003300",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118202408507559937/UE6GsMsm_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118202408507559937/UE6GsMsm_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46470122/1539889784",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "006600",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LASD Deputies marching in formation as fallen Deputy Solano arrives to the LA Coroner’s office. https://t.co/pGSjObJSqL"
+	},
+	{
 		"created_at": "Thu Jun 13 02:59:25 +0000 2019",
 		"id": 1139004316524527600,
 		"id_str": "1139004316524527616",
