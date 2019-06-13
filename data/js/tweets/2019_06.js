@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 20:59:04 +0000 2019",
+		"id": 1139269531157827600,
+		"id_str": "1139276018911309824",
+		"full_text": "OSC finds Kellyanne Conway repeatedly violated the Hatch Act, recommends removal from federal service: https://t.co/QDqDeG4Ec4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QDqDeG4Ec4",
+					"expanded_url": "https://osc.gov/News/pr-19-10.pdf",
+					"display_url": "osc.gov/News/pr-19-10.…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 423745588,
+			"id_str": "423745588",
+			"name": "OfficeSpecialCounsel",
+			"screen_name": "US_OSC",
+			"location": "Washington, D.C.",
+			"description": "Independent fed. agency. Works with whistleblowers, protects feds from prohibited personnel practices, enforces Hatch Act & USERRA. Retweets ≠ endorsements",
+			"url": "http://t.co/RE2eEdCb4J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RE2eEdCb4J",
+							"expanded_url": "http://www.osc.gov",
+							"display_url": "osc.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5632,
+			"friends_count": 247,
+			"listed_count": 121,
+			"created_at": "Mon Nov 28 21:57:33 +0000 2011",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1663123457/osc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1663123457/osc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/423745588/1406818002",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OSC finds Kellyanne Conway repeatedly violated the Hatch Act, recommends removal from federal service: https://t.co/QDqDeG4Ec4"
+	},
+	{
+		"created_at": "Thu Jun 13 20:52:06 +0000 2019",
+		"id": 1139249830268682200,
+		"id_str": "1139274265063071744",
+		"full_text": "We are long overdue for oversight with teeth, whether around juvenile facilities or fiscal stewardship. #ProbationReform\n@stiles @reporterliz  @WitnessLA @StoltzeFrankly @SaulKCRW @knxpete @CDFCA @ChronicleSC @lolitanbcla @jkandel \nhttps://t.co/4gNhMc49IC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ProbationReform",
+					"indices": [
+						104,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"screen_name": "reporterliz",
+					"name": "Elizabeth Chou",
+					"id": 37085458,
+					"id_str": "37085458",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"screen_name": "WitnessLA",
+					"name": "Celeste Fremon",
+					"id": 16797844,
+					"id_str": "16797844",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"screen_name": "StoltzeFrankly",
+					"name": "Frank Stoltze",
+					"id": 30130169,
+					"id_str": "30130169",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"screen_name": "SaulKCRW",
+					"name": "Saul Gonzalez",
+					"id": 403689876,
+					"id_str": "403689876",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"screen_name": "knxpete",
+					"name": "Pete Demetriou",
+					"id": 3132550724,
+					"id_str": "3132550724",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"screen_name": "cdfca",
+					"name": "Children's Defense Fund–California",
+					"id": 1191845912,
+					"id_str": "1191845912",
+					"indices": [
+						189,
+						195
+					]
+				},
+				{
+					"screen_name": "ChronicleSC",
+					"name": "ChronicleSC",
+					"id": 547245873,
+					"id_str": "547245873",
+					"indices": [
+						196,
+						208
+					]
+				},
+				{
+					"screen_name": "lolitanbcla",
+					"name": "Lolita Lopez",
+					"id": 19217091,
+					"id_str": "19217091",
+					"indices": [
+						209,
+						221
+					]
+				},
+				{
+					"screen_name": "jkandel",
+					"name": "Jason Kandel",
+					"id": 14955154,
+					"id_str": "14955154",
+					"indices": [
+						222,
+						230
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4gNhMc49IC",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-probation-reform-juvenile-halls-20190612-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16369269,
+			"id_str": "16369269",
+			"name": "Mark Ridley-Thomas",
+			"screen_name": "mridleythomas",
+			"location": "Los Angeles",
+			"description": "@CountyOfLA Supervisor- Carson, Compton, Culver City, Gardena, Hawthorne, Inglewood, Lawndale, LA City, Lynwood, & unincorporated areas (2M ppl) 12/08.",
+			"url": "http://t.co/ecWCHkYaHI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ecWCHkYaHI",
+							"expanded_url": "http://ridley-thomas.lacounty.gov/",
+							"display_url": "ridley-thomas.lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19115,
+			"friends_count": 866,
+			"listed_count": 513,
+			"created_at": "Fri Sep 19 19:56:37 +0000 2008",
+			"favourites_count": 7045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "141633",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16369269/1432680050",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "34C7BB",
+			"profile_sidebar_fill_color": "7CBBEB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are long overdue for oversight with teeth, whether around juvenile facilities or fiscal stewardship. #ProbationReform\n@stiles @reporterliz  @WitnessLA @StoltzeFrankly @SaulKCRW @knxpete @CDFCA @ChronicleSC @lolitanbcla @jkandel \nhttps://t.co/4gNhMc49IC"
+	},
+	{
 		"created_at": "Thu Jun 13 17:07:42 +0000 2019",
 		"id": 1139157961769537500,
 		"id_str": "1139217793671237632",
