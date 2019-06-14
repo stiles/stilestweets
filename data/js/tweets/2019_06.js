@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 14 00:21:08 +0000 2019",
+		"id": 1138885981602537500,
+		"id_str": "1139326873526136833",
+		"full_text": "One Dad. Two Families. My movie #BeingFrank is now in theaters.  Buy tickets now, and see it with your own secret family: https://t.co/QApW0kf2f1 https://t.co/gyBHLNRvcx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BeingFrank",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QApW0kf2f1",
+					"expanded_url": "http://beingfrankfilm.com/tickets",
+					"display_url": "beingfrankfilm.com/tickets",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138884848494481400,
+					"id_str": "1138884848494481408",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1138884848494481408/img/fT4If_UwZOS5sG1U.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1138884848494481408/img/fT4If_UwZOS5sG1U.jpg",
+					"url": "https://t.co/gyBHLNRvcx",
+					"display_url": "pic.twitter.com/gyBHLNRvcx",
+					"expanded_url": "https://twitter.com/JimGaffigan/status/1138885981602537473/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138884848494481400,
+					"id_str": "1138884848494481408",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1138884848494481408/img/fT4If_UwZOS5sG1U.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1138884848494481408/img/fT4If_UwZOS5sG1U.jpg",
+					"url": "https://t.co/gyBHLNRvcx",
+					"display_url": "pic.twitter.com/gyBHLNRvcx",
+					"expanded_url": "https://twitter.com/JimGaffigan/status/1138885981602537473/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32032,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1138884848494481408/pl/1Bb6wpi1NYcgr44o.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1138884848494481408/vid/480x270/Ly2qtOce7QVE7An-.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1138884848494481408/vid/640x360/LkIia624z12mknyP.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1138884848494481408/vid/1280x720/OWlhW4yixJi_x59x.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6539592,
+			"id_str": "6539592",
+			"name": "Jim Gaffigan",
+			"screen_name": "JimGaffigan",
+			"location": "New Tour - Quality Time",
+			"description": "Male Model. Long snapper. My first wife is @jeanniegaffigan. NOBLE APE available to rent/buy NOW. All new material in QUALITY TIME TOUR.",
+			"url": "https://t.co/cp02zQzqdN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cp02zQzqdN",
+							"expanded_url": "http://jimgaffigan.com",
+							"display_url": "jimgaffigan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2984672,
+			"friends_count": 2586,
+			"listed_count": 24777,
+			"created_at": "Sun Jun 03 11:09:19 +0000 2007",
+			"favourites_count": 13526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "6699CC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991508602337800192/YWhP7Oje_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991508602337800192/YWhP7Oje_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6539592/1559578758",
+			"profile_link_color": "B4C2EE",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "5F7CD3",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 111,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"scopes": {
+			"followers": false
+		},
+		"lang": "en",
+		"text": "One Dad. Two Families. My movie #BeingFrank is now in theaters.  Buy tickets now, and see it with your own secret family: https://t.co/QApW0kf2f1 https://t.co/gyBHLNRvcx"
+	},
+	{
 		"created_at": "Thu Jun 13 22:26:10 +0000 2019",
 		"id": 1139297937467617300,
 		"id_str": "1139297937467617281",
