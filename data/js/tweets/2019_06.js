@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 15:19:26 +0000 2019",
+		"id": 1139915323925127200,
+		"id_str": "1139915323925127169",
+		"full_text": "I drove in behind that @McLarenAuto. Nice ride. https://t.co/CmPLyAIMIv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "McLarenAuto",
+					"name": "McLaren Automotive",
+					"id": 605511043,
+					"id_str": "605511043",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CmPLyAIMIv",
+					"expanded_url": "https://twitter.com/erskinetimes/status/1139884469052039168",
+					"display_url": "twitter.com/erskinetimes/s…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10836,
+			"friends_count": 1618,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560570815",
+			"profile_link_color": "5E6834",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139884469052039200,
+		"quoted_status_id_str": "1139884469052039168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CmPLyAIMIv",
+			"expanded": "https://twitter.com/erskinetimes/status/1139884469052039168",
+			"display": "twitter.com/erskinetimes/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 15 13:16:50 +0000 2019",
+			"id": 1139884469052039200,
+			"id_str": "1139884469052039168",
+			"full_text": "Pulitzer-winning auto columnist Dan Neil visits @latimes yesterday, apparently driving some sort of spaceship https://t.co/buTgDiZBDq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							48,
+							56
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1139884436680392700,
+						"id_str": "1139884436680392710",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/D9Gu2xVUwAYLJjx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9Gu2xVUwAYLJjx.jpg",
+						"url": "https://t.co/buTgDiZBDq",
+						"display_url": "pic.twitter.com/buTgDiZBDq",
+						"expanded_url": "https://twitter.com/erskinetimes/status/1139884469052039168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1139884436680392700,
+						"id_str": "1139884436680392710",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/D9Gu2xVUwAYLJjx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9Gu2xVUwAYLJjx.jpg",
+						"url": "https://t.co/buTgDiZBDq",
+						"display_url": "pic.twitter.com/buTgDiZBDq",
+						"expanded_url": "https://twitter.com/erskinetimes/status/1139884469052039168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 113379316,
+				"id_str": "113379316",
+				"name": "Chris Erskine",
+				"screen_name": "erskinetimes",
+				"location": "Los Angeles",
+				"description": "Deist. Scorpio. Isn't that enough?",
+				"url": "https://t.co/d6pv8tGdf8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d6pv8tGdf8",
+								"expanded_url": "http://www.latimes.com/erskine",
+								"display_url": "latimes.com/erskine",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5104,
+				"friends_count": 3113,
+				"listed_count": 121,
+				"created_at": "Thu Feb 11 15:31:14 +0000 2010",
+				"favourites_count": 4368,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7069,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3636797830/18d9d9f56d1860f95f523aa4ef86face_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3636797830/18d9d9f56d1860f95f523aa4ef86face_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I drove in behind that @McLarenAuto. Nice ride. https://t.co/CmPLyAIMIv"
+	},
+	{
+		"created_at": "Sat Jun 15 15:05:31 +0000 2019",
+		"id": 1139911823619059700,
+		"id_str": "1139911823619059712",
+		"full_text": "Mindfulness! \"Trump rarely if ever speaks to aides about what he hopes to accomplish with what would be a hard-won second term; his interest is entirely in the present...\" https://t.co/6jhH2E8wVy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6jhH2E8wVy",
+					"expanded_url": "https://nyti.ms/2ZbnZ2i",
+					"display_url": "nyti.ms/2ZbnZ2i",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10836,
+			"friends_count": 1618,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560570815",
+			"profile_link_color": "5E6834",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mindfulness! \"Trump rarely if ever speaks to aides about what he hopes to accomplish with what would be a hard-won second term; his interest is entirely in the present...\" https://t.co/6jhH2E8wVy"
+	},
+	{
+		"created_at": "Sat Jun 15 14:44:38 +0000 2019",
+		"id": 1139906564792303600,
+		"id_str": "1139906564792303621",
+		"full_text": "@rdmurphy https://t.co/4YHy7rmtEv",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rdmurphy",
+					"name": "Ryan Murphy",
+					"id": 20031243,
+					"id_str": "20031243",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139906559243214800,
+					"id_str": "1139906559243214849",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9HC-eTUYAEQSP1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9HC-eTUYAEQSP1.jpg",
+					"url": "https://t.co/4YHy7rmtEv",
+					"display_url": "pic.twitter.com/4YHy7rmtEv",
+					"expanded_url": "https://twitter.com/stiles/status/1139906564792303621/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 226,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 226,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139906559243214800,
+					"id_str": "1139906559243214849",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9HC-eTUYAEQSP1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9HC-eTUYAEQSP1.jpg",
+					"url": "https://t.co/4YHy7rmtEv",
+					"display_url": "pic.twitter.com/4YHy7rmtEv",
+					"expanded_url": "https://twitter.com/stiles/status/1139906564792303621/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 226,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 226,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							173,
+							113
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D9HC-eTUYAEQSP1.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1139638009102389200,
+		"in_reply_to_status_id_str": "1139638009102389248",
+		"in_reply_to_user_id": 20031243,
+		"in_reply_to_user_id_str": "20031243",
+		"in_reply_to_screen_name": "rdmurphy",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10836,
+			"friends_count": 1618,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560570815",
+			"profile_link_color": "5E6834",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@rdmurphy https://t.co/4YHy7rmtEv"
+	},
+	{
 		"created_at": "Sat Jun 15 03:28:04 +0000 2019",
 		"id": 1139579822521430000,
 		"id_str": "1139736304755720197",
