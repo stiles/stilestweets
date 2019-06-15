@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 02:41:53 +0000 2019",
+		"id": 1139724679063584800,
+		"id_str": "1139724679063584768",
+		"full_text": "BOOM. https://t.co/vppEPSHwC4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vppEPSHwC4",
+					"expanded_url": "https://twitter.com/theseoulvillage/status/1139723141821939712",
+					"display_url": "twitter.com/theseoulvillag…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10833,
+			"friends_count": 1618,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560566546",
+			"profile_link_color": "0046D3",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139723141821939700,
+		"quoted_status_id_str": "1139723141821939712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vppEPSHwC4",
+			"expanded": "https://twitter.com/theseoulvillage/status/1139723141821939712",
+			"display": "twitter.com/theseoulvillag…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 15 02:35:46 +0000 2019",
+			"id": 1139723141821939700,
+			"id_str": "1139723141821939712",
+			"full_text": "@stiles @elisewho Same singing and drinking patterns too, as far as clichés go. Not to mention issues with their n\nNorthern half.",
+			"truncated": false,
+			"display_text_range": [
+				18,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stiles",
+						"name": "Matt Stiles",
+						"id": 14790314,
+						"id_str": "14790314",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "elisewho",
+						"name": "Elise Hu",
+						"id": 16001350,
+						"id_str": "16001350",
+						"indices": [
+							8,
+							17
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1139722278751465500,
+			"in_reply_to_status_id_str": "1139722278751465473",
+			"in_reply_to_user_id": 14790314,
+			"in_reply_to_user_id_str": "14790314",
+			"in_reply_to_screen_name": "stiles",
+			"user": {
+				"id": 293269096,
+				"id_str": "293269096",
+				"name": "Seoul Village",
+				"screen_name": "theseoulvillage",
+				"location": "Seoul",
+				"description": "Welcome to my Korean Errlines, https://t.co/XaS9jZTfT8: nonsensical, nonessential posts from a nonnative Seoulite. #Urbanism. On Facebook: https://t.co/z8ONaN7xRk",
+				"url": "https://t.co/cReW2TEeb9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cReW2TEeb9",
+								"expanded_url": "http://www.seoulvillage.com",
+								"display_url": "seoulvillage.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XaS9jZTfT8",
+								"expanded_url": "http://SeoulVillage.com",
+								"display_url": "SeoulVillage.com",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/z8ONaN7xRk",
+								"expanded_url": "http://facebook.com/seoulvillage",
+								"display_url": "facebook.com/seoulvillage",
+								"indices": [
+									139,
+									162
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1593,
+				"friends_count": 338,
+				"listed_count": 226,
+				"created_at": "Thu May 05 01:50:51 +0000 2011",
+				"favourites_count": 9427,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17542,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1340677773/StephaneMOT2003DSCN9915sevmini_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340677773/StephaneMOT2003DSCN9915sevmini_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/293269096/1398395741",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BOOM. https://t.co/vppEPSHwC4"
+	},
+	{
 		"created_at": "Sat Jun 15 01:44:27 +0000 2019",
 		"id": 1139710224833454100,
 		"id_str": "1139710224833454080",
