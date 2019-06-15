@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 03:28:04 +0000 2019",
+		"id": 1139579822521430000,
+		"id_str": "1139736304755720197",
+		"full_text": "Because you can’t just teach 8 hours of SQL straight on ... https://t.co/6OrJMDMfhi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6OrJMDMfhi",
+					"expanded_url": "https://twitter.com/l_e_whyte/status/1139574841860919298",
+					"display_url": "twitter.com/l_e_whyte/stat…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 258599525,
+			"id_str": "258599525",
+			"name": "Meghan Hoyer",
+			"screen_name": "MeghanHoyer",
+			"location": "Washington DC",
+			"description": "I mess with data. I talk to people. I write it all down. Data Editor, The Associated Press",
+			"url": "https://t.co/CeWIlWlAZh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CeWIlWlAZh",
+							"expanded_url": "http://apnews.com",
+							"display_url": "apnews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2931,
+			"friends_count": 1263,
+			"listed_count": 201,
+			"created_at": "Mon Feb 28 02:13:42 +0000 2011",
+			"favourites_count": 3064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033009065830559746/f7xZ7qAF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033009065830559746/f7xZ7qAF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/258599525/1493410042",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139574841860919300,
+		"quoted_status_id_str": "1139574841860919298",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6OrJMDMfhi",
+			"expanded": "https://twitter.com/l_e_whyte/status/1139574841860919298",
+			"display": "twitter.com/l_e_whyte/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 14 16:46:29 +0000 2019",
+			"id": 1139574841860919300,
+			"id_str": "1139574841860919298",
+			"full_text": ".@MeghanHoyer blowing our minds with SQL queries in the form of legos at #IRE19 https://t.co/cEKtetjpOn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IRE19",
+						"indices": [
+							73,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MeghanHoyer",
+						"name": "Meghan Hoyer",
+						"id": 258599525,
+						"id_str": "258599525",
+						"indices": [
+							1,
+							13
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1139574833694556200,
+						"id_str": "1139574833694556160",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/D9CVRgVWwAArVG-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9CVRgVWwAArVG-.jpg",
+						"url": "https://t.co/cEKtetjpOn",
+						"display_url": "pic.twitter.com/cEKtetjpOn",
+						"expanded_url": "https://twitter.com/l_e_whyte/status/1139574841860919298/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1535,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1139574833694556200,
+						"id_str": "1139574833694556160",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/D9CVRgVWwAArVG-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D9CVRgVWwAArVG-.jpg",
+						"url": "https://t.co/cEKtetjpOn",
+						"display_url": "pic.twitter.com/cEKtetjpOn",
+						"expanded_url": "https://twitter.com/l_e_whyte/status/1139574841860919298/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1535,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21704138,
+				"id_str": "21704138",
+				"name": "Liz Essley Whyte",
+				"screen_name": "l_e_whyte",
+				"location": "Washington, D.C.",
+				"description": "Investigative reporter @publici. Tweets are my own. \nhttps://t.co/MPGGNDSHzH \nlwhyte@publicintegrity.org",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MPGGNDSHzH",
+								"expanded_url": "http://lizessleywhyte.com",
+								"display_url": "lizessleywhyte.com",
+								"indices": [
+									53,
+									76
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2056,
+				"friends_count": 1762,
+				"listed_count": 124,
+				"created_at": "Mon Feb 23 22:53:48 +0000 2009",
+				"favourites_count": 5082,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13726,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1076657484620881921/5kBn31s7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076657484620881921/5kBn31s7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21704138/1401892476",
+				"profile_link_color": "F2A011",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Because you can’t just teach 8 hours of SQL straight on ... https://t.co/6OrJMDMfhi"
+	},
+	{
 		"created_at": "Sat Jun 15 02:41:53 +0000 2019",
 		"id": 1139724679063584800,
 		"id_str": "1139724679063584768",
