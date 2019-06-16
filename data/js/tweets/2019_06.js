@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 00:06:23 +0000 2019",
+		"id": 1140047934035075100,
+		"id_str": "1140047934035075073",
+		"full_text": "cc @elisewho https://t.co/AF9jRcc7jz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elisewho",
+					"name": "Elise Hu",
+					"id": 16001350,
+					"id_str": "16001350",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AF9jRcc7jz",
+					"expanded_url": "https://twitter.com/chadocl/status/1139848764347150336",
+					"display_url": "twitter.com/chadocl/status…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10840,
+			"friends_count": 1620,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560570815",
+			"profile_link_color": "5E6834",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139848764347150300,
+		"quoted_status_id_str": "1139848764347150336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AF9jRcc7jz",
+			"expanded": "https://twitter.com/chadocl/status/1139848764347150336",
+			"display": "twitter.com/chadocl/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 15 10:54:57 +0000 2019",
+			"id": 1139848764347150300,
+			"id_str": "1139848764347150336",
+			"full_text": "@stiles @vicjkim @elisewho Make sure you goto my cousins korean chicken joint! Literally just opened - after her and her BF came to visit us in Seoul and taste the chicken there!\n\nhttps://t.co/DvD4j3heYu",
+			"truncated": false,
+			"display_text_range": [
+				27,
+				203
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stiles",
+						"name": "Matt Stiles",
+						"id": 14790314,
+						"id_str": "14790314",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "vicjkim",
+						"name": "Victoria Kim",
+						"id": 54643600,
+						"id_str": "54643600",
+						"indices": [
+							8,
+							16
+						]
+					},
+					{
+						"screen_name": "elisewho",
+						"name": "Elise Hu",
+						"id": 16001350,
+						"id_str": "16001350",
+						"indices": [
+							17,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DvD4j3heYu",
+						"expanded_url": "https://foodandwine.ie/the-review-chimac?fbclid=IwAR3OoCltU-Of64i_4FDptJjdn_yHcO1_oOU8j_Yc9Gy2NetVndDsgHicoQA",
+						"display_url": "foodandwine.ie/the-review-chi…",
+						"indices": [
+							180,
+							203
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1139722278751465500,
+			"in_reply_to_status_id_str": "1139722278751465473",
+			"in_reply_to_user_id": 14790314,
+			"in_reply_to_user_id_str": "14790314",
+			"in_reply_to_screen_name": "stiles",
+			"user": {
+				"id": 1607602940,
+				"id_str": "1607602940",
+				"name": "Chad O'Carroll",
+				"screen_name": "chadocl",
+				"location": "",
+				"description": "CEO of Korea Risk Group, which produces the specialist North Korea publications NK Pro and NK News. Views own.",
+				"url": "https://t.co/p2yQx0AkyB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p2yQx0AkyB",
+								"expanded_url": "http://www.korearisk.com",
+								"display_url": "korearisk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8761,
+				"friends_count": 653,
+				"listed_count": 405,
+				"created_at": "Sat Jul 20 06:25:11 +0000 2013",
+				"favourites_count": 5075,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14215,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855655031898382337/dETo4Aoz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1607602940/1423747730",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc @elisewho https://t.co/AF9jRcc7jz"
+	},
+	{
 		"created_at": "Sat Jun 15 19:23:30 +0000 2019",
 		"id": 1139976744751063000,
 		"id_str": "1139976744751063041",
