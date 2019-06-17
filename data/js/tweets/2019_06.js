@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 17 16:25:46 +0000 2019",
+		"id": 1140656385899814900,
+		"id_str": "1140656792659120128",
+		"full_text": "DMN staff photographer @TomFoxPhoto captured this image shortly before a gunman opened fire on the Earle Cabell Federal Building Monday morning in downtown Dallas. Fox was waiting to enter the building to cover a trial when the attack took place. https://t.co/y8fWYYuKjs https://t.co/fE1kFlEy9j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomFoxPhoto",
+					"name": "Tom Fox",
+					"id": 4577748914,
+					"id_str": "4577748914",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y8fWYYuKjs",
+					"expanded_url": "https://bit.ly/2XofZ0q",
+					"display_url": "bit.ly/2XofZ0q",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1140654907265040400,
+					"id_str": "1140654907265040390",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/D9RrmD7WwAYqG0a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9RrmD7WwAYqG0a.jpg",
+					"url": "https://t.co/fE1kFlEy9j",
+					"display_url": "pic.twitter.com/fE1kFlEy9j",
+					"expanded_url": "https://twitter.com/dallasnews/status/1140656385899814912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 813,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140654907265040400,
+					"id_str": "1140654907265040390",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/D9RrmD7WwAYqG0a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9RrmD7WwAYqG0a.jpg",
+					"url": "https://t.co/fE1kFlEy9j",
+					"display_url": "pic.twitter.com/fE1kFlEy9j",
+					"expanded_url": "https://twitter.com/dallasnews/status/1140656385899814912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 813,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15679641,
+			"id_str": "15679641",
+			"name": "Dallas Morning News",
+			"screen_name": "dallasnews",
+			"location": "Dallas, Texas",
+			"description": "The official Dallas Morning News Twitter account with daily news, updates and headlines from https://t.co/AsHKI8KMUM.",
+			"url": "https://t.co/AsHKI8KMUM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AsHKI8KMUM",
+							"expanded_url": "http://dallasnews.com",
+							"display_url": "dallasnews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AsHKI8KMUM",
+							"expanded_url": "http://dallasnews.com",
+							"display_url": "dallasnews.com",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 664447,
+			"friends_count": 730,
+			"listed_count": 6611,
+			"created_at": "Thu Jul 31 19:59:08 +0000 2008",
+			"favourites_count": 4400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 191341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "27375B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961449787873673216/_WHw31XG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961449787873673216/_WHw31XG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15679641/1444921386",
+			"profile_link_color": "D83018",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F8F9FA",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1904,
+		"favorite_count": 1859,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DMN staff photographer @TomFoxPhoto captured this image shortly before a gunman opened fire on the Earle Cabell Federal Building Monday morning in downtown Dallas. Fox was waiting to enter the building to cover a trial when the attack took place. https://t.co/y8fWYYuKjs https://t.co/fE1kFlEy9j"
+	},
+	{
 		"created_at": "Mon Jun 17 15:27:56 +0000 2019",
 		"id": 1140454764057993200,
 		"id_str": "1140642238122229761",
