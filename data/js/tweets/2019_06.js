@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 23:45:47 +0000 2019",
+		"id": 1140281254874701800,
+		"id_str": "1140405138651148288",
+		"full_text": "Happy Fathers Day to all the amazing fathers raising and bolstering our future super heroes! 💜 https://t.co/sumh3v7vMX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127436764778516500,
+					"id_str": "1127436764778516481",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127436764778516481/pu/img/groWf6LCXaOak-3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127436764778516481/pu/img/groWf6LCXaOak-3a.jpg",
+					"url": "https://t.co/sumh3v7vMX",
+					"display_url": "pic.twitter.com/sumh3v7vMX",
+					"expanded_url": "https://twitter.com/HanaAbdi18/status/1127436950405877762/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1127436950405877800,
+					"source_status_id_str": "1127436950405877762",
+					"source_user_id": 1126909981066977300,
+					"source_user_id_str": "1126909981066977280"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127436764778516500,
+					"id_str": "1127436764778516481",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127436764778516481/pu/img/groWf6LCXaOak-3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127436764778516481/pu/img/groWf6LCXaOak-3a.jpg",
+					"url": "https://t.co/sumh3v7vMX",
+					"display_url": "pic.twitter.com/sumh3v7vMX",
+					"expanded_url": "https://twitter.com/HanaAbdi18/status/1127436950405877762/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1127436950405877800,
+					"source_status_id_str": "1127436950405877762",
+					"source_user_id": 1126909981066977300,
+					"source_user_id_str": "1126909981066977280",
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							4
+						],
+						"duration_millis": 44567,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1127436764778516481/pu/pl/1JvNCvR--5CzS6BH.m3u8?tag=9"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1127436764778516481/pu/vid/300x400/PoNaZiYKsdLE5Rq-.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1126909981066977300,
+							"id_str": "1126909981066977280",
+							"name": "Hana Abdi",
+							"screen_name": "HanaAbdi18",
+							"location": "",
+							"description": "رمضان مبارك",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 62,
+							"friends_count": 554,
+							"listed_count": 0,
+							"created_at": "Fri May 10 18:00:51 +0000 2019",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1126910337649991681/Qo8WCqV2_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126910337649991681/Qo8WCqV2_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1126909981066977280/1557511997",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 782292383450955800,
+			"id_str": "782292383450955776",
+			"name": "Tris Resists",
+			"screen_name": "TrisResists",
+			"location": "GeeksResist HQ ",
+			"description": "The Traitor in Chief is a Clear & Present Danger to the Free World! Divergent fighting for the soul of our Nation! #LGBTVoices🏳️‍🌈 #NotExonerated",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69439,
+			"friends_count": 29238,
+			"listed_count": 102,
+			"created_at": "Sat Oct 01 18:53:33 +0000 2016",
+			"favourites_count": 305594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079549450333368320/Lv8K_2hz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079549450333368320/Lv8K_2hz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/782292383450955776/1520375405",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 584,
+		"favorite_count": 2514,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Fathers Day to all the amazing fathers raising and bolstering our future super heroes! 💜 https://t.co/sumh3v7vMX"
+	},
+	{
 		"created_at": "Sun Jun 16 00:06:23 +0000 2019",
 		"id": 1140047934035075100,
 		"id_str": "1140047934035075073",
