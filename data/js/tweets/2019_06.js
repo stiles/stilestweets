@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 17 17:27:06 +0000 2019",
+		"id": 1140659481916792800,
+		"id_str": "1140672227836252160",
+		"full_text": "Voting Solutions for All People #reality #lavotes https://t.co/1yWyzvi4Pi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "reality",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"text": "lavotes",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140659191985524700,
+					"id_str": "1140659191985524736",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1140659191985524736/pu/img/FlLmFppSeZMqbvlt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1140659191985524736/pu/img/FlLmFppSeZMqbvlt.jpg",
+					"url": "https://t.co/1yWyzvi4Pi",
+					"display_url": "pic.twitter.com/1yWyzvi4Pi",
+					"expanded_url": "https://twitter.com/LACountyRRCC/status/1140659481916792834/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140659191985524700,
+					"id_str": "1140659191985524736",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1140659191985524736/pu/img/FlLmFppSeZMqbvlt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1140659191985524736/pu/img/FlLmFppSeZMqbvlt.jpg",
+					"url": "https://t.co/1yWyzvi4Pi",
+					"display_url": "pic.twitter.com/1yWyzvi4Pi",
+					"expanded_url": "https://twitter.com/LACountyRRCC/status/1140659481916792834/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 12133,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1140659191985524736/pu/vid/320x568/5uW50TZMU_XsxBDl.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1140659191985524736/pu/pl/ljaeprHDVQb6BNj2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1140659191985524736/pu/vid/360x640/dHJRO1-bMYxEVwtY.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1140659191985524736/pu/vid/720x1280/e47tA9LNZQKTEupm.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21807663,
+			"id_str": "21807663",
+			"name": "Dean Logan, RR/CC",
+			"screen_name": "LACountyRRCC",
+			"location": "Los Angeles County",
+			"description": "L.A. County Registrar-Recorder/County Clerk | Elections? We conduct them.\nRecords? We have those.\nGetting Married? We do that too.\nhttps://t.co/yo9p8vsY6o",
+			"url": "http://t.co/VkLKHVYxBl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VkLKHVYxBl",
+							"expanded_url": "http://www.lavote.net",
+							"display_url": "lavote.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yo9p8vsY6o",
+							"expanded_url": "http://www.lavote.net/documents/media/RRCC_SMSDisclaimers.pdf",
+							"display_url": "lavote.net/documents/medi…",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6075,
+			"friends_count": 1414,
+			"listed_count": 251,
+			"created_at": "Tue Feb 24 22:40:37 +0000 2009",
+			"favourites_count": 4946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21807663/1547512642",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Voting Solutions for All People #reality #lavotes https://t.co/1yWyzvi4Pi"
+	},
+	{
 		"created_at": "Mon Jun 17 16:25:46 +0000 2019",
 		"id": 1140656385899814900,
 		"id_str": "1140656792659120128",
