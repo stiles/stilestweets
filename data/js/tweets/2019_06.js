@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 18 02:58:42 +0000 2019",
+		"id": 1140815950800986100,
+		"id_str": "1140816077670064129",
+		"full_text": "Why was @TomFoxPhoto at the Dallas federal courthouse when an armed man began shooting? For the trial of a charter school CEO accused of taking kickbacks. https://t.co/oUC7rbhhQf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomFoxPhoto",
+					"name": "Tom Fox",
+					"id": 4577748914,
+					"id_str": "4577748914",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oUC7rbhhQf",
+					"expanded_url": "https://www.dallasnews.com/news/education/2018/01/24/dallas-charter-school-ceo-faces-federal-charges-kickback-scheme",
+					"display_url": "dallasnews.com/news/education…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20531221,
+			"id_str": "20531221",
+			"name": "Holly Hacker",
+			"screen_name": "hollyhacker",
+			"location": "Dallas, TX",
+			"description": "Investigative reporter & data evangelist at @dallasnews. Fueled by French roast & curiosity. I love a good scatterplot. hhacker@dallasnews.com",
+			"url": "https://t.co/Q5YPzdAi2P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5YPzdAi2P",
+							"expanded_url": "http://www.dallasnews.com/author/holly-k-hacker",
+							"display_url": "dallasnews.com/author/holly-k…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6004,
+			"friends_count": 1379,
+			"listed_count": 455,
+			"created_at": "Tue Feb 10 18:10:47 +0000 2009",
+			"favourites_count": 2266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662647454211280900/6tR_KOBF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662647454211280900/6tR_KOBF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20531221/1446825718",
+			"profile_link_color": "0033B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why was @TomFoxPhoto at the Dallas federal courthouse when an armed man began shooting? For the trial of a charter school CEO accused of taking kickbacks. https://t.co/oUC7rbhhQf"
+	},
+	{
 		"created_at": "Tue Jun 18 01:11:53 +0000 2019",
 		"id": 1140789196174479400,
 		"id_str": "1140789196174479360",
