@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 18 13:44:05 +0000 2019",
+		"id": 1140972807121231900,
+		"id_str": "1140978492886020096",
+		"full_text": "Morning! Today @emilymbadger and I look at the dominance of single family zoning in cities across America. In 8 of the 11 cities we looked at you can’t building anything other than a detached single family home (in pink) on 75% of residential land. https://t.co/Y6VYQa7aA9 https://t.co/PB17xiQUAq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emilymbadger",
+					"name": "Emily Badger",
+					"id": 253152109,
+					"id_str": "253152109",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y6VYQa7aA9",
+					"expanded_url": "https://www.nytimes.com/interactive/2019/06/18/upshot/cities-across-america-question-single-family-zoning.htm",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1140969161209909200,
+					"id_str": "1140969161209909250",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9WJaDGXkAIpNN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9WJaDGXkAIpNN8.jpg",
+					"url": "https://t.co/PB17xiQUAq",
+					"display_url": "pic.twitter.com/PB17xiQUAq",
+					"expanded_url": "https://twitter.com/qdbui/status/1140972807121231872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140969161209909200,
+					"id_str": "1140969161209909250",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9WJaDGXkAIpNN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9WJaDGXkAIpNN8.jpg",
+					"url": "https://t.co/PB17xiQUAq",
+					"display_url": "pic.twitter.com/PB17xiQUAq",
+					"expanded_url": "https://twitter.com/qdbui/status/1140972807121231872/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							455,
+							256
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D9WJaDGXkAIpNN8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16292617,
+			"id_str": "16292617",
+			"name": "Quoctrung Bui",
+			"screen_name": "qdbui",
+			"location": "Brooklyn, NY",
+			"description": "Part of the long-strings-of-text and pictures team at @nytimes and @upshotnyt. It’s pronounced \"kwok-chrung boo-ee\", but I really just go by \"boo-ee\".",
+			"url": "https://t.co/5Ys3vhWdA4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5Ys3vhWdA4",
+							"expanded_url": "http://qdinhbui2.github.io/",
+							"display_url": "qdinhbui2.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3592,
+			"friends_count": 1184,
+			"listed_count": 151,
+			"created_at": "Mon Sep 15 05:53:48 +0000 2008",
+			"favourites_count": 2742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048266518922977281/FgO7UzWW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048266518922977281/FgO7UzWW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16292617/1555088084",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F9FA",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Morning! Today @emilymbadger and I look at the dominance of single family zoning in cities across America. In 8 of the 11 cities we looked at you can’t building anything other than a detached single family home (in pink) on 75% of residential land. https://t.co/Y6VYQa7aA9 https://t.co/PB17xiQUAq"
+	},
+	{
 		"created_at": "Tue Jun 18 13:02:26 +0000 2019",
 		"id": 1140966670695043100,
 		"id_str": "1140968009558679553",
