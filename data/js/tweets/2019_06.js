@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 18 13:02:26 +0000 2019",
+		"id": 1140966670695043100,
+		"id_str": "1140968009558679553",
+		"full_text": "Our maps try to show you how zoning quietly, invisibly structures opportunity, development, segregation. In Minneapolis, you can see traces of streetcar lines that no longer exist: https://t.co/bFgBJAEagh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140966665775198200,
+					"id_str": "1140966665775198209",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D9WHIy4XsAEYEiy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9WHIy4XsAEYEiy.jpg",
+					"url": "https://t.co/bFgBJAEagh",
+					"display_url": "pic.twitter.com/bFgBJAEagh",
+					"expanded_url": "https://twitter.com/emilymbadger/status/1140966670695043072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 691,
+							"h": 906,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 691,
+							"h": 906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140966665775198200,
+					"id_str": "1140966665775198209",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D9WHIy4XsAEYEiy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9WHIy4XsAEYEiy.jpg",
+					"url": "https://t.co/bFgBJAEagh",
+					"display_url": "pic.twitter.com/bFgBJAEagh",
+					"expanded_url": "https://twitter.com/emilymbadger/status/1140966670695043072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 691,
+							"h": 906,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 691,
+							"h": 906,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1140965672454959100,
+		"in_reply_to_status_id_str": "1140965672454959104",
+		"in_reply_to_user_id": 253152109,
+		"in_reply_to_user_id_str": "253152109",
+		"in_reply_to_screen_name": "emilymbadger",
+		"user": {
+			"id": 253152109,
+			"id_str": "253152109",
+			"name": "Emily Badger",
+			"screen_name": "emilymbadger",
+			"location": "",
+			"description": "New York Times writer covering urban policy for @UpshotNYT. Outdoor lover. emily.badger [at] https://t.co/zGJ4T9rCnp",
+			"url": "https://t.co/9TYR1BEmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9TYR1BEmuQ",
+							"expanded_url": "https://www.nytimes.com/section/upshot",
+							"display_url": "nytimes.com/section/upshot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zGJ4T9rCnp",
+							"expanded_url": "http://nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31793,
+			"friends_count": 1323,
+			"listed_count": 1342,
+			"created_at": "Wed Feb 16 17:22:12 +0000 2011",
+			"favourites_count": 5163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246339688/bioPic_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246339688/bioPic_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253152109/1402972068",
+			"profile_link_color": "209AC7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our maps try to show you how zoning quietly, invisibly structures opportunity, development, segregation. In Minneapolis, you can see traces of streetcar lines that no longer exist: https://t.co/bFgBJAEagh"
+	},
+	{
 		"created_at": "Tue Jun 18 02:58:42 +0000 2019",
 		"id": 1140815950800986100,
 		"id_str": "1140816077670064129",
