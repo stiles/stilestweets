@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 19 14:12:52 +0000 2019",
+		"id": 1141348123232522200,
+		"id_str": "1141348123232522240",
+		"full_text": "Ain't no way I'm clicking that link. Nope. https://t.co/6R44kiGA8z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141348118157336600,
+					"id_str": "1141348118157336578",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D9biEPvUIAIgUx-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9biEPvUIAIgUx-.jpg",
+					"url": "https://t.co/6R44kiGA8z",
+					"display_url": "pic.twitter.com/6R44kiGA8z",
+					"expanded_url": "https://twitter.com/stiles/status/1141348123232522240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 738,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141348118157336600,
+					"id_str": "1141348118157336578",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D9biEPvUIAIgUx-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9biEPvUIAIgUx-.jpg",
+					"url": "https://t.co/6R44kiGA8z",
+					"display_url": "pic.twitter.com/6R44kiGA8z",
+					"expanded_url": "https://twitter.com/stiles/status/1141348123232522240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 738,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10852,
+			"friends_count": 1626,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560905137",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ain't no way I'm clicking that link. Nope. https://t.co/6R44kiGA8z"
+	},
+	{
+		"created_at": "Wed Jun 19 14:03:17 +0000 2019",
+		"id": 1141345610001539100,
+		"id_str": "1141345710115184640",
+		"full_text": "boom. https://t.co/oWLUTMqD1P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oWLUTMqD1P",
+					"expanded_url": "https://twitter.com/ewarren/status/1141336872448188422",
+					"display_url": "twitter.com/ewarren/status…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29417304,
+			"id_str": "29417304",
+			"name": "deray",
+			"screen_name": "deray",
+			"location": "Wakanda",
+			"description": "I will never betray my heart. Activist. Organizer. Educator. @PodSaveThePpl. Author, On The Other Side of Freedom. IG: iamderay (deray@thisisthemovement.org)",
+			"url": "https://t.co/xXkdEPyxGQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xXkdEPyxGQ",
+							"expanded_url": "http://deray.com",
+							"display_url": "deray.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1038424,
+			"friends_count": 907,
+			"listed_count": 8638,
+			"created_at": "Tue Apr 07 09:38:56 +0000 2009",
+			"favourites_count": 52420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 235038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053796590736101377/hHfBSzZg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053796590736101377/hHfBSzZg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29417304/1540048024",
+			"profile_link_color": "0C090A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1141336872448188400,
+		"quoted_status_id_str": "1141336872448188422",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oWLUTMqD1P",
+			"expanded": "https://twitter.com/ewarren/status/1141336872448188422",
+			"display": "twitter.com/ewarren/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 19 13:28:10 +0000 2019",
+			"id": 1141336872448188400,
+			"id_str": "1141336872448188422",
+			"full_text": "Juneteenth isn’t just about celebrating the end of slavery in Texas. It’s a necessary reminder that 154 years later, Black Americans still feel the harsh reality that the fight for racial equality in our country is far from over. I’m in that fight all the way.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 357606935,
+				"id_str": "357606935",
+				"name": "Elizabeth Warren",
+				"screen_name": "ewarren",
+				"location": "Massachusetts",
+				"description": "US Senator, MA. Former teacher & law professor. Wife, mom (Amelia, Alex, Bailey, @CFPB), grandmother, & Okie. Official account: 2020 Presidential Campaign.",
+				"url": "https://t.co/BtKfTKRCOR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BtKfTKRCOR",
+								"expanded_url": "http://elizabethwarren.com",
+								"display_url": "elizabethwarren.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2640127,
+				"friends_count": 335,
+				"listed_count": 12449,
+				"created_at": "Thu Aug 18 16:43:48 +0000 2011",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4583,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1136369779374059520/ZYmLzUtO_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136369779374059520/ZYmLzUtO_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/357606935/1549675771",
+				"profile_link_color": "232444",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "7DA6D9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2716,
+			"favorite_count": 11514,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 62,
+		"favorite_count": 374,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "boom. https://t.co/oWLUTMqD1P"
+	},
+	{
 		"created_at": "Wed Jun 19 00:47:28 +0000 2019",
 		"id": 1141133526378655700,
 		"id_str": "1141145438550028288",
