@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 19 15:27:08 +0000 2019",
+		"id": 1141099920608284700,
+		"id_str": "1141366812451360771",
+		"full_text": "Board of Supervisors unanimously approved a proposal by Board Chair Janice Hahn to explore master leasing agreements with motels across the County in order to use rooms as interim housing for chronically homeless",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236576462,
+			"id_str": "236576462",
+			"name": "LA County CEO",
+			"screen_name": "LACountyCEO",
+			"location": "Los Angeles County",
+			"description": "Official Twitter of @CountyofLA Chief Executive Officer Sachi Hamai with oversight of a $32.5B budget to improve lives #PublicService #SocialImpact #Mentorship",
+			"url": "https://t.co/11nXXyInRF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/11nXXyInRF",
+							"expanded_url": "http://ceo.lacounty.gov",
+							"display_url": "ceo.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4510,
+			"friends_count": 663,
+			"listed_count": 143,
+			"created_at": "Mon Jan 10 22:29:06 +0000 2011",
+			"favourites_count": 280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725005013592891392/-ULQrV0V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725005013592891392/-ULQrV0V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236576462/1461690058",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Board of Supervisors unanimously approved a proposal by Board Chair Janice Hahn to explore master leasing agreements with motels across the County in order to use rooms as interim housing for chronically homeless"
+	},
+	{
 		"created_at": "Wed Jun 19 14:12:52 +0000 2019",
 		"id": 1141348123232522200,
 		"id_str": "1141348123232522240",
