@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 19 22:44:16 +0000 2019",
+		"id": 1141476822896410600,
+		"id_str": "1141476822896410624",
+		"full_text": "L.A. is so glamorous. https://t.co/1KGhhr9n1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141476811110404100,
+					"id_str": "1141476811110404097",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/D9dXHKWU0AEBqun.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9dXHKWU0AEBqun.jpg",
+					"url": "https://t.co/1KGhhr9n1z",
+					"display_url": "pic.twitter.com/1KGhhr9n1z",
+					"expanded_url": "https://twitter.com/stiles/status/1141476822896410624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 979,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 554,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141476811110404100,
+					"id_str": "1141476811110404097",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/D9dXHKWU0AEBqun.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9dXHKWU0AEBqun.jpg",
+					"url": "https://t.co/1KGhhr9n1z",
+					"display_url": "pic.twitter.com/1KGhhr9n1z",
+					"expanded_url": "https://twitter.com/stiles/status/1141476822896410624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 979,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 554,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10855,
+			"friends_count": 1627,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560905137",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5b1d6c8e87264039",
+			"url": "https://api.twitter.com/1.1/geo/id/5b1d6c8e87264039.json",
+			"place_type": "neighborhood",
+			"name": "Palms",
+			"full_name": "Palms, Los Angeles",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.431436,
+							34.011385
+						],
+						[
+							-118.387635,
+							34.011385
+						],
+						[
+							-118.387635,
+							34.037107
+						],
+						[
+							-118.431436,
+							34.037107
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "L.A. is so glamorous. https://t.co/1KGhhr9n1z"
+	},
+	{
 		"created_at": "Wed Jun 19 17:58:20 +0000 2019",
 		"id": 1141404862212501500,
 		"id_str": "1141404862212501506",
