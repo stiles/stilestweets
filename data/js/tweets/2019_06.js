@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 21 23:06:15 +0000 2019",
+		"id": 1142056301041578000,
+		"id_str": "1142207128452493312",
+		"full_text": "🤖 #BOT 🤖\n\nMeet Quakebot 2.0, the new release of @LATdatadesk's program for auto writing earthquake notices.\n\n@caseymmiller led the upgrade. It includes:\n\n🗺️New maps\n📍 Improved place lists\n📐 Revised algorithms\n📚  Contextual data\n🔭 More transparency\n\nhttps://t.co/P5g2mKPznK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BOT",
+					"indices": [
+						2,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATdatadesk",
+					"name": "The Data Desk",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "caseymmiller",
+					"name": "Casey Miller",
+					"id": 53286916,
+					"id_str": "53286916",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P5g2mKPznK",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-earthquakesa-earthquake-33-quake-shakes-near-greenfield-calif-v4kq-20190618-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+			"url": "https://t.co/kogJ0fJceo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kogJ0fJceo",
+							"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lZvqTdDOmO",
+							"expanded_url": "http://www.californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9113,
+			"friends_count": 3059,
+			"listed_count": 708,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🤖 #BOT 🤖\n\nMeet Quakebot 2.0, the new release of @LATdatadesk's program for auto writing earthquake notices.\n\n@caseymmiller led the upgrade. It includes:\n\n🗺️New maps\n📍 Improved place lists\n📐 Revised algorithms\n📚  Contextual data\n🔭 More transparency\n\nhttps://t.co/P5g2mKPznK"
+	},
+	{
+		"created_at": "Fri Jun 21 22:53:15 +0000 2019",
+		"id": 1142203540552577000,
+		"id_str": "1142203858589908992",
+		"full_text": "I am old enough to remember when Donald Trump denied owning a bathrobe. https://t.co/HVPgHHPJ2f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HVPgHHPJ2f",
+					"expanded_url": "https://twitter.com/armscontrolwonk/status/828740567576088576",
+					"display_url": "twitter.com/armscontrolwon…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22803302,
+			"id_str": "22803302",
+			"name": "Jeffrey Lewis",
+			"screen_name": "ArmsControlWonk",
+			"location": "Carmel, CA",
+			"description": "Scholar at @miis and author of \"The 2020 Commission Report” (@HMHCo, 2018) https://t.co/ukXQaQsGQM",
+			"url": "https://t.co/wcOQKoiFb2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wcOQKoiFb2",
+							"expanded_url": "http://www.armscontrolwonk.com",
+							"display_url": "armscontrolwonk.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ukXQaQsGQM",
+							"expanded_url": "http://2020commission.com",
+							"display_url": "2020commission.com",
+							"indices": [
+								75,
+								98
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 65194,
+			"friends_count": 1381,
+			"listed_count": 2074,
+			"created_at": "Wed Mar 04 17:27:04 +0000 2009",
+			"favourites_count": 9793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942557923716186112/gBLE8oAe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942557923716186112/gBLE8oAe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22803302/1551319268",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 828740567576088600,
+		"quoted_status_id_str": "828740567576088576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HVPgHHPJ2f",
+			"expanded": "https://twitter.com/armscontrolwonk/status/828740567576088576",
+			"display": "twitter.com/armscontrolwon…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 06 23:02:03 +0000 2017",
+			"id": 828740567576088600,
+			"id_str": "828740567576088576",
+			"full_text": "Contra Spicer, here is a vintage shot of Trump in a bathrobe. https://t.co/ZgexSJtLsQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 828740511225638900,
+						"id_str": "828740511225638912",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C4BHGqaUcAARNLN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4BHGqaUcAARNLN.jpg",
+						"url": "https://t.co/ZgexSJtLsQ",
+						"display_url": "pic.twitter.com/ZgexSJtLsQ",
+						"expanded_url": "https://twitter.com/ArmsControlWonk/status/828740567576088576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 962,
+								"h": 701,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 962,
+								"h": 701,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 496,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 828740511225638900,
+						"id_str": "828740511225638912",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C4BHGqaUcAARNLN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4BHGqaUcAARNLN.jpg",
+						"url": "https://t.co/ZgexSJtLsQ",
+						"display_url": "pic.twitter.com/ZgexSJtLsQ",
+						"expanded_url": "https://twitter.com/ArmsControlWonk/status/828740567576088576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 962,
+								"h": 701,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 962,
+								"h": 701,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 496,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 828740187467362300,
+			"in_reply_to_status_id_str": "828740187467362305",
+			"in_reply_to_user_id": 22803302,
+			"in_reply_to_user_id_str": "22803302",
+			"in_reply_to_screen_name": "ArmsControlWonk",
+			"user": {
+				"id": 22803302,
+				"id_str": "22803302",
+				"name": "Jeffrey Lewis",
+				"screen_name": "ArmsControlWonk",
+				"location": "Carmel, CA",
+				"description": "Scholar at @miis and author of \"The 2020 Commission Report” (@HMHCo, 2018) https://t.co/ukXQaQsGQM",
+				"url": "https://t.co/wcOQKoiFb2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wcOQKoiFb2",
+								"expanded_url": "http://www.armscontrolwonk.com",
+								"display_url": "armscontrolwonk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ukXQaQsGQM",
+								"expanded_url": "http://2020commission.com",
+								"display_url": "2020commission.com",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 65194,
+				"friends_count": 1381,
+				"listed_count": 2074,
+				"created_at": "Wed Mar 04 17:27:04 +0000 2009",
+				"favourites_count": 9793,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 58743,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942557923716186112/gBLE8oAe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942557923716186112/gBLE8oAe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22803302/1551319268",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am old enough to remember when Donald Trump denied owning a bathrobe. https://t.co/HVPgHHPJ2f"
+	},
+	{
+		"created_at": "Fri Jun 21 22:49:57 +0000 2019",
+		"id": 1142110437967667200,
+		"id_str": "1142203026314149888",
+		"full_text": "I just resubscribed to the LA Times after an (embarrassingly) long hiatus and it’s 100% because of the Essential California daily newsletter by @sherlyholmes.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sherlyholmes",
+					"name": "Julia Wick",
+					"id": 13479902,
+					"id_str": "13479902",
+					"indices": [
+						144,
+						157
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15222332,
+			"id_str": "15222332",
+			"name": "Janelle Brown",
+			"screen_name": "janelleb",
+			"location": "Los Angeles",
+			"description": "NYT bestselling author of WATCH ME DISAPPEAR and ALL WE EVER WANTED WAS EVERYTHING. California native, lover of books, generator of words.",
+			"url": "https://t.co/UAObZ8RsP2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UAObZ8RsP2",
+							"expanded_url": "http://www.janellebrown.com",
+							"display_url": "janellebrown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1270,
+			"friends_count": 611,
+			"listed_count": 73,
+			"created_at": "Tue Jun 24 18:14:11 +0000 2008",
+			"favourites_count": 4823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/977697303766040577/OpWtfKKD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/977697303766040577/OpWtfKKD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15222332/1525810899",
+			"profile_link_color": "086A87",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I just resubscribed to the LA Times after an (embarrassingly) long hiatus and it’s 100% because of the Essential California daily newsletter by @sherlyholmes."
+	},
+	{
 		"created_at": "Fri Jun 21 18:59:14 +0000 2019",
 		"id": 1142144967495708700,
 		"id_str": "1142144967495708672",
