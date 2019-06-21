@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 21 05:00:22 +0000 2019",
+		"id": 1141933857219813400,
+		"id_str": "1141933857219813376",
+		"full_text": "Checking out the @mujschool centennial yearbook (already a decade old) and stumbled upon some of the @IRE_NICAR data journalism O.G.'s. (cc @branthouston @DrewOCCRP @lehrennbc) https://t.co/gCQz8laxzX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mujschool",
+					"name": "Missouri Journalism",
+					"id": 89552596,
+					"id_str": "89552596",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "IRE_NICAR",
+					"name": "IRE and NICAR",
+					"id": 12655722,
+					"id_str": "12655722",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"screen_name": "branthouston",
+					"name": "branthouston",
+					"id": 14514587,
+					"id_str": "14514587",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "DrewOCCRP",
+					"name": "Drew Sullivan",
+					"id": 606219091,
+					"id_str": "606219091",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"screen_name": "lehrennbc",
+					"name": "Andy Lehren",
+					"id": 50383514,
+					"id_str": "50383514",
+					"indices": [
+						165,
+						175
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141933849196154900,
+					"id_str": "1141933849196154881",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D9j2yR5U0AE5fgA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9j2yR5U0AE5fgA.jpg",
+					"url": "https://t.co/gCQz8laxzX",
+					"display_url": "pic.twitter.com/gCQz8laxzX",
+					"expanded_url": "https://twitter.com/stiles/status/1141933857219813376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1172,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141933849196154900,
+					"id_str": "1141933849196154881",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/D9j2yR5U0AE5fgA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9j2yR5U0AE5fgA.jpg",
+					"url": "https://t.co/gCQz8laxzX",
+					"display_url": "pic.twitter.com/gCQz8laxzX",
+					"expanded_url": "https://twitter.com/stiles/status/1141933857219813376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1172,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10853,
+			"friends_count": 1628,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560905137",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Checking out the @mujschool centennial yearbook (already a decade old) and stumbled upon some of the @IRE_NICAR data journalism O.G.'s. (cc @branthouston @DrewOCCRP @lehrennbc) https://t.co/gCQz8laxzX"
+	},
+	{
 		"created_at": "Fri Jun 21 01:45:00 +0000 2019",
 		"id": 1141884691110232000,
 		"id_str": "1141884691110232065",
