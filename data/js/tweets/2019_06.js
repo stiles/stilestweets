@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 22 18:17:09 +0000 2019",
+		"id": 1142231602572873700,
+		"id_str": "1142496762466193408",
+		"full_text": "Imagine a voting system built for anyone. We can 😁 #VSAP \n\nLearn more on the future of voting and the VSAP project. Link: https://t.co/eiD3ZbGPXj https://t.co/1Yet5DqMbS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VSAP",
+					"indices": [
+						51,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eiD3ZbGPXj",
+					"expanded_url": "https://vsap.lavote.net/",
+					"display_url": "vsap.lavote.net",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142231597179011100,
+					"id_str": "1142231597179011072",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D9oFlfkVAAAWr51.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9oFlfkVAAAWr51.jpg",
+					"url": "https://t.co/1Yet5DqMbS",
+					"display_url": "pic.twitter.com/1Yet5DqMbS",
+					"expanded_url": "https://twitter.com/LACountyRRCC/status/1142231602572873729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 965,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 965,
+							"h": 965,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142231597179011100,
+					"id_str": "1142231597179011072",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D9oFlfkVAAAWr51.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9oFlfkVAAAWr51.jpg",
+					"url": "https://t.co/1Yet5DqMbS",
+					"display_url": "pic.twitter.com/1Yet5DqMbS",
+					"expanded_url": "https://twitter.com/LACountyRRCC/status/1142231602572873729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 965,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 965,
+							"h": 965,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21807663,
+			"id_str": "21807663",
+			"name": "Dean Logan, RR/CC",
+			"screen_name": "LACountyRRCC",
+			"location": "Los Angeles County",
+			"description": "L.A. County Registrar-Recorder/County Clerk | Elections? We conduct them.\nRecords? We have those.\nGetting Married? We do that too.\nhttps://t.co/yo9p8vsY6o",
+			"url": "http://t.co/VkLKHVYxBl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VkLKHVYxBl",
+							"expanded_url": "http://www.lavote.net",
+							"display_url": "lavote.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yo9p8vsY6o",
+							"expanded_url": "http://www.lavote.net/documents/media/RRCC_SMSDisclaimers.pdf",
+							"display_url": "lavote.net/documents/medi…",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6088,
+			"friends_count": 1414,
+			"listed_count": 251,
+			"created_at": "Tue Feb 24 22:40:37 +0000 2009",
+			"favourites_count": 4951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21807663/1547512642",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Imagine a voting system built for anyone. We can 😁 #VSAP \n\nLearn more on the future of voting and the VSAP project. Link: https://t.co/eiD3ZbGPXj https://t.co/1Yet5DqMbS"
+	},
+	{
+		"created_at": "Sat Jun 22 18:16:44 +0000 2019",
+		"id": 1142496658950783000,
+		"id_str": "1142496658950782976",
+		"full_text": "Large majorities of Americans say the tone and nature of political debate in the U.S. has become more negative, less respectful, less fact-based and less substantive in recent years. \n\nSAD!\n https://t.co/d5GxKOKQu4 https://t.co/l6KYznhVIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d5GxKOKQu4",
+					"expanded_url": "https://www.people-press.org/2019/06/19/public-highly-critical-of-state-of-political-discourse-in-the-u-s/",
+					"display_url": "people-press.org/2019/06/19/pub…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142496616651223000,
+					"id_str": "1142496616651223040",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/D9r2nqCU8AAn6Nj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9r2nqCU8AAn6Nj.jpg",
+					"url": "https://t.co/l6KYznhVIC",
+					"display_url": "pic.twitter.com/l6KYznhVIC",
+					"expanded_url": "https://twitter.com/stiles/status/1142496658950782976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 844,
+							"h": 968,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 968,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 593,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142496616651223000,
+					"id_str": "1142496616651223040",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/D9r2nqCU8AAn6Nj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9r2nqCU8AAn6Nj.jpg",
+					"url": "https://t.co/l6KYznhVIC",
+					"display_url": "pic.twitter.com/l6KYznhVIC",
+					"expanded_url": "https://twitter.com/stiles/status/1142496658950782976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 844,
+							"h": 968,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 968,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 593,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10856,
+			"friends_count": 1628,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560905137",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2f6cb9a739991200",
+			"url": "https://api.twitter.com/1.1/geo/id/2f6cb9a739991200.json",
+			"place_type": "city",
+			"name": "Laguna Beach",
+			"full_name": "Laguna Beach, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.820234,
+							33.48444
+						],
+						[
+							-117.730133,
+							33.48444
+						],
+						[
+							-117.730133,
+							33.610906
+						],
+						[
+							-117.820234,
+							33.610906
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Large majorities of Americans say the tone and nature of political debate in the U.S. has become more negative, less respectful, less fact-based and less substantive in recent years. \n\nSAD!\n https://t.co/d5GxKOKQu4 https://t.co/l6KYznhVIC"
+	},
+	{
 		"created_at": "Fri Jun 21 23:06:15 +0000 2019",
 		"id": 1142056301041578000,
 		"id_str": "1142207128452493312",
