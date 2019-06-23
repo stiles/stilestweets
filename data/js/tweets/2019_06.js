@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 23 16:41:40 +0000 2019",
+		"id": 1142514666653933600,
+		"id_str": "1142835119721332736",
+		"full_text": "fyi to literally anyone trying to reach LAT reporters today. (use gmail or DMs) https://t.co/tFch5mYt6q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tFch5mYt6q",
+					"expanded_url": "https://twitter.com/johnmyers/status/1142512564254851074",
+					"display_url": "twitter.com/johnmyers/stat…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13479902,
+			"id_str": "13479902",
+			"name": "Julia Wick",
+			"screen_name": "sherlyholmes",
+			"location": "LA",
+			"description": "@latimes metro reporter & Essential California newsletter author (subscribe here: https://t.co/FxOtLkVeGE) Former EIC of @LAist. Native Angeleno.",
+			"url": "https://t.co/9nLR6Wm4Ya",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9nLR6Wm4Ya",
+							"expanded_url": "https://www.latimes.com/la-bio-julia-wick-staff.html",
+							"display_url": "latimes.com/la-bio-julia-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FxOtLkVeGE",
+							"expanded_url": "https://lat.ms/2JG6TWt",
+							"display_url": "lat.ms/2JG6TWt",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6685,
+			"friends_count": 1937,
+			"listed_count": 152,
+			"created_at": "Thu Feb 14 17:24:54 +0000 2008",
+			"favourites_count": 10687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142103733469237248/SnmpFu-K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142103733469237248/SnmpFu-K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13479902/1502071398",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1142512564254851100,
+		"quoted_status_id_str": "1142512564254851074",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tFch5mYt6q",
+			"expanded": "https://twitter.com/johnmyers/status/1142512564254851074",
+			"display": "twitter.com/johnmyers/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 22 19:19:56 +0000 2019",
+			"id": 1142512564254851100,
+			"id_str": "1142512564254851074",
+			"full_text": "For those trying to email any @latimes folks today: our email server’s being migrated and, um, it’s taking a while. https://t.co/CWl7AhpR5y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							30,
+							38
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1142512557824995300,
+						"id_str": "1142512557824995329",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9sFHjiU8AExbhI.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9sFHjiU8AExbhI.jpg",
+						"url": "https://t.co/CWl7AhpR5y",
+						"display_url": "pic.twitter.com/CWl7AhpR5y",
+						"expanded_url": "https://twitter.com/johnmyers/status/1142512564254851074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 274,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 274,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 274,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1142512557824995300,
+						"id_str": "1142512557824995329",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9sFHjiU8AExbhI.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9sFHjiU8AExbhI.jpg",
+						"url": "https://t.co/CWl7AhpR5y",
+						"display_url": "pic.twitter.com/CWl7AhpR5y",
+						"expanded_url": "https://twitter.com/johnmyers/status/1142512564254851074/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 274,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 274,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 274,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								250,
+								137
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D9sFHjiU8AExbhI.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20873135,
+				"id_str": "20873135",
+				"name": "John Myers",
+				"screen_name": "johnmyers",
+				"location": "john.myers@latimes.com",
+				"description": "Los Angeles Times, Sacramento bureau chief. CA politics & government tweets. Alum @KQED, @ABC10, @KSBY etc. Digital subscription: only 28 cents a day, folks.",
+				"url": "https://t.co/1bea9GlklB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1bea9GlklB",
+								"expanded_url": "http://www.facebook.com/politicsCalifornia",
+								"display_url": "facebook.com/politicsCalifo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26386,
+				"friends_count": 1311,
+				"listed_count": 1279,
+				"created_at": "Sat Feb 14 21:38:14 +0000 2009",
+				"favourites_count": 3233,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44449,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9266CC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/640032582021742593/QHpCoxdH_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/640032582021742593/QHpCoxdH_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20873135/1555542748",
+				"profile_link_color": "6117EB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F2F7F6",
+				"profile_text_color": "1D0101",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "fyi to literally anyone trying to reach LAT reporters today. (use gmail or DMs) https://t.co/tFch5mYt6q"
+	},
+	{
 		"created_at": "Sun Jun 23 06:04:04 +0000 2019",
 		"id": 1142674664122019800,
 		"id_str": "1142674664122019840",
