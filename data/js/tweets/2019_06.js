@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 23 01:31:00 +0000 2019",
+		"id": 1142605943219245000,
+		"id_str": "1142605943219245056",
+		"full_text": "@joepadre @latimes @1027KIISFM Right! About a fifth of Koreans in the U.S. live in Southern California: https://t.co/Q6EZ4JcEGF https://t.co/7mTp97Wmq2",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joepadre",
+					"name": "joe padre",
+					"id": 113106158,
+					"id_str": "113106158",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "1027KIISFM",
+					"name": "102.7 KIIS-FM",
+					"id": 19046392,
+					"id_str": "19046392",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q6EZ4JcEGF",
+					"expanded_url": "http://thedailyviz.com/2018/01/23/mapping-the-united-states-korean-population/",
+					"display_url": "thedailyviz.com/2018/01/23/map…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142605935459758100,
+					"id_str": "1142605935459758086",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D9taC2VU8AYia8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9taC2VU8AYia8T.jpg",
+					"url": "https://t.co/7mTp97Wmq2",
+					"display_url": "pic.twitter.com/7mTp97Wmq2",
+					"expanded_url": "https://twitter.com/stiles/status/1142605943219245056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 776,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1764,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142605935459758100,
+					"id_str": "1142605935459758086",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D9taC2VU8AYia8T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9taC2VU8AYia8T.jpg",
+					"url": "https://t.co/7mTp97Wmq2",
+					"display_url": "pic.twitter.com/7mTp97Wmq2",
+					"expanded_url": "https://twitter.com/stiles/status/1142605943219245056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 776,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1764,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1142581892681568300,
+		"in_reply_to_status_id_str": "1142581892681568256",
+		"in_reply_to_user_id": 113106158,
+		"in_reply_to_user_id_str": "113106158",
+		"in_reply_to_screen_name": "joepadre",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10857,
+			"friends_count": 1628,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1560905137",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@joepadre @latimes @1027KIISFM Right! About a fifth of Koreans in the U.S. live in Southern California: https://t.co/Q6EZ4JcEGF https://t.co/7mTp97Wmq2"
+	},
+	{
 		"created_at": "Sat Jun 22 18:29:23 +0000 2019",
 		"id": 1142499843199254500,
 		"id_str": "1142499843199254528",
