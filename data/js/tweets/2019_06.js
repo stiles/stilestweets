@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 26 21:29:26 +0000 2019",
+		"id": 1143940422730862600,
+		"id_str": "1143994703408484352",
+		"full_text": "Had a lot of fun working on this important story about power company emissions and climate change with @Sammy_Roth. Find out how your power company compares nationally on carbon dioxide emissions, zero-carbon generation and more: \n\nhttps://t.co/LpuR76p624",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sammy_Roth",
+					"name": "Sammy Roth",
+					"id": 390842981,
+					"id_str": "390842981",
+					"indices": [
+						103,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LpuR76p624",
+					"expanded_url": "https://www.latimes.com/projects/la-fi-power-companies-ranked-climate-change/",
+					"display_url": "latimes.com/projects/la-fi…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 839517782370844700,
+			"id_str": "839517782370844674",
+			"name": "Zach Levitt",
+			"screen_name": "ZachWLevitt",
+			"location": "Los Angeles, CA",
+			"description": "graphics + data reporting intern @latimes, geography + cs @middlebury",
+			"url": "https://t.co/QzygV7BNvJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QzygV7BNvJ",
+							"expanded_url": "http://go.middlebury.edu/zachlevitt/",
+							"display_url": "go.middlebury.edu/zachlevitt/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44,
+			"friends_count": 111,
+			"listed_count": 1,
+			"created_at": "Wed Mar 08 16:46:51 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142110657875021825/ZftX4ufc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142110657875021825/ZftX4ufc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/839517782370844674/1561514410",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Had a lot of fun working on this important story about power company emissions and climate change with @Sammy_Roth. Find out how your power company compares nationally on carbon dioxide emissions, zero-carbon generation and more: \n\nhttps://t.co/LpuR76p624"
+	},
+	{
 		"created_at": "Wed Jun 26 07:12:44 +0000 2019",
 		"id": 1143709133234954200,
 		"id_str": "1143779110059220992",
