@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 19:03:45 +0000 2019",
+		"id": 1144091621803343900,
+		"id_str": "1144320430670581760",
+		"full_text": "in 2017, i asked why news nerds like working elections so much. it sparked a conversation about live data, reliable iteration &amp; friendly competition, but missing from the convo was purpose. \n\ntonight, a handful of national graphics teams published versions of this chart. why?? https://t.co/z3tLXUJEYs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z3tLXUJEYs",
+					"expanded_url": "https://twitter.com/tylrfishr/status/1144084178713161729",
+					"display_url": "twitter.com/tylrfishr/stat…",
+					"indices": [
+						282,
+						305
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 627909509,
+			"id_str": "627909509",
+			"name": "Sara Simon",
+			"screen_name": "sarambsimon",
+			"location": "harrisburg, pennsylvania",
+			"description": "data reporter at @spotlightpa (via @phillyinquirer) // past: @nytimes, @vprnet, @softwareforgood // she, her",
+			"url": "https://t.co/jTTjMzGpIo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jTTjMzGpIo",
+							"expanded_url": "https://smbsimon.github.io/",
+							"display_url": "smbsimon.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3773,
+			"friends_count": 1251,
+			"listed_count": 183,
+			"created_at": "Fri Jul 06 01:19:40 +0000 2012",
+			"favourites_count": 49547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E1DE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/915192327525867520/ny7ppDb4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/915192327525867520/ny7ppDb4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/627909509/1507337299",
+			"profile_link_color": "7A6B5D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B7BF9B",
+			"profile_text_color": "D7C6A3",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1144084178713161700,
+		"quoted_status_id_str": "1144084178713161729",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z3tLXUJEYs",
+			"expanded": "https://twitter.com/tylrfishr/status/1144084178713161729",
+			"display": "twitter.com/tylrfishr/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 27 03:24:58 +0000 2019",
+			"id": 1144084178713161700,
+			"id_str": "1144084178713161729",
+			"full_text": "I didn't actually watch the debate tonight, but these weird quantifiers of the debate don't at all help me understand what happened or what candidates stand for. https://t.co/RqcOvC9xPI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RqcOvC9xPI",
+						"expanded_url": "https://twitter.com/FiveThirtyEight/status/1144083841931517953",
+						"display_url": "twitter.com/FiveThirtyEigh…",
+						"indices": [
+							162,
+							185
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50555139,
+				"id_str": "50555139",
+				"name": "Tyler Fisher",
+				"screen_name": "tylrfishr",
+				"location": "Washington, DC",
+				"description": "Coming really soon.",
+				"url": "https://t.co/IT4ZB0Q0qa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IT4ZB0Q0qa",
+								"expanded_url": "https://tylerjfisher.com",
+								"display_url": "tylerjfisher.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3415,
+				"friends_count": 1331,
+				"listed_count": 266,
+				"created_at": "Thu Jun 25 04:57:03 +0000 2009",
+				"favourites_count": 3226,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18071,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1050063964217008129/Vzd9GhXW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050063964217008129/Vzd9GhXW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50555139/1492876612",
+				"profile_link_color": "0A0099",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "303030",
+				"profile_text_color": "BFBFBF",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1144083841931518000,
+			"quoted_status_id_str": "1144083841931517953",
+			"quoted_status_permalink": {
+				"url": "https://t.co/RqcOvC9xPI",
+				"expanded": "https://twitter.com/FiveThirtyEight/status/1144083841931517953",
+				"display": "twitter.com/FiveThirtyEigh…"
+			},
+			"retweet_count": 4,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 57,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "in 2017, i asked why news nerds like working elections so much. it sparked a conversation about live data, reliable iteration &amp; friendly competition, but missing from the convo was purpose. \n\ntonight, a handful of national graphics teams published versions of this chart. why?? https://t.co/z3tLXUJEYs"
+	},
+	{
 		"created_at": "Thu Jun 27 08:25:22 +0000 2019",
 		"id": 1144159774810005500,
 		"id_str": "1144159774810005504",
