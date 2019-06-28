@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 23:02:23 +0000 2019",
+		"id": 1144742455608324100,
+		"id_str": "1144742871293210624",
+		"full_text": "During my first two weeks at @FiveThirtyEight I took\n98 pages of hand-written notes. You should come build all these great ideas with us. https://t.co/YIxlqlM9LC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FiveThirtyEight",
+					"name": "FiveThirtyEight",
+					"id": 2303751216,
+					"id_str": "2303751216",
+					"indices": [
+						29,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YIxlqlM9LC",
+					"expanded_url": "https://fivethirtyeight.com/jobs/",
+					"display_url": "fivethirtyeight.com/jobs/",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32633517,
+			"id_str": "32633517",
+			"name": "Christopher Groskopf",
+			"screen_name": "onyxfish",
+			"location": "Tyler, TX",
+			"description": "Deputy Editor for Graphics and Interactives, @fivethirtyeight.  Co-founder, @thetylerloop. Wrote the Bad Data Guide. #wfh",
+			"url": "https://t.co/QHyHhBQV4U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QHyHhBQV4U",
+							"expanded_url": "https://fivethirtyeight.com/",
+							"display_url": "fivethirtyeight.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6214,
+			"friends_count": 835,
+			"listed_count": 497,
+			"created_at": "Fri Apr 17 22:39:08 +0000 2009",
+			"favourites_count": 315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "334F60",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2778403638/4f499e3b117a65e0eb35e14069a29dfc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2778403638/4f499e3b117a65e0eb35e14069a29dfc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32633517/1500902729",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "404040",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "During my first two weeks at @FiveThirtyEight I took\n98 pages of hand-written notes. You should come build all these great ideas with us. https://t.co/YIxlqlM9LC"
+	},
+	{
+		"created_at": "Fri Jun 28 22:28:36 +0000 2019",
+		"id": 1144734098675519500,
+		"id_str": "1144734371418689537",
+		"full_text": "#FeedbackFriday -- Voting Solutions for all People. https://t.co/9z2iRsf7ti",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FeedbackFriday",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144734091180306400,
+					"id_str": "1144734091180306433",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Lpl0MU8AEdHaM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Lpl0MU8AEdHaM.jpg",
+					"url": "https://t.co/9z2iRsf7ti",
+					"display_url": "pic.twitter.com/9z2iRsf7ti",
+					"expanded_url": "https://twitter.com/LACountyRRCC/status/1144734098675519488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144734091180306400,
+					"id_str": "1144734091180306433",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Lpl0MU8AEdHaM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Lpl0MU8AEdHaM.jpg",
+					"url": "https://t.co/9z2iRsf7ti",
+					"display_url": "pic.twitter.com/9z2iRsf7ti",
+					"expanded_url": "https://twitter.com/LACountyRRCC/status/1144734098675519488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21807663,
+			"id_str": "21807663",
+			"name": "Dean Logan, RR/CC",
+			"screen_name": "LACountyRRCC",
+			"location": "Los Angeles County",
+			"description": "L.A. County Registrar-Recorder/County Clerk | Elections? We conduct them.\nRecords? We have those.\nGetting Married? We do that too.\nhttps://t.co/yo9p8vsY6o",
+			"url": "http://t.co/VkLKHVYxBl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VkLKHVYxBl",
+							"expanded_url": "http://www.lavote.net",
+							"display_url": "lavote.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yo9p8vsY6o",
+							"expanded_url": "http://www.lavote.net/documents/media/RRCC_SMSDisclaimers.pdf",
+							"display_url": "lavote.net/documents/medi…",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6096,
+			"friends_count": 1416,
+			"listed_count": 252,
+			"created_at": "Tue Feb 24 22:40:37 +0000 2009",
+			"favourites_count": 4957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21807663/1547512642",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#FeedbackFriday -- Voting Solutions for all People. https://t.co/9z2iRsf7ti"
+	},
+	{
 		"created_at": "Fri Jun 28 22:04:14 +0000 2019",
 		"id": 1144655034606448600,
 		"id_str": "1144728236980674561",
