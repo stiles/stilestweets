@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 02 19:56:12 +0000 2019",
+		"id": 1146143601828778000,
+		"id_str": "1146145568898441216",
+		"full_text": "Several @TexasTribune colleagues are working while coincidentally facing in the same direction in the room. Inexplicably, it appears the #WorldCup match is on the video wall. \n\n#TribLife https://t.co/1TDmyJ2toh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldCup",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"text": "TribLife",
+					"indices": [
+						177,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TexasTribune",
+					"name": "Texas Tribune",
+					"id": 44513878,
+					"id_str": "44513878",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146143598561386500,
+					"id_str": "1146143598561386496",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D-frh8XW4AA0IL9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-frh8XW4AA0IL9.jpg",
+					"url": "https://t.co/1TDmyJ2toh",
+					"display_url": "pic.twitter.com/1TDmyJ2toh",
+					"expanded_url": "https://twitter.com/ATXjj/status/1146143601828777984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146143598561386500,
+					"id_str": "1146143598561386496",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D-frh8XW4AA0IL9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-frh8XW4AA0IL9.jpg",
+					"url": "https://t.co/1TDmyJ2toh",
+					"display_url": "pic.twitter.com/1TDmyJ2toh",
+					"expanded_url": "https://twitter.com/ATXjj/status/1146143601828777984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950630904,
+			"id_str": "950630904",
+			"name": "John Jordan",
+			"screen_name": "ATXjj",
+			"location": "Austin, Texas",
+			"description": "Photos, ops and guac at The Texas Tribune.",
+			"url": "http://t.co/lxqQdh4mbM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lxqQdh4mbM",
+							"expanded_url": "http://texastribune.org",
+							"display_url": "texastribune.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1685,
+			"friends_count": 2810,
+			"listed_count": 71,
+			"created_at": "Thu Nov 15 23:27:33 +0000 2012",
+			"favourites_count": 3990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC20",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983041873362087936/OPaMPw_Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983041873362087936/OPaMPw_Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/950630904/1523210347",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Several @TexasTribune colleagues are working while coincidentally facing in the same direction in the room. Inexplicably, it appears the #WorldCup match is on the video wall. \n\n#TribLife https://t.co/1TDmyJ2toh"
+	},
+	{
 		"created_at": "Mon Jul 01 15:14:02 +0000 2019",
 		"id": 1145712169935204400,
 		"id_str": "1145712169935204352",
