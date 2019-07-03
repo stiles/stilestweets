@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 03 01:33:43 +0000 2019",
+		"id": 1146225311073341400,
+		"id_str": "1146230506163302400",
+		"full_text": "From @uscensusbureau’s deputy director👇 https://t.co/hieBQI8cio",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uscensusbureau",
+					"name": "U.S. Census Bureau",
+					"id": 23092890,
+					"id_str": "23092890",
+					"indices": [
+						5,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hieBQI8cio",
+					"expanded_url": "https://twitter.com/jarmin_ron/status/1146224882646179840",
+					"display_url": "twitter.com/jarmin_ron/sta…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 184128260,
+			"id_str": "184128260",
+			"name": "Hansi Lo Wang",
+			"screen_name": "hansilowang",
+			"location": "New York, NY",
+			"description": "@NPR national correspondent covering #2020Census & the people, power & money behind the data | email: hwang@npr.org | signal: 917-397-2639 | 📸: B. McCabe; LOC",
+			"url": "https://t.co/axPIu7w1S2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/axPIu7w1S2",
+							"expanded_url": "https://hansilowang.com/contact",
+							"display_url": "hansilowang.com/contact",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18741,
+			"friends_count": 2832,
+			"listed_count": 402,
+			"created_at": "Sat Aug 28 19:28:37 +0000 2010",
+			"favourites_count": 1965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957796956906115073/8uFCZbZd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957796956906115073/8uFCZbZd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/184128260/1553822182",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1146224882646179800,
+		"quoted_status_id_str": "1146224882646179840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hieBQI8cio",
+			"expanded": "https://twitter.com/jarmin_ron/status/1146224882646179840",
+			"display": "twitter.com/jarmin_ron/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 03 01:11:22 +0000 2019",
+			"id": 1146224882646179800,
+			"id_str": "1146224882646179840",
+			"full_text": "Storm’s over.  ⁦@capitalweather⁩ https://t.co/sKsx2ZEt39",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "capitalweather",
+						"name": "Capital Weather Gang",
+						"id": 15309804,
+						"id_str": "15309804",
+						"indices": [
+							16,
+							31
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1146224877596229600,
+						"id_str": "1146224877596229632",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/D-g1dAXWwAAZisC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-g1dAXWwAAZisC.jpg",
+						"url": "https://t.co/sKsx2ZEt39",
+						"display_url": "pic.twitter.com/sKsx2ZEt39",
+						"expanded_url": "https://twitter.com/jarmin_ron/status/1146224882646179840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1146224877596229600,
+						"id_str": "1146224877596229632",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/D-g1dAXWwAAZisC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-g1dAXWwAAZisC.jpg",
+						"url": "https://t.co/sKsx2ZEt39",
+						"display_url": "pic.twitter.com/sKsx2ZEt39",
+						"expanded_url": "https://twitter.com/jarmin_ron/status/1146224882646179840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 826225554,
+				"id_str": "826225554",
+				"name": "Ron Jarmin",
+				"screen_name": "jarmin_ron",
+				"location": "",
+				"description": "Dad, Economist, Duck Fan. All opinions are mine.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1043,
+				"friends_count": 461,
+				"listed_count": 73,
+				"created_at": "Sun Sep 16 00:59:12 +0000 2012",
+				"favourites_count": 1281,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2211,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/608434512062726144/Tj339gWx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/608434512062726144/Tj339gWx_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 22,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From @uscensusbureau’s deputy director👇 https://t.co/hieBQI8cio"
+	},
+	{
 		"created_at": "Wed Jul 03 00:57:33 +0000 2019",
 		"id": 1146221404171296800,
 		"id_str": "1146221404171296768",
