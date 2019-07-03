@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 03 12:48:00 +0000 2019",
+		"id": 1146261589580046300,
+		"id_str": "1146400197615869952",
+		"full_text": ".@TerryCanales40 @andoconmando39 On cable TV tonight, couple of hosts pronounced Weslaco “Wes-lacko.” Please tell me it is and always has been “Wes-luh-co” #txlege",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "txlege",
+					"indices": [
+						156,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TerryCanales40",
+					"name": "Terry Canales",
+					"id": 618306293,
+					"id_str": "618306293",
+					"indices": [
+						1,
+						16
+					]
+				},
+				{
+					"screen_name": "andoconmando39",
+					"name": "Rep.Armando Martinez",
+					"id": 25332041,
+					"id_str": "25332041",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18791654,
+			"id_str": "18791654",
+			"name": "Evan Smith",
+			"screen_name": "evanasmith",
+			"location": "Austin, Texas",
+			"description": "CEO of @texastribune. Host of @overheardpbs. Former editor of @texasmonthly. Political junkie, passable tennis player, @wilco fanboy, future ex-vegetarian.",
+			"url": "https://t.co/6AlMrCBSkt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6AlMrCBSkt",
+							"expanded_url": "http://www.texastribune.org",
+							"display_url": "texastribune.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53108,
+			"friends_count": 4324,
+			"listed_count": 1566,
+			"created_at": "Fri Jan 09 04:08:03 +0000 2009",
+			"favourites_count": 1283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 34162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/652120854541631488/zifcbSVc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/652120854541631488/zifcbSVc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18791654/1543465234",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": ".@TerryCanales40 @andoconmando39 On cable TV tonight, couple of hosts pronounced Weslaco “Wes-lacko.” Please tell me it is and always has been “Wes-luh-co” #txlege"
+	},
+	{
 		"created_at": "Wed Jul 03 11:47:23 +0000 2019",
 		"id": 1146384940277231600,
 		"id_str": "1146384940277231616",
