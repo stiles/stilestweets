@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 05 03:43:54 +0000 2019",
+		"id": 1146941804039815200,
+		"id_str": "1146988046245494784",
+		"full_text": "NPR tweeted out the entire Declaration of Independence, and it sounds like articles of impeachment against Trump. https://t.co/0lhL1ig8BP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0lhL1ig8BP",
+					"expanded_url": "https://twitter.com/npr/status/1146827634149662726",
+					"display_url": "twitter.com/npr/status/114…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1090715513586679800,
+			"id_str": "1090715513586679813",
+			"name": "Joshua Potash",
+			"screen_name": "JoshuaPotash",
+			"location": "Queens, NY",
+			"description": "The fight between people trying to get by and the rich who want more is the fight between good and evil.",
+			"url": "https://t.co/b9zK1OF942",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b9zK1OF942",
+							"expanded_url": "https://medium.com/@joshuapotash93",
+							"display_url": "medium.com/@joshuapotash93",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15811,
+			"friends_count": 11241,
+			"listed_count": 14,
+			"created_at": "Wed Jan 30 20:56:57 +0000 2019",
+			"favourites_count": 15125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090716229080416256/6TFL3MYH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090716229080416256/6TFL3MYH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090715513586679813/1549834444",
+			"profile_link_color": "14171A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1146827634149662700,
+		"quoted_status_id_str": "1146827634149662726",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0lhL1ig8BP",
+			"expanded": "https://twitter.com/npr/status/1146827634149662726",
+			"display": "twitter.com/npr/status/114…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 04 17:06:29 +0000 2019",
+			"id": 1146827634149662700,
+			"id_str": "1146827634149662726",
+			"full_text": "He has obstructed the Administration of Justice, by refusing his Assent to Laws for establishing Judiciary powers.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1146827633419853800,
+			"in_reply_to_status_id_str": "1146827633419853824",
+			"in_reply_to_user_id": 5392522,
+			"in_reply_to_user_id_str": "5392522",
+			"in_reply_to_screen_name": "NPR",
+			"user": {
+				"id": 5392522,
+				"id_str": "5392522",
+				"name": "NPR",
+				"screen_name": "NPR",
+				"location": "",
+				"description": "News. Arts & Life. Music. Everything and more from NPR.\n\n🕵️ Securely send us news tips: https://t.co/LPkf6Tsozm",
+				"url": "http://t.co/SoL86ga4RI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SoL86ga4RI",
+								"expanded_url": "http://www.npr.org",
+								"display_url": "npr.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LPkf6Tsozm",
+								"expanded_url": "http://securedrop.npr.org",
+								"display_url": "securedrop.npr.org",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7779902,
+				"friends_count": 70951,
+				"listed_count": 66463,
+				"created_at": "Sun Apr 22 05:10:15 +0000 2007",
+				"favourites_count": 2535,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 179575,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1561665789",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 535,
+			"favorite_count": 1441,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 494,
+		"favorite_count": 1085,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NPR tweeted out the entire Declaration of Independence, and it sounds like articles of impeachment against Trump. https://t.co/0lhL1ig8BP"
+	},
+	{
 		"created_at": "Fri Jul 05 02:45:37 +0000 2019",
 		"id": 1146973376495308800,
 		"id_str": "1146973376495308800",
