@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 05 00:19:30 +0000 2019",
+		"id": 1146936604688126000,
+		"id_str": "1146936604688125952",
+		"full_text": "What to do before — and during — a big quake. @ronlin has all the tips, including this gem, which I might have forgotten: \"If your food kit includes canned food, make sure you have a manual can opener.\" https://t.co/Ybt1uFRJgY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ronlin",
+					"name": "Ron Lin",
+					"id": 14480618,
+					"id_str": "14480618",
+					"indices": [
+						46,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ybt1uFRJgY",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-ln-how-prepare-earthquake-20170909-htmlstory.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10857,
+			"friends_count": 1647,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562037980",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What to do before — and during — a big quake. @ronlin has all the tips, including this gem, which I might have forgotten: \"If your food kit includes canned food, make sure you have a manual can opener.\" https://t.co/Ybt1uFRJgY"
+	},
+	{
+		"created_at": "Fri Jul 05 00:10:27 +0000 2019",
+		"id": 1146842715386073100,
+		"id_str": "1146934330226176000",
+		"full_text": "Be ready #LACounty. Today’s quake is an important reminder of the need to prepare #LAQuake https://t.co/uEKPiMxWVs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LACounty",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"text": "LAQuake",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uEKPiMxWVs",
+					"expanded_url": "https://twitter.com/countyofla/status/1146837110235656193",
+					"display_url": "twitter.com/countyofla/sta…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236576462,
+			"id_str": "236576462",
+			"name": "LA County CEO",
+			"screen_name": "LACountyCEO",
+			"location": "Los Angeles County",
+			"description": "Official Twitter of @CountyofLA Chief Executive Officer Sachi Hamai with oversight of a $32.5B budget to improve lives #PublicService #SocialImpact #Mentorship",
+			"url": "https://t.co/11nXXyInRF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/11nXXyInRF",
+							"expanded_url": "http://ceo.lacounty.gov",
+							"display_url": "ceo.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4530,
+			"friends_count": 663,
+			"listed_count": 143,
+			"created_at": "Mon Jan 10 22:29:06 +0000 2011",
+			"favourites_count": 284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725005013592891392/-ULQrV0V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725005013592891392/-ULQrV0V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236576462/1461690058",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1146837110235656200,
+		"quoted_status_id_str": "1146837110235656193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uEKPiMxWVs",
+			"expanded": "https://twitter.com/countyofla/status/1146837110235656193",
+			"display": "twitter.com/countyofla/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 04 17:44:08 +0000 2019",
+			"id": 1146837110235656200,
+			"id_str": "1146837110235656193",
+			"full_text": "Did you feel it? Now is a good time to check your emergency kit and make sure you and your family have a plan #LAQuake @ReadyLACounty https://t.co/oqjAqmAorc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LAQuake",
+						"indices": [
+							110,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ReadyLACounty",
+						"name": "Ready Los Angeles County",
+						"id": 454197888,
+						"id_str": "454197888",
+						"indices": [
+							119,
+							133
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1058383384785805300,
+						"id_str": "1058383384785805314",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058383384785805314/pu/img/waVG_hccNJQ__HSM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058383384785805314/pu/img/waVG_hccNJQ__HSM.jpg",
+						"url": "https://t.co/oqjAqmAorc",
+						"display_url": "pic.twitter.com/oqjAqmAorc",
+						"expanded_url": "https://twitter.com/CountyofLA/status/1146837110235656193/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1058383384785805300,
+						"id_str": "1058383384785805314",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058383384785805314/pu/img/waVG_hccNJQ__HSM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058383384785805314/pu/img/waVG_hccNJQ__HSM.jpg",
+						"url": "https://t.co/oqjAqmAorc",
+						"display_url": "pic.twitter.com/oqjAqmAorc",
+						"expanded_url": "https://twitter.com/CountyofLA/status/1146837110235656193/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 47000,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1058383384785805314/pu/vid/320x180/QsNQUq1EaAatJYnw.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1058383384785805314/pu/vid/640x360/2GyiscS0YAmB1agR.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1058383384785805314/pu/vid/1280x720/1dIM-MDnmybapH2j.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1058383384785805314/pu/pl/IdqTagJrAuQZcE6x.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 193771633,
+				"id_str": "193771633",
+				"name": "Los Angeles County",
+				"screen_name": "CountyofLA",
+				"location": "Los Angeles County",
+				"description": "Official account of Los Angeles County",
+				"url": "http://t.co/7Z6JLrLfYn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7Z6JLrLfYn",
+								"expanded_url": "http://lacounty.gov",
+								"display_url": "lacounty.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35659,
+				"friends_count": 4736,
+				"listed_count": 639,
+				"created_at": "Wed Sep 22 17:08:50 +0000 2010",
+				"favourites_count": 4355,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12244,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193771633/1561995809",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 154,
+			"favorite_count": 230,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Be ready #LACounty. Today’s quake is an important reminder of the need to prepare #LAQuake https://t.co/uEKPiMxWVs"
+	},
+	{
+		"created_at": "Thu Jul 04 23:53:38 +0000 2019",
+		"id": 1146851440851210200,
+		"id_str": "1146930094658560000",
+		"full_text": "I know people have legit strong feelings about illegal fireworks but stop comparing your neighborhood to “Mogadishu.” &amp; enjoy your $7 coffee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19074004,
+			"id_str": "19074004",
+			"name": "Hector Becerra",
+			"screen_name": "hbecerraLATimes",
+			"location": "Los Angeles",
+			"description": "California/City Editor, Los Angeles Times. L.A born and raised in Boyle Heights. Story tips welcome Hector.becerra@latimes.com Twitter: @hbecerralatimes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5094,
+			"friends_count": 396,
+			"listed_count": 200,
+			"created_at": "Fri Jan 16 16:35:59 +0000 2009",
+			"favourites_count": 4836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094677772071399424/H5sH6_yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094677772071399424/H5sH6_yJ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 76,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I know people have legit strong feelings about illegal fireworks but stop comparing your neighborhood to “Mogadishu.” &amp; enjoy your $7 coffee"
+	},
+	{
+		"created_at": "Thu Jul 04 23:48:03 +0000 2019",
+		"id": 1146835948820283400,
+		"id_str": "1146928689721909248",
+		"full_text": "We are very much aware of the significant earthquake that just occurred in Southern California.  Please DO NOT call 9-1-1 unless there are injuries or other dangerous conditions. Don't call for questions please.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444007700,
+			"id_str": "444007700",
+			"name": "LAPD Communications Division",
+			"screen_name": "911LAPD",
+			"location": "City Of Los Angeles",
+			"description": "Official Twitter feed of LAPD Communications Division. This is not monitored 24/7. If you have an emergency call or text 9-1-1. Non-emergency call 877-ASK-LAPD.",
+			"url": "https://t.co/heaTzxopVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heaTzxopVG",
+							"expanded_url": "http://www.911lapd.com",
+							"display_url": "911lapd.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49713,
+			"friends_count": 243,
+			"listed_count": 839,
+			"created_at": "Thu Dec 22 19:51:52 +0000 2011",
+			"favourites_count": 8888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0C0352",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086504119244795905/-auTHETd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086504119244795905/-auTHETd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444007700/1532983798",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 363,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We are very much aware of the significant earthquake that just occurred in Southern California.  Please DO NOT call 9-1-1 unless there are injuries or other dangerous conditions. Don't call for questions please."
+	},
+	{
 		"created_at": "Thu Jul 04 19:25:39 +0000 2019",
 		"id": 1146862657821007900,
 		"id_str": "1146862657821007872",
