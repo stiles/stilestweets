@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 05 02:07:23 +0000 2019",
+		"id": 1146963039746285600,
+		"id_str": "1146963754166321152",
+		"full_text": "@StoltzeFrankly @LAist @KPCC These are real bullet holes Frank, not alleged. Thankfully the deputies involved escaped w/minor injuries.We are saddened by the loss of an innocent,likely at the hands of the suspects,not ours. FYI,policy considerations change drastically when fired upon by a suspect w/an AK-47 https://t.co/d4hO2i1iLC",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			308
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StoltzeFrankly",
+					"name": "Frank Stoltze",
+					"id": 30130169,
+					"id_str": "30130169",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "LAist",
+					"name": "LAist",
+					"id": 6487292,
+					"id_str": "6487292",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"screen_name": "KPCC",
+					"name": "89.3 KPCC",
+					"id": 12804312,
+					"id_str": "12804312",
+					"indices": [
+						23,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146963017109631000,
+					"id_str": "1146963017109630976",
+					"indices": [
+						309,
+						332
+					],
+					"media_url": "http://pbs.twimg.com/media/D-rUyYVUcAAVGX8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-rUyYVUcAAVGX8.jpg",
+					"url": "https://t.co/d4hO2i1iLC",
+					"display_url": "pic.twitter.com/d4hO2i1iLC",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1146963039746285568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146963017109631000,
+					"id_str": "1146963017109630976",
+					"indices": [
+						309,
+						332
+					],
+					"media_url": "http://pbs.twimg.com/media/D-rUyYVUcAAVGX8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-rUyYVUcAAVGX8.jpg",
+					"url": "https://t.co/d4hO2i1iLC",
+					"display_url": "pic.twitter.com/d4hO2i1iLC",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1146963039746285568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146963017055141900,
+					"id_str": "1146963017055141890",
+					"indices": [
+						309,
+						332
+					],
+					"media_url": "http://pbs.twimg.com/media/D-rUyYIVAAInMP1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-rUyYIVAAInMP1.jpg",
+					"url": "https://t.co/d4hO2i1iLC",
+					"display_url": "pic.twitter.com/d4hO2i1iLC",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1146963039746285568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146963017055100900,
+					"id_str": "1146963017055100928",
+					"indices": [
+						309,
+						332
+					],
+					"media_url": "http://pbs.twimg.com/media/D-rUyYIUYAAFpJK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-rUyYIUYAAFpJK.jpg",
+					"url": "https://t.co/d4hO2i1iLC",
+					"display_url": "pic.twitter.com/d4hO2i1iLC",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1146963039746285568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1146838786690601000,
+		"in_reply_to_status_id_str": "1146838786690600961",
+		"in_reply_to_user_id": 30130169,
+		"in_reply_to_user_id_str": "30130169",
+		"in_reply_to_screen_name": "StoltzeFrankly",
+		"user": {
+			"id": 1067499378175238100,
+			"id_str": "1067499378175238144",
+			"name": "Alex Villanueva",
+			"screen_name": "LACoSheriff",
+			"location": "Los Angeles, CA",
+			"description": "33rd Sheriff, Los Angeles County; Veteran; Doctorate of Public Administration; 30+ years #LASD #SheriffV",
+			"url": "https://t.co/rDy4m9WlSL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rDy4m9WlSL",
+							"expanded_url": "https://lasd.org",
+							"display_url": "lasd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2653,
+			"friends_count": 248,
+			"listed_count": 26,
+			"created_at": "Tue Nov 27 19:24:19 +0000 2018",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067499378175238144/1543898306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@StoltzeFrankly @LAist @KPCC These are real bullet holes Frank, not alleged. Thankfully the deputies involved escaped w/minor injuries.We are saddened by the loss of an innocent,likely at the hands of the suspects,not ours. FYI,policy considerations change drastically when fired upon by a suspect w/an AK-47 https://t.co/d4hO2i1iLC"
+	},
+	{
 		"created_at": "Fri Jul 05 00:19:30 +0000 2019",
 		"id": 1146936604688126000,
 		"id_str": "1146936604688125952",
