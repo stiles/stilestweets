@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 05 02:45:37 +0000 2019",
+		"id": 1146973376495308800,
+		"id_str": "1146973376495308800",
+		"full_text": "Dog steals the show... https://t.co/7xABvqpifN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7xABvqpifN",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1146906776790425600",
+					"display_url": "twitter.com/LACoSheriff/st…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10857,
+			"friends_count": 1647,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562037980",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1146906776790425600,
+		"quoted_status_id_str": "1146906776790425600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7xABvqpifN",
+			"expanded": "https://twitter.com/LACoSheriff/status/1146906776790425600",
+			"display": "twitter.com/LACoSheriff/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 04 22:20:58 +0000 2019",
+			"id": 1146906776790425600,
+			"id_str": "1146906776790425600",
+			"full_text": "Happy 4th of July from my family to yours! Stay safe and have a great day! \n.\n.\n.\n#SheriffV #4thofjuly #july4th #lawenforcement #independenceday #lasd #lacounty https://t.co/X5nfoEkvmP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SheriffV",
+						"indices": [
+							82,
+							91
+						]
+					},
+					{
+						"text": "4thofjuly",
+						"indices": [
+							92,
+							102
+						]
+					},
+					{
+						"text": "july4th",
+						"indices": [
+							103,
+							111
+						]
+					},
+					{
+						"text": "lawenforcement",
+						"indices": [
+							112,
+							127
+						]
+					},
+					{
+						"text": "independenceday",
+						"indices": [
+							128,
+							144
+						]
+					},
+					{
+						"text": "lasd",
+						"indices": [
+							145,
+							150
+						]
+					},
+					{
+						"text": "lacounty",
+						"indices": [
+							151,
+							160
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1146906603465015300,
+						"id_str": "1146906603465015296",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146906603465015296/pu/img/LvxEtkxYqJ89dr3l.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146906603465015296/pu/img/LvxEtkxYqJ89dr3l.jpg",
+						"url": "https://t.co/X5nfoEkvmP",
+						"display_url": "pic.twitter.com/X5nfoEkvmP",
+						"expanded_url": "https://twitter.com/LACoSheriff/status/1146906776790425600/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1146906603465015300,
+						"id_str": "1146906603465015296",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1146906603465015296/pu/img/LvxEtkxYqJ89dr3l.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1146906603465015296/pu/img/LvxEtkxYqJ89dr3l.jpg",
+						"url": "https://t.co/X5nfoEkvmP",
+						"display_url": "pic.twitter.com/X5nfoEkvmP",
+						"expanded_url": "https://twitter.com/LACoSheriff/status/1146906776790425600/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 10978,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1146906603465015296/pu/vid/480x270/6T9j7KLHDJAD4bID.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1146906603465015296/pu/vid/640x360/l7HReOvpoRMmk07w.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1146906603465015296/pu/vid/1280x720/-UwnD51ZmfA-moIo.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1146906603465015296/pu/pl/msj0mVjGjPO_eKcw.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1067499378175238100,
+				"id_str": "1067499378175238144",
+				"name": "Alex Villanueva",
+				"screen_name": "LACoSheriff",
+				"location": "Los Angeles, CA",
+				"description": "33rd Sheriff, Los Angeles County; Veteran; Doctorate of Public Administration; 30+ years #LASD #SheriffV",
+				"url": "https://t.co/rDy4m9WlSL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rDy4m9WlSL",
+								"expanded_url": "https://lasd.org",
+								"display_url": "lasd.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2657,
+				"friends_count": 248,
+				"listed_count": 26,
+				"created_at": "Tue Nov 27 19:24:19 +0000 2018",
+				"favourites_count": 113,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 291,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067499378175238144/1543898306",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dog steals the show... https://t.co/7xABvqpifN"
+	},
+	{
 		"created_at": "Fri Jul 05 02:07:23 +0000 2019",
 		"id": 1146963039746285600,
 		"id_str": "1146963754166321152",
