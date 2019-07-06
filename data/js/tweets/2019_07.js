@@ -1,6 +1,891 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 06 03:52:45 +0000 2019",
+		"id": 1147352658648240100,
+		"id_str": "1147352658648240128",
+		"full_text": "This tweet inspired by a @BreneBrown talk, no doubt. https://t.co/YM3XUWxR4m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BreneBrown",
+					"name": "Brené Brown",
+					"id": 14717311,
+					"id_str": "14717311",
+					"indices": [
+						25,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YM3XUWxR4m",
+					"expanded_url": "https://twitter.com/RealRonJeremy/status/1147345331077537799",
+					"display_url": "twitter.com/RealRonJeremy/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10860,
+			"friends_count": 1648,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562037980",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1147345331077537800,
+		"quoted_status_id_str": "1147345331077537799",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YM3XUWxR4m",
+			"expanded": "https://twitter.com/RealRonJeremy/status/1147345331077537799",
+			"display": "twitter.com/RealRonJeremy/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 06 03:23:38 +0000 2019",
+			"id": 1147345331077537800,
+			"id_str": "1147345331077537799",
+			"full_text": "Another huge earthquake in LA. I have to stop dropping my dick.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 437699024,
+				"id_str": "437699024",
+				"name": "Ron Jeremy",
+				"screen_name": "RealRonJeremy",
+				"location": "Hollywood, Los Angeles",
+				"description": "Legend! Super Star! Bookings-Manager @dantethecomic at @GoldenArtistsLA https://t.co/rFkvdNk10q https://t.co/q1FyaUbHA3 dante@goldenartistsentertainment.com",
+				"url": "https://t.co/KP1Bf9q2IO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KP1Bf9q2IO",
+								"expanded_url": "https://www.youtube.com/channel/UCEr_DFnEPyvHR2hIipHeV9Q",
+								"display_url": "youtube.com/channel/UCEr_D…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rFkvdNk10q",
+								"expanded_url": "http://www.goldenartistsentertainment.com",
+								"display_url": "goldenartistsentertainment.com",
+								"indices": [
+									72,
+									95
+								]
+							},
+							{
+								"url": "https://t.co/q1FyaUbHA3",
+								"expanded_url": "http://Ronjeremy.com",
+								"display_url": "Ronjeremy.com",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 98133,
+				"friends_count": 1737,
+				"listed_count": 483,
+				"created_at": "Thu Dec 15 18:43:15 +0000 2011",
+				"favourites_count": 25536,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16188,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A1A1A1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869085630533296128/nh29cpnr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869085630533296128/nh29cpnr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/437699024/1546924349",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CFD0D1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 247,
+			"favorite_count": 773,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This tweet inspired by a @BreneBrown talk, no doubt. https://t.co/YM3XUWxR4m"
+	},
+	{
+		"created_at": "Sat Jul 06 03:49:42 +0000 2019",
+		"id": 1147351891417788400,
+		"id_str": "1147351891417788416",
+		"full_text": "@JADubin5 Troll?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JADubin5",
+					"name": "Yaya Dubin",
+					"id": 176909855,
+					"id_str": "176909855",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1147347370092499000,
+		"in_reply_to_status_id_str": "1147347370092498945",
+		"in_reply_to_user_id": 176909855,
+		"in_reply_to_user_id_str": "176909855",
+		"in_reply_to_screen_name": "JADubin5",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10860,
+			"friends_count": 1648,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562037980",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JADubin5 Troll?"
+	},
+	{
+		"created_at": "Sat Jul 06 03:41:30 +0000 2019",
+		"id": 1147349826821972000,
+		"id_str": "1147349826821971968",
+		"full_text": "@acitrano @elisewho @USGSBigQuakes @USGS Right. Clearly @usgs doesn't.",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acitrano",
+					"name": "Anthony Citrano",
+					"id": 14262180,
+					"id_str": "14262180",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "elisewho",
+					"name": "Elise Hu",
+					"id": 16001350,
+					"id_str": "16001350",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "USGSBigQuakes",
+					"name": "USGS Big Quakes",
+					"id": 94119095,
+					"id_str": "94119095",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"screen_name": "USGS",
+					"name": "USGS",
+					"id": 14505838,
+					"id_str": "14505838",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"screen_name": "USGS",
+					"name": "USGS",
+					"id": 14505838,
+					"id_str": "14505838",
+					"indices": [
+						56,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1147348659069059100,
+		"in_reply_to_status_id_str": "1147348659069059072",
+		"in_reply_to_user_id": 14262180,
+		"in_reply_to_user_id_str": "14262180",
+		"in_reply_to_screen_name": "acitrano",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10860,
+			"friends_count": 1648,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562037980",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@acitrano @elisewho @USGSBigQuakes @USGS Right. Clearly @usgs doesn't."
+	},
+	{
+		"created_at": "Sat Jul 06 03:30:41 +0000 2019",
+		"id": 1147347107583422500,
+		"id_str": "1147347107583422465",
+		"full_text": "Earthquake must've shaken the servers at @USGS ... https://t.co/4GQxajA2IL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "USGS",
+					"name": "USGS",
+					"id": 14505838,
+					"id_str": "14505838",
+					"indices": [
+						41,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147347101770104800,
+					"id_str": "1147347101770104832",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D-wyHDMUwAANO_1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-wyHDMUwAANO_1.jpg",
+					"url": "https://t.co/4GQxajA2IL",
+					"display_url": "pic.twitter.com/4GQxajA2IL",
+					"expanded_url": "https://twitter.com/stiles/status/1147347107583422465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1067,
+							"h": 575,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1067,
+							"h": 575,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147347101770104800,
+					"id_str": "1147347101770104832",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/D-wyHDMUwAANO_1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-wyHDMUwAANO_1.jpg",
+					"url": "https://t.co/4GQxajA2IL",
+					"display_url": "pic.twitter.com/4GQxajA2IL",
+					"expanded_url": "https://twitter.com/stiles/status/1147347107583422465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1067,
+							"h": 575,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1067,
+							"h": 575,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10860,
+			"friends_count": 1648,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562037980",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Earthquake must've shaken the servers at @USGS ... https://t.co/4GQxajA2IL"
+	},
+	{
+		"created_at": "Sat Jul 06 03:26:14 +0000 2019",
+		"id": 1147345196717359100,
+		"id_str": "1147345987175735296",
+		"full_text": "Prelim M7.1 Earthquake 35.767, -117.605 Jul-06 03:19 UTC, updates https://t.co/uVJBfBodUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uVJBfBodUN",
+					"expanded_url": "https://go.usa.gov/xyDfq",
+					"display_url": "go.usa.gov/xyDfq",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://earthquake.usgs.gov/\" rel=\"nofollow\">USGSBigQuakes</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94119095,
+			"id_str": "94119095",
+			"name": "USGS Big Quakes",
+			"screen_name": "USGSBigQuakes",
+			"location": "Golden, CO",
+			"description": "Official U.S. Geological Survey earthquake alerts. For other official accounts, and to engage with us on other channels see http://t.co/JpxQ0UYtrS",
+			"url": "http://t.co/8Ei2QMdTqN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8Ei2QMdTqN",
+							"expanded_url": "http://earthquake.usgs.gov/earthquakes/ted/",
+							"display_url": "earthquake.usgs.gov/earthquakes/te…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/JpxQ0UYtrS",
+							"expanded_url": "http://usgs.gov/socialmedia",
+							"display_url": "usgs.gov/socialmedia",
+							"indices": [
+								124,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 132018,
+			"friends_count": 2,
+			"listed_count": 2730,
+			"created_at": "Wed Dec 02 16:12:24 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468037933/usgs_icon_bigger_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468037933/usgs_icon_bigger_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94119095/1521132392",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4138,
+		"favorite_count": 3739,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Prelim M7.1 Earthquake 35.767, -117.605 Jul-06 03:19 UTC, updates https://t.co/uVJBfBodUN"
+	},
+	{
+		"created_at": "Sat Jul 06 03:21:55 +0000 2019",
+		"id": 1147344534331785200,
+		"id_str": "1147344899064266753",
+		"full_text": "[dj khaled voice] Another one*\n\n*earthquake",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192995488,
+			"id_str": "192995488",
+			"name": "Priya Krishnakumar",
+			"screen_name": "priyakkumar",
+			"location": "",
+			"description": "Graphics maps n’ data @latimes. Cake is a breakfast food!! priya@latimes.com",
+			"url": "https://t.co/w8ovcvH7jJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w8ovcvH7jJ",
+							"expanded_url": "http://priyakrishnakumar.com",
+							"display_url": "priyakrishnakumar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5067,
+			"friends_count": 692,
+			"listed_count": 91,
+			"created_at": "Mon Sep 20 18:18:50 +0000 2010",
+			"favourites_count": 7805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/849859108773679104/olzENnzo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/849859108773679104/olzENnzo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192995488/1496358615",
+			"profile_link_color": "009FBF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBBE3D",
+			"profile_text_color": "EED68C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "[dj khaled voice] Another one*\n\n*earthquake"
+	},
+	{
 		"created_at": "Fri Jul 05 03:43:54 +0000 2019",
 		"id": 1146941804039815200,
 		"id_str": "1146988046245494784",
