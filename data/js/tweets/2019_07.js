@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 17:39:33 +0000 2019",
+		"id": 1147920431078203400,
+		"id_str": "1147923119077650432",
+		"full_text": "You are in charge of this coastal town. Can you save it from the rising sea? Play the @latimes Ocean Game and tell me what you think! Should we be doing more games like this one as a form of explanatory storytelling? https://t.co/MIX7tfkge6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MIX7tfkge6",
+					"expanded_url": "https://www.latimes.com/projects/la-me-climate-change-ocean-game/",
+					"display_url": "latimes.com/projects/la-me…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1147920214568271900,
+		"in_reply_to_status_id_str": "1147920214568271873",
+		"in_reply_to_user_id": 151682694,
+		"in_reply_to_user_id_str": "151682694",
+		"in_reply_to_screen_name": "RosannaXia",
+		"user": {
+			"id": 151682694,
+			"id_str": "151682694",
+			"name": "Rosanna Xia",
+			"screen_name": "RosannaXia",
+			"location": "Los Angeles, CA",
+			"description": "I cover the California coast for @latimes. Previously: education reporter, earthquake nerd, economist.",
+			"url": "https://t.co/078slX1G75",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/078slX1G75",
+							"expanded_url": "http://www.latimes.com/la-bio-rosanna-xia-staff.html",
+							"display_url": "latimes.com/la-bio-rosanna…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5892,
+			"friends_count": 769,
+			"listed_count": 255,
+			"created_at": "Fri Jun 04 00:37:23 +0000 2010",
+			"favourites_count": 1603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961487498168815616/YcjitSzB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961487498168815616/YcjitSzB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151682694/1556662862",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You are in charge of this coastal town. Can you save it from the rising sea? Play the @latimes Ocean Game and tell me what you think! Should we be doing more games like this one as a form of explanatory storytelling? https://t.co/MIX7tfkge6"
+	},
+	{
 		"created_at": "Sun Jul 07 15:34:29 +0000 2019",
 		"id": 1147891642470297600,
 		"id_str": "1147891642470297601",
