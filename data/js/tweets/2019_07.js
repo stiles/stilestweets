@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 03:56:46 +0000 2019",
+		"id": 1147716057622179800,
+		"id_str": "1147716057622179847",
+		"full_text": "Amusing ourselves to death. https://t.co/KMQr7BkvXk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KMQr7BkvXk",
+					"expanded_url": "https://twitter.com/tiktok_us/status/1147626274556264448",
+					"display_url": "twitter.com/tiktok_us/stat…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10864,
+			"friends_count": 1648,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562037980",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1147626274556264400,
+		"quoted_status_id_str": "1147626274556264448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KMQr7BkvXk",
+			"expanded": "https://twitter.com/tiktok_us/status/1147626274556264448",
+			"display": "twitter.com/tiktok_us/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 06 22:00:00 +0000 2019",
+			"id": 1147626274556264400,
+			"id_str": "1147626274556264448",
+			"full_text": "all hail the majestic chicken https://t.co/S4NnrFRQZP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1146509922785382400,
+						"id_str": "1146509922785382401",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1146509922785382401/img/LzaMr-zIvelqHYjm.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1146509922785382401/img/LzaMr-zIvelqHYjm.jpg",
+						"url": "https://t.co/S4NnrFRQZP",
+						"display_url": "pic.twitter.com/S4NnrFRQZP",
+						"expanded_url": "https://twitter.com/tiktok_us/status/1147626274556264448/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1146509922785382400,
+						"id_str": "1146509922785382401",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1146509922785382401/img/LzaMr-zIvelqHYjm.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1146509922785382401/img/LzaMr-zIvelqHYjm.jpg",
+						"url": "https://t.co/S4NnrFRQZP",
+						"display_url": "pic.twitter.com/S4NnrFRQZP",
+						"expanded_url": "https://twitter.com/tiktok_us/status/1147626274556264448/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								40,
+								71
+							],
+							"duration_millis": 9300,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1146509922785382401/vid/360x638/EsznX7-TKWscF0X_.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1146509922785382401/pl/7l93S2XwuygsSp6F.m3u8?tag=13"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1146509922785382401/vid/320x568/leblLBH-jbebxbdX.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1146509922785382401/vid/640x1136/KjeMaFTrc88e0n8l.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2401980110,
+				"id_str": "2401980110",
+				"name": "TikTok",
+				"screen_name": "tiktok_us",
+				"location": "Global",
+				"description": "Real. Short. Videos. #TikTokDontStop",
+				"url": "https://t.co/Ycuxjt56wb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ycuxjt56wb",
+								"expanded_url": "http://bit.ly/2TnWxjp",
+								"display_url": "bit.ly/2TnWxjp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 498865,
+				"friends_count": 694,
+				"listed_count": 598,
+				"created_at": "Fri Mar 21 18:39:40 +0000 2014",
+				"favourites_count": 11154,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22279,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113139965888565249/92Q06dW1_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113139965888565249/92Q06dW1_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2401980110/1560477391",
+				"profile_link_color": "FF0F50",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amusing ourselves to death. https://t.co/KMQr7BkvXk"
+	},
+	{
 		"created_at": "Sat Jul 06 23:25:42 +0000 2019",
 		"id": 1147647843181535200,
 		"id_str": "1147647843181535232",
