@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 19:02:23 +0000 2019",
+		"id": 1148668739803422700,
+		"id_str": "1148668739803422720",
+		"full_text": "@MyNerdGasm People Say That You Might Be A Troll, But I Could Be Wrong. What Does Your Dad Think?",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MyNerdGasm",
+					"name": "Dik",
+					"id": 283317819,
+					"id_str": "283317819",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1148646011298025500,
+		"in_reply_to_status_id_str": "1148646011298025473",
+		"in_reply_to_user_id": 283317819,
+		"in_reply_to_user_id_str": "283317819",
+		"in_reply_to_screen_name": "MyNerdGasm",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10865,
+			"friends_count": 1649,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MyNerdGasm People Say That You Might Be A Troll, But I Could Be Wrong. What Does Your Dad Think?"
+	},
+	{
+		"created_at": "Tue Jul 09 19:00:30 +0000 2019",
+		"id": 1148668105087782900,
+		"id_str": "1148668264332984321",
+		"full_text": "Our @LACoAnimalCare centers are overcrowded with kittens and large dogs. We accepted two generous donations at our Board of Supervisors meeting today from the @ASPCA to reduce the cost of adoption fees at all of our shelters. https://t.co/XC8bywT2ae",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACoAnimalCare",
+					"name": "LA Co Animal Care",
+					"id": 172419793,
+					"id_str": "172419793",
+					"indices": [
+						4,
+						19
+					]
+				},
+				{
+					"screen_name": "ASPCA",
+					"name": "ASPCA",
+					"id": 14955908,
+					"id_str": "14955908",
+					"indices": [
+						159,
+						165
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148667857124749300,
+					"id_str": "1148667857124749312",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/D_DjVITUcAA2MwT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_DjVITUcAA2MwT.jpg",
+					"url": "https://t.co/XC8bywT2ae",
+					"display_url": "pic.twitter.com/XC8bywT2ae",
+					"expanded_url": "https://twitter.com/kathrynbarger/status/1148668105087782912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148667857124749300,
+					"id_str": "1148667857124749312",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/D_DjVITUcAA2MwT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_DjVITUcAA2MwT.jpg",
+					"url": "https://t.co/XC8bywT2ae",
+					"display_url": "pic.twitter.com/XC8bywT2ae",
+					"expanded_url": "https://twitter.com/kathrynbarger/status/1148668105087782912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148667857082781700,
+					"id_str": "1148667857082781696",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/D_DjVIJUEAAJ3vG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_DjVIJUEAAJ3vG.jpg",
+					"url": "https://t.co/XC8bywT2ae",
+					"display_url": "pic.twitter.com/XC8bywT2ae",
+					"expanded_url": "https://twitter.com/kathrynbarger/status/1148668105087782912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1222,
+							"h": 1526,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3165949670,
+			"id_str": "3165949670",
+			"name": "Kathryn Barger",
+			"screen_name": "kathrynbarger",
+			"location": "Los Angeles County",
+			"description": "Los Angeles County Supervisor representing the Fifth District.",
+			"url": "https://t.co/BCmP4YpRwZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BCmP4YpRwZ",
+							"expanded_url": "http://kathrynbarger.lacounty.gov",
+							"display_url": "kathrynbarger.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3936,
+			"friends_count": 720,
+			"listed_count": 62,
+			"created_at": "Mon Apr 20 21:37:11 +0000 2015",
+			"favourites_count": 1133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/857018241754947584/PCDUNXwD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/857018241754947584/PCDUNXwD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3165949670/1551217533",
+			"profile_link_color": "BE8D97",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our @LACoAnimalCare centers are overcrowded with kittens and large dogs. We accepted two generous donations at our Board of Supervisors meeting today from the @ASPCA to reduce the cost of adoption fees at all of our shelters. https://t.co/XC8bywT2ae"
+	},
+	{
 		"created_at": "Tue Jul 09 17:28:55 +0000 2019",
 		"id": 1148645217454526500,
 		"id_str": "1148645217454526464",
@@ -164,7 +501,7 @@ Grailbird.data.tweets_2019_07 =
 				"name": "Jon Schleuss 🦅",
 				"screen_name": "gaufre",
 				"location": "Los Angeles, CA",
-				"description": "Running for @news_guild president. Data/graphics/coding journalist @latimes, activist @latguild, educator @USCAnnenberg. From Arkansas. he/him ✊🏳️‍🌈",
+				"description": "Running for @news_guild president. Data/graphics/coding journalist @latimes, activist @latguild, educator @USCAnnenberg. From Arkansas. he/him ✊🏳️🌈",
 				"url": "https://t.co/H19cgwNPKn",
 				"entities": {
 					"url": {
