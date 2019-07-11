@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 10 23:44:31 +0000 2019",
+		"id": 1148691447769473000,
+		"id_str": "1149102127907606528",
+		"full_text": "Today the Gutenberg–Richter relationship came up while talking with CalTech's Dr. Egill Hauksson about the aftershocks out near Ridgecrest. I potted this chart showing the decreasing frequency following a magnitude 6.4 and magnitude 7.1 earthquake on July 4 and July 5. https://t.co/qetopCcq5G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148690952166371300,
+					"id_str": "1148690952166371328",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D_D4VcCU8AAV49f.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_D4VcCU8AAV49f.png",
+					"url": "https://t.co/qetopCcq5G",
+					"display_url": "pic.twitter.com/qetopCcq5G",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1148691447769473024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148690952166371300,
+					"id_str": "1148690952166371328",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D_D4VcCU8AAV49f.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_D4VcCU8AAV49f.png",
+					"url": "https://t.co/qetopCcq5G",
+					"display_url": "pic.twitter.com/qetopCcq5G",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1148691447769473024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 963122095747035100,
+			"id_str": "963122095747035136",
+			"name": "Chris Keller",
+			"screen_name": "ChrisLKellerLAT",
+			"location": "Los Angeles, CA",
+			"description": "Digital & visual journalist for The Times’ 2020 election team. Former @KPCC, @madisondotcom, @nwi & @TheSPEagle. A more official-er account of @ChrisLKeller",
+			"url": "https://t.co/QPwW7wUqUW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QPwW7wUqUW",
+							"expanded_url": "http://www.latimes.com/la-bio-chris-keller-staff.html",
+							"display_url": "latimes.com/la-bio-chris-k…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 68,
+			"listed_count": 14,
+			"created_at": "Mon Feb 12 18:46:16 +0000 2018",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/963122095747035136/1518462904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today the Gutenberg–Richter relationship came up while talking with CalTech's Dr. Egill Hauksson about the aftershocks out near Ridgecrest. I potted this chart showing the decreasing frequency following a magnitude 6.4 and magnitude 7.1 earthquake on July 4 and July 5. https://t.co/qetopCcq5G"
+	},
+	{
 		"created_at": "Wed Jul 10 15:49:52 +0000 2019",
 		"id": 1148981195373305900,
 		"id_str": "1148982677782925312",
@@ -116,7 +290,7 @@ Grailbird.data.tweets_2019_07 =
 			"name": "Jon Schleuss 🦅",
 			"screen_name": "gaufre",
 			"location": "Los Angeles, CA",
-			"description": "Running for @news_guild president. Data/graphics/coding journalist @latimes, activist @latguild, educator @USCAnnenberg. From Arkansas. he/him ✊🏳️‍🌈",
+			"description": "Running for @news_guild president. Data/graphics/coding journalist @latimes, activist @latguild, educator @USCAnnenberg. From Arkansas. he/him ✊🏳️🌈",
 			"url": "https://t.co/H19cgwNPKn",
 			"entities": {
 				"url": {
