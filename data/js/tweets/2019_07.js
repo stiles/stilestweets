@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 12 21:33:14 +0000 2019",
+		"id": 1149793866528112600,
+		"id_str": "1149793866528112640",
+		"full_text": "👏👏 https://t.co/3mWMdOfTY9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3mWMdOfTY9",
+					"expanded_url": "https://twitter.com/AmandaMoMorris/status/1149793580770365441",
+					"display_url": "twitter.com/AmandaMoMorris…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10870,
+			"friends_count": 1650,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1149793580770365400,
+		"quoted_status_id_str": "1149793580770365441",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3mWMdOfTY9",
+			"expanded": "https://twitter.com/AmandaMoMorris/status/1149793580770365441",
+			"display": "twitter.com/AmandaMoMorris…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 12 21:32:06 +0000 2019",
+			"id": 1149793580770365400,
+			"id_str": "1149793580770365441",
+			"full_text": "My goal for my 56 working days with the AP was to write at least 30 articles. With a few more articles still left to publish, I will have reported at least 31 stories for the AP, many of which were enterprise pieces ☺️ https://t.co/hXF2Equtql",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1149793574206226400,
+						"id_str": "1149793574206226440",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/D_TjKfOWwAg9M6M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_TjKfOWwAg9M6M.jpg",
+						"url": "https://t.co/hXF2Equtql",
+						"display_url": "pic.twitter.com/hXF2Equtql",
+						"expanded_url": "https://twitter.com/AmandaMoMorris/status/1149793580770365441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 899,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1534,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1149793574206226400,
+						"id_str": "1149793574206226440",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/D_TjKfOWwAg9M6M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_TjKfOWwAg9M6M.jpg",
+						"url": "https://t.co/hXF2Equtql",
+						"display_url": "pic.twitter.com/hXF2Equtql",
+						"expanded_url": "https://twitter.com/AmandaMoMorris/status/1149793580770365441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 899,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1534,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1149793569353404400,
+			"in_reply_to_status_id_str": "1149793569353404416",
+			"in_reply_to_user_id": 514998917,
+			"in_reply_to_user_id_str": "514998917",
+			"in_reply_to_screen_name": "AmandaMoMorris",
+			"user": {
+				"id": 514998917,
+				"id_str": "514998917",
+				"name": "Amanda Morris",
+				"screen_name": "AmandaMoMorris",
+				"location": "Raleigh, NC",
+				"description": "North Carolina reporter for @AP. Former @NPR, @CNN, @hartfordcourant, @MSNBC, @rep_am & @NYU. I 💙ASL 🤟🏼Send dog memes & pitches/tips to amorris@ap.org",
+				"url": "https://t.co/U7NgcyHwiU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U7NgcyHwiU",
+								"expanded_url": "https://amandamo256.wixsite.com/website",
+								"display_url": "amandamo256.wixsite.com/website",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 870,
+				"friends_count": 1503,
+				"listed_count": 30,
+				"created_at": "Mon Mar 05 02:15:12 +0000 2012",
+				"favourites_count": 5105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4827,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1052950519952678912/iu9uRZoc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052950519952678912/iu9uRZoc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/514998917/1484855047",
+				"profile_link_color": "3CB224",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👏👏 https://t.co/3mWMdOfTY9"
+	},
+	{
 		"created_at": "Fri Jul 12 18:37:28 +0000 2019",
 		"id": 1149749634182479900,
 		"id_str": "1149749634182479872",
