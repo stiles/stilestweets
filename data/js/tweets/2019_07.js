@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 02:28:28 +0000 2019",
+		"id": 1149804624544538600,
+		"id_str": "1149868162696937472",
+		"full_text": "TY @kathrynbarger and her staff! \n\nSoon all voters will be able to read their ballot in 13 languages, hear the audio ballot, use an adjustable touchscreen (w/ ability to increase text size &amp; change contrast) &amp; much more...and yes, there will be a paper ballot 🗳 https://t.co/OcTsrpqonT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kathrynbarger",
+					"name": "Kathryn Barger",
+					"id": 3165949670,
+					"id_str": "3165949670",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149804619872104400,
+					"id_str": "1149804619872104448",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D_TtNbiUcAACqSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_TtNbiUcAACqSI.jpg",
+					"url": "https://t.co/OcTsrpqonT",
+					"display_url": "pic.twitter.com/OcTsrpqonT",
+					"expanded_url": "https://twitter.com/LACountyRRCC/status/1149804624544538624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1832,
+							"h": 1374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149804619872104400,
+					"id_str": "1149804619872104448",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D_TtNbiUcAACqSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_TtNbiUcAACqSI.jpg",
+					"url": "https://t.co/OcTsrpqonT",
+					"display_url": "pic.twitter.com/OcTsrpqonT",
+					"expanded_url": "https://twitter.com/LACountyRRCC/status/1149804624544538624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1832,
+							"h": 1374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21807663,
+			"id_str": "21807663",
+			"name": "Dean Logan, RR/CC",
+			"screen_name": "LACountyRRCC",
+			"location": "Los Angeles County",
+			"description": "L.A. County Registrar-Recorder/County Clerk | Elections? We conduct them.\nRecords? We have those.\nGetting Married? We do that too.\nhttps://t.co/yo9p8vsY6o",
+			"url": "http://t.co/VkLKHVYxBl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VkLKHVYxBl",
+							"expanded_url": "http://www.lavote.net",
+							"display_url": "lavote.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yo9p8vsY6o",
+							"expanded_url": "http://www.lavote.net/documents/media/RRCC_SMSDisclaimers.pdf",
+							"display_url": "lavote.net/documents/medi…",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6097,
+			"friends_count": 1416,
+			"listed_count": 251,
+			"created_at": "Tue Feb 24 22:40:37 +0000 2009",
+			"favourites_count": 4962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21807663/1547512642",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TY @kathrynbarger and her staff! \n\nSoon all voters will be able to read their ballot in 13 languages, hear the audio ballot, use an adjustable touchscreen (w/ ability to increase text size &amp; change contrast) &amp; much more...and yes, there will be a paper ballot 🗳 https://t.co/OcTsrpqonT"
+	},
+	{
 		"created_at": "Fri Jul 12 21:33:14 +0000 2019",
 		"id": 1149793866528112600,
 		"id_str": "1149793866528112640",
