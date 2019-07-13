@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 03:38:54 +0000 2019",
+		"id": 1149678107458097200,
+		"id_str": "1149885889994117120",
+		"full_text": ".@GustavoArellano doing that thing that makes him Gustavo Arellano and the rest of us not Gustavo Arellano https://t.co/v2KbLjE79v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GustavoArellano",
+					"name": "GustavoArellano",
+					"id": 15518170,
+					"id_str": "15518170",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v2KbLjE79v",
+					"expanded_url": "https://www.latimes.com/food/naugles-tacos-fountain-valley-story.html",
+					"display_url": "latimes.com/food/naugles-t…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17796018,
+			"id_str": "17796018",
+			"name": "L.A. Times Food",
+			"screen_name": "latimesfood",
+			"location": "Los Angeles, CA",
+			"description": "News, recipes and reviews from the @latimes food staff.",
+			"url": "https://t.co/WjrLVRJJGN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WjrLVRJJGN",
+							"expanded_url": "http://latimes.com/food",
+							"display_url": "latimes.com/food",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 564414,
+			"friends_count": 12255,
+			"listed_count": 7020,
+			"created_at": "Tue Dec 02 01:50:25 +0000 2008",
+			"favourites_count": 3757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043219223454146560/Yj6PqSou_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043219223454146560/Yj6PqSou_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17796018/1554989873",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@GustavoArellano doing that thing that makes him Gustavo Arellano and the rest of us not Gustavo Arellano https://t.co/v2KbLjE79v"
+	},
+	{
 		"created_at": "Sat Jul 13 02:28:28 +0000 2019",
 		"id": 1149804624544538600,
 		"id_str": "1149868162696937472",
