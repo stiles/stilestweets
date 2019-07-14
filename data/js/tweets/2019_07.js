@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 14 15:15:23 +0000 2019",
+		"id": 1150248024830087200,
+		"id_str": "1150423552006356992",
+		"full_text": "To the guy on my flight who got out of his seat and marched down the aisle to tell a beleaguered mother to quiet her fussy toddler: may you one day be stuck on a flight with your own inconsolable toddler and suddenly realize, with searing clarity, what an asshole you once were.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 235409684,
+			"id_str": "235409684",
+			"name": "Pamela Colloff",
+			"screen_name": "pamelacolloff",
+			"location": "Austin, TX",
+			"description": "ProPublica senior reporter + NY Times Magazine staff writer. Texas Monthly alum. Criminal justice reporter, storyteller, curious person.",
+			"url": "https://t.co/P776PdjzcF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P776PdjzcF",
+							"expanded_url": "https://www.propublica.org/site/author/pamela_colloff",
+							"display_url": "propublica.org/site/author/pa…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27937,
+			"friends_count": 2332,
+			"listed_count": 683,
+			"created_at": "Sat Jan 08 03:22:47 +0000 2011",
+			"favourites_count": 28321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458978286379356160/477PmqUF_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458978286379356160/477PmqUF_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/235409684/1479227090",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 2010,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To the guy on my flight who got out of his seat and marched down the aisle to tell a beleaguered mother to quiet her fussy toddler: may you one day be stuck on a flight with your own inconsolable toddler and suddenly realize, with searing clarity, what an asshole you once were."
+	},
+	{
 		"created_at": "Sun Jul 14 06:38:34 +0000 2019",
 		"id": 1150293492725211100,
 		"id_str": "1150293492725211137",
