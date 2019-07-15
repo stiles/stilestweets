@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 15 14:09:40 +0000 2019",
+		"id": 1150625764158480400,
+		"id_str": "1150769404562399232",
+		"full_text": "Powerful @latimes editorial: “We shouldn’t rise to his bait, but how can we not? If we ignore him, we normalize his reckless behavior, and that’s even worse.” https://t.co/wVjN7la7hH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wVjN7la7hH",
+					"expanded_url": "https://www.latimes.com/opinion/editorials/la-ed-trump-aoc-squad-ilhan-bigoted-tweets-20190714-story.html",
+					"display_url": "latimes.com/opinion/editor…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198481,
+			"id_str": "1198481",
+			"name": "Sewell Chan",
+			"screen_name": "sewellchan",
+			"location": "Los Angeles",
+			"description": "Deputy Managing Editor @latimes; previously @nytimes @washingtonpost; aspiring Californian",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33610,
+			"friends_count": 3301,
+			"listed_count": 1065,
+			"created_at": "Thu Mar 15 02:38:28 +0000 2007",
+			"favourites_count": 21545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198481/1511924158",
+			"profile_link_color": "92A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 827,
+		"favorite_count": 2411,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Powerful @latimes editorial: “We shouldn’t rise to his bait, but how can we not? If we ignore him, we normalize his reckless behavior, and that’s even worse.” https://t.co/wVjN7la7hH"
+	},
+	{
 		"created_at": "Sun Jul 14 15:15:23 +0000 2019",
 		"id": 1150248024830087200,
 		"id_str": "1150423552006356992",
