@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 19:57:40 +0000 2019",
+		"id": 1151186967184285700,
+		"id_str": "1151219367201239040",
+		"full_text": "The @latimes has a new look! The redesign frees us from all the stuff imposed by tronc, including a bunch of janky ads. You'll see a cleaner page, with fewer ads overall and faster load times. https://t.co/ehhe8CF0SY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ehhe8CF0SY",
+					"expanded_url": "https://www.latimes.com/about/pressreleases/story/2019-07-16/graphene-cms",
+					"display_url": "latimes.com/about/pressrel…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16538210,
+			"id_str": "16538210",
+			"name": "Laura J. Nelson 🦅",
+			"screen_name": "laura_nelson",
+			"location": "Los Angeles, CA",
+			"description": "@latimes transportation reporter. I cover 🚙, 🚌, 🚇, 🚲, 🚶🏽‍♀️, 🛴 and more. Proud @latguild organizer. Kansan. Plant lady. Tips? laura.nelson@latimes(.)com",
+			"url": "https://t.co/PXMg3UiFM4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PXMg3UiFM4",
+							"expanded_url": "http://lat.ms/1nh6tnA",
+							"display_url": "lat.ms/1nh6tnA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25409,
+			"friends_count": 998,
+			"listed_count": 954,
+			"created_at": "Wed Oct 01 01:20:51 +0000 2008",
+			"favourites_count": 45415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145498116889513984/tlXGofcy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145498116889513984/tlXGofcy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16538210/1561238838",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @latimes has a new look! The redesign frees us from all the stuff imposed by tronc, including a bunch of janky ads. You'll see a cleaner page, with fewer ads overall and faster load times. https://t.co/ehhe8CF0SY"
+	},
+	{
 		"created_at": "Tue Jul 16 14:36:24 +0000 2019",
 		"id": 1151138518837542900,
 		"id_str": "1151138518837542913",
