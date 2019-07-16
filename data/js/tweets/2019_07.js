@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 22:13:03 +0000 2019",
+		"id": 1151253437155168300,
+		"id_str": "1151253437155168256",
+		"full_text": "@latimes @brittanyhite @mkballinger Indeed! https://t.co/3eqb4Ac4QM",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "brittanyhite",
+					"name": "Brittany Hite",
+					"id": 39407743,
+					"id_str": "39407743",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "mkballinger",
+					"name": "Matt Ballinger",
+					"id": 207885367,
+					"id_str": "207885367",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1151253432893767700,
+					"id_str": "1151253432893767680",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D_oS5coVAAA2MGo.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_oS5coVAAA2MGo.png",
+					"url": "https://t.co/3eqb4Ac4QM",
+					"display_url": "pic.twitter.com/3eqb4Ac4QM",
+					"expanded_url": "https://twitter.com/stiles/status/1151253437155168256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 764,
+							"h": 514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151253432893767700,
+					"id_str": "1151253432893767680",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D_oS5coVAAA2MGo.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_oS5coVAAA2MGo.png",
+					"url": "https://t.co/3eqb4Ac4QM",
+					"display_url": "pic.twitter.com/3eqb4Ac4QM",
+					"expanded_url": "https://twitter.com/stiles/status/1151253437155168256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 764,
+							"h": 514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1151249674885484500,
+		"in_reply_to_status_id_str": "1151249674885484544",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10869,
+			"friends_count": 1655,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@latimes @brittanyhite @mkballinger Indeed! https://t.co/3eqb4Ac4QM"
+	},
+	{
 		"created_at": "Tue Jul 16 19:57:40 +0000 2019",
 		"id": 1151186967184285700,
 		"id_str": "1151219367201239040",
@@ -49,7 +254,7 @@ Grailbird.data.tweets_2019_07 =
 			"name": "Laura J. Nelson 🦅",
 			"screen_name": "laura_nelson",
 			"location": "Los Angeles, CA",
-			"description": "@latimes transportation reporter. I cover 🚙, 🚌, 🚇, 🚲, 🚶🏽‍♀️, 🛴 and more. Proud @latguild organizer. Kansan. Plant lady. Tips? laura.nelson@latimes(.)com",
+			"description": "@latimes transportation reporter. I cover 🚙, 🚌, 🚇, 🚲, 🚶🏽♀️, 🛴 and more. Proud @latguild organizer. Kansan. Plant lady. Tips? laura.nelson@latimes(.)com",
 			"url": "https://t.co/PXMg3UiFM4",
 			"entities": {
 				"url": {
