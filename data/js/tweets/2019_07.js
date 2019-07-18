@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 19:36:10 +0000 2019",
+		"id": 1151938514457641000,
+		"id_str": "1151938733978968064",
+		"full_text": "Pew finds that, over the last thirty years, the share of American adults that say they're paying attention to the upcoming presidential primaries at this point in the cycle has never been higher https://t.co/yOZCBswTkb https://t.co/bIoUAzpLgE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yOZCBswTkb",
+					"expanded_url": "https://www.people-press.org/2019/07/18/democrats-ratings-of-partys-2020-field-better-than-in-2016-similar-to-2008/",
+					"display_url": "people-press.org/2019/07/18/dem…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1151937861719081000,
+					"id_str": "1151937861719080961",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/D_yBYcsWwAEuX8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_yBYcsWwAEuX8y.jpg",
+					"url": "https://t.co/bIoUAzpLgE",
+					"display_url": "pic.twitter.com/bIoUAzpLgE",
+					"expanded_url": "https://twitter.com/gelliottmorris/status/1151938514457640960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 972,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 972,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151937861719081000,
+					"id_str": "1151937861719080961",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/D_yBYcsWwAEuX8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_yBYcsWwAEuX8y.jpg",
+					"url": "https://t.co/bIoUAzpLgE",
+					"display_url": "pic.twitter.com/bIoUAzpLgE",
+					"expanded_url": "https://twitter.com/gelliottmorris/status/1151938514457640960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 972,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 972,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57029492,
+			"id_str": "57029492",
+			"name": "G. Elliott Morris",
+			"screen_name": "gelliottmorris",
+			"location": "Washington, DC / London",
+			"description": "Data journalist for @TheEconomist. Write mostly about polls, elections, & political science. Past: @pewmethods @DecisionDeskHQ. @UTAustin grad🐂. Teach #rstats.",
+			"url": "https://t.co/YHogBUNSIR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YHogBUNSIR",
+							"expanded_url": "http://thecrosstab.com",
+							"display_url": "thecrosstab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33398,
+			"friends_count": 748,
+			"listed_count": 1075,
+			"created_at": "Wed Jul 15 14:24:06 +0000 2009",
+			"favourites_count": 33051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120334973179969536/hFIFotwv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120334973179969536/hFIFotwv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57029492/1555943648",
+			"profile_link_color": "3498DB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 42,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pew finds that, over the last thirty years, the share of American adults that say they're paying attention to the upcoming presidential primaries at this point in the cycle has never been higher https://t.co/yOZCBswTkb https://t.co/bIoUAzpLgE"
+	},
+	{
 		"created_at": "Thu Jul 18 15:37:00 +0000 2019",
 		"id": 1151878545058066400,
 		"id_str": "1151878545058066433",
