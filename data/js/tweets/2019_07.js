@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 15:37:00 +0000 2019",
+		"id": 1151878545058066400,
+		"id_str": "1151878545058066433",
+		"full_text": "These step-by-step tips by @DylanMoriarty for using makefiles, mapshaper (by @grammata) and the terminal for GIS workflows is super useful. \n\nPart 1: https://t.co/rywXEvk3bw \n\nPart 2: https://t.co/1kdY99etkV \n\nPart 3: Soon, I hope... https://t.co/F5lCmUP2a5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DylanMoriarty",
+					"name": "Dylan Moriarty",
+					"id": 481724987,
+					"id_str": "481724987",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "grammata",
+					"name": "Matthew Bloch",
+					"id": 15452472,
+					"id_str": "15452472",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rywXEvk3bw",
+					"expanded_url": "https://moriartynaps.org/command-carto-part-one/",
+					"display_url": "moriartynaps.org/command-carto-…",
+					"indices": [
+						150,
+						173
+					]
+				},
+				{
+					"url": "https://t.co/1kdY99etkV",
+					"expanded_url": "https://moriartynaps.org/command-carto-part-two",
+					"display_url": "moriartynaps.org/command-carto-…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1151878539139883000,
+					"id_str": "1151878539139883010",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/D_xLba3UIAIk9ZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_xLba3UIAIk9ZQ.jpg",
+					"url": "https://t.co/F5lCmUP2a5",
+					"display_url": "pic.twitter.com/F5lCmUP2a5",
+					"expanded_url": "https://twitter.com/stiles/status/1151878545058066433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1054,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151878539139883000,
+					"id_str": "1151878539139883010",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/D_xLba3UIAIk9ZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_xLba3UIAIk9ZQ.jpg",
+					"url": "https://t.co/F5lCmUP2a5",
+					"display_url": "pic.twitter.com/F5lCmUP2a5",
+					"expanded_url": "https://twitter.com/stiles/status/1151878545058066433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1054,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10873,
+			"friends_count": 1656,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These step-by-step tips by @DylanMoriarty for using makefiles, mapshaper (by @grammata) and the terminal for GIS workflows is super useful. \n\nPart 1: https://t.co/rywXEvk3bw \n\nPart 2: https://t.co/1kdY99etkV \n\nPart 3: Soon, I hope... https://t.co/F5lCmUP2a5"
+	},
+	{
 		"created_at": "Thu Jul 18 04:21:47 +0000 2019",
 		"id": 1151708620834271200,
 		"id_str": "1151708620834271232",
