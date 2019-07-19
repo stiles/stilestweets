@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 19 14:11:37 +0000 2019",
+		"id": 1151987487448784900,
+		"id_str": "1152219443616837632",
+		"full_text": "Our @JVittalTV on Thursday questioned Kentucky Senator Rand Paul about his objection to an attempt to quickly pass a bill ensuring the 9/11 Victim Compensation Fund never runs out of money. Here is video of their exchange. https://t.co/Dxx3yEnGlp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JvittalTV",
+					"name": "Jeevan Vittal",
+					"id": 240506490,
+					"id_str": "240506490",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1151987230044348400,
+					"id_str": "1151987230044348416",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1151987230044348416/pu/img/VOEdaqvr-GxDi9Be.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1151987230044348416/pu/img/VOEdaqvr-GxDi9Be.jpg",
+					"url": "https://t.co/Dxx3yEnGlp",
+					"display_url": "pic.twitter.com/Dxx3yEnGlp",
+					"expanded_url": "https://twitter.com/NY1/status/1151987487448784898/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151987230044348400,
+					"id_str": "1151987230044348416",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1151987230044348416/pu/img/VOEdaqvr-GxDi9Be.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1151987230044348416/pu/img/VOEdaqvr-GxDi9Be.jpg",
+					"url": "https://t.co/Dxx3yEnGlp",
+					"display_url": "pic.twitter.com/Dxx3yEnGlp",
+					"expanded_url": "https://twitter.com/NY1/status/1151987487448784898/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 114815,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1151987230044348416/pu/vid/640x360/DSiOiIClpX5n68e0.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1151987230044348416/pu/vid/480x270/rEYKFUhRFbyYZEsC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1151987230044348416/pu/pl/chg4anJpWS3Eo9mV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1151987230044348416/pu/vid/1280x720/5Tn9VXGPzTLTX6bb.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43425975,
+			"id_str": "43425975",
+			"name": "Spectrum News NY1",
+			"screen_name": "NY1",
+			"location": "New York City",
+			"description": "Spectrum News NY1 is a 24-hr news network in NYC. @NY1 is also on Facebook (NY1News) and Instagram (NY1).",
+			"url": "https://t.co/xPLV2Nm1aQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xPLV2Nm1aQ",
+							"expanded_url": "http://www.ny1.com",
+							"display_url": "ny1.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 447345,
+			"friends_count": 106,
+			"listed_count": 4275,
+			"created_at": "Fri May 29 22:37:45 +0000 2009",
+			"favourites_count": 1672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 105719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "19334C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834494355712966662/yLFVss5n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834494355712966662/yLFVss5n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43425975/1526580308",
+			"profile_link_color": "17324D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAE4EE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4197,
+		"favorite_count": 12344,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our @JVittalTV on Thursday questioned Kentucky Senator Rand Paul about his objection to an attempt to quickly pass a bill ensuring the 9/11 Victim Compensation Fund never runs out of money. Here is video of their exchange. https://t.co/Dxx3yEnGlp"
+	},
+	{
 		"created_at": "Fri Jul 19 14:09:18 +0000 2019",
 		"id": 1152217962193068000,
 		"id_str": "1152218861330022401",
