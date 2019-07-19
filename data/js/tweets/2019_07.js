@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 19 14:09:18 +0000 2019",
+		"id": 1152217962193068000,
+		"id_str": "1152218861330022401",
+		"full_text": "You should follow @dwtkns #ff because he makes maps like this: https://t.co/iUkGUwG95y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ff",
+					"indices": [
+						26,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dwtkns",
+					"name": "Derek Watkins",
+					"id": 352644923,
+					"id_str": "352644923",
+					"indices": [
+						18,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iUkGUwG95y",
+					"expanded_url": "https://www.nytimes.com/interactive/2019/07/19/us/california-earthquakes.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25096930,
+			"id_str": "25096930",
+			"name": "Hannah Fairfield",
+			"screen_name": "hfairfield",
+			"location": "",
+			"description": "Climate editor @ The New York Times. Alaska/New York/D.C. Always thinky, sometimes goofy.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12157,
+			"friends_count": 1060,
+			"listed_count": 744,
+			"created_at": "Wed Mar 18 16:05:12 +0000 2009",
+			"favourites_count": 1897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/830149527046848512/OvEzJIbk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/830149527046848512/OvEzJIbk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25096930/1444922049",
+			"profile_link_color": "2797B0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You should follow @dwtkns #ff because he makes maps like this: https://t.co/iUkGUwG95y"
+	},
+	{
+		"created_at": "Fri Jul 19 14:06:05 +0000 2019",
+		"id": 1152218052773027800,
+		"id_str": "1152218052773027840",
+		"full_text": "With a 4pm rain storm each day. https://t.co/x0fK5J5bjq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x0fK5J5bjq",
+					"expanded_url": "https://twitter.com/jeremybowers/status/1152217515747086337",
+					"display_url": "twitter.com/jeremybowers/s…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10872,
+			"friends_count": 1656,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1152217515747086300,
+		"quoted_status_id_str": "1152217515747086337",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x0fK5J5bjq",
+			"expanded": "https://twitter.com/jeremybowers/status/1152217515747086337",
+			"display": "twitter.com/jeremybowers/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 19 14:03:57 +0000 2019",
+			"id": 1152217515747086300,
+			"id_str": "1152217515747086337",
+			"full_text": "Everyone always thinks Florida is hotter than everywhere else. In reality, it's just an uninterrupted string of days with a high of 88 and a low of 82 with 80 percent humidity. https://t.co/Mf7fOyPNaH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Mf7fOyPNaH",
+						"expanded_url": "https://twitter.com/espnbob/status/1152217025038733312",
+						"display_url": "twitter.com/espnbob/status…",
+						"indices": [
+							177,
+							200
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8083262,
+				"id_str": "8083262",
+				"name": "Jeremy Bowers",
+				"screen_name": "jeremybowers",
+				"location": "Washington, D.C.",
+				"description": "Director of engineering, @wapoengineering. Adjunct @Duke_DeWitt. Priors: @nytinteractive, @nprviz, @tb_times. #TheSqueezle #TheGiblette @beckybowers",
+				"url": "https://t.co/bJcwfkCU7u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bJcwfkCU7u",
+								"expanded_url": "https://jeremybowers.com/",
+								"display_url": "jeremybowers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12901,
+				"friends_count": 4044,
+				"listed_count": 734,
+				"created_at": "Thu Aug 09 16:00:54 +0000 2007",
+				"favourites_count": 81229,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 67493,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150147850405318656/ABdXfBrr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150147850405318656/ABdXfBrr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8083262/1563076899",
+				"profile_link_color": "005599",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1152217025038733300,
+			"quoted_status_id_str": "1152217025038733312",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Mf7fOyPNaH",
+				"expanded": "https://twitter.com/espnbob/status/1152217025038733312",
+				"display": "twitter.com/espnbob/status…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With a 4pm rain storm each day. https://t.co/x0fK5J5bjq"
+	},
+	{
+		"created_at": "Fri Jul 19 13:58:55 +0000 2019",
+		"id": 1152216249901801500,
+		"id_str": "1152216249901801473",
+		"full_text": "\"Look, Simba, everything your mom lets us buy on the credit card is in our kingdom.\" \n\n#FakeLionKingQuotes https://t.co/AUanv9zKXN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FakeLionKingQuotes",
+					"indices": [
+						87,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152216245443240000,
+					"id_str": "1152216245443239937",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/D_1-kg4UIAEOJPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_1-kg4UIAEOJPQ.jpg",
+					"url": "https://t.co/AUanv9zKXN",
+					"display_url": "pic.twitter.com/AUanv9zKXN",
+					"expanded_url": "https://twitter.com/stiles/status/1152216249901801473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152216245443240000,
+					"id_str": "1152216245443239937",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/D_1-kg4UIAEOJPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_1-kg4UIAEOJPQ.jpg",
+					"url": "https://t.co/AUanv9zKXN",
+					"display_url": "pic.twitter.com/AUanv9zKXN",
+					"expanded_url": "https://twitter.com/stiles/status/1152216249901801473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10872,
+			"friends_count": 1656,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Look, Simba, everything your mom lets us buy on the credit card is in our kingdom.\" \n\n#FakeLionKingQuotes https://t.co/AUanv9zKXN"
+	},
+	{
 		"created_at": "Fri Jul 19 03:05:35 +0000 2019",
 		"id": 1152051694299242500,
 		"id_str": "1152051832841068545",
