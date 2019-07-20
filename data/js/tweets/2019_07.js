@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 20 17:52:22 +0000 2019",
+		"id": 1152431873814962200,
+		"id_str": "1152637386842501120",
+		"full_text": "I want my friend out.. I appreciate you trying to help him. But while your at it @realDonaldTrump can you also let those kids out of cages?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						81,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27260086,
+			"id_str": "27260086",
+			"name": "Justin Bieber",
+			"screen_name": "justinbieber",
+			"location": "",
+			"description": "Let's make the world better.",
+			"url": "https://t.co/zH6j1DtFZj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zH6j1DtFZj",
+							"expanded_url": "https://atlanti.cr/IDontCare",
+							"display_url": "atlanti.cr/IDontCare",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106009614,
+			"friends_count": 297738,
+			"listed_count": 585214,
+			"created_at": "Sat Mar 28 16:41:22 +0000 2009",
+			"favourites_count": 3361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 30455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898295311893880832/bCps4HFV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898295311893880832/bCps4HFV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27260086/1557460277",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131627,
+		"favorite_count": 553321,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I want my friend out.. I appreciate you trying to help him. But while your at it @realDonaldTrump can you also let those kids out of cages?"
+	},
+	{
 		"created_at": "Fri Jul 19 20:06:41 +0000 2019",
 		"id": 1152308802156240900,
 		"id_str": "1152308802156240896",
