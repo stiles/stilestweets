@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 22 17:48:23 +0000 2019",
+		"id": 1153361093529440300,
+		"id_str": "1153361161540100097",
+		"full_text": "Desert floor shatters in stunning before-and-after satellite images of Ridgecrest quake https://t.co/vBYH7KVbIa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vBYH7KVbIa",
+					"expanded_url": "https://lat.ms/2Y2puE0",
+					"display_url": "lat.ms/2Y2puE0",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17036898,
+			"id_str": "17036898",
+			"name": "L.A. Times: L.A. Now",
+			"screen_name": "LANow",
+			"location": "Los Angeles, CA",
+			"description": "Southern California -- this just in. News from L.A. and beyond from the Los Angeles Times. See @latimes for more news.",
+			"url": "https://t.co/6k4qSdf5J8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6k4qSdf5J8",
+							"expanded_url": "http://latimes.com/now",
+							"display_url": "latimes.com/now",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 521284,
+			"friends_count": 603,
+			"listed_count": 4079,
+			"created_at": "Wed Oct 29 05:55:55 +0000 2008",
+			"favourites_count": 453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043218383141928961/i7P3LHYw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043218383141928961/i7P3LHYw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17036898/1520220820",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Desert floor shatters in stunning before-and-after satellite images of Ridgecrest quake https://t.co/vBYH7KVbIa"
+	},
+	{
+		"created_at": "Mon Jul 22 17:33:33 +0000 2019",
+		"id": 1153357428047528000,
+		"id_str": "1153357428047527936",
+		"full_text": "@CountyofLA Here's an early look at some of the specific proposed fee changes at @CountyofLA beaches. Do you park at these beaches? Any concern about the changes? Let me know: matt.stiles [at] latimes [dot] com. DMs open. https://t.co/i4yZK464LS",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						81,
+						92
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1153357408615272400,
+					"id_str": "1153357408615272454",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EAGMc8-UEAYgLEQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAGMc8-UEAYgLEQ.png",
+					"url": "https://t.co/i4yZK464LS",
+					"display_url": "pic.twitter.com/i4yZK464LS",
+					"expanded_url": "https://twitter.com/stiles/status/1153357428047527936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 851,
+							"h": 621,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 621,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153357408615272400,
+					"id_str": "1153357408615272454",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EAGMc8-UEAYgLEQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAGMc8-UEAYgLEQ.png",
+					"url": "https://t.co/i4yZK464LS",
+					"display_url": "pic.twitter.com/i4yZK464LS",
+					"expanded_url": "https://twitter.com/stiles/status/1153357428047527936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 851,
+							"h": 621,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 621,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1153357408678236200,
+					"id_str": "1153357408678236160",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EAGMc9NU0AA7Zma.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAGMc9NU0AA7Zma.png",
+					"url": "https://t.co/i4yZK464LS",
+					"display_url": "pic.twitter.com/i4yZK464LS",
+					"expanded_url": "https://twitter.com/stiles/status/1153357428047527936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 835,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 835,
+							"h": 426,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1153357408774656000,
+					"id_str": "1153357408774656000",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EAGMc9kUEAAAIm7.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAGMc9kUEAAAIm7.png",
+					"url": "https://t.co/i4yZK464LS",
+					"display_url": "pic.twitter.com/i4yZK464LS",
+					"expanded_url": "https://twitter.com/stiles/status/1153357428047527936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 838,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1153356433594835000,
+		"in_reply_to_status_id_str": "1153356433594834944",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10872,
+			"friends_count": 1657,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CountyofLA Here's an early look at some of the specific proposed fee changes at @CountyofLA beaches. Do you park at these beaches? Any concern about the changes? Let me know: matt.stiles [at] latimes [dot] com. DMs open. https://t.co/i4yZK464LS"
+	},
+	{
 		"created_at": "Sun Jul 21 17:19:52 +0000 2019",
 		"id": 1152991595274227700,
 		"id_str": "1152991595274227712",
