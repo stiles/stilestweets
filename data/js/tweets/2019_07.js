@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 23 19:16:56 +0000 2019",
+		"id": 1153697841115783200,
+		"id_str": "1153745830534234112",
+		"full_text": "Very grateful to @mayalau (whose reporting I have admired for many years!) for taking the time to talk about her work &amp; LA’s new sheriff https://t.co/lkHc8sv3Pw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mayalau",
+					"name": "Maya Lau 🦅",
+					"id": 74304212,
+					"id_str": "74304212",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lkHc8sv3Pw",
+					"expanded_url": "https://twitter.com/latimes/status/1153696502054871040",
+					"display_url": "twitter.com/latimes/status…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13479902,
+			"id_str": "13479902",
+			"name": "Julia Wick",
+			"screen_name": "sherlyholmes",
+			"location": "LA",
+			"description": "@latimes metro reporter & Essential California newsletter author (subscribe here: https://t.co/FxOtLkVeGE) Former EIC of @LAist. Native Angeleno.",
+			"url": "https://t.co/9nLR6Wm4Ya",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9nLR6Wm4Ya",
+							"expanded_url": "https://www.latimes.com/la-bio-julia-wick-staff.html",
+							"display_url": "latimes.com/la-bio-julia-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FxOtLkVeGE",
+							"expanded_url": "https://lat.ms/2JG6TWt",
+							"display_url": "lat.ms/2JG6TWt",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6910,
+			"friends_count": 1974,
+			"listed_count": 162,
+			"created_at": "Thu Feb 14 17:24:54 +0000 2008",
+			"favourites_count": 11177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142103733469237248/SnmpFu-K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142103733469237248/SnmpFu-K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13479902/1502071398",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1153696502054871000,
+		"quoted_status_id_str": "1153696502054871040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lkHc8sv3Pw",
+			"expanded": "https://twitter.com/latimes/status/1153696502054871040",
+			"display": "twitter.com/latimes/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 23 16:00:55 +0000 2019",
+			"id": 1153696502054871000,
+			"id_str": "1153696502054871040",
+			"full_text": "What exactly is happening with the new L.A. County sheriff? An Essential California explainer, from @sherlyholmes: https://t.co/Zcwdpbd9Fm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sherlyholmes",
+						"name": "Julia Wick",
+						"id": 13479902,
+						"id_str": "13479902",
+						"indices": [
+							100,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Zcwdpbd9Fm",
+						"expanded_url": "http://ow.ly/ndIL30pbODl",
+						"display_url": "ow.ly/ndIL30pbODl",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16664681,
+				"id_str": "16664681",
+				"name": "Los Angeles Times",
+				"screen_name": "latimes",
+				"location": "El Segundo, CA",
+				"description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/4UQaQvNbCp",
+				"url": "https://t.co/eTksmynSH7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eTksmynSH7",
+								"expanded_url": "http://latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4UQaQvNbCp",
+								"expanded_url": "http://checkout2.latimes.com",
+								"display_url": "checkout2.latimes.com",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3406087,
+				"friends_count": 6924,
+				"listed_count": 31855,
+				"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+				"favourites_count": 2292,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 234373,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043205431340892160/uvDP6wTZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043205431340892160/uvDP6wTZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "615F61",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very grateful to @mayalau (whose reporting I have admired for many years!) for taking the time to talk about her work &amp; LA’s new sheriff https://t.co/lkHc8sv3Pw"
+	},
+	{
 		"created_at": "Tue Jul 23 16:41:42 +0000 2019",
 		"id": 1153706674785415200,
 		"id_str": "1153706765956947968",
