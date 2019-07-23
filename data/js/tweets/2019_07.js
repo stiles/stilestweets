@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 23 16:41:42 +0000 2019",
+		"id": 1153706674785415200,
+		"id_str": "1153706765956947968",
+		"full_text": "@LACOFD @LACoFDPIO #LACounty beaches from #BigRock to #Torrance are closed due to #lightning. @LACoLifeguards will remain in contact with @NWSLosAngeles for the latest information.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LACounty",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"text": "BigRock",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"text": "Torrance",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "lightning",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACOFD",
+					"name": "LACoFD",
+					"id": 308751479,
+					"id_str": "308751479",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "LACoFDPIO",
+					"name": "L.A. County Fire Department",
+					"id": 919373695,
+					"id_str": "919373695",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "LACoLifeguards",
+					"name": "LACoFD Lifeguards",
+					"id": 581437812,
+					"id_str": "581437812",
+					"indices": [
+						94,
+						109
+					]
+				},
+				{
+					"screen_name": "NWSLosAngeles",
+					"name": "NWS Los Angeles",
+					"id": 599632006,
+					"id_str": "599632006",
+					"indices": [
+						138,
+						152
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1153705695461531600,
+		"in_reply_to_status_id_str": "1153705695461531648",
+		"in_reply_to_user_id": 581437812,
+		"in_reply_to_user_id_str": "581437812",
+		"in_reply_to_screen_name": "LACoLifeguards",
+		"user": {
+			"id": 581437812,
+			"id_str": "581437812",
+			"name": "LACoFD Lifeguards",
+			"screen_name": "LACoLifeguards",
+			"location": "L.A. County - The Beach",
+			"description": "Welcome to the OFFICIAL Twitter page of the Los Angeles County Fire Department, Lifeguard Division.\nFor an Emergency dial 9-1-1.\n*Account not monitored 24/7*",
+			"url": "https://t.co/1sDg8B1VdK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1sDg8B1VdK",
+							"expanded_url": "https://www.fire.lacounty.gov/lifeguard/recruitment/",
+							"display_url": "fire.lacounty.gov/lifeguard/recr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11624,
+			"friends_count": 493,
+			"listed_count": 301,
+			"created_at": "Tue May 15 23:56:15 +0000 2012",
+			"favourites_count": 4350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/823587836062351362/Mezw3RGG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/823587836062351362/Mezw3RGG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/581437812/1485472865",
+			"profile_link_color": "0B3E8A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LACOFD @LACoFDPIO #LACounty beaches from #BigRock to #Torrance are closed due to #lightning. @LACoLifeguards will remain in contact with @NWSLosAngeles for the latest information."
+	},
+	{
+		"created_at": "Tue Jul 23 16:40:29 +0000 2019",
+		"id": 1153706458904531000,
+		"id_str": "1153706458904530944",
+		"full_text": "The @CountyofLA inspector general found that @LACoSheriff — who campaigned on lenient deputy discipline — has launched fewer investigations into misconduct than any other sheriff in the last decade. His department is also closing cases early, report says: https://t.co/CV0RZ2uPnb https://t.co/Hh2kouOa6h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"screen_name": "LACoSheriff",
+					"name": "Alex Villanueva",
+					"id": 1067499378175238100,
+					"id_str": "1067499378175238144",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CV0RZ2uPnb",
+					"expanded_url": "https://oig.lacounty.gov/Portals/OIG/Reports/72219Rpt.pdf?ver=2019-07-23-091227-573",
+					"display_url": "oig.lacounty.gov/Portals/OIG/Re…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1153706453821087700,
+					"id_str": "1153706453821087744",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EALJ6DsU4AAVBoD.png",
+					"media_url_https": "https://pbs.twimg.com/media/EALJ6DsU4AAVBoD.png",
+					"url": "https://t.co/Hh2kouOa6h",
+					"display_url": "pic.twitter.com/Hh2kouOa6h",
+					"expanded_url": "https://twitter.com/stiles/status/1153706458904530944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 506,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 506,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153706453821087700,
+					"id_str": "1153706453821087744",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EALJ6DsU4AAVBoD.png",
+					"media_url_https": "https://pbs.twimg.com/media/EALJ6DsU4AAVBoD.png",
+					"url": "https://t.co/Hh2kouOa6h",
+					"display_url": "pic.twitter.com/Hh2kouOa6h",
+					"expanded_url": "https://twitter.com/stiles/status/1153706458904530944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 506,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 506,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10870,
+			"friends_count": 1657,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @CountyofLA inspector general found that @LACoSheriff — who campaigned on lenient deputy discipline — has launched fewer investigations into misconduct than any other sheriff in the last decade. His department is also closing cases early, report says: https://t.co/CV0RZ2uPnb https://t.co/Hh2kouOa6h"
+	},
+	{
 		"created_at": "Tue Jul 23 03:16:52 +0000 2019",
 		"id": 1153504224078000000,
 		"id_str": "1153504224078000128",
