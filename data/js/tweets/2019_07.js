@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 24 21:15:49 +0000 2019",
+		"id": 1154138136756121600,
+		"id_str": "1154138136756121601",
+		"full_text": "The county's child-welfare agency has changed how it handles cases in which social workers get a warrant to remove a child from a home but don't. Such cases are also super rare, deepening the mystery about what happened in the Noah Cuatro death. My latest: https://t.co/BDt9DNDIu5 https://t.co/ZpBM8YbR2P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BDt9DNDIu5",
+					"expanded_url": "https://www.latimes.com/california/story/2019-07-24/dcfs-palmdale-boy-death-noah-cuatro-child-abuse",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1154138134512226300,
+					"id_str": "1154138134512226306",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EARShLlVUAId5xL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARShLlVUAId5xL.jpg",
+					"url": "https://t.co/ZpBM8YbR2P",
+					"display_url": "pic.twitter.com/ZpBM8YbR2P",
+					"expanded_url": "https://twitter.com/stiles/status/1154138136756121601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154138134512226300,
+					"id_str": "1154138134512226306",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EARShLlVUAId5xL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARShLlVUAId5xL.jpg",
+					"url": "https://t.co/ZpBM8YbR2P",
+					"display_url": "pic.twitter.com/ZpBM8YbR2P",
+					"expanded_url": "https://twitter.com/stiles/status/1154138136756121601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10875,
+			"friends_count": 1658,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The county's child-welfare agency has changed how it handles cases in which social workers get a warrant to remove a child from a home but don't. Such cases are also super rare, deepening the mystery about what happened in the Noah Cuatro death. My latest: https://t.co/BDt9DNDIu5 https://t.co/ZpBM8YbR2P"
+	},
+	{
 		"created_at": "Wed Jul 24 15:17:25 +0000 2019",
 		"id": 1153657194186829800,
 		"id_str": "1154047944959508481",
