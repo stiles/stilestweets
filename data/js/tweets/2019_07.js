@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 24 21:28:11 +0000 2019",
+		"id": 1154141247667179500,
+		"id_str": "1154141247667179521",
+		"full_text": "@CountyofLA @LADCFSDirector What we do know is that the policy change outlined in the story would require social workers to notify the @LADCFSDirector in the rare cases in which they don't execute court orders to remove kids from abusive homes. Here's an illustration of the policy change: https://t.co/HHEruA2cBT",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "LADCFSDirector",
+					"name": "Bobby Cagle",
+					"id": 342726981,
+					"id_str": "342726981",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "LADCFSDirector",
+					"name": "Bobby Cagle",
+					"id": 342726981,
+					"id_str": "342726981",
+					"indices": [
+						135,
+						150
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154141243711975400,
+					"id_str": "1154141243711975424",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/EARVWKQUcAAFR26.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARVWKQUcAAFR26.jpg",
+					"url": "https://t.co/HHEruA2cBT",
+					"display_url": "pic.twitter.com/HHEruA2cBT",
+					"expanded_url": "https://twitter.com/stiles/status/1154141247667179521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 840,
+							"h": 992,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 576,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 992,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154141243711975400,
+					"id_str": "1154141243711975424",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/EARVWKQUcAAFR26.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARVWKQUcAAFR26.jpg",
+					"url": "https://t.co/HHEruA2cBT",
+					"display_url": "pic.twitter.com/HHEruA2cBT",
+					"expanded_url": "https://twitter.com/stiles/status/1154141247667179521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 840,
+							"h": 992,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 576,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 992,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154140604508430300,
+		"in_reply_to_status_id_str": "1154140604508430336",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10874,
+			"friends_count": 1658,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CountyofLA @LADCFSDirector What we do know is that the policy change outlined in the story would require social workers to notify the @LADCFSDirector in the rare cases in which they don't execute court orders to remove kids from abusive homes. Here's an illustration of the policy change: https://t.co/HHEruA2cBT"
+	},
+	{
+		"created_at": "Wed Jul 24 21:25:37 +0000 2019",
+		"id": 1154140604508430300,
+		"id_str": "1154140604508430336",
+		"full_text": "As I mention in the story  (https://t.co/BDt9DNDIu5) the @CountyofLA sheriff, district attorney and medical examiner-coroner have released few details in the three weeks since Cuatro's death. @LADCFSDirector also hasn't explained his caseworkers' actions.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"screen_name": "LADCFSDirector",
+					"name": "Bobby Cagle",
+					"id": 342726981,
+					"id_str": "342726981",
+					"indices": [
+						192,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BDt9DNDIu5",
+					"expanded_url": "https://www.latimes.com/california/story/2019-07-24/dcfs-palmdale-boy-death-noah-cuatro-child-abuse",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154139705832689700,
+		"in_reply_to_status_id_str": "1154139705832689664",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10874,
+			"friends_count": 1658,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As I mention in the story  (https://t.co/BDt9DNDIu5) the @CountyofLA sheriff, district attorney and medical examiner-coroner have released few details in the three weeks since Cuatro's death. @LADCFSDirector also hasn't explained his caseworkers' actions."
+	},
+	{
+		"created_at": "Wed Jul 24 21:22:03 +0000 2019",
+		"id": 1154139705832689700,
+		"id_str": "1154139705832689664",
+		"full_text": "We still don't know, however, why child welfare authorities  — despite numerous complaints of abuse and a court order —  didn't remove Cuatro, age 4, before his death under suspicious circumstances. https://t.co/BDt9DNDIu5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BDt9DNDIu5",
+					"expanded_url": "https://www.latimes.com/california/story/2019-07-24/dcfs-palmdale-boy-death-noah-cuatro-child-abuse",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1154139229611364400,
+		"in_reply_to_status_id_str": "1154139229611364352",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10874,
+			"friends_count": 1658,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We still don't know, however, why child welfare authorities  — despite numerous complaints of abuse and a court order —  didn't remove Cuatro, age 4, before his death under suspicious circumstances. https://t.co/BDt9DNDIu5"
+	},
+	{
 		"created_at": "Wed Jul 24 21:15:49 +0000 2019",
 		"id": 1154138136756121600,
 		"id_str": "1154138136756121601",
