@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 25 01:33:11 +0000 2019",
+		"id": 1154135884809134000,
+		"id_str": "1154202904485494784",
+		"full_text": "Was driving home and saw the fire, it’s across the street from my house. (Reminds me that I need a fire extinguisher. ) #baldwinhills 40 firefighters and helicopter with water are fighting it https://t.co/uW1gHNQyvd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "baldwinhills",
+					"indices": [
+						120,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154135879348191200,
+					"id_str": "1154135879348191232",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EARQd6cVAAAIzaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARQd6cVAAAIzaJ.jpg",
+					"url": "https://t.co/uW1gHNQyvd",
+					"display_url": "pic.twitter.com/uW1gHNQyvd",
+					"expanded_url": "https://twitter.com/starbabyla/status/1154135884809134080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154135879348191200,
+					"id_str": "1154135879348191232",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EARQd6cVAAAIzaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARQd6cVAAAIzaJ.jpg",
+					"url": "https://t.co/uW1gHNQyvd",
+					"display_url": "pic.twitter.com/uW1gHNQyvd",
+					"expanded_url": "https://twitter.com/starbabyla/status/1154135884809134080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154135879348211700,
+					"id_str": "1154135879348211712",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EARQd6cVUAA5wAF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EARQd6cVUAA5wAF.jpg",
+					"url": "https://t.co/uW1gHNQyvd",
+					"display_url": "pic.twitter.com/uW1gHNQyvd",
+					"expanded_url": "https://twitter.com/starbabyla/status/1154135884809134080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121877206,
+			"id_str": "121877206",
+			"name": "sibylla nash",
+			"screen_name": "starbabyla",
+			"location": "los angeles",
+			"description": "L.A. based. Novelist. Freelance writer. MFA. Reader. Lover of Netflix & all things chocolate.",
+			"url": "https://t.co/pvxCxW7UEW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pvxCxW7UEW",
+							"expanded_url": "http://www.sibyllanash.com",
+							"display_url": "sibyllanash.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4987,
+			"friends_count": 5178,
+			"listed_count": 165,
+			"created_at": "Wed Mar 10 22:13:36 +0000 2010",
+			"favourites_count": 2466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099070027599237123/Cq6YAelt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099070027599237123/Cq6YAelt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121877206/1541391455",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Was driving home and saw the fire, it’s across the street from my house. (Reminds me that I need a fire extinguisher. ) #baldwinhills 40 firefighters and helicopter with water are fighting it https://t.co/uW1gHNQyvd"
+	},
+	{
 		"created_at": "Wed Jul 24 21:28:11 +0000 2019",
 		"id": 1154141247667179500,
 		"id_str": "1154141247667179521",
