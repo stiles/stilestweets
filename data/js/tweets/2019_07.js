@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 26 17:59:11 +0000 2019",
+		"id": 1154763675871453200,
+		"id_str": "1154813429162491905",
+		"full_text": "Years before the world learned about his college admissions scam, feds working a different case in Florida stumbled upon Rick Singer doing his cheating thing.  https://t.co/lOsmDA2kJI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lOsmDA2kJI",
+					"expanded_url": "https://www.latimes.com/california/story/2019-07-25/college-admissions-scandal-clues",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14480397,
+			"id_str": "14480397",
+			"name": "Joel Rubin",
+			"screen_name": "joelrubin",
+			"location": "Los Angeles",
+			"description": "@latimes reporter, writing about federal courts and agencies. Maine raised. Contact me: joel.rubin[at]latimes[dot]com; DM for Signal WhatsApp",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7422,
+			"friends_count": 1505,
+			"listed_count": 287,
+			"created_at": "Tue Apr 22 21:01:30 +0000 2008",
+			"favourites_count": 3615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112369955184345094/n0_CB4k7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112369955184345094/n0_CB4k7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14480397/1389744840",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Years before the world learned about his college admissions scam, feds working a different case in Florida stumbled upon Rick Singer doing his cheating thing.  https://t.co/lOsmDA2kJI"
+	},
+	{
 		"created_at": "Fri Jul 26 14:03:43 +0000 2019",
 		"id": 1154754172597571600,
 		"id_str": "1154754172597571584",
