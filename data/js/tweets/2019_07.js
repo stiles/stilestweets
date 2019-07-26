@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 26 02:53:07 +0000 2019",
+		"id": 1154585408719560700,
+		"id_str": "1154585408719560705",
+		"full_text": "This is a couple weeks old, but no less fabulous. \n\nh/t @flowingdata https://t.co/0ZVbIA0RQV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flowingdata",
+					"name": "Nathan Yau",
+					"id": 14109167,
+					"id_str": "14109167",
+					"indices": [
+						56,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0ZVbIA0RQV",
+					"expanded_url": "https://twitter.com/Lagomorpho/status/1149754592579600384",
+					"display_url": "twitter.com/Lagomorpho/sta…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10874,
+			"friends_count": 1659,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1562644645",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1149754592579600400,
+		"quoted_status_id_str": "1149754592579600384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0ZVbIA0RQV",
+			"expanded": "https://twitter.com/Lagomorpho/status/1149754592579600384",
+			"display": "twitter.com/Lagomorpho/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 12 18:57:10 +0000 2019",
+			"id": 1149754592579600400,
+			"id_str": "1149754592579600384",
+			"full_text": "The Sleep Blanket\n\nA visualization of my son's sleep pattern from birth to his first birthday. Crochet border surrounding a double knit body. Each row represents a single day. Each stitch represents 6 minutes of time spent awake or asleep #knitting #crochet #datavisualization https://t.co/xwBh7vIilJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "knitting",
+						"indices": [
+							239,
+							248
+						]
+					},
+					{
+						"text": "crochet",
+						"indices": [
+							249,
+							257
+						]
+					},
+					{
+						"text": "datavisualization",
+						"indices": [
+							258,
+							276
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1149754565828284400,
+						"id_str": "1149754565828284416",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/D_S_r5sUEAA1IZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_S_r5sUEAA1IZ9.jpg",
+						"url": "https://t.co/xwBh7vIilJ",
+						"display_url": "pic.twitter.com/xwBh7vIilJ",
+						"expanded_url": "https://twitter.com/Lagomorpho/status/1149754592579600384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1149754565828284400,
+						"id_str": "1149754565828284416",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/D_S_r5sUEAA1IZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_S_r5sUEAA1IZ9.jpg",
+						"url": "https://t.co/xwBh7vIilJ",
+						"display_url": "pic.twitter.com/xwBh7vIilJ",
+						"expanded_url": "https://twitter.com/Lagomorpho/status/1149754592579600384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1149754565828345900,
+						"id_str": "1149754565828345856",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/D_S_r5sVAAA9Clz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_S_r5sVAAA9Clz.jpg",
+						"url": "https://t.co/xwBh7vIilJ",
+						"display_url": "pic.twitter.com/xwBh7vIilJ",
+						"expanded_url": "https://twitter.com/Lagomorpho/status/1149754592579600384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1149754565828329500,
+						"id_str": "1149754565828329472",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/D_S_r5sUwAAhoQb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_S_r5sUwAAhoQb.jpg",
+						"url": "https://t.co/xwBh7vIilJ",
+						"display_url": "pic.twitter.com/xwBh7vIilJ",
+						"expanded_url": "https://twitter.com/Lagomorpho/status/1149754592579600384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14147163,
+				"id_str": "14147163",
+				"name": "Seung Lee",
+				"screen_name": "Lagomorpho",
+				"location": "Seattle, WA",
+				"description": "doofus cat king of arts and crafts\npronouns: he/him\nhttps://t.co/eqXbaWUirW",
+				"url": "https://t.co/7K9Lba9Q5A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7K9Lba9Q5A",
+								"expanded_url": "http://www.heart-comics.com",
+								"display_url": "heart-comics.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/eqXbaWUirW",
+								"expanded_url": "http://lagomorpho.com/io",
+								"display_url": "lagomorpho.com/io",
+								"indices": [
+									52,
+									75
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 842,
+				"friends_count": 369,
+				"listed_count": 21,
+				"created_at": "Fri Mar 14 15:03:11 +0000 2008",
+				"favourites_count": 20170,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16965,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BDBDBD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530055650395435008/ilTB6MEP_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530055650395435008/ilTB6MEP_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14147163/1527298688",
+				"profile_link_color": "888888",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2837,
+			"favorite_count": 10335,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a couple weeks old, but no less fabulous. \n\nh/t @flowingdata https://t.co/0ZVbIA0RQV"
+	},
+	{
 		"created_at": "Thu Jul 25 23:55:18 +0000 2019",
 		"id": 1154540660654895000,
 		"id_str": "1154540660654895104",
