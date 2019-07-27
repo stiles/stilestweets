@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 27 15:13:14 +0000 2019",
+		"id": 1155134055609847800,
+		"id_str": "1155134055609847808",
+		"full_text": "Led by @HildaSolis and @mridleythomas , supervisors are expected to ask for an audit of the books at LACERA, the pension fund for county workers. A newly revised motion is much more sweeping — probing not just at travel, but also administrative expenses. https://t.co/Ybz409QHnl https://t.co/6R5gpX8EFU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HildaSolis",
+					"name": "Hilda Solis",
+					"id": 2377732207,
+					"id_str": "2377732207",
+					"indices": [
+						7,
+						18
+					]
+				},
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						23,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ybz409QHnl",
+					"expanded_url": "http://file.lacounty.gov/SDSInter/bos/supdocs/138425.pdf",
+					"display_url": "file.lacounty.gov/SDSInter/bos/s…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1155134047225442300,
+					"id_str": "1155134047225442305",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EAfcS7jU8AElEhk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAfcS7jU8AElEhk.jpg",
+					"url": "https://t.co/6R5gpX8EFU",
+					"display_url": "pic.twitter.com/6R5gpX8EFU",
+					"expanded_url": "https://twitter.com/stiles/status/1155134055609847808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 875,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1432,
+							"h": 1044,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1155134047225442300,
+					"id_str": "1155134047225442305",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EAfcS7jU8AElEhk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAfcS7jU8AElEhk.jpg",
+					"url": "https://t.co/6R5gpX8EFU",
+					"display_url": "pic.twitter.com/6R5gpX8EFU",
+					"expanded_url": "https://twitter.com/stiles/status/1155134055609847808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 875,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1432,
+							"h": 1044,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10874,
+			"friends_count": 1660,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Led by @HildaSolis and @mridleythomas , supervisors are expected to ask for an audit of the books at LACERA, the pension fund for county workers. A newly revised motion is much more sweeping — probing not just at travel, but also administrative expenses. https://t.co/Ybz409QHnl https://t.co/6R5gpX8EFU"
+	},
+	{
 		"created_at": "Fri Jul 26 17:59:11 +0000 2019",
 		"id": 1154763675871453200,
 		"id_str": "1154813429162491905",
