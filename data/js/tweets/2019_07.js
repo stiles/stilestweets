@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 28 02:26:20 +0000 2019",
+		"id": 1155176452112994300,
+		"id_str": "1155303447140241408",
+		"full_text": "I’ve always been proud of what this team accomplished during my administration. But more than what we did, I’m proud of how they’re continuing to fight for an America that’s better. https://t.co/0cfDltjueP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0cfDltjueP",
+					"expanded_url": "https://www.washingtonpost.com/opinions/we-are-african-americans-we-are-patriots-and-we-refuse-to-sit-idly-by/2019/07/26/c02ade6c-af16-11e9-8e77-03b30bc29f64_story.html",
+					"display_url": "washingtonpost.com/opinions/we-ar…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 813286,
+			"id_str": "813286",
+			"name": "Barack Obama",
+			"screen_name": "BarackObama",
+			"location": "Washington, DC",
+			"description": "Dad, husband, President, citizen.",
+			"url": "https://t.co/93Y27HEnnX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/93Y27HEnnX",
+							"expanded_url": "https://www.obama.org/",
+							"display_url": "obama.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107406602,
+			"friends_count": 613000,
+			"listed_count": 228804,
+			"created_at": "Mon Mar 05 22:08:25 +0000 2007",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "77B0DC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+			"profile_link_color": "2574AD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C2E0F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19637,
+		"favorite_count": 101328,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve always been proud of what this team accomplished during my administration. But more than what we did, I’m proud of how they’re continuing to fight for an America that’s better. https://t.co/0cfDltjueP"
+	},
+	{
 		"created_at": "Sat Jul 27 15:13:14 +0000 2019",
 		"id": 1155134055609847800,
 		"id_str": "1155134055609847808",
