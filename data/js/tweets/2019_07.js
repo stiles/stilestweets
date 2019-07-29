@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 29 16:18:04 +0000 2019",
+		"id": 1155811243170521000,
+		"id_str": "1155875144838991872",
+		"full_text": "Times Investigation: $22,000 for a trip to Australia? Pension trustees draw scrutiny over travel costs https://t.co/MrEfJvNDET",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MrEfJvNDET",
+					"expanded_url": "https://lat.ms/310Z7uR",
+					"display_url": "lat.ms/310Z7uR",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17036898,
+			"id_str": "17036898",
+			"name": "L.A. Times: L.A. Now",
+			"screen_name": "LANow",
+			"location": "Los Angeles, CA",
+			"description": "Southern California -- this just in. News from L.A. and beyond from the Los Angeles Times. See @latimes for more news.",
+			"url": "https://t.co/6k4qSdf5J8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6k4qSdf5J8",
+							"expanded_url": "http://latimes.com/now",
+							"display_url": "latimes.com/now",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 521451,
+			"friends_count": 603,
+			"listed_count": 4078,
+			"created_at": "Wed Oct 29 05:55:55 +0000 2008",
+			"favourites_count": 453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043218383141928961/i7P3LHYw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043218383141928961/i7P3LHYw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17036898/1520220820",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Times Investigation: $22,000 for a trip to Australia? Pension trustees draw scrutiny over travel costs https://t.co/MrEfJvNDET"
+	},
+	{
 		"created_at": "Mon Jul 29 15:07:45 +0000 2019",
 		"id": 1155852091882999800,
 		"id_str": "1155857450173493248",
