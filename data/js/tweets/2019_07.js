@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 29 18:26:20 +0000 2019",
+		"id": 1155904491826241500,
+		"id_str": "1155907425691525122",
+		"full_text": "Thank you, @HildaSolis and @mridleythomas for bringing forth a motion tomorrow to audit LACERA’s travel, training, and (some) administrative expenses. I have over two decades invested in this system, with another to go, and @CountyofLA employees count on it being safeguarded. https://t.co/cWlgfSoCXi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HildaSolis",
+					"name": "Hilda Solis",
+					"id": 2377732207,
+					"id_str": "2377732207",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						224,
+						235
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cWlgfSoCXi",
+					"expanded_url": "https://twitter.com/stiles/status/1155897862523215873",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1528555746,
+			"id_str": "1528555746",
+			"name": "Lisa Andres",
+			"screen_name": "LisaAndres_",
+			"location": "Between L.A. and Riverside",
+			"description": "Proud L.A. Co. Public Employee. @CAPEunion VP. @CA_DEM DSCC Exec Board, ADEM AD-67. Tweets are my personal opinions and not \"official\". #1u #UniteBlue #Resist",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 876,
+			"friends_count": 731,
+			"listed_count": 18,
+			"created_at": "Tue Jun 18 19:05:39 +0000 2013",
+			"favourites_count": 4053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080637218404757504/492pw1_5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080637218404757504/492pw1_5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1528555746/1372901147",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1155897862523216000,
+		"quoted_status_id_str": "1155897862523215873",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cWlgfSoCXi",
+			"expanded": "https://twitter.com/stiles/status/1155897862523215873",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 29 17:48:20 +0000 2019",
+			"id": 1155897862523216000,
+			"id_str": "1155897862523215873",
+			"full_text": "1/ The recent firing of the CEO at LACERA — the $56 billion pension fund for 110,000 @countyofla workers — has prompted a fresh and close look at its operations. \n\nA short THREAD on my story detailing board members'  expensive trips: https://t.co/WOmgC0nkTs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CountyofLA",
+						"name": "Los Angeles County",
+						"id": 193771633,
+						"id_str": "193771633",
+						"indices": [
+							85,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WOmgC0nkTs",
+						"expanded_url": "https://www.latimes.com/california/story/2019-07-28/la-me-pension-travel-costs-lacera",
+						"display_url": "latimes.com/california/sto…",
+						"indices": [
+							234,
+							257
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles, CA",
+				"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10874,
+				"friends_count": 1662,
+				"listed_count": 876,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 6362,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14184,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+				"profile_link_color": "B12E35",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you, @HildaSolis and @mridleythomas for bringing forth a motion tomorrow to audit LACERA’s travel, training, and (some) administrative expenses. I have over two decades invested in this system, with another to go, and @CountyofLA employees count on it being safeguarded. https://t.co/cWlgfSoCXi"
+	},
+	{
 		"created_at": "Mon Jul 29 18:03:12 +0000 2019",
 		"id": 1155901602470826000,
 		"id_str": "1155901602470825984",
