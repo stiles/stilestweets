@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 29 15:07:45 +0000 2019",
+		"id": 1155852091882999800,
+		"id_str": "1155857450173493248",
+		"full_text": "LA County pension trustees draw scrutiny over travel costs:  The average per-trustee spending was about $53k over 3 years. \nSome trustees spent as little as $3,000. Others exceeded $100k. Some traveled as many as 10x a year.  Via @stiles. https://t.co/xYkZTr0jZd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						230,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xYkZTr0jZd",
+					"expanded_url": "https://www.latimes.com/california/story/2019-07-28/la-me-pension-travel-costs-lacera",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23040137,
+			"id_str": "23040137",
+			"name": "Kimi Yoshino",
+			"screen_name": "kyoshino",
+			"location": "Los Angeles, CA",
+			"description": "Senior Deputy Managing Editor, Los Angeles Times",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8760,
+			"friends_count": 1302,
+			"listed_count": 315,
+			"created_at": "Fri Mar 06 06:50:33 +0000 2009",
+			"favourites_count": 2067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/454755364123074560/zpjx0Vbg_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/454755364123074560/zpjx0Vbg_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23040137/1380815678",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LA County pension trustees draw scrutiny over travel costs:  The average per-trustee spending was about $53k over 3 years. \nSome trustees spent as little as $3,000. Others exceeded $100k. Some traveled as many as 10x a year.  Via @stiles. https://t.co/xYkZTr0jZd"
+	},
+	{
 		"created_at": "Mon Jul 29 00:38:54 +0000 2019",
 		"id": 1155638797247250400,
 		"id_str": "1155638797247250432",
