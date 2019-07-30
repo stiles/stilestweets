@@ -1,6 +1,1049 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 30 22:12:48 +0000 2019",
+		"id": 1156326806724604000,
+		"id_str": "1156326806724603904",
+		"full_text": "Speaking of which... https://t.co/rENteWs6BH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rENteWs6BH",
+					"expanded_url": "https://twitter.com/TexasTribune/status/1156326605645668352",
+					"display_url": "twitter.com/TexasTribune/s…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10876,
+			"friends_count": 1663,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1156326605645668400,
+		"quoted_status_id_str": "1156326605645668352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rENteWs6BH",
+			"expanded": "https://twitter.com/TexasTribune/status/1156326605645668352",
+			"display": "twitter.com/TexasTribune/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 30 22:12:00 +0000 2019",
+			"id": 1156326605645668400,
+			"id_str": "1156326605645668352",
+			"full_text": "Jen O'Malley Dillon is a star Democratic operative. Can she save Beto O'Rourke's candidacy? #tx2020 https://t.co/Ys3v37c9Ju",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tx2020",
+						"indices": [
+							92,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ys3v37c9Ju",
+						"expanded_url": "https://bit.ly/2Yyf6Dd",
+						"display_url": "bit.ly/2Yyf6Dd",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44513878,
+				"id_str": "44513878",
+				"name": "Texas Tribune",
+				"screen_name": "TexasTribune",
+				"location": "Austin, Texas",
+				"description": "A member-supported, nonpartisan newsroom informing & engaging Texans on state politics & policy. Tweets by @bobbycblanchard. Subscribe: https://t.co/7vzWxFKD0J",
+				"url": "http://t.co/THOyB5XQbo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/THOyB5XQbo",
+								"expanded_url": "http://www.texastribune.org",
+								"display_url": "texastribune.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7vzWxFKD0J",
+								"expanded_url": "http://trib.it/subscribe",
+								"display_url": "trib.it/subscribe",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 199235,
+				"friends_count": 59809,
+				"listed_count": 4921,
+				"created_at": "Thu Jun 04 01:37:46 +0000 2009",
+				"favourites_count": 3101,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 76876,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2E3A58",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776170850802204672/X0LHxQ54_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776170850802204672/X0LHxQ54_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44513878/1556710978",
+				"profile_link_color": "F15D5A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF6DD",
+				"profile_text_color": "292929",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Speaking of which... https://t.co/rENteWs6BH"
+	},
+	{
+		"created_at": "Tue Jul 30 22:12:00 +0000 2019",
+		"id": 1156326603779002400,
+		"id_str": "1156326603779002368",
+		"full_text": "This reader made my day. https://t.co/sibBz9gl5u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156326599383404500,
+					"id_str": "1156326599383404545",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EAwY6miVUAEyWnh.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAwY6miVUAEyWnh.png",
+					"url": "https://t.co/sibBz9gl5u",
+					"display_url": "pic.twitter.com/sibBz9gl5u",
+					"expanded_url": "https://twitter.com/stiles/status/1156326603779002368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 181,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 181,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 181,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156326599383404500,
+					"id_str": "1156326599383404545",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EAwY6miVUAEyWnh.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAwY6miVUAEyWnh.png",
+					"url": "https://t.co/sibBz9gl5u",
+					"display_url": "pic.twitter.com/sibBz9gl5u",
+					"expanded_url": "https://twitter.com/stiles/status/1156326603779002368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 181,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 181,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 181,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10876,
+			"friends_count": 1663,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This reader made my day. https://t.co/sibBz9gl5u"
+	},
+	{
+		"created_at": "Tue Jul 30 22:07:48 +0000 2019",
+		"id": 1156325546340450300,
+		"id_str": "1156325546340450304",
+		"full_text": "Somewhat surprised by these @BetoORourke vs. @realDonaldTrump poll numbers in Texas. It's still hard to imagine Texas turning blue, and I know early polls aren't predictive, but it's shocking how much that would alter the electoral map. https://t.co/edbA8UPjkg \n\nh/t @MediaLawProf https://t.co/SN81qAnmju",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BetoORourke",
+					"name": "Beto O'Rourke",
+					"id": 342863309,
+					"id_str": "342863309",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "MediaLawProf",
+					"name": "Chip Stewart",
+					"id": 118247587,
+					"id_str": "118247587",
+					"indices": [
+						267,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/edbA8UPjkg",
+					"expanded_url": "https://projects.fivethirtyeight.com/polls/20190730_TX.pdf",
+					"display_url": "projects.fivethirtyeight.com/polls/20190730…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1156325531672969200,
+					"id_str": "1156325531672969216",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EAwX8dAVAAAbD2z.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAwX8dAVAAAbD2z.png",
+					"url": "https://t.co/SN81qAnmju",
+					"display_url": "pic.twitter.com/SN81qAnmju",
+					"expanded_url": "https://twitter.com/stiles/status/1156325546340450304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 576,
+							"h": 168,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156325531672969200,
+					"id_str": "1156325531672969216",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EAwX8dAVAAAbD2z.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAwX8dAVAAAbD2z.png",
+					"url": "https://t.co/SN81qAnmju",
+					"display_url": "pic.twitter.com/SN81qAnmju",
+					"expanded_url": "https://twitter.com/stiles/status/1156325546340450304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 576,
+							"h": 168,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 168,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156325531681349600,
+					"id_str": "1156325531681349632",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EAwX8dCU4AAmRkY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EAwX8dCU4AAmRkY.png",
+					"url": "https://t.co/SN81qAnmju",
+					"display_url": "pic.twitter.com/SN81qAnmju",
+					"expanded_url": "https://twitter.com/stiles/status/1156325546340450304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 775,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 775,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10876,
+			"friends_count": 1663,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Somewhat surprised by these @BetoORourke vs. @realDonaldTrump poll numbers in Texas. It's still hard to imagine Texas turning blue, and I know early polls aren't predictive, but it's shocking how much that would alter the electoral map. https://t.co/edbA8UPjkg \n\nh/t @MediaLawProf https://t.co/SN81qAnmju"
+	},
+	{
+		"created_at": "Tue Jul 30 21:28:04 +0000 2019",
+		"id": 1156315548046614500,
+		"id_str": "1156315548046614528",
+		"full_text": "Never. https://t.co/pJKn6IG8BJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pJKn6IG8BJ",
+					"expanded_url": "https://twitter.com/LATSeema/status/1156307418143498240",
+					"display_url": "twitter.com/LATSeema/statu…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10876,
+			"friends_count": 1663,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1156307418143498200,
+		"quoted_status_id_str": "1156307418143498240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pJKn6IG8BJ",
+			"expanded": "https://twitter.com/LATSeema/status/1156307418143498240",
+			"display": "twitter.com/LATSeema/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 30 20:55:46 +0000 2019",
+			"id": 1156307418143498200,
+			"id_str": "1156307418143498240",
+			"full_text": "Buttigieg weighs in on mixing salsa and ranch: don’t be “doctrinaire” unless you’ve tried it. https://t.co/ObAodsf0MW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1156307001347072000,
+						"id_str": "1156307001347072001",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156307001347072001/pu/img/LwWxqmov-_8r4VBO.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156307001347072001/pu/img/LwWxqmov-_8r4VBO.jpg",
+						"url": "https://t.co/ObAodsf0MW",
+						"display_url": "pic.twitter.com/ObAodsf0MW",
+						"expanded_url": "https://twitter.com/LATSeema/status/1156307418143498240/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1156307001347072000,
+						"id_str": "1156307001347072001",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156307001347072001/pu/img/LwWxqmov-_8r4VBO.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156307001347072001/pu/img/LwWxqmov-_8r4VBO.jpg",
+						"url": "https://t.co/ObAodsf0MW",
+						"display_url": "pic.twitter.com/ObAodsf0MW",
+						"expanded_url": "https://twitter.com/LATSeema/status/1156307418143498240/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 29133,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1156307001347072001/pu/pl/PwIT3VqQCz30mawp.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1156307001347072001/pu/vid/640x360/qPeLVuXU7bLgtst4.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1156307001347072001/pu/vid/1280x720/dzbWcWNDL2jNVFFj.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1156307001347072001/pu/vid/480x270/6mN0SEpKjXeQX7N1.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 106291885,
+				"id_str": "106291885",
+				"name": "Seema",
+				"screen_name": "LATSeema",
+				"location": "",
+				"description": "LA Times political writer. Wannabe golfer. Patron of stray kittens. Bleed orange. RTs ≠ endorsements",
+				"url": "https://t.co/ifWgDV99W6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ifWgDV99W6",
+								"expanded_url": "http://www.latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20867,
+				"friends_count": 3004,
+				"listed_count": 837,
+				"created_at": "Tue Jan 19 02:52:20 +0000 2010",
+				"favourites_count": 3165,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16768,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1020936270648766464/9pPbJHC6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020936270648766464/9pPbJHC6_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "b463d3bd6064861b",
+				"url": "https://api.twitter.com/1.1/geo/id/b463d3bd6064861b.json",
+				"place_type": "city",
+				"name": "Detroit",
+				"full_name": "Detroit, MI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-83.288056,
+								42.255085
+							],
+							[
+								-82.91052,
+								42.255085
+							],
+							[
+								-82.91052,
+								42.450488
+							],
+							[
+								-83.288056,
+								42.450488
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 109,
+			"favorite_count": 618,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never. https://t.co/pJKn6IG8BJ"
+	},
+	{
 		"created_at": "Tue Jul 30 19:30:30 +0000 2019",
 		"id": 1156285606563065900,
 		"id_str": "1156285960335708161",
