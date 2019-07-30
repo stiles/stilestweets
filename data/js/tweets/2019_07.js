@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 30 01:16:52 +0000 2019",
+		"id": 1156010526754758700,
+		"id_str": "1156010739326320642",
+		"full_text": "BeautifulSoup vs. Rvest https://t.co/2R4k7VDSBm.   highlights some advantages of rvest #rstats #DataScience #Data #Statistics",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rstats",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "DataScience",
+					"indices": [
+						95,
+						107
+					]
+				},
+				{
+					"text": "Data",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "Statistics",
+					"indices": [
+						114,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2R4k7VDSBm",
+					"expanded_url": "https://www.r-bloggers.com/beautifulsoup-vs-rvest/",
+					"display_url": "r-bloggers.com/beautifulsoup-…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950842802,
+			"id_str": "950842802",
+			"name": "peter davenport",
+			"screen_name": "peterdavenport8",
+			"location": "melbourne australia",
+			"description": "#DataScience , #Geography, #Demography, Richmond AFL",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826,
+			"friends_count": 1157,
+			"listed_count": 203,
+			"created_at": "Fri Nov 16 02:30:06 +0000 2012",
+			"favourites_count": 306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/513515715995787264/KqoHY5IJ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/513515715995787264/KqoHY5IJ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/950842802/1411266698",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BeautifulSoup vs. Rvest https://t.co/2R4k7VDSBm.   highlights some advantages of rvest #rstats #DataScience #Data #Statistics"
+	},
+	{
 		"created_at": "Mon Jul 29 18:26:20 +0000 2019",
 		"id": 1155904491826241500,
 		"id_str": "1155907425691525122",
