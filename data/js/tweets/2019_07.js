@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 30 19:30:30 +0000 2019",
+		"id": 1156285606563065900,
+		"id_str": "1156285960335708161",
+		"full_text": "There’s a full-scale assault on objective analysis https://t.co/rHGVGDGl6x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rHGVGDGl6x",
+					"expanded_url": "https://twitter.com/jayrosen_nyu/status/1156225233508024320",
+					"display_url": "twitter.com/jayrosen_nyu/s…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31532083,
+			"id_str": "31532083",
+			"name": "Chris Megerian",
+			"screen_name": "ChrisMegerian",
+			"location": "Washington, DC",
+			"description": "Los Angeles Times reporter in Washington writing about the Russia investigation. Previously covered the 2016 campaign and Sacramento. Former Star-Ledger writer.",
+			"url": "https://t.co/Pzslg4M8Od",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pzslg4M8Od",
+							"expanded_url": "http://www.latimes.com/la-bio-chris-megerian-staff.html",
+							"display_url": "latimes.com/la-bio-chris-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30688,
+			"friends_count": 1639,
+			"listed_count": 1128,
+			"created_at": "Wed Apr 15 21:48:21 +0000 2009",
+			"favourites_count": 2530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 65410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/917983855734411264/Eg2d29P6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/917983855734411264/Eg2d29P6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31532083/1507686182",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1156225233508024300,
+		"quoted_status_id_str": "1156225233508024320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rHGVGDGl6x",
+			"expanded": "https://twitter.com/jayrosen_nyu/status/1156225233508024320",
+			"display": "twitter.com/jayrosen_nyu/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 30 15:29:11 +0000 2019",
+			"id": 1156225233508024300,
+			"id_str": "1156225233508024320",
+			"full_text": "Remember: the hate campaign against the press, the refusal to be briefed, the put down of diplomatic expertise, the assault on science (as at the EPA), the contempt for professionalism across the government, and the attacks on the intelligence agencies— they're all one thing.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14834340,
+				"id_str": "14834340",
+				"name": "Jay Rosen",
+				"screen_name": "jayrosen_nyu",
+				"location": "New York City jr3@nyu.edu",
+				"description": "I teach journalism and direct the Studio 20 program at NYU, critique the press, direct @membershippzzle. 'Ambassador' for @decorrespondent's expansion.",
+				"url": "https://t.co/DB3C2ThOLr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DB3C2ThOLr",
+								"expanded_url": "http://pressthink.org/2016/12/winter-coming-prospects-american-press-trump/",
+								"display_url": "pressthink.org/2016/12/winter…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 253274,
+				"friends_count": 1325,
+				"listed_count": 12627,
+				"created_at": "Mon May 19 16:09:01 +0000 2008",
+				"favourites_count": 64,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 74679,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "718ECD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846771016147898372/4njbzXG5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846771016147898372/4njbzXG5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14834340/1485669845",
+				"profile_link_color": "1749B3",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 134,
+			"favorite_count": 352,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There’s a full-scale assault on objective analysis https://t.co/rHGVGDGl6x"
+	},
+	{
 		"created_at": "Tue Jul 30 19:11:36 +0000 2019",
 		"id": 1156270068646330400,
 		"id_str": "1156281203692990464",
