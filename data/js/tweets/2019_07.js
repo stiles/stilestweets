@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 31 16:13:41 +0000 2019",
+		"id": 1156582181290086400,
+		"id_str": "1156598819829628928",
+		"full_text": "Every morning I am grateful the @latimes hired ⁦the sharp @sherlyholmes⁩ to write the Essential California newsletter. If you read any roundup of CA news, do this first:  https://t.co/9blzDrnDZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"screen_name": "sherlyholmes",
+					"name": "Julia Wick",
+					"id": 13479902,
+					"id_str": "13479902",
+					"indices": [
+						58,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9blzDrnDZ5",
+					"expanded_url": "https://www.latimes.com/california/story/2019-07-31/marianne-williamson-california-rise",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76459927,
+			"id_str": "76459927",
+			"name": "Matt Hamilton",
+			"screen_name": "MattHjourno",
+			"location": "Los Angeles",
+			"description": "Los Angeles Times reporter on investigations and civil courts matt.hamilton@latimes.com mchamilton@protonmail.com (213) 237-3431",
+			"url": "https://t.co/sbHmPzt6mV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sbHmPzt6mV",
+							"expanded_url": "http://www.latimes.com/la-bio-matt-hamilton-staff.html",
+							"display_url": "latimes.com/la-bio-matt-ha…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6583,
+			"friends_count": 1723,
+			"listed_count": 268,
+			"created_at": "Tue Sep 22 21:43:52 +0000 2009",
+			"favourites_count": 8422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/569247440855769088/E-XSvkIO_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/569247440855769088/E-XSvkIO_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/76459927/1533199655",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every morning I am grateful the @latimes hired ⁦the sharp @sherlyholmes⁩ to write the Essential California newsletter. If you read any roundup of CA news, do this first:  https://t.co/9blzDrnDZ5"
+	},
+	{
 		"created_at": "Tue Jul 30 22:58:04 +0000 2019",
 		"id": 1156338195245650000,
 		"id_str": "1156338195245649920",
