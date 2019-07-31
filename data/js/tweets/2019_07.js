@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 31 17:09:15 +0000 2019",
+		"id": 1156607469650620400,
+		"id_str": "1156612801667846144",
+		"full_text": "C'mon L.A. denizens, y'all've got @stiles on home-turf now, so no excuse not to subscribe to the @latimes anymore. Do you seriously want to be behind NY &amp; DC? I think not. https://t.co/FQJBNXYNrS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156607466181992400,
+					"id_str": "1156607466181992453",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EA0YXM5XoAUagLt.png",
+					"media_url_https": "https://pbs.twimg.com/media/EA0YXM5XoAUagLt.png",
+					"url": "https://t.co/FQJBNXYNrS",
+					"display_url": "pic.twitter.com/FQJBNXYNrS",
+					"expanded_url": "https://twitter.com/hrbrmstr/status/1156607469650620418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 591,
+							"h": 551,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 591,
+							"h": 551,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 591,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156607466181992400,
+					"id_str": "1156607466181992453",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EA0YXM5XoAUagLt.png",
+					"media_url_https": "https://pbs.twimg.com/media/EA0YXM5XoAUagLt.png",
+					"url": "https://t.co/FQJBNXYNrS",
+					"display_url": "pic.twitter.com/FQJBNXYNrS",
+					"expanded_url": "https://twitter.com/hrbrmstr/status/1156607469650620418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 591,
+							"h": 551,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 591,
+							"h": 551,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 591,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5685812,
+			"id_str": "5685812",
+			"name": "boB 🇷udis will hopefully never, ever, go to BH/DC",
+			"screen_name": "hrbrmstr",
+			"location": "On Your Left || Bridge 4",
+			"description": "Don't look at me…I do what he does—just slower. Sadly, more Miller than Holden. 🇷 #rstats avuncular • #tired • 👨‍🍳 • ✝️ • Prìomh Neach-saidheans Dàta @ @rapid7",
+			"url": "https://t.co/RgY1wHjoqM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RgY1wHjoqM",
+							"expanded_url": "https://rud.is/b",
+							"display_url": "rud.is/b",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11088,
+			"friends_count": 429,
+			"listed_count": 673,
+			"created_at": "Tue May 01 14:04:24 +0000 2007",
+			"favourites_count": 13235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 79234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824974380803334144/Vpmh_s3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824974380803334144/Vpmh_s3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5685812/1398248552",
+			"profile_link_color": "94BD5A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "C'mon L.A. denizens, y'all've got @stiles on home-turf now, so no excuse not to subscribe to the @latimes anymore. Do you seriously want to be behind NY &amp; DC? I think not. https://t.co/FQJBNXYNrS"
+	},
+	{
 		"created_at": "Wed Jul 31 16:13:41 +0000 2019",
 		"id": 1156582181290086400,
 		"id_str": "1156598819829628928",
