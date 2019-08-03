@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 19:48:59 +0000 2019",
+		"id": 1157740163054747600,
+		"id_str": "1157740163054747648",
+		"full_text": "I have a police scanner app on my phone, and my heart sinks every time I get an alert that thousands of people have started listening to a random department.\n\nToday, it's El Paso. \n\n*sigh* https://t.co/Wcxf0KJi30",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157740157614739500,
+					"id_str": "1157740157614739456",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EBEeihTU0AAmn9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBEeihTU0AAmn9A.jpg",
+					"url": "https://t.co/Wcxf0KJi30",
+					"display_url": "pic.twitter.com/Wcxf0KJi30",
+					"expanded_url": "https://twitter.com/stiles/status/1157740163054747648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157740157614739500,
+					"id_str": "1157740157614739456",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EBEeihTU0AAmn9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBEeihTU0AAmn9A.jpg",
+					"url": "https://t.co/Wcxf0KJi30",
+					"display_url": "pic.twitter.com/Wcxf0KJi30",
+					"expanded_url": "https://twitter.com/stiles/status/1157740163054747648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10889,
+			"friends_count": 1672,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have a police scanner app on my phone, and my heart sinks every time I get an alert that thousands of people have started listening to a random department.\n\nToday, it's El Paso. \n\n*sigh* https://t.co/Wcxf0KJi30"
+	},
+	{
 		"created_at": "Fri Aug 02 17:30:44 +0000 2019",
 		"id": 1157342982690840600,
 		"id_str": "1157342982690840576",
@@ -187,7 +394,7 @@ Grailbird.data.tweets_2019_08 =
 				"name": "Laura J. Nelson 🦅",
 				"screen_name": "laura_nelson",
 				"location": "Los Angeles, CA",
-				"description": "@latimes transportation reporter. I cover 🚙, 🚌, 🚇, 🚲, 🚶🏽‍♀️, 🛴 and more. Proud @latguild organizer. Kansan. Plant lady. Tips? laura.nelson@latimes(.)com",
+				"description": "@latimes transportation reporter. I cover 🚙, 🚌, 🚇, 🚲, 🚶🏽♀️, 🛴 and more. Proud @latguild organizer. Kansan. Plant lady. Tips? laura.nelson@latimes(.)com",
 				"url": "https://t.co/PXMg3UiFM4",
 				"entities": {
 					"url": {
