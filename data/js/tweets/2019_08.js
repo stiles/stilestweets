@@ -1,6 +1,675 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 22:16:27 +0000 2019",
+		"id": 1157777276282364000,
+		"id_str": "1157777276282363904",
+		"full_text": "Emails obtained by @kenvogel  show @realDonaldTrump aide Stephen Miller (Santa Monica's own) pressing @DHSgov officials to change the \"public charge\" immigration rule last year. https://t.co/Ddv64BNgfY https://t.co/SFCFNnxVmq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kenvogel",
+					"name": "Kenneth P. Vogel",
+					"id": 112526560,
+					"id_str": "112526560",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"screen_name": "DHSgov",
+					"name": "Homeland Security",
+					"id": 15647676,
+					"id_str": "15647676",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ddv64BNgfY",
+					"expanded_url": "https://www.politico.com/f/?id=0000016c-5349-de87-affd-7bc9eff20001",
+					"display_url": "politico.com/f/?id=0000016c…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1157777272373305300,
+					"id_str": "1157777272373305344",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EBFAS4jU4AAC92b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBFAS4jU4AAC92b.jpg",
+					"url": "https://t.co/SFCFNnxVmq",
+					"display_url": "pic.twitter.com/SFCFNnxVmq",
+					"expanded_url": "https://twitter.com/stiles/status/1157777276282363904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 584,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 826,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 826,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157777272373305300,
+					"id_str": "1157777272373305344",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EBFAS4jU4AAC92b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBFAS4jU4AAC92b.jpg",
+					"url": "https://t.co/SFCFNnxVmq",
+					"display_url": "pic.twitter.com/SFCFNnxVmq",
+					"expanded_url": "https://twitter.com/stiles/status/1157777276282363904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 584,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 962,
+							"h": 826,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 826,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10889,
+			"friends_count": 1672,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Emails obtained by @kenvogel  show @realDonaldTrump aide Stephen Miller (Santa Monica's own) pressing @DHSgov officials to change the \"public charge\" immigration rule last year. https://t.co/Ddv64BNgfY https://t.co/SFCFNnxVmq"
+	},
+	{
+		"created_at": "Sat Aug 03 22:01:58 +0000 2019",
+		"id": 1157773630148767700,
+		"id_str": "1157773630148767745",
+		"full_text": "@jbenton @corbydavidson It's what I miss most about living in Dallas.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jbenton",
+					"name": "Joshua Benton",
+					"id": 36623,
+					"id_str": "36623",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "corbydavidson",
+					"name": "Corby Davidson",
+					"id": 22730876,
+					"id_str": "22730876",
+					"indices": [
+						9,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1157773439089946600,
+		"in_reply_to_status_id_str": "1157773439089946625",
+		"in_reply_to_user_id": 36623,
+		"in_reply_to_user_id_str": "36623",
+		"in_reply_to_screen_name": "jbenton",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10889,
+			"friends_count": 1672,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jbenton @corbydavidson It's what I miss most about living in Dallas."
+	},
+	{
+		"created_at": "Sat Aug 03 21:56:15 +0000 2019",
+		"id": 1157772189510201300,
+		"id_str": "1157772189510201344",
+		"full_text": "I'm sure @corbydavidson didn't radicalize him. https://t.co/rqGUpHpLiX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corbydavidson",
+					"name": "Corby Davidson",
+					"id": 22730876,
+					"id_str": "22730876",
+					"indices": [
+						9,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rqGUpHpLiX",
+					"expanded_url": "https://twitter.com/jbenton/status/1157770921622593536",
+					"display_url": "twitter.com/jbenton/status…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10889,
+			"friends_count": 1672,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1157770921622593500,
+		"quoted_status_id_str": "1157770921622593536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rqGUpHpLiX",
+			"expanded": "https://twitter.com/jbenton/status/1157770921622593536",
+			"display": "twitter.com/jbenton/status…"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm sure @corbydavidson didn't radicalize him. https://t.co/rqGUpHpLiX"
+	},
+	{
+		"created_at": "Sat Aug 03 21:55:10 +0000 2019",
+		"id": 825586411940229100,
+		"id_str": "1157771916960124928",
+		"full_text": "#BuildTheWall is the best way that @POTUS has worked to secure our country so far!\nhttps://t.co/hPbil6D3kR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BuildTheWall",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "POTUS",
+					"name": "President Trump",
+					"id": 822215679726100500,
+					"id_str": "822215679726100480",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hPbil6D3kR",
+					"expanded_url": "https://cards.twitter.com/cards/18ce53w2l9i/36pd8",
+					"display_url": "cards.twitter.com/cards/18ce53w2…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 784401215740194800,
+			"id_str": "784401215740194816",
+			"name": "Patrick Crusius",
+			"screen_name": "outsider609",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 26,
+			"listed_count": 7,
+			"created_at": "Fri Oct 07 14:33:18 +0000 2016",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854826780741562368/mhG9-r0Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854826780741562368/mhG9-r0Q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BuildTheWall is the best way that @POTUS has worked to secure our country so far!\nhttps://t.co/hPbil6D3kR"
+	},
+	{
+		"created_at": "Sat Aug 03 21:52:20 +0000 2019",
+		"id": 1157771109615452200,
+		"id_str": "1157771207585853440",
+		"full_text": "#ElPasoStrong Texas loves y'all.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ElPasoStrong",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15676944,
+			"id_str": "15676944",
+			"name": "Scott Braddock",
+			"screen_name": "scottbraddock",
+			"location": "Texas",
+			"description": "Of Texas. Editor @quorumreport. Journalist @ConstrCitizen. Texas Take Podcast w/@HoustonChron & @tprnews. Award-winning broadcaster. ksbraddock@gmail.com",
+			"url": "https://t.co/rDDIMoYHO3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rDDIMoYHO3",
+							"expanded_url": "http://scottbraddock.com",
+							"display_url": "scottbraddock.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12129,
+			"friends_count": 3959,
+			"listed_count": 379,
+			"created_at": "Thu Jul 31 16:41:04 +0000 2008",
+			"favourites_count": 4730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/949640459076304896/nCZJkfXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/949640459076304896/nCZJkfXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15676944/1504481051",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#ElPasoStrong Texas loves y'all."
+	},
+	{
 		"created_at": "Sat Aug 03 20:31:36 +0000 2019",
 		"id": 1157750890490552300,
 		"id_str": "1157750890490552320",
