@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 04 18:12:29 +0000 2019",
+		"id": 1157976673570230300,
+		"id_str": "1158078268303532032",
+		"full_text": "git repos are up (all the usual suspects including https://t.co/FjdXuvI2qi) with data &amp; sample code. \n\nI wonder what @stiles thinks of LA County potentially losing ~$707,600 in wages b/c of Lowe's greedy move? https://t.co/3XnMMfHUY3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FjdXuvI2qi",
+					"expanded_url": "https://gitlab.com/hrbrmstr/loweslocations",
+					"display_url": "gitlab.com/hrbrmstr/lowes…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1157976663734534100,
+					"id_str": "1157976663734534144",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EBH1o_QWwAAMFNp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBH1o_QWwAAMFNp.jpg",
+					"url": "https://t.co/3XnMMfHUY3",
+					"display_url": "pic.twitter.com/3XnMMfHUY3",
+					"expanded_url": "https://twitter.com/hrbrmstr/status/1157976673570230275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157976663734534100,
+					"id_str": "1157976663734534144",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EBH1o_QWwAAMFNp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBH1o_QWwAAMFNp.jpg",
+					"url": "https://t.co/3XnMMfHUY3",
+					"display_url": "pic.twitter.com/3XnMMfHUY3",
+					"expanded_url": "https://twitter.com/hrbrmstr/status/1157976673570230275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157976663738769400,
+					"id_str": "1157976663738769408",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EBH1o_RXYAAJgxA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBH1o_RXYAAJgxA.jpg",
+					"url": "https://t.co/3XnMMfHUY3",
+					"display_url": "pic.twitter.com/3XnMMfHUY3",
+					"expanded_url": "https://twitter.com/hrbrmstr/status/1157976673570230275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 894,
+							"h": 1116,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 894,
+							"h": 1116,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1157849558937940000,
+		"in_reply_to_status_id_str": "1157849558937939968",
+		"in_reply_to_user_id": 5685812,
+		"in_reply_to_user_id_str": "5685812",
+		"in_reply_to_screen_name": "hrbrmstr",
+		"user": {
+			"id": 5685812,
+			"id_str": "5685812",
+			"name": "boB Rudis",
+			"screen_name": "hrbrmstr",
+			"location": "On Your Left || Bridge 4",
+			"description": "Don't look at me…I do what he does—just slower. ½Miller½Holden. 🇷 #rstats avuncular • pampa • #tired • 👨‍🍳 • ✝️ • Prìomh Neach-saidheans Dàta @ @rapid7",
+			"url": "https://t.co/RgY1wHjoqM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RgY1wHjoqM",
+							"expanded_url": "https://rud.is/b",
+							"display_url": "rud.is/b",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11111,
+			"friends_count": 432,
+			"listed_count": 672,
+			"created_at": "Tue May 01 14:04:24 +0000 2007",
+			"favourites_count": 13292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 79362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824974380803334144/Vpmh_s3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824974380803334144/Vpmh_s3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5685812/1398248552",
+			"profile_link_color": "94BD5A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "git repos are up (all the usual suspects including https://t.co/FjdXuvI2qi) with data &amp; sample code. \n\nI wonder what @stiles thinks of LA County potentially losing ~$707,600 in wages b/c of Lowe's greedy move? https://t.co/3XnMMfHUY3"
+	},
+	{
 		"created_at": "Sun Aug 04 04:33:35 +0000 2019",
 		"id": 1157872184137666600,
 		"id_str": "1157872184137666561",
