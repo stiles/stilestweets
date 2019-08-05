@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 05 05:37:51 +0000 2019",
+		"id": 1158223751382745000,
+		"id_str": "1158250745612791808",
+		"full_text": "This is Ohio State Representative Candice Keller, a shining example of today's @ohiogop.\n\nShe has a few opinions about mass shootings.\n\nLet's make her famous. https://t.co/uUBowqUQWB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ohiogop",
+					"name": "Ohio Republicans",
+					"id": 15738163,
+					"id_str": "15738163",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1158223746836156400,
+					"id_str": "1158223746836156416",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EBLWXHiXUAA08WM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBLWXHiXUAA08WM.jpg",
+					"url": "https://t.co/uUBowqUQWB",
+					"display_url": "pic.twitter.com/uUBowqUQWB",
+					"expanded_url": "https://twitter.com/BrettPransky/status/1158223751382745088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158223746836156400,
+					"id_str": "1158223746836156416",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EBLWXHiXUAA08WM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBLWXHiXUAA08WM.jpg",
+					"url": "https://t.co/uUBowqUQWB",
+					"display_url": "pic.twitter.com/uUBowqUQWB",
+					"expanded_url": "https://twitter.com/BrettPransky/status/1158223751382745088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1158223746840301600,
+					"id_str": "1158223746840301574",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EBLWXHjWkAYj07C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBLWXHjWkAYj07C.jpg",
+					"url": "https://t.co/uUBowqUQWB",
+					"display_url": "pic.twitter.com/uUBowqUQWB",
+					"expanded_url": "https://twitter.com/BrettPransky/status/1158223751382745088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 712,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 712,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 473192438,
+			"id_str": "473192438",
+			"name": "Brett Pransky",
+			"screen_name": "BrettPransky",
+			"location": "Pickerington, OH",
+			"description": "Teacher. Writer. Husband. Dad. Seldom in that order. Words @PatnotPart, #DemCast, @Medium, & @DailyKos",
+			"url": "https://t.co/P2werimsM9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P2werimsM9",
+							"expanded_url": "https://brettpransky.com/",
+							"display_url": "brettpransky.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8847,
+			"friends_count": 2900,
+			"listed_count": 77,
+			"created_at": "Tue Jan 24 18:43:02 +0000 2012",
+			"favourites_count": 8290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046062617264099328/26KdlZS3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046062617264099328/26KdlZS3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/473192438/1541692491",
+			"profile_link_color": "336699",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 980,
+		"favorite_count": 963,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is Ohio State Representative Candice Keller, a shining example of today's @ohiogop.\n\nShe has a few opinions about mass shootings.\n\nLet's make her famous. https://t.co/uUBowqUQWB"
+	},
+	{
 		"created_at": "Mon Aug 05 03:44:58 +0000 2019",
 		"id": 1157849558937940000,
 		"id_str": "1158222336048300032",
@@ -188,7 +409,7 @@ Grailbird.data.tweets_2019_08 =
 			"name": "boB Rudis",
 			"screen_name": "hrbrmstr",
 			"location": "On Your Left || Bridge 4",
-			"description": "Don't look at me…I do what he does—just slower. ½Miller½Holden. 🇷 #rstats avuncular • pampa • #tired • 👨‍🍳 • ✝️ • Prìomh Neach-saidheans Dàta @ @rapid7",
+			"description": "Don't look at me…I do what he does—just slower. ½Miller½Holden. 🇷 #rstats avuncular • pampa • #tired • 👨🍳 • ✝️ • Prìomh Neach-saidheans Dàta @ @rapid7",
 			"url": "https://t.co/RgY1wHjoqM",
 			"entities": {
 				"url": {
