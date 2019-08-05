@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 05 03:44:58 +0000 2019",
+		"id": 1157849558937940000,
+		"id_str": "1158222336048300032",
+		"full_text": "Once more, you don't even need a basemap (kept to lower 48 for quick/simple) to see \"America\" in the notice of mass layoffs @ Lowe's.\n\nData journalists (et al) can get the geocoded store list here:  https://t.co/Yex3iPeDFE &amp; I'll have it public git repos ~morrow. https://t.co/jlf1yJEWxC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yex3iPeDFE",
+					"expanded_url": "https://rud.is/dl/lowes-stores-geo.csv.gz",
+					"display_url": "rud.is/dl/lowes-store…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1157849551816089600,
+					"id_str": "1157849551816089600",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EBGCCGdX4AApioT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBGCCGdX4AApioT.jpg",
+					"url": "https://t.co/jlf1yJEWxC",
+					"display_url": "pic.twitter.com/jlf1yJEWxC",
+					"expanded_url": "https://twitter.com/hrbrmstr/status/1157849558937939968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1674,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157849551816089600,
+					"id_str": "1157849551816089600",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EBGCCGdX4AApioT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBGCCGdX4AApioT.jpg",
+					"url": "https://t.co/jlf1yJEWxC",
+					"display_url": "pic.twitter.com/jlf1yJEWxC",
+					"expanded_url": "https://twitter.com/hrbrmstr/status/1157849558937939968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1674,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157849551816073200,
+					"id_str": "1157849551816073221",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EBGCCGdXoAUXAVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBGCCGdXoAUXAVs.jpg",
+					"url": "https://t.co/jlf1yJEWxC",
+					"display_url": "pic.twitter.com/jlf1yJEWxC",
+					"expanded_url": "https://twitter.com/hrbrmstr/status/1157849558937939968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 254,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 144,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157849551816077300,
+					"id_str": "1157849551816077314",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EBGCCGdXsAI5Pz6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBGCCGdXsAI5Pz6.jpg",
+					"url": "https://t.co/jlf1yJEWxC",
+					"display_url": "pic.twitter.com/jlf1yJEWxC",
+					"expanded_url": "https://twitter.com/hrbrmstr/status/1157849558937939968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 286,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 162,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5685812,
+			"id_str": "5685812",
+			"name": "boB Rudis",
+			"screen_name": "hrbrmstr",
+			"location": "On Your Left || Bridge 4",
+			"description": "Don't look at me…I do what he does—just slower. ½Miller½Holden. 🇷 #rstats avuncular • pampa • #tired • 👨‍🍳 • ✝️ • Prìomh Neach-saidheans Dàta @ @rapid7",
+			"url": "https://t.co/RgY1wHjoqM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RgY1wHjoqM",
+							"expanded_url": "https://rud.is/b",
+							"display_url": "rud.is/b",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11112,
+			"friends_count": 432,
+			"listed_count": 673,
+			"created_at": "Tue May 01 14:04:24 +0000 2007",
+			"favourites_count": 13296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 79375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824974380803334144/Vpmh_s3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824974380803334144/Vpmh_s3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5685812/1398248552",
+			"profile_link_color": "94BD5A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Once more, you don't even need a basemap (kept to lower 48 for quick/simple) to see \"America\" in the notice of mass layoffs @ Lowe's.\n\nData journalists (et al) can get the geocoded store list here:  https://t.co/Yex3iPeDFE &amp; I'll have it public git repos ~morrow. https://t.co/jlf1yJEWxC"
+	},
+	{
 		"created_at": "Sun Aug 04 19:39:47 +0000 2019",
 		"id": 1158100235043741700,
 		"id_str": "1158100235043741696",
