@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 06 20:58:00 +0000 2019",
+		"id": 1158844695419560000,
+		"id_str": "1158844695419559936",
+		"full_text": "Great piece by @latimes Westside reporter @sic_sonja on the slow and uncertain residential recovery in Malibu after last year's devastating Woolsey Fire. https://t.co/52EzuR1kT3 https://t.co/EM4IonfLnk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "sic_sonja",
+					"name": "Sonja Sharp",
+					"id": 15315056,
+					"id_str": "15315056",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/52EzuR1kT3",
+					"expanded_url": "https://www.latimes.com/california/story/2019-08-04/malibu-scraps-anti-mansionization-plan-woolsey-fire-future",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1158844692701651000,
+					"id_str": "1158844692701650944",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EBULG7JUIAAbjNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBULG7JUIAAbjNZ.jpg",
+					"url": "https://t.co/EM4IonfLnk",
+					"display_url": "pic.twitter.com/EM4IonfLnk",
+					"expanded_url": "https://twitter.com/stiles/status/1158844695419559936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158844692701651000,
+					"id_str": "1158844692701650944",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EBULG7JUIAAbjNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBULG7JUIAAbjNZ.jpg",
+					"url": "https://t.co/EM4IonfLnk",
+					"display_url": "pic.twitter.com/EM4IonfLnk",
+					"expanded_url": "https://twitter.com/stiles/status/1158844695419559936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 560,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10888,
+			"friends_count": 1674,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great piece by @latimes Westside reporter @sic_sonja on the slow and uncertain residential recovery in Malibu after last year's devastating Woolsey Fire. https://t.co/52EzuR1kT3 https://t.co/EM4IonfLnk"
+	},
+	{
 		"created_at": "Tue Aug 06 06:28:31 +0000 2019",
 		"id": 1158625883877306400,
 		"id_str": "1158625883877306368",
