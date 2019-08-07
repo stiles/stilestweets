@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 02:43:37 +0000 2019",
+		"id": 1158797162513236000,
+		"id_str": "1158931674270294018",
+		"full_text": "Newspapers are the sentinels to our democracy. I hope more Americans realize supporting them is a vital civic duty. We need more accountability, more sunshine, more competition at the national and local level. Please subscribe if possible. An emerging favorite is the @latimes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						268,
+						276
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36711022,
+			"id_str": "36711022",
+			"name": "Dan Rather",
+			"screen_name": "DanRather",
+			"location": "New York, NY",
+			"description": "Journalist, storyteller, and lifelong reader. A Texan, by birth and by choice. Author of WHAT UNITES US.  https://t.co/uhwukT5WuM",
+			"url": "http://t.co/rn0RB8jTqt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rn0RB8jTqt",
+							"expanded_url": "http://www.danrather.com/",
+							"display_url": "danrather.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uhwukT5WuM",
+							"expanded_url": "http://algonquin.com/whatunitesus",
+							"display_url": "algonquin.com/whatunitesus",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 694906,
+			"friends_count": 330,
+			"listed_count": 5371,
+			"created_at": "Thu Apr 30 16:56:13 +0000 2009",
+			"favourites_count": 2531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/649334374278807552/sUX0LOaE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/649334374278807552/sUX0LOaE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36711022/1446650131",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 412,
+		"favorite_count": 2060,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Newspapers are the sentinels to our democracy. I hope more Americans realize supporting them is a vital civic duty. We need more accountability, more sunshine, more competition at the national and local level. Please subscribe if possible. An emerging favorite is the @latimes"
+	},
+	{
 		"created_at": "Wed Aug 07 01:08:58 +0000 2019",
 		"id": 1158907855317229600,
 		"id_str": "1158907855317229574",
