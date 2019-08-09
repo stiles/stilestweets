@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 09 14:18:06 +0000 2019",
+		"id": 1159831220005458000,
+		"id_str": "1159831220005457921",
+		"full_text": "A thoughtful argument for why California can't compel Trump to release his tax returns, by John Yoo, the (controversial?) @TheJusticeDept official in the Bush administration who's now a Berkeley law professor: https://t.co/HBjdHecvqW https://t.co/M6RSeNmNsS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheJusticeDept",
+					"name": "Justice Department",
+					"id": 73181712,
+					"id_str": "73181712",
+					"indices": [
+						122,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HBjdHecvqW",
+					"expanded_url": "https://www.latimes.com/opinion/story/2019-08-08/california-law-trump-tax-returns-lawsuit",
+					"display_url": "latimes.com/opinion/story/…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1159831217098743800,
+					"id_str": "1159831217098743808",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EBiMWM6UYAAiDUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBiMWM6UYAAiDUc.jpg",
+					"url": "https://t.co/M6RSeNmNsS",
+					"display_url": "pic.twitter.com/M6RSeNmNsS",
+					"expanded_url": "https://twitter.com/stiles/status/1159831220005457921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159831217098743800,
+					"id_str": "1159831217098743808",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EBiMWM6UYAAiDUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBiMWM6UYAAiDUc.jpg",
+					"url": "https://t.co/M6RSeNmNsS",
+					"display_url": "pic.twitter.com/M6RSeNmNsS",
+					"expanded_url": "https://twitter.com/stiles/status/1159831220005457921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10900,
+			"friends_count": 1675,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A thoughtful argument for why California can't compel Trump to release his tax returns, by John Yoo, the (controversial?) @TheJusticeDept official in the Bush administration who's now a Berkeley law professor: https://t.co/HBjdHecvqW https://t.co/M6RSeNmNsS"
+	},
+	{
+		"created_at": "Fri Aug 09 14:04:48 +0000 2019",
+		"id": 1159244607001170000,
+		"id_str": "1159827873542180864",
+		"full_text": "it's been done but not like this\nhttps://t.co/h0F2yAK8eF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h0F2yAK8eF",
+					"expanded_url": "https://codepen.io/round/full/YmaXXW",
+					"display_url": "codepen.io/round/full/Yma…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1159200370683502600,
+		"in_reply_to_status_id_str": "1159200370683502599",
+		"in_reply_to_user_id": 15300655,
+		"in_reply_to_user_id_str": "15300655",
+		"in_reply_to_screen_name": "round",
+		"user": {
+			"id": 15300655,
+			"id_str": "15300655",
+			"name": "Maxim Leyzerovich",
+			"screen_name": "round",
+			"location": "DC (for now)",
+			"description": "UX Design Manager at @CapitalOne・@MICA & @GA Faculty・@DCUX + @UXPADC Organizer・@AIGAdesign & @UXPA_Int Mentor・Past @nclud & @RosettaStone・Not a morning person!",
+			"url": "https://t.co/jgyjyytn9j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgyjyytn9j",
+							"expanded_url": "http://xn--koax284rdb0d.com",
+							"display_url": "ʀᴏᴜɴᴅ.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13486,
+			"friends_count": 9870,
+			"listed_count": 667,
+			"created_at": "Wed Jul 02 18:54:41 +0000 2008",
+			"favourites_count": 495675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 163897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CC00AA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039560999823654912/pvj8gp0X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039560999823654912/pvj8gp0X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15300655/1521140496",
+			"profile_link_color": "EE00EE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "it's been done but not like this\nhttps://t.co/h0F2yAK8eF"
+	},
+	{
 		"created_at": "Fri Aug 09 04:06:14 +0000 2019",
 		"id": 1159677239836852200,
 		"id_str": "1159677239836852224",
