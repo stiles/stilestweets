@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 09 17:02:53 +0000 2019",
+		"id": 1159872689172914200,
+		"id_str": "1159872689172914176",
+		"full_text": "@Nat_Lash Awesome. Let us know know what you cook up.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nat_Lash",
+					"name": "Nathaniel Lash",
+					"id": 19341007,
+					"id_str": "19341007",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1159842613043716000,
+		"in_reply_to_status_id_str": "1159842613043716097",
+		"in_reply_to_user_id": 19341007,
+		"in_reply_to_user_id_str": "19341007",
+		"in_reply_to_screen_name": "Nat_Lash",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10909,
+			"friends_count": 1677,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Nat_Lash Awesome. Let us know know what you cook up."
+	},
+	{
+		"created_at": "Fri Aug 09 17:00:58 +0000 2019",
+		"id": 1159872208803516400,
+		"id_str": "1159872208803516416",
+		"full_text": "@jashkenas @mbostock @tmcw @observablehq @LATdatadesk The supervisors API notebook is working again. I'm just serving the json from @github gists to avoid rate limits for now. \n\nHuge thanks to @veltman. I just merged his suggested changes — including a nifty function that offers a peek at each document set. \n\nhttps://t.co/SbgOniE0ie",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			334
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jashkenas",
+					"name": "Jeremy Ashkenas",
+					"id": 123323498,
+					"id_str": "123323498",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mbostock",
+					"name": "Mike Bostock",
+					"id": 43593,
+					"id_str": "43593",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "tmcw",
+					"name": "Tom MacWright",
+					"id": 1458271,
+					"id_str": "1458271",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"screen_name": "observablehq",
+					"name": "Observable",
+					"id": 905255756789825500,
+					"id_str": "905255756789825536",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "LATdatadesk",
+					"name": "The Data Desk",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"screen_name": "github",
+					"name": "GitHub",
+					"id": 13334762,
+					"id_str": "13334762",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"screen_name": "veltman",
+					"name": "Noah Veltman",
+					"id": 17673012,
+					"id_str": "17673012",
+					"indices": [
+						193,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SbgOniE0ie",
+					"expanded_url": "http://bit.ly/2Kz89sw",
+					"display_url": "bit.ly/2Kz89sw",
+					"indices": [
+						311,
+						334
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1159825345240952800,
+		"in_reply_to_status_id_str": "1159825345240952832",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Digital muckraker @latimes, covering the @CountyofLA beat w/ words, data, visuals & code. Former Korea correspondent. Texan. Past: @wsj @NPR @TexasTribune",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10909,
+			"friends_count": 1677,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jashkenas @mbostock @tmcw @observablehq @LATdatadesk The supervisors API notebook is working again. I'm just serving the json from @github gists to avoid rate limits for now. \n\nHuge thanks to @veltman. I just merged his suggested changes — including a nifty function that offers a peek at each document set. \n\nhttps://t.co/SbgOniE0ie"
+	},
+	{
 		"created_at": "Fri Aug 09 15:23:28 +0000 2019",
 		"id": 1159847669767913500,
 		"id_str": "1159847669767913475",
