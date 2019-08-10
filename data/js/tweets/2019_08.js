@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 02:14:27 +0000 2019",
+		"id": 1159948402639065000,
+		"id_str": "1160011498841755648",
+		"full_text": "Time to finish up this map... https://t.co/zEFkHcYonA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1159948396192362500,
+					"id_str": "1159948396192362497",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EBj267DUcAEt2zf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBj267DUcAEt2zf.jpg",
+					"url": "https://t.co/zEFkHcYonA",
+					"display_url": "pic.twitter.com/zEFkHcYonA",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1159948402639065088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159948396192362500,
+					"id_str": "1159948396192362497",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EBj267DUcAEt2zf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBj267DUcAEt2zf.jpg",
+					"url": "https://t.co/zEFkHcYonA",
+					"display_url": "pic.twitter.com/zEFkHcYonA",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1159948402639065088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1159947822210269200,
+		"in_reply_to_status_id_str": "1159947822210269184",
+		"in_reply_to_user_id": 963122095747035100,
+		"in_reply_to_user_id_str": "963122095747035136",
+		"in_reply_to_screen_name": "ChrisLKellerLAT",
+		"user": {
+			"id": 963122095747035100,
+			"id_str": "963122095747035136",
+			"name": "Chris Keller",
+			"screen_name": "ChrisLKellerLAT",
+			"location": "Los Angeles, CA",
+			"description": "Digital & visual journalist for The Times’ 2020 election team. Former @KPCC, @madisondotcom, @nwi & @TheSPEagle. A more official-er account of @ChrisLKeller",
+			"url": "https://t.co/QPwW7wUqUW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QPwW7wUqUW",
+							"expanded_url": "http://www.latimes.com/la-bio-chris-keller-staff.html",
+							"display_url": "latimes.com/la-bio-chris-k…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 80,
+			"listed_count": 18,
+			"created_at": "Mon Feb 12 18:46:16 +0000 2018",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/963122095747035136/1518462904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Time to finish up this map... https://t.co/zEFkHcYonA"
+	},
+	{
 		"created_at": "Fri Aug 09 19:22:34 +0000 2019",
 		"id": 1159907844633743400,
 		"id_str": "1159907844633743360",
