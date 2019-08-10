@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 14:21:36 +0000 2019",
+		"id": 1159898428534665200,
+		"id_str": "1160194489446621185",
+		"full_text": "But I said please, Kid Rock. I said please. https://t.co/MdNJoXU02f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1159898395240280000,
+					"id_str": "1159898395240280065",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EBjJce_XsAEOyT6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBjJce_XsAEOyT6.jpg",
+					"url": "https://t.co/MdNJoXU02f",
+					"display_url": "pic.twitter.com/MdNJoXU02f",
+					"expanded_url": "https://twitter.com/iancanwrite/status/1159898428534665216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1075,
+							"h": 605,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 605,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159898395240280000,
+					"id_str": "1159898395240280065",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EBjJce_XsAEOyT6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBjJce_XsAEOyT6.jpg",
+					"url": "https://t.co/MdNJoXU02f",
+					"display_url": "pic.twitter.com/MdNJoXU02f",
+					"expanded_url": "https://twitter.com/iancanwrite/status/1159898428534665216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1075,
+							"h": 605,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 605,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1159898403247145000,
+					"id_str": "1159898403247144960",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EBjJc80WwAA1anZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBjJc80WwAA1anZ.jpg",
+					"url": "https://t.co/MdNJoXU02f",
+					"display_url": "pic.twitter.com/MdNJoXU02f",
+					"expanded_url": "https://twitter.com/iancanwrite/status/1159898428534665216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1159898413208678400,
+					"id_str": "1159898413208678400",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EBjJdh7XsAAXZAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBjJdh7XsAAXZAs.jpg",
+					"url": "https://t.co/MdNJoXU02f",
+					"display_url": "pic.twitter.com/MdNJoXU02f",
+					"expanded_url": "https://twitter.com/iancanwrite/status/1159898428534665216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1159898420968153000,
+					"id_str": "1159898420968153089",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EBjJd-1X4AEgDZP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBjJd-1X4AEgDZP.jpg",
+					"url": "https://t.co/MdNJoXU02f",
+					"display_url": "pic.twitter.com/MdNJoXU02f",
+					"expanded_url": "https://twitter.com/iancanwrite/status/1159898428534665216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 651,
+							"h": 777,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 651,
+							"h": 777,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1148660512290418700,
+			"id_str": "1148660512290418689",
+			"name": "iancanwrite",
+			"screen_name": "iancanwrite",
+			"location": "",
+			"description": "I like to write. I'm ready to write. Read my writing.",
+			"url": "https://t.co/3EqQ76qJ3N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3EqQ76qJ3N",
+							"expanded_url": "https://www.buymeacoffee.com/7CvYRxkeD",
+							"display_url": "buymeacoffee.com/7CvYRxkeD",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10669,
+			"friends_count": 3,
+			"listed_count": 19,
+			"created_at": "Tue Jul 09 18:29:42 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148660680700174336/nOYjeoZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148660680700174336/nOYjeoZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1148660512290418689/1562998684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23593,
+		"favorite_count": 129001,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "But I said please, Kid Rock. I said please. https://t.co/MdNJoXU02f"
+	},
+	{
 		"created_at": "Sat Aug 10 04:43:45 +0000 2019",
 		"id": 1159925622044528600,
 		"id_str": "1160049068313206784",
