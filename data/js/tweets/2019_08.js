@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 11 21:04:50 +0000 2019",
+		"id": 1160408808394506200,
+		"id_str": "1160658355750240256",
+		"full_text": "This is some stupid nonsense https://t.co/0Rf2YnR4rg https://t.co/Xhi4r47Vfv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Rf2YnR4rg",
+					"expanded_url": "https://beta.washingtonpost.com/opinions/2019/08/10/my-day-iowa-state-fair-reaffirmed-little-my-battered-faith-america/?outputType=amp",
+					"display_url": "beta.washingtonpost.com/opinions/2019/…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1160408797459964000,
+					"id_str": "1160408797459963904",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EBqZpzbW4AA34rh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBqZpzbW4AA34rh.jpg",
+					"url": "https://t.co/Xhi4r47Vfv",
+					"display_url": "pic.twitter.com/Xhi4r47Vfv",
+					"expanded_url": "https://twitter.com/lyzl/status/1160408808394506240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1064,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1064,
+							"h": 1049,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160408797459964000,
+					"id_str": "1160408797459963904",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EBqZpzbW4AA34rh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBqZpzbW4AA34rh.jpg",
+					"url": "https://t.co/Xhi4r47Vfv",
+					"display_url": "pic.twitter.com/Xhi4r47Vfv",
+					"expanded_url": "https://twitter.com/lyzl/status/1160408808394506240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1064,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1064,
+							"h": 1049,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14125005,
+			"id_str": "14125005",
+			"name": "Lyz Lenz",
+			"screen_name": "lyzl",
+			"location": "",
+			"description": "Columnist @gazettedotcom. Writer @CJR. God Land is out August 2019 from @IUpress. Belabored forthcoming from @BoldTypeBooks she/her. Mouthy and uppity.",
+			"url": "https://t.co/zIPUKQpPhp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zIPUKQpPhp",
+							"expanded_url": "http://lyzlenz.com",
+							"display_url": "lyzlenz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35414,
+			"friends_count": 1863,
+			"listed_count": 502,
+			"created_at": "Tue Mar 11 16:15:29 +0000 2008",
+			"favourites_count": 72650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081749333727416320/4Fnm3_r-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081749333727416320/4Fnm3_r-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14125005/1544749375",
+			"profile_link_color": "5100FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 534,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is some stupid nonsense https://t.co/0Rf2YnR4rg https://t.co/Xhi4r47Vfv"
+	},
+	{
 		"created_at": "Sun Aug 11 14:13:16 +0000 2019",
 		"id": 1160554779950510000,
 		"id_str": "1160554779950510081",
