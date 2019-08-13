@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 19:08:21 +0000 2019",
+		"id": 1161348867897450500,
+		"id_str": "1161353816710664193",
+		"full_text": "I've yet to dive into @observablehq, so I figured I'd give it a shot today.\n\nIn a few hours - and standing on the shoulders of @rdmurphy, @stiles &amp; @palewire - I was able to recreate work I had manually done. And now it's kind of repeatable. \n\nhttps://t.co/OrM8mNeqxE https://t.co/cRzlnWica2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "observablehq",
+					"name": "Observable",
+					"id": 905255756789825500,
+					"id_str": "905255756789825536",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "rdmurphy",
+					"name": "Ryan Murphy",
+					"id": 20031243,
+					"id_str": "20031243",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"screen_name": "palewire",
+					"name": "Ben Welsh",
+					"id": 14559196,
+					"id_str": "14559196",
+					"indices": [
+						152,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OrM8mNeqxE",
+					"expanded_url": "https://observablehq.com/@chrislkeller/retirements-historically-close-2018-midterms-could-put-te",
+					"display_url": "observablehq.com/@chrislkeller/…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1161348865083097000,
+					"id_str": "1161348865083097088",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EB3wo8OUwAACvKI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EB3wo8OUwAACvKI.png",
+					"url": "https://t.co/cRzlnWica2",
+					"display_url": "pic.twitter.com/cRzlnWica2",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1161348867897450496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 299,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 299,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 299,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161348865083097000,
+					"id_str": "1161348865083097088",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EB3wo8OUwAACvKI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EB3wo8OUwAACvKI.png",
+					"url": "https://t.co/cRzlnWica2",
+					"display_url": "pic.twitter.com/cRzlnWica2",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1161348867897450496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 299,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 299,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 299,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 963122095747035100,
+			"id_str": "963122095747035136",
+			"name": "Chris Keller",
+			"screen_name": "ChrisLKellerLAT",
+			"location": "Los Angeles, CA",
+			"description": "Digital & visual journalist for The Times’ 2020 election team. Former @KPCC, @madisondotcom, @nwi & @TheSPEagle. A more official-er account of @ChrisLKeller",
+			"url": "https://t.co/QPwW7wUqUW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QPwW7wUqUW",
+							"expanded_url": "http://www.latimes.com/la-bio-chris-keller-staff.html",
+							"display_url": "latimes.com/la-bio-chris-k…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 80,
+			"listed_count": 18,
+			"created_at": "Mon Feb 12 18:46:16 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/963122095747035136/1518462904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've yet to dive into @observablehq, so I figured I'd give it a shot today.\n\nIn a few hours - and standing on the shoulders of @rdmurphy, @stiles &amp; @palewire - I was able to recreate work I had manually done. And now it's kind of repeatable. \n\nhttps://t.co/OrM8mNeqxE https://t.co/cRzlnWica2"
+	},
+	{
 		"created_at": "Tue Aug 13 15:35:31 +0000 2019",
 		"id": 1161300257428271000,
 		"id_str": "1161300257428271104",
