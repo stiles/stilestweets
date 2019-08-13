@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 02:53:16 +0000 2019",
+		"id": 1161079948997562400,
+		"id_str": "1161108430389538816",
+		"full_text": "Something about Paw Patrol was bothering the heck out of me and as it turns out there's an obsessively-maintained Wiki, so I crunched some numbers and, well, https://t.co/ZkoHOu3Z3t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1161079944471908400,
+					"id_str": "1161079944471908353",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EBz8Ds4UEAE-Tv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBz8Ds4UEAE-Tv1.jpg",
+					"url": "https://t.co/ZkoHOu3Z3t",
+					"display_url": "pic.twitter.com/ZkoHOu3Z3t",
+					"expanded_url": "https://twitter.com/_cingraham/status/1161079948997562368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 804,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1310,
+							"h": 878,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161079944471908400,
+					"id_str": "1161079944471908353",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EBz8Ds4UEAE-Tv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBz8Ds4UEAE-Tv1.jpg",
+					"url": "https://t.co/ZkoHOu3Z3t",
+					"display_url": "pic.twitter.com/ZkoHOu3Z3t",
+					"expanded_url": "https://twitter.com/_cingraham/status/1161079948997562368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 804,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1310,
+							"h": 878,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452521774,
+			"id_str": "452521774",
+			"name": "Christopher Ingraham",
+			"screen_name": "_cingraham",
+			"location": "Red Lake Falls, MN",
+			"description": "Washington Post data reporter. Born-again Minnesotan. Author of If You Lived Here You'd Be Home By Now, coming from Harper Collins on 9/10/19.",
+			"url": "https://t.co/0kZWWqfkCs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kZWWqfkCs",
+							"expanded_url": "https://www.amazon.com/You-Lived-Here-Youd-Home/dp/0062861476/",
+							"display_url": "amazon.com/You-Lived-Here…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81467,
+			"friends_count": 1262,
+			"listed_count": 1845,
+			"created_at": "Sun Jan 01 23:27:55 +0000 2012",
+			"favourites_count": 19215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105133182574223360/m_h-lhSu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105133182574223360/m_h-lhSu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452521774/1559656043",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 819,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Something about Paw Patrol was bothering the heck out of me and as it turns out there's an obsessively-maintained Wiki, so I crunched some numbers and, well, https://t.co/ZkoHOu3Z3t"
+	},
+	{
 		"created_at": "Tue Aug 13 00:14:56 +0000 2019",
 		"id": 1161068583671062500,
 		"id_str": "1161068583671062528",
