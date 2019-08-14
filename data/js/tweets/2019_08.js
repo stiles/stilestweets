@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 14 15:29:08 +0000 2019",
+		"id": 1161261092422574000,
+		"id_str": "1161661036828618752",
+		"full_text": "This week marks 20 years since I pivoted to data journalism. I quit my reporting job in Oshkosh, moved to Missouri for grad school and working @IRE_NICAR. Best career move ever! Hard to believe 2 decades have passed.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IRE_NICAR",
+					"name": "IRE and NICAR",
+					"id": 12655722,
+					"id_str": "12655722",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456910805,
+			"id_str": "456910805",
+			"name": "MaryJo Webster",
+			"screen_name": "MaryJoWebster",
+			"location": "Arden Hills, Minnesota",
+			"description": "Data journalist. Watchdog. Educator. @StarTribune.",
+			"url": "https://t.co/tlTENOlitY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tlTENOlitY",
+							"expanded_url": "http://mjwebster.github.io/DataJ/",
+							"display_url": "mjwebster.github.io/DataJ/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2734,
+			"friends_count": 529,
+			"listed_count": 262,
+			"created_at": "Fri Jan 06 20:20:13 +0000 2012",
+			"favourites_count": 2019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042402060682051585/-7sLesIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042402060682051585/-7sLesIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456910805/1417141939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 167,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "This week marks 20 years since I pivoted to data journalism. I quit my reporting job in Oshkosh, moved to Missouri for grad school and working @IRE_NICAR. Best career move ever! Hard to believe 2 decades have passed."
+	},
+	{
 		"created_at": "Wed Aug 14 13:52:17 +0000 2019",
 		"id": 1161636662067073000,
 		"id_str": "1161636662067073025",
