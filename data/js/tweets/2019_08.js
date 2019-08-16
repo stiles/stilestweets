@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 16 02:06:16 +0000 2019",
+		"id": 1162083986207903700,
+		"id_str": "1162183766212612097",
+		"full_text": "He'll hate this, so I gotta say it out loud: @palewire is a fucking treasure and this is an excellent decision by @latimes.\n\nGodspeed, brother. https://t.co/mmhZz5XDUv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "palewire",
+					"name": "Ben Welsh",
+					"id": 14559196,
+					"id_str": "14559196",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mmhZz5XDUv",
+					"expanded_url": "https://twitter.com/anthonyjpesce/status/1162081071766261760",
+					"display_url": "twitter.com/anthonyjpesce/…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8083262,
+			"id_str": "8083262",
+			"name": "Jeremy Bowers",
+			"screen_name": "jeremybowers",
+			"location": "Washington, D.C.",
+			"description": "Director of engineering, @wapoengineering. Adjunct @Duke_DeWitt. Priors: @nytinteractive, @nprviz, @tb_times. #TheSqueezle #TheGiblette @beckybowers",
+			"url": "https://t.co/bJcwfkCU7u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bJcwfkCU7u",
+							"expanded_url": "https://jeremybowers.com/",
+							"display_url": "jeremybowers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13158,
+			"friends_count": 4104,
+			"listed_count": 744,
+			"created_at": "Thu Aug 09 16:00:54 +0000 2007",
+			"favourites_count": 82125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 67700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157116234779037702/nVks_Rxv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157116234779037702/nVks_Rxv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8083262/1564712984",
+			"profile_link_color": "005599",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1162081071766261800,
+		"quoted_status_id_str": "1162081071766261760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mmhZz5XDUv",
+			"expanded": "https://twitter.com/anthonyjpesce/status/1162081071766261760",
+			"display": "twitter.com/anthonyjpesce/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 15 19:18:12 +0000 2019",
+			"id": 1162081071766261800,
+			"id_str": "1162081071766261760",
+			"full_text": "HUGE CONGRATS to my boss @palewire, who will be running a newly combined @LATdatadesk and @LATimesGraphics team!\n\nOh, and he’s hiring deputies 👀 https://t.co/5nFO4T0JUN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "palewire",
+						"name": "Ben Welsh",
+						"id": 14559196,
+						"id_str": "14559196",
+						"indices": [
+							25,
+							34
+						]
+					},
+					{
+						"screen_name": "LATdatadesk",
+						"name": "The Data Desk",
+						"id": 17918860,
+						"id_str": "17918860",
+						"indices": [
+							73,
+							85
+						]
+					},
+					{
+						"screen_name": "LATimesGraphics",
+						"name": "L.A. Times Graphics",
+						"id": 1514440494,
+						"id_str": "1514440494",
+						"indices": [
+							90,
+							106
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1162081065189535700,
+						"id_str": "1162081065189535746",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/ECCKkmLUcAIofQt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECCKkmLUcAIofQt.jpg",
+						"url": "https://t.co/5nFO4T0JUN",
+						"display_url": "pic.twitter.com/5nFO4T0JUN",
+						"expanded_url": "https://twitter.com/anthonyjpesce/status/1162081071766261760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1162081065189535700,
+						"id_str": "1162081065189535746",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/ECCKkmLUcAIofQt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECCKkmLUcAIofQt.jpg",
+						"url": "https://t.co/5nFO4T0JUN",
+						"display_url": "pic.twitter.com/5nFO4T0JUN",
+						"expanded_url": "https://twitter.com/anthonyjpesce/status/1162081071766261760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1162081065189593000,
+						"id_str": "1162081065189593088",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/ECCKkmLVUAAme2g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECCKkmLVUAAme2g.jpg",
+						"url": "https://t.co/5nFO4T0JUN",
+						"display_url": "pic.twitter.com/5nFO4T0JUN",
+						"expanded_url": "https://twitter.com/anthonyjpesce/status/1162081071766261760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16973143,
+				"id_str": "16973143",
+				"name": "Anthony Pesce 🦅",
+				"screen_name": "anthonyjpesce",
+				"location": "Los Angeles",
+				"description": "Data Journalist @latimes & @latdatadesk, co-chair of @latguild, he/him 🏳️‍🌈. Public key: https://t.co/pO61farAsH",
+				"url": "https://t.co/zcMKx1eqZx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zcMKx1eqZx",
+								"expanded_url": "http://anthonypesce.com",
+								"display_url": "anthonypesce.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pO61farAsH",
+								"expanded_url": "https://s3-us-west-2.amazonaws.com/anthonyjpesce.pgp/public_key.txt",
+								"display_url": "s3-us-west-2.amazonaws.com/anthonyjpesce.…",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1860,
+				"friends_count": 1131,
+				"listed_count": 125,
+				"created_at": "Sat Oct 25 23:41:04 +0000 2008",
+				"favourites_count": 1046,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1590,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092549789399449601/yl2fvE0j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092549789399449601/yl2fvE0j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16973143/1399666545",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 202,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He'll hate this, so I gotta say it out loud: @palewire is a fucking treasure and this is an excellent decision by @latimes.\n\nGodspeed, brother. https://t.co/mmhZz5XDUv"
+	},
+	{
 		"created_at": "Thu Aug 15 06:17:56 +0000 2019",
 		"id": 1161884712148750300,
 		"id_str": "1161884712148750336",
