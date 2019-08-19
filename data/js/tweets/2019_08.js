@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 19 06:30:20 +0000 2019",
+		"id": 1163337382977867800,
+		"id_str": "1163337382977867776",
+		"full_text": "I never met K. Connie Kang, but this fabulous Column One she wrote about the complexities of the Korean language inspired me to be a better reporter during my time in Seoul. \n\n'You' will be missed. \n\nhttps://t.co/AsspemfUHz https://t.co/Xh2Liuem4O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AsspemfUHz",
+					"expanded_url": "https://www.latimes.com/archives/la-xpm-2006-jul-24-me-you24-story.html",
+					"display_url": "latimes.com/archives/la-xp…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1163337380234813400,
+					"id_str": "1163337380234813441",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/ECUBLwbUYAEhfb8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECUBLwbUYAEhfb8.jpg",
+					"url": "https://t.co/Xh2Liuem4O",
+					"display_url": "pic.twitter.com/Xh2Liuem4O",
+					"expanded_url": "https://twitter.com/stiles/status/1163337382977867776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 526,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 526,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1163337380234813400,
+					"id_str": "1163337380234813441",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/ECUBLwbUYAEhfb8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECUBLwbUYAEhfb8.jpg",
+					"url": "https://t.co/Xh2Liuem4O",
+					"display_url": "pic.twitter.com/Xh2Liuem4O",
+					"expanded_url": "https://twitter.com/stiles/status/1163337382977867776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 526,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 526,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA. Fan of structured beat reporting with data, visuals & code. Past: @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10932,
+			"friends_count": 1691,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I never met K. Connie Kang, but this fabulous Column One she wrote about the complexities of the Korean language inspired me to be a better reporter during my time in Seoul. \n\n'You' will be missed. \n\nhttps://t.co/AsspemfUHz https://t.co/Xh2Liuem4O"
+	},
+	{
 		"created_at": "Sun Aug 18 06:45:11 +0000 2019",
 		"id": 1162978730286833700,
 		"id_str": "1162978730286833664",
