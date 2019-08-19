@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 19 22:47:46 +0000 2019",
+		"id": 1163581998348136400,
+		"id_str": "1163583361207586817",
+		"full_text": "https://t.co/yUBcEyvGuy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1163581991050027000,
+					"id_str": "1163581991050027008",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ECXfp-uUIAAblvP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECXfp-uUIAAblvP.jpg",
+					"url": "https://t.co/yUBcEyvGuy",
+					"display_url": "pic.twitter.com/yUBcEyvGuy",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1163581998348136448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1028,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1163581991050027000,
+					"id_str": "1163581991050027008",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ECXfp-uUIAAblvP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECXfp-uUIAAblvP.jpg",
+					"url": "https://t.co/yUBcEyvGuy",
+					"display_url": "pic.twitter.com/yUBcEyvGuy",
+					"expanded_url": "https://twitter.com/LACoSheriff/status/1163581998348136448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1028,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067499378175238100,
+			"id_str": "1067499378175238144",
+			"name": "Alex Villanueva",
+			"screen_name": "LACoSheriff",
+			"location": "Los Angeles, CA",
+			"description": "33rd Sheriff, Los Angeles County; Veteran; Doctorate of Public Administration; 30+ years #LASD #SheriffV",
+			"url": "https://t.co/rDy4m9WlSL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rDy4m9WlSL",
+							"expanded_url": "https://lasd.org",
+							"display_url": "lasd.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2914,
+			"friends_count": 301,
+			"listed_count": 30,
+			"created_at": "Tue Nov 27 19:24:19 +0000 2018",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083196826902192129/vSMN2T-a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067499378175238144/1543898306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/yUBcEyvGuy"
+	},
+	{
 		"created_at": "Mon Aug 19 22:06:23 +0000 2019",
 		"id": 1163572946541006800,
 		"id_str": "1163572946541006848",
