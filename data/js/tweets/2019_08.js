@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 20 05:36:56 +0000 2019",
+		"id": 1163665066375274500,
+		"id_str": "1163686330947080193",
+		"full_text": "@haseyestosee @stiles The Ballot Marking Devices simply mark the paper ballot in a modern, accessible and secure manner. Voters will have multiple chances to review their selections on the touchscreen and again once the paper ballot is printed before casing their ballot.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haseyestosee",
+					"name": "haseyestosee",
+					"id": 4203875652,
+					"id_str": "4203875652",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1163654415162597400,
+		"in_reply_to_status_id_str": "1163654415162597376",
+		"in_reply_to_user_id": 4203875652,
+		"in_reply_to_user_id_str": "4203875652",
+		"in_reply_to_screen_name": "haseyestosee",
+		"user": {
+			"id": 21807663,
+			"id_str": "21807663",
+			"name": "Dean Logan, RR/CC",
+			"screen_name": "LACountyRRCC",
+			"location": "Los Angeles County",
+			"description": "L.A. County Registrar-Recorder/County Clerk | Elections? We conduct them.\nRecords? We have those.\nGetting Married? We do that too.\nhttps://t.co/yo9p8vsY6o",
+			"url": "http://t.co/VkLKHVYxBl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VkLKHVYxBl",
+							"expanded_url": "http://www.lavote.net",
+							"display_url": "lavote.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yo9p8vsY6o",
+							"expanded_url": "http://www.lavote.net/documents/media/RRCC_SMSDisclaimers.pdf",
+							"display_url": "lavote.net/documents/medi…",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6144,
+			"friends_count": 1417,
+			"listed_count": 253,
+			"created_at": "Tue Feb 24 22:40:37 +0000 2009",
+			"favourites_count": 5001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21807663/1547512642",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@haseyestosee @stiles The Ballot Marking Devices simply mark the paper ballot in a modern, accessible and secure manner. Voters will have multiple chances to review their selections on the touchscreen and again once the paper ballot is printed before casing their ballot."
+	},
+	{
 		"created_at": "Tue Aug 20 03:49:20 +0000 2019",
 		"id": 1163659255825621000,
 		"id_str": "1163659255825620993",
