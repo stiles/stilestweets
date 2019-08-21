@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 21 19:15:49 +0000 2019",
+		"id": 1164254797127540700,
+		"id_str": "1164254797127540736",
+		"full_text": "Trump refers to another woman as 'nasty' — this time the Danish prime minister. Turns out he's also used that word to describe a bunch of dudes, too: Russell Moore, Lindsey Graham, Marco Rubio, Ted Cruz &amp; Jeb Bush. @KevinQ still tracking insults: https://t.co/c5RJx4XcsC https://t.co/s4tFZgIdot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KevinQ",
+					"name": "Kevin Quealy",
+					"id": 19671465,
+					"id_str": "19671465",
+					"indices": [
+						219,
+						226
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/c5RJx4XcsC",
+					"expanded_url": "https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1164254795269460000,
+					"id_str": "1164254795269459968",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EChDkVwU0AA0ZbA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EChDkVwU0AA0ZbA.png",
+					"url": "https://t.co/s4tFZgIdot",
+					"display_url": "pic.twitter.com/s4tFZgIdot",
+					"expanded_url": "https://twitter.com/stiles/status/1164254797127540736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 312,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 312,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 312,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164254795269460000,
+					"id_str": "1164254795269459968",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EChDkVwU0AA0ZbA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EChDkVwU0AA0ZbA.png",
+					"url": "https://t.co/s4tFZgIdot",
+					"display_url": "pic.twitter.com/s4tFZgIdot",
+					"expanded_url": "https://twitter.com/stiles/status/1164254797127540736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 312,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 312,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 312,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA. Fan of structured beat reporting with data, visuals & code. Past: @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10950,
+			"friends_count": 1696,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump refers to another woman as 'nasty' — this time the Danish prime minister. Turns out he's also used that word to describe a bunch of dudes, too: Russell Moore, Lindsey Graham, Marco Rubio, Ted Cruz &amp; Jeb Bush. @KevinQ still tracking insults: https://t.co/c5RJx4XcsC https://t.co/s4tFZgIdot"
+	},
+	{
 		"created_at": "Wed Aug 21 02:04:27 +0000 2019",
 		"id": 1163799385097920500,
 		"id_str": "1163995245224189955",
