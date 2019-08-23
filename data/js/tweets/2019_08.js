@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 23 16:00:34 +0000 2019",
+		"id": 1164930437816262700,
+		"id_str": "1164930437816262656",
+		"full_text": "@LuluFriesdat @FilmsForChange @LACountyRRCC @TheBradBlog @HarriHursti @jennycohn1 @MimiKennedyLA @DCLogan @latimes @LAProgressive @kcrw @KCET @SheilaKuehl @tedlieu @MOVI_Coalition @jhalderm @secureourvotes @VerifiedVoting @Lauren_Steiner Impossible? Voters at the polls and via mail can look at their choices on paper before casting. Am I missing something?",
+		"truncated": false,
+		"display_text_range": [
+			238,
+			357
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LuluFriesdat",
+					"name": "Lulu Friesdat",
+					"id": 115850027,
+					"id_str": "115850027",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "FilmsForChange",
+					"name": "Holly Mosher",
+					"id": 22795984,
+					"id_str": "22795984",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "TheBradBlog",
+					"name": "Brad Friedman",
+					"id": 24268066,
+					"id_str": "24268066",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "HarriHursti",
+					"name": "Harri Hursti",
+					"id": 8783232,
+					"id_str": "8783232",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"screen_name": "jennycohn1",
+					"name": "Jennifer Cohn",
+					"id": 4541535439,
+					"id_str": "4541535439",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "MimiKennedyLA",
+					"name": "Mimi Kennedy",
+					"id": 23557652,
+					"id_str": "23557652",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"screen_name": "DCLogan",
+					"name": "Dean Logan",
+					"id": 23175052,
+					"id_str": "23175052",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"screen_name": "LAProgressive",
+					"name": "LA Progressive",
+					"id": 18554720,
+					"id_str": "18554720",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"screen_name": "kcrw",
+					"name": "KCRW",
+					"id": 9636632,
+					"id_str": "9636632",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"screen_name": "KCET",
+					"name": "KCET-TV SoCal",
+					"id": 33726864,
+					"id_str": "33726864",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"screen_name": "tedlieu",
+					"name": "Ted Lieu",
+					"id": 21059255,
+					"id_str": "21059255",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"screen_name": "MOVI_Coalition",
+					"name": "MOVI Coalition",
+					"id": 935741298,
+					"id_str": "935741298",
+					"indices": [
+						164,
+						179
+					]
+				},
+				{
+					"screen_name": "jhalderm",
+					"name": "J. Alex Halderman",
+					"id": 94415153,
+					"id_str": "94415153",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"screen_name": "secureourvotes",
+					"name": "Secure Our Vote",
+					"id": 1006644094511341600,
+					"id_str": "1006644094511341569",
+					"indices": [
+						190,
+						205
+					]
+				},
+				{
+					"screen_name": "VerifiedVoting",
+					"name": "Verified Voting",
+					"id": 40283272,
+					"id_str": "40283272",
+					"indices": [
+						206,
+						221
+					]
+				},
+				{
+					"screen_name": "Lauren_Steiner",
+					"name": "The Robust Opposition",
+					"id": 421494424,
+					"id_str": "421494424",
+					"indices": [
+						222,
+						237
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1164914742563082200,
+		"in_reply_to_status_id_str": "1164914742563082240",
+		"in_reply_to_user_id": 115850027,
+		"in_reply_to_user_id_str": "115850027",
+		"in_reply_to_screen_name": "LuluFriesdat",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10952,
+			"friends_count": 1698,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1564124417",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LuluFriesdat @FilmsForChange @LACountyRRCC @TheBradBlog @HarriHursti @jennycohn1 @MimiKennedyLA @DCLogan @latimes @LAProgressive @kcrw @KCET @SheilaKuehl @tedlieu @MOVI_Coalition @jhalderm @secureourvotes @VerifiedVoting @Lauren_Steiner Impossible? Voters at the polls and via mail can look at their choices on paper before casting. Am I missing something?"
+	},
+	{
 		"created_at": "Fri Aug 23 13:38:59 +0000 2019",
 		"id": 1164894806893449200,
 		"id_str": "1164894806893449216",
