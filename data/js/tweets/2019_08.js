@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 24 03:41:14 +0000 2019",
+		"id": 1164658143923622000,
+		"id_str": "1165106767497318400",
+		"full_text": "In a fundraising letter dated the day before the #ElPaso shooting, Gov. Greg Abbott asked his supporters to help \"defend\" Texas from \"illegal immigrants\" by taking \"matters into our own hands\" via @TheTexasSignal \nhttps://t.co/SBzsTOSklr https://t.co/YGdORYPM3d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ElPaso",
+					"indices": [
+						49,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheTexasSignal",
+					"name": "The Texas Signal",
+					"id": 1110908848502726700,
+					"id_str": "1110908848502726656",
+					"indices": [
+						197,
+						212
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SBzsTOSklr",
+					"expanded_url": "http://www.thetexassignal.com/exclusive-abbott-sends-out-anti-immigrant-fundraising-letter-a-day-before-el-paso-attack/",
+					"display_url": "thetexassignal.com/exclusive-abbo…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1164658140069019600,
+					"id_str": "1164658140069019648",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/ECmyaGOUwAAmgX8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECmyaGOUwAAmgX8.jpg",
+					"url": "https://t.co/YGdORYPM3d",
+					"display_url": "pic.twitter.com/YGdORYPM3d",
+					"expanded_url": "https://twitter.com/bri_sacks/status/1164658143923621889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 737,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 737,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164658140069019600,
+					"id_str": "1164658140069019648",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/ECmyaGOUwAAmgX8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECmyaGOUwAAmgX8.jpg",
+					"url": "https://t.co/YGdORYPM3d",
+					"display_url": "pic.twitter.com/YGdORYPM3d",
+					"expanded_url": "https://twitter.com/bri_sacks/status/1164658143923621889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 737,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 737,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 350597282,
+			"id_str": "350597282",
+			"name": "Brianna Sacks",
+			"screen_name": "bri_sacks",
+			"location": "Los Angeles, CA",
+			"description": "\"Decent reporter. Killer eyebrows,\" per a dude’s Twitter dm. Covering the 🔥 💩🙃 for @buzzfeednews. Holler: Brianna.sacks@buzzfeed.com.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10106,
+			"friends_count": 2821,
+			"listed_count": 250,
+			"created_at": "Mon Aug 08 01:17:38 +0000 2011",
+			"favourites_count": 4731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154176264879501312/ILJm6Ft1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154176264879501312/ILJm6Ft1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/350597282/1517955966",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D7F2F5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1139,
+		"favorite_count": 1058,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In a fundraising letter dated the day before the #ElPaso shooting, Gov. Greg Abbott asked his supporters to help \"defend\" Texas from \"illegal immigrants\" by taking \"matters into our own hands\" via @TheTexasSignal \nhttps://t.co/SBzsTOSklr https://t.co/YGdORYPM3d"
+	},
+	{
 		"created_at": "Fri Aug 23 23:16:24 +0000 2019",
 		"id": 1165040120409362400,
 		"id_str": "1165040120409362432",
