@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 24 14:50:27 +0000 2019",
+		"id": 1165200479850123300,
+		"id_str": "1165275182614712321",
+		"full_text": "South Korea this is genius. Beer yoga! https://t.co/pwY38uabnV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165200450993320000,
+					"id_str": "1165200450993319938",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/ECufov2U8AIEQxD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECufov2U8AIEQxD.jpg",
+					"url": "https://t.co/pwY38uabnV",
+					"display_url": "pic.twitter.com/pwY38uabnV",
+					"expanded_url": "https://twitter.com/BBCLBicker/status/1165200479850123264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165200450993320000,
+					"id_str": "1165200450993319938",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/ECufov2U8AIEQxD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECufov2U8AIEQxD.jpg",
+					"url": "https://t.co/pwY38uabnV",
+					"display_url": "pic.twitter.com/pwY38uabnV",
+					"expanded_url": "https://twitter.com/BBCLBicker/status/1165200479850123264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240756474,
+			"id_str": "240756474",
+			"name": "Laura Bicker",
+			"screen_name": "BBCLBicker",
+			"location": "Seoul, Republic of Korea",
+			"description": "BBC Seoul Correspondent, former Washington Correspondent. Scots lass and lover of outdoor sports & triathlon. Views my own. RTs not endorsements.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36711,
+			"friends_count": 1972,
+			"listed_count": 651,
+			"created_at": "Thu Jan 20 17:32:34 +0000 2011",
+			"favourites_count": 10681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/436620937019277312/eUJwrSaX_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/436620937019277312/eUJwrSaX_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240756474/1521203376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "South Korea this is genius. Beer yoga! https://t.co/pwY38uabnV"
+	},
+	{
 		"created_at": "Sat Aug 24 04:29:44 +0000 2019",
 		"id": 1165118971508478000,
 		"id_str": "1165118971508477952",
