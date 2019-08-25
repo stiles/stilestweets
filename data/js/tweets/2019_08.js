@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 25 17:36:38 +0000 2019",
+		"id": 1165676295901958100,
+		"id_str": "1165679390539177984",
+		"full_text": "The @nytimes finally listened to @busblog and hired an LA local. Results are 💯/💯. https://t.co/35NXg4JN7d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"screen_name": "busblog",
+					"name": "tony pierce",
+					"id": 5490762,
+					"id_str": "5490762",
+					"indices": [
+						33,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/35NXg4JN7d",
+					"expanded_url": "https://twitter.com/longdrivesouth/status/1165674653127344130",
+					"display_url": "twitter.com/longdrivesouth…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @LATdatadesk at @latimes · Organizer, https://t.co/lZvqTdDOmO · Archivist, https://t.co/CaO6K276g3 · Send tips to ben.welsh@latimes.com",
+			"url": "https://t.co/kogJ0fJceo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kogJ0fJceo",
+							"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lZvqTdDOmO",
+							"expanded_url": "http://www.californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9418,
+			"friends_count": 3076,
+			"listed_count": 711,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1165674653127344000,
+		"quoted_status_id_str": "1165674653127344130",
+		"quoted_status_permalink": {
+			"url": "https://t.co/35NXg4JN7d",
+			"expanded": "https://twitter.com/longdrivesouth/status/1165674653127344130",
+			"display": "twitter.com/longdrivesouth…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 25 17:17:49 +0000 2019",
+			"id": 1165674653127344000,
+			"id_str": "1165674653127344130",
+			"full_text": "Mi reporte ... A simple question - 'What's up with Venice since Snapchat left?' - led us here 👇🏽, via @NYTStyles: https://t.co/ynYVjyx3ku #Venice #Snapchat  #journalism #features #gentrification #technews",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Venice",
+						"indices": [
+							138,
+							145
+						]
+					},
+					{
+						"text": "Snapchat",
+						"indices": [
+							146,
+							155
+						]
+					},
+					{
+						"text": "journalism",
+						"indices": [
+							157,
+							168
+						]
+					},
+					{
+						"text": "features",
+						"indices": [
+							169,
+							178
+						]
+					},
+					{
+						"text": "gentrification",
+						"indices": [
+							179,
+							194
+						]
+					},
+					{
+						"text": "technews",
+						"indices": [
+							195,
+							204
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NYTStyles",
+						"name": "NYT Styles",
+						"id": 1879831,
+						"id_str": "1879831",
+						"indices": [
+							102,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ynYVjyx3ku",
+						"expanded_url": "https://www.nytimes.com/2019/08/23/style/snapchat-venice-resistance.html",
+						"display_url": "nytimes.com/2019/08/23/sty…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30725017,
+				"id_str": "30725017",
+				"name": "Daniel Hernandez✍🏽🌞",
+				"screen_name": "longdrivesouth",
+				"location": "L.A./Mexico City/San Diego/TJ.",
+				"description": "Reporter, Styles @nytimes. Editor emeritus @lataco. Border brother. Alum @VICE @MacDowellColony @Cal. Crackin' knuckles. Hit me: daniel.hernandez@nytimes.com",
+				"url": "https://t.co/2dMGWBv1wK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2dMGWBv1wK",
+								"expanded_url": "https://www.amazon.com/Down-Delirious-Mexico-City-Twenty-First/dp/1416577033/ref=sr_1_1?ie=UTF8&qid=",
+								"display_url": "amazon.com/Down-Delirious…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18998,
+				"friends_count": 5446,
+				"listed_count": 616,
+				"created_at": "Sun Apr 12 21:26:32 +0000 2009",
+				"favourites_count": 138975,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 33664,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "D8E610",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1034337370902999040/ilG7EJ2-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034337370902999040/ilG7EJ2-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30725017/1463040617",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "619E06",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @nytimes finally listened to @busblog and hired an LA local. Results are 💯/💯. https://t.co/35NXg4JN7d"
+	},
+	{
 		"created_at": "Sun Aug 25 16:59:01 +0000 2019",
 		"id": 1165669924758409200,
 		"id_str": "1165669924758409217",
