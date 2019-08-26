@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 26 14:11:12 +0000 2019",
+		"id": 1165987888577708000,
+		"id_str": "1165990079019405312",
+		"full_text": "Shoe could drop in #NoahCuatro as soon as this week - despite Sheriff's efforts to keep details out of sight: https://t.co/DG3b9v4e8f @fajardonews @LolitaLeopard @stiles @gtherolf @WitnessLA @alexcoheninla @KPCCrina911 https://t.co/PaT8mXTiSH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoahCuatro",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fajardonews",
+					"name": "Cristy Fajardo",
+					"id": 41761747,
+					"id_str": "41761747",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"screen_name": "LolitaLeopard",
+					"name": "LolitaBalenciaga.",
+					"id": 102575518,
+					"id_str": "102575518",
+					"indices": [
+						147,
+						161
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"screen_name": "gtherolf",
+					"name": "Garrett Therolf",
+					"id": 257859500,
+					"id_str": "257859500",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"screen_name": "WitnessLA",
+					"name": "Celeste Fremon",
+					"id": 16797844,
+					"id_str": "16797844",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"screen_name": "alexcoheninla",
+					"name": "Alex Cohen",
+					"id": 135652056,
+					"id_str": "135652056",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"screen_name": "KPCCrina911",
+					"name": "Rina911",
+					"id": 169276941,
+					"id_str": "169276941",
+					"indices": [
+						206,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DG3b9v4e8f",
+					"expanded_url": "http://bit.ly/NoahTruth",
+					"display_url": "bit.ly/NoahTruth",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1165987883959779300,
+					"id_str": "1165987883959779329",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5rzYPVAAEUnz6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5rzYPVAAEUnz6.jpg",
+					"url": "https://t.co/PaT8mXTiSH",
+					"display_url": "pic.twitter.com/PaT8mXTiSH",
+					"expanded_url": "https://twitter.com/dheimpel/status/1165987888577708032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165987883959779300,
+					"id_str": "1165987883959779329",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5rzYPVAAEUnz6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5rzYPVAAEUnz6.jpg",
+					"url": "https://t.co/PaT8mXTiSH",
+					"display_url": "pic.twitter.com/PaT8mXTiSH",
+					"expanded_url": "https://twitter.com/dheimpel/status/1165987888577708032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24719492,
+			"id_str": "24719492",
+			"name": "Daniel Heimpel",
+			"screen_name": "dheimpel",
+			"location": "Los Angeles",
+			"description": "Journalism and Justice for the American family.",
+			"url": "https://t.co/HgJMhgRPOu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HgJMhgRPOu",
+							"expanded_url": "http://www.chronicleofsocialchange.org",
+							"display_url": "chronicleofsocialchange.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2084,
+			"friends_count": 3397,
+			"listed_count": 71,
+			"created_at": "Mon Mar 16 16:27:52 +0000 2009",
+			"favourites_count": 3030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983776663967166464/XeIPuuWH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983776663967166464/XeIPuuWH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24719492/1527013815",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shoe could drop in #NoahCuatro as soon as this week - despite Sheriff's efforts to keep details out of sight: https://t.co/DG3b9v4e8f @fajardonews @LolitaLeopard @stiles @gtherolf @WitnessLA @alexcoheninla @KPCCrina911 https://t.co/PaT8mXTiSH"
+	},
+	{
+		"created_at": "Mon Aug 26 14:10:42 +0000 2019",
+		"id": 1165989952137482200,
+		"id_str": "1165989952137482240",
+		"full_text": "L.A. County Supervisors want a \"paradigm shift\" in the criminal justice system. Yet the plan for the jails isn't clear. \"We would all love it if we had a society that didn’t need jails, but I don’t know where that is.\" My latest (edits by @Erika_D_Smith): https://t.co/6Cnau1fa6v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Erika_D_Smith",
+					"name": "Erika D. Smith",
+					"id": 17001628,
+					"id_str": "17001628",
+					"indices": [
+						239,
+						253
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6Cnau1fa6v",
+					"expanded_url": "https://www.latimes.com/california/story/2019-08-24/jail-replacement-mental-health-facility-inmate-supervisors-criminal-justice-reform",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10957,
+			"friends_count": 1700,
+			"listed_count": 882,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1566803193",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "L.A. County Supervisors want a \"paradigm shift\" in the criminal justice system. Yet the plan for the jails isn't clear. \"We would all love it if we had a society that didn’t need jails, but I don’t know where that is.\" My latest (edits by @Erika_D_Smith): https://t.co/6Cnau1fa6v"
+	},
+	{
 		"created_at": "Mon Aug 26 07:03:55 +0000 2019",
 		"id": 1165882548003565600,
 		"id_str": "1165882548003565568",
