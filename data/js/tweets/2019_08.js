@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 26 15:42:46 +0000 2019",
+		"id": 1166009804063682600,
+		"id_str": "1166013120529068032",
+		"full_text": "Freelance visual journalists — listen up! FiveThirtyEight has a couple politics projects coming up that we're going to need help with. Two week to two month commitment, depending. Strong UI/UX and front-end skills required. DM or email chris.groskopf@abc.com.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32633517,
+			"id_str": "32633517",
+			"name": "Christopher Groskopf",
+			"screen_name": "onyxfish",
+			"location": "Tyler, TX",
+			"description": "Deputy Editor for Graphics and Interactives, @FiveThirtyEight.  Co-founder, @thetylerloop. Made csvkit. Wrote the Bad Data Guide. #wfh",
+			"url": "https://t.co/QHyHhBQV4U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QHyHhBQV4U",
+							"expanded_url": "https://fivethirtyeight.com/",
+							"display_url": "fivethirtyeight.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6360,
+			"friends_count": 860,
+			"listed_count": 496,
+			"created_at": "Fri Apr 17 22:39:08 +0000 2009",
+			"favourites_count": 367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "334F60",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2778403638/4f499e3b117a65e0eb35e14069a29dfc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2778403638/4f499e3b117a65e0eb35e14069a29dfc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32633517/1500902729",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "404040",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Freelance visual journalists — listen up! FiveThirtyEight has a couple politics projects coming up that we're going to need help with. Two week to two month commitment, depending. Strong UI/UX and front-end skills required. DM or email chris.groskopf@abc.com."
+	},
+	{
 		"created_at": "Mon Aug 26 14:11:12 +0000 2019",
 		"id": 1165987888577708000,
 		"id_str": "1165990079019405312",
