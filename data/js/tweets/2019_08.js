@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 29 02:16:40 +0000 2019",
+		"id": 1166547349021192200,
+		"id_str": "1166897423215497216",
+		"full_text": "When there’s only one answer it’s not a philosophical question https://t.co/McAiG8alBG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/McAiG8alBG",
+					"expanded_url": "https://nyti.ms/2zq5Piy",
+					"display_url": "nyti.ms/2zq5Piy",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145711769,
+			"id_str": "145711769",
+			"name": "Amy Qin",
+			"screen_name": "amyyqin",
+			"location": "Beijing",
+			"description": "China correspondent for The New York Times | amy.qin@nytimes.com",
+			"url": "https://t.co/nfbq0hheHu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nfbq0hheHu",
+							"expanded_url": "https://www.nytimes.com/by/amy-qin",
+							"display_url": "nytimes.com/by/amy-qin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18026,
+			"friends_count": 1361,
+			"listed_count": 508,
+			"created_at": "Wed May 19 17:42:32 +0000 2010",
+			"favourites_count": 4292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBC260",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/893265258281750529/nIW5YNJE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/893265258281750529/nIW5YNJE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145711769/1512540919",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "E0723E",
+			"profile_sidebar_fill_color": "DBA444",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When there’s only one answer it’s not a philosophical question https://t.co/McAiG8alBG"
+	},
+	{
+		"created_at": "Thu Aug 29 01:44:54 +0000 2019",
+		"id": 1166835427971498000,
+		"id_str": "1166889428620464129",
+		"full_text": "🌹Got my portrait made at this AMAZING little place in Korea Town LA called Tom’s One Hour Photo. It hasn’t changed since he opened in ‘91. It’s cash only &amp; has no internet. Said business has gotten so slow since the digital wave 😞 so we made him an insta: @tomsonehourphotolab https://t.co/Y2RPmw1aN7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166834412475957200,
+					"id_str": "1166834412475957249",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EDFtt0tUwAESY59.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDFtt0tUwAESY59.jpg",
+					"url": "https://t.co/Y2RPmw1aN7",
+					"display_url": "pic.twitter.com/Y2RPmw1aN7",
+					"expanded_url": "https://twitter.com/KaceyMusgraves/status/1166835427971497984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1362,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166834412475957200,
+					"id_str": "1166834412475957249",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EDFtt0tUwAESY59.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDFtt0tUwAESY59.jpg",
+					"url": "https://t.co/Y2RPmw1aN7",
+					"display_url": "pic.twitter.com/Y2RPmw1aN7",
+					"expanded_url": "https://twitter.com/KaceyMusgraves/status/1166835427971497984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1362,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1166834412475936800,
+					"id_str": "1166834412475936768",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EDFtt0tUcAAomSx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDFtt0tUcAAomSx.jpg",
+					"url": "https://t.co/Y2RPmw1aN7",
+					"display_url": "pic.twitter.com/Y2RPmw1aN7",
+					"expanded_url": "https://twitter.com/KaceyMusgraves/status/1166835427971497984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1362,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1166834412480163800,
+					"id_str": "1166834412480163840",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EDFtt0uU8AAnUeD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDFtt0uU8AAnUeD.jpg",
+					"url": "https://t.co/Y2RPmw1aN7",
+					"display_url": "pic.twitter.com/Y2RPmw1aN7",
+					"expanded_url": "https://twitter.com/KaceyMusgraves/status/1166835427971497984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1362,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1166834412475969500,
+					"id_str": "1166834412475969537",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EDFtt0tU8AEUgEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDFtt0tU8AEUgEs.jpg",
+					"url": "https://t.co/Y2RPmw1aN7",
+					"display_url": "pic.twitter.com/Y2RPmw1aN7",
+					"expanded_url": "https://twitter.com/KaceyMusgraves/status/1166835427971497984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1714,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30925378,
+			"id_str": "30925378",
+			"name": "K A C E Y   M U S G R A V E S",
+			"screen_name": "KaceyMusgraves",
+			"location": "Earth",
+			"description": "YOU’RE MY GOLDEN HOUR",
+			"url": "https://t.co/7FEE1k465I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7FEE1k465I",
+							"expanded_url": "https://shop.kaceymusgraves.com",
+							"display_url": "shop.kaceymusgraves.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 810209,
+			"friends_count": 330,
+			"listed_count": 2009,
+			"created_at": "Mon Apr 13 18:38:38 +0000 2009",
+			"favourites_count": 18406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127877064185356288/fHTQvP6x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127877064185356288/fHTQvP6x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30925378/1531758198",
+			"profile_link_color": "FCCE5B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DB8030",
+			"profile_text_color": "FFF75C",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4088,
+		"favorite_count": 24007,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌹Got my portrait made at this AMAZING little place in Korea Town LA called Tom’s One Hour Photo. It hasn’t changed since he opened in ‘91. It’s cash only &amp; has no internet. Said business has gotten so slow since the digital wave 😞 so we made him an insta: @tomsonehourphotolab https://t.co/Y2RPmw1aN7"
+	},
+	{
 		"created_at": "Wed Aug 28 14:32:35 +0000 2019",
 		"id": 1166720234293579800,
 		"id_str": "1166720234293579776",
