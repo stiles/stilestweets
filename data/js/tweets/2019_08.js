@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 15:08:20 +0000 2019",
+		"id": 1167323600170320000,
+		"id_str": "1167454009927458817",
+		"full_text": "In Opinion\n\nAlberto Cairo writes, \"The National Hurricane Center publishes graphics like this one so the public can plan ahead for tropical storms and hurricanes. However, many people who see these maps read them wrong.\"\nhttps://t.co/VQIU7wINZd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VQIU7wINZd",
+					"expanded_url": "https://nyti.ms/2ztOUvd",
+					"display_url": "nyti.ms/2ztOUvd",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807095,
+			"id_str": "807095",
+			"name": "The New York Times",
+			"screen_name": "nytimes",
+			"location": "New York City",
+			"description": "News tips? Share them here: https://t.co/ghL9OoYKMM\n\n\"The Weekly\" is our new TV series. Episodes air Sundays at 10 p.m. on FX and on Hulu the next day.",
+			"url": "http://t.co/ahvuWqicF9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ahvuWqicF9",
+							"expanded_url": "http://www.nytimes.com/",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ghL9OoYKMM",
+							"expanded_url": "http://nyti.ms/2FVHq9v",
+							"display_url": "nyti.ms/2FVHq9v",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44004267,
+			"friends_count": 893,
+			"listed_count": 200447,
+			"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+			"favourites_count": 18327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 369873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1566786202",
+			"profile_link_color": "607696",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Opinion\n\nAlberto Cairo writes, \"The National Hurricane Center publishes graphics like this one so the public can plan ahead for tropical storms and hurricanes. However, many people who see these maps read them wrong.\"\nhttps://t.co/VQIU7wINZd"
+	},
+	{
 		"created_at": "Fri Aug 30 03:54:59 +0000 2019",
 		"id": 1167284554429657000,
 		"id_str": "1167284554429657088",
