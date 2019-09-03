@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 03 20:14:56 +0000 2019",
+		"id": 1168976900053766100,
+		"id_str": "1168980718011260934",
+		"full_text": "This is a baby giraffe. This giraffe could have been conceived, carried to term and born in the time it's taken LA Times top brass to drag their feet on a contract that would treat and pay employees fairly. I'm with #LATGuild. Let's go. https://t.co/kuDLcSUywZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LATGuild",
+					"indices": [
+						216,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1168976896383750100,
+					"id_str": "1168976896383750147",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EDkKSzOXkAMFuMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDkKSzOXkAMFuMH.jpg",
+					"url": "https://t.co/kuDLcSUywZ",
+					"display_url": "pic.twitter.com/kuDLcSUywZ",
+					"expanded_url": "https://twitter.com/SaraCardine/status/1168976900053766144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 807,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 807,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1168976896383750100,
+					"id_str": "1168976896383750147",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EDkKSzOXkAMFuMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDkKSzOXkAMFuMH.jpg",
+					"url": "https://t.co/kuDLcSUywZ",
+					"display_url": "pic.twitter.com/kuDLcSUywZ",
+					"expanded_url": "https://twitter.com/SaraCardine/status/1168976900053766144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 807,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 807,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2349160002,
+			"id_str": "2349160002",
+			"name": "Sara Cardine",
+			"screen_name": "SaraCardine",
+			"location": "La Canada Flintridge, CA",
+			"description": "La Canada Flintridge reporter at Times Community News | (818) 495-4159 (Tweets/opinions are my own)",
+			"url": "http://t.co/YvK11oJr6W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YvK11oJr6W",
+							"expanded_url": "http://lacanadaonline.com",
+							"display_url": "lacanadaonline.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 332,
+			"friends_count": 67,
+			"listed_count": 13,
+			"created_at": "Mon Feb 17 22:36:57 +0000 2014",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/443459152010940416/YTOrZOUt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/443459152010940416/YTOrZOUt_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2349160002/1414706323",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a baby giraffe. This giraffe could have been conceived, carried to term and born in the time it's taken LA Times top brass to drag their feet on a contract that would treat and pay employees fairly. I'm with #LATGuild. Let's go. https://t.co/kuDLcSUywZ"
+	},
+	{
 		"created_at": "Tue Sep 03 18:45:43 +0000 2019",
 		"id": 1168958264681336800,
 		"id_str": "1168958264681336833",
