@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 05:00:21 +0000 2019",
+		"id": 1170122230749003800,
+		"id_str": "1170200107716734977",
+		"full_text": "@splillo 😱😱😱 https://t.co/QEnUgUqa8Z",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "splillo",
+					"name": "Sam Lillo",
+					"id": 156466613,
+					"id_str": "156466613",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170122227024416800,
+					"id_str": "1170122227024416768",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0b90WUUAAtg9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0b90WUUAAtg9x.jpg",
+					"url": "https://t.co/QEnUgUqa8Z",
+					"display_url": "pic.twitter.com/QEnUgUqa8Z",
+					"expanded_url": "https://twitter.com/AAdamsWX/status/1170122230749003776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170122227024416800,
+					"id_str": "1170122227024416768",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0b90WUUAAtg9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0b90WUUAAtg9x.jpg",
+					"url": "https://t.co/QEnUgUqa8Z",
+					"display_url": "pic.twitter.com/QEnUgUqa8Z",
+					"expanded_url": "https://twitter.com/AAdamsWX/status/1170122230749003776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 420,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170120864853086200,
+		"in_reply_to_status_id_str": "1170120864853086208",
+		"in_reply_to_user_id": 156466613,
+		"in_reply_to_user_id_str": "156466613",
+		"in_reply_to_screen_name": "splillo",
+		"user": {
+			"id": 780843976219697200,
+			"id_str": "780843976219697152",
+			"name": "Meteorologist Andrew Adams",
+			"screen_name": "AAdamsWX",
+			"location": "Fort Worth, TX",
+			"description": "Meteorologist | TX native | University of Oklahoma graduate | views are my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341,
+			"friends_count": 249,
+			"listed_count": 7,
+			"created_at": "Tue Sep 27 18:58:06 +0000 2016",
+			"favourites_count": 8139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138940768436084736/oUcG3IVQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138940768436084736/oUcG3IVQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/780843976219697152/1503946529",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 227,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@splillo 😱😱😱 https://t.co/QEnUgUqa8Z"
+	},
+	{
 		"created_at": "Sat Sep 07 02:32:32 +0000 2019",
 		"id": 1170115531388719000,
 		"id_str": "1170162906853281792",
