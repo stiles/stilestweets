@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 22:04:40 +0000 2019",
+		"id": 1170457883844083700,
+		"id_str": "1170457883844083713",
+		"full_text": "This is going to be fun. \n\ncc @vicjkim @ryanvmenezes https://t.co/8VQelqKPua",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vicjkim",
+					"name": "Victoria Kim",
+					"id": 54643600,
+					"id_str": "54643600",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170457877984641000,
+					"id_str": "1170457877984641025",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ED5NPRnVAAEFuFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED5NPRnVAAEFuFz.jpg",
+					"url": "https://t.co/8VQelqKPua",
+					"display_url": "pic.twitter.com/8VQelqKPua",
+					"expanded_url": "https://twitter.com/stiles/status/1170457883844083713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1578,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 624,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1101,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170457877984641000,
+					"id_str": "1170457877984641025",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ED5NPRnVAAEFuFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED5NPRnVAAEFuFz.jpg",
+					"url": "https://t.co/8VQelqKPua",
+					"display_url": "pic.twitter.com/8VQelqKPua",
+					"expanded_url": "https://twitter.com/stiles/status/1170457883844083713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1578,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 624,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1101,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10966,
+			"friends_count": 1713,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1567878553",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is going to be fun. \n\ncc @vicjkim @ryanvmenezes https://t.co/8VQelqKPua"
+	},
+	{
+		"created_at": "Sat Sep 07 21:27:23 +0000 2019",
+		"id": 1170177233098563600,
+		"id_str": "1170448500892430336",
+		"full_text": "This is is spot on.\n\nWe're witnessing a concerted authoritarian effort to undermine truth. It's a huge story and it should be explained as such. https://t.co/uhIBIBrMCj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uhIBIBrMCj",
+					"expanded_url": "https://twitter.com/past_is_future/status/1170169241162649601",
+					"display_url": "twitter.com/past_is_future…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34255829,
+			"id_str": "34255829",
+			"name": "Alberto Cairo",
+			"screen_name": "AlbertoCairo",
+			"location": "USA, Brazil, Spain",
+			"description": "Knight Chair at the U of Miami. Upcoming book: How Charts Lie (Oct. 2019). Previous: The Truthful Art (2016). Consultant and freelancer https://t.co/NvSZp9tK7Y",
+			"url": "https://t.co/WViz9fwKgb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WViz9fwKgb",
+							"expanded_url": "http://www.thefunctionalart.com",
+							"display_url": "thefunctionalart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NvSZp9tK7Y",
+							"expanded_url": "http://albertocairo.com/",
+							"display_url": "albertocairo.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 47122,
+			"friends_count": 3907,
+			"listed_count": 3192,
+			"created_at": "Wed Apr 22 12:25:20 +0000 2009",
+			"favourites_count": 2866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069593505553633281/hoG3VcMt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069593505553633281/hoG3VcMt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34255829/1563970540",
+			"profile_link_color": "2FAFEB",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "5C5C5C",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170169241162649600,
+		"quoted_status_id_str": "1170169241162649601",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uhIBIBrMCj",
+			"expanded": "https://twitter.com/past_is_future/status/1170169241162649601",
+			"display": "twitter.com/past_is_future…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 07 02:57:42 +0000 2019",
+			"id": 1170169241162649600,
+			"id_str": "1170169241162649601",
+			"full_text": "Respectfully, if your take on what's happening right now with NOAA/NWS is that it's a wearisome rehashing of tweets and we should move on, you have no idea what the stakes actually are and you should probably sit this one out.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				226
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3904320391,
+				"id_str": "3904320391",
+				"name": "Peter Jacobs",
+				"screen_name": "past_is_future",
+				"location": "Washington, DC",
+				"description": "researching Pliocene and future climate and hoping to keep the former from becoming the latter.",
+				"url": "https://t.co/4fAYunaSnO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4fAYunaSnO",
+								"expanded_url": "http://past-is-future.weebly.com",
+								"display_url": "past-is-future.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2545,
+				"friends_count": 2886,
+				"listed_count": 55,
+				"created_at": "Thu Oct 15 15:57:11 +0000 2015",
+				"favourites_count": 44617,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15112,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838106218199728128/4JBAJFil_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838106218199728128/4JBAJFil_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3904320391/1521560824",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 118,
+			"favorite_count": 564,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 29,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is is spot on.\n\nWe're witnessing a concerted authoritarian effort to undermine truth. It's a huge story and it should be explained as such. https://t.co/uhIBIBrMCj"
+	},
+	{
 		"created_at": "Sat Sep 07 05:00:21 +0000 2019",
 		"id": 1170122230749003800,
 		"id_str": "1170200107716734977",
