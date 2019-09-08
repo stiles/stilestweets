@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 07:02:03 +0000 2019",
+		"id": 1170593123279392800,
+		"id_str": "1170593123279392768",
+		"full_text": "@vicjkim @ryanvmenezes 8 hours later, some progress: https://t.co/D0QOFWup4K https://t.co/5SEa7kGBJu",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vicjkim",
+					"name": "Victoria Kim",
+					"id": 54643600,
+					"id_str": "54643600",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						9,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D0QOFWup4K",
+					"expanded_url": "https://github.com/stiles/notebooks/tree/master/koreatown",
+					"display_url": "github.com/stiles/noteboo…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170593118363648000,
+					"id_str": "1170593118363648000",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/ED7IPTSVAAAyJkl.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED7IPTSVAAAyJkl.png",
+					"url": "https://t.co/5SEa7kGBJu",
+					"display_url": "pic.twitter.com/5SEa7kGBJu",
+					"expanded_url": "https://twitter.com/stiles/status/1170593123279392768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 893,
+							"h": 539,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 893,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170593118363648000,
+					"id_str": "1170593118363648000",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/ED7IPTSVAAAyJkl.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED7IPTSVAAAyJkl.png",
+					"url": "https://t.co/5SEa7kGBJu",
+					"display_url": "pic.twitter.com/5SEa7kGBJu",
+					"expanded_url": "https://twitter.com/stiles/status/1170593123279392768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 893,
+							"h": 539,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 893,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1170457883844083700,
+		"in_reply_to_status_id_str": "1170457883844083713",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10966,
+			"friends_count": 1713,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1567878553",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@vicjkim @ryanvmenezes 8 hours later, some progress: https://t.co/D0QOFWup4K https://t.co/5SEa7kGBJu"
+	},
+	{
 		"created_at": "Sat Sep 07 22:04:40 +0000 2019",
 		"id": 1170457883844083700,
 		"id_str": "1170457883844083713",
