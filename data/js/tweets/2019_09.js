@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 19:59:33 +0000 2019",
+		"id": 1170771791049937000,
+		"id_str": "1170788785405087744",
+		"full_text": "California boat fire: FBI, Coast Guard serve search warrants on Conception owner — reporting by @LAcrimes @stiles https://t.co/UuWSL8aHvM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LAcrimes",
+					"name": "Richard Winton",
+					"id": 41418040,
+					"id_str": "41418040",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UuWSL8aHvM",
+					"expanded_url": "https://www.latimes.com/california/story/2019-09-08/california-boat-fire-investigators-search-warrants-conception-owner-truth-aquatics",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76459927,
+			"id_str": "76459927",
+			"name": "Matt Hamilton",
+			"screen_name": "MattHjourno",
+			"location": "Los Angeles",
+			"description": "Los Angeles Times reporter on investigations and civil courts matt.hamilton@latimes.com mchamilton@protonmail.com (213) 237-3431",
+			"url": "https://t.co/sbHmPzt6mV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sbHmPzt6mV",
+							"expanded_url": "http://www.latimes.com/la-bio-matt-hamilton-staff.html",
+							"display_url": "latimes.com/la-bio-matt-ha…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6629,
+			"friends_count": 1734,
+			"listed_count": 267,
+			"created_at": "Tue Sep 22 21:43:52 +0000 2009",
+			"favourites_count": 8517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/569247440855769088/E-XSvkIO_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/569247440855769088/E-XSvkIO_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/76459927/1533199655",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "California boat fire: FBI, Coast Guard serve search warrants on Conception owner — reporting by @LAcrimes @stiles https://t.co/UuWSL8aHvM"
+	},
+	{
 		"created_at": "Sun Sep 08 18:33:17 +0000 2019",
 		"id": 1170767077927293000,
 		"id_str": "1170767077927292928",
