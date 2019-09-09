@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 13:41:10 +0000 2019",
+		"id": 1171055952461615000,
+		"id_str": "1171055952461615104",
+		"full_text": "City Hall is considering a plan to ban sleeping on sidewalks within 500 feet of parks, schools, day-care centers and other places. \n\n@ryanvmenezes, @AlpertReyes and I mapped the impact.  Find your block: https://t.co/BHWS2XxEEK\n\nHere's how it would play out in Venice: https://t.co/qCkBDc77FH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						133,
+						146
+					]
+				},
+				{
+					"screen_name": "AlpertReyes",
+					"name": "Emily Alpert Reyes",
+					"id": 25458792,
+					"id_str": "25458792",
+					"indices": [
+						148,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BHWS2XxEEK",
+					"expanded_url": "https://www.latimes.com/projects/homeless-sleeping-maps",
+					"display_url": "latimes.com/projects/homel…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171055945188659200,
+					"id_str": "1171055945188659201",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBtLXkUUAEUdGT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBtLXkUUAEUdGT.jpg",
+					"url": "https://t.co/qCkBDc77FH",
+					"display_url": "pic.twitter.com/qCkBDc77FH",
+					"expanded_url": "https://twitter.com/stiles/status/1171055952461615104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 743,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 743,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171055945188659200,
+					"id_str": "1171055945188659201",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EEBtLXkUUAEUdGT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEBtLXkUUAEUdGT.jpg",
+					"url": "https://t.co/qCkBDc77FH",
+					"display_url": "pic.twitter.com/qCkBDc77FH",
+					"expanded_url": "https://twitter.com/stiles/status/1171055952461615104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 505,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 743,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 743,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10979,
+			"friends_count": 1718,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1567878553",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "City Hall is considering a plan to ban sleeping on sidewalks within 500 feet of parks, schools, day-care centers and other places. \n\n@ryanvmenezes, @AlpertReyes and I mapped the impact.  Find your block: https://t.co/BHWS2XxEEK\n\nHere's how it would play out in Venice: https://t.co/qCkBDc77FH"
+	},
+	{
 		"created_at": "Sun Sep 08 21:13:39 +0000 2019",
 		"id": 1170790757399056400,
 		"id_str": "1170807433268060160",
