@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 19:53:32 +0000 2019",
+		"id": 1171149660485869600,
+		"id_str": "1171149660485869568",
+		"full_text": "Why didn't I think of this?! https://t.co/DLdF2ecLpB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DLdF2ecLpB",
+					"expanded_url": "https://twitter.com/LJadron/status/1171139517698510848",
+					"display_url": "twitter.com/LJadron/status…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10983,
+			"friends_count": 1719,
+			"listed_count": 0,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1567878553",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1171139517698510800,
+		"quoted_status_id_str": "1171139517698510848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DLdF2ecLpB",
+			"expanded": "https://twitter.com/LJadron/status/1171139517698510848",
+			"display": "twitter.com/LJadron/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 09 19:13:14 +0000 2019",
+			"id": 1171139517698510800,
+			"id_str": "1171139517698510848",
+			"full_text": "@CShalby @latimestravel @stiles @ryanvmenezes @AlpertReyes Haha im agency today im work with i create system for breaxit new software for secure and spy and im homeles and have all software in my trousers is samsung j3 6 haha and know destroid uranium radioactivity today in my book is new inovation from tesla work chalenge",
+			"truncated": false,
+			"display_text_range": [
+				59,
+				324
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CShalby",
+						"name": "Colleen Shalby",
+						"id": 366423465,
+						"id_str": "366423465",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "latimestravel",
+						"name": "L.A. Times Travel",
+						"id": 9676212,
+						"id_str": "9676212",
+						"indices": [
+							9,
+							23
+						]
+					},
+					{
+						"screen_name": "stiles",
+						"name": "Matt Stiles",
+						"id": 14790314,
+						"id_str": "14790314",
+						"indices": [
+							24,
+							31
+						]
+					},
+					{
+						"screen_name": "ryanvmenezes",
+						"name": "Ryan Menezes",
+						"id": 24972827,
+						"id_str": "24972827",
+						"indices": [
+							32,
+							45
+						]
+					},
+					{
+						"screen_name": "AlpertReyes",
+						"name": "Emily Alpert Reyes",
+						"id": 25458792,
+						"id_str": "25458792",
+						"indices": [
+							46,
+							58
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1171104953932271600,
+			"in_reply_to_status_id_str": "1171104953932271616",
+			"in_reply_to_user_id": 366423465,
+			"in_reply_to_user_id_str": "366423465",
+			"in_reply_to_screen_name": "CShalby",
+			"user": {
+				"id": 2223796363,
+				"id_str": "2223796363",
+				"name": "Lubos Jadron",
+				"screen_name": "LJadron",
+				"location": "Slovenská republika",
+				"description": "i have 30yers🤣",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4,
+				"friends_count": 46,
+				"listed_count": 0,
+				"created_at": "Sat Nov 30 22:09:17 +0000 2013",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 787,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1129203683374391296/mZznd1xr_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129203683374391296/mZznd1xr_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2223796363/1558058298",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why didn't I think of this?! https://t.co/DLdF2ecLpB"
+	},
+	{
 		"created_at": "Mon Sep 09 18:31:36 +0000 2019",
 		"id": 1171129041509765000,
 		"id_str": "1171129041509765120",
