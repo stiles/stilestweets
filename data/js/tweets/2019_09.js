@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 10 06:12:01 +0000 2019",
+		"id": 1171266601108172800,
+		"id_str": "1171305306388750336",
+		"full_text": "There about 20 protesters outside @MitchOFarrell’s home right now who are pretty angry about the latest proposal to prevent  homeless people in certain places. To learn more about this: read the @latimes. https://t.co/BqMrPX1YxO https://t.co/9LFgRurecD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MitchOFarrell",
+					"name": "Mitch O'Farrell",
+					"id": 539732451,
+					"id_str": "539732451",
+					"indices": [
+						34,
+						48
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						195,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BqMrPX1YxO",
+					"expanded_url": "https://www.latimes.com/california/story/2019-09-06/homeless-sleeping-ban-rules-los-angeles",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171266404646916000,
+					"id_str": "1171266404646916096",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171266404646916096/pu/img/k8hfj8MlpX7UYQJF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171266404646916096/pu/img/k8hfj8MlpX7UYQJF.jpg",
+					"url": "https://t.co/9LFgRurecD",
+					"display_url": "pic.twitter.com/9LFgRurecD",
+					"expanded_url": "https://twitter.com/boreskes/status/1171266601108172800/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171266404646916000,
+					"id_str": "1171266404646916096",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171266404646916096/pu/img/k8hfj8MlpX7UYQJF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171266404646916096/pu/img/k8hfj8MlpX7UYQJF.jpg",
+					"url": "https://t.co/9LFgRurecD",
+					"display_url": "pic.twitter.com/9LFgRurecD",
+					"expanded_url": "https://twitter.com/boreskes/status/1171266601108172800/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 11933,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1171266404646916096/pu/pl/npql32_CFK2ECFw9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171266404646916096/pu/vid/480x270/ZiARGPPQh7weS0CU.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171266404646916096/pu/vid/1280x720/opUJv0M7nG6Ko_3J.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171266404646916096/pu/vid/640x360/4st1Ra9iqUdH9_VJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 378122528,
+			"id_str": "378122528",
+			"name": "Benjamin Oreskes🦅",
+			"screen_name": "boreskes",
+			"location": "Los Angeles, CA",
+			"description": "Metro reporter @Latimes. benjamin.oreskes@latimes.com. 213-238-8436.\n DM me for Signal contact info.",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2589,
+			"friends_count": 1000,
+			"listed_count": 90,
+			"created_at": "Thu Sep 22 17:39:50 +0000 2011",
+			"favourites_count": 11964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1776594026/377791_10150502319804221_507624220_8843375_1408464470_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1776594026/377791_10150502319804221_507624220_8843375_1408464470_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/378122528/1532773873",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There about 20 protesters outside @MitchOFarrell’s home right now who are pretty angry about the latest proposal to prevent  homeless people in certain places. To learn more about this: read the @latimes. https://t.co/BqMrPX1YxO https://t.co/9LFgRurecD"
+	},
+	{
 		"created_at": "Mon Sep 09 19:53:32 +0000 2019",
 		"id": 1171149660485869600,
 		"id_str": "1171149660485869568",
