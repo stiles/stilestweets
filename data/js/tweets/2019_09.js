@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 10 22:18:13 +0000 2019",
+		"id": 1171531956695097300,
+		"id_str": "1171548457560985600",
+		"full_text": "L.A. continues to conceal details in the latest #childdeath to strike the county: https://t.co/YSGrYScnuN @latimes @WitnessLA @stiles @fajardonews @LaOpinionLA @SpecNews1SoCal @alexcoheninla @KPCCrina911 https://t.co/iRcn51qXBj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "childdeath",
+					"indices": [
+						48,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"screen_name": "WitnessLA",
+					"name": "Celeste Fremon",
+					"id": 16797844,
+					"id_str": "16797844",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"screen_name": "fajardonews",
+					"name": "Cristy Fajardo",
+					"id": 41761747,
+					"id_str": "41761747",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"screen_name": "LaOpinionLA",
+					"name": "La Opinión",
+					"id": 41416662,
+					"id_str": "41416662",
+					"indices": [
+						147,
+						159
+					]
+				},
+				{
+					"screen_name": "SpecNews1SoCal",
+					"name": "Spectrum News 1 SoCal",
+					"id": 1046792822039482400,
+					"id_str": "1046792822039482368",
+					"indices": [
+						160,
+						175
+					]
+				},
+				{
+					"screen_name": "alexcoheninla",
+					"name": "Alex Cohen",
+					"id": 135652056,
+					"id_str": "135652056",
+					"indices": [
+						176,
+						190
+					]
+				},
+				{
+					"screen_name": "KPCCrina911",
+					"name": "Rina911",
+					"id": 169276941,
+					"id_str": "169276941",
+					"indices": [
+						191,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YSGrYScnuN",
+					"expanded_url": "http://bit.ly/2m9KtCz",
+					"display_url": "bit.ly/2m9KtCz",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171531947815788500,
+					"id_str": "1171531947815788544",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EEIeGXiU4AAqL8a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEIeGXiU4AAqL8a.jpg",
+					"url": "https://t.co/iRcn51qXBj",
+					"display_url": "pic.twitter.com/iRcn51qXBj",
+					"expanded_url": "https://twitter.com/dheimpel/status/1171531956695097345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171531947815788500,
+					"id_str": "1171531947815788544",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EEIeGXiU4AAqL8a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEIeGXiU4AAqL8a.jpg",
+					"url": "https://t.co/iRcn51qXBj",
+					"display_url": "pic.twitter.com/iRcn51qXBj",
+					"expanded_url": "https://twitter.com/dheimpel/status/1171531956695097345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24719492,
+			"id_str": "24719492",
+			"name": "Daniel Heimpel",
+			"screen_name": "dheimpel",
+			"location": "Los Angeles",
+			"description": "Journalism and Justice for the American family.",
+			"url": "https://t.co/HgJMhgRPOu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HgJMhgRPOu",
+							"expanded_url": "http://www.chronicleofsocialchange.org",
+							"display_url": "chronicleofsocialchange.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2085,
+			"friends_count": 3362,
+			"listed_count": 71,
+			"created_at": "Mon Mar 16 16:27:52 +0000 2009",
+			"favourites_count": 3056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983776663967166464/XeIPuuWH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983776663967166464/XeIPuuWH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24719492/1527013815",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "L.A. continues to conceal details in the latest #childdeath to strike the county: https://t.co/YSGrYScnuN @latimes @WitnessLA @stiles @fajardonews @LaOpinionLA @SpecNews1SoCal @alexcoheninla @KPCCrina911 https://t.co/iRcn51qXBj"
+	},
+	{
 		"created_at": "Tue Sep 10 16:03:45 +0000 2019",
 		"id": 1171454219003383800,
 		"id_str": "1171454219003383811",
