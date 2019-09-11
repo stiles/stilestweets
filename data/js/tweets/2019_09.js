@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 11 05:05:06 +0000 2019",
+		"id": 1171646483118137300,
+		"id_str": "1171650854237216769",
+		"full_text": "Noting that out of 19 ministers \n- only 2 (10%) are women \n- 6 (all men; appx. 32%) are in their 70s https://t.co/L2pq8VPsBW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L2pq8VPsBW",
+					"expanded_url": "https://twitter.com/japantimes/status/1171641422954598400",
+					"display_url": "twitter.com/japantimes/sta…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2814323911,
+			"id_str": "2814323911",
+			"name": "Satoshi Sugiyama",
+			"screen_name": "SatoshiJournal",
+			"location": "satoshi.sugiyama@japantimes.co.jp",
+			"description": "@japantimes trade, market & fiscal policy reporter | @NewhouseSU & @dailyorange grad | view = mine | RT w/o favor | Always hungry & curious",
+			"url": "https://t.co/QlIg7dOG1O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QlIg7dOG1O",
+							"expanded_url": "https://www.japantimes.co.jp/author/satoshi-sugiyama/",
+							"display_url": "japantimes.co.jp/author/satoshi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2539,
+			"friends_count": 1596,
+			"listed_count": 52,
+			"created_at": "Wed Sep 17 05:33:57 +0000 2014",
+			"favourites_count": 16417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137236089872060426/FLPx_Cz3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137236089872060426/FLPx_Cz3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2814323911/1565945400",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1171641422954598400,
+		"quoted_status_id_str": "1171641422954598400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/L2pq8VPsBW",
+			"expanded": "https://twitter.com/japantimes/status/1171641422954598400",
+			"display": "twitter.com/japantimes/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 11 04:27:37 +0000 2019",
+			"id": 1171641422954598400,
+			"id_str": "1171641422954598400",
+			"full_text": "BREAKING: Prime Minister Shinzo Abe appoints Taro Kono as defense minister in a reshuffle of his Cabinet.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7424642,
+				"id_str": "7424642",
+				"name": "The Japan Times",
+				"screen_name": "japantimes",
+				"location": "Tokyo",
+				"description": "Breaking news and features about Japan from the nation's most widely read English-language newspaper. 日本で一番読まれている英字新聞・ジャパンタイムズが発信する国内外ニュースと、様々なジャンルの特集記事。",
+				"url": "https://t.co/l8lwBUkX1J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l8lwBUkX1J",
+								"expanded_url": "https://www.japantimes.co.jp/",
+								"display_url": "japantimes.co.jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 320555,
+				"friends_count": 45,
+				"listed_count": 10215,
+				"created_at": "Thu Jul 12 09:19:30 +0000 2007",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 192634,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877093724714434560/RlloH0si_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877093724714434560/RlloH0si_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7424642/1398701252",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "92B1FF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 17,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Noting that out of 19 ministers \n- only 2 (10%) are women \n- 6 (all men; appx. 32%) are in their 70s https://t.co/L2pq8VPsBW"
+	},
+	{
 		"created_at": "Tue Sep 10 22:18:13 +0000 2019",
 		"id": 1171531956695097300,
 		"id_str": "1171548457560985600",
