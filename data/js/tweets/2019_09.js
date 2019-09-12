@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 03:15:56 +0000 2019",
+		"id": 1171981453598449700,
+		"id_str": "1171985768480296960",
+		"full_text": "California lawmakers act to keep landlords from refusing low-income renters https://t.co/3EpkrfOid7 by @dillonliam",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dillonliam",
+					"name": "Liam FAIR CONTRACT NOW Dillon",
+					"id": 32186559,
+					"id_str": "32186559",
+					"indices": [
+						103,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3EpkrfOid7",
+					"expanded_url": "https://lat.ms/2NXqYco",
+					"display_url": "lat.ms/2NXqYco",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 106516018,
+			"id_str": "106516018",
+			"name": "LA Times CA Politics",
+			"screen_name": "LATpoliticsCA",
+			"location": "Sacramento and Los Angeles",
+			"description": "Covering California politics & policy, the 55-member congressional delegation, local officials & Sacramento. Follow @latimespolitics for campaign trail reports.",
+			"url": "https://t.co/8qQeW6ZnXX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8qQeW6ZnXX",
+							"expanded_url": "http://latimes.com/politics",
+							"display_url": "latimes.com/politics",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20417,
+			"friends_count": 186,
+			"listed_count": 964,
+			"created_at": "Tue Jan 19 20:34:04 +0000 2010",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/547151255886258176/YoHMn-YM_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/547151255886258176/YoHMn-YM_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/106516018/1423014661",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "California lawmakers act to keep landlords from refusing low-income renters https://t.co/3EpkrfOid7 by @dillonliam"
+	},
+	{
+		"created_at": "Thu Sep 12 03:14:24 +0000 2019",
+		"id": 1171985383451590700,
+		"id_str": "1171985383451590656",
+		"full_text": "@TrevDon @yashar Damien",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TrevDon",
+					"name": "Trevor Donovan #LoveAlways",
+					"id": 54387487,
+					"id_str": "54387487",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "yashar",
+					"name": "Yashar Ali 🐘",
+					"id": 11744152,
+					"id_str": "11744152",
+					"indices": [
+						9,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1171984613356392400,
+		"in_reply_to_status_id_str": "1171984613356392448",
+		"in_reply_to_user_id": 54387487,
+		"in_reply_to_user_id_str": "54387487",
+		"in_reply_to_screen_name": "TrevDon",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10991,
+			"friends_count": 1721,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1568178850",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@TrevDon @yashar Damien"
+	},
+	{
+		"created_at": "Thu Sep 12 03:12:13 +0000 2019",
+		"id": 1171846879270920200,
+		"id_str": "1171984832886267904",
+		"full_text": "Data editor @meghanhoyer to unveil @AP’s new data journalism toolkit tomorrow at @ONAConf 2:30pm CT. https://t.co/rDxwiK1qgD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeghanHoyer",
+					"name": "Meghan Hoyer",
+					"id": 258599525,
+					"id_str": "258599525",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "AP",
+					"name": "The Associated Press",
+					"id": 51241574,
+					"id_str": "51241574",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"screen_name": "ONAConf",
+					"name": "ONA19",
+					"id": 90959872,
+					"id_str": "90959872",
+					"indices": [
+						81,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rDxwiK1qgD",
+					"expanded_url": "http://apne.ws/hbkuPjI",
+					"display_url": "apne.ws/hbkuPjI",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31997610,
+			"id_str": "31997610",
+			"name": "AP CorpComm",
+			"screen_name": "AP_CorpComm",
+			"location": "New York, NY",
+			"description": "Pulitzer winners on display at AP HQ in New York, top. Tweets & https://t.co/gSEUMlAErj by @LaurenEastonAP & @maksimuspatrick in @AP Corporate Communications.",
+			"url": "https://t.co/yCJPSRJmPP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yCJPSRJmPP",
+							"expanded_url": "http://www.AP.org",
+							"display_url": "AP.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gSEUMlAErj",
+							"expanded_url": "http://blog.AP.org",
+							"display_url": "blog.AP.org",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19463,
+			"friends_count": 693,
+			"listed_count": 612,
+			"created_at": "Thu Apr 16 17:17:38 +0000 2009",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/766698015637770241/--fX9yY4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/766698015637770241/--fX9yY4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31997610/1557432954",
+			"profile_link_color": "CC3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Data editor @meghanhoyer to unveil @AP’s new data journalism toolkit tomorrow at @ONAConf 2:30pm CT. https://t.co/rDxwiK1qgD"
+	},
+	{
+		"created_at": "Thu Sep 12 03:06:32 +0000 2019",
+		"id": 1171671380145791000,
+		"id_str": "1171983403291250690",
+		"full_text": "My dad sent our family this “menu” of all the things that adults should be fined for saying during Chuseok holidays, including “shouldn’t you be having babies now?” and “when will you lose weight?” https://t.co/Qt5ePTIWGb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171671306439295000,
+					"id_str": "1171671306439294976",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EEKc2G3VAAAwTVy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEKc2G3VAAAwTVy.jpg",
+					"url": "https://t.co/Qt5ePTIWGb",
+					"display_url": "pic.twitter.com/Qt5ePTIWGb",
+					"expanded_url": "https://twitter.com/TheJihyeLee/status/1171671380145790977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171671306439295000,
+					"id_str": "1171671306439294976",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EEKc2G3VAAAwTVy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEKc2G3VAAAwTVy.jpg",
+					"url": "https://t.co/Qt5ePTIWGb",
+					"display_url": "pic.twitter.com/Qt5ePTIWGb",
+					"expanded_url": "https://twitter.com/TheJihyeLee/status/1171671380145790977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2484763212,
+			"id_str": "2484763212",
+			"name": "Jihye Lee 이지혜",
+			"screen_name": "TheJihyeLee",
+			"location": "",
+			"description": "Reporter for @Bloomberg News💇🏻‍♀️ Pohang-born, California-bred, stuck in Seoul🖤💗 블룸버그 통신 📩jlee2352@bloomberg.net",
+			"url": "https://t.co/BHu7r0b3p6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BHu7r0b3p6",
+							"expanded_url": "https://www.bloomberg.com/authors/ATeBrRVZnKc/jihye-lee",
+							"display_url": "bloomberg.com/authors/ATeBrR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12638,
+			"friends_count": 3111,
+			"listed_count": 388,
+			"created_at": "Fri May 09 01:45:05 +0000 2014",
+			"favourites_count": 5513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125237785332310017/nf7m0pVH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125237785332310017/nf7m0pVH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2484763212/1568178796",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 369,
+		"favorite_count": 1041,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My dad sent our family this “menu” of all the things that adults should be fined for saying during Chuseok holidays, including “shouldn’t you be having babies now?” and “when will you lose weight?” https://t.co/Qt5ePTIWGb"
+	},
+	{
 		"created_at": "Wed Sep 11 14:18:36 +0000 2019",
 		"id": 1171790147093819400,
 		"id_str": "1171790147093819392",
