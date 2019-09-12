@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 19:44:49 +0000 2019",
+		"id": 1172234631678054400,
+		"id_str": "1172234631678054401",
+		"full_text": "Wait, what? \n\nhttps://t.co/cF0ofFl02K https://t.co/QfxaUs7VHC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cF0ofFl02K",
+					"expanded_url": "https://www.nbclosangeles.com/investigations/Homeless-Man-Killed-Burned-Lake-Balboa-Park-LAPD-Van-Nuys-560147871.html",
+					"display_url": "nbclosangeles.com/investigations…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1172234628368916500,
+					"id_str": "1172234628368916485",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EESdLwlXYAUoVDB.png",
+					"media_url_https": "https://pbs.twimg.com/media/EESdLwlXYAUoVDB.png",
+					"url": "https://t.co/QfxaUs7VHC",
+					"display_url": "pic.twitter.com/QfxaUs7VHC",
+					"expanded_url": "https://twitter.com/stiles/status/1172234631678054401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 702,
+							"h": 275,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 702,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172234628368916500,
+					"id_str": "1172234628368916485",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EESdLwlXYAUoVDB.png",
+					"media_url_https": "https://pbs.twimg.com/media/EESdLwlXYAUoVDB.png",
+					"url": "https://t.co/QfxaUs7VHC",
+					"display_url": "pic.twitter.com/QfxaUs7VHC",
+					"expanded_url": "https://twitter.com/stiles/status/1172234631678054401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 702,
+							"h": 275,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 702,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10994,
+			"friends_count": 1721,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1568178850",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wait, what? \n\nhttps://t.co/cF0ofFl02K https://t.co/QfxaUs7VHC"
+	},
+	{
 		"created_at": "Thu Sep 12 03:15:56 +0000 2019",
 		"id": 1171981453598449700,
 		"id_str": "1171985768480296960",
@@ -519,7 +703,7 @@ Grailbird.data.tweets_2019_09 =
 			"name": "Jihye Lee 이지혜",
 			"screen_name": "TheJihyeLee",
 			"location": "",
-			"description": "Reporter for @Bloomberg News💇🏻‍♀️ Pohang-born, California-bred, stuck in Seoul🖤💗 블룸버그 통신 📩jlee2352@bloomberg.net",
+			"description": "Reporter for @Bloomberg News💇🏻♀️ Pohang-born, California-bred, stuck in Seoul🖤💗 블룸버그 통신 📩jlee2352@bloomberg.net",
 			"url": "https://t.co/BHu7r0b3p6",
 			"entities": {
 				"url": {
