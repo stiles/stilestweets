@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 16 15:54:53 +0000 2019",
+		"id": 1173622990518595600,
+		"id_str": "1173626316782014469",
+		"full_text": "@latimes @theanayeli @stiles The LAT decision to end comments is laudable. We are adults and are on the site to read journalism, not indulge garbage commenters. Point is paper of record should be mostly about the record. Discussions can happen on social media, where it belongs.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "theanayeli",
+					"name": "ann meyers",
+					"id": 874717824,
+					"id_str": "874717824",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1173618614005465000,
+		"in_reply_to_status_id_str": "1173618614005465094",
+		"in_reply_to_user_id": 16664681,
+		"in_reply_to_user_id_str": "16664681",
+		"in_reply_to_screen_name": "latimes",
+		"user": {
+			"id": 673573,
+			"id_str": "673573",
+			"name": "Wayne Bremser",
+			"screen_name": "wb",
+			"location": "Long Beach, CA",
+			"description": "Topics include: photography, jazz, design",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1051,
+			"friends_count": 67,
+			"listed_count": 34,
+			"created_at": "Sun Jan 21 01:21:27 +0000 2007",
+			"favourites_count": 13106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050657936194789377/G5PEtAzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050657936194789377/G5PEtAzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/673573/1518372964",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "DDDDDD",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "555555",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@latimes @theanayeli @stiles The LAT decision to end comments is laudable. We are adults and are on the site to read journalism, not indulge garbage commenters. Point is paper of record should be mostly about the record. Discussions can happen on social media, where it belongs."
+	},
+	{
 		"created_at": "Mon Sep 16 15:15:15 +0000 2019",
 		"id": 1173616341925806000,
 		"id_str": "1173616341925806081",
