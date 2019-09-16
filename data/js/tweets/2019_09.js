@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 16 16:25:27 +0000 2019",
+		"id": 1173633190684024800,
+		"id_str": "1173634008523010050",
+		"full_text": "I wonder if candidates for SD2 @mrtempower have anything to say about @HerbJWesson 's ongoing disrespect of public speakers?  Will @HollyJMitchell @JanPerry state affirmatively that they will fight to allow public speakers to be seen and heard by the public🔦@stiles  #AskWesson📺 https://t.co/ATfnDOwU3u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AskWesson",
+					"indices": [
+						267,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MRTempower",
+					"name": "Mark Ridley-Thomas",
+					"id": 474351727,
+					"id_str": "474351727",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"screen_name": "HerbJWesson",
+					"name": "Herb J. Wesson, Jr.",
+					"id": 1921537580,
+					"id_str": "1921537580",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"screen_name": "HollyJMitchell",
+					"name": "Holly J Mitchell",
+					"id": 278192411,
+					"id_str": "278192411",
+					"indices": [
+						131,
+						146
+					]
+				},
+				{
+					"screen_name": "JanPerry",
+					"name": "Jan Perry",
+					"id": 22559078,
+					"id_str": "22559078",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						258,
+						265
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ATfnDOwU3u",
+					"expanded_url": "https://twitter.com/ericpreven/status/1173627004278603776",
+					"display_url": "twitter.com/ericpreven/sta…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48035360,
+			"id_str": "48035360",
+			"name": "eric preven",
+			"screen_name": "ericpreven",
+			"location": "Los Angeles, CA",
+			"description": "",
+			"url": "https://t.co/n3Ccj5Nzse",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n3Ccj5Nzse",
+							"expanded_url": "http://www.ThePrevenReport.com",
+							"display_url": "ThePrevenReport.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 634,
+			"listed_count": 3,
+			"created_at": "Wed Jun 17 17:16:54 +0000 2009",
+			"favourites_count": 362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48035360/1394392597",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1173627004278603800,
+		"quoted_status_id_str": "1173627004278603776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ATfnDOwU3u",
+			"expanded": "https://twitter.com/ericpreven/status/1173627004278603776",
+			"display": "twitter.com/ericpreven/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 16 15:57:37 +0000 2019",
+			"id": 1173627004278603800,
+			"id_str": "1173627004278603776",
+			"full_text": "We all question what you did, @SupJaniceHahn except @JohnLeeCD12 he still ❤️s you!   @BobBlumenfield https://t.co/SXolJq3pah @jdelreal",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SupJaniceHahn",
+						"name": "Janice Hahn",
+						"id": 339852137,
+						"id_str": "339852137",
+						"indices": [
+							30,
+							44
+						]
+					},
+					{
+						"screen_name": "JohnLeeCD12",
+						"name": "@JohnLeeCD12",
+						"id": 1083523059938512900,
+						"id_str": "1083523059938512896",
+						"indices": [
+							52,
+							64
+						]
+					},
+					{
+						"screen_name": "BobBlumenfield",
+						"name": "Bob Blumenfield",
+						"id": 17108221,
+						"id_str": "17108221",
+						"indices": [
+							85,
+							100
+						]
+					},
+					{
+						"screen_name": "jdelreal",
+						"name": "Jose A. Del Real",
+						"id": 22313347,
+						"id_str": "22313347",
+						"indices": [
+							125,
+							134
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SXolJq3pah",
+						"expanded_url": "https://www.citywatchla.com/index.php/the-la-beat/10266-council-president-wesson-out-of-focus",
+						"display_url": "citywatchla.com/index.php/the-…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1172221478101610500,
+			"in_reply_to_status_id_str": "1172221478101610496",
+			"in_reply_to_user_id": 48035360,
+			"in_reply_to_user_id_str": "48035360",
+			"in_reply_to_screen_name": "ericpreven",
+			"user": {
+				"id": 48035360,
+				"id_str": "48035360",
+				"name": "eric preven",
+				"screen_name": "ericpreven",
+				"location": "Los Angeles, CA",
+				"description": "",
+				"url": "https://t.co/n3Ccj5Nzse",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n3Ccj5Nzse",
+								"expanded_url": "http://www.ThePrevenReport.com",
+								"display_url": "ThePrevenReport.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 231,
+				"friends_count": 634,
+				"listed_count": 3,
+				"created_at": "Wed Jun 17 17:16:54 +0000 2009",
+				"favourites_count": 362,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2954,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48035360/1394392597",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wonder if candidates for SD2 @mrtempower have anything to say about @HerbJWesson 's ongoing disrespect of public speakers?  Will @HollyJMitchell @JanPerry state affirmatively that they will fight to allow public speakers to be seen and heard by the public🔦@stiles  #AskWesson📺 https://t.co/ATfnDOwU3u"
+	},
+	{
 		"created_at": "Mon Sep 16 15:54:53 +0000 2019",
 		"id": 1173622990518595600,
 		"id_str": "1173626316782014469",
