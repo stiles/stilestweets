@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 17 21:06:20 +0000 2019",
+		"id": 1174065490131476500,
+		"id_str": "1174067081693630464",
+		"full_text": "If President Trump really wants to help, he should declare this what it is – a state of emergency! #Fight4Homeless\n@EveryoneIn_LA \nhttps://t.co/VjWAHNjSqO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Fight4Homeless",
+					"indices": [
+						99,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EveryoneIn_LA",
+					"name": "Everyone In LA",
+					"id": 772802441716854800,
+					"id_str": "772802441716854784",
+					"indices": [
+						115,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VjWAHNjSqO",
+					"expanded_url": "https://abc6onyourside.com/news/nation-world/california-officials-urge-trump-to-increase-federal-aid-to-fight-homelessness",
+					"display_url": "abc6onyourside.com/news/nation-wo…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16369269,
+			"id_str": "16369269",
+			"name": "Mark Ridley-Thomas",
+			"screen_name": "mridleythomas",
+			"location": "Los Angeles",
+			"description": "@CountyOfLA Supervisor- Carson, Compton, Culver City, Gardena, Hawthorne, Inglewood, Lawndale, LA City, Lynwood, & unincorporated areas (2M ppl) 12/08.",
+			"url": "http://t.co/ecWCHkYaHI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ecWCHkYaHI",
+							"expanded_url": "http://ridley-thomas.lacounty.gov/",
+							"display_url": "ridley-thomas.lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19684,
+			"friends_count": 966,
+			"listed_count": 506,
+			"created_at": "Fri Sep 19 19:56:37 +0000 2008",
+			"favourites_count": 7742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "141633",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16369269/1432680050",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "34C7BB",
+			"profile_sidebar_fill_color": "7CBBEB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If President Trump really wants to help, he should declare this what it is – a state of emergency! #Fight4Homeless\n@EveryoneIn_LA \nhttps://t.co/VjWAHNjSqO"
+	},
+	{
 		"created_at": "Tue Sep 17 20:16:37 +0000 2019",
 		"id": 1174054572693655600,
 		"id_str": "1174054572693655552",
