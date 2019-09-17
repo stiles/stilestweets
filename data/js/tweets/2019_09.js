@@ -1,6 +1,603 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 17 19:17:25 +0000 2019",
+		"id": 1174039674358075400,
+		"id_str": "1174039674358075392",
+		"full_text": "@CountyofLA @kathrynbarger @SheilaKuehl @SupJaniceHahn @HildaSolis @mridleythomas The discussion of the county's motion to file or join an amicus brief challenging the Martin v. Boise decision on homelessness is getting testy. Supervisors @SupJaniceHahn has had to repeatedly plea for decorum: \"This is not a free-for-all out there.\"",
+		"truncated": false,
+		"display_text_range": [
+			82,
+			333
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "kathrynbarger",
+					"name": "Supervisor Kathryn Barger",
+					"id": 3165949670,
+					"id_str": "3165949670",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						40,
+						54
+					]
+				},
+				{
+					"screen_name": "HildaSolis",
+					"name": "Hilda Solis",
+					"id": 2377732207,
+					"id_str": "2377732207",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						239,
+						253
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1174029025204813800,
+		"in_reply_to_status_id_str": "1174029025204813825",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11002,
+			"friends_count": 1725,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1568178850",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CountyofLA @kathrynbarger @SheilaKuehl @SupJaniceHahn @HildaSolis @mridleythomas The discussion of the county's motion to file or join an amicus brief challenging the Martin v. Boise decision on homelessness is getting testy. Supervisors @SupJaniceHahn has had to repeatedly plea for decorum: \"This is not a free-for-all out there.\""
+	},
+	{
+		"created_at": "Tue Sep 17 18:35:06 +0000 2019",
+		"id": 1174029025204813800,
+		"id_str": "1174029025204813825",
+		"full_text": "@CountyofLA @kathrynbarger @SheilaKuehl @SupJaniceHahn @HildaSolis @mridleythomas More than 80 residents and homeless advocates have signed up to speak on the motion. One just pleaded with @mridleythomas — who could decide the motion's fate — to vote 'no'. The vote might not come for an hour. (The speakers get a minute each).",
+		"truncated": false,
+		"display_text_range": [
+			82,
+			327
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "kathrynbarger",
+					"name": "Supervisor Kathryn Barger",
+					"id": 3165949670,
+					"id_str": "3165949670",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						40,
+						54
+					]
+				},
+				{
+					"screen_name": "HildaSolis",
+					"name": "Hilda Solis",
+					"id": 2377732207,
+					"id_str": "2377732207",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						189,
+						203
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1174026294759022600,
+		"in_reply_to_status_id_str": "1174026294759022592",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11002,
+			"friends_count": 1725,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1568178850",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CountyofLA @kathrynbarger @SheilaKuehl @SupJaniceHahn @HildaSolis @mridleythomas More than 80 residents and homeless advocates have signed up to speak on the motion. One just pleaded with @mridleythomas — who could decide the motion's fate — to vote 'no'. The vote might not come for an hour. (The speakers get a minute each)."
+	},
+	{
+		"created_at": "Tue Sep 17 18:24:15 +0000 2019",
+		"id": 1174026294759022600,
+		"id_str": "1174026294759022592",
+		"full_text": "@CountyofLA @kathrynbarger @SheilaKuehl @SupJaniceHahn @HildaSolis Supervisors @HildaSolis and @SheilaKuehl appear to be opposed to the county joining the court challenge. Looks like @mridleythomas could be the deciding vote on the five-member board. He hasn't yet had a chance to speak. \n\nAgain, the motion at issue: https://t.co/Wh4IIln2u8 https://t.co/JCQqC90Yuz",
+		"truncated": false,
+		"display_text_range": [
+			67,
+			341
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "kathrynbarger",
+					"name": "Supervisor Kathryn Barger",
+					"id": 3165949670,
+					"id_str": "3165949670",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						40,
+						54
+					]
+				},
+				{
+					"screen_name": "HildaSolis",
+					"name": "Hilda Solis",
+					"id": 2377732207,
+					"id_str": "2377732207",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"screen_name": "HildaSolis",
+					"name": "Hilda Solis",
+					"id": 2377732207,
+					"id_str": "2377732207",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						95,
+						107
+					]
+				},
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						183,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wh4IIln2u8",
+					"expanded_url": "http://file.lacounty.gov/SDSInter/bos/supdocs/140493.pdf",
+					"display_url": "file.lacounty.gov/SDSInter/bos/s…",
+					"indices": [
+						318,
+						341
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1174026290862542800,
+					"id_str": "1174026290862542848",
+					"indices": [
+						342,
+						365
+					],
+					"media_url": "http://pbs.twimg.com/media/EEr6sPfU0AAfZmg.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEr6sPfU0AAfZmg.png",
+					"url": "https://t.co/JCQqC90Yuz",
+					"display_url": "pic.twitter.com/JCQqC90Yuz",
+					"expanded_url": "https://twitter.com/stiles/status/1174026294759022592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 662,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 662,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 662,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174026290862542800,
+					"id_str": "1174026290862542848",
+					"indices": [
+						342,
+						365
+					],
+					"media_url": "http://pbs.twimg.com/media/EEr6sPfU0AAfZmg.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEr6sPfU0AAfZmg.png",
+					"url": "https://t.co/JCQqC90Yuz",
+					"display_url": "pic.twitter.com/JCQqC90Yuz",
+					"expanded_url": "https://twitter.com/stiles/status/1174026294759022592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 662,
+							"h": 350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 662,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 662,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1174025285643067400,
+		"in_reply_to_status_id_str": "1174025285643067392",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11002,
+			"friends_count": 1725,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1568178850",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CountyofLA @kathrynbarger @SheilaKuehl @SupJaniceHahn @HildaSolis Supervisors @HildaSolis and @SheilaKuehl appear to be opposed to the county joining the court challenge. Looks like @mridleythomas could be the deciding vote on the five-member board. He hasn't yet had a chance to speak. \n\nAgain, the motion at issue: https://t.co/Wh4IIln2u8 https://t.co/JCQqC90Yuz"
+	},
+	{
 		"created_at": "Tue Sep 17 18:17:11 +0000 2019",
 		"id": 1174024515606564900,
 		"id_str": "1174024515606564864",
