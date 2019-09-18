@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 18 21:11:09 +0000 2019",
+		"id": 1174430684984725500,
+		"id_str": "1174430684984725504",
+		"full_text": "@github grrr. https://t.co/jTYQkE9Z66",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "github",
+					"name": "GitHub",
+					"id": 13334762,
+					"id_str": "13334762",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174430682577162200,
+					"id_str": "1174430682577162240",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EExqe8BU0AAs25b.png",
+					"media_url_https": "https://pbs.twimg.com/media/EExqe8BU0AAs25b.png",
+					"url": "https://t.co/jTYQkE9Z66",
+					"display_url": "pic.twitter.com/jTYQkE9Z66",
+					"expanded_url": "https://twitter.com/stiles/status/1174430684984725504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 530,
+							"h": 114,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 114,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 114,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 114,
+							"h": 114,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174430682577162200,
+					"id_str": "1174430682577162240",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EExqe8BU0AAs25b.png",
+					"media_url_https": "https://pbs.twimg.com/media/EExqe8BU0AAs25b.png",
+					"url": "https://t.co/jTYQkE9Z66",
+					"display_url": "pic.twitter.com/jTYQkE9Z66",
+					"expanded_url": "https://twitter.com/stiles/status/1174430684984725504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 530,
+							"h": 114,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 114,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 114,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 114,
+							"h": 114,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1174418704781607000,
+		"in_reply_to_status_id_str": "1174418704781606914",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11007,
+			"friends_count": 1729,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1568178850",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@github grrr. https://t.co/jTYQkE9Z66"
+	},
+	{
+		"created_at": "Wed Sep 18 20:44:48 +0000 2019",
+		"id": 1174424053559349200,
+		"id_str": "1174424053559349249",
+		"full_text": "@ChrisLKellerLAT Halp1!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisLKellerLAT",
+					"name": "Chris Keller",
+					"id": 963122095747035100,
+					"id_str": "963122095747035136",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1174421101872439300,
+		"in_reply_to_status_id_str": "1174421101872439296",
+		"in_reply_to_user_id": 963122095747035100,
+		"in_reply_to_user_id_str": "963122095747035136",
+		"in_reply_to_screen_name": "ChrisLKellerLAT",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11007,
+			"friends_count": 1729,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1568178850",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@ChrisLKellerLAT Halp1!"
+	},
+	{
 		"created_at": "Wed Sep 18 18:51:45 +0000 2019",
 		"id": 1174337849694384000,
 		"id_str": "1174395604530712576",
