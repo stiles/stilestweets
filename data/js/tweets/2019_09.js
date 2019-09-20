@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 20 02:23:15 +0000 2019",
+		"id": 1174871612929085400,
+		"id_str": "1174871612929085440",
+		"full_text": "Beautiful, smart piece by two of my fave DC journos, @aaronzitner and @Dchinni. Love the dev/graphics work by  @__JessicaWang and @DannyDougherty. The navigation style was useful in keeping me focused on the storytelling on mobile. https://t.co/H55YK9Scto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aaronzitner",
+					"name": "Aaron Zitner",
+					"id": 21138770,
+					"id_str": "21138770",
+					"indices": [
+						53,
+						65
+					]
+				},
+				{
+					"screen_name": "Dchinni",
+					"name": "Dante Chinni",
+					"id": 14886998,
+					"id_str": "14886998",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"screen_name": "__JessicaWang",
+					"name": "Jessica Wang",
+					"id": 2812384244,
+					"id_str": "2812384244",
+					"indices": [
+						111,
+						125
+					]
+				},
+				{
+					"screen_name": "DannyDougherty",
+					"name": "Danny Dougherty",
+					"id": 6325812,
+					"id_str": "6325812",
+					"indices": [
+						130,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H55YK9Scto",
+					"expanded_url": "https://twitter.com/aaronzitner/status/1174693061361840128",
+					"display_url": "twitter.com/aaronzitner/st…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11012,
+			"friends_count": 1732,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1568178850",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174693061361840000,
+		"quoted_status_id_str": "1174693061361840128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/H55YK9Scto",
+			"expanded": "https://twitter.com/aaronzitner/status/1174693061361840128",
+			"display": "twitter.com/aaronzitner/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 19 14:33:45 +0000 2019",
+			"id": 1174693061361840000,
+			"id_str": "1174693061361840128",
+			"full_text": "I'm immensely proud of this project with @Dchinni and @MarkMuro1 in which we show that the two parties are not just divided by ideology. They now represent separate slices of the economy: https://t.co/w3P2NGXFko      1/x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Dchinni",
+						"name": "Dante Chinni",
+						"id": 14886998,
+						"id_str": "14886998",
+						"indices": [
+							41,
+							49
+						]
+					},
+					{
+						"screen_name": "MarkMuro1",
+						"name": "Mark Muro",
+						"id": 285706952,
+						"id_str": "285706952",
+						"indices": [
+							54,
+							64
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/w3P2NGXFko",
+						"expanded_url": "https://www.wsj.com/graphics/red-economy-blue-economy/",
+						"display_url": "wsj.com/graphics/red-e…",
+						"indices": [
+							188,
+							211
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21138770,
+				"id_str": "21138770",
+				"name": "Aaron Zitner",
+				"screen_name": "aaronzitner",
+				"location": "Washington, DC",
+				"description": "Serving up hot stacks of facts for all you Jills and Jacks. Handle polls, editing and digital projects for the Wall Street Journal.",
+				"url": "https://t.co/aBQXNrhtGJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aBQXNrhtGJ",
+								"expanded_url": "http://www.wsj.com",
+								"display_url": "wsj.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3385,
+				"friends_count": 788,
+				"listed_count": 182,
+				"created_at": "Tue Feb 17 22:26:16 +0000 2009",
+				"favourites_count": 651,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3893,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870087402836172800/GvKOat_T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870087402836172800/GvKOat_T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21138770/1481213322",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beautiful, smart piece by two of my fave DC journos, @aaronzitner and @Dchinni. Love the dev/graphics work by  @__JessicaWang and @DannyDougherty. The navigation style was useful in keeping me focused on the storytelling on mobile. https://t.co/H55YK9Scto"
+	},
+	{
 		"created_at": "Fri Sep 20 02:07:49 +0000 2019",
 		"id": 1174751145119637500,
 		"id_str": "1174867729897029632",
