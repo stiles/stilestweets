@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 20 02:07:49 +0000 2019",
+		"id": 1174751145119637500,
+		"id_str": "1174867729897029632",
+		"full_text": "Buffalo Bayou Park is, again, under water. #Imelda #DesignedToFlood https://t.co/FEnbwMzrgE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Imelda",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "DesignedToFlood",
+					"indices": [
+						51,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174751120473895000,
+					"id_str": "1174751120473894912",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EE2N64NWsAAfs84.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE2N64NWsAAfs84.jpg",
+					"url": "https://t.co/FEnbwMzrgE",
+					"display_url": "pic.twitter.com/FEnbwMzrgE",
+					"expanded_url": "https://twitter.com/allynwest/status/1174751145119637504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174751120473895000,
+					"id_str": "1174751120473894912",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EE2N64NWsAAfs84.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE2N64NWsAAfs84.jpg",
+					"url": "https://t.co/FEnbwMzrgE",
+					"display_url": "pic.twitter.com/FEnbwMzrgE",
+					"expanded_url": "https://twitter.com/allynwest/status/1174751145119637504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 612727803,
+			"id_str": "612727803",
+			"name": "Allyn West",
+			"screen_name": "allynwest",
+			"location": "Houston, TX",
+			"description": "Now: @EnvDefenseFund and @OneBreathHOU. Before: Houston Chronicle, Rice Design Alliance, Swamplot.",
+			"url": "https://t.co/GGfRBQ6HZh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GGfRBQ6HZh",
+							"expanded_url": "http://allynwest.com",
+							"display_url": "allynwest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3078,
+			"friends_count": 2635,
+			"listed_count": 65,
+			"created_at": "Tue Jun 19 15:46:59 +0000 2012",
+			"favourites_count": 19012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "070C0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126886339679543296/V7ujSwAc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126886339679543296/V7ujSwAc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/612727803/1454612862",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 342,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Buffalo Bayou Park is, again, under water. #Imelda #DesignedToFlood https://t.co/FEnbwMzrgE"
+	},
+	{
 		"created_at": "Fri Sep 20 01:02:46 +0000 2019",
 		"id": 1174752210179084300,
 		"id_str": "1174851359725670400",
