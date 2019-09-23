@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 23 03:29:04 +0000 2019",
+		"id": 1175819715387641900,
+		"id_str": "1175975342785220609",
+		"full_text": "@HerbJWesson is ignoring the call to RETURN the $1,500 contribution he took from @JUULvapor  around New Years. #YouSaidItYourself @CityNewsService @stiles @ladailynews @SheilaKuehl @SupJaniceHahn @mridleythomas @nytimes @AGBecerra @AOC https://t.co/BeEkv6VvAC 🔦 @HollyJMitchell https://t.co/kRjGHzeshU https://t.co/5NJ93BLgQb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			301
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YouSaidItYourself",
+					"indices": [
+						111,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HerbJWesson",
+					"name": "Herb J. Wesson, Jr.",
+					"id": 1921537580,
+					"id_str": "1921537580",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "JUULvapor",
+					"name": "JUUL Labs",
+					"id": 2918018660,
+					"id_str": "2918018660",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"screen_name": "CityNewsService",
+					"name": "City News Service",
+					"id": 325566165,
+					"id_str": "325566165",
+					"indices": [
+						130,
+						146
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"screen_name": "ladailynews",
+					"name": "L.A. Daily News",
+					"id": 5513142,
+					"id_str": "5513142",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"screen_name": "SheilaKuehl",
+					"name": "Sheila Kuehl",
+					"id": 1327401170,
+					"id_str": "1327401170",
+					"indices": [
+						168,
+						180
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						181,
+						195
+					]
+				},
+				{
+					"screen_name": "mridleythomas",
+					"name": "Mark Ridley-Thomas",
+					"id": 16369269,
+					"id_str": "16369269",
+					"indices": [
+						196,
+						210
+					]
+				},
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						211,
+						219
+					]
+				},
+				{
+					"screen_name": "AGBecerra",
+					"name": "Xavier Becerra",
+					"id": 133832049,
+					"id_str": "133832049",
+					"indices": [
+						220,
+						230
+					]
+				},
+				{
+					"screen_name": "AOC",
+					"name": "Alexandria Ocasio-Cortez",
+					"id": 138203134,
+					"id_str": "138203134",
+					"indices": [
+						231,
+						235
+					]
+				},
+				{
+					"screen_name": "HollyJMitchell",
+					"name": "Holly J Mitchell",
+					"id": 278192411,
+					"id_str": "278192411",
+					"indices": [
+						262,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BeEkv6VvAC",
+					"expanded_url": "https://twitter.com/ericpreven/status/1175585006422413312?s=20",
+					"display_url": "twitter.com/ericpreven/sta…",
+					"indices": [
+						236,
+						259
+					]
+				},
+				{
+					"url": "https://t.co/kRjGHzeshU",
+					"expanded_url": "https://twitter.com/CityAttorneyLA/status/1175452058109042689",
+					"display_url": "twitter.com/CityAttorneyLA…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1175819712451629000,
+					"id_str": "1175819712451629056",
+					"indices": [
+						302,
+						325
+					],
+					"media_url": "http://pbs.twimg.com/media/EFFZzHiU0AAuO1w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFFZzHiU0AAuO1w.jpg",
+					"url": "https://t.co/5NJ93BLgQb",
+					"display_url": "pic.twitter.com/5NJ93BLgQb",
+					"expanded_url": "https://twitter.com/ericpreven/status/1175819715387641856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 44,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 78,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1478,
+							"h": 96,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 96,
+							"h": 96,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175819712451629000,
+					"id_str": "1175819712451629056",
+					"indices": [
+						302,
+						325
+					],
+					"media_url": "http://pbs.twimg.com/media/EFFZzHiU0AAuO1w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFFZzHiU0AAuO1w.jpg",
+					"url": "https://t.co/5NJ93BLgQb",
+					"display_url": "pic.twitter.com/5NJ93BLgQb",
+					"expanded_url": "https://twitter.com/ericpreven/status/1175819715387641856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 44,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 78,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1478,
+							"h": 96,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 96,
+							"h": 96,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1921537580,
+		"in_reply_to_user_id_str": "1921537580",
+		"in_reply_to_screen_name": "HerbJWesson",
+		"user": {
+			"id": 48035360,
+			"id_str": "48035360",
+			"name": "eric preven",
+			"screen_name": "ericpreven",
+			"location": "Los Angeles, CA",
+			"description": "",
+			"url": "https://t.co/n3Ccj5Nzse",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n3Ccj5Nzse",
+							"expanded_url": "http://www.ThePrevenReport.com",
+							"display_url": "ThePrevenReport.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245,
+			"friends_count": 635,
+			"listed_count": 3,
+			"created_at": "Wed Jun 17 17:16:54 +0000 2009",
+			"favourites_count": 374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48035360/1394392597",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1175452058109042700,
+		"quoted_status_id_str": "1175452058109042689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kRjGHzeshU",
+			"expanded": "https://twitter.com/CityAttorneyLA/status/1175452058109042689",
+			"display": "twitter.com/CityAttorneyLA…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 21 16:49:44 +0000 2019",
+			"id": 1175452058109042700,
+			"id_str": "1175452058109042689",
+			"full_text": "Mike Feuer on the epidemic that begs for an urgent response.\n\n\"Who do you think it's designed to appeal to?\"\n\n#vaping https://t.co/jSJVPNZGFV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "vaping",
+						"indices": [
+							110,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1175451928316301300,
+						"id_str": "1175451928316301312",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175451928316301312/pu/img/R9XLvUhrLJhX0DDs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175451928316301312/pu/img/R9XLvUhrLJhX0DDs.jpg",
+						"url": "https://t.co/jSJVPNZGFV",
+						"display_url": "pic.twitter.com/jSJVPNZGFV",
+						"expanded_url": "https://twitter.com/CityAttorneyLA/status/1175452058109042689/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1175451928316301300,
+						"id_str": "1175451928316301312",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175451928316301312/pu/img/R9XLvUhrLJhX0DDs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175451928316301312/pu/img/R9XLvUhrLJhX0DDs.jpg",
+						"url": "https://t.co/jSJVPNZGFV",
+						"display_url": "pic.twitter.com/jSJVPNZGFV",
+						"expanded_url": "https://twitter.com/CityAttorneyLA/status/1175452058109042689/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 28400,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1175451928316301312/pu/pl/RTG79usaHvk8Xlnk.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1175451928316301312/pu/vid/640x360/lb_Kxky-VT9nVm9O.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1175451928316301312/pu/vid/1280x720/eB_bpBx-PGwz_EUF.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1175451928316301312/pu/vid/480x270/SteVps-aYElC4GfA.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2201782562,
+				"id_str": "2201782562",
+				"name": "LA City Attorney",
+				"screen_name": "CityAttorneyLA",
+				"location": "Los Angeles, CA",
+				"description": "MIKE FEUER: The elected Los Angeles City Attorney. Consumers. Homelessness. School Safety. Gun Violence Prevention. Co-Founder @ProsecutorsAGV. Community.",
+				"url": "https://t.co/QsrxD8fNBm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QsrxD8fNBm",
+								"expanded_url": "http://lacityattorney.org",
+								"display_url": "lacityattorney.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19512,
+				"friends_count": 21450,
+				"listed_count": 403,
+				"created_at": "Mon Nov 18 18:41:43 +0000 2013",
+				"favourites_count": 17125,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14120,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2E0202",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1095864087848710145/cHJSpExf_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095864087848710145/cHJSpExf_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2201782562/1510684485",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@HerbJWesson is ignoring the call to RETURN the $1,500 contribution he took from @JUULvapor  around New Years. #YouSaidItYourself @CityNewsService @stiles @ladailynews @SheilaKuehl @SupJaniceHahn @mridleythomas @nytimes @AGBecerra @AOC https://t.co/BeEkv6VvAC 🔦 @HollyJMitchell https://t.co/kRjGHzeshU https://t.co/5NJ93BLgQb"
+	},
+	{
 		"created_at": "Sat Sep 21 20:45:44 +0000 2019",
 		"id": 1175511451651305500,
 		"id_str": "1175511451651305472",
