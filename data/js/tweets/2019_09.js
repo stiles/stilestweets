@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 16:23:28 +0000 2019",
+		"id": 1176527702049734700,
+		"id_str": "1176532611868454913",
+		"full_text": "The @latimes has a newly merged nerd squad. It's called @datagraphics.\n\nWe're here to aggressively cover the news with timely, visual graphics reporting.\n\nAnd to break the mold with ambitious, innovative projects.\n\nI need an editor to lead each side of the house. Join me. https://t.co/ij48mOVG8W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"screen_name": "datagraphics",
+					"name": "Los Angeles Times Data and Graphics",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						56,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ij48mOVG8W",
+					"expanded_url": "https://twitter.com/palewire/status/1176506313221627904",
+					"display_url": "twitter.com/palewire/statu…",
+					"indices": [
+						273,
+						296
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · DMs open · Send tips to ben.welsh@latimes.com",
+			"url": "https://t.co/kogJ0fJceo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kogJ0fJceo",
+							"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/alHGK4tTzG",
+							"expanded_url": "http://californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9507,
+			"friends_count": 3081,
+			"listed_count": 710,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176506313221628000,
+		"quoted_status_id_str": "1176506313221627904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ij48mOVG8W",
+			"expanded": "https://twitter.com/palewire/status/1176506313221627904",
+			"display": "twitter.com/palewire/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 24 14:38:58 +0000 2019",
+			"id": 1176506313221628000,
+			"id_str": "1176506313221627904",
+			"full_text": "🎺 #JOB 🎺\n\nHere's that chance you've been waiting for.\n\n@datagraphics is hiring an editor to lead the design and development of editorial projects.\n\nMove to LA. Take charge of the @latimes' most ambitious journalism. \n\nGet the ball rolling. DM me today.\n\nhttps://t.co/zjbwwAPNYC https://t.co/AN6WhY44Al",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "JOB",
+						"indices": [
+							2,
+							6
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "datagraphics",
+						"name": "Los Angeles Times Data and Graphics",
+						"id": 17918860,
+						"id_str": "17918860",
+						"indices": [
+							55,
+							68
+						]
+					},
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							179,
+							187
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zjbwwAPNYC",
+						"expanded_url": "https://nantmedia.wd5.myworkdayjobs.com/en-US/LATimesCareers/job/El-Segundo-CA/Deputy-Editor--Data-and-Graphics_REQ_000281",
+						"display_url": "nantmedia.wd5.myworkdayjobs.com/en-US/LATimesC…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1176506296767369200,
+						"id_str": "1176506296767369216",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EFPKPlbUUAAuvHq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFPKPlbUUAAuvHq.jpg",
+						"url": "https://t.co/AN6WhY44Al",
+						"display_url": "pic.twitter.com/AN6WhY44Al",
+						"expanded_url": "https://twitter.com/palewire/status/1176506313221627904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 899,
+								"h": 1244,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 867,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 491,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1176506296767369200,
+						"id_str": "1176506296767369216",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EFPKPlbUUAAuvHq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFPKPlbUUAAuvHq.jpg",
+						"url": "https://t.co/AN6WhY44Al",
+						"display_url": "pic.twitter.com/AN6WhY44Al",
+						"expanded_url": "https://twitter.com/palewire/status/1176506313221627904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 899,
+								"h": 1244,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 867,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 491,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14559196,
+				"id_str": "14559196",
+				"name": "Ben Welsh",
+				"screen_name": "palewire",
+				"location": "Live and direct",
+				"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · DMs open · Send tips to ben.welsh@latimes.com",
+				"url": "https://t.co/kogJ0fJceo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kogJ0fJceo",
+								"expanded_url": "http://palewi.re/who-is-ben-welsh/",
+								"display_url": "palewi.re/who-is-ben-wel…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/alHGK4tTzG",
+								"expanded_url": "http://californiacivicdata.org",
+								"display_url": "californiacivicdata.org",
+								"indices": [
+									47,
+									70
+								]
+							},
+							{
+								"url": "https://t.co/CaO6K276g3",
+								"expanded_url": "http://pastpages.org",
+								"display_url": "pastpages.org",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9507,
+				"friends_count": 3081,
+				"listed_count": 710,
+				"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+				"favourites_count": 9,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 55528,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDDDDD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @latimes has a newly merged nerd squad. It's called @datagraphics.\n\nWe're here to aggressively cover the news with timely, visual graphics reporting.\n\nAnd to break the mold with ambitious, innovative projects.\n\nI need an editor to lead each side of the house. Join me. https://t.co/ij48mOVG8W"
+	},
+	{
 		"created_at": "Tue Sep 24 13:50:45 +0000 2019",
 		"id": 1176478498380288000,
 		"id_str": "1176494178651361280",
