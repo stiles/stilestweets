@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 19:07:42 +0000 2019",
+		"id": 1176573944284889000,
+		"id_str": "1176573944284889088",
+		"full_text": "Whoa. https://t.co/SguWGsIkkq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176573941629894700,
+					"id_str": "1176573941629894656",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EFQHxCLUwAATu1q.png",
+					"media_url_https": "https://pbs.twimg.com/media/EFQHxCLUwAATu1q.png",
+					"url": "https://t.co/SguWGsIkkq",
+					"display_url": "pic.twitter.com/SguWGsIkkq",
+					"expanded_url": "https://twitter.com/stiles/status/1176573944284889088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 493,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 493,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 493,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176573941629894700,
+					"id_str": "1176573941629894656",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EFQHxCLUwAATu1q.png",
+					"media_url_https": "https://pbs.twimg.com/media/EFQHxCLUwAATu1q.png",
+					"url": "https://t.co/SguWGsIkkq",
+					"display_url": "pic.twitter.com/SguWGsIkkq",
+					"expanded_url": "https://twitter.com/stiles/status/1176573944284889088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 493,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 493,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 493,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11017,
+			"friends_count": 1735,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569106447",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whoa. https://t.co/SguWGsIkkq"
+	},
+	{
+		"created_at": "Tue Sep 24 19:00:54 +0000 2019",
+		"id": 1176563525600202800,
+		"id_str": "1176572231284977664",
+		"full_text": "The sound of clattering keyboards in the DC bureau right now is as intense as I've ever heard in a newsroom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 580649124,
+			"id_str": "580649124",
+			"name": "Kim Janssen",
+			"screen_name": "kimjnews",
+			"location": "Los Angeles, CA",
+			"description": "Los Angeles Times/ \"like Kardashian, or Jong-un\"",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4906,
+			"friends_count": 1975,
+			"listed_count": 224,
+			"created_at": "Tue May 15 05:16:27 +0000 2012",
+			"favourites_count": 10295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/693300771979411456/NTgY2Mv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/693300771979411456/NTgY2Mv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/580649124/1552333918",
+			"profile_link_color": "B30000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 144,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The sound of clattering keyboards in the DC bureau right now is as intense as I've ever heard in a newsroom"
+	},
+	{
 		"created_at": "Tue Sep 24 16:23:28 +0000 2019",
 		"id": 1176527702049734700,
 		"id_str": "1176532611868454913",
