@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 13:50:45 +0000 2019",
+		"id": 1176478498380288000,
+		"id_str": "1176494178651361280",
+		"full_text": "I'll be doing a @reddit_AMA today at 12PM. Come and ask me anything! \n#reddit #korea #hockey #nonfiction #books #QandA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "reddit",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "korea",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "hockey",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "nonfiction",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "books",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "QandA",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reddit_AMA",
+					"name": "reddit AMA",
+					"id": 524487620,
+					"id_str": "524487620",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1132820481319559200,
+			"id_str": "1132820481319559171",
+			"name": "Seth Berkman",
+			"screen_name": "ateamoftheirown",
+			"location": "NYC",
+			"description": "A Team of Their Own: How an International Sisterhood Made Olympic History @Hanover_Square/ @HarlequinBooks /@HarperCollins **10.1.19**\nIG: seth.berkman",
+			"url": "https://t.co/WF5HWIgcxC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF5HWIgcxC",
+							"expanded_url": "https://www.harlequintradepublishing.com/shop/books/9781335005533_a-team-of-their-own.html",
+							"display_url": "harlequintradepublishing.com/shop/books/978…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83,
+			"friends_count": 233,
+			"listed_count": 1,
+			"created_at": "Mon May 27 01:27:04 +0000 2019",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136038458785521664/LKcsLJi9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136038458785521664/LKcsLJi9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1132820481319559171/1559688202",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'll be doing a @reddit_AMA today at 12PM. Come and ask me anything! \n#reddit #korea #hockey #nonfiction #books #QandA"
+	},
+	{
 		"created_at": "Tue Sep 24 06:18:37 +0000 2019",
 		"id": 1176232361584840700,
 		"id_str": "1176380396549754880",
