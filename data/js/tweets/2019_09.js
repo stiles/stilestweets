@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 23:19:41 +0000 2019",
+		"id": 1176614856251674600,
+		"id_str": "1176637355400355842",
+		"full_text": "Never seen our homepage so dramatique 😮 https://t.co/Kqz3CBHDPH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176614848647446500,
+					"id_str": "1176614848647446528",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EFQs-IsUwAALJo9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFQs-IsUwAALJo9.jpg",
+					"url": "https://t.co/Kqz3CBHDPH",
+					"display_url": "pic.twitter.com/Kqz3CBHDPH",
+					"expanded_url": "https://twitter.com/priyakkumar/status/1176614856251674624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176614848647446500,
+					"id_str": "1176614848647446528",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EFQs-IsUwAALJo9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFQs-IsUwAALJo9.jpg",
+					"url": "https://t.co/Kqz3CBHDPH",
+					"display_url": "pic.twitter.com/Kqz3CBHDPH",
+					"expanded_url": "https://twitter.com/priyakkumar/status/1176614856251674624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192995488,
+			"id_str": "192995488",
+			"name": "Priya Krishnakumar",
+			"screen_name": "priyakkumar",
+			"location": "",
+			"description": "Graphics maps n’ data @latimes. Cake is a breakfast food!! priya@latimes.com",
+			"url": "https://t.co/w8ovcvH7jJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w8ovcvH7jJ",
+							"expanded_url": "http://priyakrishnakumar.com",
+							"display_url": "priyakrishnakumar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5342,
+			"friends_count": 705,
+			"listed_count": 98,
+			"created_at": "Mon Sep 20 18:18:50 +0000 2010",
+			"favourites_count": 8001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174894404911292416/t8_zGAb7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174894404911292416/t8_zGAb7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192995488/1496358615",
+			"profile_link_color": "009FBF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBBE3D",
+			"profile_text_color": "EED68C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 95,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never seen our homepage so dramatique 😮 https://t.co/Kqz3CBHDPH"
+	},
+	{
+		"created_at": "Tue Sep 24 23:15:01 +0000 2019",
+		"id": 1176636184799264800,
+		"id_str": "1176636184799264768",
+		"full_text": "Oh... https://t.co/Wyb3ViZlei",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wyb3ViZlei",
+					"expanded_url": "https://twitter.com/nancook/status/1176634505748209664",
+					"display_url": "twitter.com/nancook/status…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11017,
+			"friends_count": 1735,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569106447",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176634505748209700,
+		"quoted_status_id_str": "1176634505748209664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Wyb3ViZlei",
+			"expanded": "https://twitter.com/nancook/status/1176634505748209664",
+			"display": "twitter.com/nancook/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 24 23:08:21 +0000 2019",
+			"id": 1176634505748209700,
+			"id_str": "1176634505748209664",
+			"full_text": "SCOOP: The White House is preparing to release the whistleblower complaint + IG report to Congress by the end of the week, per a senior administration official. POTUS has signed off on it -- for now: https://t.co/dy7v5DqxZ1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dy7v5DqxZ1",
+						"expanded_url": "https://www.politico.com/story/2019/09/24/white-house-whistleblower-complaint-release-1510341",
+						"display_url": "politico.com/story/2019/09/…",
+						"indices": [
+							200,
+							223
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26520417,
+				"id_str": "26520417",
+				"name": "Nancy Cook",
+				"screen_name": "nancook",
+				"location": "Washington D.C.",
+				"description": "White House reporter for Politico. Tips/ideas to ncook@politico.com. RT's not endorsements.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12039,
+				"friends_count": 2167,
+				"listed_count": 551,
+				"created_at": "Wed Mar 25 15:36:00 +0000 2009",
+				"favourites_count": 13415,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10283,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000535143108/39dd3bb6f9bede34f2ffb8ceb5c46551_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000535143108/39dd3bb6f9bede34f2ffb8ceb5c46551_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26520417/1505329216",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 88,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Oh... https://t.co/Wyb3ViZlei"
+	},
+	{
+		"created_at": "Tue Sep 24 23:08:41 +0000 2019",
+		"id": 1176632656043360300,
+		"id_str": "1176634590452039680",
+		"full_text": "Will L.A. impose new rules on sidewalk sleeping? Protests and debate erupt at City Hall https://t.co/6eZHGMrkeE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6eZHGMrkeE",
+					"expanded_url": "https://www.latimes.com/california/story/2019-09-24/homeless-sleeping-street-sidewalk-law-controversy",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17036898,
+			"id_str": "17036898",
+			"name": "L.A. Times: L.A. Now",
+			"screen_name": "LANow",
+			"location": "Los Angeles, CA",
+			"description": "Southern California -- this just in. News from L.A. and beyond from the Los Angeles Times. See @latimes for more news.",
+			"url": "https://t.co/6k4qSdf5J8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6k4qSdf5J8",
+							"expanded_url": "http://latimes.com/now",
+							"display_url": "latimes.com/now",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 521860,
+			"friends_count": 603,
+			"listed_count": 4085,
+			"created_at": "Wed Oct 29 05:55:55 +0000 2008",
+			"favourites_count": 452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 108689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043218383141928961/i7P3LHYw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043218383141928961/i7P3LHYw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17036898/1520220820",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Will L.A. impose new rules on sidewalk sleeping? Protests and debate erupt at City Hall https://t.co/6eZHGMrkeE"
+	},
+	{
 		"created_at": "Tue Sep 24 21:18:30 +0000 2019",
 		"id": 1176606859022618600,
 		"id_str": "1176606859022618624",
