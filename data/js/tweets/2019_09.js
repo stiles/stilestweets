@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 23 23:42:33 +0000 2019",
+		"id": 1176280599868264400,
+		"id_str": "1176280722476109824",
+		"full_text": "Controversy over mysterious death of 4-year-old #noahcuatro intensified today: https://t.co/iUanabGRTW @WitnessLA @stiles @lolitanbcla @HaileyBWinslow @fajardonews @LarryMantle @AMartinezLA @alexcoheninla @ryannblackshere https://t.co/WcvpzzKFaC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "noahcuatro",
+					"indices": [
+						48,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WitnessLA",
+					"name": "Celeste Fremon",
+					"id": 16797844,
+					"id_str": "16797844",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"screen_name": "lolitanbcla",
+					"name": "Lolita Lopez",
+					"id": 19217091,
+					"id_str": "19217091",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"screen_name": "HaileyBWinslow",
+					"name": "Hailey Winslow",
+					"id": 17389135,
+					"id_str": "17389135",
+					"indices": [
+						135,
+						150
+					]
+				},
+				{
+					"screen_name": "fajardonews",
+					"name": "Cristy Fajardo",
+					"id": 41761747,
+					"id_str": "41761747",
+					"indices": [
+						151,
+						163
+					]
+				},
+				{
+					"screen_name": "LarryMantle",
+					"name": "Larry Mantle",
+					"id": 762395028,
+					"id_str": "762395028",
+					"indices": [
+						164,
+						176
+					]
+				},
+				{
+					"screen_name": "AMartinezLA",
+					"name": "A Martínez",
+					"id": 446829173,
+					"id_str": "446829173",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"screen_name": "alexcoheninla",
+					"name": "Alex Cohen",
+					"id": 135652056,
+					"id_str": "135652056",
+					"indices": [
+						190,
+						204
+					]
+				},
+				{
+					"screen_name": "ryannblackshere",
+					"name": "Ryann Blackshere Vargas",
+					"id": 94173317,
+					"id_str": "94173317",
+					"indices": [
+						205,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iUanabGRTW",
+					"expanded_url": "http://bit.ly/NC92319",
+					"display_url": "bit.ly/NC92319",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1176280595741020200,
+					"id_str": "1176280595741020161",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EFL8-DlUEAEwfOC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFL8-DlUEAEwfOC.jpg",
+					"url": "https://t.co/WcvpzzKFaC",
+					"display_url": "pic.twitter.com/WcvpzzKFaC",
+					"expanded_url": "https://twitter.com/dheimpel/status/1176280599868264448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 701,
+							"h": 446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 701,
+							"h": 446,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176280595741020200,
+					"id_str": "1176280595741020161",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EFL8-DlUEAEwfOC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFL8-DlUEAEwfOC.jpg",
+					"url": "https://t.co/WcvpzzKFaC",
+					"display_url": "pic.twitter.com/WcvpzzKFaC",
+					"expanded_url": "https://twitter.com/dheimpel/status/1176280599868264448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 701,
+							"h": 446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 701,
+							"h": 446,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24719492,
+			"id_str": "24719492",
+			"name": "Daniel Heimpel",
+			"screen_name": "dheimpel",
+			"location": "Los Angeles",
+			"description": "Journalism and Justice for the American family.",
+			"url": "https://t.co/HgJMhgRPOu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HgJMhgRPOu",
+							"expanded_url": "http://www.chronicleofsocialchange.org",
+							"display_url": "chronicleofsocialchange.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2097,
+			"friends_count": 3362,
+			"listed_count": 71,
+			"created_at": "Mon Mar 16 16:27:52 +0000 2009",
+			"favourites_count": 3075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983776663967166464/XeIPuuWH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983776663967166464/XeIPuuWH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24719492/1527013815",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Controversy over mysterious death of 4-year-old #noahcuatro intensified today: https://t.co/iUanabGRTW @WitnessLA @stiles @lolitanbcla @HaileyBWinslow @fajardonews @LarryMantle @AMartinezLA @alexcoheninla @ryannblackshere https://t.co/WcvpzzKFaC"
+	},
+	{
 		"created_at": "Mon Sep 23 05:29:28 +0000 2019",
 		"id": 1176005638691926000,
 		"id_str": "1176005638691926016",
