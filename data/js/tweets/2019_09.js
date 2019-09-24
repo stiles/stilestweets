@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 04:43:40 +0000 2019",
+		"id": 1175102942359277600,
+		"id_str": "1176356502619095046",
+		"full_text": "@RepJimBanks Bone spurs says hello by the way.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RepJimBanks",
+					"name": "Jim Banks",
+					"id": 816131319033950200,
+					"id_str": "816131319033950208",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1175092266874151000,
+		"in_reply_to_status_id_str": "1175092266874150913",
+		"in_reply_to_user_id": 816131319033950200,
+		"in_reply_to_user_id_str": "816131319033950208",
+		"in_reply_to_screen_name": "RepJimBanks",
+		"user": {
+			"id": 2294704849,
+			"id_str": "2294704849",
+			"name": "Derk👽",
+			"screen_name": "derkewing",
+			"location": "Winchestertonfieldville, Iowa",
+			"description": "Views belong to me or one of my 27 different personalities.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167,
+			"friends_count": 145,
+			"listed_count": 1,
+			"created_at": "Thu Jan 16 16:33:05 +0000 2014",
+			"favourites_count": 40253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966551172659187713/rGmBdsdg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966551172659187713/rGmBdsdg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2294704849/1542576602",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@RepJimBanks Bone spurs says hello by the way."
+	},
+	{
 		"created_at": "Mon Sep 23 23:42:33 +0000 2019",
 		"id": 1176280599868264400,
 		"id_str": "1176280722476109824",
