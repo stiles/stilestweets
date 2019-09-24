@@ -1,6 +1,551 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 06:18:37 +0000 2019",
+		"id": 1176232361584840700,
+		"id_str": "1176380396549754880",
+		"full_text": "So WTF is it with all those cursing presidential candidates? Seriously, we’re a long way from Nixon’s myriad and many expletives deleted, or Biden’s f-bomb and W. Bush calling a NY Times reporter a “major league asshole.” https://t.co/oGidq0hDNs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oGidq0hDNs",
+					"expanded_url": "https://www.latimes.com/politics/story/2019-09-23/cursing-presidential-candidates-2020",
+					"display_url": "latimes.com/politics/story…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 294270520,
+			"id_str": "294270520",
+			"name": "Mark Z. Barabak",
+			"screen_name": "markzbarabak",
+			"location": "",
+			"description": "Non-Academy Award winning political writer for the Los Angeles Times. Proud California native, happiest when in the Sierra. Cat on a tin roof. Dogs in a pile.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13224,
+			"friends_count": 574,
+			"listed_count": 659,
+			"created_at": "Fri May 06 20:53:16 +0000 2011",
+			"favourites_count": 19143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172384085341130754/dLFHi6bV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172384085341130754/dLFHi6bV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/294270520/1565303974",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So WTF is it with all those cursing presidential candidates? Seriously, we’re a long way from Nixon’s myriad and many expletives deleted, or Biden’s f-bomb and W. Bush calling a NY Times reporter a “major league asshole.” https://t.co/oGidq0hDNs"
+	},
+	{
+		"created_at": "Tue Sep 24 06:09:59 +0000 2019",
+		"id": 1176378225435349000,
+		"id_str": "1176378225435348992",
+		"full_text": "@seangreene89 Here are some other scenes from The Journey. https://t.co/ARXeCcr8ez",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seangreene89",
+					"name": "Sean Greene",
+					"id": 267312443,
+					"id_str": "267312443",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176378201708195800,
+					"id_str": "1176378201708195841",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EFNVveJUcAENe02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFNVveJUcAENe02.jpg",
+					"url": "https://t.co/ARXeCcr8ez",
+					"display_url": "pic.twitter.com/ARXeCcr8ez",
+					"expanded_url": "https://twitter.com/stiles/status/1176378225435348992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176378201708195800,
+					"id_str": "1176378201708195841",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EFNVveJUcAENe02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFNVveJUcAENe02.jpg",
+					"url": "https://t.co/ARXeCcr8ez",
+					"display_url": "pic.twitter.com/ARXeCcr8ez",
+					"expanded_url": "https://twitter.com/stiles/status/1176378225435348992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1176378208687575000,
+					"id_str": "1176378208687575040",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EFNVv4JVUAAgMAv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFNVv4JVUAAgMAv.jpg",
+					"url": "https://t.co/ARXeCcr8ez",
+					"display_url": "pic.twitter.com/ARXeCcr8ez",
+					"expanded_url": "https://twitter.com/stiles/status/1176378225435348992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1176378217298419700,
+					"id_str": "1176378217298419714",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EFNVwYOUYAIQSog.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFNVwYOUYAIQSog.jpg",
+					"url": "https://t.co/ARXeCcr8ez",
+					"display_url": "pic.twitter.com/ARXeCcr8ez",
+					"expanded_url": "https://twitter.com/stiles/status/1176378225435348992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1176375456267849700,
+		"in_reply_to_status_id_str": "1176375456267849728",
+		"in_reply_to_user_id": 267312443,
+		"in_reply_to_user_id_str": "267312443",
+		"in_reply_to_screen_name": "seangreene89",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11019,
+			"friends_count": 1735,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569106447",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@seangreene89 Here are some other scenes from The Journey. https://t.co/ARXeCcr8ez"
+	},
+	{
+		"created_at": "Tue Sep 24 06:03:57 +0000 2019",
+		"id": 1176238480935882800,
+		"id_str": "1176376705201520640",
+		"full_text": ".@LACountyRRCC is improving how we vote. Explore the new voting system at 50 sites this weekend! This is for fun and education, so you don't need to be a registered voter to participate. Everyone is welcome! \n\nList of locations: https://t.co/txZG70Mjt0 https://t.co/Xm41F6pT57",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						1,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/txZG70Mjt0",
+					"expanded_url": "https://www.lavote.net/docs/rrcc/media/mock-election-flyerfinal.pdf",
+					"display_url": "lavote.net/docs/rrcc/medi…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1176238477765046300,
+					"id_str": "1176238477765046272",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EFLWqd5U8AAFEjR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFLWqd5U8AAFEjR.jpg",
+					"url": "https://t.co/Xm41F6pT57",
+					"display_url": "pic.twitter.com/Xm41F6pT57",
+					"expanded_url": "https://twitter.com/CountyofLA/status/1176238480935882752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176238477765046300,
+					"id_str": "1176238477765046272",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EFLWqd5U8AAFEjR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFLWqd5U8AAFEjR.jpg",
+					"url": "https://t.co/Xm41F6pT57",
+					"display_url": "pic.twitter.com/Xm41F6pT57",
+					"expanded_url": "https://twitter.com/CountyofLA/status/1176238480935882752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193771633,
+			"id_str": "193771633",
+			"name": "Los Angeles County",
+			"screen_name": "CountyofLA",
+			"location": "Los Angeles County",
+			"description": "Official account of Los Angeles County",
+			"url": "http://t.co/7Z6JLrLfYn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7Z6JLrLfYn",
+							"expanded_url": "http://lacounty.gov",
+							"display_url": "lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37495,
+			"friends_count": 4738,
+			"listed_count": 653,
+			"created_at": "Wed Sep 22 17:08:50 +0000 2010",
+			"favourites_count": 4490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193771633/1569254881",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@LACountyRRCC is improving how we vote. Explore the new voting system at 50 sites this weekend! This is for fun and education, so you don't need to be a registered voter to participate. Everyone is welcome! \n\nList of locations: https://t.co/txZG70Mjt0 https://t.co/Xm41F6pT57"
+	},
+	{
 		"created_at": "Tue Sep 24 04:43:40 +0000 2019",
 		"id": 1175102942359277600,
 		"id_str": "1176356502619095046",
