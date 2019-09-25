@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 25 21:18:12 +0000 2019",
+		"id": 1176893385430331400,
+		"id_str": "1176969170853847040",
+		"full_text": "Give L.A. County's new voting system a test run at this weekend's mock elections! \n📆Saturday &amp; Sunday (Sep 28 &amp; 29)\n⏰10 a.m. to 4 p.m.\n📍50 locations\n👨‍👩‍👦‍👦All ages welcome\nhttps://t.co/txZG70Mjt0 @LACountyRRCC https://t.co/IOU4J2wz3N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						205,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/txZG70Mjt0",
+					"expanded_url": "https://www.lavote.net/docs/rrcc/media/mock-election-flyerfinal.pdf",
+					"display_url": "lavote.net/docs/rrcc/medi…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1176893367105441800,
+					"id_str": "1176893367105441792",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFUqSCzVUAA5DIi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFUqSCzVUAA5DIi.jpg",
+					"url": "https://t.co/IOU4J2wz3N",
+					"display_url": "pic.twitter.com/IOU4J2wz3N",
+					"expanded_url": "https://twitter.com/CountyofLA/status/1176893385430331392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176893367105441800,
+					"id_str": "1176893367105441792",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFUqSCzVUAA5DIi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFUqSCzVUAA5DIi.jpg",
+					"url": "https://t.co/IOU4J2wz3N",
+					"display_url": "pic.twitter.com/IOU4J2wz3N",
+					"expanded_url": "https://twitter.com/CountyofLA/status/1176893385430331392/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EFUqSCzVUAA5DIi.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193771633,
+			"id_str": "193771633",
+			"name": "Los Angeles County",
+			"screen_name": "CountyofLA",
+			"location": "Los Angeles County",
+			"description": "Official account of Los Angeles County",
+			"url": "http://t.co/7Z6JLrLfYn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7Z6JLrLfYn",
+							"expanded_url": "http://lacounty.gov",
+							"display_url": "lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37517,
+			"friends_count": 4738,
+			"listed_count": 653,
+			"created_at": "Wed Sep 22 17:08:50 +0000 2010",
+			"favourites_count": 4493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193771633/1569254881",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Give L.A. County's new voting system a test run at this weekend's mock elections! \n📆Saturday &amp; Sunday (Sep 28 &amp; 29)\n⏰10 a.m. to 4 p.m.\n📍50 locations\n👨‍👩‍👦‍👦All ages welcome\nhttps://t.co/txZG70Mjt0 @LACountyRRCC https://t.co/IOU4J2wz3N"
+	},
+	{
+		"created_at": "Wed Sep 25 21:17:56 +0000 2019",
+		"id": 1176969105397575700,
+		"id_str": "1176969105397575680",
+		"full_text": "SHIP IT! https://t.co/jwGhZdRZ1O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176969102562189300,
+					"id_str": "1176969102562189312",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EFVvKbXUYAAbpMu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EFVvKbXUYAAbpMu.png",
+					"url": "https://t.co/jwGhZdRZ1O",
+					"display_url": "pic.twitter.com/jwGhZdRZ1O",
+					"expanded_url": "https://twitter.com/stiles/status/1176969105397575680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 871,
+							"h": 516,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 871,
+							"h": 516,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176969102562189300,
+					"id_str": "1176969102562189312",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EFVvKbXUYAAbpMu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EFVvKbXUYAAbpMu.png",
+					"url": "https://t.co/jwGhZdRZ1O",
+					"display_url": "pic.twitter.com/jwGhZdRZ1O",
+					"expanded_url": "https://twitter.com/stiles/status/1176969105397575680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 871,
+							"h": 516,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 871,
+							"h": 516,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11016,
+			"friends_count": 1735,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569106447",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SHIP IT! https://t.co/jwGhZdRZ1O"
+	},
+	{
 		"created_at": "Wed Sep 25 01:10:02 +0000 2019",
 		"id": 1176665127132680200,
 		"id_str": "1176665127132680194",
