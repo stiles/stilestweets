@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 01:11:19 +0000 2019",
+		"id": 1177000181629423600,
+		"id_str": "1177027839083737088",
+		"full_text": "Just read the Whistleblower report. \n\nThis thing is bigger that I thought.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 231510077,
+			"id_str": "231510077",
+			"name": "Joaquin Castro",
+			"screen_name": "JoaquinCastrotx",
+			"location": "San Antonio, Texas",
+			"description": "Texas Congressman; Chairman of @HispanicCaucus; Vice Chairman of @HouseForeign; Member of @HouseIntel and @EdLaborCmte Commitees; host of @DiploCable.",
+			"url": "https://t.co/kGmhJFxmq0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kGmhJFxmq0",
+							"expanded_url": "http://castro.house.gov",
+							"display_url": "castro.house.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210135,
+			"friends_count": 1958,
+			"listed_count": 2479,
+			"created_at": "Tue Dec 28 18:41:02 +0000 2010",
+			"favourites_count": 5870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268126174/Joaquin_Castro_in_2008_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/231510077/1524233697",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7929,
+		"favorite_count": 32902,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Just read the Whistleblower report. \n\nThis thing is bigger that I thought."
+	},
+	{
 		"created_at": "Wed Sep 25 23:21:25 +0000 2019",
 		"id": 1177000180450648000,
 		"id_str": "1177000180450648065",
