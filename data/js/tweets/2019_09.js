@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 18:05:02 +0000 2019",
+		"id": 1177282947243602000,
+		"id_str": "1177282947243601920",
+		"full_text": "Back in April, I wrote that @LACoSheriff's feud with the @CountyofLA supervisors could cost him. Seems prophetic given a new proposal to freeze a portion of his funds over spending concerns. That story: https://t.co/MbWJepAlhW Today's story w/ @AleneTchek: https://t.co/8nPS0a5988 https://t.co/zz10qQ0vNo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACoSheriff",
+					"name": "Alex Villanueva",
+					"id": 1067499378175238100,
+					"id_str": "1067499378175238144",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"screen_name": "AleneTchek",
+					"name": "Alene Tchekmedyian",
+					"id": 26102955,
+					"id_str": "26102955",
+					"indices": [
+						244,
+						255
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MbWJepAlhW",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-sheriff-board-of-supervisors-20190404-story.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						203,
+						226
+					]
+				},
+				{
+					"url": "https://t.co/8nPS0a5988",
+					"expanded_url": "https://www.latimes.com/california/story/2019-09-26/l-a-county-supervisors-sheriff-budget-freeze",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1177282944513085400,
+					"id_str": "1177282944513085440",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EFaMmbvUEAAJDU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFaMmbvUEAAJDU3.jpg",
+					"url": "https://t.co/zz10qQ0vNo",
+					"display_url": "pic.twitter.com/zz10qQ0vNo",
+					"expanded_url": "https://twitter.com/stiles/status/1177282947243601920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 607,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177282944513085400,
+					"id_str": "1177282944513085440",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EFaMmbvUEAAJDU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFaMmbvUEAAJDU3.jpg",
+					"url": "https://t.co/zz10qQ0vNo",
+					"display_url": "pic.twitter.com/zz10qQ0vNo",
+					"expanded_url": "https://twitter.com/stiles/status/1177282947243601920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 607,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11014,
+			"friends_count": 1735,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569106447",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Back in April, I wrote that @LACoSheriff's feud with the @CountyofLA supervisors could cost him. Seems prophetic given a new proposal to freeze a portion of his funds over spending concerns. That story: https://t.co/MbWJepAlhW Today's story w/ @AleneTchek: https://t.co/8nPS0a5988 https://t.co/zz10qQ0vNo"
+	},
+	{
+		"created_at": "Thu Sep 26 17:26:10 +0000 2019",
+		"id": 1177270932689178600,
+		"id_str": "1177273169155018752",
+		"full_text": "EXTRAORDINARY: L.A. County supervisors move to freeze Sheriff's Department funding. This is huge escalation, and another institutional crisis https://t.co/0MDbAFJX3Z @stiles @AleneTchek",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"screen_name": "AleneTchek",
+					"name": "Alene Tchekmedyian",
+					"id": 26102955,
+					"id_str": "26102955",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0MDbAFJX3Z",
+					"expanded_url": "https://www.latimes.com/california/story/2019-09-26/l-a-county-supervisors-sheriff-budget-freeze",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14827461,
+			"id_str": "14827461",
+			"name": "Shelby Grad",
+			"screen_name": "shelbygrad",
+			"location": "🌴Los Angeles💥",
+			"description": "Deputy Managing Editor at @latimes.",
+			"url": "https://t.co/emWaPa3SBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emWaPa3SBu",
+							"expanded_url": "http://www.latimes.com/california",
+							"display_url": "latimes.com/california",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13289,
+			"friends_count": 1000,
+			"listed_count": 511,
+			"created_at": "Mon May 19 02:25:01 +0000 2008",
+			"favourites_count": 6078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14827461/1557793823",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EXTRAORDINARY: L.A. County supervisors move to freeze Sheriff's Department funding. This is huge escalation, and another institutional crisis https://t.co/0MDbAFJX3Z @stiles @AleneTchek"
+	},
+	{
 		"created_at": "Thu Sep 26 02:53:42 +0000 2019",
 		"id": 1176931086741278700,
 		"id_str": "1177053603011293184",
