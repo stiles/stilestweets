@@ -1,10 +1,159 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 25 23:21:25 +0000 2019",
+		"id": 1177000180450648000,
+		"id_str": "1177000180450648065",
+		"full_text": "@jeremybowers @offpol That happened to me today, too.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeremybowers",
+					"name": "Jeremy Bowers",
+					"id": 8083262,
+					"id_str": "8083262",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "offpol",
+					"name": "Jason Holt",
+					"id": 45602660,
+					"id_str": "45602660",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1176862214302654500,
+		"in_reply_to_status_id_str": "1176862214302654464",
+		"in_reply_to_user_id": 8083262,
+		"in_reply_to_user_id_str": "8083262",
+		"in_reply_to_screen_name": "jeremybowers",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11016,
+			"friends_count": 1735,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569106447",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0654b676d0359a31",
+			"url": "https://api.twitter.com/1.1/geo/id/0654b676d0359a31.json",
+			"place_type": "city",
+			"name": "El Segundo",
+			"full_name": "El Segundo, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.429843,
+							33.901804
+						],
+						[
+							-118.370685,
+							33.901804
+						],
+						[
+							-118.370685,
+							33.931493
+						],
+						[
+							-118.429843,
+							33.931493
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jeremybowers @offpol That happened to me today, too."
+	},
+	{
 		"created_at": "Wed Sep 25 21:18:12 +0000 2019",
 		"id": 1176893385430331400,
 		"id_str": "1176969170853847040",
-		"full_text": "Give L.A. County's new voting system a test run at this weekend's mock elections! \n📆Saturday &amp; Sunday (Sep 28 &amp; 29)\n⏰10 a.m. to 4 p.m.\n📍50 locations\n👨‍👩‍👦‍👦All ages welcome\nhttps://t.co/txZG70Mjt0 @LACountyRRCC https://t.co/IOU4J2wz3N",
+		"full_text": "Give L.A. County's new voting system a test run at this weekend's mock elections! \n📆Saturday &amp; Sunday (Sep 28 &amp; 29)\n⏰10 a.m. to 4 p.m.\n📍50 locations\n👨👩👦👦All ages welcome\nhttps://t.co/txZG70Mjt0 @LACountyRRCC https://t.co/IOU4J2wz3N",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -206,7 +355,7 @@ Grailbird.data.tweets_2019_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Give L.A. County's new voting system a test run at this weekend's mock elections! \n📆Saturday &amp; Sunday (Sep 28 &amp; 29)\n⏰10 a.m. to 4 p.m.\n📍50 locations\n👨‍👩‍👦‍👦All ages welcome\nhttps://t.co/txZG70Mjt0 @LACountyRRCC https://t.co/IOU4J2wz3N"
+		"text": "Give L.A. County's new voting system a test run at this weekend's mock elections! \n📆Saturday &amp; Sunday (Sep 28 &amp; 29)\n⏰10 a.m. to 4 p.m.\n📍50 locations\n👨👩👦👦All ages welcome\nhttps://t.co/txZG70Mjt0 @LACountyRRCC https://t.co/IOU4J2wz3N"
 	},
 	{
 		"created_at": "Wed Sep 25 21:17:56 +0000 2019",
