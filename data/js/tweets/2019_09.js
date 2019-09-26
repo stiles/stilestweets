@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 21:42:40 +0000 2019",
+		"id": 1177322816116416500,
+		"id_str": "1177337718306557952",
+		"full_text": "#Breaking: the mother of #NoahCuatro has been arrested by @LASDHQ. The 4 y/o boy died under what detectives have called suspicious circumstances in July. Bail is set at $1m  @CBSLA #CBSLA https://t.co/Bk4rWig6yx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Breaking",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "NoahCuatro",
+					"indices": [
+						25,
+						36
+					]
+				},
+				{
+					"text": "CBSLA",
+					"indices": [
+						181,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LASDHQ",
+					"name": "LA County Sheriffs",
+					"id": 46470122,
+					"id_str": "46470122",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"screen_name": "CBSLA",
+					"name": "CBS Los Angeles",
+					"id": 24928809,
+					"id_str": "24928809",
+					"indices": [
+						174,
+						180
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177322811666288600,
+					"id_str": "1177322811666288640",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EFaw3AdVUAAnjgR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFaw3AdVUAAnjgR.jpg",
+					"url": "https://t.co/Bk4rWig6yx",
+					"display_url": "pic.twitter.com/Bk4rWig6yx",
+					"expanded_url": "https://twitter.com/fajardonews/status/1177322816116416513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177322811666288600,
+					"id_str": "1177322811666288640",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EFaw3AdVUAAnjgR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFaw3AdVUAAnjgR.jpg",
+					"url": "https://t.co/Bk4rWig6yx",
+					"display_url": "pic.twitter.com/Bk4rWig6yx",
+					"expanded_url": "https://twitter.com/fajardonews/status/1177322816116416513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41761747,
+			"id_str": "41761747",
+			"name": "Cristy Fajardo",
+			"screen_name": "fajardonews",
+			"location": "Los Angeles",
+			"description": "Emmy award-winning journalist at #CBSLA, Bilingual #UCBerkeley #Northwestern #Foodie, world traveler #Investigative, BreakingNews. cfajardo@cbs.com",
+			"url": "https://t.co/ObP7Ycmg0V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ObP7Ycmg0V",
+							"expanded_url": "http://www.cbsla.com",
+							"display_url": "cbsla.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2700,
+			"friends_count": 558,
+			"listed_count": 114,
+			"created_at": "Fri May 22 05:38:25 +0000 2009",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955242935561240577/oo3ScWR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955242935561240577/oo3ScWR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41761747/1544472089",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Breaking: the mother of #NoahCuatro has been arrested by @LASDHQ. The 4 y/o boy died under what detectives have called suspicious circumstances in July. Bail is set at $1m  @CBSLA #CBSLA https://t.co/Bk4rWig6yx"
+	},
+	{
 		"created_at": "Thu Sep 26 18:05:02 +0000 2019",
 		"id": 1177282947243602000,
 		"id_str": "1177282947243601920",
