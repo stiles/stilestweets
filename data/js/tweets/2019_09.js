@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 27 21:45:43 +0000 2019",
+		"id": 1177700871708147700,
+		"id_str": "1177700871708147712",
+		"full_text": "@ChrisLKellerLAT the call was beautiful chris",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisLKellerLAT",
+					"name": "Chris Keller",
+					"id": 963122095747035100,
+					"id_str": "963122095747035136",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1177594923610017800,
+		"in_reply_to_status_id_str": "1177594923610017793",
+		"in_reply_to_user_id": 963122095747035100,
+		"in_reply_to_user_id_str": "963122095747035136",
+		"in_reply_to_screen_name": "ChrisLKellerLAT",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11018,
+			"friends_count": 1743,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569563723",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0654b676d0359a31",
+			"url": "https://api.twitter.com/1.1/geo/id/0654b676d0359a31.json",
+			"place_type": "city",
+			"name": "El Segundo",
+			"full_name": "El Segundo, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.429843,
+							33.901804
+						],
+						[
+							-118.370685,
+							33.901804
+						],
+						[
+							-118.370685,
+							33.931493
+						],
+						[
+							-118.429843,
+							33.931493
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChrisLKellerLAT the call was beautiful chris"
+	},
+	{
+		"created_at": "Fri Sep 27 21:32:42 +0000 2019",
+		"id": 1177693900649066500,
+		"id_str": "1177697595776389120",
+		"full_text": "The sheriff Dept. has 18,249 positions https://t.co/kEVynMuGNo\na robust $3,517,903,000 budget + requests $327.1 million + 1,164.0 positions to address its remaining unmet needs throughout various units for unfunded operations, info tech projects, equip. +safety+infrastructure 🔦 https://t.co/a6uIcQnCcG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kEVynMuGNo",
+					"expanded_url": "https://bit.ly/2lqq4ci",
+					"display_url": "bit.ly/2lqq4ci",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/a6uIcQnCcG",
+					"expanded_url": "https://twitter.com/stiles/status/1177396971041984513",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48035360,
+			"id_str": "48035360",
+			"name": "eric preven",
+			"screen_name": "ericpreven",
+			"location": "Los Angeles, CA",
+			"description": "",
+			"url": "https://t.co/n3Ccj5Nzse",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n3Ccj5Nzse",
+							"expanded_url": "http://www.ThePrevenReport.com",
+							"display_url": "ThePrevenReport.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 635,
+			"listed_count": 4,
+			"created_at": "Wed Jun 17 17:16:54 +0000 2009",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/814899614407016448/gQOicK4j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48035360/1394392597",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177396971041984500,
+		"quoted_status_id_str": "1177396971041984513",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a6uIcQnCcG",
+			"expanded": "https://twitter.com/stiles/status/1177396971041984513",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 27 01:38:07 +0000 2019",
+			"id": 1177396971041984500,
+			"id_str": "1177396971041984513",
+			"full_text": "“Historically, every sheriff knew that the board has the ultimate authority to withhold funds from his budget, but no sheriff ever let a dispute get to the point where the board had to exercise that authority. Apparently, there's a a new sheriff in town.\" https://t.co/8nPS0a5988",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8nPS0a5988",
+						"expanded_url": "https://www.latimes.com/california/story/2019-09-26/l-a-county-supervisors-sheriff-budget-freeze",
+						"display_url": "latimes.com/california/sto…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles, CA",
+				"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+				"url": "https://t.co/PJEacYxdzj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYxdzj",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11018,
+				"friends_count": 1743,
+				"listed_count": 880,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 6651,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14466,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569563723",
+				"profile_link_color": "B12E35",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The sheriff Dept. has 18,249 positions https://t.co/kEVynMuGNo\na robust $3,517,903,000 budget + requests $327.1 million + 1,164.0 positions to address its remaining unmet needs throughout various units for unfunded operations, info tech projects, equip. +safety+infrastructure 🔦 https://t.co/a6uIcQnCcG"
+	},
+	{
+		"created_at": "Fri Sep 27 21:31:30 +0000 2019",
+		"id": 1177695901147525000,
+		"id_str": "1177697297502572544",
+		"full_text": "Sheriff says it’s “unconscionable for the board to play politics with public safety” in response to supervisors’ proposed hiring/funding freeze. Our story: https://t.co/LNYJYyVthF @stiles https://t.co/GYBwVKtxyO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						180,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LNYJYyVthF",
+					"expanded_url": "https://www.latimes.com/california/story/2019-09-26/l-a-county-supervisors-sheriff-budget-freeze",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1177695877898522600,
+					"id_str": "1177695877898522624",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EFgEKUeVUAArKQs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFgEKUeVUAArKQs.jpg",
+					"url": "https://t.co/GYBwVKtxyO",
+					"display_url": "pic.twitter.com/GYBwVKtxyO",
+					"expanded_url": "https://twitter.com/AleneTchek/status/1177695901147525120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 602,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 602,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177695877898522600,
+					"id_str": "1177695877898522624",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EFgEKUeVUAArKQs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFgEKUeVUAArKQs.jpg",
+					"url": "https://t.co/GYBwVKtxyO",
+					"display_url": "pic.twitter.com/GYBwVKtxyO",
+					"expanded_url": "https://twitter.com/AleneTchek/status/1177695901147525120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 602,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 602,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26102955,
+			"id_str": "26102955",
+			"name": "Alene Tchekmedyian",
+			"screen_name": "AleneTchek",
+			"location": "Los Angeles",
+			"description": "@latimes reporter covering the L.A. County Sheriff's Department. Tips: alene.tchekmedyian@latimes.com or 213-237-3138",
+			"url": "https://t.co/Vnj63mse7p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vnj63mse7p",
+							"expanded_url": "https://www.latimes.com/tn-bio-alene-tchekmedyian-staff.html",
+							"display_url": "latimes.com/tn-bio-alene-t…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2314,
+			"friends_count": 924,
+			"listed_count": 100,
+			"created_at": "Mon Mar 23 22:10:03 +0000 2009",
+			"favourites_count": 4547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172286035805405184/ofzG9fLF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172286035805405184/ofzG9fLF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26102955/1562099813",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sheriff says it’s “unconscionable for the board to play politics with public safety” in response to supervisors’ proposed hiring/funding freeze. Our story: https://t.co/LNYJYyVthF @stiles https://t.co/GYBwVKtxyO"
+	},
+	{
 		"created_at": "Fri Sep 27 19:44:32 +0000 2019",
 		"id": 1177670376001699800,
 		"id_str": "1177670376001699840",
