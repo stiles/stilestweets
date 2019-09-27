@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 27 04:40:51 +0000 2019",
+		"id": 1177418893414940700,
+		"id_str": "1177442957126819840",
+		"full_text": "Korea is not just Seoul, an obvious fact that's easy to forget. Towns left behind by many South Koreans are becoming increasingly diverse with immigrants, although integration is a work in progress, per this interesting read from @schipperlena https://t.co/6snAUx2nfh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schipperlena",
+					"name": "Lena Schipper",
+					"id": 556128668,
+					"id_str": "556128668",
+					"indices": [
+						230,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6snAUx2nfh",
+					"expanded_url": "https://www.economist.com/asia/2019/09/28/even-provincial-towns-in-south-korea-are-becoming-more-cosmopolitan",
+					"display_url": "economist.com/asia/2019/09/2…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54643600,
+			"id_str": "54643600",
+			"name": "Victoria Kim",
+			"screen_name": "vicjkim",
+			"location": "대한민국 서울",
+			"description": "@LATimes Seoul correspondent. Seoul-bred, LA-forged. Reach me at https://t.co/aCqVWMmXQW (at) https://t.co/eTksmynSH7. LA 타임스 서울 특파원입니다",
+			"url": "https://t.co/oLZaH6LhdI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oLZaH6LhdI",
+							"expanded_url": "http://www.latimes.com/la-bio-victoria-kim-staff.html",
+							"display_url": "latimes.com/la-bio-victori…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aCqVWMmXQW",
+							"expanded_url": "http://victoria.kim",
+							"display_url": "victoria.kim",
+							"indices": [
+								65,
+								88
+							]
+						},
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5747,
+			"friends_count": 2056,
+			"listed_count": 189,
+			"created_at": "Tue Jul 07 19:07:04 +0000 2009",
+			"favourites_count": 3946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148260636566016001/Sp-xkMH3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148260636566016001/Sp-xkMH3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54643600/1421810039",
+			"profile_link_color": "737CA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 52,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Korea is not just Seoul, an obvious fact that's easy to forget. Towns left behind by many South Koreans are becoming increasingly diverse with immigrants, although integration is a work in progress, per this interesting read from @schipperlena https://t.co/6snAUx2nfh"
+	},
+	{
 		"created_at": "Fri Sep 27 01:38:07 +0000 2019",
 		"id": 1177396971041984500,
 		"id_str": "1177396971041984513",
