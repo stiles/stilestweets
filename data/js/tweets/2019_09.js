@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 27 15:39:25 +0000 2019",
+		"id": 1177603785746550800,
+		"id_str": "1177608690615980032",
+		"full_text": "Wow. Dispute between Sheriff and Supes has gotten so bad they are taking the unprecedented step of reining in his spending. Via @stiles @AleneTchek https://t.co/GPiSMBYgqu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"screen_name": "AleneTchek",
+					"name": "Alene Tchekmedyian",
+					"id": 26102955,
+					"id_str": "26102955",
+					"indices": [
+						136,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GPiSMBYgqu",
+					"expanded_url": "https://www.latimes.com/california/story/2019-09-26/l-a-county-supervisors-sheriff-budget-freeze",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3065727335,
+			"id_str": "3065727335",
+			"name": "Nina Agrawal",
+			"screen_name": "AgrawalNina",
+			"location": "Los Angeles, CA",
+			"description": "Staff writer @Latimes covering education and California news. Sometimes in NYC for @latimesnational | Send tips, comments to nina.agrawal@latimes.com",
+			"url": "https://t.co/kTSuwTipaw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kTSuwTipaw",
+							"expanded_url": "http://www.latimes.com/la-bio-nina-agrawal-staff.html",
+							"display_url": "latimes.com/la-bio-nina-ag…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1145,
+			"friends_count": 657,
+			"listed_count": 29,
+			"created_at": "Sun Mar 01 17:07:33 +0000 2015",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919627986638213120/t-Eapggr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919627986638213120/t-Eapggr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065727335/1508091204",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow. Dispute between Sheriff and Supes has gotten so bad they are taking the unprecedented step of reining in his spending. Via @stiles @AleneTchek https://t.co/GPiSMBYgqu"
+	},
+	{
 		"created_at": "Fri Sep 27 13:52:53 +0000 2019",
 		"id": 1177581880637448200,
 		"id_str": "1177581880637448192",
