@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 15:27:41 +0000 2019",
+		"id": 1177703585632534500,
+		"id_str": "1177968126714994690",
+		"full_text": "the darkest css I've ever used https://t.co/yanV6vQ444",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177703575847231500,
+					"id_str": "1177703575847231488",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EFgLKZkU4AAZWDW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFgLKZkU4AAZWDW.jpg",
+					"url": "https://t.co/yanV6vQ444",
+					"display_url": "pic.twitter.com/yanV6vQ444",
+					"expanded_url": "https://twitter.com/seangreene89/status/1177703585632534528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 950,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 238,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 950,
+							"h": 332,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177703575847231500,
+					"id_str": "1177703575847231488",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EFgLKZkU4AAZWDW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFgLKZkU4AAZWDW.jpg",
+					"url": "https://t.co/yanV6vQ444",
+					"display_url": "pic.twitter.com/yanV6vQ444",
+					"expanded_url": "https://twitter.com/seangreene89/status/1177703585632534528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 950,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 238,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 950,
+							"h": 332,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267312443,
+			"id_str": "267312443",
+			"name": "Sean Greene",
+			"screen_name": "seangreene89",
+			"location": "",
+			"description": "Science + data @latimes. UCLA/@ucbsoj alum. Liverpool FC devotee. Trying to be athletic.",
+			"url": "https://t.co/qOFS5OmWSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qOFS5OmWSE",
+							"expanded_url": "http://seangreene.github.io",
+							"display_url": "seangreene.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1280,
+			"friends_count": 824,
+			"listed_count": 51,
+			"created_at": "Wed Mar 16 18:11:49 +0000 2011",
+			"favourites_count": 3461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171886395125719041/HUSdC0l7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171886395125719041/HUSdC0l7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267312443/1568343392",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the darkest css I've ever used https://t.co/yanV6vQ444"
+	},
+	{
 		"created_at": "Sat Sep 28 14:47:20 +0000 2019",
 		"id": 1177957970476331000,
 		"id_str": "1177957970476331008",
