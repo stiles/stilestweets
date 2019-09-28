@@ -1,6 +1,185 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 03:22:19 +0000 2019",
+		"id": 1177785581213909000,
+		"id_str": "1177785581213908992",
+		"full_text": "@dheimpel @jashkenas @mbostock @tmcw @observablehq He was on the phone in a call center. I could hear tons of other calls around him. I don't think he had any reasonable expectation that our discussion was confidential.",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dheimpel",
+					"name": "Daniel Heimpel",
+					"id": 24719492,
+					"id_str": "24719492",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "jashkenas",
+					"name": "Jeremy Ashkenas",
+					"id": 123323498,
+					"id_str": "123323498",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "mbostock",
+					"name": "Mike Bostock",
+					"id": 43593,
+					"id_str": "43593",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"screen_name": "tmcw",
+					"name": "Tom MacWright",
+					"id": 1458271,
+					"id_str": "1458271",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"screen_name": "observablehq",
+					"name": "Observable",
+					"id": 905255756789825500,
+					"id_str": "905255756789825536",
+					"indices": [
+						37,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1177701390438649900,
+		"in_reply_to_status_id_str": "1177701390438649856",
+		"in_reply_to_user_id": 24719492,
+		"in_reply_to_user_id_str": "24719492",
+		"in_reply_to_screen_name": "dheimpel",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11018,
+			"friends_count": 1744,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569563723",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dheimpel @jashkenas @mbostock @tmcw @observablehq He was on the phone in a call center. I could hear tons of other calls around him. I don't think he had any reasonable expectation that our discussion was confidential."
+	},
+	{
 		"created_at": "Fri Sep 27 21:45:43 +0000 2019",
 		"id": 1177700871708147700,
 		"id_str": "1177700871708147712",
