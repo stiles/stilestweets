@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 17:38:53 +0000 2019",
+		"id": 1178076070219632600,
+		"id_str": "1178363532275941376",
+		"full_text": "Wasn’t going to miss out on today’s @CountyofLA @LACountyRRCC mock election. Great chance to test out our new Ballot Marking Device designed for everyone! https://t.co/3vTrKlxH6q #LAVOTES #VotingRevolutionized https://t.co/w6hCUKRowo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LAVOTES",
+					"indices": [
+						179,
+						187
+					]
+				},
+				{
+					"text": "VotingRevolutionized",
+					"indices": [
+						188,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						48,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3vTrKlxH6q",
+					"expanded_url": "http://LAVOTE.net",
+					"display_url": "LAVOTE.net",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1178076021922222000,
+					"id_str": "1178076021922222081",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1178076021922222081/pu/img/GqETg5c9jXWVuE0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1178076021922222081/pu/img/GqETg5c9jXWVuE0w.jpg",
+					"url": "https://t.co/w6hCUKRowo",
+					"display_url": "pic.twitter.com/w6hCUKRowo",
+					"expanded_url": "https://twitter.com/LACountyCEO/status/1178076070219632641/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178076021922222000,
+					"id_str": "1178076021922222081",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1178076021922222081/pu/img/GqETg5c9jXWVuE0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1178076021922222081/pu/img/GqETg5c9jXWVuE0w.jpg",
+					"url": "https://t.co/w6hCUKRowo",
+					"display_url": "pic.twitter.com/w6hCUKRowo",
+					"expanded_url": "https://twitter.com/LACountyCEO/status/1178076070219632641/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 10567,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1178076021922222081/pu/pl/AijkI5W-PKz4wELR.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1178076021922222081/pu/vid/320x568/tHg_aKWgeD1KWVs7.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1178076021922222081/pu/vid/720x1280/gMHYZ1C5SRbeW9aB.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1178076021922222081/pu/vid/360x640/4Yp6Vz8-18QKoGHG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236576462,
+			"id_str": "236576462",
+			"name": "LA County CEO",
+			"screen_name": "LACountyCEO",
+			"location": "Los Angeles County",
+			"description": "Official Twitter of @CountyofLA Chief Executive Officer Sachi Hamai with oversight of a $32.5B budget to improve lives #PublicService #SocialImpact #Mentorship",
+			"url": "https://t.co/11nXXyInRF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/11nXXyInRF",
+							"expanded_url": "http://ceo.lacounty.gov",
+							"display_url": "ceo.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4657,
+			"friends_count": 667,
+			"listed_count": 143,
+			"created_at": "Mon Jan 10 22:29:06 +0000 2011",
+			"favourites_count": 303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725005013592891392/-ULQrV0V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725005013592891392/-ULQrV0V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236576462/1461690058",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wasn’t going to miss out on today’s @CountyofLA @LACountyRRCC mock election. Great chance to test out our new Ballot Marking Device designed for everyone! https://t.co/3vTrKlxH6q #LAVOTES #VotingRevolutionized https://t.co/w6hCUKRowo"
+	},
+	{
+		"created_at": "Sun Sep 29 17:29:32 +0000 2019",
+		"id": 1178361177216176000,
+		"id_str": "1178361177216176128",
+		"full_text": "My girls and I just voted in the mock election. The ballot was a bunch of choices about places in Los Angeles and other interesting questions, such as one on census participation. Hope @LACountyRRCC publishes the results! Machines were fast and easy to use. Voter lookup smooth. https://t.co/mGMInLni2B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						185,
+						198
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178361147856019500,
+					"id_str": "1178361147856019456",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EFphOIMUYAAcQSW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFphOIMUYAAcQSW.jpg",
+					"url": "https://t.co/mGMInLni2B",
+					"display_url": "pic.twitter.com/mGMInLni2B",
+					"expanded_url": "https://twitter.com/stiles/status/1178361177216176128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178361147856019500,
+					"id_str": "1178361147856019456",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EFphOIMUYAAcQSW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFphOIMUYAAcQSW.jpg",
+					"url": "https://t.co/mGMInLni2B",
+					"display_url": "pic.twitter.com/mGMInLni2B",
+					"expanded_url": "https://twitter.com/stiles/status/1178361177216176128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178361158262091800,
+					"id_str": "1178361158262091781",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EFphOu9UcAUgD5B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFphOu9UcAUgD5B.jpg",
+					"url": "https://t.co/mGMInLni2B",
+					"display_url": "pic.twitter.com/mGMInLni2B",
+					"expanded_url": "https://twitter.com/stiles/status/1178361177216176128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178361170333335600,
+					"id_str": "1178361170333335553",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EFphPb7VAAEcmsi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFphPb7VAAEcmsi.jpg",
+					"url": "https://t.co/mGMInLni2B",
+					"display_url": "pic.twitter.com/mGMInLni2B",
+					"expanded_url": "https://twitter.com/stiles/status/1178361177216176128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1178360131823816700,
+		"in_reply_to_status_id_str": "1178360131823816705",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11023,
+			"friends_count": 1744,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569721321",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My girls and I just voted in the mock election. The ballot was a bunch of choices about places in Los Angeles and other interesting questions, such as one on census participation. Hope @LACountyRRCC publishes the results! Machines were fast and easy to use. Voter lookup smooth. https://t.co/mGMInLni2B"
+	},
+	{
 		"created_at": "Sun Sep 29 16:51:40 +0000 2019",
 		"id": 1178351647740715000,
 		"id_str": "1178351647740715008",
