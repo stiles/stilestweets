@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 01:11:59 +0000 2019",
+		"id": 1179202332225089500,
+		"id_str": "1179202332225089538",
+		"full_text": "@BrandonDSmith @LACoSheriff @AleneTchek That's the sheriff's point of view. The supervisors see it differently. And it's extraordinary for any board to freeze funds from any sheriff. The headline is tough but generally correct. We also of course tried to make sure everyone got their say in the story.",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			301
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrandonDSmith",
+					"name": "Brandon Smith",
+					"id": 28238954,
+					"id_str": "28238954",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "LACoSheriff",
+					"name": "Alex Villanueva",
+					"id": 1067499378175238100,
+					"id_str": "1067499378175238144",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "AleneTchek",
+					"name": "Alene Tchekmedyian",
+					"id": 26102955,
+					"id_str": "26102955",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1179190668951863300,
+		"in_reply_to_status_id_str": "1179190668951863296",
+		"in_reply_to_user_id": 28238954,
+		"in_reply_to_user_id_str": "28238954",
+		"in_reply_to_screen_name": "BrandonDSmith",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11031,
+			"friends_count": 1745,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569978898",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BrandonDSmith @LACoSheriff @AleneTchek That's the sheriff's point of view. The supervisors see it differently. And it's extraordinary for any board to freeze funds from any sheriff. The headline is tough but generally correct. We also of course tried to make sure everyone got their say in the story."
+	},
+	{
 		"created_at": "Tue Oct 01 23:44:43 +0000 2019",
 		"id": 1179180373256720400,
 		"id_str": "1179180373256720384",
