@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 01 23:44:43 +0000 2019",
+		"id": 1179180373256720400,
+		"id_str": "1179180373256720384",
+		"full_text": "@schipperlena The body of water that separates South Korea and Japan. Or whatever. https://t.co/eOM9F5Dja2",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schipperlena",
+					"name": "Lena Schipper",
+					"id": 556128668,
+					"id_str": "556128668",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179180360829038600,
+					"id_str": "1179180360829038592",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EF1KSmVU8AA4DNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF1KSmVU8AA4DNO.jpg",
+					"url": "https://t.co/eOM9F5Dja2",
+					"display_url": "pic.twitter.com/eOM9F5Dja2",
+					"expanded_url": "https://twitter.com/stiles/status/1179180373256720384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1792,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179180360829038600,
+					"id_str": "1179180360829038592",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EF1KSmVU8AA4DNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF1KSmVU8AA4DNO.jpg",
+					"url": "https://t.co/eOM9F5Dja2",
+					"display_url": "pic.twitter.com/eOM9F5Dja2",
+					"expanded_url": "https://twitter.com/stiles/status/1179180373256720384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1792,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1179178558612107300,
+		"in_reply_to_status_id_str": "1179178558612107264",
+		"in_reply_to_user_id": 556128668,
+		"in_reply_to_user_id_str": "556128668",
+		"in_reply_to_screen_name": "schipperlena",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11031,
+			"friends_count": 1745,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569721321",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@schipperlena The body of water that separates South Korea and Japan. Or whatever. https://t.co/eOM9F5Dja2"
+	},
+	{
+		"created_at": "Tue Oct 01 23:41:02 +0000 2019",
+		"id": 1179179443849351200,
+		"id_str": "1179179443849351168",
+		"full_text": "County supervisors largely struck a cooperative tone today in rebuking @LACoSheriff over spending, but it was a rebuke nonetheless. The sheriff stood firm, saying he needs more money to fund his \"understaffed\" department. New story w/ @AleneTchek: https://t.co/Pt9IOdc7KZ https://t.co/XQmw7JTdEH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACoSheriff",
+					"name": "Alex Villanueva",
+					"id": 1067499378175238100,
+					"id_str": "1067499378175238144",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "AleneTchek",
+					"name": "Alene Tchekmedyian",
+					"id": 26102955,
+					"id_str": "26102955",
+					"indices": [
+						235,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pt9IOdc7KZ",
+					"expanded_url": "https://www.latimes.com/california/story/2019-10-01/supervisors-sheriffs-department-budget-deficit",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179179441236299800,
+					"id_str": "1179179441236299776",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EF1JdElVUAAPFkm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF1JdElVUAAPFkm.jpg",
+					"url": "https://t.co/XQmw7JTdEH",
+					"display_url": "pic.twitter.com/XQmw7JTdEH",
+					"expanded_url": "https://twitter.com/stiles/status/1179179443849351168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179179441236299800,
+					"id_str": "1179179441236299776",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EF1JdElVUAAPFkm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF1JdElVUAAPFkm.jpg",
+					"url": "https://t.co/XQmw7JTdEH",
+					"display_url": "pic.twitter.com/XQmw7JTdEH",
+					"expanded_url": "https://twitter.com/stiles/status/1179179443849351168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11031,
+			"friends_count": 1745,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569721321",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "County supervisors largely struck a cooperative tone today in rebuking @LACoSheriff over spending, but it was a rebuke nonetheless. The sheriff stood firm, saying he needs more money to fund his \"understaffed\" department. New story w/ @AleneTchek: https://t.co/Pt9IOdc7KZ https://t.co/XQmw7JTdEH"
+	},
+	{
 		"created_at": "Tue Oct 01 17:50:09 +0000 2019",
 		"id": 1179091143931265000,
 		"id_str": "1179091143931265025",
