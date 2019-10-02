@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 02:17:48 +0000 2019",
+		"id": 1179211390478741500,
+		"id_str": "1179218896647331842",
+		"full_text": "Even Republicans must realize how dangerous it is for Trump to be describing congressional oversight as a 'coup'",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21328006,
+			"id_str": "21328006",
+			"name": "David Lazarus",
+			"screen_name": "Davidlaz",
+			"location": "Los Angeles, CA",
+			"description": "Consumer columnist for the Los Angeles Times and KTLA-TV Channel 5,  part-time radio host. I get my kicks above the waistline, sunshine.",
+			"url": "http://t.co/ZmK9pWGU7F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ZmK9pWGU7F",
+							"expanded_url": "http://www.latimes.com/business/lanews-david-lazarus-20130507-staff.html",
+							"display_url": "latimes.com/business/lanew…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15643,
+			"friends_count": 1317,
+			"listed_count": 616,
+			"created_at": "Thu Feb 19 19:04:39 +0000 2009",
+			"favourites_count": 49887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 98798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753254982510448640/i8EZpjPO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753254982510448640/i8EZpjPO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21328006/1363975904",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Even Republicans must realize how dangerous it is for Trump to be describing congressional oversight as a 'coup'"
+	},
+	{
 		"created_at": "Wed Oct 02 01:11:59 +0000 2019",
 		"id": 1179202332225089500,
 		"id_str": "1179202332225089538",
