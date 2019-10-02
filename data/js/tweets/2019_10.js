@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 15:37:08 +0000 2019",
+		"id": 1179193225325826000,
+		"id_str": "1179420055198720000",
+		"full_text": "Hey, @jack. Time to do something about this. https://t.co/es2fJ5PNRV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jack",
+					"name": "jack 🌍🌏🌎",
+					"id": 12,
+					"id_str": "12",
+					"indices": [
+						5,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/es2fJ5PNRV",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/1179179573541511176?s=20",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30354991,
+			"id_str": "30354991",
+			"name": "Kamala Harris",
+			"screen_name": "KamalaHarris",
+			"location": "California",
+			"description": "U.S. Senator and candidate for president. Wife, Momala, Auntie. Fighting for the people. No corporate PACs, just people like you. Text JOIN to 70785 to join us.",
+			"url": "http://t.co/IbL01p7pYJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/IbL01p7pYJ",
+							"expanded_url": "http://KamalaHarris.org",
+							"display_url": "KamalaHarris.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3154789,
+			"friends_count": 724,
+			"listed_count": 13578,
+			"created_at": "Sat Apr 11 00:42:07 +0000 2009",
+			"favourites_count": 303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093306247766515712/MBaqSY2M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093306247766515712/MBaqSY2M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30354991/1553004657",
+			"profile_link_color": "4468A6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1179179573541511200,
+		"quoted_status_id_str": "1179179573541511176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/es2fJ5PNRV",
+			"expanded": "https://twitter.com/realDonaldTrump/status/1179179573541511176?s=20",
+			"display": "twitter.com/realDonaldTrum…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 01 23:41:33 +0000 2019",
+			"id": 1179179573541511200,
+			"id_str": "1179179573541511176",
+			"full_text": "As I learn more and more each day, I am coming to the conclusion that what is taking place is not an impeachment, it is a COUP, intended to take away the Power of the....",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65131937,
+				"friends_count": 47,
+				"listed_count": 109198,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44745,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41497,
+			"favorite_count": 144293,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 8480,
+		"favorite_count": 40252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey, @jack. Time to do something about this. https://t.co/es2fJ5PNRV"
+	},
+	{
 		"created_at": "Wed Oct 02 02:33:37 +0000 2019",
 		"id": 1179222878451110000,
 		"id_str": "1179222878451109890",
