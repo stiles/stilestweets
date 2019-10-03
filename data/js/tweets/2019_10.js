@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 17:17:54 +0000 2019",
+		"id": 1179807800538493000,
+		"id_str": "1179807800538492929",
+		"full_text": "👀 https://t.co/4TwacY8yu1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4TwacY8yu1",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1179793053621485568",
+					"display_url": "twitter.com/sherlyholmes/s…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11033,
+			"friends_count": 1751,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569978898",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1179793053621485600,
+		"quoted_status_id_str": "1179793053621485568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4TwacY8yu1",
+			"expanded": "https://twitter.com/sherlyholmes/status/1179793053621485568",
+			"display": "twitter.com/sherlyholmes/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 03 16:19:18 +0000 2019",
+			"id": 1179793053621485600,
+			"id_str": "1179793053621485568",
+			"full_text": "Rancho Cucamonga making a play for most offensive Nextdoor post in recent memory https://t.co/pPDt9RZYjF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pPDt9RZYjF",
+						"expanded_url": "https://twitter.com/bestofnextdoor/status/1179791562307338240",
+						"display_url": "twitter.com/bestofnextdoor…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13479902,
+				"id_str": "13479902",
+				"name": "Julia FAIR CONTRACT NOW Wick",
+				"screen_name": "sherlyholmes",
+				"location": "LA",
+				"description": "@latimes metro reporter & Essential California newsletter author (subscribe here: https://t.co/FxOtLkVeGE) Former EIC of @LAist. Native Angeleno.",
+				"url": "https://t.co/9nLR6Wm4Ya",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9nLR6Wm4Ya",
+								"expanded_url": "https://www.latimes.com/la-bio-julia-wick-staff.html",
+								"display_url": "latimes.com/la-bio-julia-w…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FxOtLkVeGE",
+								"expanded_url": "https://lat.ms/2JG6TWt",
+								"display_url": "lat.ms/2JG6TWt",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7328,
+				"friends_count": 1995,
+				"listed_count": 171,
+				"created_at": "Thu Feb 14 17:24:54 +0000 2008",
+				"favourites_count": 11792,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4663,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13479902/1502071398",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1179791562307338200,
+			"quoted_status_id_str": "1179791562307338240",
+			"quoted_status_permalink": {
+				"url": "https://t.co/pPDt9RZYjF",
+				"expanded": "https://twitter.com/bestofnextdoor/status/1179791562307338240",
+				"display": "twitter.com/bestofnextdoor…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀 https://t.co/4TwacY8yu1"
+	},
+	{
 		"created_at": "Thu Oct 03 05:27:37 +0000 2019",
 		"id": 1179549964655087600,
 		"id_str": "1179629053688434688",
