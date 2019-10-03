@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 04:38:48 +0000 2019",
+		"id": 1179616769545105400,
+		"id_str": "1179616769545105408",
+		"full_text": "\"The president is clearly deeply troubled by the escalating impeachment inquiry.\" -- @BrianWillTV \n\nYa think? https://t.co/ra4S9rtPBb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrianWillTV",
+					"name": "Brian Will",
+					"id": 874444081413468200,
+					"id_str": "874444081413468162",
+					"indices": [
+						85,
+						97
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179616753090908200,
+					"id_str": "1179616753090908161",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7XL-MVUAEC4KO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7XL-MVUAEC4KO.jpg",
+					"url": "https://t.co/ra4S9rtPBb",
+					"display_url": "pic.twitter.com/ra4S9rtPBb",
+					"expanded_url": "https://twitter.com/stiles/status/1179616769545105408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 882,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179616753090908200,
+					"id_str": "1179616753090908161",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EF7XL-MVUAEC4KO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF7XL-MVUAEC4KO.jpg",
+					"url": "https://t.co/ra4S9rtPBb",
+					"display_url": "pic.twitter.com/ra4S9rtPBb",
+					"expanded_url": "https://twitter.com/stiles/status/1179616769545105408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 882,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11032,
+			"friends_count": 1751,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1569978898",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The president is clearly deeply troubled by the escalating impeachment inquiry.\" -- @BrianWillTV \n\nYa think? https://t.co/ra4S9rtPBb"
+	},
+	{
 		"created_at": "Wed Oct 02 23:42:13 +0000 2019",
 		"id": 1179542131481825300,
 		"id_str": "1179542131481825280",
