@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 05:27:37 +0000 2019",
+		"id": 1179549964655087600,
+		"id_str": "1179629053688434688",
+		"full_text": "New: Odd markings, ellipses fuel doubts about the ‘rough transcript’ of Trump’s Ukraine call. \"This didn’t go through the normal process\" https://t.co/SPhpYCtagq @CarolLeonnig @craigtimberg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CarolLeonnig",
+					"name": "Carol Leonnig",
+					"id": 108710418,
+					"id_str": "108710418",
+					"indices": [
+						162,
+						175
+					]
+				},
+				{
+					"screen_name": "craigtimberg",
+					"name": "Craig Timberg",
+					"id": 22167981,
+					"id_str": "22167981",
+					"indices": [
+						176,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SPhpYCtagq",
+					"expanded_url": "https://wapo.st/2n30vPo",
+					"display_url": "wapo.st/2n30vPo",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15276573,
+			"id_str": "15276573",
+			"name": "Drew Harwell",
+			"screen_name": "drewharwell",
+			"location": "D.C.",
+			"description": "Washington Post human covering AI and the algorithms changing our lives. Open DMs; drew.harwell@protonmail.com",
+			"url": "https://t.co/AKa38Zq3pH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AKa38Zq3pH",
+							"expanded_url": "http://drewharwell.com",
+							"display_url": "drewharwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23798,
+			"friends_count": 1983,
+			"listed_count": 813,
+			"created_at": "Mon Jun 30 05:34:43 +0000 2008",
+			"favourites_count": 12100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875548738315485186/9z-bLlua_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875548738315485186/9z-bLlua_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15276573/1514914436",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New: Odd markings, ellipses fuel doubts about the ‘rough transcript’ of Trump’s Ukraine call. \"This didn’t go through the normal process\" https://t.co/SPhpYCtagq @CarolLeonnig @craigtimberg"
+	},
+	{
 		"created_at": "Thu Oct 03 04:38:48 +0000 2019",
 		"id": 1179616769545105400,
 		"id_str": "1179616769545105408",
