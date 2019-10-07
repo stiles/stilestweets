@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 18:27:15 +0000 2019",
+		"id": 1181034326894489600,
+		"id_str": "1181274806659870721",
+		"full_text": "I still don't get the apostrophe after Liddle. https://t.co/TY1afL4btC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TY1afL4btC",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/1181033360241709056",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 86509455,
+			"id_str": "86509455",
+			"name": "Jim Zarroli",
+			"screen_name": "JimZarroli",
+			"location": "New York City",
+			"description": "I am a business and economics reporter at NPR, a New Yorker by way of Delaware and Pennsylvania, a movie-lover, a runner and a reader. I am not a robot.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4246,
+			"friends_count": 1367,
+			"listed_count": 144,
+			"created_at": "Sat Oct 31 11:27:13 +0000 2009",
+			"favourites_count": 646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000665522525/93f558c85e912b60383c553363f196c9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000665522525/93f558c85e912b60383c553363f196c9_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/86509455/1383065811",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181033360241709000,
+		"quoted_status_id_str": "1181033360241709056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TY1afL4btC",
+			"expanded": "https://twitter.com/realDonaldTrump/status/1181033360241709056",
+			"display": "twitter.com/realDonaldTrum…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 07 02:27:50 +0000 2019",
+			"id": 1181033360241709000,
+			"id_str": "1181033360241709056",
+			"full_text": "....This makes Nervous Nancy every bit as guilty as Liddle’ Adam Schiff for High Crimes and Misdemeanors, and even Treason. I guess that means that they, along with all of those that evilly “Colluded” with them, must all be immediately Impeached!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1181033358794662000,
+			"in_reply_to_status_id_str": "1181033358794661889",
+			"in_reply_to_user_id": 25073877,
+			"in_reply_to_user_id_str": "25073877",
+			"in_reply_to_screen_name": "realDonaldTrump",
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65351222,
+				"friends_count": 47,
+				"listed_count": 109474,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44940,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24574,
+			"favorite_count": 85906,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 455,
+		"favorite_count": 5847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I still don't get the apostrophe after Liddle. https://t.co/TY1afL4btC"
+	},
+	{
 		"created_at": "Sun Oct 06 19:10:40 +0000 2019",
 		"id": 1180923345732280300,
 		"id_str": "1180923345732280321",
