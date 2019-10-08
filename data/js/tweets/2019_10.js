@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 08 02:40:50 +0000 2019",
+		"id": 1181198633804415000,
+		"id_str": "1181399021077688320",
+		"full_text": "@AshleyRParker Am sure @wmata has a lost and found contact and can share your tweet. 😊",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AshleyRParker",
+					"name": "Ashley Parker",
+					"id": 33919343,
+					"id_str": "33919343",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "wmata",
+					"name": "Metro",
+					"id": 18938912,
+					"id_str": "18938912",
+					"indices": [
+						23,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1181195274347303000,
+		"in_reply_to_status_id_str": "1181195274347302912",
+		"in_reply_to_user_id": 33919343,
+		"in_reply_to_user_id_str": "33919343",
+		"in_reply_to_screen_name": "AshleyRParker",
+		"user": {
+			"id": 21052317,
+			"id_str": "21052317",
+			"name": "Keri Douglas",
+			"screen_name": "keridouglas",
+			"location": "Washington, DC",
+			"description": "Strategy News Photography #Water #artcrime #globalaffairs #innovation \nExWH ExVOA ExSpoxSwissEmbDC Home in Warsaw Delhi Beirut Athens Berlin #WhiteGSD",
+			"url": "https://t.co/orjvRUmQMP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/orjvRUmQMP",
+							"expanded_url": "http://9musesnews.com",
+							"display_url": "9musesnews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2111,
+			"friends_count": 1369,
+			"listed_count": 224,
+			"created_at": "Tue Feb 17 01:30:53 +0000 2009",
+			"favourites_count": 32921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000506464233/13835b2a7dd7c67d90db2b5cc34b6f01_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000506464233/13835b2a7dd7c67d90db2b5cc34b6f01_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21052317/1450233629",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@AshleyRParker Am sure @wmata has a lost and found contact and can share your tweet. 😊"
+	},
+	{
+		"created_at": "Tue Oct 08 02:38:57 +0000 2019",
+		"id": 1181195274347303000,
+		"id_str": "1181398546462851074",
+		"full_text": "METRO RED LINE PSA: To the woman who lost her left Airpod...You were searching for it on the floor of train; got off at Metro Center (I think?); I got to work and found it in the side pocket of my backpack...V SORRY! DM if it's yours...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33919343,
+			"id_str": "33919343",
+			"name": "Ashley Parker",
+			"screen_name": "AshleyRParker",
+			"location": "",
+			"description": "I remain skeptical about Twitter. Also: White House reporter for @washingtonpost. @MSNBC and @NBCNews senior political analyst. And @nytimes alum.",
+			"url": "https://t.co/fJMCeIYylK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJMCeIYylK",
+							"expanded_url": "http://www.washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288076,
+			"friends_count": 2786,
+			"listed_count": 3978,
+			"created_at": "Tue Apr 21 14:28:57 +0000 2009",
+			"favourites_count": 14390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958544629728710656/qabz5pTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958544629728710656/qabz5pTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33919343/1458847377",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 702,
+		"favorite_count": 1510,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "METRO RED LINE PSA: To the woman who lost her left Airpod...You were searching for it on the floor of train; got off at Metro Center (I think?); I got to work and found it in the side pocket of my backpack...V SORRY! DM if it's yours..."
+	},
+	{
 		"created_at": "Tue Oct 08 01:25:32 +0000 2019",
 		"id": 1181215475352531000,
 		"id_str": "1181380069551304705",
