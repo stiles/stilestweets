@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 08 01:25:32 +0000 2019",
+		"id": 1181215475352531000,
+		"id_str": "1181380069551304705",
+		"full_text": "A rare, bucket-list level feat here from our very own @LATDoug.\n\nHe acquired the raw results of a government survey, then weighted and reran the estimates himself.\n\nHere's what he found. https://t.co/PkTpr5LehD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATDoug",
+					"name": "Doug Smith",
+					"id": 365827561,
+					"id_str": "365827561",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PkTpr5LehD",
+					"expanded_url": "https://twitter.com/LANow/status/1181200505437130753",
+					"display_url": "twitter.com/LANow/status/1…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · Send me tips · DMs open · ben.welsh@latimes.com",
+			"url": "https://t.co/M40D7KBYi4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M40D7KBYi4",
+							"expanded_url": "https://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/alHGK4tTzG",
+							"expanded_url": "http://californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9541,
+			"friends_count": 3090,
+			"listed_count": 713,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181200505437130800,
+		"quoted_status_id_str": "1181200505437130753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PkTpr5LehD",
+			"expanded": "https://twitter.com/LANow/status/1181200505437130753",
+			"display": "twitter.com/LANow/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 07 13:32:00 +0000 2019",
+			"id": 1181200505437130800,
+			"id_str": "1181200505437130753",
+			"full_text": "Are many homeless people in L.A. mentally ill? New findings back the public's perception https://t.co/E1hA5Rz5Ot",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/E1hA5Rz5Ot",
+						"expanded_url": "https://www.latimes.com/california/story/2019-10-07/homeless-population-mental-illness-disability",
+						"display_url": "latimes.com/california/sto…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17036898,
+				"id_str": "17036898",
+				"name": "L.A. Times: L.A. Now",
+				"screen_name": "LANow",
+				"location": "Los Angeles, CA",
+				"description": "Southern California -- this just in. News from L.A. and beyond from the Los Angeles Times. See @latimes for more news.",
+				"url": "https://t.co/6k4qSdf5J8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6k4qSdf5J8",
+								"expanded_url": "http://latimes.com/now",
+								"display_url": "latimes.com/now",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 521812,
+				"friends_count": 603,
+				"listed_count": 4081,
+				"created_at": "Wed Oct 29 05:55:55 +0000 2008",
+				"favourites_count": 452,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 108940,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043218383141928961/i7P3LHYw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043218383141928961/i7P3LHYw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17036898/1520220820",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E8E8E8",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A rare, bucket-list level feat here from our very own @LATDoug.\n\nHe acquired the raw results of a government survey, then weighted and reran the estimates himself.\n\nHere's what he found. https://t.co/PkTpr5LehD"
+	},
+	{
+		"created_at": "Tue Oct 08 01:23:23 +0000 2019",
+		"id": 1181379092299559000,
+		"id_str": "1181379529563967488",
+		"full_text": "\"Candy corn\" is disgusting by-product of cattle feed, caramelized for consumption by western children as \"treat\" during barren harvest months.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58569513,
+			"id_str": "58569513",
+			"name": "DPRK News Service",
+			"screen_name": "DPRK_News",
+			"location": "Pyongyang, DPRK",
+			"description": "Official News feed of Democratic Peoples Republic of Korea",
+			"url": "https://t.co/Dkq1nJO2sa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dkq1nJO2sa",
+							"expanded_url": "http://www.mfa.gov.kp/en/",
+							"display_url": "mfa.gov.kp/en/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 343661,
+			"friends_count": 100,
+			"listed_count": 3038,
+			"created_at": "Mon Jul 20 19:45:37 +0000 2009",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172964669650288640/rq_CCssd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172964669650288640/rq_CCssd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58569513/1568491545",
+			"profile_link_color": "267491",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 575,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"Candy corn\" is disgusting by-product of cattle feed, caramelized for consumption by western children as \"treat\" during barren harvest months."
+	},
+	{
 		"created_at": "Mon Oct 07 23:31:06 +0000 2019",
 		"id": 1181351273653661700,
 		"id_str": "1181351273653661696",
