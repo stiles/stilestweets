@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 08 23:20:59 +0000 2019",
+		"id": 1181196741321859000,
+		"id_str": "1181711116033912833",
+		"full_text": "EVERYONE HAS TO RT THIS TO HELP GET THIS POOR WOMAN HER EARBUD BACK.... #MakeTwitterGreatAgain https://t.co/YirTdVDrSa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MakeTwitterGreatAgain",
+					"indices": [
+						72,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YirTdVDrSa",
+					"expanded_url": "https://twitter.com/AshleyRParker/status/1181195274347302912",
+					"display_url": "twitter.com/AshleyRParker/…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33919343,
+			"id_str": "33919343",
+			"name": "Ashley Parker",
+			"screen_name": "AshleyRParker",
+			"location": "",
+			"description": "I remain skeptical about Twitter. Also: White House reporter for @washingtonpost. @MSNBC and @NBCNews senior political analyst. And @nytimes alum.",
+			"url": "https://t.co/fJMCeIYylK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJMCeIYylK",
+							"expanded_url": "http://www.washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288266,
+			"friends_count": 2788,
+			"listed_count": 3980,
+			"created_at": "Tue Apr 21 14:28:57 +0000 2009",
+			"favourites_count": 14397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958544629728710656/qabz5pTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958544629728710656/qabz5pTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33919343/1458847377",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181195274347303000,
+		"quoted_status_id_str": "1181195274347302912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YirTdVDrSa",
+			"expanded": "https://twitter.com/AshleyRParker/status/1181195274347302912",
+			"display": "twitter.com/AshleyRParker/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 07 13:11:13 +0000 2019",
+			"id": 1181195274347303000,
+			"id_str": "1181195274347302912",
+			"full_text": "METRO RED LINE PSA: To the woman who lost her left Airpod...You were searching for it on the floor of train; got off at Metro Center (I think?); I got to work and found it in the side pocket of my backpack...V SORRY! DM if it's yours...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33919343,
+				"id_str": "33919343",
+				"name": "Ashley Parker",
+				"screen_name": "AshleyRParker",
+				"location": "",
+				"description": "I remain skeptical about Twitter. Also: White House reporter for @washingtonpost. @MSNBC and @NBCNews senior political analyst. And @nytimes alum.",
+				"url": "https://t.co/fJMCeIYylK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fJMCeIYylK",
+								"expanded_url": "http://www.washingtonpost.com",
+								"display_url": "washingtonpost.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 288266,
+				"friends_count": 2788,
+				"listed_count": 3980,
+				"created_at": "Tue Apr 21 14:28:57 +0000 2009",
+				"favourites_count": 14397,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16004,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/958544629728710656/qabz5pTa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/958544629728710656/qabz5pTa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33919343/1458847377",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 749,
+			"favorite_count": 1667,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1096,
+		"favorite_count": 1276,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EVERYONE HAS TO RT THIS TO HELP GET THIS POOR WOMAN HER EARBUD BACK.... #MakeTwitterGreatAgain https://t.co/YirTdVDrSa"
+	},
+	{
 		"created_at": "Tue Oct 08 23:19:54 +0000 2019",
 		"id": 1181710841227333600,
 		"id_str": "1181710841227333632",
