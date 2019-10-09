@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 09 03:07:03 +0000 2019",
+		"id": 1181695687005745200,
+		"id_str": "1181768006487068674",
+		"full_text": "Challenge accepted! Here is a transition between surface area of US counties and their associated population. This arguably provides a much more accurate reading of the situation. @observablehq notebook: https://t.co/wdfMeV5hO4 #HowChartsLie #DataViz #d3js https://t.co/lStHeeuMUw https://t.co/MpYiXtsHmu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HowChartsLie",
+					"indices": [
+						228,
+						241
+					]
+				},
+				{
+					"text": "DataViz",
+					"indices": [
+						242,
+						250
+					]
+				},
+				{
+					"text": "d3js",
+					"indices": [
+						251,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "observablehq",
+					"name": "Observable",
+					"id": 905255756789825500,
+					"id_str": "905255756789825536",
+					"indices": [
+						180,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wdfMeV5hO4",
+					"expanded_url": "https://observablehq.com/@karimdouieb/try-to-impeach-this-challenge-accepted",
+					"display_url": "observablehq.com/@karimdouieb/t…",
+					"indices": [
+						204,
+						227
+					]
+				},
+				{
+					"url": "https://t.co/lStHeeuMUw",
+					"expanded_url": "https://twitter.com/LaraLeaTrump/status/1178030815671980032",
+					"display_url": "twitter.com/LaraLeaTrump/s…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1181695638532173800,
+					"id_str": "1181695638532173827",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGY57B9WsAMo-5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGY57B9WsAMo-5r.jpg",
+					"url": "https://t.co/MpYiXtsHmu",
+					"display_url": "pic.twitter.com/MpYiXtsHmu",
+					"expanded_url": "https://twitter.com/karim_douieb/status/1181695687005745153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181695638532173800,
+					"id_str": "1181695638532173827",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGY57B9WsAMo-5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGY57B9WsAMo-5r.jpg",
+					"url": "https://t.co/MpYiXtsHmu",
+					"display_url": "pic.twitter.com/MpYiXtsHmu",
+					"expanded_url": "https://twitter.com/karim_douieb/status/1181695687005745153/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 354,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							100,
+							59
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EGY57B9WsAMo-5r.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2600429268,
+			"id_str": "2600429268",
+			"name": "Karim Douïeb",
+			"screen_name": "karim_douieb",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 994,
+			"friends_count": 345,
+			"listed_count": 20,
+			"created_at": "Wed Jul 02 20:50:37 +0000 2014",
+			"favourites_count": 563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/889930785662410756/Mwv04VWC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/889930785662410756/Mwv04VWC_normal.jpg",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178030815671980000,
+		"quoted_status_id_str": "1178030815671980032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lStHeeuMUw",
+			"expanded": "https://twitter.com/LaraLeaTrump/status/1178030815671980032",
+			"display": "twitter.com/LaraLeaTrump/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 28 19:36:47 +0000 2019",
+			"id": 1178030815671980000,
+			"id_str": "1178030815671980032",
+			"full_text": "https://t.co/pYSILiGnrK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1178030811683213300,
+						"id_str": "1178030811683213318",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EFk0yCDX0AYlFEv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFk0yCDX0AYlFEv.jpg",
+						"url": "https://t.co/pYSILiGnrK",
+						"display_url": "pic.twitter.com/pYSILiGnrK",
+						"expanded_url": "https://twitter.com/LaraLeaTrump/status/1178030815671980032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1242,
+								"h": 892,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 488,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 862,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1178030811683213300,
+						"id_str": "1178030811683213318",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EFk0yCDX0AYlFEv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFk0yCDX0AYlFEv.jpg",
+						"url": "https://t.co/pYSILiGnrK",
+						"display_url": "pic.twitter.com/pYSILiGnrK",
+						"expanded_url": "https://twitter.com/LaraLeaTrump/status/1178030815671980032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1242,
+								"h": 892,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 488,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 862,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 75541946,
+				"id_str": "75541946",
+				"name": "Lara Trump",
+				"screen_name": "LaraLeaTrump",
+				"location": "New York City",
+				"description": "NC girl in NYC #MAGA",
+				"url": "https://t.co/XjVAWvUQuR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XjVAWvUQuR",
+								"expanded_url": "http://www.donaldjtrump.com",
+								"display_url": "donaldjtrump.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 634571,
+				"friends_count": 481,
+				"listed_count": 1920,
+				"created_at": "Sat Sep 19 12:49:26 +0000 2009",
+				"favourites_count": 5869,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3362,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035658620246077440/ZDmmMCxQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035658620246077440/ZDmmMCxQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/75541946/1535755233",
+				"profile_link_color": "B300A7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "6813c2d9b9a7adb5",
+				"url": "https://api.twitter.com/1.1/geo/id/6813c2d9b9a7adb5.json",
+				"place_type": "city",
+				"name": "Briarcliff Manor",
+				"full_name": "Briarcliff Manor, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-73.867804,
+								41.120546
+							],
+							[
+								-73.8106,
+								41.120546
+							],
+							[
+								-73.8106,
+								41.164726
+							],
+							[
+								-73.867804,
+								41.164726
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24062,
+			"favorite_count": 83567,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 2876,
+		"favorite_count": 6919,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Challenge accepted! Here is a transition between surface area of US counties and their associated population. This arguably provides a much more accurate reading of the situation. @observablehq notebook: https://t.co/wdfMeV5hO4 #HowChartsLie #DataViz #d3js https://t.co/lStHeeuMUw https://t.co/MpYiXtsHmu"
+	},
+	{
 		"created_at": "Tue Oct 08 23:20:59 +0000 2019",
 		"id": 1181196741321859000,
 		"id_str": "1181711116033912833",
