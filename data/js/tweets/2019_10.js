@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 09 03:21:32 +0000 2019",
+		"id": 1181771652452868000,
+		"id_str": "1181771652452868096",
+		"full_text": "Slope graphs! https://t.co/nPRUVTFWFF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nPRUVTFWFF",
+					"expanded_url": "https://twitter.com/MiekeEoyang/status/1181771402971684864",
+					"display_url": "twitter.com/MiekeEoyang/st…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11040,
+			"friends_count": 1772,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1570466013",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181771402971684900,
+		"quoted_status_id_str": "1181771402971684864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nPRUVTFWFF",
+			"expanded": "https://twitter.com/MiekeEoyang/status/1181771402971684864",
+			"display": "twitter.com/MiekeEoyang/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 09 03:20:33 +0000 2019",
+			"id": 1181771402971684900,
+			"id_str": "1181771402971684864",
+			"full_text": "That's some serious trend data. https://t.co/OWnFY14xpy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OWnFY14xpy",
+						"expanded_url": "https://twitter.com/pbump/status/1181770515058511873",
+						"display_url": "twitter.com/pbump/status/1…",
+						"indices": [
+							32,
+							55
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 297632458,
+				"id_str": "297632458",
+				"name": "Mieke Eoyang",
+				"screen_name": "MiekeEoyang",
+				"location": "Washington, DC",
+				"description": "VP @ThirdWayNatSec. Bio: https://t.co/8R4iwapIQE. Board member: @internews & @lc_wins. I can haz opinions on politics, war, cyber, espionage.",
+				"url": "https://t.co/Fb0mGLf5zT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Fb0mGLf5zT",
+								"expanded_url": "http://thirdway.org/",
+								"display_url": "thirdway.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8R4iwapIQE",
+								"expanded_url": "http://goo.gl/t6BrN6",
+								"display_url": "goo.gl/t6BrN6",
+								"indices": [
+									25,
+									48
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 36718,
+				"friends_count": 1948,
+				"listed_count": 761,
+				"created_at": "Thu May 12 20:53:30 +0000 2011",
+				"favourites_count": 4767,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36838,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/524985401740500992/M7fbnahd_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/524985401740500992/M7fbnahd_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/297632458/1468524781",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1181770515058512000,
+			"quoted_status_id_str": "1181770515058511873",
+			"quoted_status_permalink": {
+				"url": "https://t.co/OWnFY14xpy",
+				"expanded": "https://twitter.com/pbump/status/1181770515058511873",
+				"display": "twitter.com/pbump/status/1…"
+			},
+			"retweet_count": 27,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Slope graphs! https://t.co/nPRUVTFWFF"
+	},
+	{
 		"created_at": "Wed Oct 09 03:07:03 +0000 2019",
 		"id": 1181695687005745200,
 		"id_str": "1181768006487068674",
