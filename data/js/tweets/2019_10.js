@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 09 19:55:31 +0000 2019",
+		"id": 1181973481644331000,
+		"id_str": "1182021795135680512",
+		"full_text": "Adam Schiff earned 4 Pinocchios last week and @realDonaldTrump can't stop talking about it. The White House impeachment letter cited that fact check twice. So I was curious: How many Pinocchios has Trump earned? The answer: 1,010! That's an average of 3.4 🤥 per fact check.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						46,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 235196204,
+			"id_str": "235196204",
+			"name": "Glenn Kessler",
+			"screen_name": "GlennKesslerWP",
+			"location": "ÜT: 38.9327999,-77.1524351",
+			"description": "The Washington Post's Fact Checker columnist, revealing the truth behind the rhetoric. I tweet articles & comments I find interesting or provocative.",
+			"url": "https://t.co/tBNw21Oiz3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tBNw21Oiz3",
+							"expanded_url": "http://www.washingtonpost.com/factchecker",
+							"display_url": "washingtonpost.com/factchecker",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111593,
+			"friends_count": 477,
+			"listed_count": 2909,
+			"created_at": "Fri Jan 07 16:02:14 +0000 2011",
+			"favourites_count": 1978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3E5D7C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782334896798851072/Sv6ST6cw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782334896798851072/Sv6ST6cw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/235196204/1474902073",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 681,
+		"favorite_count": 2472,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Adam Schiff earned 4 Pinocchios last week and @realDonaldTrump can't stop talking about it. The White House impeachment letter cited that fact check twice. So I was curious: How many Pinocchios has Trump earned? The answer: 1,010! That's an average of 3.4 🤥 per fact check."
+	},
+	{
+		"created_at": "Wed Oct 09 19:54:35 +0000 2019",
+		"id": 1181999638972391400,
+		"id_str": "1182021562083340289",
+		"full_text": "🍁👀🍂Calling all leaf peepers!🍂👀🍁\n\nFall is here, &amp; @joemfox and I looked at where, when, and how to find the best fall colors across the U.S. \n\nLots of maps ahead, including stunning satellite imagery from @wallacetim &amp; Krishna Karra of @DescartesLabs https://t.co/Bn3Q1VelJm https://t.co/f6K1HNxlgn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joemfox",
+					"name": "☕🦊",
+					"id": 14816237,
+					"id_str": "14816237",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"screen_name": "wallacetim",
+					"name": "Tim Wallace",
+					"id": 50387337,
+					"id_str": "50387337",
+					"indices": [
+						208,
+						219
+					]
+				},
+				{
+					"screen_name": "DescartesLabs",
+					"name": "Descartes Labs",
+					"id": 2749916923,
+					"id_str": "2749916923",
+					"indices": [
+						243,
+						257
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Bn3Q1VelJm",
+					"expanded_url": "https://wapo.st/peep-these-leaves",
+					"display_url": "wapo.st/peep-these-lea…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1181999633767288800,
+					"id_str": "1181999633767288832",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EGdOZ4dXUAAom4n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGdOZ4dXUAAom4n.jpg",
+					"url": "https://t.co/f6K1HNxlgn",
+					"display_url": "pic.twitter.com/f6K1HNxlgn",
+					"expanded_url": "https://twitter.com/tierneyl/status/1181999638972391425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181999633767288800,
+					"id_str": "1181999633767288832",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EGdOZ4dXUAAom4n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGdOZ4dXUAAom4n.jpg",
+					"url": "https://t.co/f6K1HNxlgn",
+					"display_url": "pic.twitter.com/f6K1HNxlgn",
+					"expanded_url": "https://twitter.com/tierneyl/status/1181999638972391425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28011281,
+			"id_str": "28011281",
+			"name": "Lauren Tierney",
+			"screen_name": "tierneyl",
+			"location": "",
+			"description": "Graphics Reporter, @PostGraphics. Previously @NatGeoMag @NatGeoMaps @NACIS_Atlas. Board member, @NACIS. Map-maker and geographer. @uoregon alum. Hablo español.",
+			"url": "https://t.co/GyLraYZlS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GyLraYZlS0",
+							"expanded_url": "http://laurenctierney.com",
+							"display_url": "laurenctierney.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4106,
+			"friends_count": 1943,
+			"listed_count": 162,
+			"created_at": "Wed Apr 01 00:54:15 +0000 2009",
+			"favourites_count": 10597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137889778630897664/hhr4kfZZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137889778630897664/hhr4kfZZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28011281/1530669581",
+			"profile_link_color": "6EA331",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🍁👀🍂Calling all leaf peepers!🍂👀🍁\n\nFall is here, &amp; @joemfox and I looked at where, when, and how to find the best fall colors across the U.S. \n\nLots of maps ahead, including stunning satellite imagery from @wallacetim &amp; Krishna Karra of @DescartesLabs https://t.co/Bn3Q1VelJm https://t.co/f6K1HNxlgn"
+	},
+	{
 		"created_at": "Wed Oct 09 15:58:03 +0000 2019",
 		"id": 1181948696755179500,
 		"id_str": "1181962034314801152",
