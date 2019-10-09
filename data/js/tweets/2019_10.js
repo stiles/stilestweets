@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 09 06:04:20 +0000 2019",
+		"id": 1181810590580236300,
+		"id_str": "1181812620057174017",
+		"full_text": "Tables are data visualizations.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77281866,
+			"id_str": "77281866",
+			"name": "Acton H. Gorton 🇺🇸",
+			"screen_name": "ActonGorton",
+			"location": "Sacramento, CA",
+			"description": "McClatchy New Ventures Lab Tech Lead, UIUC Doctoral Student, Previously: @ChicagoTribune, @Strike_Hold, @Illinois_Alma",
+			"url": "https://t.co/DLbJxnJPYw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DLbJxnJPYw",
+							"expanded_url": "http://actongorton.com",
+							"display_url": "actongorton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 402,
+			"friends_count": 1300,
+			"listed_count": 29,
+			"created_at": "Fri Sep 25 18:48:24 +0000 2009",
+			"favourites_count": 5943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853664873/Screen_shot_2010-04-26_at___April_26__3.53.41_PM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853664873/Screen_shot_2010-04-26_at___April_26__3.53.41_PM_normal.png",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Tables are data visualizations."
+	},
+	{
 		"created_at": "Wed Oct 09 03:21:32 +0000 2019",
 		"id": 1181771652452868000,
 		"id_str": "1181771652452868096",
