@@ -1,6 +1,647 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 10 18:39:07 +0000 2019",
+		"id": 1182364955732955100,
+		"id_str": "1182364955732955137",
+		"full_text": "I'm in a twitter slump this year. https://t.co/77xMBNbAXV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1182364953296064500,
+					"id_str": "1182364953296064512",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EGiaqRwVUAAicIi.png",
+					"media_url_https": "https://pbs.twimg.com/media/EGiaqRwVUAAicIi.png",
+					"url": "https://t.co/77xMBNbAXV",
+					"display_url": "pic.twitter.com/77xMBNbAXV",
+					"expanded_url": "https://twitter.com/stiles/status/1182364955732955137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 378,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 378,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 378,
+							"h": 220,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182364953296064500,
+					"id_str": "1182364953296064512",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EGiaqRwVUAAicIi.png",
+					"media_url_https": "https://pbs.twimg.com/media/EGiaqRwVUAAicIi.png",
+					"url": "https://t.co/77xMBNbAXV",
+					"display_url": "pic.twitter.com/77xMBNbAXV",
+					"expanded_url": "https://twitter.com/stiles/status/1182364955732955137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 378,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 378,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 378,
+							"h": 220,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11037,
+			"friends_count": 1780,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1570732590",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm in a twitter slump this year. https://t.co/77xMBNbAXV"
+	},
+	{
+		"created_at": "Thu Oct 10 18:32:27 +0000 2019",
+		"id": 1182362194463215600,
+		"id_str": "1182363278648860672",
+		"full_text": "LA County Fire Dept. Strike Team 1120A staged at Fire Station 89 in the City of Agoura Hills. Residents are reminded to maintain a heightened state of situational awareness during this significant wind event. Call 911 immediately upon any sign of smoke. https://t.co/WzGucM393C https://t.co/fZPq8EcKXU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WzGucM393C",
+					"expanded_url": "http://www.fire.lacounty.gov/rsg",
+					"display_url": "fire.lacounty.gov/rsg",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1182362165795160000,
+					"id_str": "1182362165795160064",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EGiYIBgVAAAT8zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGiYIBgVAAAT8zu.jpg",
+					"url": "https://t.co/fZPq8EcKXU",
+					"display_url": "pic.twitter.com/fZPq8EcKXU",
+					"expanded_url": "https://twitter.com/LACoFDPIO/status/1182362194463215616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182362165795160000,
+					"id_str": "1182362165795160064",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EGiYIBgVAAAT8zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGiYIBgVAAAT8zu.jpg",
+					"url": "https://t.co/fZPq8EcKXU",
+					"display_url": "pic.twitter.com/fZPq8EcKXU",
+					"expanded_url": "https://twitter.com/LACoFDPIO/status/1182362194463215616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 919373695,
+			"id_str": "919373695",
+			"name": "L.A. County Fire Department",
+			"screen_name": "LACoFDPIO",
+			"location": "Los Angeles, CA",
+			"description": "Welcome to the official Twitter feed of the Los Angeles County Fire Department PIO. Dial 911 for emergencies. Note: This account is not monitored 24/7",
+			"url": "https://t.co/bEL5gSFmAi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bEL5gSFmAi",
+							"expanded_url": "https://www.fire.lacounty.gov",
+							"display_url": "fire.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72867,
+			"friends_count": 0,
+			"listed_count": 1029,
+			"created_at": "Thu Nov 01 16:27:51 +0000 2012",
+			"favourites_count": 8990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "151D34",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040325006880792576/hN8EcDSl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040325006880792576/hN8EcDSl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/919373695/1547842283",
+			"profile_link_color": "B30000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LA County Fire Dept. Strike Team 1120A staged at Fire Station 89 in the City of Agoura Hills. Residents are reminded to maintain a heightened state of situational awareness during this significant wind event. Call 911 immediately upon any sign of smoke. https://t.co/WzGucM393C https://t.co/fZPq8EcKXU"
+	},
+	{
+		"created_at": "Thu Oct 10 18:31:25 +0000 2019",
+		"id": 1182327287947108400,
+		"id_str": "1182363019730272256",
+		"full_text": "Men have no idea how much money it costs to be a woman. https://t.co/crqYbbGxCo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/crqYbbGxCo",
+					"expanded_url": "https://twitter.com/washtimes/status/1182088011158343680",
+					"display_url": "twitter.com/washtimes/stat…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43081138,
+			"id_str": "43081138",
+			"name": "Amanda Fortini",
+			"screen_name": "amandafortini",
+			"location": "Nevada, California, Montana",
+			"description": "Writer: NY Times, New Yorker, California Sunday, Vanity Fair, & New York. Etc. Visiting Prof @ UNLV. Fellow @ Black Mountain Institute. amanda.fortini@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7509,
+			"friends_count": 3429,
+			"listed_count": 154,
+			"created_at": "Thu May 28 09:50:39 +0000 2009",
+			"favourites_count": 22512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3753123585/5dbc02653409b44e4eec6e1a5e5ea60b_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3753123585/5dbc02653409b44e4eec6e1a5e5ea60b_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43081138/1395035578",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182088011158343700,
+		"quoted_status_id_str": "1182088011158343680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/crqYbbGxCo",
+			"expanded": "https://twitter.com/washtimes/status/1182088011158343680",
+			"display": "twitter.com/washtimes/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 10 00:18:38 +0000 2019",
+			"id": 1182088011158343700,
+			"id_str": "1182088011158343680",
+			"full_text": "EXCLUSIVE: Self-declared socialist AOC splurges on high-dollar hairdo https://t.co/GipQsnGcuX https://t.co/8lwoquWP2D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GipQsnGcuX",
+						"expanded_url": "https://www.washingtontimes.com/news/2019/oct/9/alexandria-ocasio-cortez-spends-300-hairdo-last-ta/",
+						"display_url": "washingtontimes.com/news/2019/oct/…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1182088006183903200,
+						"id_str": "1182088006183903234",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/EGeex1XXYAIf6WD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGeex1XXYAIf6WD.jpg",
+						"url": "https://t.co/8lwoquWP2D",
+						"display_url": "pic.twitter.com/8lwoquWP2D",
+						"expanded_url": "https://twitter.com/WashTimes/status/1182088011158343680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 885,
+								"h": 516,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 396,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 885,
+								"h": 516,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1182088006183903200,
+						"id_str": "1182088006183903234",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/EGeex1XXYAIf6WD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGeex1XXYAIf6WD.jpg",
+						"url": "https://t.co/8lwoquWP2D",
+						"display_url": "pic.twitter.com/8lwoquWP2D",
+						"expanded_url": "https://twitter.com/WashTimes/status/1182088011158343680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 885,
+								"h": 516,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 396,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 885,
+								"h": 516,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14662354,
+				"id_str": "14662354",
+				"name": "The Washington Times",
+				"screen_name": "WashTimes",
+				"location": "Washington, D.C.",
+				"description": "Reliable reporting, hard-hitting analysis & breaking news, plus RTs from our writers and reporters. Also at @WashTimesOpEd, @WashTimesLocal, @WashTimesSports",
+				"url": "https://t.co/Ncqu3Y9daA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ncqu3Y9daA",
+								"expanded_url": "http://www.washingtontimes.com",
+								"display_url": "washingtontimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 365510,
+				"friends_count": 1844,
+				"listed_count": 8469,
+				"created_at": "Mon May 05 17:43:25 +0000 2008",
+				"favourites_count": 6895,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 237606,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164166695830904833/fv85ZD8g_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164166695830904833/fv85ZD8g_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14662354/1565901470",
+				"profile_link_color": "B6121A",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 138,
+			"favorite_count": 323,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 69,
+		"favorite_count": 537,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Men have no idea how much money it costs to be a woman. https://t.co/crqYbbGxCo"
+	},
+	{
 		"created_at": "Thu Oct 10 15:09:01 +0000 2019",
 		"id": 1182309515582197800,
 		"id_str": "1182312082315739136",
