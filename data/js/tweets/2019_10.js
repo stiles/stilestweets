@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 10 21:40:45 +0000 2019",
+		"id": 1182406259179491300,
+		"id_str": "1182410665136254976",
+		"full_text": "Good catching up with stud journalist, good friend and @pterrys super fan @elisewho. I think my Reese’s peanut butter cup shake was better than her veggie burger. I win. https://t.co/cY9ghbmCj4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pterrys",
+					"name": "P. Terry's",
+					"id": 625574231,
+					"id_str": "625574231",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"screen_name": "elisewho",
+					"name": "Elise Hu",
+					"id": 16001350,
+					"id_str": "16001350",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1182406253206737000,
+					"id_str": "1182406253206736896",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EGjAOP6WkAA94tk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGjAOP6WkAA94tk.jpg",
+					"url": "https://t.co/cY9ghbmCj4",
+					"display_url": "pic.twitter.com/cY9ghbmCj4",
+					"expanded_url": "https://twitter.com/toddcoerver/status/1182406259179491349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182406253206737000,
+					"id_str": "1182406253206736896",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EGjAOP6WkAA94tk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGjAOP6WkAA94tk.jpg",
+					"url": "https://t.co/cY9ghbmCj4",
+					"display_url": "pic.twitter.com/cY9ghbmCj4",
+					"expanded_url": "https://twitter.com/toddcoerver/status/1182406259179491349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117836114,
+			"id_str": "117836114",
+			"name": "Todd Coerver",
+			"screen_name": "toddcoerver",
+			"location": "Austin, TX",
+			"description": "CEO, P. Terry’s Burger Stand + Taco Ranch",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 68,
+			"listed_count": 20,
+			"created_at": "Fri Feb 26 19:41:35 +0000 2010",
+			"favourites_count": 3813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EB4984",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112721168761610240/dOJ86FKJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112721168761610240/dOJ86FKJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117836114/1563033873",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good catching up with stud journalist, good friend and @pterrys super fan @elisewho. I think my Reese’s peanut butter cup shake was better than her veggie burger. I win. https://t.co/cY9ghbmCj4"
+	},
+	{
 		"created_at": "Thu Oct 10 21:18:07 +0000 2019",
 		"id": 1182404969455992800,
 		"id_str": "1182404969455992832",
