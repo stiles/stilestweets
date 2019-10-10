@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 10 00:48:44 +0000 2019",
+		"id": 1181934431696760800,
+		"id_str": "1182095586163482624",
+		"full_text": "Sometimes unexpected breaking news happens while you're reporting breaking news. #MSNBCMoms #workingmoms https://t.co/PGUrbtQtT6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSNBCMoms",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "workingmoms",
+					"indices": [
+						92,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1181934354517430300,
+					"id_str": "1181934354517430272",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EGcTGUDXoAE-hAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGcTGUDXoAE-hAu.jpg",
+					"url": "https://t.co/PGUrbtQtT6",
+					"display_url": "pic.twitter.com/PGUrbtQtT6",
+					"expanded_url": "https://twitter.com/MSNBC/status/1181934431696760832/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181934354517430300,
+					"id_str": "1181934354517430272",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EGcTGUDXoAE-hAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGcTGUDXoAE-hAu.jpg",
+					"url": "https://t.co/PGUrbtQtT6",
+					"display_url": "pic.twitter.com/PGUrbtQtT6",
+					"expanded_url": "https://twitter.com/MSNBC/status/1181934431696760832/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26193,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1181934354517430272/pl/iKDnULTFJIvfWq5r.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1181934354517430272/vid/480x270/-BOI5giRDC2SALoW.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1181934354517430272/vid/1280x720/9bDsqGslJH28OKdf.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1181934354517430272/vid/640x360/r52l4iLG-S-mR8kG.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2836421,
+			"id_str": "2836421",
+			"name": "MSNBC",
+			"screen_name": "MSNBC",
+			"location": "",
+			"description": "The place for in-depth analysis, political commentary and informed perspectives.",
+			"url": "https://t.co/5TAF6ijWwt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5TAF6ijWwt",
+							"expanded_url": "http://msnbc.com",
+							"display_url": "msnbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2710782,
+			"friends_count": 658,
+			"listed_count": 23095,
+			"created_at": "Thu Mar 29 13:15:41 +0000 2007",
+			"favourites_count": 704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 181434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988382060443250689/DijesdNB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2836421/1562086301",
+			"profile_link_color": "0CB1C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6754,
+		"favorite_count": 34137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes unexpected breaking news happens while you're reporting breaking news. #MSNBCMoms #workingmoms https://t.co/PGUrbtQtT6"
+	},
+	{
 		"created_at": "Wed Oct 09 19:55:31 +0000 2019",
 		"id": 1181973481644331000,
 		"id_str": "1182021795135680512",
