@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 10 15:09:01 +0000 2019",
+		"id": 1182309515582197800,
+		"id_str": "1182312082315739136",
+		"full_text": "So, an $11,000 contribution to Protect the House by Lev Parnas in June 2018 literally lists his employer as \"Loan Crime Investigative Group\":\n\nhttps://t.co/2RIgcW9rf1 https://t.co/bshwnu4FE9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2RIgcW9rf1",
+					"expanded_url": "https://docquery.fec.gov/cgi-bin/fecimg/?201807139115443055",
+					"display_url": "docquery.fec.gov/cgi-bin/fecimg…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1182309449450557400,
+					"id_str": "1182309449450557443",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EGhoLh0WkAMRIZs.png",
+					"media_url_https": "https://pbs.twimg.com/media/EGhoLh0WkAMRIZs.png",
+					"url": "https://t.co/bshwnu4FE9",
+					"display_url": "pic.twitter.com/bshwnu4FE9",
+					"expanded_url": "https://twitter.com/derekwillis/status/1182309515582197760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 497,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 497,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 497,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182309449450557400,
+					"id_str": "1182309449450557443",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EGhoLh0WkAMRIZs.png",
+					"media_url_https": "https://pbs.twimg.com/media/EGhoLh0WkAMRIZs.png",
+					"url": "https://t.co/bshwnu4FE9",
+					"display_url": "pic.twitter.com/bshwnu4FE9",
+					"expanded_url": "https://twitter.com/derekwillis/status/1182309515582197760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 497,
+							"h": 244,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 497,
+							"h": 244,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 497,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14517538,
+			"id_str": "14517538",
+			"name": "Derek Willis",
+			"screen_name": "derekwillis",
+			"location": "Kensington Oval, ideally",
+			"description": "Journalist with coding habit at @propublica. Hobby: @openelex. Cricket, @PP_Represent & campaign finance. Talk to me: DM for Signal/ derek.willis@propublica.org",
+			"url": "https://t.co/xizhjsd6Vd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xizhjsd6Vd",
+							"expanded_url": "http://thescoop.org",
+							"display_url": "thescoop.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22431,
+			"friends_count": 1222,
+			"listed_count": 1419,
+			"created_at": "Thu Apr 24 20:48:23 +0000 2008",
+			"favourites_count": 21580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 94647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9BACE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061425559945822214/ns-bDp0l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061425559945822214/ns-bDp0l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14517538/1467483088",
+			"profile_link_color": "0016FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So, an $11,000 contribution to Protect the House by Lev Parnas in June 2018 literally lists his employer as \"Loan Crime Investigative Group\":\n\nhttps://t.co/2RIgcW9rf1 https://t.co/bshwnu4FE9"
+	},
+	{
 		"created_at": "Thu Oct 10 00:48:44 +0000 2019",
 		"id": 1181934431696760800,
 		"id_str": "1182095586163482624",
