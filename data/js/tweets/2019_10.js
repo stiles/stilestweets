@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 11 17:51:24 +0000 2019",
+		"id": 1182712343421051000,
+		"id_str": "1182715337474637824",
+		"full_text": "Here’s a glimpse of the #Saddleridge fire perimeter from this operations map image from @stiles. \n\nHe’s up at the LA Fire Department command post and gathering more info.\n\nTimestamp puts it at 2:30 a.m. this morning and with a large uncontrolled edge and at about 4,100 acres. https://t.co/bxbaJcBK2C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Saddleridge",
+					"indices": [
+						24,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1182712322399199200,
+					"id_str": "1182712322399199232",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EGnWl0gU4AArOio.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGnWl0gU4AArOio.jpg",
+					"url": "https://t.co/bxbaJcBK2C",
+					"display_url": "pic.twitter.com/bxbaJcBK2C",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1182712343421050880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182712322399199200,
+					"id_str": "1182712322399199232",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EGnWl0gU4AArOio.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGnWl0gU4AArOio.jpg",
+					"url": "https://t.co/bxbaJcBK2C",
+					"display_url": "pic.twitter.com/bxbaJcBK2C",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1182712343421050880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1182671849253032000,
+		"in_reply_to_status_id_str": "1182671849253031937",
+		"in_reply_to_user_id": 963122095747035100,
+		"in_reply_to_user_id_str": "963122095747035136",
+		"in_reply_to_screen_name": "ChrisLKellerLAT",
+		"user": {
+			"id": 963122095747035100,
+			"id_str": "963122095747035136",
+			"name": "Chris Keller",
+			"screen_name": "ChrisLKellerLAT",
+			"location": "Los Angeles, CA",
+			"description": "Digital & visual journalist for The Times’ 2020 election team. Former @KPCC, @madisondotcom, @nwi & @TheSPEagle. A more official-er account of @ChrisLKeller",
+			"url": "https://t.co/QPwW7wUqUW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QPwW7wUqUW",
+							"expanded_url": "http://www.latimes.com/la-bio-chris-keller-staff.html",
+							"display_url": "latimes.com/la-bio-chris-k…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 535,
+			"friends_count": 93,
+			"listed_count": 19,
+			"created_at": "Mon Feb 12 18:46:16 +0000 2018",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/963122095747035136/1518462904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s a glimpse of the #Saddleridge fire perimeter from this operations map image from @stiles. \n\nHe’s up at the LA Fire Department command post and gathering more info.\n\nTimestamp puts it at 2:30 a.m. this morning and with a large uncontrolled edge and at about 4,100 acres. https://t.co/bxbaJcBK2C"
+	},
+	{
 		"created_at": "Fri Oct 11 14:32:15 +0000 2019",
 		"id": 1182665218217992200,
 		"id_str": "1182665218217992197",
