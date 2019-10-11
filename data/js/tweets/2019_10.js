@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 11 21:16:04 +0000 2019",
+		"id": 1182259988561059800,
+		"id_str": "1182766842860863488",
+		"full_text": "I took a deep dive into Trump’s tweets about every single member of Congress and found that attacks against lawmakers are intensifying and getting more personal, especially against lawmakers who are not white. https://t.co/5wLpjgM3eu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5wLpjgM3eu",
+					"expanded_url": "https://www.npr.org/2019/10/10/768646968/as-summer-heated-up-trumps-tweets-about-non-white-democrats-intensified",
+					"display_url": "npr.org/2019/10/10/768…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 100802089,
+			"id_str": "100802089",
+			"name": "Ayesha Rascoe",
+			"screen_name": "ayesharascoe",
+			"location": "",
+			"description": "White House Reporter for @NPR | Former Reuters | Mother of 3 | Proud Howard U graduate | Words are my thing",
+			"url": "https://t.co/GHK8zJ7S2w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GHK8zJ7S2w",
+							"expanded_url": "https://www.npr.org/people/599484393/ayesha-rascoe",
+							"display_url": "npr.org/people/5994843…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38379,
+			"friends_count": 1828,
+			"listed_count": 618,
+			"created_at": "Thu Dec 31 16:48:11 +0000 2009",
+			"favourites_count": 6531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002312860280578048/3xPlVpf1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002312860280578048/3xPlVpf1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/100802089/1563821631",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2242,
+		"favorite_count": 3809,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I took a deep dive into Trump’s tweets about every single member of Congress and found that attacks against lawmakers are intensifying and getting more personal, especially against lawmakers who are not white. https://t.co/5wLpjgM3eu"
+	},
+	{
 		"created_at": "Fri Oct 11 18:47:15 +0000 2019",
 		"id": 1182677953399836700,
 		"id_str": "1182729389278158848",
