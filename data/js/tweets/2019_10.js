@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 11 05:12:54 +0000 2019",
+		"id": 1182474369341149200,
+		"id_str": "1182524453793619969",
+		"full_text": "64-30. The Arizona Republic has a union, you guys. And it’s @azrepublicguild. https://t.co/difiduEcQp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "azrepublicguild",
+					"name": "Arizona Republic Guild 🌵",
+					"id": 1153136960866644000,
+					"id_str": "1153136960866643969",
+					"indices": [
+						60,
+						76
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1182474262109507600,
+					"id_str": "1182474262109507589",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182474262109507589/pu/img/ivvjTT5Pemyd2dCl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182474262109507589/pu/img/ivvjTT5Pemyd2dCl.jpg",
+					"url": "https://t.co/difiduEcQp",
+					"display_url": "pic.twitter.com/difiduEcQp",
+					"expanded_url": "https://twitter.com/mattdpearce/status/1182474369341149184/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182474262109507600,
+					"id_str": "1182474262109507589",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1182474262109507589/pu/img/ivvjTT5Pemyd2dCl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1182474262109507589/pu/img/ivvjTT5Pemyd2dCl.jpg",
+					"url": "https://t.co/difiduEcQp",
+					"display_url": "pic.twitter.com/difiduEcQp",
+					"expanded_url": "https://twitter.com/mattdpearce/status/1182474369341149184/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 43613,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1182474262109507589/pu/vid/360x640/vp0sC4bLAySHY_qm.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1182474262109507589/pu/vid/320x568/AvrzojCQv9LZW3-p.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1182474262109507589/pu/pl/h-0UtrYumNfMtN-B.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1182474262109507589/pu/vid/720x1280/guk65HTLE1e5250G.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69004966,
+			"id_str": "69004966",
+			"name": "Matt Pearce 🦅",
+			"screen_name": "mattdpearce",
+			"location": "matt.pearce@latimes.com",
+			"description": "National correspondent for the Los Angeles Times, covering 2020. May the forces of evil become confused on the way to your house.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148196,
+			"friends_count": 2776,
+			"listed_count": 4335,
+			"created_at": "Wed Aug 26 15:05:15 +0000 2009",
+			"favourites_count": 135588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "383838",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171430935599833089/peGS41cM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171430935599833089/peGS41cM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69004966/1484268255",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0E0E0",
+			"profile_text_color": "4F4E4E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 1130,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "64-30. The Arizona Republic has a union, you guys. And it’s @azrepublicguild. https://t.co/difiduEcQp"
+	},
+	{
+		"created_at": "Fri Oct 11 05:07:46 +0000 2019",
+		"id": 1182523161398481000,
+		"id_str": "1182523161398480897",
+		"full_text": "@kushibo @LAPDHQ Not really if you want to look at how specific crimes differ by time and location. I suppose you could find a way to smooth the noon hour. Regardless, there's plenty else to be done with the data other than looking at times. I'll survive.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kushibo",
+					"name": "Snark Master Kush",
+					"id": 52423655,
+					"id_str": "52423655",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "LAPDHQ",
+					"name": "LAPD HQ",
+					"id": 115705583,
+					"id_str": "115705583",
+					"indices": [
+						9,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1182507011604242400,
+		"in_reply_to_status_id_str": "1182507011604242432",
+		"in_reply_to_user_id": 52423655,
+		"in_reply_to_user_id_str": "52423655",
+		"in_reply_to_screen_name": "kushibo",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11037,
+			"friends_count": 1784,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1570732590",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kushibo @LAPDHQ Not really if you want to look at how specific crimes differ by time and location. I suppose you could find a way to smooth the noon hour. Regardless, there's plenty else to be done with the data other than looking at times. I'll survive."
+	},
+	{
 		"created_at": "Fri Oct 11 04:02:03 +0000 2019",
 		"id": 1182506623241113600,
 		"id_str": "1182506623241113600",
