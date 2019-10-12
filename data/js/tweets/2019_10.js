@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 12 05:41:32 +0000 2019",
+		"id": 1182867736419942400,
+		"id_str": "1182894047158865920",
+		"full_text": "@LAcrimes @marisagerber Love her writing!",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LAcrimes",
+					"name": "Richard Winton",
+					"id": 41418040,
+					"id_str": "41418040",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "marisagerber",
+					"name": "Marisa Gerber",
+					"id": 234415805,
+					"id_str": "234415805",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1182867388800229400,
+		"in_reply_to_status_id_str": "1182867388800229378",
+		"in_reply_to_user_id": 41418040,
+		"in_reply_to_user_id_str": "41418040",
+		"in_reply_to_screen_name": "LAcrimes",
+		"user": {
+			"id": 301189264,
+			"id_str": "301189264",
+			"name": "Claudia Peschiutta",
+			"screen_name": "ReporterClaudia",
+			"location": "Los Angeles",
+			"description": "News with a side of humor. I work @KNX1070. Hablo español. RTs are not endorsements. Tips? DM me.",
+			"url": "https://t.co/nJac11hlei",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nJac11hlei",
+							"expanded_url": "http://knx1070.com",
+							"display_url": "knx1070.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8909,
+			"friends_count": 1392,
+			"listed_count": 380,
+			"created_at": "Thu May 19 01:33:28 +0000 2011",
+			"favourites_count": 12537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106781873223553025/BOU1Q9Ij_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106781873223553025/BOU1Q9Ij_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/301189264/1407910303",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LAcrimes @marisagerber Love her writing!"
+	},
+	{
 		"created_at": "Sat Oct 12 01:39:28 +0000 2019",
 		"id": 1182833127955189800,
 		"id_str": "1182833127955189760",
