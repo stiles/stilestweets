@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 13 02:13:54 +0000 2019",
+		"id": 1183204180812423200,
+		"id_str": "1183204180812423168",
+		"full_text": "For weeks, @realDonaldTrump's advisers have implored the president to cut ties with Rudy Giuliani — and that was before the ex-New York mayor's business associates got arrested, @anitakumar01 reports: https://t.co/xVwcPgOdHv https://t.co/cAKaOydBIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "anitakumar01",
+					"name": "Anita Kumar",
+					"id": 48581849,
+					"id_str": "48581849",
+					"indices": [
+						178,
+						191
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xVwcPgOdHv",
+					"expanded_url": "https://www.politico.com/news/2019/10/12/rudy-giuliani-trump-interviews-044791",
+					"display_url": "politico.com/news/2019/10/1…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1183204177436000300,
+					"id_str": "1183204177436000256",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EGuV7jTUwAAEBRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGuV7jTUwAAEBRt.jpg",
+					"url": "https://t.co/cAKaOydBIN",
+					"display_url": "pic.twitter.com/cAKaOydBIN",
+					"expanded_url": "https://twitter.com/stiles/status/1183204180812423168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1160,
+							"h": 773,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1160,
+							"h": 773,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183204177436000300,
+					"id_str": "1183204177436000256",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EGuV7jTUwAAEBRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGuV7jTUwAAEBRt.jpg",
+					"url": "https://t.co/cAKaOydBIN",
+					"display_url": "pic.twitter.com/cAKaOydBIN",
+					"expanded_url": "https://twitter.com/stiles/status/1183204180812423168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1160,
+							"h": 773,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1160,
+							"h": 773,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11044,
+			"friends_count": 1787,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1570732590",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For weeks, @realDonaldTrump's advisers have implored the president to cut ties with Rudy Giuliani — and that was before the ex-New York mayor's business associates got arrested, @anitakumar01 reports: https://t.co/xVwcPgOdHv https://t.co/cAKaOydBIN"
+	},
+	{
+		"created_at": "Sun Oct 13 01:58:30 +0000 2019",
+		"id": 1183200305539768300,
+		"id_str": "1183200305539768320",
+		"full_text": "@pewresearch p.s. Republicans and Democrats say they can’t agree on ‘basic facts’ https://t.co/d8gEKR2pvj https://t.co/tTrs2y5Ytp",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pewresearch",
+					"name": "Pew Research Center",
+					"id": 22642788,
+					"id_str": "22642788",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d8gEKR2pvj",
+					"expanded_url": "https://www.people-press.org/2019/10/10/partisan-antipathy-more-intense-more-personal",
+					"display_url": "people-press.org/2019/10/10/par…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1183200302469542000,
+					"id_str": "1183200302469541889",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EGuSZ_7U8AENfMT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EGuSZ_7U8AENfMT.png",
+					"url": "https://t.co/tTrs2y5Ytp",
+					"display_url": "pic.twitter.com/tTrs2y5Ytp",
+					"expanded_url": "https://twitter.com/stiles/status/1183200305539768320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 335,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 335,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 335,
+							"h": 371,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183200302469542000,
+					"id_str": "1183200302469541889",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EGuSZ_7U8AENfMT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EGuSZ_7U8AENfMT.png",
+					"url": "https://t.co/tTrs2y5Ytp",
+					"display_url": "pic.twitter.com/tTrs2y5Ytp",
+					"expanded_url": "https://twitter.com/stiles/status/1183200305539768320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 335,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 335,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 335,
+							"h": 371,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1183200174983671800,
+		"in_reply_to_status_id_str": "1183200174983671808",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11044,
+			"friends_count": 1787,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1570732590",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@pewresearch p.s. Republicans and Democrats say they can’t agree on ‘basic facts’ https://t.co/d8gEKR2pvj https://t.co/tTrs2y5Ytp"
+	},
+	{
 		"created_at": "Sat Oct 12 19:52:52 +0000 2019",
 		"id": 1183108293645893600,
 		"id_str": "1183108293645893633",
