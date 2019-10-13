@@ -1,6 +1,1075 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 13 22:48:06 +0000 2019",
+		"id": 1183514778494361600,
+		"id_str": "1183514778494361600",
+		"full_text": "@ewkrause Exactly. Remember how great the \"Great Leap Forward\" turned out.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ewkrause",
+					"name": "Elaine W Krause",
+					"id": 16387420,
+					"id_str": "16387420",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1183509407704989700,
+		"in_reply_to_status_id_str": "1183509407704989696",
+		"in_reply_to_user_id": 16387420,
+		"in_reply_to_user_id_str": "16387420",
+		"in_reply_to_screen_name": "ewkrause",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11043,
+			"friends_count": 1794,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ewkrause Exactly. Remember how great the \"Great Leap Forward\" turned out."
+	},
+	{
+		"created_at": "Sun Oct 13 22:29:33 +0000 2019",
+		"id": 1183425339428499500,
+		"id_str": "1183510111240634368",
+		"full_text": "You see: \nAngelenos enjoying another beautiful SoCal day. \n\nWe see: \nAngelenos enjoying another beautiful SoCal day. https://t.co/gsI0w0CdiT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1183425329626353700,
+					"id_str": "1183425329626353664",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EGxfETaUEAA33gp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGxfETaUEAA33gp.jpg",
+					"url": "https://t.co/gsI0w0CdiT",
+					"display_url": "pic.twitter.com/gsI0w0CdiT",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1183425339428499456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183425329626353700,
+					"id_str": "1183425329626353664",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EGxfETaUEAA33gp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGxfETaUEAA33gp.jpg",
+					"url": "https://t.co/gsI0w0CdiT",
+					"display_url": "pic.twitter.com/gsI0w0CdiT",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1183425339428499456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1183425329613791200,
+					"id_str": "1183425329613791232",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EGxfETXUYAAegZ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGxfETXUYAAegZ2.jpg",
+					"url": "https://t.co/gsI0w0CdiT",
+					"display_url": "pic.twitter.com/gsI0w0CdiT",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1183425339428499456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1183425329626353700,
+					"id_str": "1183425329626353666",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EGxfETaUEAI5gxp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGxfETaUEAI5gxp.jpg",
+					"url": "https://t.co/gsI0w0CdiT",
+					"display_url": "pic.twitter.com/gsI0w0CdiT",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1183425339428499456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1183425329618018300,
+					"id_str": "1183425329618018306",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EGxfETYU4AID8x3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGxfETYU4AID8x3.jpg",
+					"url": "https://t.co/gsI0w0CdiT",
+					"display_url": "pic.twitter.com/gsI0w0CdiT",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1183425339428499456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115705583,
+			"id_str": "115705583",
+			"name": "LAPD HQ",
+			"screen_name": "LAPDHQ",
+			"location": "Los Angeles, CA",
+			"description": "Official account of the LAPD. Not monitored 24/7. Call 911 for emergencies. Facebook-Instagram-SnapChat-TikTok: LAPDHQ. — Chief of Police: @LAPDChiefMoore",
+			"url": "https://t.co/rRqJpJ9HAP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rRqJpJ9HAP",
+							"expanded_url": "http://www.lapdonline.org/",
+							"display_url": "lapdonline.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151751,
+			"friends_count": 372,
+			"listed_count": 1700,
+			"created_at": "Fri Feb 19 16:34:43 +0000 2010",
+			"favourites_count": 9860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03053D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017942513737273344/YEsPRCof_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017942513737273344/YEsPRCof_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115705583/1553827504",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 166,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You see: \nAngelenos enjoying another beautiful SoCal day. \n\nWe see: \nAngelenos enjoying another beautiful SoCal day. https://t.co/gsI0w0CdiT"
+	},
+	{
+		"created_at": "Sun Oct 13 22:28:19 +0000 2019",
+		"id": 1183490703206338600,
+		"id_str": "1183509798198755334",
+		"full_text": "BRUSH FIRES 10/13/19 @LACoFireAirOps Firehawk helicopters assisted @LACoFD @Angeles_NF with knocking down near-simultaneous wildfires in Santa Clarita and Palmdale. #ShadowFire #AqueductFire (🎥KevinDuhe) @CHP_Newhall @SCVSHERIFF @PalmdaleSheriff https://t.co/8qegm2L4BG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShadowFire",
+					"indices": [
+						165,
+						176
+					]
+				},
+				{
+					"text": "AqueductFire",
+					"indices": [
+						177,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACoFireAirOps",
+					"name": "LACoFireAirOps",
+					"id": 974991379,
+					"id_str": "974991379",
+					"indices": [
+						21,
+						36
+					]
+				},
+				{
+					"screen_name": "LACOFD",
+					"name": "LACoFD",
+					"id": 308751479,
+					"id_str": "308751479",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"screen_name": "Angeles_NF",
+					"name": "Angeles_NF",
+					"id": 606625312,
+					"id_str": "606625312",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"screen_name": "CHP_Newhall",
+					"name": "CHP Newhall",
+					"id": 3374209992,
+					"id_str": "3374209992",
+					"indices": [
+						204,
+						216
+					]
+				},
+				{
+					"screen_name": "SCVSHERIFF",
+					"name": "SCV Sheriff",
+					"id": 26874043,
+					"id_str": "26874043",
+					"indices": [
+						217,
+						228
+					]
+				},
+				{
+					"screen_name": "PalmdaleSheriff",
+					"name": "LASD Palmdale Stn.",
+					"id": 34724038,
+					"id_str": "34724038",
+					"indices": [
+						229,
+						245
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1183490611615170600,
+					"id_str": "1183490611615170561",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183490611615170561/pu/img/9sHRteN754YqwlE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183490611615170561/pu/img/9sHRteN754YqwlE-.jpg",
+					"url": "https://t.co/8qegm2L4BG",
+					"display_url": "pic.twitter.com/8qegm2L4BG",
+					"expanded_url": "https://twitter.com/LACoFireAirOps/status/1183490703206338562/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183490611615170600,
+					"id_str": "1183490611615170561",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183490611615170561/pu/img/9sHRteN754YqwlE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183490611615170561/pu/img/9sHRteN754YqwlE-.jpg",
+					"url": "https://t.co/8qegm2L4BG",
+					"display_url": "pic.twitter.com/8qegm2L4BG",
+					"expanded_url": "https://twitter.com/LACoFireAirOps/status/1183490703206338562/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 7367,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183490611615170561/pu/vid/1272x720/77oDeeO74CUPo5bU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1183490611615170561/pu/pl/uifeE69ZjCX6zGXm.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183490611615170561/pu/vid/476x270/7vRCo4DmivpzgALl.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1183490611615170561/pu/vid/636x360/ZEQDnTGsVp7fqBHw.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 974991379,
+			"id_str": "974991379",
+			"name": "LACoFireAirOps",
+			"screen_name": "LACoFireAirOps",
+			"location": "Los Angeles County, California",
+			"description": "*Official* Los Angeles County Fire Department Air Operations Section, 24hr Fire, Rescue, Emergency Medical service. Not monitored 24/7. In emergency, dial 911.",
+			"url": "https://t.co/3AGfBXJfJZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3AGfBXJfJZ",
+							"expanded_url": "http://www.fire.lacounty.gov",
+							"display_url": "fire.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38294,
+			"friends_count": 407,
+			"listed_count": 607,
+			"created_at": "Tue Nov 27 23:50:58 +0000 2012",
+			"favourites_count": 28282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/549415941969162241/-xBaNdS2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/549415941969162241/-xBaNdS2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/974991379/1435367122",
+			"profile_link_color": "1717D4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BRUSH FIRES 10/13/19 @LACoFireAirOps Firehawk helicopters assisted @LACoFD @Angeles_NF with knocking down near-simultaneous wildfires in Santa Clarita and Palmdale. #ShadowFire #AqueductFire (🎥KevinDuhe) @CHP_Newhall @SCVSHERIFF @PalmdaleSheriff https://t.co/8qegm2L4BG"
+	},
+	{
+		"created_at": "Sun Oct 13 22:24:46 +0000 2019",
+		"id": 1183508904681980000,
+		"id_str": "1183508904681979904",
+		"full_text": "@ScttThmpsn It's great.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScttThmpsn",
+					"name": "Scott Thompson",
+					"id": 241428312,
+					"id_str": "241428312",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1183409202104012800,
+		"in_reply_to_status_id_str": "1183409202104012800",
+		"in_reply_to_user_id": 241428312,
+		"in_reply_to_user_id_str": "241428312",
+		"in_reply_to_screen_name": "ScttThmpsn",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11043,
+			"friends_count": 1794,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ScttThmpsn It's great."
+	},
+	{
+		"created_at": "Sun Oct 13 22:23:01 +0000 2019",
+		"id": 1183506567913713700,
+		"id_str": "1183508465152450560",
+		"full_text": "The son of the Texas sheriff who last week railed against undocumented immigrants from a White House podium, saying many are “ drunks (who) will run over your children, and they will run over my children,” has been arrested for public intoxication and indecent exposure. https://t.co/PaJEGJSGEl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PaJEGJSGEl",
+					"expanded_url": "https://twitter.com/mariedennise/status/1183500515625316354",
+					"display_url": "twitter.com/mariedennise/s…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15098932,
+			"id_str": "15098932",
+			"name": "lomikriel",
+			"screen_name": "lomikriel",
+			"location": "SA-ATX-NY-GT-PTY-HOU",
+			"description": "Immigration @houstonchron | Ex @reuters CentAm/MX @expressnews @columbiajourn | AfriTexan ❤️ 🇿🇦 grown https://t.co/YCriLLTv5b | lomi.kriel@chron.com",
+			"url": "https://t.co/2xvHS0eViM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2xvHS0eViM",
+							"expanded_url": "https://www.houstonchronicle.com/author/lomi-kriel/",
+							"display_url": "houstonchronicle.com/author/lomi-kr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YCriLLTv5b",
+							"expanded_url": "https://tinyurl.com/y8pvclu2",
+							"display_url": "tinyurl.com/y8pvclu2",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9660,
+			"friends_count": 5819,
+			"listed_count": 321,
+			"created_at": "Thu Jun 12 17:40:52 +0000 2008",
+			"favourites_count": 8673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/767899046258192384/ujS325dj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/767899046258192384/ujS325dj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15098932/1536981445",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183500515625316400,
+		"quoted_status_id_str": "1183500515625316354",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PaJEGJSGEl",
+			"expanded": "https://twitter.com/mariedennise/status/1183500515625316354",
+			"display": "twitter.com/mariedennise/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 13 21:51:25 +0000 2019",
+			"id": 1183500515625316400,
+			"id_str": "1183500515625316354",
+			"full_text": "Tarrant County sheriff’s son arrested on indecent exposure https://t.co/czxBKQSzpt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/czxBKQSzpt",
+						"expanded_url": "https://www.dallasnews.com/news/2019/10/12/tarrant-county-sheriffs-son-arrested-on-indecent-exposure-charge/",
+						"display_url": "dallasnews.com/news/2019/10/1…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15806058,
+				"id_str": "15806058",
+				"name": "Marie D. De Jesús",
+				"screen_name": "MarieDennise",
+				"location": "Houston, TX",
+				"description": "Photojournalist 📸 | Houston Chronicle 📰 | National Secretary of @NPPA 🖋 | Caribeña 🇵🇷 | 100% bilingüe | @IWMF fellow",
+				"url": "https://t.co/3HeAxOvqHs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3HeAxOvqHs",
+								"expanded_url": "http://mariedejesus.com",
+								"display_url": "mariedejesus.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2335,
+				"friends_count": 2622,
+				"listed_count": 121,
+				"created_at": "Mon Aug 11 07:28:48 +0000 2008",
+				"favourites_count": 1411,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8146,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "525252",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/922510668397297664/YYbvQIRW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/922510668397297664/YYbvQIRW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15806058/1484591845",
+				"profile_link_color": "A6A6A6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 246,
+		"favorite_count": 420,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The son of the Texas sheriff who last week railed against undocumented immigrants from a White House podium, saying many are “ drunks (who) will run over your children, and they will run over my children,” has been arrested for public intoxication and indecent exposure. https://t.co/PaJEGJSGEl"
+	},
+	{
 		"created_at": "Sun Oct 13 15:57:00 +0000 2019",
 		"id": 1183411320688758800,
 		"id_str": "1183411320688758784",
