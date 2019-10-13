@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 13 05:32:54 +0000 2019",
+		"id": 1183167599946825700,
+		"id_str": "1183254263184547844",
+		"full_text": ".@russ1mitchell is a discerning, critical, and fair reporter. That a billionaire is trying to intimidate him by going to the guy who signs his checks should show how important his reporting is.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "russ1mitchell",
+					"name": "Russ Mitchell",
+					"id": 2471516070,
+					"id_str": "2471516070",
+					"indices": [
+						1,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1183167089827291100,
+		"in_reply_to_status_id_str": "1183167089827291138",
+		"in_reply_to_user_id": 47191293,
+		"in_reply_to_user_id_str": "47191293",
+		"in_reply_to_screen_name": "RMac18",
+		"user": {
+			"id": 47191293,
+			"id_str": "47191293",
+			"name": "Ryan Mac 🙃",
+			"screen_name": "RMac18",
+			"location": "If you were there, beware",
+			"description": "senior tech reporter @BuzzFeedNews. ryan.mac@buzzfeed.com. DMs open. On Signal--ask for my number.",
+			"url": "https://t.co/igtuNLyoTA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/igtuNLyoTA",
+							"expanded_url": "https://www.buzzfeednews.com/article/ryanmac",
+							"display_url": "buzzfeednews.com/article/ryanmac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36011,
+			"friends_count": 3434,
+			"listed_count": 1050,
+			"created_at": "Sun Jun 14 22:21:58 +0000 2009",
+			"favourites_count": 24615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152335398825103362/nheyAIt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152335398825103362/nheyAIt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47191293/1567143936",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 558,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": ".@russ1mitchell is a discerning, critical, and fair reporter. That a billionaire is trying to intimidate him by going to the guy who signs his checks should show how important his reporting is."
+	},
+	{
 		"created_at": "Sun Oct 13 02:13:54 +0000 2019",
 		"id": 1183204180812423200,
 		"id_str": "1183204180812423168",
