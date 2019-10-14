@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 16:57:31 +0000 2019",
+		"id": 1183788939070578700,
+		"id_str": "1183788939070578688",
+		"full_text": "@Davidlaz @AlanZibel Badge of honor, my friend.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Davidlaz",
+					"name": "David Lazarus",
+					"id": 21328006,
+					"id_str": "21328006",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AlanZibel",
+					"name": "Alan Zibel",
+					"id": 37721930,
+					"id_str": "37721930",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1183788609255571500,
+		"in_reply_to_status_id_str": "1183788609255571458",
+		"in_reply_to_user_id": 21328006,
+		"in_reply_to_user_id_str": "21328006",
+		"in_reply_to_screen_name": "Davidlaz",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11048,
+			"friends_count": 1794,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0654b676d0359a31",
+			"url": "https://api.twitter.com/1.1/geo/id/0654b676d0359a31.json",
+			"place_type": "city",
+			"name": "El Segundo",
+			"full_name": "El Segundo, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.429843,
+							33.901804
+						],
+						[
+							-118.370685,
+							33.901804
+						],
+						[
+							-118.370685,
+							33.931493
+						],
+						[
+							-118.429843,
+							33.931493
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Davidlaz @AlanZibel Badge of honor, my friend."
+	},
+	{
+		"created_at": "Mon Oct 14 16:54:41 +0000 2019",
+		"id": 1183788227615834000,
+		"id_str": "1183788227615834112",
+		"full_text": "I will die on this hill with you. \n\nAlso: Everyone should try (kitchen dedicated) scissors at the dinner table. Vastly superior to knives in many cases (ie cutting noodles for kids, kimchi into bite-sized pieces, etc.). https://t.co/34ZjAchjGU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34ZjAchjGU",
+					"expanded_url": "https://twitter.com/ranimolla/status/996769749668417536",
+					"display_url": "twitter.com/ranimolla/stat…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11048,
+			"friends_count": 1794,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 996769749668417500,
+		"quoted_status_id_str": "996769749668417536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/34ZjAchjGU",
+			"expanded": "https://twitter.com/ranimolla/status/996769749668417536",
+			"display": "twitter.com/ranimolla/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 16 15:10:02 +0000 2018",
+			"id": 996769749668417500,
+			"id_str": "996769749668417536",
+			"full_text": "Chopsticks are superior utensils and are vastly underused outside of East Asian cuisine",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 995813169321955300,
+			"in_reply_to_status_id_str": "995813169321955335",
+			"in_reply_to_user_id": 17904829,
+			"in_reply_to_user_id_str": "17904829",
+			"in_reply_to_screen_name": "ranimolla",
+			"user": {
+				"id": 17904829,
+				"id_str": "17904829",
+				"name": "Rani Molla",
+				"screen_name": "ranimolla",
+				"location": "Brooklyn ",
+				"description": "Data Editor @Recode / @voxdotcom making information visual. @Bfly / @business @WSJ @Gigaom @Columbiajourn alumna. Generalist.",
+				"url": "https://t.co/9xgzjTmchh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9xgzjTmchh",
+								"expanded_url": "https://www.recode.net/authors/rani-molla",
+								"display_url": "recode.net/authors/rani-m…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19396,
+				"friends_count": 1383,
+				"listed_count": 678,
+				"created_at": "Fri Dec 05 19:04:20 +0000 2008",
+				"favourites_count": 30832,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39817,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839126093667803137/UgcPduaw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839126093667803137/UgcPduaw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17904829/1467771090",
+				"profile_link_color": "E8091C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 94,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I will die on this hill with you. \n\nAlso: Everyone should try (kitchen dedicated) scissors at the dinner table. Vastly superior to knives in many cases (ie cutting noodles for kids, kimchi into bite-sized pieces, etc.). https://t.co/34ZjAchjGU"
+	},
+	{
+		"created_at": "Mon Oct 14 16:48:48 +0000 2019",
+		"id": 1183786745613058000,
+		"id_str": "1183786745613058049",
+		"full_text": "@AlanZibel @Davidlaz You're right, it's pretty jarring. I think that's the point of the bot: to remind us that tweets are, in effect, statements from the White House.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlanZibel",
+					"name": "Alan Zibel",
+					"id": 37721930,
+					"id_str": "37721930",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Davidlaz",
+					"name": "David Lazarus",
+					"id": 21328006,
+					"id_str": "21328006",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1183785708907122700,
+		"in_reply_to_status_id_str": "1183785708907122689",
+		"in_reply_to_user_id": 37721930,
+		"in_reply_to_user_id_str": "37721930",
+		"in_reply_to_screen_name": "AlanZibel",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11048,
+			"friends_count": 1794,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlanZibel @Davidlaz You're right, it's pretty jarring. I think that's the point of the bot: to remind us that tweets are, in effect, statements from the White House."
+	},
+	{
 		"created_at": "Mon Oct 14 13:35:54 +0000 2019",
 		"id": 1183738198792343600,
 		"id_str": "1183738198792343552",
