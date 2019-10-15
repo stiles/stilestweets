@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 22:13:01 +0000 2019",
+		"id": 1184230727258271700,
+		"id_str": "1184230727258271745",
+		"full_text": "@joemfox @rdmurphy 7 &amp; 8 are close, just simplified. You can ship it.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joemfox",
+					"name": "☕🦊",
+					"id": 14816237,
+					"id_str": "14816237",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "rdmurphy",
+					"name": "Ryan Murphy",
+					"id": 20031243,
+					"id_str": "20031243",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184229828146401300,
+		"in_reply_to_status_id_str": "1184229828146401281",
+		"in_reply_to_user_id": 14816237,
+		"in_reply_to_user_id_str": "14816237",
+		"in_reply_to_screen_name": "joemfox",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11047,
+			"friends_count": 1795,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@joemfox @rdmurphy 7 &amp; 8 are close, just simplified. You can ship it."
+	},
+	{
+		"created_at": "Tue Oct 15 22:02:39 +0000 2019",
+		"id": 1184228118426345500,
+		"id_str": "1184228118426345473",
+		"full_text": "@rdmurphy @joemfox Wards? https://t.co/a2Gn9qz4Kz",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rdmurphy",
+					"name": "Ryan Murphy",
+					"id": 20031243,
+					"id_str": "20031243",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "joemfox",
+					"name": "☕🦊",
+					"id": 14816237,
+					"id_str": "14816237",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1184228112373993500,
+					"id_str": "1184228112373993474",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EG85MaMVUAImrYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EG85MaMVUAImrYK.jpg",
+					"url": "https://t.co/a2Gn9qz4Kz",
+					"display_url": "pic.twitter.com/a2Gn9qz4Kz",
+					"expanded_url": "https://twitter.com/stiles/status/1184228118426345473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 260,
+							"h": 260,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 260,
+							"h": 260,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 260,
+							"h": 260,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184228112373993500,
+					"id_str": "1184228112373993474",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EG85MaMVUAImrYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EG85MaMVUAImrYK.jpg",
+					"url": "https://t.co/a2Gn9qz4Kz",
+					"display_url": "pic.twitter.com/a2Gn9qz4Kz",
+					"expanded_url": "https://twitter.com/stiles/status/1184228118426345473/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 260,
+							"h": 260,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 260,
+							"h": 260,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 260,
+							"h": 260,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EG85MaMVUAImrYK.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184218499406684200,
+		"in_reply_to_status_id_str": "1184218499406684160",
+		"in_reply_to_user_id": 20031243,
+		"in_reply_to_user_id_str": "20031243",
+		"in_reply_to_screen_name": "rdmurphy",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11047,
+			"friends_count": 1795,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rdmurphy @joemfox Wards? https://t.co/a2Gn9qz4Kz"
+	},
+	{
 		"created_at": "Tue Oct 15 21:07:02 +0000 2019",
 		"id": 1184214120918220800,
 		"id_str": "1184214120918220800",
