@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 20:08:27 +0000 2019",
+		"id": 1184195209896181800,
+		"id_str": "1184199375163023360",
+		"full_text": "Some personal news: After 31 challenging and fulfilling years, I’ve decided to retire from #LACounty service early next year. It has been an honor and a privilege to serve our wonderful county and its residents. https://t.co/MRo9t5WLrL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LACounty",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MRo9t5WLrL",
+					"expanded_url": "https://www.lacounty.gov/newsroom/la-county-ceo-sachi-hamai-retire/",
+					"display_url": "lacounty.gov/newsroom/la-co…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236576462,
+			"id_str": "236576462",
+			"name": "LA County CEO",
+			"screen_name": "LACountyCEO",
+			"location": "Los Angeles County",
+			"description": "Official Twitter of @CountyofLA Chief Executive Officer Sachi Hamai w/oversight of the $36.1B @CountyofLA budget to improve lives #PublicService #SocialImpact",
+			"url": "https://t.co/11nXXyInRF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/11nXXyInRF",
+							"expanded_url": "http://ceo.lacounty.gov",
+							"display_url": "ceo.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4697,
+			"friends_count": 667,
+			"listed_count": 142,
+			"created_at": "Mon Jan 10 22:29:06 +0000 2011",
+			"favourites_count": 304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725005013592891392/-ULQrV0V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725005013592891392/-ULQrV0V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236576462/1461690058",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some personal news: After 31 challenging and fulfilling years, I’ve decided to retire from #LACounty service early next year. It has been an honor and a privilege to serve our wonderful county and its residents. https://t.co/MRo9t5WLrL"
+	},
+	{
+		"created_at": "Tue Oct 15 19:59:40 +0000 2019",
+		"id": 1184197165750440000,
+		"id_str": "1184197165750439937",
+		"full_text": "Sachi Hamai, the first Asian American woman to serve as L.A. County government's chief executive, announces retirement https://t.co/MPXI9ePNUa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MPXI9ePNUa",
+					"expanded_url": "https://www.latimes.com/california/story/2019-10-15/sachi-hamai-county-chief-executive-officer-retire",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11046,
+			"friends_count": 1795,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sachi Hamai, the first Asian American woman to serve as L.A. County government's chief executive, announces retirement https://t.co/MPXI9ePNUa"
+	},
+	{
+		"created_at": "Tue Oct 15 19:48:11 +0000 2019",
+		"id": 1184061804772823000,
+		"id_str": "1184194275581366272",
+		"full_text": "Welcome... to #FECFilingDay!\n\nToday we'll see Q3 reports from presidential/House/Senate campaigns, plus many PACs. Find them at FEC Itemizer:\n\nhttps://t.co/g87v6hv5C4 https://t.co/93n5oDVP59",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FECFilingDay",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g87v6hv5C4",
+					"expanded_url": "https://projects.propublica.org/itemizer/",
+					"display_url": "projects.propublica.org/itemizer/",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1184061800263884800,
+					"id_str": "1184061800263884800",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EG6h7xTWoAA9Y3k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG6h7xTWoAA9Y3k.jpg",
+					"url": "https://t.co/93n5oDVP59",
+					"display_url": "pic.twitter.com/93n5oDVP59",
+					"expanded_url": "https://twitter.com/derekwillis/status/1184061804772823042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 529,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1441,
+							"h": 635,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184061800263884800,
+					"id_str": "1184061800263884800",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EG6h7xTWoAA9Y3k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG6h7xTWoAA9Y3k.jpg",
+					"url": "https://t.co/93n5oDVP59",
+					"display_url": "pic.twitter.com/93n5oDVP59",
+					"expanded_url": "https://twitter.com/derekwillis/status/1184061804772823042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 529,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1441,
+							"h": 635,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14517538,
+			"id_str": "14517538",
+			"name": "Derek Willis",
+			"screen_name": "derekwillis",
+			"location": "Kensington Oval, ideally",
+			"description": "Journalist with coding habit at @propublica. Hobby: @openelex. Cricket, @PP_Represent & campaign finance. Talk to me: DM for Signal/ derek.willis@propublica.org",
+			"url": "https://t.co/xizhjsd6Vd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xizhjsd6Vd",
+							"expanded_url": "http://thescoop.org",
+							"display_url": "thescoop.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22484,
+			"friends_count": 1221,
+			"listed_count": 1420,
+			"created_at": "Thu Apr 24 20:48:23 +0000 2008",
+			"favourites_count": 21601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 94710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9BACE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061425559945822214/ns-bDp0l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061425559945822214/ns-bDp0l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14517538/1467483088",
+			"profile_link_color": "0016FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome... to #FECFilingDay!\n\nToday we'll see Q3 reports from presidential/House/Senate campaigns, plus many PACs. Find them at FEC Itemizer:\n\nhttps://t.co/g87v6hv5C4 https://t.co/93n5oDVP59"
+	},
+	{
 		"created_at": "Tue Oct 15 03:18:44 +0000 2019",
 		"id": 1183910415673131000,
 		"id_str": "1183945275045380096",
