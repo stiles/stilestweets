@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 03:18:44 +0000 2019",
+		"id": 1183910415673131000,
+		"id_str": "1183945275045380096",
+		"full_text": "Tomorrow is the big day!!!!!\nOff Menu with @lucaspeterson drops on the brand new @latimesfood YouTube channel.\nIt’s our first real, full experiment with original programming on YT and we hope you love it. https://t.co/d7QVgWygEu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucaspeterson",
+					"name": "Lucas Kwan Peterson",
+					"id": 47717100,
+					"id_str": "47717100",
+					"indices": [
+						43,
+						57
+					]
+				},
+				{
+					"screen_name": "latimesfood",
+					"name": "L.A. Times Food",
+					"id": 17796018,
+					"id_str": "17796018",
+					"indices": [
+						81,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d7QVgWygEu",
+					"expanded_url": "https://twitter.com/latimes/status/1183852477445095424",
+					"display_url": "twitter.com/latimes/status…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68556549,
+			"id_str": "68556549",
+			"name": "Samantha Melbourneweaver",
+			"screen_name": "SamanthaMVB",
+			"location": "Highland Park, CA",
+			"description": "Audience Engagement Director at @latimes. Previously @socalnewsgroup and @azcentral. @Cronkite_ASU alum.",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2342,
+			"friends_count": 2429,
+			"listed_count": 96,
+			"created_at": "Tue Aug 25 00:26:03 +0000 2009",
+			"favourites_count": 1039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063972074606092288/-6dPY7XB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063972074606092288/-6dPY7XB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68556549/1420212339",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183852477445095400,
+		"quoted_status_id_str": "1183852477445095424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d7QVgWygEu",
+			"expanded": "https://twitter.com/latimes/status/1183852477445095424",
+			"display": "twitter.com/latimes/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 14 21:10:00 +0000 2019",
+			"id": 1183852477445095400,
+			"id_str": "1183852477445095424",
+			"full_text": "Our new @latimesfood show, \"Off Menu,\" launches tomorrow. Subscribe to the new Food YouTube channel to catch the premiere: https://t.co/NmVSGhz7Bg https://t.co/1TpQG0ncaV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "latimesfood",
+						"name": "L.A. Times Food",
+						"id": 17796018,
+						"id_str": "17796018",
+						"indices": [
+							8,
+							20
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NmVSGhz7Bg",
+						"expanded_url": "http://youtube.com/latimesfood",
+						"display_url": "youtube.com/latimesfood",
+						"indices": [
+							123,
+							146
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1178782779145953300,
+						"id_str": "1178782779145953281",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/EFvg7w6XYAAq7kx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFvg7w6XYAAq7kx.jpg",
+						"url": "https://t.co/1TpQG0ncaV",
+						"display_url": "pic.twitter.com/1TpQG0ncaV",
+						"expanded_url": "https://twitter.com/latimes/status/1183852477445095424/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 17796018,
+						"source_user_id_str": "17796018"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1178782779145953300,
+						"id_str": "1178782779145953281",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/EFvg7w6XYAAq7kx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFvg7w6XYAAq7kx.jpg",
+						"url": "https://t.co/1TpQG0ncaV",
+						"display_url": "pic.twitter.com/1TpQG0ncaV",
+						"expanded_url": "https://twitter.com/latimes/status/1183852477445095424/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 17796018,
+						"source_user_id_str": "17796018",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 83959,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1178782779145953281/vid/640x360/20X4z8ouz_OTlXZB.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1178782779145953281/vid/1280x720/BbcRNnxWMJ6jc9TG.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1178782779145953281/pl/vl7HT05jdWZZwQxS.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1178782779145953281/vid/480x270/4GI4nDhsq74-OfHq.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Off Menu Official Trailer",
+							"description": "Follow Lucas Kwan Peterson in his new series as he guides you through L.A.'s neighborhoods, all through the lens of food.",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.youtube.com/channel/UCnDaAs5_3WXEY_GF3MJ6lyA"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 17796018,
+								"id_str": "17796018",
+								"name": "L.A. Times Food",
+								"screen_name": "latimesfood",
+								"location": "Los Angeles, CA",
+								"description": "We're launching a new video series with columnist @lucaspeterson! Subscribe to our new YouTube channel to watch the premiere of \"Off Menu\" on October 15th!",
+								"url": "https://t.co/TAc7QhHS7q",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/TAc7QhHS7q",
+												"expanded_url": "http://youtube.com/latimesfood",
+												"display_url": "youtube.com/latimesfood",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 566070,
+								"friends_count": 12222,
+								"listed_count": 7012,
+								"created_at": "Tue Dec 02 01:50:25 +0000 2008",
+								"favourites_count": 4175,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 32871,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "FFFFFF",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1043219223454146560/Yj6PqSou_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043219223454146560/Yj6PqSou_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/17796018/1554989873",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "FFFFFF",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16664681,
+				"id_str": "16664681",
+				"name": "Los Angeles Times",
+				"screen_name": "latimes",
+				"location": "El Segundo, CA",
+				"description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/4UQaQvNbCp",
+				"url": "https://t.co/eTksmynSH7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eTksmynSH7",
+								"expanded_url": "http://latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4UQaQvNbCp",
+								"expanded_url": "http://checkout2.latimes.com",
+								"display_url": "checkout2.latimes.com",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3445781,
+				"friends_count": 6921,
+				"listed_count": 32116,
+				"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+				"favourites_count": 2412,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 246201,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "615F61",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow is the big day!!!!!\nOff Menu with @lucaspeterson drops on the brand new @latimesfood YouTube channel.\nIt’s our first real, full experiment with original programming on YT and we hope you love it. https://t.co/d7QVgWygEu"
+	},
+	{
 		"created_at": "Tue Oct 15 02:10:47 +0000 2019",
 		"id": 1183869834829820000,
 		"id_str": "1183928174842806272",
@@ -49,7 +524,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Anthony Pesce 🦅",
 			"screen_name": "anthonyjpesce",
 			"location": "Los Angeles",
-			"description": "Data Journalist @latimes & @latdatadesk, co-chair of @latguild, he/him 🏳️‍🌈. Public key: https://t.co/pO61farAsH",
+			"description": "Data Journalist @latimes & @latdatadesk, co-chair of @latguild, he/him 🏳️🌈. Public key: https://t.co/pO61farAsH",
 			"url": "https://t.co/zcMKx1eqZx",
 			"entities": {
 				"url": {
