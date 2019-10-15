@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 23:10:02 +0000 2019",
+		"id": 1184245072935575600,
+		"id_str": "1184245072935575552",
+		"full_text": "Important scoop by @rebeccaballhaus... https://t.co/MNR0IdwrLv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rebeccaballhaus",
+					"name": "Rebecca Ballhaus",
+					"id": 705706292,
+					"id_str": "705706292",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MNR0IdwrLv",
+					"expanded_url": "https://twitter.com/JamesVGrimaldi/status/1184230917105246213",
+					"display_url": "twitter.com/JamesVGrimaldi…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11047,
+			"friends_count": 1795,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184230917105246200,
+		"quoted_status_id_str": "1184230917105246213",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MNR0IdwrLv",
+			"expanded": "https://twitter.com/JamesVGrimaldi/status/1184230917105246213",
+			"display": "twitter.com/JamesVGrimaldi…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 15 22:13:47 +0000 2019",
+			"id": 1184230917105246200,
+			"id_str": "1184230917105246213",
+			"full_text": "Grand jury subpoenas are out in Giuliani criminal probe. One went to ex-Rep. Pete Sessions, who is cooperating with prosecutors https://t.co/jA60m6KY2M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jA60m6KY2M",
+						"expanded_url": "https://www.wsj.com/articles/ex-rep-sessions-subpoenaed-over-interactions-with-giuliani-giuliani-associates-11571176908",
+						"display_url": "wsj.com/articles/ex-re…",
+						"indices": [
+							128,
+							151
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17178161,
+				"id_str": "17178161",
+				"name": "JamesVGrimaldi",
+				"screen_name": "JamesVGrimaldi",
+				"location": "Washington, DC",
+				"description": "James Grimaldi is a Pulitzer-winning journalist from Kansas City, Mo., living in Washington D.C., working for The Wall Street Journal.",
+				"url": "https://t.co/gwH5kQwZyG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gwH5kQwZyG",
+								"expanded_url": "https://www.wsj.com/news/author/8279",
+								"display_url": "wsj.com/news/author/82…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7437,
+				"friends_count": 1467,
+				"listed_count": 318,
+				"created_at": "Wed Nov 05 02:47:26 +0000 2008",
+				"favourites_count": 2003,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11589,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1370099682/JVG_MG_9852_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370099682/JVG_MG_9852_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17178161/1528318381",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Important scoop by @rebeccaballhaus... https://t.co/MNR0IdwrLv"
+	},
+	{
 		"created_at": "Tue Oct 15 22:13:01 +0000 2019",
 		"id": 1184230727258271700,
 		"id_str": "1184230727258271745",
