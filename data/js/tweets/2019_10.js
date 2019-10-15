@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 02:10:47 +0000 2019",
+		"id": 1183869834829820000,
+		"id_str": "1183928174842806272",
+		"full_text": "Latest with @annamphillips -- nearly 300 drinking water wells are contaminated with toxic chemicals linked to cancer. Find out where: https://t.co/LOOiqoTgxY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annamphillips",
+					"name": "Anna Phillips",
+					"id": 167088540,
+					"id_str": "167088540",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LOOiqoTgxY",
+					"expanded_url": "https://www.latimes.com/projects/california-water-pfas-wells-contamination-map/",
+					"display_url": "latimes.com/projects/calif…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16973143,
+			"id_str": "16973143",
+			"name": "Anthony Pesce 🦅",
+			"screen_name": "anthonyjpesce",
+			"location": "Los Angeles",
+			"description": "Data Journalist @latimes & @latdatadesk, co-chair of @latguild, he/him 🏳️‍🌈. Public key: https://t.co/pO61farAsH",
+			"url": "https://t.co/zcMKx1eqZx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zcMKx1eqZx",
+							"expanded_url": "http://anthonypesce.com",
+							"display_url": "anthonypesce.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pO61farAsH",
+							"expanded_url": "https://s3-us-west-2.amazonaws.com/anthonyjpesce.pgp/public_key.txt",
+							"display_url": "s3-us-west-2.amazonaws.com/anthonyjpesce.…",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1954,
+			"friends_count": 1154,
+			"listed_count": 126,
+			"created_at": "Sat Oct 25 23:41:04 +0000 2008",
+			"favourites_count": 1168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171481207650934785/RQ25wiO__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171481207650934785/RQ25wiO__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16973143/1399666545",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Latest with @annamphillips -- nearly 300 drinking water wells are contaminated with toxic chemicals linked to cancer. Find out where: https://t.co/LOOiqoTgxY"
+	},
+	{
 		"created_at": "Mon Oct 14 16:57:31 +0000 2019",
 		"id": 1183788939070578700,
 		"id_str": "1183788939070578688",
