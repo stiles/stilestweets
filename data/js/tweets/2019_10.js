@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 21:07:02 +0000 2019",
+		"id": 1184214120918220800,
+		"id_str": "1184214120918220800",
+		"full_text": "Members of the Board of Supervisors are starting to react to the news about @LACountyCEO. @SupJaniceHahn just released a statement praising her: https://t.co/JhrdC8LDdg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyCEO",
+					"name": "LA County CEO",
+					"id": 236576462,
+					"id_str": "236576462",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1184213984313892900,
+					"id_str": "1184213984313892864",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EG8sWDEUYAAqg-5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG8sWDEUYAAqg-5.jpg",
+					"url": "https://t.co/JhrdC8LDdg",
+					"display_url": "pic.twitter.com/JhrdC8LDdg",
+					"expanded_url": "https://twitter.com/stiles/status/1184214120918220800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 994,
+							"h": 296,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 994,
+							"h": 296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 202,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184213984313892900,
+					"id_str": "1184213984313892864",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EG8sWDEUYAAqg-5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG8sWDEUYAAqg-5.jpg",
+					"url": "https://t.co/JhrdC8LDdg",
+					"display_url": "pic.twitter.com/JhrdC8LDdg",
+					"expanded_url": "https://twitter.com/stiles/status/1184214120918220800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 994,
+							"h": 296,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 994,
+							"h": 296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 202,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1184197165750440000,
+		"in_reply_to_status_id_str": "1184197165750439937",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11047,
+			"friends_count": 1795,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Members of the Board of Supervisors are starting to react to the news about @LACountyCEO. @SupJaniceHahn just released a statement praising her: https://t.co/JhrdC8LDdg"
+	},
+	{
 		"created_at": "Tue Oct 15 20:08:27 +0000 2019",
 		"id": 1184195209896181800,
 		"id_str": "1184199375163023360",
