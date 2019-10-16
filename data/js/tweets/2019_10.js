@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 16 19:07:53 +0000 2019",
+		"id": 1184546523008258000,
+		"id_str": "1184546523008258048",
+		"full_text": "Another example... https://t.co/jRpjcccsDn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jRpjcccsDn",
+					"expanded_url": "https://twitter.com/AlastairGale/status/1183730139206545410",
+					"display_url": "twitter.com/AlastairGale/s…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11048,
+			"friends_count": 1797,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183730139206545400,
+		"quoted_status_id_str": "1183730139206545410",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jRpjcccsDn",
+			"expanded": "https://twitter.com/AlastairGale/status/1183730139206545410",
+			"display": "twitter.com/AlastairGale/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 14 13:03:52 +0000 2019",
+			"id": 1183730139206545400,
+			"id_str": "1183730139206545410",
+			"full_text": "Japan's Abe falls further behind Kim Jong Un in favorability rating among South Koreans @asaninst https://t.co/45yIJ1Rdg9 https://t.co/Nr53wL3DBY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "asaninst",
+						"name": "The Asan Institute",
+						"id": 211447852,
+						"id_str": "211447852",
+						"indices": [
+							88,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/45yIJ1Rdg9",
+						"expanded_url": "http://en.asaninst.org/?p=49037",
+						"display_url": "en.asaninst.org/?p=49037",
+						"indices": [
+							98,
+							121
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1183728927556042800,
+						"id_str": "1183728927556042753",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/EG1zMB1VAAEVj1y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG1zMB1VAAEVj1y.jpg",
+						"url": "https://t.co/Nr53wL3DBY",
+						"display_url": "pic.twitter.com/Nr53wL3DBY",
+						"expanded_url": "https://twitter.com/AlastairGale/status/1183730139206545410/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1352,
+								"h": 838,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 421,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 744,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1183728927556042800,
+						"id_str": "1183728927556042753",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/EG1zMB1VAAEVj1y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EG1zMB1VAAEVj1y.jpg",
+						"url": "https://t.co/Nr53wL3DBY",
+						"display_url": "pic.twitter.com/Nr53wL3DBY",
+						"expanded_url": "https://twitter.com/AlastairGale/status/1183730139206545410/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1352,
+								"h": 838,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 421,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 744,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 222678761,
+				"id_str": "222678761",
+				"name": "Alastair Gale",
+				"screen_name": "AlastairGale",
+				"location": "Tokyo",
+				"description": "WSJ Japan editor/日本編集委員, WSJ Korea bureau chief 2011-2016. Contact: alastair.gale@wsj.com",
+				"url": "https://t.co/AdBE6E4AH4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AdBE6E4AH4",
+								"expanded_url": "http://on.wsj.com/1Ao8OF8",
+								"display_url": "on.wsj.com/1Ao8OF8",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32284,
+				"friends_count": 1954,
+				"listed_count": 785,
+				"created_at": "Sat Dec 04 03:28:56 +0000 2010",
+				"favourites_count": 3836,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8701,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/978917833684828160/RgslX0YS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/978917833684828160/RgslX0YS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/222678761/1543133299",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another example... https://t.co/jRpjcccsDn"
+	},
+	{
+		"created_at": "Wed Oct 16 19:06:15 +0000 2019",
+		"id": 1184546111870005200,
+		"id_str": "1184546111870005248",
+		"full_text": "I've always had trouble 1) understanding radar graphs &amp; 2) justifying their use over, say, stacked bar chars. But relations between Japan &amp; South Korea have gotten SO bad that this one is useful. Source: Interesting paper by @jjkim091, @snydersas, et al.: https://t.co/OsehCp7YV7 https://t.co/vOyBf5Vjh5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jjkim091",
+					"name": "J. James Kim",
+					"id": 2189425016,
+					"id_str": "2189425016",
+					"indices": [
+						233,
+						242
+					]
+				},
+				{
+					"screen_name": "snydersas",
+					"name": "Scott Snyder",
+					"id": 860275999,
+					"id_str": "860275999",
+					"indices": [
+						244,
+						254
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OsehCp7YV7",
+					"expanded_url": "http://en.asaninst.org/contents/south-korean-caution-and-concern-about-china/",
+					"display_url": "en.asaninst.org/contents/south…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1184546109005258800,
+					"id_str": "1184546109005258752",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/EHBaaP9UYAAsd64.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHBaaP9UYAAsd64.png",
+					"url": "https://t.co/vOyBf5Vjh5",
+					"display_url": "pic.twitter.com/vOyBf5Vjh5",
+					"expanded_url": "https://twitter.com/stiles/status/1184546111870005248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 688,
+							"h": 461,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 688,
+							"h": 461,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184546109005258800,
+					"id_str": "1184546109005258752",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/EHBaaP9UYAAsd64.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHBaaP9UYAAsd64.png",
+					"url": "https://t.co/vOyBf5Vjh5",
+					"display_url": "pic.twitter.com/vOyBf5Vjh5",
+					"expanded_url": "https://twitter.com/stiles/status/1184546111870005248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 688,
+							"h": 461,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 688,
+							"h": 461,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11048,
+			"friends_count": 1797,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've always had trouble 1) understanding radar graphs &amp; 2) justifying their use over, say, stacked bar chars. But relations between Japan &amp; South Korea have gotten SO bad that this one is useful. Source: Interesting paper by @jjkim091, @snydersas, et al.: https://t.co/OsehCp7YV7 https://t.co/vOyBf5Vjh5"
+	},
+	{
 		"created_at": "Tue Oct 15 23:10:02 +0000 2019",
 		"id": 1184245072935575600,
 		"id_str": "1184245072935575552",
