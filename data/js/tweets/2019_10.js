@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 20:31:33 +0000 2019",
+		"id": 1185292354636284000,
+		"id_str": "1185292354636283905",
+		"full_text": "👀 indeed... https://t.co/tmqWjWTVNR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tmqWjWTVNR",
+					"expanded_url": "https://twitter.com/mcpli/status/1185189358787158016",
+					"display_url": "twitter.com/mcpli/status/1…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11050,
+			"friends_count": 1800,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185189358787158000,
+		"quoted_status_id_str": "1185189358787158016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tmqWjWTVNR",
+			"expanded": "https://twitter.com/mcpli/status/1185189358787158016",
+			"display": "twitter.com/mcpli/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 18 13:42:17 +0000 2019",
+			"id": 1185189358787158000,
+			"id_str": "1185189358787158016",
+			"full_text": "The changing demographics of Republicans since 2010 - this is some 👀chart. https://t.co/iifaA5M9ru https://t.co/laiCCHWovE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iifaA5M9ru",
+						"expanded_url": "https://www.wsj.com/articles/trump-leans-on-a-changed-gop-for-support-11571391006?redirect=amp#click=https://t.co/vvJMK06D4P",
+						"display_url": "wsj.com/articles/trump…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1185189355830182000,
+						"id_str": "1185189355830181888",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/EHKjcJHVAAAA9vT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHKjcJHVAAAA9vT.jpg",
+						"url": "https://t.co/laiCCHWovE",
+						"display_url": "pic.twitter.com/laiCCHWovE",
+						"expanded_url": "https://twitter.com/mcpli/status/1185189358787158016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 590,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1296,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1042,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1185189355830182000,
+						"id_str": "1185189355830181888",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/EHKjcJHVAAAA9vT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHKjcJHVAAAA9vT.jpg",
+						"url": "https://t.co/laiCCHWovE",
+						"display_url": "pic.twitter.com/laiCCHWovE",
+						"expanded_url": "https://twitter.com/mcpli/status/1185189358787158016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 590,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1296,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1042,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17152067,
+				"id_str": "17152067",
+				"name": "Michael Li 李之樸",
+				"screen_name": "mcpli",
+				"location": "Brooklyn, NY",
+				"description": "Redistricting & voting counsel at @brennancenter at @NYUlaw. Opinions mine. Usual caveats about retweets. From TX, so lots of tweets about the Lone Star State.",
+				"url": "https://t.co/OixbvmSTIe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OixbvmSTIe",
+								"expanded_url": "http://www.brennancenter.org/expert/michael-li",
+								"display_url": "brennancenter.org/expert/michael…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14215,
+				"friends_count": 2102,
+				"listed_count": 496,
+				"created_at": "Tue Nov 04 09:22:12 +0000 2008",
+				"favourites_count": 918,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44022,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757344014/mail_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757344014/mail_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17152067/1506511536",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 180,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👀 indeed... https://t.co/tmqWjWTVNR"
+	},
+	{
 		"created_at": "Fri Oct 18 18:09:29 +0000 2019",
 		"id": 1185256603328532500,
 		"id_str": "1185256603328532480",
