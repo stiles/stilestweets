@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 23:07:35 +0000 2019",
+		"id": 1185694007113977900,
+		"id_str": "1185694007113977862",
+		"full_text": "For fans of the @UnderpantsCapt children's books, I turned Pippy P. Poopypants' name-change chart (from Vol. 5) into a spreadsheet lesson for my daughter. \n\nType in your initials for a book-themed name. I'm \"Pinky Toiletfanny, for example.\n\nTry it: https://t.co/eu3ycadmdt https://t.co/NzDpCLyFWM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UnderpantsCapt",
+					"name": "Captain Underpants®",
+					"id": 857651493230477300,
+					"id_str": "857651493230477313",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eu3ycadmdt",
+					"expanded_url": "https://docs.google.com/spreadsheets/d/1j94eBezpxqeskTcaFFCl1ysXyehZ4Cxz3MTsiWNBxnU/edit?usp=sharing",
+					"display_url": "docs.google.com/spreadsheets/d…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1185694003393519600,
+					"id_str": "1185694003393519616",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EHRuafyU4AA6N9i.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHRuafyU4AA6N9i.png",
+					"url": "https://t.co/NzDpCLyFWM",
+					"display_url": "pic.twitter.com/NzDpCLyFWM",
+					"expanded_url": "https://twitter.com/stiles/status/1185694007113977862/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 786,
+							"h": 744,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 786,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 644,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185694003393519600,
+					"id_str": "1185694003393519616",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EHRuafyU4AA6N9i.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHRuafyU4AA6N9i.png",
+					"url": "https://t.co/NzDpCLyFWM",
+					"display_url": "pic.twitter.com/NzDpCLyFWM",
+					"expanded_url": "https://twitter.com/stiles/status/1185694007113977862/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 786,
+							"h": 744,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 786,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 644,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11062,
+			"friends_count": 1803,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For fans of the @UnderpantsCapt children's books, I turned Pippy P. Poopypants' name-change chart (from Vol. 5) into a spreadsheet lesson for my daughter. \n\nType in your initials for a book-themed name. I'm \"Pinky Toiletfanny, for example.\n\nTry it: https://t.co/eu3ycadmdt https://t.co/NzDpCLyFWM"
+	},
+	{
 		"created_at": "Sat Oct 19 18:07:45 +0000 2019",
 		"id": 1185618553782722600,
 		"id_str": "1185618553782722560",
