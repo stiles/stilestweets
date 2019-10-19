@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 18:07:45 +0000 2019",
+		"id": 1185618553782722600,
+		"id_str": "1185618553782722560",
+		"full_text": "@amara_media My GIF from your session. Support for impeachment, according to @pewresearch: https://t.co/XXbG68b4eb Source: https://t.co/xL4TvxS3dI #jacc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "jacc",
+					"indices": [
+						147,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amara_media",
+					"name": "Amara Aguilar",
+					"id": 16210113,
+					"id_str": "16210113",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "pewresearch",
+					"name": "Pew Research Center",
+					"id": 22642788,
+					"id_str": "22642788",
+					"indices": [
+						77,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XXbG68b4eb",
+					"expanded_url": "https://datagifmaker.withgoogle.com/gif/ahxzfmd3ZWItbmV3c2xhYi1kYXRhLXZpei10b29schULEghEb3dubG9hZBiAgIDit_-HCgw",
+					"display_url": "datagifmaker.withgoogle.com/gif/ahxzfmd3ZW…",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/xL4TvxS3dI",
+					"expanded_url": "https://www.people-press.org/2019/10/17/modest-changes-in-views-of-impeachment-proceedings-since-early-september/",
+					"display_url": "people-press.org/2019/10/17/mod…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 16210113,
+		"in_reply_to_user_id_str": "16210113",
+		"in_reply_to_screen_name": "amara_media",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11050,
+			"friends_count": 1801,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2feb76248fd9c581",
+			"url": "https://api.twitter.com/1.1/geo/id/2feb76248fd9c581.json",
+			"place_type": "city",
+			"name": "Fullerton",
+			"full_name": "Fullerton, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.985941,
+							33.853881
+						],
+						[
+							-117.863844,
+							33.853881
+						],
+						[
+							-117.863844,
+							33.924814
+						],
+						[
+							-117.985941,
+							33.924814
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@amara_media My GIF from your session. Support for impeachment, according to @pewresearch: https://t.co/XXbG68b4eb Source: https://t.co/xL4TvxS3dI #jacc"
+	},
+	{
 		"created_at": "Sat Oct 19 15:14:13 +0000 2019",
 		"id": 1185574880445485000,
 		"id_str": "1185574880445485056",
