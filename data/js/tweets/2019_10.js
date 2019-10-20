@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 20 00:38:31 +0000 2019",
+		"id": 1185716781031182300,
+		"id_str": "1185716891504955393",
+		"full_text": "Thanks @ricosasy for inviting us to speak at #JACCSoCal2019. Thanks to the students for excellent questions. Most of all, thanks @stiles, for wowing us with your data skills. You are a badass. Some resources: https://t.co/eyB7VHju26 https://t.co/TbOyxu96se",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JACCSoCal2019",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ricosasy",
+					"name": "Sylvia Rico-Sanchez",
+					"id": 1463760266,
+					"id_str": "1463760266",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						129,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eyB7VHju26",
+					"expanded_url": "http://bit.ly/32xwtmo",
+					"display_url": "bit.ly/32xwtmo",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1185716726031249400,
+					"id_str": "1185716726031249408",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EHSDFINU8AAOiyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHSDFINU8AAOiyX.jpg",
+					"url": "https://t.co/TbOyxu96se",
+					"display_url": "pic.twitter.com/TbOyxu96se",
+					"expanded_url": "https://twitter.com/juliepatel/status/1185716781031182336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1116,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 654,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185716726031249400,
+					"id_str": "1185716726031249408",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EHSDFINU8AAOiyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHSDFINU8AAOiyX.jpg",
+					"url": "https://t.co/TbOyxu96se",
+					"display_url": "pic.twitter.com/TbOyxu96se",
+					"expanded_url": "https://twitter.com/juliepatel/status/1185716781031182336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1116,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 654,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19111180,
+			"id_str": "19111180",
+			"name": "Julie Patel",
+			"screen_name": "juliepatel",
+			"location": "Fullerton, CA",
+			"description": "Investigative reporter. @CalStateLA prof. @EdSource freelancer. Alum of @BetterGov @Publici @WAMU885 @SunSentinel @MercNews @SunTimes @UChicago @Stanford",
+			"url": "https://t.co/vvmoLOJOom",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vvmoLOJOom",
+							"expanded_url": "https://www.julievpatel.wordpress.com",
+							"display_url": "julievpatel.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3120,
+			"friends_count": 1118,
+			"listed_count": 140,
+			"created_at": "Sat Jan 17 14:23:07 +0000 2009",
+			"favourites_count": 402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876849985320505344/chWySPzl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876849985320505344/chWySPzl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19111180/1452092357",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @ricosasy for inviting us to speak at #JACCSoCal2019. Thanks to the students for excellent questions. Most of all, thanks @stiles, for wowing us with your data skills. You are a badass. Some resources: https://t.co/eyB7VHju26 https://t.co/TbOyxu96se"
+	},
+	{
 		"created_at": "Sun Oct 20 00:04:11 +0000 2019",
 		"id": 1185708253960798200,
 		"id_str": "1185708253960798209",
