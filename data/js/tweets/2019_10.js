@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 21 14:20:20 +0000 2019",
+		"id": 1186050468499333000,
+		"id_str": "1186286098114170880",
+		"full_text": "i *believe* i may have found mitt romney's secret twitter account https://t.co/SNVUeqbLoY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SNVUeqbLoY",
+					"expanded_url": "https://slate.com/news-and-politics/2019/10/mitt-romney-has-a-secret-twitter-account-and-it-sure-looks-like-its-this-one.html",
+					"display_url": "slate.com/news-and-polit…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 165944767,
+			"id_str": "165944767",
+			"name": "Ashley Feinberg",
+			"screen_name": "ashleyfeinberg",
+			"location": "Brooklyn, NY",
+			"description": "send tips to ashley@slate.com | DM for Signal #",
+			"url": "https://t.co/KGqvCKocjj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KGqvCKocjj",
+							"expanded_url": "http://ashleyfeinberg.com",
+							"display_url": "ashleyfeinberg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185237,
+			"friends_count": 996,
+			"listed_count": 2403,
+			"created_at": "Mon Jul 12 23:19:50 +0000 2010",
+			"favourites_count": 35471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 38600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829782486955782148/vMthq5x2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829782486955782148/vMthq5x2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165944767/1405196339",
+			"profile_link_color": "800033",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6098,
+		"favorite_count": 30285,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i *believe* i may have found mitt romney's secret twitter account https://t.co/SNVUeqbLoY"
+	},
+	{
 		"created_at": "Mon Oct 21 04:44:07 +0000 2019",
 		"id": 1186093999221858300,
 		"id_str": "1186141086214807553",
