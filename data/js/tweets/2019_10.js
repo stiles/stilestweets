@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 21 04:44:07 +0000 2019",
+		"id": 1186093999221858300,
+		"id_str": "1186141086214807553",
+		"full_text": "@MittRomney props to twitter sleuth @ashleyfeinberg for breaking this wide open https://t.co/4RN7hc3c3L",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MittRomney",
+					"name": "Mitt Romney",
+					"id": 50055701,
+					"id_str": "50055701",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ashleyfeinberg",
+					"name": "Ashley Feinberg",
+					"id": 165944767,
+					"id_str": "165944767",
+					"indices": [
+						36,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4RN7hc3c3L",
+					"expanded_url": "https://slate.com/news-and-politics/2019/10/mitt-romney-has-a-secret-twitter-account-and-it-sure-looks-like-its-this-one.html",
+					"display_url": "slate.com/news-and-polit…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1186093210214510600,
+		"in_reply_to_status_id_str": "1186093210214510593",
+		"in_reply_to_user_id": 21431618,
+		"in_reply_to_user_id_str": "21431618",
+		"in_reply_to_screen_name": "mckaycoppins",
+		"user": {
+			"id": 21431618,
+			"id_str": "21431618",
+			"name": "McKay Coppins",
+			"screen_name": "mckaycoppins",
+			"location": "Washington, DC",
+			"description": "Staff writer, @TheAtlantic. Author of THE WILDERNESS. “Sort of handsome” - Donald J. Trump.",
+			"url": "https://t.co/SsrFO8qAW2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SsrFO8qAW2",
+							"expanded_url": "https://www.theatlantic.com/author/mckay-coppins/",
+							"display_url": "theatlantic.com/author/mckay-c…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135503,
+			"friends_count": 3011,
+			"listed_count": 3112,
+			"created_at": "Fri Feb 20 20:42:33 +0000 2009",
+			"favourites_count": 19652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762141316671270912/YTzkq7jG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762141316671270912/YTzkq7jG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 361,
+		"favorite_count": 2871,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MittRomney props to twitter sleuth @ashleyfeinberg for breaking this wide open https://t.co/4RN7hc3c3L"
+	},
+	{
 		"created_at": "Mon Oct 21 03:15:06 +0000 2019",
 		"id": 1186118686207180800,
 		"id_str": "1186118686207180801",
