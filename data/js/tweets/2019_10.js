@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 17:19:42 +0000 2019",
+		"id": 1187054168910917600,
+		"id_str": "1187056011187642370",
+		"full_text": "@stiles @JosephSerna This confirm many of the findings from @latimes @jaclyncosgrove investigation of failures in battling Woolsey fire https://t.co/Kij7mZVclS",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "JosephSerna",
+					"name": "Joe Serna, LAT",
+					"id": 369143034,
+					"id_str": "369143034",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "jaclyncosgrove",
+					"name": "Jaclyn Cosgrove",
+					"id": 15467750,
+					"id_str": "15467750",
+					"indices": [
+						69,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Kij7mZVclS",
+					"expanded_url": "https://www.latimes.com/local/lanow/la-me-woolsey-resources-20190106-htmlstory.html",
+					"display_url": "latimes.com/local/lanow/la…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1187053131449782300,
+		"in_reply_to_status_id_str": "1187053131449782272",
+		"in_reply_to_user_id": 14827461,
+		"in_reply_to_user_id_str": "14827461",
+		"in_reply_to_screen_name": "shelbygrad",
+		"user": {
+			"id": 14827461,
+			"id_str": "14827461",
+			"name": "Shelby Grad",
+			"screen_name": "shelbygrad",
+			"location": "🌴Los Angeles💥",
+			"description": "Deputy Managing Editor at @latimes.",
+			"url": "https://t.co/emWaPa3SBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emWaPa3SBu",
+							"expanded_url": "http://www.latimes.com/california",
+							"display_url": "latimes.com/california",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13368,
+			"friends_count": 1004,
+			"listed_count": 511,
+			"created_at": "Mon May 19 02:25:01 +0000 2008",
+			"favourites_count": 6132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14827461/1557793823",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@stiles @JosephSerna This confirm many of the findings from @latimes @jaclyncosgrove investigation of failures in battling Woolsey fire https://t.co/Kij7mZVclS"
+	},
+	{
+		"created_at": "Wed Oct 23 17:19:14 +0000 2019",
+		"id": 1187055896041414700,
+		"id_str": "1187055896041414658",
+		"full_text": "@JosephSerna As part of the Woolsey report, @LACOFD released some dramatic video showing the conditions firefighters faced during the fast-moving blaze. The scene from inside a fire engine in which the wind whips embers and debris around is terrifying: https://t.co/vI4R2v7Hkt https://t.co/BbUW5HIEgW",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JosephSerna",
+					"name": "Joe Serna, LAT",
+					"id": 369143034,
+					"id_str": "369143034",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "LACOFD",
+					"name": "LACoFD",
+					"id": 308751479,
+					"id_str": "308751479",
+					"indices": [
+						44,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vI4R2v7Hkt",
+					"expanded_url": "https://www.youtube.com/watch?v=h3K2KPIZXEM&feature=youtu.be",
+					"display_url": "youtube.com/watch?v=h3K2KP…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187055892677554200,
+					"id_str": "1187055892677554176",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EHlFC4uUcAAhXQ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHlFC4uUcAAhXQ9.jpg",
+					"url": "https://t.co/BbUW5HIEgW",
+					"display_url": "pic.twitter.com/BbUW5HIEgW",
+					"expanded_url": "https://twitter.com/stiles/status/1187055896041414658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 749,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1502,
+							"h": 938,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187055892677554200,
+					"id_str": "1187055892677554176",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EHlFC4uUcAAhXQ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHlFC4uUcAAhXQ9.jpg",
+					"url": "https://t.co/BbUW5HIEgW",
+					"display_url": "pic.twitter.com/BbUW5HIEgW",
+					"expanded_url": "https://twitter.com/stiles/status/1187055896041414658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 749,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1502,
+							"h": 938,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1187054952968908800,
+		"in_reply_to_status_id_str": "1187054952968908802",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYxdzj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYxdzj",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11074,
+			"friends_count": 1807,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571006629",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JosephSerna As part of the Woolsey report, @LACOFD released some dramatic video showing the conditions firefighters faced during the fast-moving blaze. The scene from inside a fire engine in which the wind whips embers and debris around is terrifying: https://t.co/vI4R2v7Hkt https://t.co/BbUW5HIEgW"
+	},
+	{
 		"created_at": "Wed Oct 23 13:25:47 +0000 2019",
 		"id": 1186996061400948700,
 		"id_str": "1186997143610871808",
