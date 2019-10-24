@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 23:46:55 +0000 2019",
+		"id": 1187141650117623800,
+		"id_str": "1187153460292018177",
+		"full_text": "Jen broke news with @ProjectJupyter, and you can too! \n\nTeach yourself data analysis with Python today at https://t.co/fYRd5JQFFN https://t.co/59t4sCpTnp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProjectJupyter",
+					"name": "Project Jupyter",
+					"id": 2460368252,
+					"id_str": "2460368252",
+					"indices": [
+						20,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fYRd5JQFFN",
+					"expanded_url": "http://www.firstpythonnotebook.org/",
+					"display_url": "firstpythonnotebook.org",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/59t4sCpTnp",
+					"expanded_url": "https://twitter.com/JenAFifield/status/1187099318957690880",
+					"display_url": "twitter.com/JenAFifield/st…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · Send me tips · DMs open · ben.welsh@latimes.com",
+			"url": "https://t.co/M40D7KBYi4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M40D7KBYi4",
+							"expanded_url": "https://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/alHGK4tTzG",
+							"expanded_url": "http://californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9908,
+			"friends_count": 3082,
+			"listed_count": 725,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187099318957691000,
+		"quoted_status_id_str": "1187099318957690880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/59t4sCpTnp",
+			"expanded": "https://twitter.com/JenAFifield/status/1187099318957690880",
+			"display": "twitter.com/JenAFifield/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 23 20:11:47 +0000 2019",
+			"id": 1187099318957691000,
+			"id_str": "1187099318957690880",
+			"full_text": "The Trump admin is pushing a new tax break program as a way to boost struggling communities. \n\nWe took a look at how this was working in Arizona. \n\nTurns out, it's not. At least so far. (thread)\n\nhttps://t.co/Mi5TC9JqW0 via @catherinereagor @lolonghi @ronaldjhansen",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "catherinereagor",
+						"name": "catherinereagor",
+						"id": 17491002,
+						"id_str": "17491002",
+						"indices": [
+							224,
+							240
+						]
+					},
+					{
+						"screen_name": "lolonghi",
+						"name": "Lorraine Longhi 🌵",
+						"id": 64655148,
+						"id_str": "64655148",
+						"indices": [
+							241,
+							250
+						]
+					},
+					{
+						"screen_name": "ronaldjhansen",
+						"name": "Ronald J. Hansen",
+						"id": 39607885,
+						"id_str": "39607885",
+						"indices": [
+							251,
+							265
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Mi5TC9JqW0",
+						"expanded_url": "https://www.azcentral.com/story/news/local/phoenix/2019/10/23/where-are-phoenix-area-opportunity-zones-located-and-who-benefits/2056914001/",
+						"display_url": "azcentral.com/story/news/loc…",
+						"indices": [
+							196,
+							219
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 390156028,
+				"id_str": "390156028",
+				"name": "Jen Fifield",
+				"screen_name": "JenAFifield",
+				"location": "Phoenix, AZ",
+				"description": "Reporter at The Arizona Republic @azcentral. Past: https://t.co/Wq1fJMlvJi, @FredNewsPost, https://t.co/sZgX7YCye5, @Cronkite_ASU.",
+				"url": "https://t.co/OoB3qQWFI4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OoB3qQWFI4",
+								"expanded_url": "http://www.azcentral.com",
+								"display_url": "azcentral.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Wq1fJMlvJi",
+								"expanded_url": "http://Stateline.org",
+								"display_url": "Stateline.org",
+								"indices": [
+									51,
+									74
+								]
+							},
+							{
+								"url": "https://t.co/sZgX7YCye5",
+								"expanded_url": "http://Gazette.net",
+								"display_url": "Gazette.net",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3015,
+				"friends_count": 1607,
+				"listed_count": 107,
+				"created_at": "Thu Oct 13 15:06:03 +0000 2011",
+				"favourites_count": 2490,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10946,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D9CDB2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1133574547649835014/lDk4daFN_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133574547649835014/lDk4daFN_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/390156028/1559100151",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jen broke news with @ProjectJupyter, and you can too! \n\nTeach yourself data analysis with Python today at https://t.co/fYRd5JQFFN https://t.co/59t4sCpTnp"
+	},
+	{
 		"created_at": "Wed Oct 23 22:42:18 +0000 2019",
 		"id": 1187137197004116000,
 		"id_str": "1187137197004115968",
