@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 03:23:36 +0000 2019",
+		"id": 1187569094054137900,
+		"id_str": "1187570377834151936",
+		"full_text": "#TickFire Press Briefing #LACoFD https://t.co/RBRe4713Tr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TickFire",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "LACoFD",
+					"indices": [
+						25,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RBRe4713Tr",
+					"expanded_url": "https://www.pscp.tv/w/cIJhBjg3Mzc3OTJ8MWVhSmJBWE5PYVZHWBEmLYOCGdc1Uq4-tIzkbXHmc7YX9bgNykuC4u4y0S21",
+					"display_url": "pscp.tv/w/cIJhBjg3Mzc3…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 919373695,
+			"id_str": "919373695",
+			"name": "L.A. County Fire Department",
+			"screen_name": "LACoFDPIO",
+			"location": "Los Angeles, CA",
+			"description": "Welcome to the official Twitter feed of the Los Angeles County Fire Department PIO. Dial 911 for emergencies. Note: This account is not monitored 24/7",
+			"url": "https://t.co/bEL5gSnLIK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bEL5gSnLIK",
+							"expanded_url": "https://www.fire.lacounty.gov",
+							"display_url": "fire.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79658,
+			"friends_count": 5,
+			"listed_count": 1089,
+			"created_at": "Thu Nov 01 16:27:51 +0000 2012",
+			"favourites_count": 9039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "151D34",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040325006880792576/hN8EcDSl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040325006880792576/hN8EcDSl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/919373695/1570825612",
+			"profile_link_color": "B30000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TickFire Press Briefing #LACoFD https://t.co/RBRe4713Tr"
+	},
+	{
 		"created_at": "Fri Oct 25 03:19:13 +0000 2019",
 		"id": 1187547448404783000,
 		"id_str": "1187569272408530946",
