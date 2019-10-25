@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 03:19:13 +0000 2019",
+		"id": 1187547448404783000,
+		"id_str": "1187569272408530946",
+		"full_text": "To all my friends without a driver’s license 👇 https://t.co/IleR1NXC4h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IleR1NXC4h",
+					"expanded_url": "https://twitter.com/washingtonpost/status/1187501099642687489",
+					"display_url": "twitter.com/washingtonpost…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 462663662,
+			"id_str": "462663662",
+			"name": "Jared Whalen",
+			"screen_name": "jared_whalen",
+			"location": "Wilmington + Philadelphia",
+			"description": "data journalist at The Delaware News Journal / data viz, mostly / R, d3.js, GIS / Temple U / starting to feel old at local shows / reservist / DM data + tips",
+			"url": "https://t.co/wD1X2szemc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wD1X2szemc",
+							"expanded_url": "http://jaredwhalen.com",
+							"display_url": "jaredwhalen.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 681,
+			"friends_count": 596,
+			"listed_count": 28,
+			"created_at": "Fri Jan 13 06:15:05 +0000 2012",
+			"favourites_count": 3766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "23221F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032815661272256518/4utzN8PB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032815661272256518/4utzN8PB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/462663662/1563983317",
+			"profile_link_color": "86846D",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187501099642687500,
+		"quoted_status_id_str": "1187501099642687489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IleR1NXC4h",
+			"expanded": "https://twitter.com/washingtonpost/status/1187501099642687489",
+			"display": "twitter.com/washingtonpost…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 24 22:48:19 +0000 2019",
+			"id": 1187501099642687500,
+			"id_str": "1187501099642687489",
+			"full_text": "Rats are capable of driving tiny cars, researchers found. It eases their anxiety. https://t.co/Gsn4sg1ufO https://t.co/0WjEJpByug",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Gsn4sg1ufO",
+						"expanded_url": "https://wapo.st/2PexYSy",
+						"display_url": "wapo.st/2PexYSy",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1187501065505259500,
+						"id_str": "1187501065505259520",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EHrZ7WvWwAAzv-F.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EHrZ7WvWwAAzv-F.jpg",
+						"url": "https://t.co/0WjEJpByug",
+						"display_url": "pic.twitter.com/0WjEJpByug",
+						"expanded_url": "https://twitter.com/washingtonpost/status/1187501099642687489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 518,
+								"h": 286,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 518,
+								"h": 286,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 518,
+								"h": 286,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1187501065505259500,
+						"id_str": "1187501065505259520",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EHrZ7WvWwAAzv-F.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EHrZ7WvWwAAzv-F.jpg",
+						"url": "https://t.co/0WjEJpByug",
+						"display_url": "pic.twitter.com/0WjEJpByug",
+						"expanded_url": "https://twitter.com/washingtonpost/status/1187501099642687489/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 518,
+								"h": 286,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 518,
+								"h": 286,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 518,
+								"h": 286,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								259,
+								143
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EHrZ7WvWwAAzv-F.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2467791,
+				"id_str": "2467791",
+				"name": "The Washington Post",
+				"screen_name": "washingtonpost",
+				"location": "Washington, DC",
+				"description": "Breaking news, analysis, and opinion. Founded in 1877. Our staff on Twitter: https://t.co/VV0UBAMHg8",
+				"url": "http://t.co/Hq7hTYkOPg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Hq7hTYkOPg",
+								"expanded_url": "http://washingtonpost.com",
+								"display_url": "washingtonpost.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VV0UBAMHg8",
+								"expanded_url": "https://twitter.com/washingtonpost/lists/washington-post-people",
+								"display_url": "twitter.com/washingtonpost…",
+								"indices": [
+									77,
+									100
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14337643,
+				"friends_count": 1644,
+				"listed_count": 91499,
+				"created_at": "Tue Mar 27 11:19:39 +0000 2007",
+				"favourites_count": 4500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 335146,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+				"profile_link_color": "0057EC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DBDBDB",
+				"profile_text_color": "323232",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 993,
+			"favorite_count": 3531,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To all my friends without a driver’s license 👇 https://t.co/IleR1NXC4h"
+	},
+	{
 		"created_at": "Thu Oct 24 20:15:30 +0000 2019",
 		"id": 1187462640328528000,
 		"id_str": "1187462640328527872",
