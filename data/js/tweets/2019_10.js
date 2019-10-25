@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 13:48:43 +0000 2019",
+		"id": 1187649983991951400,
+		"id_str": "1187727690985394176",
+		"full_text": "@evanasmith @TexasTribune \"...you can all go to Hell, I’m going to Texas.\" - Davy Crockett\n\nHappy 10th Anniversary @TexasTribune!🥳 \n\n@evanasmith @rossramsey @stiles @brandigrissom @eramshaw @elisewho @launchhercareer @maycotte Dan The Intern @RaRapoport\n\nhttps://t.co/ENVWX9f1eO",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "evanasmith",
+					"name": "Evan Smith",
+					"id": 18791654,
+					"id_str": "18791654",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "TexasTribune",
+					"name": "Texas Tribune",
+					"id": 44513878,
+					"id_str": "44513878",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "TexasTribune",
+					"name": "Texas Tribune",
+					"id": 44513878,
+					"id_str": "44513878",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"screen_name": "evanasmith",
+					"name": "Evan Smith",
+					"id": 18791654,
+					"id_str": "18791654",
+					"indices": [
+						133,
+						144
+					]
+				},
+				{
+					"screen_name": "rossramsey",
+					"name": "Ross Ramsey",
+					"id": 14283170,
+					"id_str": "14283170",
+					"indices": [
+						145,
+						156
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						157,
+						164
+					]
+				},
+				{
+					"screen_name": "brandigrissom",
+					"name": "BrandiGrissomSwicegood",
+					"id": 17433998,
+					"id_str": "17433998",
+					"indices": [
+						165,
+						179
+					]
+				},
+				{
+					"screen_name": "eramshaw",
+					"name": "Emily Ramshaw",
+					"id": 20626103,
+					"id_str": "20626103",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"screen_name": "elisewho",
+					"name": "Elise Hu",
+					"id": 16001350,
+					"id_str": "16001350",
+					"indices": [
+						190,
+						199
+					]
+				},
+				{
+					"screen_name": "launchhercareer",
+					"name": "Alisha Lagarde",
+					"id": 2879698386,
+					"id_str": "2879698386",
+					"indices": [
+						200,
+						216
+					]
+				},
+				{
+					"screen_name": "maycotte",
+					"name": "Higinio O. Maycotte",
+					"id": 11148472,
+					"id_str": "11148472",
+					"indices": [
+						217,
+						226
+					]
+				},
+				{
+					"screen_name": "RaRapoport",
+					"name": "Abby Rapoport",
+					"id": 22744510,
+					"id_str": "22744510",
+					"indices": [
+						242,
+						253
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ENVWX9f1eO",
+					"expanded_url": "https://www.youtube.com/watch?v=cKSTnP-UPHw",
+					"display_url": "youtube.com/watch?v=cKSTnP…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1187530730559201300,
+		"in_reply_to_status_id_str": "1187530730559201280",
+		"in_reply_to_user_id": 18791654,
+		"in_reply_to_user_id_str": "18791654",
+		"in_reply_to_screen_name": "evanasmith",
+		"user": {
+			"id": 77940458,
+			"id_str": "77940458",
+			"name": "Andrew Lopez",
+			"screen_name": "AndreasLupus",
+			"location": "Texas, USA",
+			"description": "Historical📜\nPolitical🗳️\nNon Sequitur🦉",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 243,
+			"friends_count": 367,
+			"listed_count": 2,
+			"created_at": "Mon Sep 28 06:08:19 +0000 2009",
+			"favourites_count": 14736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0A0A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796071027184844800/JWYd9pC__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796071027184844800/JWYd9pC__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77940458/1550413022",
+			"profile_link_color": "EEAD0E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "35135C",
+			"profile_text_color": "0055FF",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@evanasmith @TexasTribune \"...you can all go to Hell, I’m going to Texas.\" - Davy Crockett\n\nHappy 10th Anniversary @TexasTribune!🥳 \n\n@evanasmith @rossramsey @stiles @brandigrissom @eramshaw @elisewho @launchhercareer @maycotte Dan The Intern @RaRapoport\n\nhttps://t.co/ENVWX9f1eO"
+	},
+	{
 		"created_at": "Fri Oct 25 03:23:36 +0000 2019",
 		"id": 1187569094054137900,
 		"id_str": "1187570377834151936",
