@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 21:00:48 +0000 2019",
+		"id": 1188923595486941200,
+		"id_str": "1188923595486941184",
+		"full_text": "@katiepark @vicjkim Those were a bridge too far for me.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katiepark",
+					"name": "Katie Park",
+					"id": 229308403,
+					"id_str": "229308403",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "vicjkim",
+					"name": "Victoria Kim",
+					"id": 54643600,
+					"id_str": "54643600",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1188896410260951000,
+		"in_reply_to_status_id_str": "1188896410260951040",
+		"in_reply_to_user_id": 229308403,
+		"in_reply_to_user_id_str": "229308403",
+		"in_reply_to_screen_name": "katiepark",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11079,
+			"friends_count": 1821,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0654b676d0359a31",
+			"url": "https://api.twitter.com/1.1/geo/id/0654b676d0359a31.json",
+			"place_type": "city",
+			"name": "El Segundo",
+			"full_name": "El Segundo, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.429843,
+							33.901804
+						],
+						[
+							-118.370685,
+							33.901804
+						],
+						[
+							-118.370685,
+							33.931493
+						],
+						[
+							-118.429843,
+							33.931493
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@katiepark @vicjkim Those were a bridge too far for me."
+	},
+	{
 		"created_at": "Mon Oct 28 18:49:29 +0000 2019",
 		"id": 1188890545709437000,
 		"id_str": "1188890545709436928",
