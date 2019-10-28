@@ -1,6 +1,644 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 01:45:18 +0000 2019",
+		"id": 1188632801643397000,
+		"id_str": "1188632801643397120",
+		"full_text": "@JacobBogle @realDonaldTrump Totally.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JacobBogle",
+					"name": "Jacob Bogle",
+					"id": 265489523,
+					"id_str": "265489523",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1188631270953246700,
+		"in_reply_to_status_id_str": "1188631270953246727",
+		"in_reply_to_user_id": 265489523,
+		"in_reply_to_user_id_str": "265489523",
+		"in_reply_to_screen_name": "JacobBogle",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11081,
+			"friends_count": 1820,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JacobBogle @realDonaldTrump Totally."
+	},
+	{
+		"created_at": "Mon Oct 28 01:35:48 +0000 2019",
+		"id": 1188630234456907800,
+		"id_str": "1188630413016567808",
+		"full_text": "The crowd at the World Series was chanting for the imprisonment of the American President. This is something for the history books. https://t.co/GL8hKRSBci",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GL8hKRSBci",
+					"expanded_url": "https://twitter.com/andyymucino/status/1188624255627517953",
+					"display_url": "twitter.com/andyymucino/st…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145450074,
+			"id_str": "145450074",
+			"name": "Jason Stanford",
+			"screen_name": "JasStanford",
+			"location": "Austin, TX",
+			"description": "Writer. @bourbonface's +1. RTs are superdelegates. My newsletter: https://t.co/U8E34ec46v",
+			"url": "https://t.co/DSvjfbL6Al",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DSvjfbL6Al",
+							"expanded_url": "http://bit.ly/2o0yPc8",
+							"display_url": "bit.ly/2o0yPc8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U8E34ec46v",
+							"expanded_url": "https://jasonstanford.substack.com",
+							"display_url": "jasonstanford.substack.com",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7380,
+			"friends_count": 4090,
+			"listed_count": 273,
+			"created_at": "Wed May 19 00:53:36 +0000 2010",
+			"favourites_count": 29288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059779921260802053/5QDiyOEw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059779921260802053/5QDiyOEw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145450074/1513385764",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188624255627518000,
+		"quoted_status_id_str": "1188624255627517953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GL8hKRSBci",
+			"expanded": "https://twitter.com/andyymucino/status/1188624255627517953",
+			"display": "twitter.com/andyymucino/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 28 01:11:20 +0000 2019",
+			"id": 1188624255627518000,
+			"id_str": "1188624255627517953",
+			"full_text": "“Lock Him Up” chants coming from the crowd... https://t.co/o8zf9LM2Bk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1188624175583367200,
+						"id_str": "1188624175583367174",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1188624175583367174/pu/img/nSDMEhX97NIX7Atw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1188624175583367174/pu/img/nSDMEhX97NIX7Atw.jpg",
+						"url": "https://t.co/o8zf9LM2Bk",
+						"display_url": "pic.twitter.com/o8zf9LM2Bk",
+						"expanded_url": "https://twitter.com/andyymucino/status/1188624255627517953/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1188624175583367200,
+						"id_str": "1188624175583367174",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1188624175583367174/pu/img/nSDMEhX97NIX7Atw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1188624175583367174/pu/img/nSDMEhX97NIX7Atw.jpg",
+						"url": "https://t.co/o8zf9LM2Bk",
+						"display_url": "pic.twitter.com/o8zf9LM2Bk",
+						"expanded_url": "https://twitter.com/andyymucino/status/1188624255627517953/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 13818,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1188624175583367174/pu/vid/360x640/OeUmmdpLGL_a0cgs.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1188624175583367174/pu/vid/320x568/12gwdiYxGr-wKY_I.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1188624175583367174/pu/pl/MjJ-Kwrmy7jhEbpe.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1188624175583367174/pu/vid/720x1280/2eHHW_7BX02bkIr5.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 249031818,
+				"id_str": "249031818",
+				"name": "Andy Mucino",
+				"screen_name": "andyymucino",
+				"location": "WV/DC/EU",
+				"description": "Miss West Virginia USA 2015",
+				"url": "https://t.co/7R1Yvpkn5W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7R1Yvpkn5W",
+								"expanded_url": "http://Instagram.com/andyymucino",
+								"display_url": "Instagram.com/andyymucino",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1259,
+				"friends_count": 1024,
+				"listed_count": 9,
+				"created_at": "Tue Feb 08 06:20:59 +0000 2011",
+				"favourites_count": 8576,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6023,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134937221071626241/Ky3k41bk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134937221071626241/Ky3k41bk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/249031818/1533862156",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "1A3F57",
+				"profile_text_color": "72B9BF",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The crowd at the World Series was chanting for the imprisonment of the American President. This is something for the history books. https://t.co/GL8hKRSBci"
+	},
+	{
+		"created_at": "Mon Oct 28 01:35:18 +0000 2019",
+		"id": 1188630286193418200,
+		"id_str": "1188630286193418240",
+		"full_text": "In his 900-word speech about Abu Bakr al-Baghdadi, @realDonaldTrump used 'very' 10 times. Poetry: https://t.co/Lc3gIcHmNV https://t.co/gKBLrZecyg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						51,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Lc3gIcHmNV",
+					"expanded_url": "https://www.nytimes.com/2019/10/27/us/trump-transcript-isis-al-baghdadi.html",
+					"display_url": "nytimes.com/2019/10/27/us/…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1188630281529376800,
+					"id_str": "1188630281529376768",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EH7c8YPUwAA682D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH7c8YPUwAA682D.jpg",
+					"url": "https://t.co/gKBLrZecyg",
+					"display_url": "pic.twitter.com/gKBLrZecyg",
+					"expanded_url": "https://twitter.com/stiles/status/1188630286193418240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188630281529376800,
+					"id_str": "1188630281529376768",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EH7c8YPUwAA682D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH7c8YPUwAA682D.jpg",
+					"url": "https://t.co/gKBLrZecyg",
+					"display_url": "pic.twitter.com/gKBLrZecyg",
+					"expanded_url": "https://twitter.com/stiles/status/1188630286193418240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11081,
+			"friends_count": 1820,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In his 900-word speech about Abu Bakr al-Baghdadi, @realDonaldTrump used 'very' 10 times. Poetry: https://t.co/Lc3gIcHmNV https://t.co/gKBLrZecyg"
+	},
+	{
 		"created_at": "Sun Oct 27 22:01:37 +0000 2019",
 		"id": 1188576511818752000,
 		"id_str": "1188576511818752000",
