@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 06:11:03 +0000 2019",
+		"id": 1188591520531779600,
+		"id_str": "1188699678755282945",
+		"full_text": "It is with a broken heart that today I announce my resignation from Congress. This is the hardest thing I have ever had to do, but I believe it is the best thing for my constituents, my community, and our country. \n\nSee my official statement below. https://t.co/nG97RQIwvO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1188591502550851600,
+					"id_str": "1188591502550851585",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EH65rJSXYAEL0Xd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH65rJSXYAEL0Xd.jpg",
+					"url": "https://t.co/nG97RQIwvO",
+					"display_url": "pic.twitter.com/nG97RQIwvO",
+					"expanded_url": "https://twitter.com/RepKatieHill/status/1188591520531779584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1583,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188591502550851600,
+					"id_str": "1188591502550851585",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EH65rJSXYAEL0Xd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH65rJSXYAEL0Xd.jpg",
+					"url": "https://t.co/nG97RQIwvO",
+					"display_url": "pic.twitter.com/nG97RQIwvO",
+					"expanded_url": "https://twitter.com/RepKatieHill/status/1188591520531779584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1583,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1068273911224094700,
+			"id_str": "1068273911224094721",
+			"name": "Rep. Katie Hill",
+			"screen_name": "RepKatieHill",
+			"location": "Santa Clarita, CA",
+			"description": "Congresswoman serving the Antelope, Simi & Santa Clarita Valleys in #CA25. But call me Katie. Let’s get to work.",
+			"url": "https://t.co/bAFs5H574m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bAFs5H574m",
+							"expanded_url": "http://katiehill.house.gov",
+							"display_url": "katiehill.house.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78460,
+			"friends_count": 1145,
+			"listed_count": 588,
+			"created_at": "Thu Nov 29 22:42:02 +0000 2018",
+			"favourites_count": 683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080961085824413696/E383XYgx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080961085824413696/E383XYgx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068273911224094721/1552064607",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4750,
+		"favorite_count": 15974,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is with a broken heart that today I announce my resignation from Congress. This is the hardest thing I have ever had to do, but I believe it is the best thing for my constituents, my community, and our country. \n\nSee my official statement below. https://t.co/nG97RQIwvO"
+	},
+	{
 		"created_at": "Mon Oct 28 01:45:18 +0000 2019",
 		"id": 1188632801643397000,
 		"id_str": "1188632801643397120",
