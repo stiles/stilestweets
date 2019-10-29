@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 23:52:57 +0000 2019",
+		"id": 1188805373043585000,
+		"id_str": "1188966918608183297",
+		"full_text": "Congratulations to @archietse, who has been promoted to Graphics Director! https://t.co/7N1BW2O320",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "archietse",
+					"name": "Archie Tse",
+					"id": 28128198,
+					"id_str": "28128198",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7N1BW2O320",
+					"expanded_url": "https://www.nytco.com/press/archie-tse-promoted-to-graphics-director/",
+					"display_url": "nytco.com/press/archie-t…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15829144,
+			"id_str": "15829144",
+			"name": "NYTimes Communications",
+			"screen_name": "NYTimesPR",
+			"location": "New York, NY",
+			"description": "Press inquiries: booking@nytimes.com. Contact @NYTcare or help@nytimes.com for tech/sub issues. More contacts at: https://t.co/Eau4LdYK0n",
+			"url": "https://t.co/9qjJo5Mwtx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9qjJo5Mwtx",
+							"expanded_url": "http://www.nytco.com",
+							"display_url": "nytco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Eau4LdYK0n",
+							"expanded_url": "http://nytimes.com/help",
+							"display_url": "nytimes.com/help",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62150,
+			"friends_count": 1417,
+			"listed_count": 1530,
+			"created_at": "Tue Aug 12 22:22:32 +0000 2008",
+			"favourites_count": 1622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F7F8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963895370597019649/1xduznEK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963895370597019649/1xduznEK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15829144/1511892074",
+			"profile_link_color": "2E37B3",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 73,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to @archietse, who has been promoted to Graphics Director! https://t.co/7N1BW2O320"
+	},
+	{
 		"created_at": "Mon Oct 28 21:00:48 +0000 2019",
 		"id": 1188923595486941200,
 		"id_str": "1188923595486941184",
