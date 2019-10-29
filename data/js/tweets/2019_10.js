@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 29 03:17:38 +0000 2019",
+		"id": 1189018428650057700,
+		"id_str": "1189018428650057731",
+		"full_text": "Hmmmn. \n\nTaiwan has the best food in the world, so I'm torn. This seems wrong, though. \n\nHow do we feel about this, Internet? https://t.co/xiKXY6KzCl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xiKXY6KzCl",
+					"expanded_url": "https://twitter.com/TaiwanNews886/status/1188733868032970752",
+					"display_url": "twitter.com/TaiwanNews886/…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11082,
+			"friends_count": 1821,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188733868032970800,
+		"quoted_status_id_str": "1188733868032970752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xiKXY6KzCl",
+			"expanded": "https://twitter.com/TaiwanNews886/status/1188733868032970752",
+			"display": "twitter.com/TaiwanNews886/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 28 08:26:54 +0000 2019",
+			"id": 1188733868032970800,
+			"id_str": "1188733868032970752",
+			"full_text": "Domino's Taiwan offering pearl milk tea pizza https://t.co/SujKYQtURl https://t.co/2lpXxGKQkv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SujKYQtURl",
+						"expanded_url": "https://www.taiwannews.com.tw/en/news/3804982",
+						"display_url": "taiwannews.com.tw/en/news/3804982",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1188733860726505500,
+						"id_str": "1188733860726505475",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/EH87Je0VAAMvhMW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EH87Je0VAAMvhMW.jpg",
+						"url": "https://t.co/2lpXxGKQkv",
+						"display_url": "pic.twitter.com/2lpXxGKQkv",
+						"expanded_url": "https://twitter.com/TaiwanNews886/status/1188733868032970752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 443,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 443,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 443,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1188733860726505500,
+						"id_str": "1188733860726505475",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/EH87Je0VAAMvhMW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EH87Je0VAAMvhMW.jpg",
+						"url": "https://t.co/2lpXxGKQkv",
+						"display_url": "pic.twitter.com/2lpXxGKQkv",
+						"expanded_url": "https://twitter.com/TaiwanNews886/status/1188733868032970752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 443,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 443,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 443,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3048930572,
+				"id_str": "3048930572",
+				"name": "Taiwan News",
+				"screen_name": "TaiwanNews886",
+				"location": "Taipei, Taiwan",
+				"description": "Taiwan News",
+				"url": "http://t.co/a2P7xntZAM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/a2P7xntZAM",
+								"expanded_url": "http://www.etaiwannews.com",
+								"display_url": "etaiwannews.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9274,
+				"friends_count": 1303,
+				"listed_count": 174,
+				"created_at": "Sat Feb 28 06:54:59 +0000 2015",
+				"favourites_count": 1187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17632,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/782869708072640512/3sCbQwMw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/782869708072640512/3sCbQwMw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3048930572/1487411900",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hmmmn. \n\nTaiwan has the best food in the world, so I'm torn. This seems wrong, though. \n\nHow do we feel about this, Internet? https://t.co/xiKXY6KzCl"
+	},
+	{
 		"created_at": "Tue Oct 29 00:28:04 +0000 2019",
 		"id": 1188975754874257400,
 		"id_str": "1188975754874257408",
