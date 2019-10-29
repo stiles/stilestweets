@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 29 00:28:04 +0000 2019",
+		"id": 1188975754874257400,
+		"id_str": "1188975754874257408",
+		"full_text": "The AP is uncertain about @marcorubio. https://t.co/IdOYVRyOLu https://t.co/Aet5fxaFzk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcorubio",
+					"name": "Marco Rubio",
+					"id": 15745368,
+					"id_str": "15745368",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IdOYVRyOLu",
+					"expanded_url": "https://www.washingtonpost.com/local/trump-attends-world-series-after-big-national-security-win/2019/10/27/e8071a40-f91c-11e9-9e02-1d45cb3dfa8f_story.html",
+					"display_url": "washingtonpost.com/local/trump-at…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1188975752676380700,
+					"id_str": "1188975752676380672",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EIAXJcjUEAAWwjC.png",
+					"media_url_https": "https://pbs.twimg.com/media/EIAXJcjUEAAWwjC.png",
+					"url": "https://t.co/Aet5fxaFzk",
+					"display_url": "pic.twitter.com/Aet5fxaFzk",
+					"expanded_url": "https://twitter.com/stiles/status/1188975754874257408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 485,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 485,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188975752676380700,
+					"id_str": "1188975752676380672",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EIAXJcjUEAAWwjC.png",
+					"media_url_https": "https://pbs.twimg.com/media/EIAXJcjUEAAWwjC.png",
+					"url": "https://t.co/Aet5fxaFzk",
+					"display_url": "pic.twitter.com/Aet5fxaFzk",
+					"expanded_url": "https://twitter.com/stiles/status/1188975754874257408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 485,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 485,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11080,
+			"friends_count": 1821,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The AP is uncertain about @marcorubio. https://t.co/IdOYVRyOLu https://t.co/Aet5fxaFzk"
+	},
+	{
 		"created_at": "Mon Oct 28 23:52:57 +0000 2019",
 		"id": 1188805373043585000,
 		"id_str": "1188966918608183297",
