@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 30 05:11:31 +0000 2019",
+		"id": 1189402423703433200,
+		"id_str": "1189409476241027072",
+		"full_text": ".@DeborahNetburn asked me today if I’d actually thanked my mom 👀 SO I DID https://t.co/O1GXaW2zok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DeborahNetburn",
+					"name": "Deborah Netburn",
+					"id": 123157078,
+					"id_str": "123157078",
+					"indices": [
+						1,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189402419391676400,
+					"id_str": "1189402419391676417",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EIGbMt7UwAE8EvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIGbMt7UwAE8EvV.jpg",
+					"url": "https://t.co/O1GXaW2zok",
+					"display_url": "pic.twitter.com/O1GXaW2zok",
+					"expanded_url": "https://twitter.com/brittny_mejia/status/1189402423703433216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 1134,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189402419391676400,
+					"id_str": "1189402419391676417",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EIGbMt7UwAE8EvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIGbMt7UwAE8EvV.jpg",
+					"url": "https://t.co/O1GXaW2zok",
+					"display_url": "pic.twitter.com/O1GXaW2zok",
+					"expanded_url": "https://twitter.com/brittny_mejia/status/1189402423703433216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 1134,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 555433957,
+			"id_str": "555433957",
+			"name": "Brittny Mejia",
+			"screen_name": "brittny_mejia",
+			"location": "",
+			"description": "Metro reporter @latimes. Military brat. Story tips: brittny.mejia@latimes.com Hablo español. Proud Mexican American",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7907,
+			"friends_count": 1894,
+			"listed_count": 259,
+			"created_at": "Mon Apr 16 21:21:58 +0000 2012",
+			"favourites_count": 7831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187106480765276160/WGDtYxLz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187106480765276160/WGDtYxLz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/555433957/1534735787",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@DeborahNetburn asked me today if I’d actually thanked my mom 👀 SO I DID https://t.co/O1GXaW2zok"
+	},
+	{
 		"created_at": "Tue Oct 29 03:17:38 +0000 2019",
 		"id": 1189018428650057700,
 		"id_str": "1189018428650057731",
