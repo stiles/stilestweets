@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 30 20:26:18 +0000 2019",
+		"id": 1189639686488129500,
+		"id_str": "1189639686488129536",
+		"full_text": "Often the Internet is horrible and awesome at the same time, like this comment to @jack's announcement about the decision to stop all political ads on @Twitter. https://t.co/Z1nlHR5o3h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jack",
+					"name": "jack 🌍🌏🌎",
+					"id": 12,
+					"id_str": "12",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						151,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z1nlHR5o3h",
+					"expanded_url": "https://twitter.com/ComfortablySmug/status/1189635994250895365",
+					"display_url": "twitter.com/ComfortablySmu…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11089,
+			"friends_count": 1822,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1189635994250895400,
+		"quoted_status_id_str": "1189635994250895365",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z1nlHR5o3h",
+			"expanded": "https://twitter.com/ComfortablySmug/status/1189635994250895365",
+			"display": "twitter.com/ComfortablySmu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 30 20:11:38 +0000 2019",
+			"id": 1189635994250895400,
+			"id_str": "1189635994250895365",
+			"full_text": "@jack Hillary killed Epstein",
+			"truncated": false,
+			"display_text_range": [
+				6,
+				28
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jack",
+						"name": "jack 🌍🌏🌎",
+						"id": 12,
+						"id_str": "12",
+						"indices": [
+							0,
+							5
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1189634360472830000,
+			"in_reply_to_status_id_str": "1189634360472829952",
+			"in_reply_to_user_id": 12,
+			"in_reply_to_user_id_str": "12",
+			"in_reply_to_screen_name": "jack",
+			"user": {
+				"id": 17060573,
+				"id_str": "17060573",
+				"name": "Comfortably Smug",
+				"screen_name": "ComfortablySmug",
+				"location": "New York, New York",
+				"description": "My Interests: Finance, Whiskey, Politics, Books, Food, Meeting Strangers\n#altcenter",
+				"url": "https://t.co/z3elO6zCkx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z3elO6zCkx",
+								"expanded_url": "http://SmugIndustries.com",
+								"display_url": "SmugIndustries.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150314,
+				"friends_count": 5150,
+				"listed_count": 2188,
+				"created_at": "Thu Oct 30 05:18:03 +0000 2008",
+				"favourites_count": 251153,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 303295,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B81A1A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844574503833358336/Hfk6USEJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844574503833358336/Hfk6USEJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17060573/1523985720",
+				"profile_link_color": "B81A1A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "070808",
+				"profile_text_color": "5E5E5E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 1776,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Often the Internet is horrible and awesome at the same time, like this comment to @jack's announcement about the decision to stop all political ads on @Twitter. https://t.co/Z1nlHR5o3h"
+	},
+	{
 		"created_at": "Wed Oct 30 17:07:24 +0000 2019",
 		"id": 1189589630523338800,
 		"id_str": "1189589630523338752",
