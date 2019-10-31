@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 00:25:09 +0000 2019",
+		"id": 1189683848126201900,
+		"id_str": "1189699797659176960",
+		"full_text": "City of #LosAngeles #RedFlag #Parking Restrictions will be LIFTED effective 8:00 AM Thursday, October 31 - but will remain *in full effect and enforced* until that time!\n\nRed Flag Parking Status Info: https://t.co/LRr8xYAJdm\nWas Your Car Towed? https://t.co/J3RyyaPoTW https://t.co/O9G7g92oOI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LosAngeles",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"text": "RedFlag",
+					"indices": [
+						20,
+						28
+					]
+				},
+				{
+					"text": "Parking",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LRr8xYAJdm",
+					"expanded_url": "http://lafd.org/redflag",
+					"display_url": "lafd.org/redflag",
+					"indices": [
+						201,
+						224
+					]
+				},
+				{
+					"url": "https://t.co/J3RyyaPoTW",
+					"expanded_url": "http://opglaviic.com",
+					"display_url": "opglaviic.com",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189683844301107200,
+					"id_str": "1189683844301107201",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EIKbJzaWsAEshuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIKbJzaWsAEshuF.jpg",
+					"url": "https://t.co/O9G7g92oOI",
+					"display_url": "pic.twitter.com/O9G7g92oOI",
+					"expanded_url": "https://twitter.com/LAFD/status/1189683848126201856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1002,
+							"h": 708,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1002,
+							"h": 708,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "823860",
+									"screen_name": "LAFD",
+									"name": "LAFD"
+								},
+								{
+									"type": "user",
+									"user_id": "25144145",
+									"screen_name": "LAFDtalk",
+									"name": "LAFD Talk"
+								},
+								{
+									"type": "user",
+									"user_id": "95270002",
+									"screen_name": "LAFDChief",
+									"name": "Chief Terrazas"
+								},
+								{
+									"type": "user",
+									"user_id": "3063842250",
+									"screen_name": "LAFDcentral",
+									"name": "LAFD Central"
+								},
+								{
+									"type": "user",
+									"user_id": "3063977269",
+									"screen_name": "LAFDsouth",
+									"name": "LAFD South"
+								},
+								{
+									"type": "user",
+									"user_id": "3024546301",
+									"screen_name": "LAFDvalley",
+									"name": "LAFD Valley"
+								},
+								{
+									"type": "user",
+									"user_id": "3063931620",
+									"screen_name": "LAFDwest",
+									"name": "LAFD West"
+								},
+								{
+									"type": "user",
+									"user_id": "115705583",
+									"screen_name": "LAPDHQ",
+									"name": "LAPD HQ"
+								},
+								{
+									"type": "user",
+									"user_id": "34666476",
+									"screen_name": "ReadyLA",
+									"name": "LA City Emergency Management Department"
+								},
+								{
+									"type": "user",
+									"user_id": "61261275",
+									"screen_name": "LADOTofficial",
+									"name": "LADOT"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189683844301107200,
+					"id_str": "1189683844301107201",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EIKbJzaWsAEshuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIKbJzaWsAEshuF.jpg",
+					"url": "https://t.co/O9G7g92oOI",
+					"display_url": "pic.twitter.com/O9G7g92oOI",
+					"expanded_url": "https://twitter.com/LAFD/status/1189683848126201856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1002,
+							"h": 708,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1002,
+							"h": 708,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "823860",
+									"screen_name": "LAFD",
+									"name": "LAFD"
+								},
+								{
+									"type": "user",
+									"user_id": "25144145",
+									"screen_name": "LAFDtalk",
+									"name": "LAFD Talk"
+								},
+								{
+									"type": "user",
+									"user_id": "95270002",
+									"screen_name": "LAFDChief",
+									"name": "Chief Terrazas"
+								},
+								{
+									"type": "user",
+									"user_id": "3063842250",
+									"screen_name": "LAFDcentral",
+									"name": "LAFD Central"
+								},
+								{
+									"type": "user",
+									"user_id": "3063977269",
+									"screen_name": "LAFDsouth",
+									"name": "LAFD South"
+								},
+								{
+									"type": "user",
+									"user_id": "3024546301",
+									"screen_name": "LAFDvalley",
+									"name": "LAFD Valley"
+								},
+								{
+									"type": "user",
+									"user_id": "3063931620",
+									"screen_name": "LAFDwest",
+									"name": "LAFD West"
+								},
+								{
+									"type": "user",
+									"user_id": "115705583",
+									"screen_name": "LAPDHQ",
+									"name": "LAPD HQ"
+								},
+								{
+									"type": "user",
+									"user_id": "34666476",
+									"screen_name": "ReadyLA",
+									"name": "LA City Emergency Management Department"
+								},
+								{
+									"type": "user",
+									"user_id": "61261275",
+									"screen_name": "LADOTofficial",
+									"name": "LADOT"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823860,
+			"id_str": "823860",
+			"name": "LAFD",
+			"screen_name": "LAFD",
+			"location": "Los Angeles, CA USA",
+			"description": "A full-spectrum life safety agency protecting the City of Los Angeles. To report an emergency, call or text 911.",
+			"url": "http://t.co/LaNXryKG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LaNXryKG",
+							"expanded_url": "http://LAFD.ORG",
+							"display_url": "LAFD.ORG",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 177774,
+			"friends_count": 19,
+			"listed_count": 2494,
+			"created_at": "Fri Mar 09 02:28:46 +0000 2007",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928490842565644289/JqdOs3-C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928490842565644289/JqdOs3-C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823860/1470704724",
+			"profile_link_color": "A10817",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "City of #LosAngeles #RedFlag #Parking Restrictions will be LIFTED effective 8:00 AM Thursday, October 31 - but will remain *in full effect and enforced* until that time!\n\nRed Flag Parking Status Info: https://t.co/LRr8xYAJdm\nWas Your Car Towed? https://t.co/J3RyyaPoTW https://t.co/O9G7g92oOI"
+	},
+	{
 		"created_at": "Wed Oct 30 20:26:18 +0000 2019",
 		"id": 1189639686488129500,
 		"id_str": "1189639686488129536",
