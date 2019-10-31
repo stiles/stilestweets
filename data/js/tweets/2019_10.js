@@ -1,6 +1,800 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 22:28:48 +0000 2019",
+		"id": 1190021805261676500,
+		"id_str": "1190032902547034115",
+		"full_text": "We have big news: The journalists of the @latimes are officially working under a fair union contract for the first time in our 138-year history. \n\nTo celebrate this milestone, and to support our unionized newsroom, please consider subscribing. https://t.co/2ws6xWYxz4 https://t.co/9J316EUyWK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2ws6xWYxz4",
+					"expanded_url": "http://membership.latimes.com",
+					"display_url": "membership.latimes.com",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1190021800241123300,
+					"id_str": "1190021800241123328",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EIPOhbZX0AATi4v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIPOhbZX0AATi4v.jpg",
+					"url": "https://t.co/9J316EUyWK",
+					"display_url": "pic.twitter.com/9J316EUyWK",
+					"expanded_url": "https://twitter.com/latguild/status/1190021805261676544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190021800241123300,
+					"id_str": "1190021800241123328",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EIPOhbZX0AATi4v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIPOhbZX0AATi4v.jpg",
+					"url": "https://t.co/9J316EUyWK",
+					"display_url": "pic.twitter.com/9J316EUyWK",
+					"expanded_url": "https://twitter.com/latguild/status/1190021805261676544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 859504635773464600,
+			"id_str": "859504635773464576",
+			"name": "L.A. Times Guild 🦅",
+			"screen_name": "latguild",
+			"location": "Los Angeles, CA",
+			"description": "Our mission is to safeguard the future of the Los Angeles Times and its journalists.",
+			"url": "https://t.co/R0OXgdbmkM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R0OXgdbmkM",
+							"expanded_url": "https://latguild.com",
+							"display_url": "latguild.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7063,
+			"friends_count": 3,
+			"listed_count": 133,
+			"created_at": "Tue May 02 20:27:28 +0000 2017",
+			"favourites_count": 5324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171167178277572608/2xMdrxay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171167178277572608/2xMdrxay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/859504635773464576/1559623312",
+			"profile_link_color": "FAC211",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 265,
+		"favorite_count": 737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have big news: The journalists of the @latimes are officially working under a fair union contract for the first time in our 138-year history. \n\nTo celebrate this milestone, and to support our unionized newsroom, please consider subscribing. https://t.co/2ws6xWYxz4 https://t.co/9J316EUyWK"
+	},
+	{
+		"created_at": "Thu Oct 31 22:28:40 +0000 2019",
+		"id": 1190028590739443700,
+		"id_str": "1190032870875815936",
+		"full_text": "Such a thrill to be at ⁦@latimes⁩ as ⁦@latguild⁩ ratifies our newsroom’s first-ever union contract, by a nearly unanimous vote. A great day for journalism in service of democracy. https://t.co/fE04gWEWw4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"screen_name": "latguild",
+					"name": "L.A. Times Guild 🦅",
+					"id": 859504635773464600,
+					"id_str": "859504635773464576",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190028582174761000,
+					"id_str": "1190028582174760960",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EIPUsMEWoAA1dTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIPUsMEWoAA1dTX.jpg",
+					"url": "https://t.co/fE04gWEWw4",
+					"display_url": "pic.twitter.com/fE04gWEWw4",
+					"expanded_url": "https://twitter.com/sewellchan/status/1190028590739443712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 726,
+									"y": 136,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 1350,
+									"y": 180,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1862,
+									"y": 260,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 392,
+									"y": 210,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 54,
+									"y": 126,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 242,
+									"y": 282,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 6,
+									"y": 684,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 726,
+									"y": 136,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 1350,
+									"y": 180,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1862,
+									"y": 260,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 392,
+									"y": 210,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 54,
+									"y": 126,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 242,
+									"y": 282,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 6,
+									"y": 684,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 425,
+									"y": 79,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 791,
+									"y": 105,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 1091,
+									"y": 152,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 229,
+									"y": 123,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 31,
+									"y": 73,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 141,
+									"y": 165,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 3,
+									"y": 400,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 241,
+									"y": 45,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 448,
+									"y": 59,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 618,
+									"y": 86,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 130,
+									"y": 69,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 17,
+									"y": 41,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 80,
+									"y": 93,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 1,
+									"y": 227,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190028582174761000,
+					"id_str": "1190028582174760960",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EIPUsMEWoAA1dTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIPUsMEWoAA1dTX.jpg",
+					"url": "https://t.co/fE04gWEWw4",
+					"display_url": "pic.twitter.com/fE04gWEWw4",
+					"expanded_url": "https://twitter.com/sewellchan/status/1190028590739443712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 726,
+									"y": 136,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 1350,
+									"y": 180,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1862,
+									"y": 260,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 392,
+									"y": 210,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 54,
+									"y": 126,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 242,
+									"y": 282,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 6,
+									"y": 684,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 726,
+									"y": 136,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 1350,
+									"y": 180,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1862,
+									"y": 260,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 392,
+									"y": 210,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 54,
+									"y": 126,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 242,
+									"y": 282,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 6,
+									"y": 684,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 425,
+									"y": 79,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 791,
+									"y": 105,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 1091,
+									"y": 152,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 229,
+									"y": 123,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 31,
+									"y": 73,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 141,
+									"y": 165,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 3,
+									"y": 400,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 241,
+									"y": 45,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 448,
+									"y": 59,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 618,
+									"y": 86,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 130,
+									"y": 69,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 17,
+									"y": 41,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 80,
+									"y": 93,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 1,
+									"y": 227,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198481,
+			"id_str": "1198481",
+			"name": "Sewell Chan",
+			"screen_name": "sewellchan",
+			"location": "Los Angeles",
+			"description": "Deputy Managing Editor @latimes; previously @nytimes @washingtonpost; aspiring Californian. Email me at first.last@latimes.com.",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33857,
+			"friends_count": 3417,
+			"listed_count": 1074,
+			"created_at": "Thu Mar 15 02:38:28 +0000 2007",
+			"favourites_count": 22044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198481/1511924158",
+			"profile_link_color": "92A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Such a thrill to be at ⁦@latimes⁩ as ⁦@latguild⁩ ratifies our newsroom’s first-ever union contract, by a nearly unanimous vote. A great day for journalism in service of democracy. https://t.co/fE04gWEWw4"
+	},
+	{
 		"created_at": "Thu Oct 31 20:17:48 +0000 2019",
 		"id": 1189999935527108600,
 		"id_str": "1189999935527108608",
