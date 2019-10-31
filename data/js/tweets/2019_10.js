@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 20:17:48 +0000 2019",
+		"id": 1189999935527108600,
+		"id_str": "1189999935527108608",
+		"full_text": "Love this thread. 👇 https://t.co/QllW8jXRN7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QllW8jXRN7",
+					"expanded_url": "https://twitter.com/WillOremus/status/1189910885122428929",
+					"display_url": "twitter.com/WillOremus/sta…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11091,
+			"friends_count": 1823,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1189910885122429000,
+		"quoted_status_id_str": "1189910885122428929",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QllW8jXRN7",
+			"expanded": "https://twitter.com/WillOremus/status/1189910885122428929",
+			"display": "twitter.com/WillOremus/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 31 14:23:57 +0000 2019",
+			"id": 1189910885122429000,
+			"id_str": "1189910885122428929",
+			"full_text": "In today's @nytimes, Aaron Sorkin blasts Mark Zuckerberg for not fact-checking political ads. \n\nIronically, it seems no one fact-checked Sorkin's own column, which falsely claims that half of Americans say Facebook is their main source of news. https://t.co/m5wzMN2djZ https://t.co/cKoVbMGRVO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							11,
+							19
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/m5wzMN2djZ",
+						"expanded_url": "https://www.nytimes.com/2019/10/31/opinion/aaron-sorkin-mark-zuckerberg-facebook.html",
+						"display_url": "nytimes.com/2019/10/31/opi…",
+						"indices": [
+							245,
+							268
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1189910881980833800,
+						"id_str": "1189910881980833793",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/EINppIrW4AEpaSP.png",
+						"media_url_https": "https://pbs.twimg.com/media/EINppIrW4AEpaSP.png",
+						"url": "https://t.co/cKoVbMGRVO",
+						"display_url": "pic.twitter.com/cKoVbMGRVO",
+						"expanded_url": "https://twitter.com/WillOremus/status/1189910885122428929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 607,
+								"h": 192,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 607,
+								"h": 192,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 607,
+								"h": 192,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1189910881980833800,
+						"id_str": "1189910881980833793",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/EINppIrW4AEpaSP.png",
+						"media_url_https": "https://pbs.twimg.com/media/EINppIrW4AEpaSP.png",
+						"url": "https://t.co/cKoVbMGRVO",
+						"display_url": "pic.twitter.com/cKoVbMGRVO",
+						"expanded_url": "https://twitter.com/WillOremus/status/1189910885122428929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 607,
+								"h": 192,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 607,
+								"h": 192,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 607,
+								"h": 192,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 154016912,
+				"id_str": "154016912",
+				"name": "Will Oremus",
+				"screen_name": "WillOremus",
+				"location": "Newark, DE",
+				"description": "Oh-REE-mus. Senior writer for OneZero (@ozm) covering platforms, algorithms, privacy, and online speech. Raising Delawareness since 2018. DM for Signal.",
+				"url": "https://t.co/gjfobSdNta",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gjfobSdNta",
+								"expanded_url": "https://medium.com/@WillOremus",
+								"display_url": "medium.com/@WillOremus",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22065,
+				"friends_count": 2072,
+				"listed_count": 1076,
+				"created_at": "Thu Jun 10 04:23:40 +0000 2010",
+				"favourites_count": 29827,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 24636,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F3952",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/474947556649099264/U8G5jb54_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/474947556649099264/U8G5jb54_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/154016912/1518568335",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 126,
+			"favorite_count": 412,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this thread. 👇 https://t.co/QllW8jXRN7"
+	},
+	{
 		"created_at": "Thu Oct 31 17:28:37 +0000 2019",
 		"id": 1189957361571516400,
 		"id_str": "1189957361571516416",
