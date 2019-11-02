@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 02 17:20:13 +0000 2019",
+		"id": 1190680021297270800,
+		"id_str": "1190680021297270785",
+		"full_text": "Me: \"Hop in the car. It's starting to rain.\"\n\nDaughter, 4: \"No it's not. It doesn't rain in California.\" https://t.co/I9eKydK2J0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190680009561792500,
+					"id_str": "1190680009561792512",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EIYlKQMW4AAneJo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIYlKQMW4AAneJo.jpg",
+					"url": "https://t.co/I9eKydK2J0",
+					"display_url": "pic.twitter.com/I9eKydK2J0",
+					"expanded_url": "https://twitter.com/stiles/status/1190680021297270785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 1162,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 168,
+									"y": 680,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 386,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 1162,
+									"h": 104,
+									"w": 104
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190680009561792500,
+					"id_str": "1190680009561792512",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EIYlKQMW4AAneJo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIYlKQMW4AAneJo.jpg",
+					"url": "https://t.co/I9eKydK2J0",
+					"display_url": "pic.twitter.com/I9eKydK2J0",
+					"expanded_url": "https://twitter.com/stiles/status/1190680021297270785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 1162,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 168,
+									"y": 680,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 386,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 1162,
+									"h": 104,
+									"w": 104
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11091,
+			"friends_count": 1824,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me: \"Hop in the car. It's starting to rain.\"\n\nDaughter, 4: \"No it's not. It doesn't rain in California.\" https://t.co/I9eKydK2J0"
+	},
+	{
 		"created_at": "Sat Nov 02 03:05:21 +0000 2019",
 		"id": 1190464887895408600,
 		"id_str": "1190464887895408641",
