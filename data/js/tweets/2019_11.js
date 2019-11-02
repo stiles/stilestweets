@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 02 03:05:21 +0000 2019",
+		"id": 1190464887895408600,
+		"id_str": "1190464887895408641",
+		"full_text": "https://t.co/ZSIbdiiXLZ https://t.co/spFJ3meXtR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZSIbdiiXLZ",
+					"expanded_url": "https://twitter.com/elisewho/status/1190442198946332673",
+					"display_url": "twitter.com/elisewho/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1190464877149732900,
+					"id_str": "1190464877149732864",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EIVhf5gWwAAwnKV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EIVhf5gWwAAwnKV.jpg",
+					"url": "https://t.co/spFJ3meXtR",
+					"display_url": "pic.twitter.com/spFJ3meXtR",
+					"expanded_url": "https://twitter.com/stiles/status/1190464887895408641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 478,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 478,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190464877149732900,
+					"id_str": "1190464877149732864",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EIVhf5gWwAAwnKV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EIVhf5gWwAAwnKV.jpg",
+					"url": "https://t.co/spFJ3meXtR",
+					"display_url": "pic.twitter.com/spFJ3meXtR",
+					"expanded_url": "https://twitter.com/stiles/status/1190464887895408641/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 478,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 478,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							239,
+							134
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EIVhf5gWwAAwnKV.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11090,
+			"friends_count": 1823,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1190442198946332700,
+		"quoted_status_id_str": "1190442198946332673",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZSIbdiiXLZ",
+			"expanded": "https://twitter.com/elisewho/status/1190442198946332673",
+			"display": "twitter.com/elisewho/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 02 01:35:12 +0000 2019",
+			"id": 1190442198946332700,
+			"id_str": "1190442198946332673",
+			"full_text": "Haven’t been sadder today than just now, when I spotted a line out the door at Panda Express",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16001350,
+				"id_str": "16001350",
+				"name": "Elise Hu",
+				"screen_name": "elisewho",
+				"location": "California, USA",
+				"description": "LA-based @NPR, covering the future. Ex-expat buro chief in Koreas & Japan. @TexasTribune & #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. ehu@npr.org",
+				"url": "https://t.co/jq1dau4Q6g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jq1dau4Q6g",
+								"expanded_url": "http://npr.org/futureyou",
+								"display_url": "npr.org/futureyou",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42375,
+				"friends_count": 1979,
+				"listed_count": 1764,
+				"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+				"favourites_count": 3406,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31380,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DDEDEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1565204689",
+				"profile_link_color": "4E647A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7F7F2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ZSIbdiiXLZ https://t.co/spFJ3meXtR"
+	},
+	{
 		"created_at": "Fri Nov 01 21:12:52 +0000 2019",
 		"id": 1190376183256371200,
 		"id_str": "1190376183256371202",
