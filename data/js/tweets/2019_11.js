@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 23:09:37 +0000 2019",
+		"id": 1191017929258594300,
+		"id_str": "1191130337264275457",
+		"full_text": "Really wonder if Trump truly, wrongly believes all CA fires are “forest” fires that burn for a reason he latched onto in 2018. Never mind topography,\nutility lines,\nland development. Regardless, no president has ever politicized disaster aid for his fellow Americans like this. https://t.co/0BKydTWy8u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0BKydTWy8u",
+					"expanded_url": "https://twitter.com/realdonaldtrump/status/1190995035703185408",
+					"display_url": "twitter.com/realdonaldtrum…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20873135,
+			"id_str": "20873135",
+			"name": "John Myers",
+			"screen_name": "johnmyers",
+			"location": "john.myers@latimes.com",
+			"description": "Sacramento Bureau Chief, Los Angeles Times. All things California politics. Via @KQED, @ABC10 @KSBY, etc. Outer Banker, Blue Devil https://t.co/NlZqoJeLo0",
+			"url": "https://t.co/1bea9GlklB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1bea9GlklB",
+							"expanded_url": "http://www.facebook.com/politicsCalifornia",
+							"display_url": "facebook.com/politicsCalifo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NlZqoJeLo0",
+							"expanded_url": "http://membership.latimes.com",
+							"display_url": "membership.latimes.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27264,
+			"friends_count": 1292,
+			"listed_count": 1290,
+			"created_at": "Sat Feb 14 21:38:14 +0000 2009",
+			"favourites_count": 3409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9266CC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/640032582021742593/QHpCoxdH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/640032582021742593/QHpCoxdH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20873135/1566761890",
+			"profile_link_color": "6117EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F2F7F6",
+			"profile_text_color": "1D0101",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1190995035703185400,
+		"quoted_status_id_str": "1190995035703185408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0BKydTWy8u",
+			"expanded": "https://twitter.com/realdonaldtrump/status/1190995035703185408",
+			"display": "twitter.com/realdonaldtrum…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 03 14:11:58 +0000 2019",
+			"id": 1190995035703185400,
+			"id_str": "1190995035703185408",
+			"full_text": "..Every year, as the fire’s rage &amp; California burns, it is the same thing-and then he comes to the Federal Government for $$$ help. No more. Get your act together Governor. You don’t see close to the level of burn in other states...But our teams are working well together in.....",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1190995034163892200,
+			"in_reply_to_status_id_str": "1190995034163892226",
+			"in_reply_to_user_id": 25073877,
+			"in_reply_to_user_id_str": "25073877",
+			"in_reply_to_screen_name": "realDonaldTrump",
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 66503193,
+				"friends_count": 47,
+				"listed_count": 110422,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45781,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10795,
+			"favorite_count": 41678,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 117,
+		"favorite_count": 359,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really wonder if Trump truly, wrongly believes all CA fires are “forest” fires that burn for a reason he latched onto in 2018. Never mind topography,\nutility lines,\nland development. Regardless, no president has ever politicized disaster aid for his fellow Americans like this. https://t.co/0BKydTWy8u"
+	},
+	{
 		"created_at": "Sun Nov 03 21:53:16 +0000 2019",
 		"id": 1191105619463266300,
 		"id_str": "1191111124982231040",
