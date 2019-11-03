@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 19:04:07 +0000 2019",
+		"id": 1191068558299582500,
+		"id_str": "1191068558299582464",
+		"full_text": "This might be the cutest thing on the Internet today. https://t.co/wKdxr0IKP1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wKdxr0IKP1",
+					"expanded_url": "https://twitter.com/yashar/status/1191068297535643648",
+					"display_url": "twitter.com/yashar/status/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11089,
+			"friends_count": 1824,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191068297535643600,
+		"quoted_status_id_str": "1191068297535643648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wKdxr0IKP1",
+			"expanded": "https://twitter.com/yashar/status/1191068297535643648",
+			"display": "twitter.com/yashar/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 03 19:03:05 +0000 2019",
+			"id": 1191068297535643600,
+			"id_str": "1191068297535643648",
+			"full_text": "The baby’s face when the head scratcher came out 😍 https://t.co/umIVONgWwE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1189580390060695600,
+						"id_str": "1189580390060695552",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189580390060695552/pu/img/gVJNn1EQrer0nJQi.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189580390060695552/pu/img/gVJNn1EQrer0nJQi.jpg",
+						"url": "https://t.co/umIVONgWwE",
+						"display_url": "pic.twitter.com/umIVONgWwE",
+						"expanded_url": "https://twitter.com/BestVideosviral/status/1189580533820514304/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 611,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 652,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 346,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1189580533820514300,
+						"source_status_id_str": "1189580533820514304",
+						"source_user_id": 1059446806243885000,
+						"source_user_id_str": "1059446806243885056",
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1189580390060695600,
+						"id_str": "1189580390060695552",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189580390060695552/pu/img/gVJNn1EQrer0nJQi.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189580390060695552/pu/img/gVJNn1EQrer0nJQi.jpg",
+						"url": "https://t.co/umIVONgWwE",
+						"display_url": "pic.twitter.com/umIVONgWwE",
+						"expanded_url": "https://twitter.com/BestVideosviral/status/1189580533820514304/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 611,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 652,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 346,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1189580533820514300,
+						"source_status_id_str": "1189580533820514304",
+						"source_user_id": 1059446806243885000,
+						"source_user_id_str": "1059446806243885056",
+						"video_info": {
+							"aspect_ratio": [
+								163,
+								320
+							],
+							"duration_millis": 20157,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1189580390060695552/pu/vid/652x1280/1E0aajzUB23R9pN7.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1189580390060695552/pu/vid/320x628/r_RvM92daeQCkrp_.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1189580390060695552/pu/vid/360x706/dRWSQlMTZl7FPOe8.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1189580390060695552/pu/pl/RgpjpZPaTjl_IngM.m3u8?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1059446806243885000,
+								"id_str": "1059446806243885056",
+								"name": "viralvideos",
+								"screen_name": "BestVideosviral",
+								"location": "Waterloo, Ontario  ",
+								"description": "Hey 👋 everybody 👨‍👨‍👧‍👦 my names Nathan. I’m here to make your day 👏 better with some of the greatest videos ever taken 🎥 📱Mr. World wide 🌎",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 96834,
+								"friends_count": 5,
+								"listed_count": 330,
+								"created_at": "Mon Nov 05 14:06:16 +0000 2018",
+								"favourites_count": 7053,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 11148,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1184936266368012288/qsVIiTwy_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184936266368012288/qsVIiTwy_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1059446806243885056/1571345786",
+								"profile_link_color": "FF691F",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"can_media_tag": false,
+								"followed_by": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11744152,
+				"id_str": "11744152",
+				"name": "Yashar Ali 🐘",
+				"screen_name": "yashar",
+				"location": "NYC/LA",
+				"description": "New York Magazine/HuffPost Contributor Email: currentyashar@gmail.com Direct Messages Open Text/Call/Signal/Confide/WhatsApp: 310-795-2497. Agents: UTA",
+				"url": "https://t.co/DC2FMxZjda",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DC2FMxZjda",
+								"expanded_url": "http://yashar.substack.com",
+								"display_url": "yashar.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 477797,
+				"friends_count": 23677,
+				"listed_count": 5043,
+				"created_at": "Wed Jan 02 06:55:39 +0000 2008",
+				"favourites_count": 124202,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 149069,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111685300089049088/0TUm7pyk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111685300089049088/0TUm7pyk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11744152/1502224549",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "080708",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 255,
+			"favorite_count": 1531,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This might be the cutest thing on the Internet today. https://t.co/wKdxr0IKP1"
+	},
+	{
 		"created_at": "Sat Nov 02 18:44:13 +0000 2019",
 		"id": 1190404213806968800,
 		"id_str": "1190701162493693952",
