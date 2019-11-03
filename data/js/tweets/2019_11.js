@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 19:38:54 +0000 2019",
+		"id": 1191074011112829000,
+		"id_str": "1191077310281048069",
+		"full_text": "Wealthy landowner worked with fire fighters to turn his hilltop into a remote base for firefighting helicopters. https://t.co/rOZuuQc5k5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rOZuuQc5k5",
+					"expanded_url": "https://twitter.com/stiles/status/1191066828530806784",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11518572,
+			"id_str": "11518572",
+			"name": "Chris Albon",
+			"screen_name": "chrisalbon",
+			"location": "San Francisco",
+			"description": "Using data to fight for something that matters.\n \nDirector of Data Science @DevotedHealth. \nCreated https://t.co/Kcpr3kjkOn. \nCofounded @YonderAI.\nPhD.",
+			"url": "https://t.co/CQhzAA24cn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CQhzAA24cn",
+							"expanded_url": "http://ChrisAlbon.com",
+							"display_url": "ChrisAlbon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Kcpr3kjkOn",
+							"expanded_url": "http://MachineLearningFlashcards.com",
+							"display_url": "MachineLearningFlashcards.com",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38914,
+			"friends_count": 731,
+			"listed_count": 1456,
+			"created_at": "Wed Dec 26 01:49:09 +0000 2007",
+			"favourites_count": 13063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFF9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736992518110224384/fmqQxFEr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736992518110224384/fmqQxFEr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11518572/1503261622",
+			"profile_link_color": "DC3422",
+			"profile_sidebar_border_color": "BFBFBE",
+			"profile_sidebar_fill_color": "DEDED8",
+			"profile_text_color": "2A2C2B",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191066828530806800,
+		"quoted_status_id_str": "1191066828530806784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rOZuuQc5k5",
+			"expanded": "https://twitter.com/stiles/status/1191066828530806784",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 03 18:57:15 +0000 2019",
+			"id": 1191066828530806800,
+			"id_str": "1191066828530806784",
+			"full_text": "Discovered this remote mountain water base for @CountyofLA fire helicopters while reporting on the Woolsey Fire with @JosephSerna. Turns out the story is more interesting than just the view, which is also fabulous: https://t.co/2mZo8s6z1z https://t.co/evcrl3XR3Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CountyofLA",
+						"name": "Los Angeles County",
+						"id": 193771633,
+						"id_str": "193771633",
+						"indices": [
+							47,
+							58
+						]
+					},
+					{
+						"screen_name": "JosephSerna",
+						"name": "Joe Serna, LAT",
+						"id": 369143034,
+						"id_str": "369143034",
+						"indices": [
+							117,
+							129
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2mZo8s6z1z",
+						"expanded_url": "https://www.latimes.com/california/story/2019-11-03/fire-helicopter-water-base-santa-monica-mountains-simon-t",
+						"display_url": "latimes.com/california/sto…",
+						"indices": [
+							215,
+							238
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1191066793319653400,
+						"id_str": "1191066793319653376",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EIeE8B-U4AAd8U8.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EIeE8B-U4AAd8U8.jpg",
+						"url": "https://t.co/evcrl3XR3Y",
+						"display_url": "pic.twitter.com/evcrl3XR3Y",
+						"expanded_url": "https://twitter.com/stiles/status/1191066828530806784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 426,
+								"h": 208,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 426,
+								"h": 208,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 426,
+								"h": 208,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1191066793319653400,
+						"id_str": "1191066793319653376",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EIeE8B-U4AAd8U8.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EIeE8B-U4AAd8U8.jpg",
+						"url": "https://t.co/evcrl3XR3Y",
+						"display_url": "pic.twitter.com/evcrl3XR3Y",
+						"expanded_url": "https://twitter.com/stiles/status/1191066828530806784/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 426,
+								"h": 208,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 426,
+								"h": 208,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 426,
+								"h": 208,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								213,
+								104
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EIeE8B-U4AAd8U8.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles",
+				"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11089,
+				"friends_count": 1824,
+				"listed_count": 880,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 6901,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14682,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+				"profile_link_color": "B12E35",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wealthy landowner worked with fire fighters to turn his hilltop into a remote base for firefighting helicopters. https://t.co/rOZuuQc5k5"
+	},
+	{
 		"created_at": "Sun Nov 03 19:04:07 +0000 2019",
 		"id": 1191068558299582500,
 		"id_str": "1191068558299582464",
@@ -244,7 +590,7 @@ Grailbird.data.tweets_2019_11 =
 								"name": "viralvideos",
 								"screen_name": "BestVideosviral",
 								"location": "Waterloo, Ontario  ",
-								"description": "Hey 👋 everybody 👨‍👨‍👧‍👦 my names Nathan. I’m here to make your day 👏 better with some of the greatest videos ever taken 🎥 📱Mr. World wide 🌎",
+								"description": "Hey 👋 everybody 👨👨👧👦 my names Nathan. I’m here to make your day 👏 better with some of the greatest videos ever taken 🎥 📱Mr. World wide 🌎",
 								"url": null,
 								"entities": {
 									"description": {
