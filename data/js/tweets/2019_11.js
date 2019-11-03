@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 21:53:16 +0000 2019",
+		"id": 1191105619463266300,
+		"id_str": "1191111124982231040",
+		"full_text": "@stiles @fishnette Great reporting! And such a generous person.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "fishnette",
+					"name": "sandra fish 🐠",
+					"id": 14574055,
+					"id_str": "14574055",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1191103003069046800,
+		"in_reply_to_status_id_str": "1191103003069046784",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 15518019,
+			"id_str": "15518019",
+			"name": "ArizonaKelli",
+			"screen_name": "arizonakelli",
+			"location": "Arizona, USA",
+			"description": "Arizonan passionate about public health, storytelling, kindness. Author of UNDER THE SAME MOON, BASKET BABY, COUNTING COUP.",
+			"url": "https://t.co/HsnIlMVvqO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HsnIlMVvqO",
+							"expanded_url": "http://www.africankelli.com",
+							"display_url": "africankelli.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1747,
+			"friends_count": 1757,
+			"listed_count": 84,
+			"created_at": "Mon Jul 21 17:34:23 +0000 2008",
+			"favourites_count": 8357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185644317634748417/mgTVo4Pa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185644317634748417/mgTVo4Pa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15518019/1571514609",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@stiles @fishnette Great reporting! And such a generous person."
+	},
+	{
+		"created_at": "Sun Nov 03 21:21:24 +0000 2019",
+		"id": 1191102908307300400,
+		"id_str": "1191103105129054209",
+		"full_text": "He thinks it’s not witness intimidation/retaliation if you do it in public. He’s wrong. https://t.co/NQdhVPOHLB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NQdhVPOHLB",
+					"expanded_url": "https://twitter.com/kellyo/status/1191050109448073218",
+					"display_url": "twitter.com/kellyo/status/…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 548384458,
+			"id_str": "548384458",
+			"name": "Joyce Alene",
+			"screen_name": "JoyceWhiteVance",
+			"location": "Alabama",
+			"description": "U of Alabama Law Professor|@MSNBC Contributor|Obama US Atty in B'ham|25 year federal prosecutor|Wife & Mom of 4|Knitting a lot while watching the future",
+			"url": "https://t.co/USFLbOrRZi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/USFLbOrRZi",
+							"expanded_url": "https://www.law.ua.edu/directory/People/view/Joyce_Vance",
+							"display_url": "law.ua.edu/directory/Peop…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 401105,
+			"friends_count": 985,
+			"listed_count": 2538,
+			"created_at": "Sun Apr 08 12:20:45 +0000 2012",
+			"favourites_count": 53932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952257848301498371/5s24RH-g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952257848301498371/5s24RH-g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/548384458/1485185212",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191050109448073200,
+		"quoted_status_id_str": "1191050109448073218",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NQdhVPOHLB",
+			"expanded": "https://twitter.com/kellyo/status/1191050109448073218",
+			"display": "twitter.com/kellyo/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 03 17:50:49 +0000 2019",
+			"id": 1191050109448073200,
+			"id_str": "1191050109448073218",
+			"full_text": "NEW: President Trump threatens to expose information about Lt. Col. Vindman. Watch. https://t.co/pEmUlJkqvB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1191050015898296300,
+						"id_str": "1191050015898296323",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1191050015898296323/pu/img/0BtVk0Ee6_JAzqQT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1191050015898296323/pu/img/0BtVk0Ee6_JAzqQT.jpg",
+						"url": "https://t.co/pEmUlJkqvB",
+						"display_url": "pic.twitter.com/pEmUlJkqvB",
+						"expanded_url": "https://twitter.com/KellyO/status/1191050109448073218/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1191050015898296300,
+						"id_str": "1191050015898296323",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1191050015898296323/pu/img/0BtVk0Ee6_JAzqQT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1191050015898296323/pu/img/0BtVk0Ee6_JAzqQT.jpg",
+						"url": "https://t.co/pEmUlJkqvB",
+						"display_url": "pic.twitter.com/pEmUlJkqvB",
+						"expanded_url": "https://twitter.com/KellyO/status/1191050109448073218/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 21067,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1191050015898296323/pu/pl/GMEyHRd3caXhmNsW.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1191050015898296323/pu/vid/640x360/yU1mgPbL4VyB_1XT.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1191050015898296323/pu/vid/480x270/NGG8VKatoRJWxUdH.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1191050015898296323/pu/vid/1280x720/22frVRGsWejgn5yQ.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 224320485,
+				"id_str": "224320485",
+				"name": "Kelly O'Donnell",
+				"screen_name": "KellyO",
+				"location": "Washington, DC",
+				"description": "White House Correspondent @NBCNews Veteran of Cap Hill, Campaigns, LA, NY, DC bureaus. Insta: @TheKellyO",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 222337,
+				"friends_count": 2142,
+				"listed_count": 3419,
+				"created_at": "Wed Dec 08 18:09:52 +0000 2010",
+				"favourites_count": 3066,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25206,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1032729236132519936/KPu7NR6T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032729236132519936/KPu7NR6T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/224320485/1558803855",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1694,
+			"favorite_count": 2745,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1811,
+		"favorite_count": 5866,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He thinks it’s not witness intimidation/retaliation if you do it in public. He’s wrong. https://t.co/NQdhVPOHLB"
+	},
+	{
 		"created_at": "Sun Nov 03 21:06:17 +0000 2019",
 		"id": 1191047296680648700,
 		"id_str": "1191099302426238976",
