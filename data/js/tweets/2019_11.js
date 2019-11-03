@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 21:06:17 +0000 2019",
+		"id": 1191047296680648700,
+		"id_str": "1191099302426238976",
+		"full_text": "Several officials complained to a NSC lawyer that it was inappropriate, so he hid the transcript on a special server. The people who had concerns were told to keep quiet. https://t.co/MUy0U9LpDs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MUy0U9LpDs",
+					"expanded_url": "https://twitter.com/realdonaldtrump/status/1191032506105024512",
+					"display_url": "twitter.com/realdonaldtrum…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38936142,
+			"id_str": "38936142",
+			"name": "Josh Dawsey",
+			"screen_name": "jdawsey1",
+			"location": "DC",
+			"description": "Washington Post White House Reporter. CNN analyst. Proud Carolinian & New Yorker. Loud phone talker. Josh.Dawsey@WashPost.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 235990,
+			"friends_count": 2827,
+			"listed_count": 3490,
+			"created_at": "Sat May 09 21:54:29 +0000 2009",
+			"favourites_count": 33259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177664907837358080/nYC1Z59S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177664907837358080/nYC1Z59S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38936142/1571879156",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191032506105024500,
+		"quoted_status_id_str": "1191032506105024512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MUy0U9LpDs",
+			"expanded": "https://twitter.com/realdonaldtrump/status/1191032506105024512",
+			"display": "twitter.com/realdonaldtrum…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 03 16:40:52 +0000 2019",
+			"id": 1191032506105024500,
+			"id_str": "1191032506105024512",
+			"full_text": "Many people listened to my phone call with the Ukrainian President while it was being made. I never heard any complaints. The reason is that it was totally appropriate, I say perfect. Republicans have never been more unified, and my Republican Approval Rating is now 95%!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 66501358,
+				"friends_count": 47,
+				"listed_count": 110424,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45780,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13692,
+			"favorite_count": 57341,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1320,
+		"favorite_count": 3995,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Several officials complained to a NSC lawyer that it was inappropriate, so he hid the transcript on a special server. The people who had concerns were told to keep quiet. https://t.co/MUy0U9LpDs"
+	},
+	{
+		"created_at": "Sun Nov 03 20:59:41 +0000 2019",
+		"id": 1191056682677223400,
+		"id_str": "1191097641087561728",
+		"full_text": "This is a fantastic story about a civic-minded LA man who has turned his property into a water refueling station for firefighting copters. Simply amazine: https://t.co/sjo6TzPV4U @stiles",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sjo6TzPV4U",
+					"expanded_url": "https://www.latimes.com/california/story/2019-11-03/fire-helicopter-water-base-santa-monica-mountains-simon-t",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19085493,
+			"id_str": "19085493",
+			"name": "Robin Abcarian",
+			"screen_name": "AbcarianLAT",
+			"location": "Spiritual home = Berkeley",
+			"description": "I was wrong. 2019 has not been better.",
+			"url": "https://t.co/fbFESN5jrC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fbFESN5jrC",
+							"expanded_url": "http://www.latimes.com/local/abcarian",
+							"display_url": "latimes.com/local/abcarian",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7991,
+			"friends_count": 2268,
+			"listed_count": 312,
+			"created_at": "Fri Jan 16 21:03:36 +0000 2009",
+			"favourites_count": 7879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083518003675910144/VxgWFsdc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083518003675910144/VxgWFsdc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19085493/1534184928",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a fantastic story about a civic-minded LA man who has turned his property into a water refueling station for firefighting copters. Simply amazine: https://t.co/sjo6TzPV4U @stiles"
+	},
+	{
 		"created_at": "Sun Nov 03 19:38:54 +0000 2019",
 		"id": 1191074011112829000,
 		"id_str": "1191077310281048069",
