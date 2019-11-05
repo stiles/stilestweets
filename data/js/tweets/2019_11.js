@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 05 04:12:31 +0000 2019",
+		"id": 1191568797670490000,
+		"id_str": "1191568955049033728",
+		"full_text": "Between last night and this morning, Trump claimed that:\n- There was no quid pro quo.\n- \"Covfefe\" has a deeper meaning.\n- The Ukraine whistleblower was wrong.\n- He has \"real\" polls showing him doing well.\n\nIt's left to observers to decide which to believe.\nhttps://t.co/c13z2HX9O8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c13z2HX9O8",
+					"expanded_url": "https://www.washingtonpost.com/politics/2019/11/04/trumps-world-all-polls-are-good-all-whistleblowers-are-bad/",
+					"display_url": "washingtonpost.com/politics/2019/…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950531,
+			"id_str": "950531",
+			"name": "Philip Bump",
+			"screen_name": "pbump",
+			"location": "New York",
+			"description": "National correspondent for The Washington Post. philip.bump@washpost.com pbump@protonmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121943,
+			"friends_count": 575,
+			"listed_count": 3220,
+			"created_at": "Sun Mar 11 19:58:10 +0000 2007",
+			"favourites_count": 54619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 98286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117468243185340417/_5WX85h8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117468243185340417/_5WX85h8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/950531/1572316676",
+			"profile_link_color": "15131E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FCF4F4",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Between last night and this morning, Trump claimed that:\n- There was no quid pro quo.\n- \"Covfefe\" has a deeper meaning.\n- The Ukraine whistleblower was wrong.\n- He has \"real\" polls showing him doing well.\n\nIt's left to observers to decide which to believe.\nhttps://t.co/c13z2HX9O8"
+	},
+	{
 		"created_at": "Mon Nov 04 14:40:57 +0000 2019",
 		"id": 1191364714913136600,
 		"id_str": "1191364714913136640",
