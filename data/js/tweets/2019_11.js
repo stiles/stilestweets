@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 05 14:36:30 +0000 2019",
+		"id": 1191386084971671600,
+		"id_str": "1191725985739112448",
+		"full_text": "I’ve written about people who had their rent double when moving to LA. Now I’m one of those people https://t.co/lbNlIZ3q1Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lbNlIZ3q1Z",
+					"expanded_url": "https://www.latimes.com/california/story/2019-11-04/california-housing-crisis-reporter-rent-double-move-sacramento-los-angeles",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32186559,
+			"id_str": "32186559",
+			"name": "Liam Dillon",
+			"screen_name": "dillonliam",
+			"location": "Los Angeles, CA",
+			"description": "Covering housing affordability and neighborhood change across California @latimes. \n\nDMs open. liam.dillon@latimes.com",
+			"url": "https://t.co/h6H7j5xDTJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6H7j5xDTJ",
+							"expanded_url": "https://www.latimes.com/people/liam-dillon",
+							"display_url": "latimes.com/people/liam-di…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17610,
+			"friends_count": 918,
+			"listed_count": 592,
+			"created_at": "Thu Apr 16 22:43:22 +0000 2009",
+			"favourites_count": 2730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171998952561897472/DBJv-4Hd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171998952561897472/DBJv-4Hd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32186559/1550872165",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 465,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve written about people who had their rent double when moving to LA. Now I’m one of those people https://t.co/lbNlIZ3q1Z"
+	},
+	{
 		"created_at": "Tue Nov 05 04:12:31 +0000 2019",
 		"id": 1191568797670490000,
 		"id_str": "1191568955049033728",
