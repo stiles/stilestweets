@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 20:32:27 +0000 2019",
+		"id": 1192075664037421000,
+		"id_str": "1192177951829184512",
+		"full_text": "Red leaves, green trees, blue buildings: the port city of Busan, South Korea is an RGB smorgasbord in @NASA_Landsat imagery acquired this morning https://t.co/E3cz1mh842",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NASA_Landsat",
+					"name": "NASA Landsat Program",
+					"id": 219070649,
+					"id_str": "219070649",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192075659138482200,
+					"id_str": "1192075659138482176",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EIsafwBWwAAhJJV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIsafwBWwAAhJJV.jpg",
+					"url": "https://t.co/E3cz1mh842",
+					"display_url": "pic.twitter.com/E3cz1mh842",
+					"expanded_url": "https://twitter.com/jscarto/status/1192075664037421056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192075659138482200,
+					"id_str": "1192075659138482176",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EIsafwBWwAAhJJV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIsafwBWwAAhJJV.jpg",
+					"url": "https://t.co/E3cz1mh842",
+					"display_url": "pic.twitter.com/E3cz1mh842",
+					"expanded_url": "https://twitter.com/jscarto/status/1192075664037421056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16692909,
+			"id_str": "16692909",
+			"name": "Joshua Stevens",
+			"screen_name": "jscarto",
+			"location": "Mason, MI",
+			"description": "Data visualization and cartography lead @NASAEarth. Dad stuff everywhere else. Sees design as lubrication for cognitive machinery. Views my own.",
+			"url": "https://t.co/QnEOyjsyXU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QnEOyjsyXU",
+							"expanded_url": "http://www.joshuastevens.net",
+							"display_url": "joshuastevens.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9392,
+			"friends_count": 861,
+			"listed_count": 526,
+			"created_at": "Sat Oct 11 04:05:06 +0000 2008",
+			"favourites_count": 5840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124123513277829121/-gz9KxLB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124123513277829121/-gz9KxLB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16692909/1557167761",
+			"profile_link_color": "21678C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F2F2F2",
+			"profile_text_color": "2B2A2B",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Red leaves, green trees, blue buildings: the port city of Busan, South Korea is an RGB smorgasbord in @NASA_Landsat imagery acquired this morning https://t.co/E3cz1mh842"
+	},
+	{
 		"created_at": "Wed Nov 06 06:04:36 +0000 2019",
 		"id": 1191939610504511500,
 		"id_str": "1191959549214908416",
