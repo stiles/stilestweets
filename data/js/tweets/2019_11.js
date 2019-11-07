@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 07 21:57:12 +0000 2019",
+		"id": 1192561664152879000,
+		"id_str": "1192561664152879105",
+		"full_text": "@laura_nelson @latimes It appears so. \n\nThere's clearly evidence of an explosion.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laura_nelson",
+					"name": "Laura J. Nelson 🦅",
+					"id": 16538210,
+					"id_str": "16538210",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1192561480081690600,
+		"in_reply_to_status_id_str": "1192561480081690624",
+		"in_reply_to_user_id": 16538210,
+		"in_reply_to_user_id_str": "16538210",
+		"in_reply_to_screen_name": "laura_nelson",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11110,
+			"friends_count": 1831,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@laura_nelson @latimes It appears so. \n\nThere's clearly evidence of an explosion."
+	},
+	{
+		"created_at": "Thu Nov 07 21:54:41 +0000 2019",
+		"id": 1192561033811918800,
+		"id_str": "1192561033811918849",
+		"full_text": "This is a picture of a microwave in the @latimes newsroom right now. \n\nSo elitist. https://t.co/dpgtNXRlbe https://t.co/jueOaE7AJk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						40,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dpgtNXRlbe",
+					"expanded_url": "https://twitter.com/laura_nelson/status/1192558908964868096",
+					"display_url": "twitter.com/laura_nelson/s…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1192561028799721500,
+					"id_str": "1192561028799721472",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EIzT7-6U8AAa7Dv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIzT7-6U8AAa7Dv.jpg",
+					"url": "https://t.co/jueOaE7AJk",
+					"display_url": "pic.twitter.com/jueOaE7AJk",
+					"expanded_url": "https://twitter.com/stiles/status/1192561033811918849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 240,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 298,
+									"y": 412,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 781,
+									"y": 424,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 526,
+									"y": 727,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1334,
+									"y": 724,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 898,
+									"y": 1242,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1334,
+									"y": 724,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 898,
+									"y": 1242,
+									"h": 120,
+									"w": 120
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192561028799721500,
+					"id_str": "1192561028799721472",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EIzT7-6U8AAa7Dv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIzT7-6U8AAa7Dv.jpg",
+					"url": "https://t.co/jueOaE7AJk",
+					"display_url": "pic.twitter.com/jueOaE7AJk",
+					"expanded_url": "https://twitter.com/stiles/status/1192561033811918849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 240,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 298,
+									"y": 412,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 781,
+									"y": 424,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 526,
+									"y": 727,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1334,
+									"y": 724,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 898,
+									"y": 1242,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1334,
+									"y": 724,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 898,
+									"y": 1242,
+									"h": 120,
+									"w": 120
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11110,
+			"friends_count": 1831,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1571983094",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0654b676d0359a31",
+			"url": "https://api.twitter.com/1.1/geo/id/0654b676d0359a31.json",
+			"place_type": "city",
+			"name": "El Segundo",
+			"full_name": "El Segundo, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.429843,
+							33.901804
+						],
+						[
+							-118.370685,
+							33.901804
+						],
+						[
+							-118.370685,
+							33.931493
+						],
+						[
+							-118.429843,
+							33.931493
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1192558908964868000,
+		"quoted_status_id_str": "1192558908964868096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dpgtNXRlbe",
+			"expanded": "https://twitter.com/laura_nelson/status/1192558908964868096",
+			"display": "twitter.com/laura_nelson/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 07 21:46:15 +0000 2019",
+			"id": 1192558908964868000,
+			"id_str": "1192558908964868096",
+			"full_text": "I literally once watched a journalist eat a hamburger and french fries during a press conference and then wipe his hands on the carpet https://t.co/GlFeB3VMwY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GlFeB3VMwY",
+						"expanded_url": "https://www.mediaite.com/tv/rep-matt-gaetz-mocks-media-as-kale-and-quinoa-eaters-who-look-down-upon-fried-food-eating-real-americans/",
+						"display_url": "mediaite.com/tv/rep-matt-ga…",
+						"indices": [
+							135,
+							158
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16538210,
+				"id_str": "16538210",
+				"name": "Laura J. Nelson 🦅",
+				"screen_name": "laura_nelson",
+				"location": "Los Angeles, CA",
+				"description": "@latimes transportation reporter. I cover 🚙, 🚌, 🚇, 🚲, 🚶🏽‍♀️, 🛴 and more. Proud @latguild organizer. Kansan. Plant lady. Tips? laura.nelson@latimes(.)com",
+				"url": "https://t.co/Owd4TbhzZA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Owd4TbhzZA",
+								"expanded_url": "https://www.latimes.com/people/laura-j-nelson",
+								"display_url": "latimes.com/people/laura-j…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26867,
+				"friends_count": 999,
+				"listed_count": 990,
+				"created_at": "Wed Oct 01 01:20:51 +0000 2008",
+				"favourites_count": 45782,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56376,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16538210/1568313391",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56,
+			"favorite_count": 405,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a picture of a microwave in the @latimes newsroom right now. \n\nSo elitist. https://t.co/dpgtNXRlbe https://t.co/jueOaE7AJk"
+	},
+	{
 		"created_at": "Thu Nov 07 21:12:32 +0000 2019",
 		"id": 1192550423346860000,
 		"id_str": "1192550423346860033",
