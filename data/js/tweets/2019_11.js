@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 08 05:06:11 +0000 2019",
+		"id": 1192576597603364900,
+		"id_str": "1192669621494530048",
+		"full_text": "Instant message I just got: \"is it just me, or is investigative reporting mostly a series of extremely boring data cleaning tasks, followed by a series of fruitless inquiries addressed to people who have no desire to talk to you?\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47862557,
+			"id_str": "47862557",
+			"name": "Andrea Fuller",
+			"screen_name": "anfuller",
+			"location": "Brooklyn, NY",
+			"description": "Data Cowgirl. Reporter @WSJ. NYC resident, WNC native. Signal: 202-656-2088.",
+			"url": "http://t.co/83UtgEQyg2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/83UtgEQyg2",
+							"expanded_url": "http://www.andreanicolefuller.com",
+							"display_url": "andreanicolefuller.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2153,
+			"friends_count": 533,
+			"listed_count": 114,
+			"created_at": "Wed Jun 17 05:04:40 +0000 2009",
+			"favourites_count": 7138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/857733511637237761/1UUcRpmK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/857733511637237761/1UUcRpmK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47862557/1395195735",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 67,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Instant message I just got: \"is it just me, or is investigative reporting mostly a series of extremely boring data cleaning tasks, followed by a series of fruitless inquiries addressed to people who have no desire to talk to you?\""
+	},
+	{
+		"created_at": "Fri Nov 08 04:41:04 +0000 2019",
+		"id": 1192663302469349400,
+		"id_str": "1192663302469349376",
+		"full_text": "Good advice... https://t.co/ZZdsPb4K3J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZZdsPb4K3J",
+					"expanded_url": "https://twitter.com/scottbraddock/status/1192616511107665920",
+					"display_url": "twitter.com/scottbraddock/…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11124,
+			"friends_count": 1831,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573166621",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1192616511107666000,
+		"quoted_status_id_str": "1192616511107665920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZZdsPb4K3J",
+			"expanded": "https://twitter.com/scottbraddock/status/1192616511107665920",
+			"display": "twitter.com/scottbraddock/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 08 01:35:08 +0000 2019",
+			"id": 1192616511107666000,
+			"id_str": "1192616511107665920",
+			"full_text": "Texans: Anytime you meet someone from somewhere else remember they need to leave thinking \"Everyone in Texas is so nice.\" \nThat's our job. \nGit er done.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15676944,
+				"id_str": "15676944",
+				"name": "Scott Braddock",
+				"screen_name": "scottbraddock",
+				"location": "Texas",
+				"description": "Of Texas. Editor @quorumreport. Journalist @ConstrCitizen. Texas Take Podcast w/@HoustonChron. Murrow award winning broadcaster.",
+				"url": "https://t.co/rDDIMoYHO3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rDDIMoYHO3",
+								"expanded_url": "http://scottbraddock.com",
+								"display_url": "scottbraddock.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13030,
+				"friends_count": 4151,
+				"listed_count": 386,
+				"created_at": "Thu Jul 31 16:41:04 +0000 2008",
+				"favourites_count": 5572,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 87203,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1187971682549428226/EG1wZ_vu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187971682549428226/EG1wZ_vu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15676944/1572073713",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good advice... https://t.co/ZZdsPb4K3J"
+	},
+	{
 		"created_at": "Thu Nov 07 22:48:40 +0000 2019",
 		"id": 1192574417722904600,
 		"id_str": "1192574618357231621",
