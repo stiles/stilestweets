@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 09 20:45:39 +0000 2019",
+		"id": 1193268435364397000,
+		"id_str": "1193268435364397056",
+		"full_text": "I'm at a New York-themed pizzeria in Del Rey, and this guy is on the wall. \n\nRemember him? What's he up to these days? https://t.co/BHkTgFtsbo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193268425243545600,
+					"id_str": "1193268425243545600",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EI9XT4BU0AATPe1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI9XT4BU0AATPe1.jpg",
+					"url": "https://t.co/BHkTgFtsbo",
+					"display_url": "pic.twitter.com/BHkTgFtsbo",
+					"expanded_url": "https://twitter.com/stiles/status/1193268435364397056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1156,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 655,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1972,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 446,
+									"y": 144,
+									"h": 288,
+									"w": 288
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 253,
+									"y": 81,
+									"h": 163,
+									"w": 163
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 761,
+									"y": 245,
+									"h": 491,
+									"w": 491
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 827,
+									"y": 267,
+									"h": 534,
+									"w": 534
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193268425243545600,
+					"id_str": "1193268425243545600",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EI9XT4BU0AATPe1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI9XT4BU0AATPe1.jpg",
+					"url": "https://t.co/BHkTgFtsbo",
+					"display_url": "pic.twitter.com/BHkTgFtsbo",
+					"expanded_url": "https://twitter.com/stiles/status/1193268435364397056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1156,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 655,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1972,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 446,
+									"y": 144,
+									"h": 288,
+									"w": 288
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 253,
+									"y": 81,
+									"h": 163,
+									"w": 163
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 761,
+									"y": 245,
+									"h": 491,
+									"w": 491
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 827,
+									"y": 267,
+									"h": 534,
+									"w": 534
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11137,
+			"friends_count": 1831,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573166621",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0fbeaed11d555000",
+			"url": "https://api.twitter.com/1.1/geo/id/0fbeaed11d555000.json",
+			"place_type": "poi",
+			"name": "Pizzarito",
+			"full_name": "Pizzarito",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.43942407982132,
+							33.98460510103112
+						],
+						[
+							-118.43942407982132,
+							33.98460510103112
+						],
+						[
+							-118.43942407982132,
+							33.98460510103112
+						],
+						[
+							-118.43942407982132,
+							33.98460510103112
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm at a New York-themed pizzeria in Del Rey, and this guy is on the wall. \n\nRemember him? What's he up to these days? https://t.co/BHkTgFtsbo"
+	},
+	{
 		"created_at": "Sat Nov 09 18:42:00 +0000 2019",
 		"id": 1193237317483413500,
 		"id_str": "1193237317483413507",
