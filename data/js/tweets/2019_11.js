@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 07:38:53 +0000 2019",
+		"id": 1193432828605649000,
+		"id_str": "1193432828605648896",
+		"full_text": "Super useful chart by @LaurenLeatherby on the shift in partisan political power in Virginia over the last two decades: https://t.co/TtQs3HeeQ6 https://t.co/UfEUJp4pkE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaurenLeatherby",
+					"name": "Lauren Leatherby",
+					"id": 201774949,
+					"id_str": "201774949",
+					"indices": [
+						22,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TtQs3HeeQ6",
+					"expanded_url": "https://www.nytimes.com/2019/11/09/us/politics/virginia-elections-democrats-republicans.html",
+					"display_url": "nytimes.com/2019/11/09/us/…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1193432824386211800,
+					"id_str": "1193432824386211845",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_s1KjU0AUF6ME.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_s1KjU0AUF6ME.jpg",
+					"url": "https://t.co/UfEUJp4pkE",
+					"display_url": "pic.twitter.com/UfEUJp4pkE",
+					"expanded_url": "https://twitter.com/stiles/status/1193432828605648896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1328,
+							"h": 950,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 383,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 383,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 346,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 196,
+									"h": 70,
+									"w": 70
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193432824386211800,
+					"id_str": "1193432824386211845",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EI_s1KjU0AUF6ME.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI_s1KjU0AUF6ME.jpg",
+					"url": "https://t.co/UfEUJp4pkE",
+					"display_url": "pic.twitter.com/UfEUJp4pkE",
+					"expanded_url": "https://twitter.com/stiles/status/1193432828605648896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1328,
+							"h": 950,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 383,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 383,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 346,
+									"h": 123,
+									"w": 123
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 196,
+									"h": 70,
+									"w": 70
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11138,
+			"friends_count": 1832,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573166621",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Super useful chart by @LaurenLeatherby on the shift in partisan political power in Virginia over the last two decades: https://t.co/TtQs3HeeQ6 https://t.co/UfEUJp4pkE"
+	},
+	{
 		"created_at": "Sun Nov 10 06:35:16 +0000 2019",
 		"id": 1193416815243718700,
 		"id_str": "1193416815243718656",
