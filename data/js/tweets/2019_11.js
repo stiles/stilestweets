@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 17:18:30 +0000 2019",
+		"id": 1193578692020035600,
+		"id_str": "1193578692020035584",
+		"full_text": "I defy you to read the first six graphs of this fabulous story by @susrust and not be hooked. Great team effort by @LoElebee, @seangreene89, @Carolyn_Cole, @anaarikibandooq. 'How the U.S. betrayed the Marshall Islands, kindling the next nuclear disaster.' https://t.co/qEcXhnG4Fc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "susrust",
+					"name": "Susanne Rust",
+					"id": 105381785,
+					"id_str": "105381785",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"screen_name": "LoElebee",
+					"name": "Lorena Elebee",
+					"id": 2342339706,
+					"id_str": "2342339706",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"screen_name": "seangreene89",
+					"name": "Sean Greene",
+					"id": 267312443,
+					"id_str": "267312443",
+					"indices": [
+						126,
+						139
+					]
+				},
+				{
+					"screen_name": "Carolyn_Cole",
+					"name": "Carolyn Cole",
+					"id": 51345866,
+					"id_str": "51345866",
+					"indices": [
+						141,
+						154
+					]
+				},
+				{
+					"screen_name": "anaarikibandooq",
+					"name": "Ali Raj",
+					"id": 308692247,
+					"id_str": "308692247",
+					"indices": [
+						156,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qEcXhnG4Fc",
+					"expanded_url": "https://www.latimes.com/projects/marshall-islands-nuclear-testing-sea-level-rise",
+					"display_url": "latimes.com/projects/marsh…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11146,
+			"friends_count": 1833,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573166621",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I defy you to read the first six graphs of this fabulous story by @susrust and not be hooked. Great team effort by @LoElebee, @seangreene89, @Carolyn_Cole, @anaarikibandooq. 'How the U.S. betrayed the Marshall Islands, kindling the next nuclear disaster.' https://t.co/qEcXhnG4Fc"
+	},
+	{
+		"created_at": "Sun Nov 10 17:01:23 +0000 2019",
+		"id": 1193205866662465500,
+		"id_str": "1193574384809590785",
+		"full_text": "A STORY FOR OUR TIMES: How Superman became homeless and died on the streets of L.A. Beautiful tribute by @LATimescitybeat https://t.co/LkqYthzp9h https://t.co/S7uBg6irhT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATimescitybeat",
+					"name": "Nita Lelyveld",
+					"id": 20642650,
+					"id_str": "20642650",
+					"indices": [
+						105,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LkqYthzp9h",
+					"expanded_url": "https://www.latimes.com/california/story/2019-11-09/how-hollywoods-star-superman-wound-up-homeless-then-dead-in-the-valley",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1193205859045625900,
+					"id_str": "1193205859045625856",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EI8eaCxUUAA4yxn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EI8eaCxUUAA4yxn.png",
+					"url": "https://t.co/S7uBg6irhT",
+					"display_url": "pic.twitter.com/S7uBg6irhT",
+					"expanded_url": "https://twitter.com/shelbygrad/status/1193205866662465536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 854,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 78,
+									"y": 535,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 54,
+									"y": 147,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 193,
+									"y": 617,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 98,
+									"y": 672,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 68,
+									"y": 185,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 243,
+									"y": 775,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 98,
+									"y": 672,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 68,
+									"y": 185,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 243,
+									"y": 775,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 98,
+									"y": 672,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 68,
+									"y": 185,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 243,
+									"y": 775,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193205859045625900,
+					"id_str": "1193205859045625856",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EI8eaCxUUAA4yxn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EI8eaCxUUAA4yxn.png",
+					"url": "https://t.co/S7uBg6irhT",
+					"display_url": "pic.twitter.com/S7uBg6irhT",
+					"expanded_url": "https://twitter.com/shelbygrad/status/1193205866662465536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 854,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 78,
+									"y": 535,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 54,
+									"y": 147,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 193,
+									"y": 617,
+									"h": 30,
+									"w": 30
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 98,
+									"y": 672,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 68,
+									"y": 185,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 243,
+									"y": 775,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 98,
+									"y": 672,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 68,
+									"y": 185,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 243,
+									"y": 775,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 98,
+									"y": 672,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 68,
+									"y": 185,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 243,
+									"y": 775,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14827461,
+			"id_str": "14827461",
+			"name": "Shelby Grad",
+			"screen_name": "shelbygrad",
+			"location": "🌴Los Angeles💥",
+			"description": "Deputy Managing Editor at @latimes.",
+			"url": "https://t.co/emWaPa3SBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emWaPa3SBu",
+							"expanded_url": "http://www.latimes.com/california",
+							"display_url": "latimes.com/california",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13499,
+			"friends_count": 1003,
+			"listed_count": 512,
+			"created_at": "Mon May 19 02:25:01 +0000 2008",
+			"favourites_count": 6166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14827461/1557793823",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A STORY FOR OUR TIMES: How Superman became homeless and died on the streets of L.A. Beautiful tribute by @LATimescitybeat https://t.co/LkqYthzp9h https://t.co/S7uBg6irhT"
+	},
+	{
+		"created_at": "Sun Nov 10 16:59:14 +0000 2019",
+		"id": 1193573842863542300,
+		"id_str": "1193573842863542273",
+		"full_text": "@briangrimmett Buried in CA's state data portal. I would check with your state's vehicle licensing bureau. Might have to ask them for aggregates by ZIP or county to avoid a fight.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "briangrimmett",
+					"name": "Brian Grimmett",
+					"id": 158803766,
+					"id_str": "158803766",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1193531797579161600,
+		"in_reply_to_status_id_str": "1193531797579161600",
+		"in_reply_to_user_id": 158803766,
+		"in_reply_to_user_id_str": "158803766",
+		"in_reply_to_screen_name": "briangrimmett",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11146,
+			"friends_count": 1833,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573166621",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@briangrimmett Buried in CA's state data portal. I would check with your state's vehicle licensing bureau. Might have to ask them for aggregates by ZIP or county to avoid a fight."
+	},
+	{
 		"created_at": "Sun Nov 10 16:06:04 +0000 2019",
 		"id": 1193545641475092500,
 		"id_str": "1193560463860060160",
