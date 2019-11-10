@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 16:06:04 +0000 2019",
+		"id": 1193545641475092500,
+		"id_str": "1193560463860060160",
+		"full_text": "For all my #UTdata students and anyone else wanting to learn data analysis... this is how. Explore, practice, publish. @stiles has been doing this for a decade or longer ... he never quits learning. Be like @stiles. https://t.co/O4yaeXrmr6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UTdata",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						207,
+						214
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O4yaeXrmr6",
+					"expanded_url": "https://twitter.com/stiles/status/1193416749116358656",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5712972,
+			"id_str": "5712972",
+			"name": "Christian McDonald",
+			"screen_name": "crit",
+			"location": "Austin, TX",
+			"description": "Current job: Assistant Professor of Practice at UT-Austin School of Journalism. Past: @statesman, @ajc. I teach data and coding.  I love soccer, heavy metal.",
+			"url": "https://t.co/9FDU1PFtyS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9FDU1PFtyS",
+							"expanded_url": "http://www.cmcdonald.com/",
+							"display_url": "cmcdonald.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384,
+			"friends_count": 738,
+			"listed_count": 149,
+			"created_at": "Wed May 02 13:17:44 +0000 2007",
+			"favourites_count": 1228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/716094756938362881/DoCKs_WW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/716094756938362881/DoCKs_WW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5712972/1488756395",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "e0060cda70f5f341",
+			"url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json",
+			"place_type": "admin",
+			"name": "Texas",
+			"full_name": "Texas, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-106.645646,
+							25.837092
+						],
+						[
+							-93.508131,
+							25.837092
+						],
+						[
+							-93.508131,
+							36.500695
+						],
+						[
+							-106.645646,
+							36.500695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1193416749116358700,
+		"quoted_status_id_str": "1193416749116358656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O4yaeXrmr6",
+			"expanded": "https://twitter.com/stiles/status/1193416749116358656",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 10 06:35:00 +0000 2019",
+			"id": 1193416749116358700,
+			"id_str": "1193416749116358656",
+			"full_text": "Sketching on a fascinating new dataset tonight. It has counts of all registered CA vehicles, broken down by ZIP code, model year, fuel type, make and duty. There are 19 million — and 3.2 use an alternative fuel type (hybrid, battery, flex, diesel, etc). \n\nA THREAD... https://t.co/CxOBRtwbFB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1193416744699711500,
+						"id_str": "1193416744699711489",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EI_eNNDUUAEgD_8.png",
+						"media_url_https": "https://pbs.twimg.com/media/EI_eNNDUUAEgD_8.png",
+						"url": "https://t.co/CxOBRtwbFB",
+						"display_url": "pic.twitter.com/CxOBRtwbFB",
+						"expanded_url": "https://twitter.com/stiles/status/1193416749116358656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 523,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 923,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1350,
+								"h": 1038,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 40,
+										"y": 237,
+										"h": 125,
+										"w": 125
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 72,
+										"y": 418,
+										"h": 222,
+										"w": 222
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 81,
+										"y": 471,
+										"h": 250,
+										"w": 250
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 81,
+										"y": 471,
+										"h": 250,
+										"w": 250
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1193416744699711500,
+						"id_str": "1193416744699711489",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EI_eNNDUUAEgD_8.png",
+						"media_url_https": "https://pbs.twimg.com/media/EI_eNNDUUAEgD_8.png",
+						"url": "https://t.co/CxOBRtwbFB",
+						"display_url": "pic.twitter.com/CxOBRtwbFB",
+						"expanded_url": "https://twitter.com/stiles/status/1193416749116358656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 523,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 923,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1350,
+								"h": 1038,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 40,
+										"y": 237,
+										"h": 125,
+										"w": 125
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 72,
+										"y": 418,
+										"h": 222,
+										"w": 222
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 81,
+										"y": 471,
+										"h": 250,
+										"w": 250
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 81,
+										"y": 471,
+										"h": 250,
+										"w": 250
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles",
+				"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11146,
+				"friends_count": 1832,
+				"listed_count": 881,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 6966,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14731,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573166621",
+				"profile_link_color": "B12E35",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For all my #UTdata students and anyone else wanting to learn data analysis... this is how. Explore, practice, publish. @stiles has been doing this for a decade or longer ... he never quits learning. Be like @stiles. https://t.co/O4yaeXrmr6"
+	},
+	{
 		"created_at": "Sun Nov 10 07:38:53 +0000 2019",
 		"id": 1193432828605649000,
 		"id_str": "1193432828605648896",
