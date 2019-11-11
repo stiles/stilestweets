@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 11 18:49:00 +0000 2019",
+		"id": 1193961873529397200,
+		"id_str": "1193963857183531011",
+		"full_text": "@shani_o @thegarance $700,000? Must have been a dump.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shani_o",
+					"name": "Shani Olisa Hilton",
+					"id": 13367172,
+					"id_str": "13367172",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "thegarance",
+					"name": "Garance Franke-Ruta",
+					"id": 7848802,
+					"id_str": "7848802",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1193960170574864400,
+		"in_reply_to_status_id_str": "1193960170574864384",
+		"in_reply_to_user_id": 13367172,
+		"in_reply_to_user_id_str": "13367172",
+		"in_reply_to_screen_name": "shani_o",
+		"user": {
+			"id": 475483488,
+			"id_str": "475483488",
+			"name": "Mike Wade",
+			"screen_name": "MikeWade8",
+			"location": "",
+			"description": "Somewhere in middle America.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 1783,
+			"listed_count": 3,
+			"created_at": "Fri Jan 27 03:25:14 +0000 2012",
+			"favourites_count": 12443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3227211493/c26dd23aa0179ecb4853970a6a282a49_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3227211493/c26dd23aa0179ecb4853970a6a282a49_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475483488/1496813797",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@shani_o @thegarance $700,000? Must have been a dump."
+	},
+	{
 		"created_at": "Sun Nov 10 17:18:30 +0000 2019",
 		"id": 1193578692020035600,
 		"id_str": "1193578692020035584",
