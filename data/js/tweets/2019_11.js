@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 03:38:27 +0000 2019",
+		"id": 1194451928513536000,
+		"id_str": "1194459483906310145",
+		"full_text": "I’m late to the game, but kudos to ⁦@GustavoArellano⁩ for a well told, impactful podcast series on #Prop187. Political junkies will love part 1, a great job of taking us back to 1993-94. Shoutout, too, to ⁦@dearabbie⁩ &amp; all who worked on this. https://t.co/jrWW9UHwNH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Prop187",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GustavoArellano",
+					"name": "GustavoArellano",
+					"id": 15518170,
+					"id_str": "15518170",
+					"indices": [
+						36,
+						52
+					]
+				},
+				{
+					"screen_name": "dearabbie",
+					"name": "Abbie F. Swanson",
+					"id": 18313855,
+					"id_str": "18313855",
+					"indices": [
+						206,
+						216
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jrWW9UHwNH",
+					"expanded_url": "https://podcasts.apple.com/us/podcast/this-is-california-the-battle-of-187/id1483999127",
+					"display_url": "podcasts.apple.com/us/podcast/thi…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20873135,
+			"id_str": "20873135",
+			"name": "John Myers",
+			"screen_name": "johnmyers",
+			"location": "john.myers@latimes.com",
+			"description": "Sacramento Bureau Chief, Los Angeles Times. All things California politics. Via @KQED, @ABC10 @KSBY, etc. Outer Banker, Blue Devil https://t.co/NlZqoJeLo0",
+			"url": "https://t.co/1bea9GlklB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1bea9GlklB",
+							"expanded_url": "http://www.facebook.com/politicsCalifornia",
+							"display_url": "facebook.com/politicsCalifo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NlZqoJeLo0",
+							"expanded_url": "http://membership.latimes.com",
+							"display_url": "membership.latimes.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27323,
+			"friends_count": 1294,
+			"listed_count": 1289,
+			"created_at": "Sat Feb 14 21:38:14 +0000 2009",
+			"favourites_count": 3417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9266CC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/640032582021742593/QHpCoxdH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/640032582021742593/QHpCoxdH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20873135/1573107553",
+			"profile_link_color": "6117EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F2F7F6",
+			"profile_text_color": "1D0101",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m late to the game, but kudos to ⁦@GustavoArellano⁩ for a well told, impactful podcast series on #Prop187. Political junkies will love part 1, a great job of taking us back to 1993-94. Shoutout, too, to ⁦@dearabbie⁩ &amp; all who worked on this. https://t.co/jrWW9UHwNH"
+	},
+	{
 		"created_at": "Wed Nov 13 02:45:10 +0000 2019",
 		"id": 1194262419658309600,
 		"id_str": "1194446074473107456",
