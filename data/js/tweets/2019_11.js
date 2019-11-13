@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 00:36:35 +0000 2019",
+		"id": 1194038689099206700,
+		"id_str": "1194413716579553280",
+		"full_text": "🗞️ #NEWS 🗞️\n\nI am pleased to announce Alex Tatusian is joining our @datagraphics team at the @latimes.\n\nhttps://t.co/6H9G6gI3NB\n\nHe will serve as the department's deputy editor.\n\nHis charge: Leading the design of the newsroom's signature digital projects.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "datagraphics",
+					"name": "Los Angeles Times Data and Graphics",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6H9G6gI3NB",
+					"expanded_url": "https://www.latimes.com/about/pressreleases/story/2019-11-11/los-angeles-times-names-alex-tatusian-deputy-editor-for-digital-project-design",
+					"display_url": "latimes.com/about/pressrel…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · Send me tips · DMs open · ben.welsh@latimes.com",
+			"url": "https://t.co/M40D7KBYi4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M40D7KBYi4",
+							"expanded_url": "https://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/alHGK4tTzG",
+							"expanded_url": "http://californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9994,
+			"friends_count": 3089,
+			"listed_count": 733,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗞️ #NEWS 🗞️\n\nI am pleased to announce Alex Tatusian is joining our @datagraphics team at the @latimes.\n\nhttps://t.co/6H9G6gI3NB\n\nHe will serve as the department's deputy editor.\n\nHis charge: Leading the design of the newsroom's signature digital projects."
+	},
+	{
 		"created_at": "Tue Nov 12 02:20:35 +0000 2019",
 		"id": 1194077499476439000,
 		"id_str": "1194077499476439040",
