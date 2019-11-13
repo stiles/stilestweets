@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 19:41:55 +0000 2019",
+		"id": 1194701947955110000,
+		"id_str": "1194701947955109888",
+		"full_text": "Here are @GoogleTrends data on 'quid pro quo' since 2014: https://t.co/SYbHXJDEGg. The recent spike makes sense, but what about 2016? \n\nThat was the since-forgotten 'quid pro quo' scandal involving @HillaryClinton's emails: https://t.co/PpFSNinFho\n\nAnd around and around we go... https://t.co/474BpcTABO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoogleTrends",
+					"name": "GoogleTrends",
+					"id": 3119988399,
+					"id_str": "3119988399",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "HillaryClinton",
+					"name": "Hillary Clinton",
+					"id": 1339835893,
+					"id_str": "1339835893",
+					"indices": [
+						198,
+						213
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SYbHXJDEGg",
+					"expanded_url": "https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=%22quid%20pro%20quo%22#TIMESERIES",
+					"display_url": "trends.google.com/trends/explore…",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/PpFSNinFho",
+					"expanded_url": "https://www.google.com/search?q=quid+pro+quo&rlz=1C5CHFA_enUS869US869&sxsrf=ACYBGNRc-gEKqbkVAbB-czmnbY1j9DKevg%3A1573673661961&source=lnt&tbs=cdr%3A1%2Ccd_min%3A10%2F1%2F2016%2Ccd_max%3A10%2F30%2F2016&tbm=",
+					"display_url": "google.com/search?q=quid+…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194701945224626200,
+					"id_str": "1194701945224626176",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EJRvFuGVAAAkMQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJRvFuGVAAAkMQf.jpg",
+					"url": "https://t.co/474BpcTABO",
+					"display_url": "pic.twitter.com/474BpcTABO",
+					"expanded_url": "https://twitter.com/stiles/status/1194701947955109888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1158,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1158,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194701945224626200,
+					"id_str": "1194701945224626176",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EJRvFuGVAAAkMQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJRvFuGVAAAkMQf.jpg",
+					"url": "https://t.co/474BpcTABO",
+					"display_url": "pic.twitter.com/474BpcTABO",
+					"expanded_url": "https://twitter.com/stiles/status/1194701947955109888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1158,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1158,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11145,
+			"friends_count": 1836,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573621402",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here are @GoogleTrends data on 'quid pro quo' since 2014: https://t.co/SYbHXJDEGg. The recent spike makes sense, but what about 2016? \n\nThat was the since-forgotten 'quid pro quo' scandal involving @HillaryClinton's emails: https://t.co/PpFSNinFho\n\nAnd around and around we go... https://t.co/474BpcTABO"
+	},
+	{
 		"created_at": "Wed Nov 13 17:55:44 +0000 2019",
 		"id": 1194675224827973600,
 		"id_str": "1194675224827973633",
