@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 02:45:10 +0000 2019",
+		"id": 1194262419658309600,
+		"id_str": "1194446074473107456",
+		"full_text": "Our latest investigation into the Conception tragedy: Coast Guard rejected boat safety recommendations despite pleas from federal investigators, records show. w/@LAcrimes https://t.co/hj45R1LBpn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LAcrimes",
+					"name": "Richard Winton",
+					"id": 41418040,
+					"id_str": "41418040",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hj45R1LBpn",
+					"expanded_url": "https://www.latimes.com/california/story/2019-11-12/conception-boat-fire-coast-guard-ntsb-recommendations",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119945205,
+			"id_str": "119945205",
+			"name": "Mark Puente",
+			"screen_name": "MarkPuente",
+			"location": "Los Angeles, CA",
+			"description": "LAPD reporter at @LATimes | Former investigative reporter: @TB_Times, @baltimoresun, @theplaindealer |Once a trucker & Teamster | BBQ aficionado | Go Tar Heels!",
+			"url": "https://t.co/Evwisr5jYF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Evwisr5jYF",
+							"expanded_url": "https://www.latimes.com/la-bio-mark-puente-staff.html",
+							"display_url": "latimes.com/la-bio-mark-pu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4691,
+			"friends_count": 2628,
+			"listed_count": 260,
+			"created_at": "Fri Mar 05 01:07:56 +0000 2010",
+			"favourites_count": 7117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107681713327505408/c3Bt1MN7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107681713327505408/c3Bt1MN7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119945205/1563766025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our latest investigation into the Conception tragedy: Coast Guard rejected boat safety recommendations despite pleas from federal investigators, records show. w/@LAcrimes https://t.co/hj45R1LBpn"
+	},
+	{
 		"created_at": "Wed Nov 13 00:36:35 +0000 2019",
 		"id": 1194038689099206700,
 		"id_str": "1194413716579553280",
