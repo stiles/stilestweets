@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 16:54:22 +0000 2019",
+		"id": 1194659780767318000,
+		"id_str": "1194659780767318016",
+		"full_text": "Excellent 404 error page, @CountyofLA. \n\nThis link is dead. Where can I find the budget now?\n\ncc @LACountyCEO https://t.co/gVbq80OJuu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "LACountyCEO",
+					"name": "LA County CEO",
+					"id": 236576462,
+					"id_str": "236576462",
+					"indices": [
+						97,
+						109
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194659776212287500,
+					"id_str": "1194659776212287489",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EJRIvKSUwAEG8uK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJRIvKSUwAEG8uK.jpg",
+					"url": "https://t.co/gVbq80OJuu",
+					"display_url": "pic.twitter.com/gVbq80OJuu",
+					"expanded_url": "https://twitter.com/stiles/status/1194659780767318016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1259,
+							"h": 716,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194659776212287500,
+					"id_str": "1194659776212287489",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EJRIvKSUwAEG8uK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJRIvKSUwAEG8uK.jpg",
+					"url": "https://t.co/gVbq80OJuu",
+					"display_url": "pic.twitter.com/gVbq80OJuu",
+					"expanded_url": "https://twitter.com/stiles/status/1194659780767318016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1259,
+							"h": 716,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1194659776216494000,
+					"id_str": "1194659776216494080",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EJRIvKTU8AAoJCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJRIvKTU8AAoJCc.jpg",
+					"url": "https://t.co/gVbq80OJuu",
+					"display_url": "pic.twitter.com/gVbq80OJuu",
+					"expanded_url": "https://twitter.com/stiles/status/1194659780767318016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1096,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1096,
+							"h": 834,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 405,
+									"y": 165,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 225,
+									"y": 127,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 251,
+									"y": 102,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 139,
+									"y": 78,
+									"h": 106,
+									"w": 106
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 405,
+									"y": 165,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 225,
+									"y": 127,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 405,
+									"y": 165,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 225,
+									"y": 127,
+									"h": 171,
+									"w": 171
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11142,
+			"friends_count": 1834,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 6974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573621402",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excellent 404 error page, @CountyofLA. \n\nThis link is dead. Where can I find the budget now?\n\ncc @LACountyCEO https://t.co/gVbq80OJuu"
+	},
+	{
 		"created_at": "Wed Nov 13 05:47:13 +0000 2019",
 		"id": 1194491889807790000,
 		"id_str": "1194491889807790080",
