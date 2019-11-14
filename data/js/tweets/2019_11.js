@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 02:26:25 +0000 2019",
+		"id": 1194775824806887400,
+		"id_str": "1194803741523759106",
+		"full_text": "Coincidentally, this programming question popped up in my quota digest, asked by someone with more computer science university coursework than Mark Zuckerberg had. This is not to shame the asker but to point out many programmers don’t grok programming nevermind other domains. https://t.co/gEjyqy5LYk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194775811305431000,
+					"id_str": "1194775811305431040",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EJSyRSsW4AAppBS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJSyRSsW4AAppBS.jpg",
+					"url": "https://t.co/gEjyqy5LYk",
+					"display_url": "pic.twitter.com/gEjyqy5LYk",
+					"expanded_url": "https://twitter.com/dancow/status/1194775824806887425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1286,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 511,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194775811305431000,
+					"id_str": "1194775811305431040",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EJSyRSsW4AAppBS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJSyRSsW4AAppBS.jpg",
+					"url": "https://t.co/gEjyqy5LYk",
+					"display_url": "pic.twitter.com/gEjyqy5LYk",
+					"expanded_url": "https://twitter.com/dancow/status/1194775824806887425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1286,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 511,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1194761205384122400,
+		"in_reply_to_status_id_str": "1194761205384122368",
+		"in_reply_to_user_id": 14335332,
+		"in_reply_to_user_id_str": "14335332",
+		"in_reply_to_screen_name": "dancow",
+		"user": {
+			"id": 14335332,
+			"id_str": "14335332",
+			"name": "Dan Nguyen",
+			"screen_name": "dancow",
+			"location": "Chicago",
+			"description": "Proud son of war refugees, computational journalist. he/him\nPast: taught @stanfordjourn; newsdeved @ProPublica @Skift @sacbee_news\nRTs could mean 🥴 or 😬 or 🤔",
+			"url": "https://t.co/rfQwd0ul7D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rfQwd0ul7D",
+							"expanded_url": "http://danwin.com",
+							"display_url": "danwin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14172,
+			"friends_count": 6781,
+			"listed_count": 904,
+			"created_at": "Tue Apr 08 19:39:54 +0000 2008",
+			"favourites_count": 66533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085932677910446081/iwgVoTCf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085932677910446081/iwgVoTCf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14335332/1533193318",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coincidentally, this programming question popped up in my quota digest, asked by someone with more computer science university coursework than Mark Zuckerberg had. This is not to shame the asker but to point out many programmers don’t grok programming nevermind other domains. https://t.co/gEjyqy5LYk"
+	},
+	{
 		"created_at": "Wed Nov 13 19:41:55 +0000 2019",
 		"id": 1194701947955110000,
 		"id_str": "1194701947955109888",
