@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 15 18:10:18 +0000 2019",
+		"id": 1195389788120969200,
+		"id_str": "1195403669216219136",
+		"full_text": "\"I must say the president was not advised by counsel in deciding to do this tweet,\" Ken Starr told Fox News. \"Extraordinarily poor judgement.\"\n\n\"Sometimes we have to control our instincts, so obviously I think this is quite injurious.\"\nhttps://t.co/NORuztNxhJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NORuztNxhJ",
+					"expanded_url": "https://www.mediaite.com/tv/ken-starr-condemns-trump-attacking-marie-yovanovitch-extraordinarily-poor-judgement/",
+					"display_url": "mediaite.com/tv/ken-starr-c…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32871086,
+			"id_str": "32871086",
+			"name": "Kyle Griffin",
+			"screen_name": "kylegriffin1",
+			"location": "Manhattan, NY",
+			"description": "Senior Producer. MSNBC's @TheLastWord. Opinions mine. Not as outlandish as I could be.",
+			"url": "https://t.co/lgyZmnczMB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lgyZmnczMB",
+							"expanded_url": "https://www.instagram.com/griffinkyle/",
+							"display_url": "instagram.com/griffinkyle/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 644596,
+			"friends_count": 888,
+			"listed_count": 7416,
+			"created_at": "Sat Apr 18 12:45:48 +0000 2009",
+			"favourites_count": 38203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 54499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961462238732275712/omWV1cZs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961462238732275712/omWV1cZs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32871086/1455243585",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 529,
+		"favorite_count": 1318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I must say the president was not advised by counsel in deciding to do this tweet,\" Ken Starr told Fox News. \"Extraordinarily poor judgement.\"\n\n\"Sometimes we have to control our instincts, so obviously I think this is quite injurious.\"\nhttps://t.co/NORuztNxhJ"
+	},
+	{
 		"created_at": "Fri Nov 15 04:06:51 +0000 2019",
 		"id": 1195191405250924500,
 		"id_str": "1195191405250924544",
