@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 17 15:30:54 +0000 2019",
+		"id": 1196088328979792000,
+		"id_str": "1196088328979791874",
+		"full_text": "@DaveSchmerler? https://t.co/0GcGXA8YEH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DaveSchmerler",
+					"name": "Dave Schmerler",
+					"id": 1008166916,
+					"id_str": "1008166916",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0GcGXA8YEH",
+					"expanded_url": "https://twitter.com/JacobBogle/status/1196075799532703744",
+					"display_url": "twitter.com/JacobBogle/sta…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1008166916,
+		"in_reply_to_user_id_str": "1008166916",
+		"in_reply_to_screen_name": "DaveSchmerler",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11151,
+			"friends_count": 1846,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573841271",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196075799532703700,
+		"quoted_status_id_str": "1196075799532703744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0GcGXA8YEH",
+			"expanded": "https://twitter.com/JacobBogle/status/1196075799532703744",
+			"display": "twitter.com/JacobBogle/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 17 14:41:07 +0000 2019",
+			"id": 1196075799532703700,
+			"id_str": "1196075799532703744",
+			"full_text": "Still trying to figure out what these pads are. Built at nearly every major North Korean air field ca. 2016. Between 40 &amp; 50 m in size. Some are compacted dirt, others concrete. All are \"detached\" from runway. This example is at Onchon. Haven't seen them elsewhere in the world https://t.co/LQaqhuagK2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1196075790326259700,
+						"id_str": "1196075790326259714",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/EJlQmB7XYAIv261.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJlQmB7XYAIv261.jpg",
+						"url": "https://t.co/LQaqhuagK2",
+						"display_url": "pic.twitter.com/LQaqhuagK2",
+						"expanded_url": "https://twitter.com/JacobBogle/status/1196075799532703744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 670,
+								"h": 1575,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 289,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 510,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 116,
+										"y": 796,
+										"h": 53,
+										"w": 53
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 50,
+										"y": 343,
+										"h": 22,
+										"w": 22
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 88,
+										"y": 605,
+										"h": 40,
+										"w": 40
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 116,
+										"y": 796,
+										"h": 53,
+										"w": 53
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1196075790326259700,
+						"id_str": "1196075790326259714",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/EJlQmB7XYAIv261.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJlQmB7XYAIv261.jpg",
+						"url": "https://t.co/LQaqhuagK2",
+						"display_url": "pic.twitter.com/LQaqhuagK2",
+						"expanded_url": "https://twitter.com/JacobBogle/status/1196075799532703744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 670,
+								"h": 1575,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 289,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 510,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 116,
+										"y": 796,
+										"h": 53,
+										"w": 53
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 50,
+										"y": 343,
+										"h": 22,
+										"w": 22
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 88,
+										"y": 605,
+										"h": 40,
+										"w": 40
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 116,
+										"y": 796,
+										"h": 53,
+										"w": 53
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1196075794944135200,
+						"id_str": "1196075794944135169",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/EJlQmTIWkAEfFb4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJlQmTIWkAEfFb4.jpg",
+						"url": "https://t.co/LQaqhuagK2",
+						"display_url": "pic.twitter.com/LQaqhuagK2",
+						"expanded_url": "https://twitter.com/JacobBogle/status/1196075799532703744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 303,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 534,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 674,
+								"h": 1515,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 265489523,
+				"id_str": "265489523",
+				"name": "Jacob Bogle",
+				"screen_name": "JacobBogle",
+				"location": "Murfreesboro, TN USA",
+				"description": "Political activist, Blogger, and creator of the largest map publicly available of North Korea #AccessDPRK. Mapping the world since 2012.",
+				"url": "https://t.co/OMzttgUea0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMzttgUea0",
+								"expanded_url": "http://www.jacobbogle.com",
+								"display_url": "jacobbogle.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 732,
+				"friends_count": 410,
+				"listed_count": 41,
+				"created_at": "Sun Mar 13 16:42:08 +0000 2011",
+				"favourites_count": 604,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3354,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/954738362568585218/SnXjo7i4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/954738362568585218/SnXjo7i4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/265489523/1481402456",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@DaveSchmerler? https://t.co/0GcGXA8YEH"
+	},
+	{
 		"created_at": "Sat Nov 16 21:34:27 +0000 2019",
 		"id": 1195817432813723600,
 		"id_str": "1195817432813723648",
