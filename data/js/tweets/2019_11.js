@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 19:30:21 +0000 2019",
+		"id": 1196454039585616000,
+		"id_str": "1196510978214481921",
+		"full_text": "Amazon will pay $0 in taxes on $11,200,000,000 in profit for 2018 https://t.co/CccXZ6fkL2 via @YahooFinance",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YahooFinance",
+					"name": "Yahoo Finance",
+					"id": 19546277,
+					"id_str": "19546277",
+					"indices": [
+						94,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CccXZ6fkL2",
+					"expanded_url": "https://finance.yahoo.com/news/amazon-taxes-zero-180337770.html?soc_src=social-sh&soc_trk=tw",
+					"display_url": "finance.yahoo.com/news/amazon-ta…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16162149,
+			"id_str": "16162149",
+			"name": "Carla Marinucci",
+			"screen_name": "cmarinucci",
+			"location": "San Francisco, CA USA",
+			"description": "POLITICO CA Playbook senior writer in Golden State. Tips, news?cmarinucci@politico.com. RTs no endorsement. Subscribe free: https://t.co/3KY5RmiDwQ",
+			"url": "http://t.co/PPMyQsxKjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/PPMyQsxKjG",
+							"expanded_url": "http://politico.com",
+							"display_url": "politico.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3KY5RmiDwQ",
+							"expanded_url": "http://politi.co/1R87xXr",
+							"display_url": "politi.co/1R87xXr",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33296,
+			"friends_count": 5682,
+			"listed_count": 1326,
+			"created_at": "Sat Sep 06 23:09:51 +0000 2008",
+			"favourites_count": 6767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 93924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908770847657271296/19Vhfkzy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908770847657271296/19Vhfkzy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16162149/1505502761",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1859,
+		"favorite_count": 1798,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazon will pay $0 in taxes on $11,200,000,000 in profit for 2018 https://t.co/CccXZ6fkL2 via @YahooFinance"
+	},
+	{
 		"created_at": "Mon Nov 18 17:26:59 +0000 2019",
 		"id": 1196478964241293300,
 		"id_str": "1196479928205660160",
