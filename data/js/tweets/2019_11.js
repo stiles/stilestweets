@@ -1,6 +1,772 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 15:17:02 +0000 2019",
+		"id": 1196213124002545700,
+		"id_str": "1196447225234124800",
+		"full_text": "My first double truck in @latimes’ Sunday edition! There are some real hidden gems in here y’all https://t.co/JYlYybyWIX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196213101227462700,
+					"id_str": "1196213101227462656",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EJnNek5U0AARHtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJnNek5U0AARHtd.jpg",
+					"url": "https://t.co/JYlYybyWIX",
+					"display_url": "pic.twitter.com/JYlYybyWIX",
+					"expanded_url": "https://twitter.com/kyleykim/status/1196213124002545664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "21842779",
+									"screen_name": "TheCDZ",
+									"name": "Christie D'Zurilla"
+								},
+								{
+									"type": "user",
+									"user_id": "3062229560",
+									"screen_name": "andyroberson22",
+									"name": "Andy Roberson"
+								},
+								{
+									"type": "user",
+									"user_id": "247293595",
+									"screen_name": "maloym",
+									"name": "Maloy Moore"
+								},
+								{
+									"type": "user",
+									"user_id": "17918860",
+									"screen_name": "datagraphics",
+									"name": "Los Angeles Times Data and Graphics"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 614,
+									"y": 336,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 203,
+									"y": 111,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 359,
+									"y": 196,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 614,
+									"y": 336,
+									"h": 162,
+									"w": 162
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196213101227462700,
+					"id_str": "1196213101227462656",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EJnNek5U0AARHtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJnNek5U0AARHtd.jpg",
+					"url": "https://t.co/JYlYybyWIX",
+					"display_url": "pic.twitter.com/JYlYybyWIX",
+					"expanded_url": "https://twitter.com/kyleykim/status/1196213124002545664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "21842779",
+									"screen_name": "TheCDZ",
+									"name": "Christie D'Zurilla"
+								},
+								{
+									"type": "user",
+									"user_id": "3062229560",
+									"screen_name": "andyroberson22",
+									"name": "Andy Roberson"
+								},
+								{
+									"type": "user",
+									"user_id": "247293595",
+									"screen_name": "maloym",
+									"name": "Maloy Moore"
+								},
+								{
+									"type": "user",
+									"user_id": "17918860",
+									"screen_name": "datagraphics",
+									"name": "Los Angeles Times Data and Graphics"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 614,
+									"y": 336,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 203,
+									"y": 111,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 359,
+									"y": 196,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 614,
+									"y": 336,
+									"h": 162,
+									"w": 162
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1196213101227462700,
+					"id_str": "1196213101227462657",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EJnNek5U0AEkf92.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJnNek5U0AEkf92.jpg",
+					"url": "https://t.co/JYlYybyWIX",
+					"display_url": "pic.twitter.com/JYlYybyWIX",
+					"expanded_url": "https://twitter.com/kyleykim/status/1196213124002545664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 753,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "21842779",
+									"screen_name": "TheCDZ",
+									"name": "Christie D'Zurilla"
+								},
+								{
+									"type": "user",
+									"user_id": "3062229560",
+									"screen_name": "andyroberson22",
+									"name": "Andy Roberson"
+								},
+								{
+									"type": "user",
+									"user_id": "247293595",
+									"screen_name": "maloym",
+									"name": "Maloy Moore"
+								},
+								{
+									"type": "user",
+									"user_id": "17918860",
+									"screen_name": "datagraphics",
+									"name": "Los Angeles Times Data and Graphics"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 1227,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 74,
+									"y": 1169,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 547,
+									"y": 1160,
+									"h": 125,
+									"w": 125
+								},
+								{
+									"x": 310,
+									"y": 774,
+									"h": 146,
+									"w": 146
+								},
+								{
+									"x": 277,
+									"y": 1073,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 500,
+									"y": 760,
+									"h": 161,
+									"w": 161
+								},
+								{
+									"x": 76,
+									"y": 813,
+									"h": 158,
+									"w": 158
+								},
+								{
+									"x": 670,
+									"y": 885,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 1227,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 74,
+									"y": 1169,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 547,
+									"y": 1160,
+									"h": 125,
+									"w": 125
+								},
+								{
+									"x": 310,
+									"y": 774,
+									"h": 146,
+									"w": 146
+								},
+								{
+									"x": 277,
+									"y": 1073,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 500,
+									"y": 760,
+									"h": 161,
+									"w": 161
+								},
+								{
+									"x": 76,
+									"y": 813,
+									"h": 158,
+									"w": 158
+								},
+								{
+									"x": 670,
+									"y": 885,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 193,
+									"y": 1115,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 67,
+									"y": 1063,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 497,
+									"y": 1054,
+									"h": 113,
+									"w": 113
+								},
+								{
+									"x": 281,
+									"y": 703,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 251,
+									"y": 975,
+									"h": 130,
+									"w": 130
+								},
+								{
+									"x": 454,
+									"y": 691,
+									"h": 146,
+									"w": 146
+								},
+								{
+									"x": 69,
+									"y": 739,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 609,
+									"y": 804,
+									"h": 130,
+									"w": 130
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 632,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 38,
+									"y": 602,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 282,
+									"y": 598,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 159,
+									"y": 399,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 142,
+									"y": 553,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 257,
+									"y": 391,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 39,
+									"y": 419,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 345,
+									"y": 456,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1196213101219025000,
+					"id_str": "1196213101219024897",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EJnNek3UEAEMOob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJnNek3UEAEMOob.jpg",
+					"url": "https://t.co/JYlYybyWIX",
+					"display_url": "pic.twitter.com/JYlYybyWIX",
+					"expanded_url": "https://twitter.com/kyleykim/status/1196213124002545664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 733,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1355,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "21842779",
+									"screen_name": "TheCDZ",
+									"name": "Christie D'Zurilla"
+								},
+								{
+									"type": "user",
+									"user_id": "3062229560",
+									"screen_name": "andyroberson22",
+									"name": "Andy Roberson"
+								},
+								{
+									"type": "user",
+									"user_id": "247293595",
+									"screen_name": "maloym",
+									"name": "Maloy Moore"
+								},
+								{
+									"type": "user",
+									"user_id": "17918860",
+									"screen_name": "datagraphics",
+									"name": "Los Angeles Times Data and Graphics"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 359,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 1,
+									"y": 468,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 134,
+									"y": 519,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 2,
+									"y": 184,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 373,
+									"y": 715,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 3,
+									"y": 932,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 268,
+									"y": 1034,
+									"h": 154,
+									"w": 154
+								},
+								{
+									"x": 5,
+									"y": 367,
+									"h": 153,
+									"w": 153
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 330,
+									"y": 632,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 2,
+									"y": 825,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 237,
+									"y": 915,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 4,
+									"y": 324,
+									"h": 135,
+									"w": 135
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 373,
+									"y": 715,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 3,
+									"y": 932,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 268,
+									"y": 1034,
+									"h": 154,
+									"w": 154
+								},
+								{
+									"x": 5,
+									"y": 367,
+									"h": 153,
+									"w": 153
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16608336,
+			"id_str": "16608336",
+			"name": "Kyle Kim",
+			"screen_name": "kyleykim",
+			"location": "Los Angeles",
+			"description": "Graphics and data viz @latimesgraphics | 🎾 NTRP 3.5 | banh mi and tacos al pastor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3954,
+			"friends_count": 1227,
+			"listed_count": 181,
+			"created_at": "Mon Oct 06 01:25:53 +0000 2008",
+			"favourites_count": 8477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173652358686900229/Lz3bXWCF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173652358686900229/Lz3bXWCF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16608336/1532537655",
+			"profile_link_color": "6CA9D6",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "1F1D25",
+			"profile_text_color": "51CECE",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 49,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My first double truck in @latimes’ Sunday edition! There are some real hidden gems in here y’all https://t.co/JYlYybyWIX"
+	},
+	{
 		"created_at": "Sun Nov 17 17:08:46 +0000 2019",
 		"id": 1196112959581245400,
 		"id_str": "1196112959581245440",
