@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 21:04:37 +0000 2019",
+		"id": 1196518495065915400,
+		"id_str": "1196534700996608000",
+		"full_text": "Trump announces rally for nonexistent day. The 26th is a Tuesday. Saturday is the 30th. https://t.co/99bJcDj2Hl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196518449570336800,
+					"id_str": "1196518449570336768",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EJrjMMHXUAAAkvP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJrjMMHXUAAAkvP.jpg",
+					"url": "https://t.co/99bJcDj2Hl",
+					"display_url": "pic.twitter.com/99bJcDj2Hl",
+					"expanded_url": "https://twitter.com/EricColumbus/status/1196518495065915392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 655,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1156,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1289,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 21,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 136,
+									"y": 234,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 386,
+									"y": 343,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 83,
+									"y": 37,
+									"h": 130,
+									"w": 130
+								},
+								{
+									"x": 241,
+									"y": 414,
+									"h": 155,
+									"w": 155
+								},
+								{
+									"x": 682,
+									"y": 606,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 90,
+									"y": 40,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 259,
+									"y": 445,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 733,
+									"y": 652,
+									"h": 153,
+									"w": 153
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 90,
+									"y": 40,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 259,
+									"y": 445,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 733,
+									"y": 652,
+									"h": 153,
+									"w": 153
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196518449570336800,
+					"id_str": "1196518449570336768",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EJrjMMHXUAAAkvP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJrjMMHXUAAAkvP.jpg",
+					"url": "https://t.co/99bJcDj2Hl",
+					"display_url": "pic.twitter.com/99bJcDj2Hl",
+					"expanded_url": "https://twitter.com/EricColumbus/status/1196518495065915392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 655,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1156,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1289,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 21,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 136,
+									"y": 234,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 386,
+									"y": 343,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 83,
+									"y": 37,
+									"h": 130,
+									"w": 130
+								},
+								{
+									"x": 241,
+									"y": 414,
+									"h": 155,
+									"w": 155
+								},
+								{
+									"x": 682,
+									"y": 606,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 90,
+									"y": 40,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 259,
+									"y": 445,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 733,
+									"y": 652,
+									"h": 153,
+									"w": 153
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 90,
+									"y": 40,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 259,
+									"y": 445,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 733,
+									"y": 652,
+									"h": 153,
+									"w": 153
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 889745082,
+			"id_str": "889745082",
+			"name": "Eric Columbus",
+			"screen_name": "EricColumbus",
+			"location": "Washington, DC",
+			"description": "Obama appointee at DOJ/DHS. Former Yankee Stadium hot dog vendor / Senate Judiciary counsel (not at same time). Wannabe U.S. historian.",
+			"url": "https://t.co/X5LaK33tl3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X5LaK33tl3",
+							"expanded_url": "http://www.politico.com/magazine/search?q=%22Eric%20Columbus%22&s=oldest",
+							"display_url": "politico.com/magazine/searc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28457,
+			"friends_count": 1299,
+			"listed_count": 443,
+			"created_at": "Thu Oct 18 21:18:21 +0000 2012",
+			"favourites_count": 35847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/429607786649894912/YApS7t3A_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/429607786649894912/YApS7t3A_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/889745082/1572498242",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 285,
+		"favorite_count": 876,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump announces rally for nonexistent day. The 26th is a Tuesday. Saturday is the 30th. https://t.co/99bJcDj2Hl"
+	},
+	{
 		"created_at": "Mon Nov 18 19:30:21 +0000 2019",
 		"id": 1196454039585616000,
 		"id_str": "1196510978214481921",
