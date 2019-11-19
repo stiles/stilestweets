@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 19 01:10:02 +0000 2019",
+		"id": 1196596458297806800,
+		"id_str": "1196596458297806849",
+		"full_text": "Noooooooooo. https://t.co/EOSgvEQfH9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EOSgvEQfH9",
+					"expanded_url": "https://twitter.com/vicjkim/status/1196592058963619840",
+					"display_url": "twitter.com/vicjkim/status…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11154,
+			"friends_count": 1847,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573841271",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196592058963619800,
+		"quoted_status_id_str": "1196592058963619840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EOSgvEQfH9",
+			"expanded": "https://twitter.com/vicjkim/status/1196592058963619840",
+			"display": "twitter.com/vicjkim/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 19 00:52:33 +0000 2019",
+			"id": 1196592058963619800,
+			"id_str": "1196592058963619840",
+			"full_text": ".@stiles !! https://t.co/fobDJ6N9Hj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				11
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stiles",
+						"name": "Matt Stiles",
+						"id": 14790314,
+						"id_str": "14790314",
+						"indices": [
+							1,
+							8
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fobDJ6N9Hj",
+						"expanded_url": "https://twitter.com/ZenKimchi/status/1196359646711353345",
+						"display_url": "twitter.com/ZenKimchi/stat…",
+						"indices": [
+							12,
+							35
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54643600,
+				"id_str": "54643600",
+				"name": "Victoria Kim",
+				"screen_name": "vicjkim",
+				"location": "대한민국 서울",
+				"description": "@LATimes Seoul correspondent. Reach me at https://t.co/aCqVWMmXQW (at) https://t.co/eTksmynSH7. LA 타임스 서울 특파원입니다",
+				"url": "https://t.co/oLZaH6LhdI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oLZaH6LhdI",
+								"expanded_url": "http://www.latimes.com/la-bio-victoria-kim-staff.html",
+								"display_url": "latimes.com/la-bio-victori…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/aCqVWMmXQW",
+								"expanded_url": "http://victoria.kim",
+								"display_url": "victoria.kim",
+								"indices": [
+									42,
+									65
+								]
+							},
+							{
+								"url": "https://t.co/eTksmynSH7",
+								"expanded_url": "http://latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5935,
+				"friends_count": 2079,
+				"listed_count": 190,
+				"created_at": "Tue Jul 07 19:07:04 +0000 2009",
+				"favourites_count": 4217,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2748,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1148260636566016001/Sp-xkMH3_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148260636566016001/Sp-xkMH3_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54643600/1421810039",
+				"profile_link_color": "737CA1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1196359646711353300,
+			"quoted_status_id_str": "1196359646711353345",
+			"quoted_status_permalink": {
+				"url": "https://t.co/fobDJ6N9Hj",
+				"expanded": "https://twitter.com/ZenKimchi/status/1196359646711353345",
+				"display": "twitter.com/ZenKimchi/stat…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Noooooooooo. https://t.co/EOSgvEQfH9"
+	},
+	{
 		"created_at": "Mon Nov 18 21:04:37 +0000 2019",
 		"id": 1196518495065915400,
 		"id_str": "1196534700996608000",
