@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 20 18:40:19 +0000 2019",
+		"id": 1197223161483251700,
+		"id_str": "1197223161483251712",
+		"full_text": "“I know that members of this committee have frequently framed these complicated issues in the form of a simple question: Was there a quid pro quo? ... with regard to the requested White House call and White House meeting, the answer is yes.” https://t.co/CTf4EZR6TV https://t.co/Bk9HLlNg5C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CTf4EZR6TV",
+					"expanded_url": "https://www.washingtonpost.com/politics/2019/11/20/gordon-sondlands-testimony-torpedoes-republican-defenses-trump/",
+					"display_url": "washingtonpost.com/politics/2019/…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1197223158433996800,
+					"id_str": "1197223158433996800",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ1kHpNUYAAF2VQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJ1kHpNUYAAF2VQ.png",
+					"url": "https://t.co/Bk9HLlNg5C",
+					"display_url": "pic.twitter.com/Bk9HLlNg5C",
+					"expanded_url": "https://twitter.com/stiles/status/1197223161483251712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 733,
+							"h": 423,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 733,
+							"h": 423,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 197,
+									"y": 227,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 423,
+									"y": 78,
+									"h": 191,
+									"w": 191
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 245,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 457,
+									"y": 85,
+									"h": 206,
+									"w": 206
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 245,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 457,
+									"y": 85,
+									"h": 206,
+									"w": 206
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 245,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 457,
+									"y": 85,
+									"h": 206,
+									"w": 206
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197223158433996800,
+					"id_str": "1197223158433996800",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ1kHpNUYAAF2VQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJ1kHpNUYAAF2VQ.png",
+					"url": "https://t.co/Bk9HLlNg5C",
+					"display_url": "pic.twitter.com/Bk9HLlNg5C",
+					"expanded_url": "https://twitter.com/stiles/status/1197223161483251712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 733,
+							"h": 423,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 733,
+							"h": 423,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 197,
+									"y": 227,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 423,
+									"y": 78,
+									"h": 191,
+									"w": 191
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 245,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 457,
+									"y": 85,
+									"h": 206,
+									"w": 206
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 245,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 457,
+									"y": 85,
+									"h": 206,
+									"w": 206
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 213,
+									"y": 245,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 457,
+									"y": 85,
+									"h": 206,
+									"w": 206
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11158,
+			"friends_count": 1848,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573841271",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I know that members of this committee have frequently framed these complicated issues in the form of a simple question: Was there a quid pro quo? ... with regard to the requested White House call and White House meeting, the answer is yes.” https://t.co/CTf4EZR6TV https://t.co/Bk9HLlNg5C"
+	},
+	{
 		"created_at": "Wed Nov 20 16:56:41 +0000 2019",
 		"id": 1197178745112735700,
 		"id_str": "1197197079338074113",
