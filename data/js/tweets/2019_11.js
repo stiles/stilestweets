@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 21:06:48 +0000 2019",
+		"id": 1197622413254488000,
+		"id_str": "1197622413254488064",
+		"full_text": "Frozen II gets the @ManohlaDargis treatment. A \"diverting, prettily animated musical\"... https://t.co/P7iIzvEIJM \n\ncc @jeremybowers https://t.co/RHWdUIMLTl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ManohlaDargis",
+					"name": "Manohla Darkness",
+					"id": 110409396,
+					"id_str": "110409396",
+					"indices": [
+						19,
+						33
+					]
+				},
+				{
+					"screen_name": "jeremybowers",
+					"name": "Jeremy Bowers",
+					"id": 8083262,
+					"id_str": "8083262",
+					"indices": [
+						118,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P7iIzvEIJM",
+					"expanded_url": "https://www.nytimes.com/2019/11/21/movies/frozen-2-review.html",
+					"display_url": "nytimes.com/2019/11/21/mov…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1197622410142351400,
+					"id_str": "1197622410142351360",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7PPJuVAAAmypr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7PPJuVAAAmypr.jpg",
+					"url": "https://t.co/RHWdUIMLTl",
+					"display_url": "pic.twitter.com/RHWdUIMLTl",
+					"expanded_url": "https://twitter.com/stiles/status/1197622413254488064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1398,
+									"y": 360,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 806,
+									"y": 247,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 930,
+									"y": 159,
+									"h": 271,
+									"w": 271
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 127,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 285,
+									"y": 87,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 329,
+									"y": 56,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1398,
+									"y": 360,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 806,
+									"y": 247,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 930,
+									"y": 159,
+									"h": 271,
+									"w": 271
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 873,
+									"y": 225,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 503,
+									"y": 154,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 581,
+									"y": 99,
+									"h": 169,
+									"w": 169
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197622410142351400,
+					"id_str": "1197622410142351360",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7PPJuVAAAmypr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7PPJuVAAAmypr.jpg",
+					"url": "https://t.co/RHWdUIMLTl",
+					"display_url": "pic.twitter.com/RHWdUIMLTl",
+					"expanded_url": "https://twitter.com/stiles/status/1197622413254488064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 285,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 503,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1398,
+									"y": 360,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 806,
+									"y": 247,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 930,
+									"y": 159,
+									"h": 271,
+									"w": 271
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 495,
+									"y": 127,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 285,
+									"y": 87,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 329,
+									"y": 56,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1398,
+									"y": 360,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 806,
+									"y": 247,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 930,
+									"y": 159,
+									"h": 271,
+									"w": 271
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 873,
+									"y": 225,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 503,
+									"y": 154,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 581,
+									"y": 99,
+									"h": 169,
+									"w": 169
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11161,
+			"friends_count": 1848,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1573841271",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Frozen II gets the @ManohlaDargis treatment. A \"diverting, prettily animated musical\"... https://t.co/P7iIzvEIJM \n\ncc @jeremybowers https://t.co/RHWdUIMLTl"
+	},
+	{
 		"created_at": "Wed Nov 20 20:58:31 +0000 2019",
 		"id": 1197257940341842000,
 		"id_str": "1197257940341841923",
