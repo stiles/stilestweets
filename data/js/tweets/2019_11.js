@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 23 05:11:28 +0000 2019",
+		"id": 1198106275231490000,
+		"id_str": "1198106769446170625",
+		"full_text": "BREAKING: The Democratic Coalition just filed a House Ethics complaint against Rep. Devin Nunes for abuse of office which violates House Rule XXIII (1), following reports he met a Ukrainian prosecutor to get dirt on VP Biden during an official overseas trip. #DevinNunesGotCaught",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DevinNunesGotCaught",
+					"indices": [
+						259,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14247236,
+			"id_str": "14247236",
+			"name": "Scott Dworkin",
+			"screen_name": "funder",
+			"location": "",
+			"description": "Co-Founder @TheDemCoalition. #DworkinReport podcast host. My books: @mtc2020series. Investigator who helped expose #TrumpRussia. Obama alum. #TheResistance",
+			"url": "https://t.co/C8LaSjzXvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C8LaSjzXvH",
+							"expanded_url": "http://DworkinReport.com",
+							"display_url": "DworkinReport.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544887,
+			"friends_count": 80571,
+			"listed_count": 4133,
+			"created_at": "Fri Mar 28 21:38:52 +0000 2008",
+			"favourites_count": 110319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 221426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/843990001532764160/yjMRQs74_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/843990001532764160/yjMRQs74_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14247236/1570502294",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 745,
+		"favorite_count": 1700,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING: The Democratic Coalition just filed a House Ethics complaint against Rep. Devin Nunes for abuse of office which violates House Rule XXIII (1), following reports he met a Ukrainian prosecutor to get dirt on VP Biden during an official overseas trip. #DevinNunesGotCaught"
+	},
+	{
 		"created_at": "Sat Nov 23 03:16:03 +0000 2019",
 		"id": 1198077726281760800,
 		"id_str": "1198077726281760769",
