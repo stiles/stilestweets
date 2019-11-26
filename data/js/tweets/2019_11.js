@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 26 21:46:25 +0000 2019",
+		"id": 1199379633742872600,
+		"id_str": "1199444320211750912",
+		"full_text": "A few days after writing a story about the Mister Rogers documentary last year, I got an email. It was from Joanne Rogers, the late TV host's 91-year-old widow. This letter was the first in what became a virtual pen pal relationship between us from Pittsburgh to LA. https://t.co/zUQuULpNmw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199379630467117000,
+					"id_str": "1199379630467117056",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EKUNa1jU8AAsjTX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKUNa1jU8AAsjTX.png",
+					"url": "https://t.co/zUQuULpNmw",
+					"display_url": "pic.twitter.com/zUQuULpNmw",
+					"expanded_url": "https://twitter.com/AmyKinLA/status/1199379633742872576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 360,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 312,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 312,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199379630467117000,
+					"id_str": "1199379630467117056",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EKUNa1jU8AAsjTX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKUNa1jU8AAsjTX.png",
+					"url": "https://t.co/zUQuULpNmw",
+					"display_url": "pic.twitter.com/zUQuULpNmw",
+					"expanded_url": "https://twitter.com/AmyKinLA/status/1199379633742872576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 360,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 312,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 312,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24668317,
+			"id_str": "24668317",
+			"name": "Amy Kaufman",
+			"screen_name": "AmyKinLA",
+			"location": "",
+			"description": "I cover Hollywood for the @LATimes. My dog is named Riggins. And I'm the author of the @nytimes best seller \"Bachelor Nation\": https://t.co/OU1TlQcBoE",
+			"url": "https://t.co/np1ZqEInkc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/np1ZqEInkc",
+							"expanded_url": "http://www.latimes.com/la-bio-amy-kaufman-staff.html",
+							"display_url": "latimes.com/la-bio-amy-kau…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OU1TlQcBoE",
+							"expanded_url": "https://goo.gl/4cXoJz",
+							"display_url": "goo.gl/4cXoJz",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 51479,
+			"friends_count": 940,
+			"listed_count": 919,
+			"created_at": "Mon Mar 16 08:54:33 +0000 2009",
+			"favourites_count": 43957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 53858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931050430913683456/l1_bQQsh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931050430913683456/l1_bQQsh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24668317/1549921827",
+			"profile_link_color": "5C00B3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 2022,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A few days after writing a story about the Mister Rogers documentary last year, I got an email. It was from Joanne Rogers, the late TV host's 91-year-old widow. This letter was the first in what became a virtual pen pal relationship between us from Pittsburgh to LA. https://t.co/zUQuULpNmw"
+	},
+	{
 		"created_at": "Mon Nov 25 23:34:44 +0000 2019",
 		"id": 1199108990812278800,
 		"id_str": "1199109191131992064",
