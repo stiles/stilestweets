@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 25 23:34:44 +0000 2019",
+		"id": 1199108990812278800,
+		"id_str": "1199109191131992064",
+		"full_text": "Decent chance the Trump administration, with its overly aggressive claims of executive power, ends up making law that dramatically ties the hands of future presidents. https://t.co/iDGemS9iiw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iDGemS9iiw",
+					"expanded_url": "https://twitter.com/geoffrbennett/status/1199108061417410561",
+					"display_url": "twitter.com/geoffrbennett/…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55948054,
+			"id_str": "55948054",
+			"name": "Matthew Miller",
+			"screen_name": "matthewamiller",
+			"location": "Washington, DC",
+			"description": "Partner @VianovoLP. MSNBC Justice & Security Analyst. Recovering flack from DOJ, the Senate, and too many campaigns to count.",
+			"url": "https://t.co/BLfP5TzgoB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BLfP5TzgoB",
+							"expanded_url": "http://vianovo.com/team/matthew-miller",
+							"display_url": "vianovo.com/team/matthew-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 342970,
+			"friends_count": 496,
+			"listed_count": 3124,
+			"created_at": "Sat Jul 11 22:28:45 +0000 2009",
+			"favourites_count": 11028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130525676765949952/IBeJ-JTQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130525676765949952/IBeJ-JTQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55948054/1496062385",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1199108061417410600,
+		"quoted_status_id_str": "1199108061417410561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iDGemS9iiw",
+			"expanded": "https://twitter.com/geoffrbennett/status/1199108061417410561",
+			"display": "twitter.com/geoffrbennett/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 25 23:30:14 +0000 2019",
+			"id": 1199108061417410600,
+			"id_str": "1199108061417410561",
+			"full_text": "The Justice Department says it will appeal the McGahn ruling and will seek a stay to block its enforcement, NBC’s Pete Williams reports. https://t.co/2Lu3Xq3G94",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2Lu3Xq3G94",
+						"expanded_url": "https://twitter.com/geoffrbennett/status/1199105759163944961",
+						"display_url": "twitter.com/geoffrbennett/…",
+						"indices": [
+							137,
+							160
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19502995,
+				"id_str": "19502995",
+				"name": "Geoff Bennett",
+				"screen_name": "GeoffRBennett",
+				"location": "Washington, D.C.",
+				"description": "@NBCNews White House Correspondent by way of @NPR, @NY1, @ABC & @Morehouse",
+				"url": "https://t.co/TouDVeULbs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TouDVeULbs",
+								"expanded_url": "http://nbcnews.com",
+								"display_url": "nbcnews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50928,
+				"friends_count": 3827,
+				"listed_count": 819,
+				"created_at": "Sun Jan 25 20:21:13 +0000 2009",
+				"favourites_count": 20023,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8132,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/412705220209045504/mZkHmLs6_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/412705220209045504/mZkHmLs6_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19502995/1527794409",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1199105759163945000,
+			"quoted_status_id_str": "1199105759163944961",
+			"quoted_status_permalink": {
+				"url": "https://t.co/2Lu3Xq3G94",
+				"expanded": "https://twitter.com/geoffrbennett/status/1199105759163944961",
+				"display": "twitter.com/geoffrbennett/…"
+			},
+			"retweet_count": 238,
+			"favorite_count": 266,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 277,
+		"favorite_count": 825,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Decent chance the Trump administration, with its overly aggressive claims of executive power, ends up making law that dramatically ties the hands of future presidents. https://t.co/iDGemS9iiw"
+	},
+	{
 		"created_at": "Mon Nov 25 20:15:57 +0000 2019",
 		"id": 1199059166788124700,
 		"id_str": "1199059166788124672",
