@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 02:41:20 +0000 2019",
+		"id": 1199511116445028400,
+		"id_str": "1199518538018373633",
+		"full_text": "In contrast, the House's system for privately-funded travel not only has a search engine that is useful (https://t.co/waTy4wD2aE), it also provides the underlying data for download.\n\nhttps://t.co/wfVDr8ZFTx\n\nSenators can decide to do this.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/waTy4wD2aE",
+					"expanded_url": "http://clerk.house.gov/public_disc/giftTravel-search.aspx",
+					"display_url": "clerk.house.gov/public_disc/gi…",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/wfVDr8ZFTx",
+					"expanded_url": "http://clerk.house.gov/public_disc/giftTravel.aspx",
+					"display_url": "clerk.house.gov/public_disc/gi…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199509243726123000,
+		"in_reply_to_status_id_str": "1199509243726123008",
+		"in_reply_to_user_id": 14517538,
+		"in_reply_to_user_id_str": "14517538",
+		"in_reply_to_screen_name": "derekwillis",
+		"user": {
+			"id": 14517538,
+			"id_str": "14517538",
+			"name": "Derek Willis",
+			"screen_name": "derekwillis",
+			"location": "Kensington Oval, ideally",
+			"description": "Journalist with coding habit at @propublica. Hobby: @openelex. Cricket, @PP_Represent & campaign finance. Talk to me: DM for Signal/ derek.willis@propublica.org",
+			"url": "https://t.co/xizhjsd6Vd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xizhjsd6Vd",
+							"expanded_url": "http://thescoop.org",
+							"display_url": "thescoop.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22635,
+			"friends_count": 1229,
+			"listed_count": 1422,
+			"created_at": "Thu Apr 24 20:48:23 +0000 2008",
+			"favourites_count": 21679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 95269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9BACE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061425559945822214/ns-bDp0l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061425559945822214/ns-bDp0l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14517538/1467483088",
+			"profile_link_color": "0016FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In contrast, the House's system for privately-funded travel not only has a search engine that is useful (https://t.co/waTy4wD2aE), it also provides the underlying data for download.\n\nhttps://t.co/wfVDr8ZFTx\n\nSenators can decide to do this."
+	},
+	{
 		"created_at": "Wed Nov 27 00:20:29 +0000 2019",
 		"id": 1199483093792354300,
 		"id_str": "1199483093792354305",
