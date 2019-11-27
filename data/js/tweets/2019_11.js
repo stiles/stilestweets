@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 00:18:29 +0000 2019",
+		"id": 1199482508087312400,
+		"id_str": "1199482588525547520",
+		"full_text": "NYT adds a key detail to the timeline https://t.co/FjhT4VHI0t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FjhT4VHI0t",
+					"expanded_url": "https://nyti.ms/2XPZgkx",
+					"display_url": "nyti.ms/2XPZgkx",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 327862439,
+			"id_str": "327862439",
+			"name": "Jonathan Swan",
+			"screen_name": "jonathanvswan",
+			"location": "Washington D.C.",
+			"description": "Reporter. Send me tips: jonathan@axios.com // jonathanvswan@protonmail.com // DM me for my Signal #.",
+			"url": "https://t.co/MVY3CnKmAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MVY3CnKmAn",
+							"expanded_url": "https://www.axios.com/",
+							"display_url": "axios.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219400,
+			"friends_count": 4857,
+			"listed_count": 3389,
+			"created_at": "Sat Jul 02 08:39:41 +0000 2011",
+			"favourites_count": 9366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/776573397153288193/05FGnuTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/776573397153288193/05FGnuTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/327862439/1481411450",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NYT adds a key detail to the timeline https://t.co/FjhT4VHI0t"
+	},
+	{
 		"created_at": "Tue Nov 26 21:46:25 +0000 2019",
 		"id": 1199379633742872600,
 		"id_str": "1199444320211750912",
