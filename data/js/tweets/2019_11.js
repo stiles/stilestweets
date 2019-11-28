@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 28 16:13:43 +0000 2019",
+		"id": 1199808043870908400,
+		"id_str": "1200085368806068225",
+		"full_text": "Adios Motherfuckers! Today, the day before Thanksgiving, our owner Duncan McIntosh Company has decided to shut us down. For the last quarter century, we’ve tried to bring good stories to Orange County. It’s been fun, but now we’re done. https://t.co/Y51ynOHbgp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199808038103707600,
+					"id_str": "1199808038103707648",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EKaTDcXUcAAkrhw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKaTDcXUcAAkrhw.jpg",
+					"url": "https://t.co/Y51ynOHbgp",
+					"display_url": "pic.twitter.com/Y51ynOHbgp",
+					"expanded_url": "https://twitter.com/OCWeekly/status/1199808043870908416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 530,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199808038103707600,
+					"id_str": "1199808038103707648",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EKaTDcXUcAAkrhw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKaTDcXUcAAkrhw.jpg",
+					"url": "https://t.co/Y51ynOHbgp",
+					"display_url": "pic.twitter.com/Y51ynOHbgp",
+					"expanded_url": "https://twitter.com/OCWeekly/status/1199808043870908416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 530,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19082263,
+			"id_str": "19082263",
+			"name": "OC Weekly",
+			"screen_name": "OCWeekly",
+			"location": "Orange County, CA",
+			"description": "The latest in Orange County news, arts, culture and food. New issue on stands every Thursday!",
+			"url": "https://t.co/xSlK2f4ll6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xSlK2f4ll6",
+							"expanded_url": "http://www.ocweekly.com",
+							"display_url": "ocweekly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52450,
+			"friends_count": 5191,
+			"listed_count": 1020,
+			"created_at": "Fri Jan 16 19:57:53 +0000 2009",
+			"favourites_count": 6605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDCC13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1693590117/ocw1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1693590117/ocw1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19082263/1571929198",
+			"profile_link_color": "098899",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B8DAE0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1553,
+		"favorite_count": 4480,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adios Motherfuckers! Today, the day before Thanksgiving, our owner Duncan McIntosh Company has decided to shut us down. For the last quarter century, we’ve tried to bring good stories to Orange County. It’s been fun, but now we’re done. https://t.co/Y51ynOHbgp"
+	},
+	{
 		"created_at": "Wed Nov 27 20:42:45 +0000 2019",
 		"id": 1199756338856743000,
 		"id_str": "1199790688423968768",
