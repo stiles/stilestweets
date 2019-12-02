@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 20:16:10 +0000 2019",
+		"id": 1201595936578908200,
+		"id_str": "1201595936578908160",
+		"full_text": "mom and dad are fighting again... https://t.co/tElEM4g2E3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tElEM4g2E3",
+					"expanded_url": "https://twitter.com/gtconway3d/status/1201588655204241415",
+					"display_url": "twitter.com/gtconway3d/sta…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11165,
+			"friends_count": 1858,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1574970311",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1201588655204241400,
+		"quoted_status_id_str": "1201588655204241415",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tElEM4g2E3",
+			"expanded": "https://twitter.com/gtconway3d/status/1201588655204241415",
+			"display": "twitter.com/gtconway3d/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 02 19:47:14 +0000 2019",
+			"id": 1201588655204241400,
+			"id_str": "1201588655204241415",
+			"full_text": "Your boss apparently thought so. https://t.co/yje099pkPU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yje099pkPU",
+						"expanded_url": "https://twitter.com/kellyannepolls/status/1201585936208924672",
+						"display_url": "twitter.com/kellyannepolls…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 471677441,
+				"id_str": "471677441",
+				"name": "George Conway",
+				"screen_name": "gtconway3d",
+				"location": "Originally from U.S.",
+				"description": "Lawyer. Human scum who believes truth is true power. Member, Fiona Hill Fan Club. Windmill cancer survivor.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 808361,
+				"friends_count": 1001,
+				"listed_count": 3530,
+				"created_at": "Mon Jan 23 04:23:10 +0000 2012",
+				"favourites_count": 6504,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30156,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1783627578/image_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1783627578/image_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/471677441/1573256992",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1201585936208924700,
+			"quoted_status_id_str": "1201585936208924672",
+			"quoted_status_permalink": {
+				"url": "https://t.co/yje099pkPU",
+				"expanded": "https://twitter.com/kellyannepolls/status/1201585936208924672",
+				"display": "twitter.com/kellyannepolls…"
+			},
+			"retweet_count": 2960,
+			"favorite_count": 13789,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "mom and dad are fighting again... https://t.co/tElEM4g2E3"
+	},
+	{
 		"created_at": "Mon Dec 02 17:45:27 +0000 2019",
 		"id": 1201549706901377000,
 		"id_str": "1201558006527184897",
