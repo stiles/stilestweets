@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 02 06:50:28 +0000 2019",
+		"id": 1201316548750774300,
+		"id_str": "1201393174171701250",
+		"full_text": "Spent much of my day editing the largest @FiveThirtyEight project the team has built since I joined. This thing has had so much thought and energy poured into it. I can’t wait until we can share it with you.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FiveThirtyEight",
+					"name": "FiveThirtyEight",
+					"id": 2303751216,
+					"id_str": "2303751216",
+					"indices": [
+						41,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32633517,
+			"id_str": "32633517",
+			"name": "Christopher Groskopf",
+			"screen_name": "onyxfish",
+			"location": "Tyler, TX",
+			"description": "Deputy Editor for Graphics and Interactives, @FiveThirtyEight.  Co-founder, @thetylerloop. Made csvkit. Wrote the Bad Data Guide. #wfh",
+			"url": "https://t.co/QHyHhBQV4U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QHyHhBQV4U",
+							"expanded_url": "https://fivethirtyeight.com/",
+							"display_url": "fivethirtyeight.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6488,
+			"friends_count": 881,
+			"listed_count": 505,
+			"created_at": "Fri Apr 17 22:39:08 +0000 2009",
+			"favourites_count": 434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "334F60",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2778403638/4f499e3b117a65e0eb35e14069a29dfc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2778403638/4f499e3b117a65e0eb35e14069a29dfc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32633517/1500902729",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "404040",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Spent much of my day editing the largest @FiveThirtyEight project the team has built since I joined. This thing has had so much thought and energy poured into it. I can’t wait until we can share it with you."
+	},
+	{
 		"created_at": "Sun Dec 01 22:25:09 +0000 2019",
 		"id": 1201266006401765400,
 		"id_str": "1201266006401765376",
