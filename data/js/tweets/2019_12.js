@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 23:08:34 +0000 2019",
+		"id": 1201987392124719000,
+		"id_str": "1202001710362742784",
+		"full_text": "Consulting firm McKinsey worked for ICE and recommended the government cut food and medical spending for detainees.\n\nReally.\n\nhttps://t.co/LALOnhJ3lH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LALOnhJ3lH",
+					"expanded_url": "https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies",
+					"display_url": "propublica.org/article/how-mc…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14619527,
+			"id_str": "14619527",
+			"name": "Eric Umansky",
+			"screen_name": "ericuman",
+			"location": "NYC",
+			"description": "Deputy Managing Editor @ProPublica. Co-founder @DocumentCloud. Editor of Trump, Inc. podcast. Hang out with @sarapekow.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32528,
+			"friends_count": 1707,
+			"listed_count": 1033,
+			"created_at": "Thu May 01 20:59:10 +0000 2008",
+			"favourites_count": 4552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/714275272112078849/YouCASNT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/714275272112078849/YouCASNT_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 838,
+		"favorite_count": 866,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Consulting firm McKinsey worked for ICE and recommended the government cut food and medical spending for detainees.\n\nReally.\n\nhttps://t.co/LALOnhJ3lH"
+	},
+	{
 		"created_at": "Tue Dec 03 19:31:40 +0000 2019",
 		"id": 1201947123748491300,
 		"id_str": "1201947123748491264",
