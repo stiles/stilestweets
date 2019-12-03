@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 02:48:00 +0000 2019",
+		"id": 1201684831253323800,
+		"id_str": "1201694543294402560",
+		"full_text": "Fusion Tables was an entry point for me and provided a path to where I am now.\n\nIt led me to meet @jkeefe, @JonDavenport1, @rdmurphy, @stiles, @derekeder &amp; @CEssig  and so many others. \n\nI made many bad maps &amp; wrote many bad scripts. I failed &amp; learned &amp; overcame &amp; failed again. https://t.co/8zJNa9vqpf https://t.co/w86ujC5n8f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			323
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jkeefe",
+					"name": "John Keefe",
+					"id": 13395932,
+					"id_str": "13395932",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"screen_name": "JonDavenport1",
+					"name": "Jon Davenport",
+					"id": 19053453,
+					"id_str": "19053453",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"screen_name": "rdmurphy",
+					"name": "Ryan Merry 🎄",
+					"id": 20031243,
+					"id_str": "20031243",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"screen_name": "derekeder",
+					"name": "Derek Eder",
+					"id": 16357416,
+					"id_str": "16357416",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"screen_name": "CEssig",
+					"name": "Chris Essig",
+					"id": 309248021,
+					"id_str": "309248021",
+					"indices": [
+						160,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8zJNa9vqpf",
+					"expanded_url": "https://twitter.com/forestgregg/status/1201520012860755968",
+					"display_url": "twitter.com/forestgregg/st…",
+					"indices": [
+						300,
+						323
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201684822554341400,
+					"id_str": "1201684822554341377",
+					"indices": [
+						324,
+						347
+					],
+					"media_url": "http://pbs.twimg.com/media/EK09-rRUcAEo6aF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK09-rRUcAEo6aF.jpg",
+					"url": "https://t.co/w86ujC5n8f",
+					"display_url": "pic.twitter.com/w86ujC5n8f",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1201684831253323776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1348,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 525,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 298,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201684822554341400,
+					"id_str": "1201684822554341377",
+					"indices": [
+						324,
+						347
+					],
+					"media_url": "http://pbs.twimg.com/media/EK09-rRUcAEo6aF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK09-rRUcAEo6aF.jpg",
+					"url": "https://t.co/w86ujC5n8f",
+					"display_url": "pic.twitter.com/w86ujC5n8f",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1201684831253323776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1348,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 525,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 298,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1201684822562721800,
+					"id_str": "1201684822562721792",
+					"indices": [
+						324,
+						347
+					],
+					"media_url": "http://pbs.twimg.com/media/EK09-rTUUAA_wyd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK09-rTUUAA_wyd.jpg",
+					"url": "https://t.co/w86ujC5n8f",
+					"display_url": "pic.twitter.com/w86ujC5n8f",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1201684831253323776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 623,
+							"h": 784,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 623,
+							"h": 784,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1201684822562754600,
+					"id_str": "1201684822562754560",
+					"indices": [
+						324,
+						347
+					],
+					"media_url": "http://pbs.twimg.com/media/EK09-rTU0AAstcx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK09-rTU0AAstcx.jpg",
+					"url": "https://t.co/w86ujC5n8f",
+					"display_url": "pic.twitter.com/w86ujC5n8f",
+					"expanded_url": "https://twitter.com/ChrisLKellerLAT/status/1201684831253323776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 589,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1578,
+							"h": 775,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 963122095747035100,
+			"id_str": "963122095747035136",
+			"name": "Chris Keller",
+			"screen_name": "ChrisLKellerLAT",
+			"location": "Los Angeles, CA",
+			"description": "Digital & visual journalist for The Times’ 2020 election team. Former @KPCC, @madisondotcom, @nwi & @TheSPEagle. A more official-er account of @ChrisLKeller",
+			"url": "https://t.co/QPwW7wUqUW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QPwW7wUqUW",
+							"expanded_url": "http://www.latimes.com/la-bio-chris-keller-staff.html",
+							"display_url": "latimes.com/la-bio-chris-k…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 100,
+			"listed_count": 21,
+			"created_at": "Mon Feb 12 18:46:16 +0000 2018",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963124450135719936/LO8DoiZm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/963122095747035136/1518462904",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1201520012860756000,
+		"quoted_status_id_str": "1201520012860755968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8zJNa9vqpf",
+			"expanded": "https://twitter.com/forestgregg/status/1201520012860755968",
+			"display": "twitter.com/forestgregg/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 02 15:14:28 +0000 2019",
+			"id": 1201520012860756000,
+			"id_str": "1201520012860755968",
+			"full_text": "fusion tables was a convivial technology. it let thousands of small organizations and groups, with little tech skill and no budget\n\n1. map their data for the first time\n2. geocode their data for the first time (before that got throttled)\n3. publish their data for the first time. https://t.co/g7ZBva0btD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/g7ZBva0btD",
+						"expanded_url": "https://twitter.com/CivicWhitaker/status/1201518225441329158",
+						"display_url": "twitter.com/CivicWhitaker/…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 764555761179656200,
+				"id_str": "764555761179656192",
+				"name": "Forest Gregg",
+				"screen_name": "forestgregg",
+				"location": "Chicago, IL",
+				"description": "Partner at @datamadeco\nhe/him",
+				"url": "https://t.co/bBwjwgGLW4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bBwjwgGLW4",
+								"expanded_url": "http://tinyletter.com/slow-news/archive",
+								"display_url": "tinyletter.com/slow-news/arch…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1147,
+				"friends_count": 2244,
+				"listed_count": 45,
+				"created_at": "Sat Aug 13 20:14:33 +0000 2016",
+				"favourites_count": 8920,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9010,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/791846276300152832/yOlnDi7P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/791846276300152832/yOlnDi7P_normal.jpg",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1201518225441329200,
+			"quoted_status_id_str": "1201518225441329158",
+			"quoted_status_permalink": {
+				"url": "https://t.co/g7ZBva0btD",
+				"expanded": "https://twitter.com/CivicWhitaker/status/1201518225441329158",
+				"display": "twitter.com/CivicWhitaker/…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fusion Tables was an entry point for me and provided a path to where I am now.\n\nIt led me to meet @jkeefe, @JonDavenport1, @rdmurphy, @stiles, @derekeder &amp; @CEssig  and so many others. \n\nI made many bad maps &amp; wrote many bad scripts. I failed &amp; learned &amp; overcame &amp; failed again. https://t.co/8zJNa9vqpf https://t.co/w86ujC5n8f"
+	},
+	{
 		"created_at": "Mon Dec 02 20:16:10 +0000 2019",
 		"id": 1201595936578908200,
 		"id_str": "1201595936578908160",
