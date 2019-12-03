@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 19:31:40 +0000 2019",
+		"id": 1201947123748491300,
+		"id_str": "1201947123748491264",
+		"full_text": "@emilymbadger Greenville, SC",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emilymbadger",
+					"name": "Emily Badger",
+					"id": 253152109,
+					"id_str": "253152109",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1201923960943849500,
+		"in_reply_to_status_id_str": "1201923960943849474",
+		"in_reply_to_user_id": 253152109,
+		"in_reply_to_user_id_str": "253152109",
+		"in_reply_to_screen_name": "emilymbadger",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11161,
+			"friends_count": 1861,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1574970311",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@emilymbadger Greenville, SC"
+	},
+	{
+		"created_at": "Tue Dec 03 19:31:11 +0000 2019",
+		"id": 1201945696703668200,
+		"id_str": "1201947003971727360",
+		"full_text": "The two candidates who are most likely to benefit from Kamala Harris' withdrawal, at least in California, are Elizabeth Warren and Joe Biden, according to a poll conducted by the Berkeley Institute of Governmental Studies. https://t.co/zx12UFg4ox via @melmason @finneganLAT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melmason",
+					"name": "Melanie Mason",
+					"id": 27993391,
+					"id_str": "27993391",
+					"indices": [
+						251,
+						260
+					]
+				},
+				{
+					"screen_name": "finneganLAT",
+					"name": "Michael Finnegan",
+					"id": 150793102,
+					"id_str": "150793102",
+					"indices": [
+						261,
+						273
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zx12UFg4ox",
+					"expanded_url": "https://lat.ms/33LCtI2",
+					"display_url": "lat.ms/33LCtI2",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1072207332359041000,
+			"id_str": "1072207332359041024",
+			"name": "Brian Park",
+			"screen_name": "TheBrianPark",
+			"location": "Los Angeles, CA",
+			"description": "@latimes | California community college graduate | @normsrestaurant fan",
+			"url": "https://t.co/B0RvKygRn9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B0RvKygRn9",
+							"expanded_url": "https://www.latimes.com/",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1031,
+			"friends_count": 2887,
+			"listed_count": 10,
+			"created_at": "Mon Dec 10 19:12:03 +0000 2018",
+			"favourites_count": 22490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171425636792954880/35qfi-A6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171425636792954880/35qfi-A6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1072207332359041024/1544471582",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The two candidates who are most likely to benefit from Kamala Harris' withdrawal, at least in California, are Elizabeth Warren and Joe Biden, according to a poll conducted by the Berkeley Institute of Governmental Studies. https://t.co/zx12UFg4ox via @melmason @finneganLAT"
+	},
+	{
 		"created_at": "Tue Dec 03 18:30:13 +0000 2019",
 		"id": 1201931661388050400,
 		"id_str": "1201931661388050433",
