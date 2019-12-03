@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 03 17:52:52 +0000 2019",
+		"id": 1201922260937756700,
+		"id_str": "1201922260937756672",
+		"full_text": "County officials just played video highlights from @SupJaniceHahn's spirited tenure as Board of Supervisors chair. @kathrynbarger is take the gavel for 2020. Among those moments was that funny joke she made to \"one take\" Brad Pitt during @LACMA debate: https://t.co/nhO3XCpUhm https://t.co/b1Z1hhm04h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SupJaniceHahn",
+					"name": "Janice Hahn",
+					"id": 339852137,
+					"id_str": "339852137",
+					"indices": [
+						51,
+						65
+					]
+				},
+				{
+					"screen_name": "kathrynbarger",
+					"name": "Supervisor Kathryn Barger",
+					"id": 3165949670,
+					"id_str": "3165949670",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"screen_name": "LACMA",
+					"name": "LACMA",
+					"id": 14991920,
+					"id_str": "14991920",
+					"indices": [
+						238,
+						244
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nhO3XCpUhm",
+					"expanded_url": "https://twitter.com/stiles/status/1115691065858592769?tw_i=1115691065858592769&tw_e=details&tw_p=archive",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1201922253325131800,
+					"id_str": "1201922253325131776",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EK4V690U4AArhn4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK4V690U4AArhn4.jpg",
+					"url": "https://t.co/b1Z1hhm04h",
+					"display_url": "pic.twitter.com/b1Z1hhm04h",
+					"expanded_url": "https://twitter.com/stiles/status/1201922260937756672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 326,
+									"y": 148,
+									"h": 235,
+									"w": 235
+								},
+								{
+									"x": 716,
+									"y": 292,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 184,
+									"y": 83,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 405,
+									"y": 165,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 326,
+									"y": 148,
+									"h": 235,
+									"w": 235
+								},
+								{
+									"x": 716,
+									"y": 292,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 326,
+									"y": 148,
+									"h": 235,
+									"w": 235
+								},
+								{
+									"x": 716,
+									"y": 292,
+									"h": 216,
+									"w": 216
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201922253325131800,
+					"id_str": "1201922253325131776",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EK4V690U4AArhn4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK4V690U4AArhn4.jpg",
+					"url": "https://t.co/b1Z1hhm04h",
+					"display_url": "pic.twitter.com/b1Z1hhm04h",
+					"expanded_url": "https://twitter.com/stiles/status/1201922260937756672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 326,
+									"y": 148,
+									"h": 235,
+									"w": 235
+								},
+								{
+									"x": 716,
+									"y": 292,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 184,
+									"y": 83,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 405,
+									"y": 165,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 326,
+									"y": 148,
+									"h": 235,
+									"w": 235
+								},
+								{
+									"x": 716,
+									"y": 292,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 326,
+									"y": 148,
+									"h": 235,
+									"w": 235
+								},
+								{
+									"x": 716,
+									"y": 292,
+									"h": 216,
+									"w": 216
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11161,
+			"friends_count": 1859,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1574970311",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115691065858592800,
+		"quoted_status_id_str": "1115691065858592769",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nhO3XCpUhm",
+			"expanded": "https://twitter.com/stiles/status/1115691065858592769?tw_i=1115691065858592769&tw_e=details&tw_p=archive",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 09 19:00:53 +0000 2019",
+			"id": 1115691065858592800,
+			"id_str": "1115691065858592769",
+			"full_text": "Clever joke by @SupJaniceHahn as Brad Pitt's speaking time expired during the Board of Supervisors' discussion about the Los Angeles County Museum of Art building funds: \"You only get one take here,\" she said. @debvankin is here and covering. Her latest: https://t.co/3rsu4ASFaT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SupJaniceHahn",
+						"name": "Janice Hahn",
+						"id": 339852137,
+						"id_str": "339852137",
+						"indices": [
+							15,
+							29
+						]
+					},
+					{
+						"screen_name": "debvankin",
+						"name": "Deborah Vankin",
+						"id": 31075207,
+						"id_str": "31075207",
+						"indices": [
+							210,
+							220
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3rsu4ASFaT",
+						"expanded_url": "https://lat.ms/2X0MKNz",
+						"display_url": "lat.ms/2X0MKNz",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles",
+				"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11161,
+				"friends_count": 1859,
+				"listed_count": 879,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 7045,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14804,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1574970311",
+				"profile_link_color": "B12E35",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "County officials just played video highlights from @SupJaniceHahn's spirited tenure as Board of Supervisors chair. @kathrynbarger is take the gavel for 2020. Among those moments was that funny joke she made to \"one take\" Brad Pitt during @LACMA debate: https://t.co/nhO3XCpUhm https://t.co/b1Z1hhm04h"
+	},
+	{
 		"created_at": "Tue Dec 03 02:48:00 +0000 2019",
 		"id": 1201684831253323800,
 		"id_str": "1201694543294402560",
