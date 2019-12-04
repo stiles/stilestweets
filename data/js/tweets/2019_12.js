@@ -1,6 +1,994 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 20:45:15 +0000 2019",
+		"id": 1202328031634710500,
+		"id_str": "1202328031634710528",
+		"full_text": "'the North Koreans do one thing a lot, and that’s bluff.' \n\nTime Is Running Out for Trump’s North Korean Diplomacy, Analysts Say https://t.co/pJ0XON2y2N https://t.co/KuwI3yyS39",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pJ0XON2y2N",
+					"expanded_url": "https://nyti.ms/2DOgMMM",
+					"display_url": "nyti.ms/2DOgMMM",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202327991843356700,
+					"id_str": "1202327991843356673",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EK-G8DlVAAEpiBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK-G8DlVAAEpiBt.jpg",
+					"url": "https://t.co/KuwI3yyS39",
+					"display_url": "pic.twitter.com/KuwI3yyS39",
+					"expanded_url": "https://twitter.com/stiles/status/1202328031634710528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1596,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 935,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202327991843356700,
+					"id_str": "1202327991843356673",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EK-G8DlVAAEpiBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK-G8DlVAAEpiBt.jpg",
+					"url": "https://t.co/KuwI3yyS39",
+					"display_url": "pic.twitter.com/KuwI3yyS39",
+					"expanded_url": "https://twitter.com/stiles/status/1202328031634710528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1596,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 935,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11158,
+			"friends_count": 1862,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1574970311",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'the North Koreans do one thing a lot, and that’s bluff.' \n\nTime Is Running Out for Trump’s North Korean Diplomacy, Analysts Say https://t.co/pJ0XON2y2N https://t.co/KuwI3yyS39"
+	},
+	{
+		"created_at": "Wed Dec 04 20:34:08 +0000 2019",
+		"id": 1202324931465355300,
+		"id_str": "1202325235367759872",
+		"full_text": "Brought to you by Carrie Matthison? https://t.co/yhcgy1nkjm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yhcgy1nkjm",
+					"expanded_url": "https://twitter.com/hogangidley45/status/1202323558266855424",
+					"display_url": "twitter.com/hogangidley45/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93069110,
+			"id_str": "93069110",
+			"name": "Maggie Haberman",
+			"screen_name": "maggieNYT",
+			"location": "",
+			"description": "White House correspondent for NYTimes, analyst for CNN. RTs don't imply agreement. maggie.haberman@nytimes.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1189153,
+			"friends_count": 4106,
+			"listed_count": 14757,
+			"created_at": "Fri Nov 27 23:14:06 +0000 2009",
+			"favourites_count": 54968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 215134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164036563162079233/71FCNtWG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164036563162079233/71FCNtWG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93069110/1487303247",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1202323558266855400,
+		"quoted_status_id_str": "1202323558266855424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yhcgy1nkjm",
+			"expanded": "https://twitter.com/hogangidley45/status/1202323558266855424",
+			"display": "twitter.com/hogangidley45/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 04 20:27:29 +0000 2019",
+			"id": 1202323558266855400,
+			"id_str": "1202323558266855424",
+			"full_text": "Media bias is real, it’s wrong, it’s dangerous, and it must be called out and exposed. Here are four @nytimes headlines and six clear, egregious examples of bias. Can you spot more?  (Keep in mind, these are JUST the headlines...we didn’t even post all examples IN the articles.) https://t.co/Bkwy0haLBc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							101,
+							109
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1202323527451328500,
+						"id_str": "1202323527451328515",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EK-C4MbUwAMHjo9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK-C4MbUwAMHjo9.jpg",
+						"url": "https://t.co/Bkwy0haLBc",
+						"display_url": "pic.twitter.com/Bkwy0haLBc",
+						"expanded_url": "https://twitter.com/hogangidley45/status/1202323558266855424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 375,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1131,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 662,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 395,
+										"y": 123,
+										"h": 47,
+										"w": 47
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1191,
+										"y": 371,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1286,
+										"y": 401,
+										"h": 153,
+										"w": 153
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 698,
+										"y": 217,
+										"h": 83,
+										"w": 83
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1202323527451328500,
+						"id_str": "1202323527451328515",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EK-C4MbUwAMHjo9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK-C4MbUwAMHjo9.jpg",
+						"url": "https://t.co/Bkwy0haLBc",
+						"display_url": "pic.twitter.com/Bkwy0haLBc",
+						"expanded_url": "https://twitter.com/hogangidley45/status/1202323558266855424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 375,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1131,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 662,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 395,
+										"y": 123,
+										"h": 47,
+										"w": 47
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1191,
+										"y": 371,
+										"h": 141,
+										"w": 141
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1286,
+										"y": 401,
+										"h": 153,
+										"w": 153
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 698,
+										"y": 217,
+										"h": 83,
+										"w": 83
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 919954735226073100,
+				"id_str": "919954735226073094",
+				"name": "Hogan Gidley",
+				"screen_name": "hogangidley45",
+				"location": "Washington, DC",
+				"description": "Deputy Assistant to the President & Principal Deputy Press Secretary. Tweets may be archived: https://t.co/eVVzoBb3Zr",
+				"url": "https://t.co/IxLjEB2zlE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IxLjEB2zlE",
+								"expanded_url": "http://WhiteHouse.gov",
+								"display_url": "WhiteHouse.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/eVVzoBb3Zr",
+								"expanded_url": "http://wh.gov/privacy",
+								"display_url": "wh.gov/privacy",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 41074,
+				"friends_count": 680,
+				"listed_count": 466,
+				"created_at": "Mon Oct 16 15:54:35 +0000 2017",
+				"favourites_count": 74,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 355,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919998762264571905/Lphq7uQa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919998762264571905/Lphq7uQa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/919954735226073094/1508951618",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1281,
+			"favorite_count": 2099,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 40,
+		"favorite_count": 410,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brought to you by Carrie Matthison? https://t.co/yhcgy1nkjm"
+	},
+	{
+		"created_at": "Wed Dec 04 20:22:09 +0000 2019",
+		"id": 1202322122837647400,
+		"id_str": "1202322217201090560",
+		"full_text": "@LanaDelRey @kendricklamar @alschaben @NipseyHussle @ScHoolboyQ @fareastmovement @SnoopDogg @jaylclendenin @icecube @GenaroMolina47 @JheneAiko @Spotify @LilEdit @mariadelpilarrr \"Malibu,\" written by @Courtney Love, her @Holerock bandmates &amp; collaborator @Billy Corgan (@SmashingPumpkin), seems to soar as if from the hills of its namesake locale.\n\nLove recalls the many inspirations behind “Malibu\" for @LilEdit's piece on L.A. songs: https://t.co/4wiskgrujf https://t.co/pseXSlHI9a",
+		"truncated": false,
+		"display_text_range": [
+			178,
+			462
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LanaDelRey",
+					"name": "Lana Del Rey",
+					"id": 45266183,
+					"id_str": "45266183",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "kendricklamar",
+					"name": "Kendrick Lamar",
+					"id": 23561980,
+					"id_str": "23561980",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "alschaben",
+					"name": "Allen J. Schaben",
+					"id": 520341709,
+					"id_str": "520341709",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "NipseyHussle",
+					"name": "THA GREAT",
+					"id": 19486963,
+					"id_str": "19486963",
+					"indices": [
+						38,
+						51
+					]
+				},
+				{
+					"screen_name": "ScHoolboyQ",
+					"name": "ScHoolboy Q",
+					"id": 22736017,
+					"id_str": "22736017",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"screen_name": "fareastmovement",
+					"name": "fareastmovement",
+					"id": 15313351,
+					"id_str": "15313351",
+					"indices": [
+						64,
+						80
+					]
+				},
+				{
+					"screen_name": "SnoopDogg",
+					"name": "Snoop Dogg",
+					"id": 3004231,
+					"id_str": "3004231",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"screen_name": "jaylclendenin",
+					"name": "Jay L. Clendenin (JLCvisuals)",
+					"id": 266964240,
+					"id_str": "266964240",
+					"indices": [
+						92,
+						106
+					]
+				},
+				{
+					"screen_name": "icecube",
+					"name": "Ice Cube",
+					"id": 19671129,
+					"id_str": "19671129",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"screen_name": "GenaroMolina47",
+					"name": "Genaro Molina",
+					"id": 1653973885,
+					"id_str": "1653973885",
+					"indices": [
+						116,
+						131
+					]
+				},
+				{
+					"screen_name": "JheneAiko",
+					"name": "Chilombo",
+					"id": 21247989,
+					"id_str": "21247989",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"screen_name": "LilEdit",
+					"name": "Randall 🕳 Roberts",
+					"id": 15263981,
+					"id_str": "15263981",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"screen_name": "mariadelpilarrr",
+					"name": "María del Pilar 🎶🎹🎤",
+					"id": 78225646,
+					"id_str": "78225646",
+					"indices": [
+						161,
+						177
+					]
+				},
+				{
+					"screen_name": "Courtney",
+					"name": "Courtney Love Cobain",
+					"id": 43522180,
+					"id_str": "43522180",
+					"indices": [
+						199,
+						208
+					]
+				},
+				{
+					"screen_name": "holerock",
+					"name": "Hole",
+					"id": 118825925,
+					"id_str": "118825925",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"screen_name": "Billy",
+					"name": "William Patrick Corgan",
+					"id": 25434201,
+					"id_str": "25434201",
+					"indices": [
+						258,
+						264
+					]
+				},
+				{
+					"screen_name": "SmashingPumpkin",
+					"name": "The Smashing Pumpkins",
+					"id": 24243022,
+					"id_str": "24243022",
+					"indices": [
+						273,
+						289
+					]
+				},
+				{
+					"screen_name": "LilEdit",
+					"name": "Randall 🕳 Roberts",
+					"id": 15263981,
+					"id_str": "15263981",
+					"indices": [
+						407,
+						415
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4wiskgrujf",
+					"expanded_url": "https://www.latimes.com/projects/la-songs-best-new-music/",
+					"display_url": "latimes.com/projects/la-so…",
+					"indices": [
+						439,
+						462
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202322112473469000,
+					"id_str": "1202322112473468928",
+					"indices": [
+						463,
+						486
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EK-Bl1OUEAAiIgD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EK-Bl1OUEAAiIgD.jpg",
+					"url": "https://t.co/pseXSlHI9a",
+					"display_url": "pic.twitter.com/pseXSlHI9a",
+					"expanded_url": "https://twitter.com/latimesent/status/1202322122837647360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202322112473469000,
+					"id_str": "1202322112473468928",
+					"indices": [
+						463,
+						486
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EK-Bl1OUEAAiIgD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EK-Bl1OUEAAiIgD.jpg",
+					"url": "https://t.co/pseXSlHI9a",
+					"display_url": "pic.twitter.com/pseXSlHI9a",
+					"expanded_url": "https://twitter.com/latimesent/status/1202322122837647360/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EK-Bl1OUEAAiIgD.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1202273129466224600,
+		"in_reply_to_status_id_str": "1202273129466224640",
+		"in_reply_to_user_id": 10222202,
+		"in_reply_to_user_id_str": "10222202",
+		"in_reply_to_screen_name": "latimesent",
+		"user": {
+			"id": 10222202,
+			"id_str": "10222202",
+			"name": "LAT Entertainment",
+			"screen_name": "latimesent",
+			"location": "Los Angeles, CA",
+			"description": "Entertainment news from @latimes, plus pop culture, celebrity, classic Hollywood and the arts",
+			"url": "https://t.co/E4BwVvYShc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E4BwVvYShc",
+							"expanded_url": "http://latimes.com/entertainment",
+							"display_url": "latimes.com/entertainment",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167185,
+			"friends_count": 1382,
+			"listed_count": 2524,
+			"created_at": "Tue Nov 13 18:35:59 +0000 2007",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 127343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043246247782563841/BOmrMG6A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043246247782563841/BOmrMG6A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10222202/1539026876",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LanaDelRey @kendricklamar @alschaben @NipseyHussle @ScHoolboyQ @fareastmovement @SnoopDogg @jaylclendenin @icecube @GenaroMolina47 @JheneAiko @Spotify @LilEdit @mariadelpilarrr \"Malibu,\" written by @Courtney Love, her @Holerock bandmates &amp; collaborator @Billy Corgan (@SmashingPumpkin), seems to soar as if from the hills of its namesake locale.\n\nLove recalls the many inspirations behind “Malibu\" for @LilEdit's piece on L.A. songs: https://t.co/4wiskgrujf https://t.co/pseXSlHI9a"
+	},
+	{
 		"created_at": "Tue Dec 03 23:49:56 +0000 2019",
 		"id": 1202012119551492000,
 		"id_str": "1202012119551492096",
