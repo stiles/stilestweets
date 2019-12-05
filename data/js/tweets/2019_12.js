@@ -1,6 +1,605 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 21:01:36 +0000 2019",
+		"id": 1202694534217420800,
+		"id_str": "1202694534217420801",
+		"full_text": "@AmyEBotelho1 @JamesRosenTV Agreed. It was still an epic smackdown. Fair to ask about the \"hate\" perception, but not surprised that the way it got asked (as she walked out, without context) prompted such a strong reaction.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmyEBotelho1",
+					"name": "Amy E. Botelho",
+					"id": 3353865792,
+					"id_str": "3353865792",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "JamesRosenTV",
+					"name": "James Rosen",
+					"id": 48029066,
+					"id_str": "48029066",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1202693012129767400,
+		"in_reply_to_status_id_str": "1202693012129767424",
+		"in_reply_to_user_id": 3353865792,
+		"in_reply_to_user_id_str": "3353865792",
+		"in_reply_to_screen_name": "AmyEBotelho1",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11164,
+			"friends_count": 1863,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1575520218",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AmyEBotelho1 @JamesRosenTV Agreed. It was still an epic smackdown. Fair to ask about the \"hate\" perception, but not surprised that the way it got asked (as she walked out, without context) prompted such a strong reaction."
+	},
+	{
+		"created_at": "Thu Dec 05 20:44:52 +0000 2019",
+		"id": 1202690321131298800,
+		"id_str": "1202690321131298816",
+		"full_text": "Ouch, @JamesRosenTV. https://t.co/7nGlZ1LvoI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesRosenTV",
+					"name": "James Rosen",
+					"id": 48029066,
+					"id_str": "48029066",
+					"indices": [
+						6,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7nGlZ1LvoI",
+					"expanded_url": "https://twitter.com/cspan/status/1202622105130549248",
+					"display_url": "twitter.com/cspan/status/1…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11164,
+			"friends_count": 1863,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1575520218",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1202622105130549200,
+		"quoted_status_id_str": "1202622105130549248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7nGlZ1LvoI",
+			"expanded": "https://twitter.com/cspan/status/1202622105130549248",
+			"display": "twitter.com/cspan/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 05 16:13:48 +0000 2019",
+			"id": 1202622105130549200,
+			"id_str": "1202622105130549248",
+			"full_text": "Q: \"Do you hate the president?\"\n\n@SpeakerPelosi: \"I don't hate anybody…As a Catholic, I resent your using the word hate in a sentence that addresses me. I don't hate anyone…So, don't mess with me when it comes to words like that.\"\n\nFull video: https://t.co/l9peY9RTzl https://t.co/zpqUaCcVrS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SpeakerPelosi",
+						"name": "Nancy Pelosi",
+						"id": 15764644,
+						"id_str": "15764644",
+						"indices": [
+							33,
+							47
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/l9peY9RTzl",
+						"expanded_url": "https://cs.pn/2Rob4cs",
+						"display_url": "cs.pn/2Rob4cs",
+						"indices": [
+							244,
+							267
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1202621669891854300,
+						"id_str": "1202621669891854337",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/ELCSZebXkAICe5Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELCSZebXkAICe5Y.jpg",
+						"url": "https://t.co/zpqUaCcVrS",
+						"display_url": "pic.twitter.com/zpqUaCcVrS",
+						"expanded_url": "https://twitter.com/cspan/status/1202622105130549248/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1202621669891854300,
+						"id_str": "1202621669891854337",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/ELCSZebXkAICe5Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELCSZebXkAICe5Y.jpg",
+						"url": "https://t.co/zpqUaCcVrS",
+						"display_url": "pic.twitter.com/zpqUaCcVrS",
+						"expanded_url": "https://twitter.com/cspan/status/1202622105130549248/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 80480,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1202621669891854337/vid/1280x720/2ObembP-UzhMk0C9.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1202621669891854337/vid/640x360/LmPhbf3Ql6eaMlzY.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1202621669891854337/pl/vbOvgPHLpr5SiWBm.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1202621669891854337/vid/480x270/ZrtowEXh0O8JWtki.mp4?tag=13"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"call_to_actions": {
+								"watch_now": {
+									"url": "https://cs.pn/2Rob4cs"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15675138,
+				"id_str": "15675138",
+				"name": "CSPAN",
+				"screen_name": "cspan",
+				"location": "Washington, D.C.",
+				"description": "Capitol Hill. The White House. National Politics.",
+				"url": "https://t.co/L3A4afzX6T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L3A4afzX6T",
+								"expanded_url": "http://www.c-span.org",
+								"display_url": "c-span.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1982233,
+				"friends_count": 8825,
+				"listed_count": 13973,
+				"created_at": "Thu Jul 31 14:29:10 +0000 2008",
+				"favourites_count": 1530,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42472,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "04005F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15675138/1552903501",
+				"profile_link_color": "04007D",
+				"profile_sidebar_border_color": "00012B",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2313,
+			"favorite_count": 7033,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ouch, @JamesRosenTV. https://t.co/7nGlZ1LvoI"
+	},
+	{
+		"created_at": "Thu Dec 05 20:37:33 +0000 2019",
+		"id": 1202688481769578500,
+		"id_str": "1202688481769578496",
+		"full_text": "@standyro @latimes Tell him security has some concerns.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "standyro",
+					"name": "Stan Dyro",
+					"id": 90461480,
+					"id_str": "90461480",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1202687836056518700,
+		"in_reply_to_status_id_str": "1202687836056518656",
+		"in_reply_to_user_id": 90461480,
+		"in_reply_to_user_id_str": "90461480",
+		"in_reply_to_screen_name": "standyro",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11164,
+			"friends_count": 1863,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1575520218",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@standyro @latimes Tell him security has some concerns."
+	},
+	{
 		"created_at": "Thu Dec 05 17:55:47 +0000 2019",
 		"id": 1202647773243302000,
 		"id_str": "1202647773243301888",
