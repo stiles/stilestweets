@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 04:25:09 +0000 2019",
+		"id": 1202241473481019400,
+		"id_str": "1202443769242505217",
+		"full_text": "For 30 years, South Korea has devoted a lot of $$ and manpower to studying Germany's unification in every which way--possibly more than any other country outside Germany. The takeaway is more sobering reality check than hopeful inspiration for the Koreas. https://t.co/WhfEQ24fb5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WhfEQ24fb5",
+					"expanded_url": "https://www.latimes.com/world-nation/story/2019-12-04/berlin-wall-germany-south-korea-reunification",
+					"display_url": "latimes.com/world-nation/s…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54643600,
+			"id_str": "54643600",
+			"name": "Victoria Kim",
+			"screen_name": "vicjkim",
+			"location": "대한민국 서울",
+			"description": "@LATimes Seoul correspondent. Reach me at https://t.co/aCqVWMmXQW (at) https://t.co/eTksmynSH7. LA 타임스 서울 특파원입니다",
+			"url": "https://t.co/oLZaH6LhdI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oLZaH6LhdI",
+							"expanded_url": "http://www.latimes.com/la-bio-victoria-kim-staff.html",
+							"display_url": "latimes.com/la-bio-victori…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aCqVWMmXQW",
+							"expanded_url": "http://victoria.kim",
+							"display_url": "victoria.kim",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6013,
+			"friends_count": 2086,
+			"listed_count": 195,
+			"created_at": "Tue Jul 07 19:07:04 +0000 2009",
+			"favourites_count": 4275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148260636566016001/Sp-xkMH3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148260636566016001/Sp-xkMH3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54643600/1421810039",
+			"profile_link_color": "737CA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 233,
+		"favorite_count": 638,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For 30 years, South Korea has devoted a lot of $$ and manpower to studying Germany's unification in every which way--possibly more than any other country outside Germany. The takeaway is more sobering reality check than hopeful inspiration for the Koreas. https://t.co/WhfEQ24fb5"
+	},
+	{
 		"created_at": "Wed Dec 04 20:45:15 +0000 2019",
 		"id": 1202328031634710500,
 		"id_str": "1202328031634710528",
