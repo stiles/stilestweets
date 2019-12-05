@@ -1,6 +1,672 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 21:56:50 +0000 2019",
+		"id": 1202706927626674200,
+		"id_str": "1202708432299577344",
+		"full_text": "A reminder that Brutalism isn't called that because it looks harsh or brutal, it's from a French term meaning \"raw concrete.\" So the Cybertruck is definitely not brutalist https://t.co/zshwno6CbA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zshwno6CbA",
+					"expanded_url": "https://twitter.com/SameerPatel/status/1202705006735921153",
+					"display_url": "twitter.com/SameerPatel/st…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824157,
+			"id_str": "824157",
+			"name": "Mathew Ingram",
+			"screen_name": "mathewi",
+			"location": "43.776188,-79.149103",
+			"description": "I write about digital media for the Columbia Journalism Review. I'm an expert in stucco, a veteran in love and an outlaw in Peru (via https://t.co/neseFpUeEL)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/neseFpUeEL",
+							"expanded_url": "http://bit.ly/2DhVY0z",
+							"display_url": "bit.ly/2DhVY0z",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 88670,
+			"friends_count": 4032,
+			"listed_count": 6056,
+			"created_at": "Fri Mar 09 04:29:32 +0000 2007",
+			"favourites_count": 127011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 238972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956610633369141248/o0_-OLn__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956610633369141248/o0_-OLn__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/824157/1382545218",
+			"profile_link_color": "0707E4",
+			"profile_sidebar_border_color": "447DBC",
+			"profile_sidebar_fill_color": "FBFDF8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1202705006735921200,
+		"quoted_status_id_str": "1202705006735921153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zshwno6CbA",
+			"expanded": "https://twitter.com/SameerPatel/status/1202705006735921153",
+			"display": "twitter.com/SameerPatel/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 05 21:43:13 +0000 2019",
+			"id": 1202705006735921200,
+			"id_str": "1202705006735921153",
+			"full_text": "What the what!?! &gt; Everybody calling the Cybertruck \"brutalist\" is wrong. https://t.co/eMpTRUruzD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eMpTRUruzD",
+						"expanded_url": "https://flip.it/elTkfl",
+						"display_url": "flip.it/elTkfl",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5727392,
+				"id_str": "5727392",
+				"name": "Sameer Patel",
+				"screen_name": "SameerPatel",
+				"location": "Palo Alto, CA",
+				"description": "Taking a breath.  Sorting out what’s next. Prior: CEO @ Kahuna, backed by Sequoia, Tenaya, Uncork. GM/SVP Collaboration LoB @ SuccessFactors / SAP. Squash nut",
+				"url": "https://t.co/2fmVzQqHpG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2fmVzQqHpG",
+								"expanded_url": "https://www.linkedin.com/in/sameerpatel00/",
+								"display_url": "linkedin.com/in/sameerpatel…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14316,
+				"friends_count": 663,
+				"listed_count": 1342,
+				"created_at": "Thu May 03 00:16:34 +0000 2007",
+				"favourites_count": 10660,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44033,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998223856207773696/1OtC74rw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998223856207773696/1OtC74rw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5727392/1420458176",
+				"profile_link_color": "055771",
+				"profile_sidebar_border_color": "BAC9E8",
+				"profile_sidebar_fill_color": "CFCDD5",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A reminder that Brutalism isn't called that because it looks harsh or brutal, it's from a French term meaning \"raw concrete.\" So the Cybertruck is definitely not brutalist https://t.co/zshwno6CbA"
+	},
+	{
+		"created_at": "Thu Dec 05 21:55:23 +0000 2019",
+		"id": 1202706927576240000,
+		"id_str": "1202708069081178112",
+		"full_text": "The Pulitzer Prize in TikTok Engagement, however, remains tragically out of reach",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1202702292299858000,
+		"in_reply_to_status_id_str": "1202702292299857920",
+		"in_reply_to_user_id": 36623,
+		"in_reply_to_user_id_str": "36623",
+		"in_reply_to_screen_name": "jbenton",
+		"user": {
+			"id": 36623,
+			"id_str": "36623",
+			"name": "Joshua Benton",
+			"screen_name": "jbenton",
+			"location": "Cambridge, Mass.",
+			"description": "Occasional enemy of the American people. I run @niemanlab at Harvard. Proud Cajun. I love @leahalexis + @dashiellbenton. All opinions mine, not Harvard's.",
+			"url": "https://t.co/HAIJkDgroR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HAIJkDgroR",
+							"expanded_url": "http://www.joshuabenton.com/",
+							"display_url": "joshuabenton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35568,
+			"friends_count": 2895,
+			"listed_count": 1684,
+			"created_at": "Sat Dec 02 06:32:23 +0000 2006",
+			"favourites_count": 30362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/500365878269984768/OYxjyPTb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/500365878269984768/OYxjyPTb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36623/1498237310",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The Pulitzer Prize in TikTok Engagement, however, remains tragically out of reach"
+	},
+	{
+		"created_at": "Thu Dec 05 21:51:15 +0000 2019",
+		"id": 1202705304468836400,
+		"id_str": "1202707027773902848",
+		"full_text": "VIDEO: @SpeakerPelosi erupted in fury at the simple, if pointed, question I asked at her weekly news conference. Here is my story about the confrontation for tonight's newscasts on @WeAreSinclair stations. #DontMessWithNancy #ButDoAskFairQuestions https://t.co/Y3eYjoT6aC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DontMessWithNancy",
+					"indices": [
+						206,
+						224
+					]
+				},
+				{
+					"text": "ButDoAskFairQuestions",
+					"indices": [
+						225,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpeakerPelosi",
+					"name": "Nancy Pelosi",
+					"id": 15764644,
+					"id_str": "15764644",
+					"indices": [
+						7,
+						21
+					]
+				},
+				{
+					"screen_name": "WeAreSinclair",
+					"name": "Sinclair Broadcast Group",
+					"id": 868278411994607600,
+					"id_str": "868278411994607616",
+					"indices": [
+						181,
+						195
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202704989552070700,
+					"id_str": "1202704989552070656",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202704989552070656/pu/img/2Eor7YSy-dZiMeiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202704989552070656/pu/img/2Eor7YSy-dZiMeiH.jpg",
+					"url": "https://t.co/Y3eYjoT6aC",
+					"display_url": "pic.twitter.com/Y3eYjoT6aC",
+					"expanded_url": "https://twitter.com/JamesRosenTV/status/1202705304468836363/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202704989552070700,
+					"id_str": "1202704989552070656",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202704989552070656/pu/img/2Eor7YSy-dZiMeiH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202704989552070656/pu/img/2Eor7YSy-dZiMeiH.jpg",
+					"url": "https://t.co/Y3eYjoT6aC",
+					"display_url": "pic.twitter.com/Y3eYjoT6aC",
+					"expanded_url": "https://twitter.com/JamesRosenTV/status/1202705304468836363/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 113714,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202704989552070656/pu/vid/1280x720/ORe7V9TxJxs4nd5G.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202704989552070656/pu/vid/480x270/XPCXlBk2FxzOj-JK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1202704989552070656/pu/pl/Qy5NjfmnRUf0lpJe.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202704989552070656/pu/vid/640x360/kQ5oi7roYhbqRZOc.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48029066,
+			"id_str": "48029066",
+			"name": "James Rosen",
+			"screen_name": "JamesRosenTV",
+			"location": "Washington, D.C.",
+			"description": "@WeAreSinclair reporter ::: @nytimes bestselling author ::: Member, Board of Trustees, @MS_GreaterDCMD ::: comics nerd ::: Tips: jamessrosen@protonmail.com",
+			"url": "https://t.co/1uITYwltr0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1uITYwltr0",
+							"expanded_url": "https://wjla.com/station/people/james-rosen",
+							"display_url": "wjla.com/station/people…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 212482,
+			"friends_count": 56236,
+			"listed_count": 2282,
+			"created_at": "Wed Jun 17 16:58:41 +0000 2009",
+			"favourites_count": 6988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177216095368949760/AppU4l-v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177216095368949760/AppU4l-v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48029066/1568322873",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 305,
+		"favorite_count": 628,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "VIDEO: @SpeakerPelosi erupted in fury at the simple, if pointed, question I asked at her weekly news conference. Here is my story about the confrontation for tonight's newscasts on @WeAreSinclair stations. #DontMessWithNancy #ButDoAskFairQuestions https://t.co/Y3eYjoT6aC"
+	},
+	{
+		"created_at": "Thu Dec 05 21:41:48 +0000 2019",
+		"id": 1202698765150371800,
+		"id_str": "1202704648462749696",
+		"full_text": "@JamesRosenTV @stiles A lot of journalists didn't get their questions answered. You asked an inflammatory question to get her attention, to get your moment, as well you know.  It worked.  You got your quote and she got her sound bite ripping you a new one.  Win-Win.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesRosenTV",
+					"name": "James Rosen",
+					"id": 48029066,
+					"id_str": "48029066",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1202696373738586000,
+		"in_reply_to_status_id_str": "1202696373738586112",
+		"in_reply_to_user_id": 48029066,
+		"in_reply_to_user_id_str": "48029066",
+		"in_reply_to_screen_name": "JamesRosenTV",
+		"user": {
+			"id": 3353865792,
+			"id_str": "3353865792",
+			"name": "Amy E. Botelho",
+			"screen_name": "AmyEBotelho1",
+			"location": "",
+			"description": "Proud UT Journalism grad (#HookEm), comedian, writer, loyal NY'er.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 389,
+			"friends_count": 1493,
+			"listed_count": 9,
+			"created_at": "Thu Aug 27 00:36:08 +0000 2015",
+			"favourites_count": 3515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824757312661262339/lk40_a5e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824757312661262339/lk40_a5e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3353865792/1440637837",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@JamesRosenTV @stiles A lot of journalists didn't get their questions answered. You asked an inflammatory question to get her attention, to get your moment, as well you know.  It worked.  You got your quote and she got her sound bite ripping you a new one.  Win-Win."
+	},
+	{
 		"created_at": "Thu Dec 05 21:01:36 +0000 2019",
 		"id": 1202694534217420800,
 		"id_str": "1202694534217420801",
