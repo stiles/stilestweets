@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 16:27:20 +0000 2019",
+		"id": 1203712677882650600,
+		"id_str": "1203712677882650624",
+		"full_text": "“Catastrophic fires are expensive to the homeowner. They are expensive to the business owner. They are expensive to government... These are horribly expensive tragedies.”\n\nMy latest story... on the strain to government budgets and firefighters themselves:\nhttps://t.co/uGXkAHfIXn https://t.co/CMHlNjjTsr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uGXkAHfIXn",
+					"expanded_url": "https://www.latimes.com/california/story/2019-12-08/wildfire-firefighter-overtime-budget",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203712674250444800,
+					"id_str": "1203712674250444800",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ELRyTLhVUAAIO56.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELRyTLhVUAAIO56.jpg",
+					"url": "https://t.co/CMHlNjjTsr",
+					"display_url": "pic.twitter.com/CMHlNjjTsr",
+					"expanded_url": "https://twitter.com/stiles/status/1203712677882650624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 748,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1074,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203712674250444800,
+					"id_str": "1203712674250444800",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/ELRyTLhVUAAIO56.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELRyTLhVUAAIO56.jpg",
+					"url": "https://t.co/CMHlNjjTsr",
+					"display_url": "pic.twitter.com/CMHlNjjTsr",
+					"expanded_url": "https://twitter.com/stiles/status/1203712677882650624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 748,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 1074,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11164,
+			"friends_count": 1865,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1575520218",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Catastrophic fires are expensive to the homeowner. They are expensive to the business owner. They are expensive to government... These are horribly expensive tragedies.”\n\nMy latest story... on the strain to government budgets and firefighters themselves:\nhttps://t.co/uGXkAHfIXn https://t.co/CMHlNjjTsr"
+	},
+	{
 		"created_at": "Sat Dec 07 20:23:44 +0000 2019",
 		"id": 1203409781290983400,
 		"id_str": "1203409781290983425",
