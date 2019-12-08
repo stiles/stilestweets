@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 17:55:12 +0000 2019",
+		"id": 1203730393796464600,
+		"id_str": "1203734789208961024",
+		"full_text": "@stiles is a triple threat https://t.co/DPYrGJkygQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DPYrGJkygQ",
+					"expanded_url": "https://twitter.com/palewire/status/1203725255191101440",
+					"display_url": "twitter.com/palewire/statu…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 17163156,
+			"id_str": "17163156",
+			"name": "seth liss",
+			"screen_name": "sliss33",
+			"location": "Los Angeles, CA",
+			"description": "Journalist. https://t.co/aLJxPYqPwG \nI turn atoms into bits for @latimes...previously, @poynter, @wamu885, @sunsentinel, @Mercnews.",
+			"url": "https://t.co/oylsqUna6i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oylsqUna6i",
+							"expanded_url": "https://www.latimes.com/author-all/?fn=Seth&ln=Liss",
+							"display_url": "latimes.com/author-all/?fn…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aLJxPYqPwG",
+							"expanded_url": "https://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1925,
+			"friends_count": 1715,
+			"listed_count": 112,
+			"created_at": "Tue Nov 04 18:11:23 +0000 2008",
+			"favourites_count": 1163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/74403490/sethprofilepic_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/74403490/sethprofilepic_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17163156/1354135502",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1203725255191101400,
+		"quoted_status_id_str": "1203725255191101440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DPYrGJkygQ",
+			"expanded": "https://twitter.com/palewire/status/1203725255191101440",
+			"display": "twitter.com/palewire/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 08 17:17:19 +0000 2019",
+			"id": 1203725255191101400,
+			"id_str": "1203725255191101440",
+			"full_text": "@datagraphics @Datawrapper Our man @stiles made three @Datawrapper charts for his story today on firefighter overtime, which shipped straight to print from the web.\n\nI suspect he is the first @latimes Metro reporter to have ever made their own graphics for print. https://t.co/tixlqulr8B",
+			"truncated": false,
+			"display_text_range": [
+				27,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "datagraphics",
+						"name": "Los Angeles Times Data and Graphics",
+						"id": 17918860,
+						"id_str": "17918860",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "Datawrapper",
+						"name": "Datawrapper",
+						"id": 500573974,
+						"id_str": "500573974",
+						"indices": [
+							14,
+							26
+						]
+					},
+					{
+						"screen_name": "stiles",
+						"name": "Matt Stiles",
+						"id": 14790314,
+						"id_str": "14790314",
+						"indices": [
+							35,
+							42
+						]
+					},
+					{
+						"screen_name": "Datawrapper",
+						"name": "Datawrapper",
+						"id": 500573974,
+						"id_str": "500573974",
+						"indices": [
+							54,
+							66
+						]
+					},
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							192,
+							200
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1203725230574751700,
+						"id_str": "1203725230574751744",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/ELR9uDeVUAAaSfm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELR9uDeVUAAaSfm.jpg",
+						"url": "https://t.co/tixlqulr8B",
+						"display_url": "pic.twitter.com/tixlqulr8B",
+						"expanded_url": "https://twitter.com/palewire/status/1203725255191101440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 783,
+								"h": 1616,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 581,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 329,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 233,
+										"y": 714,
+										"h": 85,
+										"w": 85
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 233,
+										"y": 714,
+										"h": 85,
+										"w": 85
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 172,
+										"y": 529,
+										"h": 63,
+										"w": 63
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 97,
+										"y": 300,
+										"h": 35,
+										"w": 35
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1203725230574751700,
+						"id_str": "1203725230574751744",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/ELR9uDeVUAAaSfm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELR9uDeVUAAaSfm.jpg",
+						"url": "https://t.co/tixlqulr8B",
+						"display_url": "pic.twitter.com/tixlqulr8B",
+						"expanded_url": "https://twitter.com/palewire/status/1203725255191101440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 783,
+								"h": 1616,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 581,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 329,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 233,
+										"y": 714,
+										"h": 85,
+										"w": 85
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 233,
+										"y": 714,
+										"h": 85,
+										"w": 85
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 172,
+										"y": 529,
+										"h": 63,
+										"w": 63
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 97,
+										"y": 300,
+										"h": 35,
+										"w": 35
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1203380746188025900,
+			"in_reply_to_status_id_str": "1203380746188025857",
+			"in_reply_to_user_id": 14559196,
+			"in_reply_to_user_id_str": "14559196",
+			"in_reply_to_screen_name": "palewire",
+			"user": {
+				"id": 14559196,
+				"id_str": "14559196",
+				"name": "Ben Welsh",
+				"screen_name": "palewire",
+				"location": "Live and direct",
+				"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · Send me tips · DMs open · ben.welsh@latimes.com",
+				"url": "https://t.co/M40D7KBYi4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M40D7KBYi4",
+								"expanded_url": "https://palewi.re/who-is-ben-welsh/",
+								"display_url": "palewi.re/who-is-ben-wel…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/alHGK4tTzG",
+								"expanded_url": "http://californiacivicdata.org",
+								"display_url": "californiacivicdata.org",
+								"indices": [
+									47,
+									70
+								]
+							},
+							{
+								"url": "https://t.co/CaO6K276g3",
+								"expanded_url": "http://pastpages.org",
+								"display_url": "pastpages.org",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10134,
+				"friends_count": 3089,
+				"listed_count": 736,
+				"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56260,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDDDDD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@stiles is a triple threat https://t.co/DPYrGJkygQ"
+	},
+	{
 		"created_at": "Sun Dec 08 16:27:20 +0000 2019",
 		"id": 1203712677882650600,
 		"id_str": "1203712677882650624",
