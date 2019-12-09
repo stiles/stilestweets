@@ -1,6 +1,164 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 17:50:54 +0000 2019",
+		"id": 1204090895102075000,
+		"id_str": "1204096094017212416",
+		"full_text": "Another huge cost from the string of #wildfires that have struck #California: overtime costs for #firefighters have climbed 65% in the last decade. https://t.co/EP1rBVKLyf @latimes h/t @stiles #budgets",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wildfires",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"text": "California",
+					"indices": [
+						65,
+						76
+					]
+				},
+				{
+					"text": "firefighters",
+					"indices": [
+						97,
+						110
+					]
+				},
+				{
+					"text": "budgets",
+					"indices": [
+						193,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						185,
+						192
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EP1rBVKLyf",
+					"expanded_url": "https://lat.ms/36cEqyK",
+					"display_url": "lat.ms/36cEqyK",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48817182,
+			"id_str": "48817182",
+			"name": "CA Assoc of Counties",
+			"screen_name": "CSAC_Counties",
+			"location": "Sacramento",
+			"description": "The Voice of California's 58 Counties. #CACounties",
+			"url": "https://t.co/tW28ZoW3KY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tW28ZoW3KY",
+							"expanded_url": "http://www.counties.org",
+							"display_url": "counties.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9528,
+			"friends_count": 2370,
+			"listed_count": 412,
+			"created_at": "Fri Jun 19 20:24:35 +0000 2009",
+			"favourites_count": 5450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1022141377633632256/TsB3JN0v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022141377633632256/TsB3JN0v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48817182/1567722971",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another huge cost from the string of #wildfires that have struck #California: overtime costs for #firefighters have climbed 65% in the last decade. https://t.co/EP1rBVKLyf @latimes h/t @stiles #budgets"
+	},
+	{
 		"created_at": "Mon Dec 09 16:46:21 +0000 2019",
 		"id": 1204079850975195100,
 		"id_str": "1204079850975195136",
