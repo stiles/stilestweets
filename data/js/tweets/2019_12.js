@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 07:35:45 +0000 2019",
+		"id": 1203939674470809600,
+		"id_str": "1203941288552222720",
+		"full_text": "How many cows died to make that gauleiter coat? https://t.co/ipJNDeWrRb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ipJNDeWrRb",
+					"expanded_url": "https://twitter.com/oliverhotham/status/1203929246122434562",
+					"display_url": "twitter.com/oliverhotham/s…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3220070977,
+			"id_str": "3220070977",
+			"name": "Euan Graham",
+			"screen_name": "graham_euan",
+			"location": "Melbourne, Victoria",
+			"description": "Exec Director La Trobe Asia. Interested in Asia and IndoPacific security, Aus strategic policy, maritime, South China Sea, NK. Thames mudlarking.⚓️",
+			"url": "https://t.co/YGOJk3NUMI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YGOJk3NUMI",
+							"expanded_url": "https://www.latrobe.edu.au/asia",
+							"display_url": "latrobe.edu.au/asia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7693,
+			"friends_count": 998,
+			"listed_count": 193,
+			"created_at": "Tue May 19 05:52:07 +0000 2015",
+			"favourites_count": 11434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852677906236981248/IcqoZhZd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852677906236981248/IcqoZhZd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3220070977/1436875755",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01864a8a64df9dc4",
+			"url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+			"place_type": "city",
+			"name": "Melbourne",
+			"full_name": "Melbourne, Victoria",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							144.593741856,
+							-38.433859306
+						],
+						[
+							145.512528832,
+							-38.433859306
+						],
+						[
+							145.512528832,
+							-37.5112737225
+						],
+						[
+							144.593741856,
+							-37.5112737225
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1203929246122434600,
+		"quoted_status_id_str": "1203929246122434562",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ipJNDeWrRb",
+			"expanded": "https://twitter.com/oliverhotham/status/1203929246122434562",
+			"display": "twitter.com/oliverhotham/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 09 06:47:54 +0000 2019",
+			"id": 1203929246122434600,
+			"id_str": "1203929246122434562",
+			"full_text": "Bit of a nerve wracking day at the Hot Springs Resort for these folks https://t.co/hHb2FTC08a",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1203929120712753200,
+						"id_str": "1203929120712753152",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/ELU3KBbVAAA-eeT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELU3KBbVAAA-eeT.jpg",
+						"url": "https://t.co/hHb2FTC08a",
+						"display_url": "pic.twitter.com/hHb2FTC08a",
+						"expanded_url": "https://twitter.com/OliverHotham/status/1203929246122434562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 721,
+										"y": 275,
+										"h": 40,
+										"w": 40
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1232,
+										"y": 469,
+										"h": 69,
+										"w": 69
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 409,
+										"y": 155,
+										"h": 23,
+										"w": 23
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1540,
+										"y": 587,
+										"h": 87,
+										"w": 87
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1203929120712753200,
+						"id_str": "1203929120712753152",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/ELU3KBbVAAA-eeT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELU3KBbVAAA-eeT.jpg",
+						"url": "https://t.co/hHb2FTC08a",
+						"display_url": "pic.twitter.com/hHb2FTC08a",
+						"expanded_url": "https://twitter.com/OliverHotham/status/1203929246122434562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 721,
+										"y": 275,
+										"h": 40,
+										"w": 40
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1232,
+										"y": 469,
+										"h": 69,
+										"w": 69
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 409,
+										"y": 155,
+										"h": 23,
+										"w": 23
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1540,
+										"y": 587,
+										"h": 87,
+										"w": 87
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1203929146415431700,
+						"id_str": "1203929146415431680",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/ELU3LhLUwAAJENE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELU3LhLUwAAJENE.jpg",
+						"url": "https://t.co/hHb2FTC08a",
+						"display_url": "pic.twitter.com/hHb2FTC08a",
+						"expanded_url": "https://twitter.com/OliverHotham/status/1203929246122434562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 177,
+										"y": 136,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 66,
+										"y": 141,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 139,
+										"y": 134,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 218,
+										"y": 143,
+										"h": 52,
+										"w": 52
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 670,
+										"y": 515,
+										"h": 142,
+										"w": 142
+									},
+									{
+										"x": 252,
+										"y": 532,
+										"h": 145,
+										"w": 145
+									},
+									{
+										"x": 527,
+										"y": 505,
+										"h": 147,
+										"w": 147
+									},
+									{
+										"x": 822,
+										"y": 542,
+										"h": 197,
+										"w": 197
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 536,
+										"y": 412,
+										"h": 113,
+										"w": 113
+									},
+									{
+										"x": 201,
+										"y": 425,
+										"h": 116,
+										"w": 116
+									},
+									{
+										"x": 421,
+										"y": 404,
+										"h": 117,
+										"w": 117
+									},
+									{
+										"x": 657,
+										"y": 433,
+										"h": 157,
+										"w": 157
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 314,
+										"y": 241,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 118,
+										"y": 249,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 247,
+										"y": 236,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 385,
+										"y": 254,
+										"h": 92,
+										"w": 92
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1203929148319662000,
+						"id_str": "1203929148319662080",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/ELU3LoRVAAArGIa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELU3LoRVAAArGIa.jpg",
+						"url": "https://t.co/hHb2FTC08a",
+						"display_url": "pic.twitter.com/hHb2FTC08a",
+						"expanded_url": "https://twitter.com/OliverHotham/status/1203929246122434562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 486735483,
+				"id_str": "486735483",
+				"name": "Oliver Hotham",
+				"screen_name": "OliverHotham",
+				"location": "Seoul, Republic of Korea",
+				"description": "Managing Editor @nknewsorg",
+				"url": "https://t.co/an0ZIqMnex",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/an0ZIqMnex",
+								"expanded_url": "http://nknews.org",
+								"display_url": "nknews.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5249,
+				"friends_count": 3271,
+				"listed_count": 207,
+				"created_at": "Wed Feb 08 16:17:22 +0000 2012",
+				"favourites_count": 7282,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1881,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1065071589329235969/7Nsk_MGh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065071589329235969/7Nsk_MGh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/486735483/1573030020",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 53,
+			"favorite_count": 142,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How many cows died to make that gauleiter coat? https://t.co/ipJNDeWrRb"
+	},
+	{
 		"created_at": "Mon Dec 09 04:18:03 +0000 2019",
 		"id": 1203891535063871500,
 		"id_str": "1203891535063871488",
