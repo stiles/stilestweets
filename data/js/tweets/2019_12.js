@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 21:42:34 +0000 2019",
+		"id": 1204154396851896300,
+		"id_str": "1204154396851896320",
+		"full_text": "This is speaking to me today... https://t.co/om8mv24GBw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/om8mv24GBw",
+					"expanded_url": "https://twitter.com/PR0GRAMMERHUM0R/status/1200172543610458112",
+					"display_url": "twitter.com/PR0GRAMMERHUM0…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11171,
+			"friends_count": 1869,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7082,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1575520218",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1200172543610458000,
+		"quoted_status_id_str": "1200172543610458112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/om8mv24GBw",
+			"expanded": "https://twitter.com/PR0GRAMMERHUM0R/status/1200172543610458112",
+			"display": "twitter.com/PR0GRAMMERHUM0…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 28 22:00:07 +0000 2019",
+			"id": 1200172543610458000,
+			"id_str": "1200172543610458112",
+			"full_text": "days since last timezone issue [fixed] https://t.co/hdXD6aBACG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1200172542327021600,
+						"id_str": "1200172542327021569",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EKfekYaUYAETxx1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKfekYaUYAETxx1.jpg",
+						"url": "https://t.co/hdXD6aBACG",
+						"display_url": "pic.twitter.com/hdXD6aBACG",
+						"expanded_url": "https://twitter.com/PR0GRAMMERHUM0R/status/1200172543610458112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 276,
+										"y": 300,
+										"h": 75,
+										"w": 75
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 325,
+										"y": 354,
+										"h": 89,
+										"w": 89
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 325,
+										"y": 354,
+										"h": 89,
+										"w": 89
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 325,
+										"y": 354,
+										"h": 89,
+										"w": 89
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1200172542327021600,
+						"id_str": "1200172542327021569",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EKfekYaUYAETxx1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKfekYaUYAETxx1.jpg",
+						"url": "https://t.co/hdXD6aBACG",
+						"display_url": "pic.twitter.com/hdXD6aBACG",
+						"expanded_url": "https://twitter.com/PR0GRAMMERHUM0R/status/1200172543610458112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 276,
+										"y": 300,
+										"h": 75,
+										"w": 75
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 325,
+										"y": 354,
+										"h": 89,
+										"w": 89
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 325,
+										"y": 354,
+										"h": 89,
+										"w": 89
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 325,
+										"y": 354,
+										"h": 89,
+										"w": 89
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.georgeglessner.com\" rel=\"nofollow\">programmerhumor</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 965774983527043100,
+				"id_str": "965774983527043072",
+				"name": "Programmer Humor",
+				"screen_name": "PR0GRAMMERHUM0R",
+				"location": "",
+				"description": "r/ProgrammerHumor",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4415,
+				"friends_count": 2,
+				"listed_count": 23,
+				"created_at": "Tue Feb 20 02:27:54 +0000 2018",
+				"favourites_count": 284,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14740,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965775897193275398/LLrUTVUs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965775897193275398/LLrUTVUs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/965774983527043072/1532439132",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 204,
+			"favorite_count": 537,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is speaking to me today... https://t.co/om8mv24GBw"
+	},
+	{
 		"created_at": "Mon Dec 09 21:10:55 +0000 2019",
 		"id": 1204146429993730000,
 		"id_str": "1204146429993730048",
