@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 21:48:44 +0000 2019",
+		"id": 1204518333485240300,
+		"id_str": "1204518333485240321",
+		"full_text": "Congrats, Jon! https://t.co/uAC1dDfqLS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uAC1dDfqLS",
+					"expanded_url": "https://twitter.com/gaufre/status/1204510834082353157",
+					"display_url": "twitter.com/gaufre/status/…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11170,
+			"friends_count": 1869,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1575520218",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1204510834082353200,
+		"quoted_status_id_str": "1204510834082353157",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uAC1dDfqLS",
+			"expanded": "https://twitter.com/gaufre/status/1204510834082353157",
+			"display": "twitter.com/gaufre/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 10 21:18:56 +0000 2019",
+			"id": 1204510834082353200,
+			"id_str": "1204510834082353157",
+			"full_text": "@nyguild @CMGLaGuilde @WBNG32035 @NewsGuildMN @PhillyNewsGuild @UPAGRA1 @NewsMediaGuild @PacMediaGuild @AlbanyGuild The results are in: we’ve won 1,979 to 1,514. Thank you to everyone who supported us throughout this very long campaign and thanks to all the members who voted! We could not have done it without you!",
+			"truncated": false,
+			"display_text_range": [
+				116,
+				315
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nyguild",
+						"name": "NewsGuild of New York",
+						"id": 111701361,
+						"id_str": "111701361",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "CMGLaGuilde",
+						"name": "CMG - La Guilde",
+						"id": 1729754989,
+						"id_str": "1729754989",
+						"indices": [
+							9,
+							21
+						]
+					},
+					{
+						"screen_name": "WBNG32035",
+						"name": "Washington-Baltimore News Guild Local 32035",
+						"id": 913129920854921200,
+						"id_str": "913129920854921218",
+						"indices": [
+							22,
+							32
+						]
+					},
+					{
+						"screen_name": "NewsGuildMN",
+						"name": "MN NewsGuild",
+						"id": 920734951896764400,
+						"id_str": "920734951896764418",
+						"indices": [
+							33,
+							45
+						]
+					},
+					{
+						"screen_name": "PhillyNewsGuild",
+						"name": "The NewsGuild of Greater Philadelphia",
+						"id": 67706392,
+						"id_str": "67706392",
+						"indices": [
+							46,
+							62
+						]
+					},
+					{
+						"screen_name": "UPAGRA1",
+						"name": "UPAGRA",
+						"id": 1049680012373360600,
+						"id_str": "1049680012373360641",
+						"indices": [
+							63,
+							71
+						]
+					},
+					{
+						"screen_name": "NewsMediaGuild",
+						"name": "News Media Guild",
+						"id": 146934843,
+						"id_str": "146934843",
+						"indices": [
+							72,
+							87
+						]
+					},
+					{
+						"screen_name": "PacMediaGuild",
+						"name": "PacificMediaWorkers",
+						"id": 2680188013,
+						"id_str": "2680188013",
+						"indices": [
+							88,
+							102
+						]
+					},
+					{
+						"screen_name": "AlbanyGuild",
+						"name": "AlbanyNewspaperGuild",
+						"id": 36541720,
+						"id_str": "36541720",
+						"indices": [
+							103,
+							115
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1204508374924181500,
+			"in_reply_to_status_id_str": "1204508374924181510",
+			"in_reply_to_user_id": 12561082,
+			"in_reply_to_user_id_str": "12561082",
+			"in_reply_to_screen_name": "gaufre",
+			"user": {
+				"id": 12561082,
+				"id_str": "12561082",
+				"name": "Jon Schleuss is running for NewsGuild president",
+				"screen_name": "gaufre",
+				"location": "Los Angeles, CA",
+				"description": "Running for @news_guild president. Data/graphics/coding journalist @latimes, activist @latguild, educator @USCAnnenberg. From Arkansas. he/him ✊🏳️‍🌈",
+				"url": "https://t.co/H19cgx5r8X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H19cgx5r8X",
+								"expanded_url": "http://jonforpresident.com",
+								"display_url": "jonforpresident.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4519,
+				"friends_count": 5043,
+				"listed_count": 170,
+				"created_at": "Tue Jan 22 20:35:45 +0000 2008",
+				"favourites_count": 18996,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4878,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1181270627333890049/WooRNTO5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181270627333890049/WooRNTO5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12561082/1532451617",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 221,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats, Jon! https://t.co/uAC1dDfqLS"
+	},
+	{
 		"created_at": "Tue Dec 10 03:29:14 +0000 2019",
 		"id": 1204241634528903200,
 		"id_str": "1204241634528903168",
