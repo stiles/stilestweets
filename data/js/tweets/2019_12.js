@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 01:45:40 +0000 2019",
+		"id": 1204215574022082600,
+		"id_str": "1204215574022082560",
+		"full_text": "Has this nifty game to hook the next generation... https://t.co/HuOvjZ6Vas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204215566975717400,
+					"id_str": "1204215566975717376",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/ELY7rY6VUAAPR5d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELY7rY6VUAAPR5d.jpg",
+					"url": "https://t.co/HuOvjZ6Vas",
+					"display_url": "pic.twitter.com/HuOvjZ6Vas",
+					"expanded_url": "https://twitter.com/stiles/status/1204215574022082560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 55,
+									"y": 488,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 97,
+									"y": 861,
+									"h": 215,
+									"w": 215
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 1470,
+									"h": 368,
+									"w": 368
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 1470,
+									"h": 368,
+									"w": 368
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204215566975717400,
+					"id_str": "1204215566975717376",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/ELY7rY6VUAAPR5d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELY7rY6VUAAPR5d.jpg",
+					"url": "https://t.co/HuOvjZ6Vas",
+					"display_url": "pic.twitter.com/HuOvjZ6Vas",
+					"expanded_url": "https://twitter.com/stiles/status/1204215574022082560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 55,
+									"y": 488,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 97,
+									"y": 861,
+									"h": 215,
+									"w": 215
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 1470,
+									"h": 368,
+									"w": 368
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 1470,
+									"h": 368,
+									"w": 368
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1204214779851628500,
+		"in_reply_to_status_id_str": "1204214779851628547",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11170,
+			"friends_count": 1869,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1575520218",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Has this nifty game to hook the next generation... https://t.co/HuOvjZ6Vas"
+	},
+	{
 		"created_at": "Mon Dec 09 23:52:49 +0000 2019",
 		"id": 1204187173777559600,
 		"id_str": "1204187173777559553",
