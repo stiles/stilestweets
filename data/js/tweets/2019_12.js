@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 03:55:57 +0000 2019",
+		"id": 1204572260876591000,
+		"id_str": "1204610749588361216",
+		"full_text": "Feel seen https://t.co/ODCPUXm9LI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ODCPUXm9LI",
+					"expanded_url": "https://www.latimes.com/entertainment-arts/business/story/2019-12-10/jon-schleuss-wins-newsguild-election",
+					"display_url": "latimes.com/entertainment-…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12561082,
+			"id_str": "12561082",
+			"name": "Jon Schleuss is running for NewsGuild president",
+			"screen_name": "gaufre",
+			"location": "Los Angeles, CA",
+			"description": "Running for @news_guild president. Data/graphics/coding journalist @latimes, activist @latguild, educator @USCAnnenberg. From Arkansas. he/him ✊🏳️‍🌈",
+			"url": "https://t.co/H19cgx5r8X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H19cgx5r8X",
+							"expanded_url": "http://jonforpresident.com",
+							"display_url": "jonforpresident.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4595,
+			"friends_count": 5043,
+			"listed_count": 0,
+			"created_at": "Tue Jan 22 20:35:45 +0000 2008",
+			"favourites_count": 19063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181270627333890049/WooRNTO5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181270627333890049/WooRNTO5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12561082/1532451617",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 235,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Feel seen https://t.co/ODCPUXm9LI"
+	},
+	{
 		"created_at": "Tue Dec 10 21:48:44 +0000 2019",
 		"id": 1204518333485240300,
 		"id_str": "1204518333485240321",
@@ -226,7 +334,7 @@ Grailbird.data.tweets_2019_12 =
 				"name": "Jon Schleuss is running for NewsGuild president",
 				"screen_name": "gaufre",
 				"location": "Los Angeles, CA",
-				"description": "Running for @news_guild president. Data/graphics/coding journalist @latimes, activist @latguild, educator @USCAnnenberg. From Arkansas. he/him ✊🏳️‍🌈",
+				"description": "Running for @news_guild president. Data/graphics/coding journalist @latimes, activist @latguild, educator @USCAnnenberg. From Arkansas. he/him ✊🏳️🌈",
 				"url": "https://t.co/H19cgx5r8X",
 				"entities": {
 					"url": {
