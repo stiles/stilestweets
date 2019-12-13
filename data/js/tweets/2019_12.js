@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 14:25:14 +0000 2019",
+		"id": 1205493886971342800,
+		"id_str": "1205493886971342848",
+		"full_text": "I shoved @realDonaldTrump's historical daily tweet counts into a calendar-style visualization over at @observablehq. \n\nThe president has indeed been on fire lately, setting a (tweet+retweet) daily record yesterday: 122.\n\nhttps://t.co/tFKLaFgPVD https://t.co/B7TdAp515K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						9,
+						25
+					]
+				},
+				{
+					"screen_name": "observablehq",
+					"name": "Observable",
+					"id": 905255756789825500,
+					"id_str": "905255756789825536",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tFKLaFgPVD",
+					"expanded_url": "https://observablehq.com/@mattstiles/realdonaldtrump-tweets-per-day",
+					"display_url": "observablehq.com/@mattstiles/re…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205493882898661400,
+					"id_str": "1205493882898661377",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/ELrGTK0UwAE7ey6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELrGTK0UwAE7ey6.jpg",
+					"url": "https://t.co/B7TdAp515K",
+					"display_url": "pic.twitter.com/B7TdAp515K",
+					"expanded_url": "https://twitter.com/stiles/status/1205493886971342848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1916,
+							"h": 1178,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 738,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 830,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 3,
+									"y": 294,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 830,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 519,
+									"h": 98,
+									"w": 98
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205493882898661400,
+					"id_str": "1205493882898661377",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/ELrGTK0UwAE7ey6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELrGTK0UwAE7ey6.jpg",
+					"url": "https://t.co/B7TdAp515K",
+					"display_url": "pic.twitter.com/B7TdAp515K",
+					"expanded_url": "https://twitter.com/stiles/status/1205493886971342848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1916,
+							"h": 1178,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 738,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 830,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 3,
+									"y": 294,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 830,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 519,
+									"h": 98,
+									"w": 98
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11168,
+			"friends_count": 1869,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1576036583",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I shoved @realDonaldTrump's historical daily tweet counts into a calendar-style visualization over at @observablehq. \n\nThe president has indeed been on fire lately, setting a (tweet+retweet) daily record yesterday: 122.\n\nhttps://t.co/tFKLaFgPVD https://t.co/B7TdAp515K"
+	},
+	{
 		"created_at": "Fri Dec 13 06:15:51 +0000 2019",
 		"id": 1205370583778656300,
 		"id_str": "1205370729992048640",
