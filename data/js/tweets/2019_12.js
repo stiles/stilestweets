@@ -1,6 +1,763 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 22:05:09 +0000 2019",
+		"id": 1205609631554273300,
+		"id_str": "1205609631554273281",
+		"full_text": "The city of L.A. is eliminating late fees at its sprawling library system. @DavidZahniser writes that @MayorOfLA's decision is intended to make libraries more welcoming to the neediest residents. https://t.co/9mEZUcYbC1\n\nWhat about amnesty for past mistakes? Asking for some kids. https://t.co/ok4P6VV5KW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidZahniser",
+					"name": "David Zahniser 🦅",
+					"id": 714617040,
+					"id_str": "714617040",
+					"indices": [
+						75,
+						89
+					]
+				},
+				{
+					"screen_name": "MayorOfLA",
+					"name": "Mayor Eric Garcetti",
+					"id": 17070113,
+					"id_str": "17070113",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9mEZUcYbC1",
+					"expanded_url": "https://www.latimes.com/california/story/2019-12-13/los-angeles-libraries-end-fines-overdue-books",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205609421298176000,
+					"id_str": "1205609421298176001",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ELsvYY5XkAEU8e_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELsvYY5XkAEU8e_.jpg",
+					"url": "https://t.co/ok4P6VV5KW",
+					"display_url": "pic.twitter.com/ok4P6VV5KW",
+					"expanded_url": "https://twitter.com/stiles/status/1205609631554273281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 359,
+									"y": 112,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 40,
+									"y": 348,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 531,
+									"y": 448,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 359,
+									"y": 112,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 40,
+									"y": 348,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 531,
+									"y": 448,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 290,
+									"y": 90,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 32,
+									"y": 281,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 429,
+									"y": 362,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 359,
+									"y": 112,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 40,
+									"y": 348,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 531,
+									"y": 448,
+									"h": 87,
+									"w": 87
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205609421298176000,
+					"id_str": "1205609421298176001",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ELsvYY5XkAEU8e_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELsvYY5XkAEU8e_.jpg",
+					"url": "https://t.co/ok4P6VV5KW",
+					"display_url": "pic.twitter.com/ok4P6VV5KW",
+					"expanded_url": "https://twitter.com/stiles/status/1205609631554273281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 359,
+									"y": 112,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 40,
+									"y": 348,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 531,
+									"y": 448,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 359,
+									"y": 112,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 40,
+									"y": 348,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 531,
+									"y": 448,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 290,
+									"y": 90,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 32,
+									"y": 281,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 429,
+									"y": 362,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 359,
+									"y": 112,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 40,
+									"y": 348,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 531,
+									"y": 448,
+									"h": 87,
+									"w": 87
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11166,
+			"friends_count": 1869,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1576036583",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The city of L.A. is eliminating late fees at its sprawling library system. @DavidZahniser writes that @MayorOfLA's decision is intended to make libraries more welcoming to the neediest residents. https://t.co/9mEZUcYbC1\n\nWhat about amnesty for past mistakes? Asking for some kids. https://t.co/ok4P6VV5KW"
+	},
+	{
+		"created_at": "Fri Dec 13 21:57:54 +0000 2019",
+		"id": 1205607805660459000,
+		"id_str": "1205607805660459008",
+		"full_text": "\"The city [of L.A.] has launched a design contest for a new streetlight, one that places a premium on high design and great accessibility.\"\n\nI would just like a single lamp, fancy or not, on my L.A. street. It's spooky dark at night. \n\nhttps://t.co/1za4jZP0Bg https://t.co/kFlHabYSjN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1za4jZP0Bg",
+					"expanded_url": "https://www.latimes.com/california/story/2019-12-13/la-streetlight-design-competition",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205607474100756500,
+					"id_str": "1205607474100756481",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/ELstnDBU4AEoh4O.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELstnDBU4AEoh4O.png",
+					"url": "https://t.co/kFlHabYSjN",
+					"display_url": "pic.twitter.com/kFlHabYSjN",
+					"expanded_url": "https://twitter.com/stiles/status/1205607805660459008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 528,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 528,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 430,
+									"y": 372,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 361,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 430,
+									"y": 372,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 430,
+									"y": 372,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205607474100756500,
+					"id_str": "1205607474100756481",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/ELstnDBU4AEoh4O.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELstnDBU4AEoh4O.png",
+					"url": "https://t.co/kFlHabYSjN",
+					"display_url": "pic.twitter.com/kFlHabYSjN",
+					"expanded_url": "https://twitter.com/stiles/status/1205607805660459008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 528,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 528,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 430,
+									"y": 372,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 417,
+									"y": 361,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 430,
+									"y": 372,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 430,
+									"y": 372,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1205607474104918000,
+					"id_str": "1205607474104918016",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/ELstnDCUYAAlYzv.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELstnDCUYAAlYzv.png",
+					"url": "https://t.co/kFlHabYSjN",
+					"display_url": "pic.twitter.com/kFlHabYSjN",
+					"expanded_url": "https://twitter.com/stiles/status/1205607805660459008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 827,
+							"h": 489,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 489,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1205607474113339400,
+					"id_str": "1205607474113339392",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/ELstnDEU4AAuBQL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELstnDEU4AAuBQL.jpg",
+					"url": "https://t.co/kFlHabYSjN",
+					"display_url": "pic.twitter.com/kFlHabYSjN",
+					"expanded_url": "https://twitter.com/stiles/status/1205607805660459008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1022,
+							"h": 466,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 466,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 310,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11166,
+			"friends_count": 1869,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631349084086273/z7eIlw5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1576036583",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The city [of L.A.] has launched a design contest for a new streetlight, one that places a premium on high design and great accessibility.\"\n\nI would just like a single lamp, fancy or not, on my L.A. street. It's spooky dark at night. \n\nhttps://t.co/1za4jZP0Bg https://t.co/kFlHabYSjN"
+	},
+	{
 		"created_at": "Fri Dec 13 14:25:14 +0000 2019",
 		"id": 1205493886971342800,
 		"id_str": "1205493886971342848",
