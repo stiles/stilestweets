@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 06:15:51 +0000 2019",
+		"id": 1205370583778656300,
+		"id_str": "1205370729992048640",
+		"full_text": "Congrats! 🎉 #BlackPink @ygofficialblink #Jennie's #SOLO became the most viewed music video by K-pop female soloist, hitting 400 million views on @YouTube. https://t.co/hp08ol6w91 https://t.co/wOBj6ZTVzw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackPink",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"text": "Jennie",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "SOLO",
+					"indices": [
+						50,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hp08ol6w91",
+					"expanded_url": "https://youtu.be/b73BI9eUkjM",
+					"display_url": "youtu.be/b73BI9eUkjM",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205370576400838700,
+					"id_str": "1205370576400838656",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpWJyUUcAAeaUn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpWJyUUcAAeaUn.jpg",
+					"url": "https://t.co/wOBj6ZTVzw",
+					"display_url": "pic.twitter.com/wOBj6ZTVzw",
+					"expanded_url": "https://twitter.com/USEmbassySeoul/status/1205370583778656256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 910,
+							"h": 621,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 621,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205370576400838700,
+					"id_str": "1205370576400838656",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpWJyUUcAAeaUn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpWJyUUcAAeaUn.jpg",
+					"url": "https://t.co/wOBj6ZTVzw",
+					"display_url": "pic.twitter.com/wOBj6ZTVzw",
+					"expanded_url": "https://twitter.com/USEmbassySeoul/status/1205370583778656256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 910,
+							"h": 621,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 621,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61426538,
+			"id_str": "61426538",
+			"name": "U.S. Embassy Seoul",
+			"screen_name": "USEmbassySeoul",
+			"location": "Seoul, Korea",
+			"description": "주한미국대사관 공식 트위터 계정\nWelcome to the official Twitter account of U.S. Embassy Seoul!\nFollow @usembassyseoul for the latest news on the U.S. - Korea relationship.",
+			"url": "https://t.co/HvLOjZddJ8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HvLOjZddJ8",
+							"expanded_url": "http://kr.usembassy.gov",
+							"display_url": "kr.usembassy.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46664,
+			"friends_count": 362,
+			"listed_count": 1053,
+			"created_at": "Thu Jul 30 07:51:56 +0000 2009",
+			"favourites_count": 1558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2616060416/80140016fy444rh2pyr7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2616060416/80140016fy444rh2pyr7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61426538/1551842980",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 104,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats! 🎉 #BlackPink @ygofficialblink #Jennie's #SOLO became the most viewed music video by K-pop female soloist, hitting 400 million views on @YouTube. https://t.co/hp08ol6w91 https://t.co/wOBj6ZTVzw"
+	},
+	{
 		"created_at": "Wed Dec 11 18:30:36 +0000 2019",
 		"id": 1204830860874150000,
 		"id_str": "1204830860874149888",
