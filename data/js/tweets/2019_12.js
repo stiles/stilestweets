@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 15:54:09 +0000 2019",
+		"id": 1206182884819779600,
+		"id_str": "1206241040044363776",
+		"full_text": "Population of #Houston is: \n45% Latino\n25% Anglo \n23% African American \n7% Asian American.\n\nComposition of incoming #HOU City Council is:\n56% Anglo \n38% African American\n6% Latino \n0% Asian American. \n\nOnly 1 Latino, &amp; no Asian Americans on Council for 1st time since '93. #txlege",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Houston",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "HOU",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "txlege",
+					"indices": [
+						277,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2389709155,
+			"id_str": "2389709155",
+			"name": "Mark P. Jones",
+			"screen_name": "MarkPJonesTX",
+			"location": "Houston, Texas",
+			"description": "Baker Institute Fellow in Political Science & Jamail Chair in LA Studies at Rice University. Co-author of Texas Politics Today.",
+			"url": "https://t.co/zf22t6My44",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zf22t6My44",
+							"expanded_url": "http://bakerinstitute.org/experts/mark-p-jones/",
+							"display_url": "bakerinstitute.org/experts/mark-p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2838,
+			"friends_count": 216,
+			"listed_count": 78,
+			"created_at": "Fri Mar 14 19:18:03 +0000 2014",
+			"favourites_count": 1053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "006857",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458666452514373632/l7DJ396E_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458666452514373632/l7DJ396E_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2389709155/1398189593",
+			"profile_link_color": "006857",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 88,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Population of #Houston is: \n45% Latino\n25% Anglo \n23% African American \n7% Asian American.\n\nComposition of incoming #HOU City Council is:\n56% Anglo \n38% African American\n6% Latino \n0% Asian American. \n\nOnly 1 Latino, &amp; no Asian Americans on Council for 1st time since '93. #txlege"
+	},
+	{
 		"created_at": "Sat Dec 14 16:38:53 +0000 2019",
 		"id": 1205889909560508400,
 		"id_str": "1205889909560508416",
