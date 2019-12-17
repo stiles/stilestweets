@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 00:14:05 +0000 2019",
+		"id": 1206371842593894400,
+		"id_str": "1206729240789405696",
+		"full_text": "Five of Jeff Van Drew’s staff members announced their resignation Sunday after the congressman privately indicated he would switch parties, saying they are “deeply saddened and disappointed” by the decision https://t.co/TnlbUakEp1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206371838475096000,
+					"id_str": "1206371838475096064",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EL3ky6NX0AAOz7D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL3ky6NX0AAOz7D.jpg",
+					"url": "https://t.co/TnlbUakEp1",
+					"display_url": "pic.twitter.com/TnlbUakEp1",
+					"expanded_url": "https://twitter.com/mkraju/status/1206371842593894401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1507,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206371838475096000,
+					"id_str": "1206371838475096064",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EL3ky6NX0AAOz7D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL3ky6NX0AAOz7D.jpg",
+					"url": "https://t.co/TnlbUakEp1",
+					"display_url": "pic.twitter.com/TnlbUakEp1",
+					"expanded_url": "https://twitter.com/mkraju/status/1206371842593894401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1507,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39155029,
+			"id_str": "39155029",
+			"name": "Manu Raju",
+			"screen_name": "mkraju",
+			"location": "The Capitol",
+			"description": "Senior Congressional Correspondent, @CNN. Prowling the Capitol halls, covering the Hill and politics. Die-hard Chicago sports fan. Wisconsin Badger for life.",
+			"url": "https://t.co/vtt0v8C3y8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vtt0v8C3y8",
+							"expanded_url": "http://www.facebook.com/mkraju00",
+							"display_url": "facebook.com/mkraju00",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315319,
+			"friends_count": 4232,
+			"listed_count": 4410,
+			"created_at": "Mon May 11 01:13:00 +0000 2009",
+			"favourites_count": 3375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036076785312718849/DqKNeMaJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036076785312718849/DqKNeMaJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39155029/1476497259",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6950,
+		"favorite_count": 25621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Five of Jeff Van Drew’s staff members announced their resignation Sunday after the congressman privately indicated he would switch parties, saying they are “deeply saddened and disappointed” by the decision https://t.co/TnlbUakEp1"
+	},
+	{
 		"created_at": "Sun Dec 15 15:54:09 +0000 2019",
 		"id": 1206182884819779600,
 		"id_str": "1206241040044363776",
