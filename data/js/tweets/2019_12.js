@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 19 18:49:09 +0000 2019",
+		"id": 1207409438996349000,
+		"id_str": "1207734632289947648",
+		"full_text": "Our readers are about to take a @longdrivesouth with Daniel Hernandez, who is returning to @latimes as a culture reporter, working with the legendary @Laurie_Ochoa. Hooray! \n\nhttps://t.co/4GkFeOv6wW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "longdrivesouth",
+					"name": "Daniel Hernandez✍🏽🌞",
+					"id": 30725017,
+					"id_str": "30725017",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"screen_name": "Laurie_Ochoa",
+					"name": "Laurie Ochoa",
+					"id": 1273237111,
+					"id_str": "1273237111",
+					"indices": [
+						150,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4GkFeOv6wW",
+					"expanded_url": "https://www.latimes.com/about/pressreleases/story/2019-12-18/daniel-hernandez-reporter-los-angeles-times-covering-culture",
+					"display_url": "latimes.com/about/pressrel…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198481,
+			"id_str": "1198481",
+			"name": "Sewell Chan",
+			"screen_name": "sewellchan",
+			"location": "Los Angeles",
+			"description": "Deputy Managing Editor @latimes; previously @nytimes @washingtonpost; aspiring Californian. Email me at first.last@latimes.com.",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33927,
+			"friends_count": 3494,
+			"listed_count": 1069,
+			"created_at": "Thu Mar 15 02:38:28 +0000 2007",
+			"favourites_count": 22348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2330990924/bjdp6snaoufqs4maaxox_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198481/1511924158",
+			"profile_link_color": "92A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 119,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our readers are about to take a @longdrivesouth with Daniel Hernandez, who is returning to @latimes as a culture reporter, working with the legendary @Laurie_Ochoa. Hooray! \n\nhttps://t.co/4GkFeOv6wW"
+	},
+	{
+		"created_at": "Thu Dec 19 18:46:04 +0000 2019",
+		"id": 1207728103679643600,
+		"id_str": "1207733857480364032",
+		"full_text": "📊 If you, like me, are excited that the 2018 5 yr ACS data from @uscensusbureau is out, you can download the newest tables right now with our @datagraphics downloader: https://t.co/6TfOa4Nm3H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uscensusbureau",
+					"name": "U.S. Census Bureau",
+					"id": 23092890,
+					"id_str": "23092890",
+					"indices": [
+						64,
+						79
+					]
+				},
+				{
+					"screen_name": "datagraphics",
+					"name": "Los Angeles Times Data and Graphics",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6TfOa4Nm3H",
+					"expanded_url": "https://github.com/datadesk/census-data-downloader",
+					"display_url": "github.com/datadesk/censu…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 221255986,
+			"id_str": "221255986",
+			"name": "Sandhya Kambhampati",
+			"screen_name": "sandhya__k",
+			"location": "Los Angeles, CA",
+			"description": "Data reporter @latimes/@datagraphics covering demographics in CA. Likes stats, FOIA & ice cream. email: sandhya@latimes.com",
+			"url": "https://t.co/raU7Y29kFd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/raU7Y29kFd",
+							"expanded_url": "http://www.sandhyakambhampati.com",
+							"display_url": "sandhyakambhampati.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5290,
+			"friends_count": 898,
+			"listed_count": 275,
+			"created_at": "Tue Nov 30 04:37:53 +0000 2010",
+			"favourites_count": 10273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DFEFF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142311392332013568/6AGzTmZZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142311392332013568/6AGzTmZZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/221255986/1508726878",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📊 If you, like me, are excited that the 2018 5 yr ACS data from @uscensusbureau is out, you can download the newest tables right now with our @datagraphics downloader: https://t.co/6TfOa4Nm3H"
+	},
+	{
 		"created_at": "Thu Dec 19 17:17:57 +0000 2019",
 		"id": 1207359161006096400,
 		"id_str": "1207711678927982594",
