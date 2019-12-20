@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 18:59:36 +0000 2019",
+		"id": 1208041401696620500,
+		"id_str": "1208099648579063809",
+		"full_text": "If you design anything for a living, you should stop whatever you're doing and experience this visual reconstruction of the UI flaws that all but guaranteed the lethal crash of the U.S.S. John S. McCain. https://t.co/T32csqMDHU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T32csqMDHU",
+					"expanded_url": "http://bit.ly/38YommE",
+					"display_url": "bit.ly/38YommE",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6183492,
+			"id_str": "6183492",
+			"name": "Scott Klein",
+			"screen_name": "kleinmatic",
+			"location": "New York City",
+			"description": "Deputy Managing Editor, ProPublica, and co-founder of DocumentCloud. DMs open. Bio & Email: https://t.co/qCELzmzJXA",
+			"url": "https://t.co/Fqv83dZwE0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fqv83dZwE0",
+							"expanded_url": "http://www.propublica.org/",
+							"display_url": "propublica.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qCELzmzJXA",
+							"expanded_url": "http://goo.gl/hYuYdf",
+							"display_url": "goo.gl/hYuYdf",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16628,
+			"friends_count": 4843,
+			"listed_count": 1122,
+			"created_at": "Sun May 20 18:56:42 +0000 2007",
+			"favourites_count": 9425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ADC3DE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964648610871828481/V8jtflnG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964648610871828481/V8jtflnG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6183492/1483581772",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 123,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you design anything for a living, you should stop whatever you're doing and experience this visual reconstruction of the UI flaws that all but guaranteed the lethal crash of the U.S.S. John S. McCain. https://t.co/T32csqMDHU"
+	},
+	{
 		"created_at": "Fri Dec 20 01:48:40 +0000 2019",
 		"id": 1207840207980003300,
 		"id_str": "1207840207980003328",
