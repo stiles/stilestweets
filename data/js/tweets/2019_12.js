@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 23 07:04:09 +0000 2019",
+		"id": 1208831273394933800,
+		"id_str": "1209006763007045632",
+		"full_text": "Incredible letter to the Irish Times this week. Please take a moment. \n\n(Thanks to the many people who have sent this to me.) https://t.co/uMi10NSy9j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1208831267967524900,
+					"id_str": "1208831267967524864",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EMahojCW4AAJ5Lo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMahojCW4AAJ5Lo.jpg",
+					"url": "https://t.co/uMi10NSy9j",
+					"display_url": "pic.twitter.com/uMi10NSy9j",
+					"expanded_url": "https://twitter.com/LettersOfNote/status/1208831273394933763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1061,
+							"h": 1541,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 826,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 701,
+									"y": 931,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 701,
+									"y": 931,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 309,
+									"y": 410,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 545,
+									"y": 724,
+									"h": 86,
+									"w": 86
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208831267967524900,
+					"id_str": "1208831267967524864",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EMahojCW4AAJ5Lo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMahojCW4AAJ5Lo.jpg",
+					"url": "https://t.co/uMi10NSy9j",
+					"display_url": "pic.twitter.com/uMi10NSy9j",
+					"expanded_url": "https://twitter.com/LettersOfNote/status/1208831273394933763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1061,
+							"h": 1541,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 826,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 701,
+									"y": 931,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 701,
+									"y": 931,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 309,
+									"y": 410,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 545,
+									"y": 724,
+									"h": 86,
+									"w": 86
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 72831048,
+			"id_str": "72831048",
+			"name": "Letters of Note",
+			"screen_name": "LettersOfNote",
+			"location": "The depths of Hell",
+			"description": "I like letters. I whinge about other stuff over at @shaunusher.",
+			"url": "https://t.co/kTrWe8YeJQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kTrWe8YeJQ",
+							"expanded_url": "http://www.lettersofnote.com",
+							"display_url": "lettersofnote.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623700,
+			"friends_count": 1828,
+			"listed_count": 3901,
+			"created_at": "Wed Sep 09 11:31:44 +0000 2009",
+			"favourites_count": 6359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184793829586735104/deIUcTGp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184793829586735104/deIUcTGp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/72831048/1571258882",
+			"profile_link_color": "CC6600",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEDEA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 2351,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Incredible letter to the Irish Times this week. Please take a moment. \n\n(Thanks to the many people who have sent this to me.) https://t.co/uMi10NSy9j"
+	},
+	{
 		"created_at": "Sun Dec 22 07:53:56 +0000 2019",
 		"id": 1208656902785159200,
 		"id_str": "1208656902785159169",
