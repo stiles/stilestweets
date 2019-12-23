@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 23 21:30:42 +0000 2019",
+		"id": 1209207950847467500,
+		"id_str": "1209224837698215936",
+		"full_text": "i got special research dispensation to use the federal government's granular mortality data so we looked hard at how the opioid epidemic evolved, county by county. https://t.co/zKzTMG9mwo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zKzTMG9mwo",
+					"expanded_url": "https://www.washingtonpost.com/graphics/2019/investigations/opioid-pills-overdose-analysis/",
+					"display_url": "washingtonpost.com/graphics/2019/…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22816767,
+			"id_str": "22816767",
+			"name": "Steven Rich",
+			"screen_name": "dataeditor",
+			"location": "███████, DC",
+			"description": "data @washingtonpost @wpinvestigates | board member @ire_nicar | woodworker @databaewoodshop | pay studyer @postguild",
+			"url": "https://t.co/XOfVM3k2uT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XOfVM3k2uT",
+							"expanded_url": "http://www.washingtonpost.com/people/steven-rich",
+							"display_url": "washingtonpost.com/people/steven-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16181,
+			"friends_count": 1156,
+			"listed_count": 595,
+			"created_at": "Wed Mar 04 19:04:48 +0000 2009",
+			"favourites_count": 5524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196585857823772672/qI_tD-pT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196585857823772672/qI_tD-pT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22816767/1571238093",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 77,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i got special research dispensation to use the federal government's granular mortality data so we looked hard at how the opioid epidemic evolved, county by county. https://t.co/zKzTMG9mwo"
+	},
+	{
 		"created_at": "Mon Dec 23 07:04:09 +0000 2019",
 		"id": 1208831273394933800,
 		"id_str": "1209006763007045632",
