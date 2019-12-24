@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 24 05:43:07 +0000 2019",
+		"id": 1209281256090812400,
+		"id_str": "1209348760137957376",
+		"full_text": "Oh boy. Today I cleaned out my @latimes desk. It’s been a crazy journey for this kid from Arkansas. I absolutely loved my time here and I’m going to severely miss all of my colleagues. But I’m excited about the next journey: working for NewsGuild members everywhere. https://t.co/XwhWmiGiBR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						31,
+						39
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209281246360035300,
+					"id_str": "1209281246360035329",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EMg64vLU4AEV1d-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMg64vLU4AEV1d-.jpg",
+					"url": "https://t.co/XwhWmiGiBR",
+					"display_url": "pic.twitter.com/XwhWmiGiBR",
+					"expanded_url": "https://twitter.com/gaufre/status/1209281256090812416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209281246360035300,
+					"id_str": "1209281246360035329",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EMg64vLU4AEV1d-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMg64vLU4AEV1d-.jpg",
+					"url": "https://t.co/XwhWmiGiBR",
+					"display_url": "pic.twitter.com/XwhWmiGiBR",
+					"expanded_url": "https://twitter.com/gaufre/status/1209281256090812416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12561082,
+			"id_str": "12561082",
+			"name": "Jon Schleuss",
+			"screen_name": "gaufre",
+			"location": "Los Angeles, CA",
+			"description": "NewsGuild-CWA President. Formerly @latimes data/graphics reporter. Every media worker should be in a union. gaufre=🧇 he/him ✊🏳️‍🌈",
+			"url": "https://t.co/H19cgx5r8X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H19cgx5r8X",
+							"expanded_url": "http://jonforpresident.com",
+							"display_url": "jonforpresident.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4789,
+			"friends_count": 5112,
+			"listed_count": 169,
+			"created_at": "Tue Jan 22 20:35:45 +0000 2008",
+			"favourites_count": 19372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181270627333890049/WooRNTO5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181270627333890049/WooRNTO5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12561082/1532451617",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 359,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh boy. Today I cleaned out my @latimes desk. It’s been a crazy journey for this kid from Arkansas. I absolutely loved my time here and I’m going to severely miss all of my colleagues. But I’m excited about the next journey: working for NewsGuild members everywhere. https://t.co/XwhWmiGiBR"
+	},
+	{
 		"created_at": "Mon Dec 23 21:30:42 +0000 2019",
 		"id": 1209207950847467500,
 		"id_str": "1209224837698215936",
