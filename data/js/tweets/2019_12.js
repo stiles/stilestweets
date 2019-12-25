@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 25 18:03:38 +0000 2019",
+		"id": 1209897265764192300,
+		"id_str": "1209897502549278720",
+		"full_text": "Santa flagged down a few Officers while he was on his way back to the North Pole this morning. He asked them if he could get a picture in front of the Hollywood sign! Our Officers gladly obliged! Even Santa can’t resist a good photo opportunity! https://t.co/EO9SHhCYpf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209897258826784800,
+					"id_str": "1209897258826784768",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EMprJYcW4AAUbP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMprJYcW4AAUbP7.jpg",
+					"url": "https://t.co/EO9SHhCYpf",
+					"display_url": "pic.twitter.com/EO9SHhCYpf",
+					"expanded_url": "https://twitter.com/LAPDHollywood/status/1209897265764192259/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 688,
+									"y": 696,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1040,
+									"y": 726,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 834,
+									"y": 536,
+									"h": 178,
+									"w": 178
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 231,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 345,
+									"y": 241,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 276,
+									"y": 177,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 688,
+									"y": 696,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1040,
+									"y": 726,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 834,
+									"y": 536,
+									"h": 178,
+									"w": 178
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 407,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 609,
+									"y": 425,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 488,
+									"y": 314,
+									"h": 104,
+									"w": 104
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209897258826784800,
+					"id_str": "1209897258826784768",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EMprJYcW4AAUbP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMprJYcW4AAUbP7.jpg",
+					"url": "https://t.co/EO9SHhCYpf",
+					"display_url": "pic.twitter.com/EO9SHhCYpf",
+					"expanded_url": "https://twitter.com/LAPDHollywood/status/1209897265764192259/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 688,
+									"y": 696,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1040,
+									"y": 726,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 834,
+									"y": 536,
+									"h": 178,
+									"w": 178
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 231,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 345,
+									"y": 241,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 276,
+									"y": 177,
+									"h": 59,
+									"w": 59
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 688,
+									"y": 696,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 1040,
+									"y": 726,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 834,
+									"y": 536,
+									"h": 178,
+									"w": 178
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 407,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 609,
+									"y": 425,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 488,
+									"y": 314,
+									"h": 104,
+									"w": 104
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 555254717,
+			"id_str": "555254717",
+			"name": "LAPD Hollywood Division",
+			"screen_name": "LAPDHollywood",
+			"location": "Hollywood, Los Angeles",
+			"description": "Official Twitter of LAPD Hollywood Division 🚔 To report a crime, dial 911 or 📞 (877) ASK-LAPD for non-emergencies. Instagram: @LAPDHollywood",
+			"url": "https://t.co/tqGTd6EE1d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tqGTd6EE1d",
+							"expanded_url": "http://www.lapdonline.org/hollywood_community_police_station",
+							"display_url": "lapdonline.org/hollywood_comm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29147,
+			"friends_count": 973,
+			"listed_count": 407,
+			"created_at": "Mon Apr 16 16:43:34 +0000 2012",
+			"favourites_count": 3799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176631845040951297/XJxN8qvL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176631845040951297/XJxN8qvL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/555254717/1575446339",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Santa flagged down a few Officers while he was on his way back to the North Pole this morning. He asked them if he could get a picture in front of the Hollywood sign! Our Officers gladly obliged! Even Santa can’t resist a good photo opportunity! https://t.co/EO9SHhCYpf"
+	},
+	{
 		"created_at": "Wed Dec 25 17:13:22 +0000 2019",
 		"id": 1209884855112044500,
 		"id_str": "1209884855112044544",
