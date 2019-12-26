@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 26 00:49:48 +0000 2019",
+		"id": 1209999719637770200,
+		"id_str": "1209999719637770240",
+		"full_text": "*sigh* https://t.co/8RAoGtDygc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8RAoGtDygc",
+					"expanded_url": "https://twitter.com/etammykim/status/1209999467086274561",
+					"display_url": "twitter.com/etammykim/stat…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter @latimes covering @CountyofLA with data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11165,
+			"friends_count": 1870,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1576036583",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1209999467086274600,
+		"quoted_status_id_str": "1209999467086274561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8RAoGtDygc",
+			"expanded": "https://twitter.com/etammykim/status/1209999467086274561",
+			"display": "twitter.com/etammykim/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 26 00:48:48 +0000 2019",
+			"id": 1209999467086274600,
+			"id_str": "1209999467086274561",
+			"full_text": "Our unhappy trajectories on the Korean peninsula\nhttps://t.co/Ju2XXPD2HH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ju2XXPD2HH",
+						"expanded_url": "https://foreignpolicy.com/2019/12/10/trump-moon-jae-in-us-south-korea/",
+						"display_url": "foreignpolicy.com/2019/12/10/tru…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1534422626,
+				"id_str": "1534422626",
+				"name": "E. Tammy Kim 김태미",
+				"screen_name": "etammykim",
+				"location": "Mostly New York",
+				"description": "Magazine writer, essayist, @nytopinion contributor, retired lawyer. Labor, public goods, arts, Koreas. \"Punk Ethnography\" book. 🥘🍚🍜 https://t.co/3kYr5vbJRB",
+				"url": "https://t.co/af4EgJV4sS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/af4EgJV4sS",
+								"expanded_url": "http://etkwrites.tumblr.com",
+								"display_url": "etkwrites.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3kYr5vbJRB",
+								"expanded_url": "http://tinyletter.com/etammykim",
+								"display_url": "tinyletter.com/etammykim",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6945,
+				"friends_count": 3739,
+				"listed_count": 212,
+				"created_at": "Thu Jun 20 16:58:38 +0000 2013",
+				"favourites_count": 27940,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13290,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1186689847806844933/pVSCmHPU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186689847806844933/pVSCmHPU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1534422626/1575163263",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*sigh* https://t.co/8RAoGtDygc"
+	},
+	{
 		"created_at": "Wed Dec 25 18:03:38 +0000 2019",
 		"id": 1209897265764192300,
 		"id_str": "1209897502549278720",
