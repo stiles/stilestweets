@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 29 20:33:44 +0000 2019",
+		"id": 1210948346283622400,
+		"id_str": "1211384831063412736",
+		"full_text": "Tally together the traffic from her Quakebot overhaul with her new live wildfires map and @caseymmiller was one of the most read bylines at @latimes in 2019. https://t.co/aTHwtZp0iK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "caseymmiller",
+					"name": "Casey Miller",
+					"id": 53286916,
+					"id_str": "53286916",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						140,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aTHwtZp0iK",
+					"expanded_url": "https://twitter.com/caseymmiller/status/1210711769850597376",
+					"display_url": "twitter.com/caseymmiller/s…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · Send me tips · DMs open · ben.welsh@latimes.com",
+			"url": "https://t.co/M40D7KBYi4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M40D7KBYi4",
+							"expanded_url": "https://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/alHGK4tTzG",
+							"expanded_url": "http://californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10155,
+			"friends_count": 3092,
+			"listed_count": 734,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1210711769850597400,
+		"quoted_status_id_str": "1210711769850597376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aTHwtZp0iK",
+			"expanded": "https://twitter.com/caseymmiller/status/1210711769850597376",
+			"display": "twitter.com/caseymmiller/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 27 23:59:14 +0000 2019",
+			"id": 1210711769850597400,
+			"id_str": "1210711769850597376",
+			"full_text": "As part of @datagraphics Quakebot 2.0 rollout this year, we started automatically creating shake intensity maps based on data provided by the @USGS. Here are (most of) the shakemaps that our service created this year. https://t.co/qUXa2rWskq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "datagraphics",
+						"name": "Los Angeles Times Data and Graphics",
+						"id": 17918860,
+						"id_str": "17918860",
+						"indices": [
+							11,
+							24
+						]
+					},
+					{
+						"screen_name": "USGS",
+						"name": "USGS",
+						"id": 14505838,
+						"id_str": "14505838",
+						"indices": [
+							142,
+							147
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1210711762774843400,
+						"id_str": "1210711762774843394",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/EM1P7wGU4AI8_p6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EM1P7wGU4AI8_p6.jpg",
+						"url": "https://t.co/qUXa2rWskq",
+						"display_url": "pic.twitter.com/qUXa2rWskq",
+						"expanded_url": "https://twitter.com/caseymmiller/status/1210711769850597376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1070,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1827,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 607,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 390,
+										"y": 1030,
+										"h": 80,
+										"w": 80
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1181,
+										"y": 3121,
+										"h": 244,
+										"w": 244
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 665,
+										"y": 1759,
+										"h": 137,
+										"w": 137
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 221,
+										"y": 584,
+										"h": 45,
+										"w": 45
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1210711762774843400,
+						"id_str": "1210711762774843394",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/EM1P7wGU4AI8_p6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EM1P7wGU4AI8_p6.jpg",
+						"url": "https://t.co/qUXa2rWskq",
+						"display_url": "pic.twitter.com/qUXa2rWskq",
+						"expanded_url": "https://twitter.com/caseymmiller/status/1210711769850597376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1070,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1827,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 607,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 390,
+										"y": 1030,
+										"h": 80,
+										"w": 80
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1181,
+										"y": 3121,
+										"h": 244,
+										"w": 244
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 665,
+										"y": 1759,
+										"h": 137,
+										"w": 137
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 221,
+										"y": 584,
+										"h": 45,
+										"w": 45
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53286916,
+				"id_str": "53286916",
+				"name": "Casey Miller",
+				"screen_name": "caseymmiller",
+				"location": "Los Angeles, CA",
+				"description": "Disasters @latimes + @datagraphics. Prev @Mapbox & @voxmediainc. @UNCHussman Alum. Unofficial Bojangles’ brand rep. Stevie Nicks 5ever 🕊️🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1917,
+				"friends_count": 947,
+				"listed_count": 83,
+				"created_at": "Fri Jul 03 03:52:17 +0000 2009",
+				"favourites_count": 10210,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7587,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1128851060322447361/vQaIXD97_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128851060322447361/vQaIXD97_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53286916/1489677936",
+				"profile_link_color": "A14EE5",
+				"profile_sidebar_border_color": "E5C99F",
+				"profile_sidebar_fill_color": "4E164A",
+				"profile_text_color": "C2A781",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tally together the traffic from her Quakebot overhaul with her new live wildfires map and @caseymmiller was one of the most read bylines at @latimes in 2019. https://t.co/aTHwtZp0iK"
+	},
+	{
 		"created_at": "Sat Dec 28 21:29:03 +0000 2019",
 		"id": 1210742833323204600,
 		"id_str": "1211036362977071104",
