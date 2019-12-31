@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 05:04:49 +0000 2019",
+		"id": 1211875834664874000,
+		"id_str": "1211875834664873984",
+		"full_text": "Good question...\n\nhttps://t.co/bFOXD6tIpD https://t.co/oeriAM7vw3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bFOXD6tIpD",
+					"expanded_url": "https://nyti.ms/356E2AU",
+					"display_url": "nyti.ms/356E2AU",
+					"indices": [
+						18,
+						41
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1211875830407712800,
+					"id_str": "1211875830407712769",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/ENFypZ9VUAEsHun.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENFypZ9VUAEsHun.jpg",
+					"url": "https://t.co/oeriAM7vw3",
+					"display_url": "pic.twitter.com/oeriAM7vw3",
+					"expanded_url": "https://twitter.com/stiles/status/1211875834664873984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 444,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 252,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1442,
+							"h": 534,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 185,
+									"h": 167,
+									"w": 167
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 59,
+									"y": 153,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 33,
+									"y": 87,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 185,
+									"h": 167,
+									"w": 167
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1211875830407712800,
+					"id_str": "1211875830407712769",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/ENFypZ9VUAEsHun.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENFypZ9VUAEsHun.jpg",
+					"url": "https://t.co/oeriAM7vw3",
+					"display_url": "pic.twitter.com/oeriAM7vw3",
+					"expanded_url": "https://twitter.com/stiles/status/1211875834664873984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 444,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 252,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1442,
+							"h": 534,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 185,
+									"h": 167,
+									"w": 167
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 59,
+									"y": 153,
+									"h": 138,
+									"w": 138
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 33,
+									"y": 87,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 71,
+									"y": 185,
+									"h": 167,
+									"w": 167
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11173,
+			"friends_count": 1880,
+			"listed_count": 873,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1576036583",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good question...\n\nhttps://t.co/bFOXD6tIpD https://t.co/oeriAM7vw3"
+	},
+	{
 		"created_at": "Sun Dec 29 20:33:44 +0000 2019",
 		"id": 1210948346283622400,
 		"id_str": "1211384831063412736",
