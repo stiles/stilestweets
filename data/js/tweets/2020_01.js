@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 05:11:35 +0000 2020",
+		"id": 1212964702122201000,
+		"id_str": "1212964702122201088",
+		"full_text": "Sweet story about perhaps the most bewildering footballer of the 2010s... https://t.co/gS80gv8KQR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gS80gv8KQR",
+					"expanded_url": "https://twitter.com/RorySmith/status/1212875331620757507",
+					"display_url": "twitter.com/RorySmith/stat…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11176,
+			"friends_count": 1883,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1577934809",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1212875331620757500,
+		"quoted_status_id_str": "1212875331620757507",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gS80gv8KQR",
+			"expanded": "https://twitter.com/RorySmith/status/1212875331620757507",
+			"display": "twitter.com/RorySmith/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 02 23:16:27 +0000 2020",
+			"id": 1212875331620757500,
+			"id_str": "1212875331620757507",
+			"full_text": "The return of the prodigal. A feel-good story about Balotelli and Brescia, and a feel-bad story about Balotelli and Serie A. https://t.co/TbATtAWdJZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TbATtAWdJZ",
+						"expanded_url": "https://www.nytimes.com/2020/01/02/sports/soccer/mario-balotelli-brescia.html?smtyp=cur&smid=tw-nytsports",
+						"display_url": "nytimes.com/2020/01/02/spo…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 137811467,
+				"id_str": "137811467",
+				"name": "Rory Smith",
+				"screen_name": "RorySmith",
+				"location": "UK",
+				"description": "Chief Soccer Correspondent for @nytimes. Sign up for our football newsletter: https://t.co/FrFrZW8m51",
+				"url": "https://t.co/KzRv7pCOUZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KzRv7pCOUZ",
+								"expanded_url": "http://facebook.com/rorysmithtimes",
+								"display_url": "facebook.com/rorysmithtimes",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FrFrZW8m51",
+								"expanded_url": "https://www.nytimes.com/newsletters/rory-smith",
+								"display_url": "nytimes.com/newsletters/ro…",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 195103,
+				"friends_count": 1954,
+				"listed_count": 3509,
+				"created_at": "Tue Apr 27 20:58:20 +0000 2010",
+				"favourites_count": 306,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48909,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1029839224948838406/x3Ql3oqW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029839224948838406/x3Ql3oqW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/137811467/1467795660",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 112,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sweet story about perhaps the most bewildering footballer of the 2010s... https://t.co/gS80gv8KQR"
+	},
+	{
+		"created_at": "Fri Jan 03 04:34:03 +0000 2020",
+		"id": 1212954668340564000,
+		"id_str": "1212955256255995905",
+		"full_text": "Soleimani was responsible for unthinkable violence and world is better off without him.\n\nBut Congress didn’t authorize and American people don’t want a war with Iran.\n\nAll steps must now be taken to protect our forces against the almost inevitable escalation and increased risk. https://t.co/Z4HTnScFg7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z4HTnScFg7",
+					"expanded_url": "https://twitter.com/nytimes/status/1212931309955366912",
+					"display_url": "twitter.com/nytimes/status…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29501253,
+			"id_str": "29501253",
+			"name": "Adam Schiff",
+			"screen_name": "RepAdamSchiff",
+			"location": "Burbank, CA",
+			"description": "Representing California's 28th Congressional District. Chairman of the House Intelligence Committee (@HouseIntel).",
+			"url": "https://t.co/uxaSLX8uQ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uxaSLX8uQ7",
+							"expanded_url": "http://schiff.house.gov/",
+							"display_url": "schiff.house.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1797551,
+			"friends_count": 778,
+			"listed_count": 8442,
+			"created_at": "Tue Apr 07 17:54:35 +0000 2009",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2578B8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816361054699667458/0DVL6HrY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816361054699667458/0DVL6HrY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29501253/1547736718",
+			"profile_link_color": "2578B8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1212931309955367000,
+		"quoted_status_id_str": "1212931309955366912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z4HTnScFg7",
+			"expanded": "https://twitter.com/nytimes/status/1212931309955366912",
+			"display": "twitter.com/nytimes/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 03 02:58:54 +0000 2020",
+			"id": 1212931309955367000,
+			"id_str": "1212931309955366912",
+			"full_text": "Breaking News: The U.S. confirmed it was behind the strike that killed the powerful Iranian commander Qassim Suleimani, a major escalation in a conflict with Iran https://t.co/NzSYmTMsZ6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NzSYmTMsZ6",
+						"expanded_url": "https://nyti.ms/2QFz4pN",
+						"display_url": "nyti.ms/2QFz4pN",
+						"indices": [
+							163,
+							186
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807095,
+				"id_str": "807095",
+				"name": "The New York Times",
+				"screen_name": "nytimes",
+				"location": "New York City",
+				"description": "News tips? Share them here: https://t.co/ghL9OoYKMM\n\n\"The Weekly\" is our new TV series. Episodes air Sundays at 10 p.m. on FX and on Hulu the next day.",
+				"url": "http://t.co/ahvuWqicF9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ahvuWqicF9",
+								"expanded_url": "http://www.nytimes.com/",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ghL9OoYKMM",
+								"expanded_url": "http://nyti.ms/2FVHq9v",
+								"display_url": "nyti.ms/2FVHq9v",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 44704663,
+				"friends_count": 899,
+				"listed_count": 201550,
+				"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+				"favourites_count": 18406,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 381908,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1577464889",
+				"profile_link_color": "607696",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2104,
+			"favorite_count": 3038,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4696,
+		"favorite_count": 15049,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Soleimani was responsible for unthinkable violence and world is better off without him.\n\nBut Congress didn’t authorize and American people don’t want a war with Iran.\n\nAll steps must now be taken to protect our forces against the almost inevitable escalation and increased risk. https://t.co/Z4HTnScFg7"
+	},
+	{
 		"created_at": "Thu Jan 02 21:42:21 +0000 2020",
 		"id": 1212851647933644800,
 		"id_str": "1212851647933644800",
