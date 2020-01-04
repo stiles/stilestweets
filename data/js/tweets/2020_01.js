@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 22:19:15 +0000 2020",
+		"id": 1050043654843158500,
+		"id_str": "1213585710273323008",
+		"full_text": "The Dutch don't cycle because their country is flatter, warmer, or morally superior to the rest of the world.\n\nIt's because they’ve built a dense, 35,000 km. network of fully separated infrastructure, equal to a quarter of their 140,000 km. road network.\n\nhttps://t.co/dpkVb8sUBx https://t.co/naz8617zhF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dpkVb8sUBx",
+					"expanded_url": "https://www.youtube.com/watch?v=PCV_btSRLGs",
+					"display_url": "youtube.com/watch?v=PCV_bt…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050043231805665300,
+					"id_str": "1050043231805665280",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DpKAwYaUcAAN3Jt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpKAwYaUcAAN3Jt.jpg",
+					"url": "https://t.co/naz8617zhF",
+					"display_url": "pic.twitter.com/naz8617zhF",
+					"expanded_url": "https://twitter.com/modacitylife/status/1050043654843158530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "335022713",
+									"screen_name": "mbruntlett",
+									"name": "Melissa Bruntlett"
+								},
+								{
+									"type": "user",
+									"user_id": "838204244",
+									"screen_name": "spirit_of_urban",
+									"name": "Urban Systems Ltd."
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050043231805665300,
+					"id_str": "1050043231805665280",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DpKAwYaUcAAN3Jt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpKAwYaUcAAN3Jt.jpg",
+					"url": "https://t.co/naz8617zhF",
+					"display_url": "pic.twitter.com/naz8617zhF",
+					"expanded_url": "https://twitter.com/modacitylife/status/1050043654843158530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "335022713",
+									"screen_name": "mbruntlett",
+									"name": "Melissa Bruntlett"
+								},
+								{
+									"type": "user",
+									"user_id": "838204244",
+									"screen_name": "spirit_of_urban",
+									"name": "Urban Systems Ltd."
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44974922,
+			"id_str": "44974922",
+			"name": "Modacity",
+			"screen_name": "modacitylife",
+			"location": "Delft, Nederland",
+			"description": "Melissa and Chris Bruntlett are the co-founders of Modacity, and co-authors of the book “Building the Cycling City: The Dutch Blueprint for Urban Vitality”.",
+			"url": "https://t.co/GwmxTpKO1S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GwmxTpKO1S",
+							"expanded_url": "http://www.modacitylife.com",
+							"display_url": "modacitylife.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44804,
+			"friends_count": 42677,
+			"listed_count": 928,
+			"created_at": "Fri Jun 05 19:37:06 +0000 2009",
+			"favourites_count": 57538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152546227382345728/dcPBKDj__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152546227382345728/dcPBKDj__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44974922/1535468103",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1511,
+		"favorite_count": 2787,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Dutch don't cycle because their country is flatter, warmer, or morally superior to the rest of the world.\n\nIt's because they’ve built a dense, 35,000 km. network of fully separated infrastructure, equal to a quarter of their 140,000 km. road network.\n\nhttps://t.co/dpkVb8sUBx https://t.co/naz8617zhF"
+	},
+	{
 		"created_at": "Sat Jan 04 20:24:49 +0000 2020",
 		"id": 1213556912702148600,
 		"id_str": "1213556912702148608",
