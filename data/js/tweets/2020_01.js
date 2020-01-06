@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 17:22:23 +0000 2020",
+		"id": 1213902527961292800,
+		"id_str": "1214235776432525320",
+		"full_text": "1/On today’s front page, the men of The Marathon Book Club trusted me to tell the story of how they are exploring the words that inspired Nipsey Hussle.\n\nBut this story almost didn’t happen.  Some members were wary of the media and how it historically portrays black men. https://t.co/ucKU4Q32wX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213902524035371000,
+					"id_str": "1213902524035371008",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/ENil6gEUEAApxtG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENil6gEUEAApxtG.jpg",
+					"url": "https://t.co/ucKU4Q32wX",
+					"display_url": "pic.twitter.com/ucKU4Q32wX",
+					"expanded_url": "https://twitter.com/AngelJennings/status/1213902527961292800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 408,
+									"y": 333,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 408,
+									"y": 333,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 408,
+									"y": 333,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 199,
+									"h": 37,
+									"w": 37
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213902524035371000,
+					"id_str": "1213902524035371008",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/ENil6gEUEAApxtG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENil6gEUEAApxtG.jpg",
+					"url": "https://t.co/ucKU4Q32wX",
+					"display_url": "pic.twitter.com/ucKU4Q32wX",
+					"expanded_url": "https://twitter.com/AngelJennings/status/1213902527961292800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 408,
+									"y": 333,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 408,
+									"y": 333,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 408,
+									"y": 333,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 244,
+									"y": 199,
+									"h": 37,
+									"w": 37
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 382295194,
+			"id_str": "382295194",
+			"name": "Angel Jennings",
+			"screen_name": "AngelJennings",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering #SouthLA, #Inglewood, #Compton, #Watts. DMV native, now a California Girl. I'm good on any MLK boulevard. Proud Husker",
+			"url": "https://t.co/X3HWtjJOCG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X3HWtjJOCG",
+							"expanded_url": "https://lat.ms/2I2K8LG",
+							"display_url": "lat.ms/2I2K8LG",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5815,
+			"friends_count": 813,
+			"listed_count": 184,
+			"created_at": "Thu Sep 29 20:34:01 +0000 2011",
+			"favourites_count": 1385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173983760427053058/mu81wYvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173983760427053058/mu81wYvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/382295194/1424835514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/On today’s front page, the men of The Marathon Book Club trusted me to tell the story of how they are exploring the words that inspired Nipsey Hussle.\n\nBut this story almost didn’t happen.  Some members were wary of the media and how it historically portrays black men. https://t.co/ucKU4Q32wX"
+	},
+	{
 		"created_at": "Sat Jan 04 22:19:15 +0000 2020",
 		"id": 1050043654843158500,
 		"id_str": "1213585710273323008",
