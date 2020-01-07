@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 05:25:26 +0000 2020",
+		"id": 1214269981405274000,
+		"id_str": "1214417737449013248",
+		"full_text": "Friends, today marks an exciting &amp; humbling change for me as I join the L.A. Times as a metro reporter covering the Eastside, Boyle Heights, Echo Park, parts of the SGV &amp; Southeast corridor. It’s a massive area with diverse communities &amp; countless stories. I can’t wait to start!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1029966896,
+			"id_str": "1029966896",
+			"name": "Andrew J. Campa",
+			"screen_name": "campadrenews",
+			"location": "East Los Angeles",
+			"description": "L.A. Times reporter covering the Eastside, Boyle Heights, Echo Park, some SGV & Southeast corridor. #DBTI #PCC #CSUF https://t.co/X4dbu7nWpl",
+			"url": "https://t.co/GzactnNstP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GzactnNstP",
+							"expanded_url": "http://www.latimes.com/tn-bio-andrew-campa-staff.html",
+							"display_url": "latimes.com/tn-bio-andrew-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/X4dbu7nWpl",
+							"expanded_url": "http://bit.ly/2m5T35a",
+							"display_url": "bit.ly/2m5T35a",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2246,
+			"friends_count": 492,
+			"listed_count": 46,
+			"created_at": "Sun Dec 23 06:06:07 +0000 2012",
+			"favourites_count": 332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196850861223202816/R0_8EX-a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196850861223202816/R0_8EX-a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1029966896/1362737137",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 419,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Friends, today marks an exciting &amp; humbling change for me as I join the L.A. Times as a metro reporter covering the Eastside, Boyle Heights, Echo Park, parts of the SGV &amp; Southeast corridor. It’s a massive area with diverse communities &amp; countless stories. I can’t wait to start!"
+	},
+	{
 		"created_at": "Tue Jan 07 05:18:45 +0000 2020",
 		"id": 1214415869696258000,
 		"id_str": "1214416056766222337",
