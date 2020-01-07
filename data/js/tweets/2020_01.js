@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 05:18:45 +0000 2020",
+		"id": 1214415869696258000,
+		"id_str": "1214416056766222337",
+		"full_text": "Trapped in bathroom, held down by Weinstein: Woman's horrifying allegations laid out by prosecutors https://t.co/fTSE3lG9QV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fTSE3lG9QV",
+					"expanded_url": "https://www.latimes.com/california/story/2020-01-06/trapped-in-bathroom-held-down-by-weinstein-womens-horrifying-allegations-laid-out-by-prosecutors",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16664681,
+			"id_str": "16664681",
+			"name": "Los Angeles Times",
+			"screen_name": "latimes",
+			"location": "El Segundo, CA",
+			"description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/RGtrESulUN",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RGtrESulUN",
+							"expanded_url": "https://membership.latimes.com",
+							"display_url": "membership.latimes.com",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3472677,
+			"friends_count": 6925,
+			"listed_count": 32297,
+			"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+			"favourites_count": 2428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 258382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "615F61",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trapped in bathroom, held down by Weinstein: Woman's horrifying allegations laid out by prosecutors https://t.co/fTSE3lG9QV"
+	},
+	{
+		"created_at": "Tue Jan 07 05:17:27 +0000 2020",
+		"id": 1214415581459308500,
+		"id_str": "1214415728406757377",
+		"full_text": "One issue that may get lost in the shuffle here are the political implications — this investigation is years-old, sex assault investigations are complicated — But it’s no doubt a boost to D.A. Lacey in a tough primary fight.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1214414933850353700,
+		"in_reply_to_status_id_str": "1214414933850353664",
+		"in_reply_to_user_id": 347599287,
+		"in_reply_to_user_id_str": "347599287",
+		"in_reply_to_screen_name": "JamesQueallyLAT",
+		"user": {
+			"id": 347599287,
+			"id_str": "347599287",
+			"name": "James Queally",
+			"screen_name": "JamesQueallyLAT",
+			"location": "Los Angeles, CA",
+			"description": "Trying to make my city a better place: Cops, Crime, Chaos(& Courts?) reporter @latimes /Alleged author /Debut: LINE OF SIGHT (Polis 3/10/20) / Rep: @jmcgowanbks",
+			"url": "https://t.co/EJW9uMKG0X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EJW9uMKG0X",
+							"expanded_url": "https://jamesqueallywriter.com/",
+							"display_url": "jamesqueallywriter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6579,
+			"friends_count": 1896,
+			"listed_count": 312,
+			"created_at": "Wed Aug 03 01:52:47 +0000 2011",
+			"favourites_count": 6243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800128773567889408/A9pegN2q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800128773567889408/A9pegN2q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/347599287/1568128698",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "One issue that may get lost in the shuffle here are the political implications — this investigation is years-old, sex assault investigations are complicated — But it’s no doubt a boost to D.A. Lacey in a tough primary fight."
+	},
+	{
+		"created_at": "Tue Jan 07 05:10:09 +0000 2020",
+		"id": 1214413891607789600,
+		"id_str": "1214413891607789569",
+		"full_text": "Politics ain’t bean-bag, and this is fair game, but to be clear the @latimes never accused @HerbJWesson of \"cheating\" in the @LAdemocrats endorsement process. We heard claims, got docs, and wrote a straight story. The party then stood by its endorsement. https://t.co/HsNFMimIFx https://t.co/DEYRTqFcgP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"screen_name": "HerbJWesson",
+					"name": "Herb J. Wesson, Jr.",
+					"id": 1921537580,
+					"id_str": "1921537580",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "LAdemocrats",
+					"name": "LA Democrats",
+					"id": 50371921,
+					"id_str": "50371921",
+					"indices": [
+						125,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HsNFMimIFx",
+					"expanded_url": "https://www.latimes.com/california/story/2020-01-06/herb-wesson-endorsement-los-angeles-county-democratic-party",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214413888176844800,
+					"id_str": "1214413888176844801",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ENp2_z8U8AEj-dG.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENp2_z8U8AEj-dG.png",
+					"url": "https://t.co/DEYRTqFcgP",
+					"display_url": "pic.twitter.com/DEYRTqFcgP",
+					"expanded_url": "https://twitter.com/stiles/status/1214413891607789569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 698,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 698,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214413888176844800,
+					"id_str": "1214413888176844801",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ENp2_z8U8AEj-dG.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENp2_z8U8AEj-dG.png",
+					"url": "https://t.co/DEYRTqFcgP",
+					"display_url": "pic.twitter.com/DEYRTqFcgP",
+					"expanded_url": "https://twitter.com/stiles/status/1214413891607789569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 698,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 561,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 698,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11186,
+			"friends_count": 1886,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1577934809",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Politics ain’t bean-bag, and this is fair game, but to be clear the @latimes never accused @HerbJWesson of \"cheating\" in the @LAdemocrats endorsement process. We heard claims, got docs, and wrote a straight story. The party then stood by its endorsement. https://t.co/HsNFMimIFx https://t.co/DEYRTqFcgP"
+	},
+	{
 		"created_at": "Mon Jan 06 21:35:55 +0000 2020",
 		"id": 1214299580633735200,
 		"id_str": "1214299580633735169",
