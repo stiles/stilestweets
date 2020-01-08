@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 21:05:09 +0000 2020",
+		"id": 1215016616229912600,
+		"id_str": "1215016616229912577",
+		"full_text": "Sometimes when I see these beautiful graphics stacks in the @nytimes, I get a little pain in my heart.  \n\nThis is one of those times. \n\nNice work, @DeniseDSLu et al. \n\nhttps://t.co/CyJbaIpyLB https://t.co/OC0anq94Vf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "DeniseDSLu",
+					"name": "ಠ_ಠ",
+					"id": 237889929,
+					"id_str": "237889929",
+					"indices": [
+						147,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CyJbaIpyLB",
+					"expanded_url": "https://www.nytimes.com/interactive/2020/01/02/climate/australia-fires-map.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215016612337569800,
+					"id_str": "1215016612337569792",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/ENybK-aUUAAXS4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENybK-aUUAAXS4I.jpg",
+					"url": "https://t.co/OC0anq94Vf",
+					"display_url": "pic.twitter.com/OC0anq94Vf",
+					"expanded_url": "https://twitter.com/stiles/status/1215016616229912577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215016612337569800,
+					"id_str": "1215016612337569792",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/ENybK-aUUAAXS4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENybK-aUUAAXS4I.jpg",
+					"url": "https://t.co/OC0anq94Vf",
+					"display_url": "pic.twitter.com/OC0anq94Vf",
+					"expanded_url": "https://twitter.com/stiles/status/1215016616229912577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1500,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11191,
+			"friends_count": 1887,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1577934809",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes when I see these beautiful graphics stacks in the @nytimes, I get a little pain in my heart.  \n\nThis is one of those times. \n\nNice work, @DeniseDSLu et al. \n\nhttps://t.co/CyJbaIpyLB https://t.co/OC0anq94Vf"
+	},
+	{
 		"created_at": "Tue Jan 07 05:25:26 +0000 2020",
 		"id": 1214269981405274000,
 		"id_str": "1214417737449013248",
