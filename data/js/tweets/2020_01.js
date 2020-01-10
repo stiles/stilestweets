@@ -1,6 +1,1052 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 20:43:00 +0000 2020",
+		"id": 1215735418882338800,
+		"id_str": "1215735817198432259",
+		"full_text": "SUCCESSION but make it PARASITE https://t.co/2XiIP5lN7W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215735399664013300,
+					"id_str": "1215735399664013314",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8o553XUAIh-6v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8o553XUAIh-6v.jpg",
+					"url": "https://t.co/2XiIP5lN7W",
+					"display_url": "pic.twitter.com/2XiIP5lN7W",
+					"expanded_url": "https://twitter.com/karenyhan/status/1215735418882338817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1268,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 117,
+									"y": 367,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 569,
+									"y": 1090,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 464,
+									"y": 314,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 334,
+									"y": 334,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 864,
+									"y": 378,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 761,
+									"y": 315,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 110,
+									"y": 347,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 538,
+									"y": 1031,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 439,
+									"y": 297,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 316,
+									"y": 316,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 817,
+									"y": 357,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 720,
+									"y": 298,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 196,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 305,
+									"y": 584,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 248,
+									"y": 168,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 179,
+									"y": 179,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 463,
+									"y": 202,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 407,
+									"y": 168,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 117,
+									"y": 367,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 569,
+									"y": 1090,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 464,
+									"y": 314,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 334,
+									"y": 334,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 864,
+									"y": 378,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 761,
+									"y": 315,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215735399664013300,
+					"id_str": "1215735399664013314",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8o553XUAIh-6v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8o553XUAIh-6v.jpg",
+					"url": "https://t.co/2XiIP5lN7W",
+					"display_url": "pic.twitter.com/2XiIP5lN7W",
+					"expanded_url": "https://twitter.com/karenyhan/status/1215735418882338817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1268,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 117,
+									"y": 367,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 569,
+									"y": 1090,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 464,
+									"y": 314,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 334,
+									"y": 334,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 864,
+									"y": 378,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 761,
+									"y": 315,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 110,
+									"y": 347,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 538,
+									"y": 1031,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 439,
+									"y": 297,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 316,
+									"y": 316,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 817,
+									"y": 357,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 720,
+									"y": 298,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 196,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 305,
+									"y": 584,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 248,
+									"y": 168,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 179,
+									"y": 179,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 463,
+									"y": 202,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 407,
+									"y": 168,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 117,
+									"y": 367,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 569,
+									"y": 1090,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 464,
+									"y": 314,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 334,
+									"y": 334,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 864,
+									"y": 378,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 761,
+									"y": 315,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215735399668244500,
+					"id_str": "1215735399668244480",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8o554X4AA6W9i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8o554X4AA6W9i.jpg",
+					"url": "https://t.co/2XiIP5lN7W",
+					"display_url": "pic.twitter.com/2XiIP5lN7W",
+					"expanded_url": "https://twitter.com/karenyhan/status/1215735418882338817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 79,
+									"y": 290,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 752,
+									"y": 367,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 874,
+									"y": 276,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 560,
+									"y": 171,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 634,
+									"y": 340,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 299,
+									"y": 175,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 52,
+									"y": 192,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 499,
+									"y": 243,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 580,
+									"y": 183,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 371,
+									"y": 113,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 421,
+									"y": 225,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 198,
+									"y": 116,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 79,
+									"y": 290,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 752,
+									"y": 367,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 874,
+									"y": 276,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 560,
+									"y": 171,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 634,
+									"y": 340,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 299,
+									"y": 175,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 79,
+									"y": 290,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 752,
+									"y": 367,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 874,
+									"y": 276,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 560,
+									"y": 171,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 634,
+									"y": 340,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 299,
+									"y": 175,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215735399668179000,
+					"id_str": "1215735399668178945",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8o554W4AEBiM9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8o554W4AEBiM9.jpg",
+					"url": "https://t.co/2XiIP5lN7W",
+					"display_url": "pic.twitter.com/2XiIP5lN7W",
+					"expanded_url": "https://twitter.com/karenyhan/status/1215735418882338817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 280,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 432,
+									"y": 289,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 65,
+									"y": 205,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 359,
+									"y": 510,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 280,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 432,
+									"y": 289,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 65,
+									"y": 205,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 359,
+									"y": 510,
+									"h": 69,
+									"w": 69
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 185,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 286,
+									"y": 191,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 43,
+									"y": 136,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 238,
+									"y": 338,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 280,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 432,
+									"y": 289,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 65,
+									"y": 205,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 359,
+									"y": 510,
+									"h": 69,
+									"w": 69
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215735399672373200,
+					"id_str": "1215735399672373254",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8o555W4AYLRzA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8o555W4AYLRzA.jpg",
+					"url": "https://t.co/2XiIP5lN7W",
+					"display_url": "pic.twitter.com/2XiIP5lN7W",
+					"expanded_url": "https://twitter.com/karenyhan/status/1215735418882338817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1268,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 384,
+									"y": 297,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 822,
+									"y": 281,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 599,
+									"y": 248,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 327,
+									"y": 449,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 621,
+									"y": 470,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 110,
+									"y": 233,
+									"h": 86,
+									"w": 86
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 217,
+									"y": 168,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 465,
+									"y": 159,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 339,
+									"y": 141,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 185,
+									"y": 254,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 352,
+									"y": 266,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 62,
+									"y": 132,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 406,
+									"y": 314,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 869,
+									"y": 297,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 634,
+									"y": 263,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 346,
+									"y": 475,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 657,
+									"y": 497,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 117,
+									"y": 247,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 406,
+									"y": 314,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 869,
+									"y": 297,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 634,
+									"y": 263,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 346,
+									"y": 475,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 657,
+									"y": 497,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 117,
+									"y": 247,
+									"h": 91,
+									"w": 91
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128988497,
+			"id_str": "128988497",
+			"name": "karen han",
+			"screen_name": "karenyhan",
+			"location": "new york, new york.",
+			"description": "tintin enthusiast, @polygon entertainment reporter ✍🏻 bylines @nytimes, @vulture, @vanityfair, @theatlantic, @vice, etc. 🗓 @wgaeast ✉️ krnyhan@gmail.com",
+			"url": "https://t.co/xYSskOESWO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xYSskOESWO",
+							"expanded_url": "http://karenhan.org/",
+							"display_url": "karenhan.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29286,
+			"friends_count": 1655,
+			"listed_count": 361,
+			"created_at": "Fri Apr 02 20:58:27 +0000 2010",
+			"favourites_count": 96587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 49590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137394032060092417/A0S67kP0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137394032060092417/A0S67kP0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128988497/1530316703",
+			"profile_link_color": "858585",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 471,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SUCCESSION but make it PARASITE https://t.co/2XiIP5lN7W"
+	},
+	{
 		"created_at": "Thu Jan 09 21:23:47 +0000 2020",
 		"id": 1215052461276160000,
 		"id_str": "1215383691578376192",
