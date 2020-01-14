@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 05:08:57 +0000 2020",
+		"id": 1216830661396291600,
+		"id_str": "1216950307986366471",
+		"full_text": "Excited to share the official #LACounty Board of Supervisors group photo with our 2020 Chair @kathrynbarger 📸 https://t.co/MgmEWuYrZn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LACounty",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kathrynbarger",
+					"name": "Supervisor Kathryn Barger",
+					"id": 3165949670,
+					"id_str": "3165949670",
+					"indices": [
+						93,
+						107
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216830646577844200,
+					"id_str": "1216830646577844224",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EOMNBqkU0AAjKYI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOMNBqkU0AAjKYI.jpg",
+					"url": "https://t.co/MgmEWuYrZn",
+					"display_url": "pic.twitter.com/MgmEWuYrZn",
+					"expanded_url": "https://twitter.com/LACountyBOS/status/1216830661396291584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1638,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "16369269",
+									"screen_name": "mridleythomas",
+									"name": "Mark Ridley-Thomas"
+								},
+								{
+									"type": "user",
+									"user_id": "2377732207",
+									"screen_name": "HildaSolis",
+									"name": "Hilda Solis"
+								},
+								{
+									"type": "user",
+									"user_id": "1327401170",
+									"screen_name": "SheilaKuehl",
+									"name": "Sheila Kuehl"
+								},
+								{
+									"type": "user",
+									"user_id": "3165949670",
+									"screen_name": "kathrynbarger",
+									"name": "Supervisor Kathryn Barger"
+								},
+								{
+									"type": "user",
+									"user_id": "339852137",
+									"screen_name": "SupJaniceHahn",
+									"name": "Janice Hahn"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 324,
+									"y": 428,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 644,
+									"y": 836,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1306,
+									"y": 834,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 988,
+									"y": 430,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 1656,
+									"y": 592,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 958,
+									"y": 376,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 302,
+									"y": 556,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 107,
+									"y": 142,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 213,
+									"y": 277,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 433,
+									"y": 276,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 328,
+									"y": 142,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 549,
+									"y": 196,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 318,
+									"y": 124,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 100,
+									"y": 184,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 250,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 377,
+									"y": 489,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 765,
+									"y": 488,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 578,
+									"y": 251,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 970,
+									"y": 346,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 561,
+									"y": 220,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 176,
+									"y": 325,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 324,
+									"y": 428,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 644,
+									"y": 836,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1306,
+									"y": 834,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 988,
+									"y": 430,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 1656,
+									"y": 592,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 958,
+									"y": 376,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 302,
+									"y": 556,
+									"h": 164,
+									"w": 164
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216830646577844200,
+					"id_str": "1216830646577844224",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EOMNBqkU0AAjKYI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOMNBqkU0AAjKYI.jpg",
+					"url": "https://t.co/MgmEWuYrZn",
+					"display_url": "pic.twitter.com/MgmEWuYrZn",
+					"expanded_url": "https://twitter.com/LACountyBOS/status/1216830661396291584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1638,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "16369269",
+									"screen_name": "mridleythomas",
+									"name": "Mark Ridley-Thomas"
+								},
+								{
+									"type": "user",
+									"user_id": "2377732207",
+									"screen_name": "HildaSolis",
+									"name": "Hilda Solis"
+								},
+								{
+									"type": "user",
+									"user_id": "1327401170",
+									"screen_name": "SheilaKuehl",
+									"name": "Sheila Kuehl"
+								},
+								{
+									"type": "user",
+									"user_id": "3165949670",
+									"screen_name": "kathrynbarger",
+									"name": "Supervisor Kathryn Barger"
+								},
+								{
+									"type": "user",
+									"user_id": "339852137",
+									"screen_name": "SupJaniceHahn",
+									"name": "Janice Hahn"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 324,
+									"y": 428,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 644,
+									"y": 836,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1306,
+									"y": 834,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 988,
+									"y": 430,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 1656,
+									"y": 592,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 958,
+									"y": 376,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 302,
+									"y": 556,
+									"h": 164,
+									"w": 164
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 107,
+									"y": 142,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 213,
+									"y": 277,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 433,
+									"y": 276,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 328,
+									"y": 142,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 549,
+									"y": 196,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 318,
+									"y": 124,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 100,
+									"y": 184,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 250,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 377,
+									"y": 489,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 765,
+									"y": 488,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 578,
+									"y": 251,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 970,
+									"y": 346,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 561,
+									"y": 220,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 176,
+									"y": 325,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 324,
+									"y": 428,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 644,
+									"y": 836,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 1306,
+									"y": 834,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 988,
+									"y": 430,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 1656,
+									"y": 592,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 958,
+									"y": 376,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 302,
+									"y": 556,
+									"h": 164,
+									"w": 164
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144740456586047500,
+			"id_str": "1144740456586047489",
+			"name": "LACountyBOS",
+			"screen_name": "LACountyBOS",
+			"location": "Los Angeles, CA",
+			"description": "The Executive Office supports the LA County Board of Supervisors who represent 10 mill people as the governing body of the largest local government in Nation.",
+			"url": "https://t.co/zzlRYEtVvg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzlRYEtVvg",
+							"expanded_url": "http://www.bos.lacounty.gov",
+							"display_url": "bos.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 379,
+			"friends_count": 280,
+			"listed_count": 4,
+			"created_at": "Fri Jun 28 22:52:47 +0000 2019",
+			"favourites_count": 315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178700670922182657/VuTwPBSR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178700670922182657/VuTwPBSR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144740456586047489/1575582683",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 29,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to share the official #LACounty Board of Supervisors group photo with our 2020 Chair @kathrynbarger 📸 https://t.co/MgmEWuYrZn"
+	},
+	{
 		"created_at": "Tue Jan 14 02:25:54 +0000 2020",
 		"id": 1216909273948573700,
 		"id_str": "1216909273948573697",
