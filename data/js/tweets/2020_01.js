@@ -1,6 +1,595 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 22:43:08 +0000 2020",
+		"id": 1217577989778460700,
+		"id_str": "1217577989778460672",
+		"full_text": "@ChrisLKellerLAT @ryanvmenezes @palewire @LoElebee A preview of tomorrow's offering... https://t.co/5cVkREJ2b9",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisLKellerLAT",
+					"name": "Chris Keller",
+					"id": 963122095747035100,
+					"id_str": "963122095747035136",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "palewire",
+					"name": "Ben Welsh",
+					"id": 14559196,
+					"id_str": "14559196",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"screen_name": "LoElebee",
+					"name": "Lorena Elebee",
+					"id": 2342339706,
+					"id_str": "2342339706",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217577987211579400,
+					"id_str": "1217577987211579392",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EOW0unYU0AAZbcA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOW0unYU0AAZbcA.png",
+					"url": "https://t.co/5cVkREJ2b9",
+					"display_url": "pic.twitter.com/5cVkREJ2b9",
+					"expanded_url": "https://twitter.com/stiles/status/1217577989778460672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 875,
+							"h": 633,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 875,
+							"h": 633,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217577987211579400,
+					"id_str": "1217577987211579392",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EOW0unYU0AAZbcA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOW0unYU0AAZbcA.png",
+					"url": "https://t.co/5cVkREJ2b9",
+					"display_url": "pic.twitter.com/5cVkREJ2b9",
+					"expanded_url": "https://twitter.com/stiles/status/1217577989778460672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 875,
+							"h": 633,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 875,
+							"h": 633,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217577254026240000,
+		"in_reply_to_status_id_str": "1217577254026240001",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11203,
+			"friends_count": 1893,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1577934809",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ChrisLKellerLAT @ryanvmenezes @palewire @LoElebee A preview of tomorrow's offering... https://t.co/5cVkREJ2b9"
+	},
+	{
+		"created_at": "Wed Jan 15 22:40:13 +0000 2020",
+		"id": 1217577254026240000,
+		"id_str": "1217577254026240001",
+		"full_text": "I believe this is my first A1 map! \n\nThanks @ChrisLKellerLAT and @ryanvmenezes for assists and @palewire and @LoElebee for making me look good.\n\nhttps://t.co/nPmxjECpLh https://t.co/n9xRGCfe18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisLKellerLAT",
+					"name": "Chris Keller",
+					"id": 963122095747035100,
+					"id_str": "963122095747035136",
+					"indices": [
+						44,
+						60
+					]
+				},
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						65,
+						78
+					]
+				},
+				{
+					"screen_name": "palewire",
+					"name": "Ben Welsh",
+					"id": 14559196,
+					"id_str": "14559196",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"screen_name": "LoElebee",
+					"name": "Lorena Elebee",
+					"id": 2342339706,
+					"id_str": "2342339706",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nPmxjECpLh",
+					"expanded_url": "https://www.latimes.com/california/story/2020-01-15/jet-fuel-dump-on-cudahy-school-children-sparks-outrage-anger",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217577245197271000,
+					"id_str": "1217577245197271040",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EOW0DbKVAAAcplx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOW0DbKVAAAcplx.jpg",
+					"url": "https://t.co/n9xRGCfe18",
+					"display_url": "pic.twitter.com/n9xRGCfe18",
+					"expanded_url": "https://twitter.com/stiles/status/1217577254026240001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1158,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1976,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 318,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 391,
+									"y": 562,
+									"h": 195,
+									"w": 195
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 668,
+									"y": 960,
+									"h": 334,
+									"w": 334
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 668,
+									"y": 960,
+									"h": 334,
+									"w": 334
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217577245197271000,
+					"id_str": "1217577245197271040",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EOW0DbKVAAAcplx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOW0DbKVAAAcplx.jpg",
+					"url": "https://t.co/n9xRGCfe18",
+					"display_url": "pic.twitter.com/n9xRGCfe18",
+					"expanded_url": "https://twitter.com/stiles/status/1217577254026240001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1158,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1976,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 318,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 391,
+									"y": 562,
+									"h": 195,
+									"w": 195
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 668,
+									"y": 960,
+									"h": 334,
+									"w": 334
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 668,
+									"y": 960,
+									"h": 334,
+									"w": 334
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11203,
+			"friends_count": 1893,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1577934809",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0e260c0b60147001",
+			"url": "https://api.twitter.com/1.1/geo/id/0e260c0b60147001.json",
+			"place_type": "poi",
+			"name": "Los Angeles Times",
+			"full_name": "Los Angeles Times",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.38237312806986,
+							33.93048686155164
+						],
+						[
+							-118.38237312806986,
+							33.93048686155164
+						],
+						[
+							-118.38237312806986,
+							33.93048686155164
+						],
+						[
+							-118.38237312806986,
+							33.93048686155164
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I believe this is my first A1 map! \n\nThanks @ChrisLKellerLAT and @ryanvmenezes for assists and @palewire and @LoElebee for making me look good.\n\nhttps://t.co/nPmxjECpLh https://t.co/n9xRGCfe18"
+	},
+	{
 		"created_at": "Wed Jan 15 00:14:31 +0000 2020",
 		"id": 1217238595804643300,
 		"id_str": "1217238595804643328",
