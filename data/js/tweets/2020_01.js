@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 19:24:23 +0000 2020",
+		"id": 1217890358660563000,
+		"id_str": "1217890358660562956",
+		"full_text": "Fascinating... https://t.co/Dty90TT969",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dty90TT969",
+					"expanded_url": "https://twitter.com/jeongminnkim/status/1217091923736793088",
+					"display_url": "twitter.com/jeongminnkim/s…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11213,
+			"friends_count": 1896,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1577934809",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217091923736793000,
+		"quoted_status_id_str": "1217091923736793088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Dty90TT969",
+			"expanded": "https://twitter.com/jeongminnkim/status/1217091923736793088",
+			"display": "twitter.com/jeongminnkim/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 14 14:31:41 +0000 2020",
+			"id": 1217091923736793000,
+			"id_str": "1217091923736793088",
+			"full_text": "I thought I’d get used to it by now but sometimes I can't get over the fact that this is such a weird country https://t.co/gQqPzNkmh4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1217091837355147300,
+						"id_str": "1217091837355147264",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217091837355147264/pu/img/JWdc4yuc6R1NWCJH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217091837355147264/pu/img/JWdc4yuc6R1NWCJH.jpg",
+						"url": "https://t.co/gQqPzNkmh4",
+						"display_url": "pic.twitter.com/gQqPzNkmh4",
+						"expanded_url": "https://twitter.com/jeongminnkim/status/1217091923736793088/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217091837355147300,
+						"id_str": "1217091837355147264",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217091837355147264/pu/img/JWdc4yuc6R1NWCJH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217091837355147264/pu/img/JWdc4yuc6R1NWCJH.jpg",
+						"url": "https://t.co/gQqPzNkmh4",
+						"display_url": "pic.twitter.com/gQqPzNkmh4",
+						"expanded_url": "https://twitter.com/jeongminnkim/status/1217091923736793088/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 43090,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1217091837355147264/pu/pl/55sSZqoft6OXl5_j.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1217091837355147264/pu/vid/480x270/jg9DRIuLaX-i67NN.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1217091837355147264/pu/vid/640x360/PuI8sTaua7lgrLGe.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1217091837355147264/pu/vid/1280x720/QEPKV9WKiuU-ElYp.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 904841004305576000,
+				"id_str": "904841004305575936",
+				"name": "Jeongmin Kim",
+				"screen_name": "jeongminnkim",
+				"location": "Seoul, Republic of Korea",
+				"description": "Seoul Correspondent @nknewsorg • Comparative Politics SNU • Previously @Reuters, @CSIS, Yonsei • Bylines @foreignpolicy @thenatlinterest, etc. Views mine.",
+				"url": "https://t.co/kQnlDalpA5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kQnlDalpA5",
+								"expanded_url": "https://www.nknews.org/content_author/jeongmin-kim/?t=1575968726176",
+								"display_url": "nknews.org/content_author…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5791,
+				"friends_count": 1250,
+				"listed_count": 131,
+				"created_at": "Mon Sep 04 22:58:01 +0000 2017",
+				"favourites_count": 3667,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5241,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1204417606234435585/baSyIlv9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204417606234435585/baSyIlv9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/904841004305575936/1560874955",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 194,
+			"favorite_count": 621,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fascinating... https://t.co/Dty90TT969"
+	},
+	{
 		"created_at": "Thu Jan 16 17:39:40 +0000 2020",
 		"id": 1217864007375151000,
 		"id_str": "1217864007375151105",
