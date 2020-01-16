@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 00:38:08 +0000 2020",
+		"id": 1217606929540735000,
+		"id_str": "1217606929540734977",
+		"full_text": "We got a year's worth of flight data from @flightradar24 to better understand when the @Delta 89 flight that dumped fuel on an L.A.-area elementary school on Tuesday changed course. My latest w/ @LoElebee, @Hannahnfry, @CShalby:  https://t.co/m9AKcZk22k https://t.co/Wel4mJEION",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flightradar24",
+					"name": "Flightradar24",
+					"id": 134196350,
+					"id_str": "134196350",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "Delta",
+					"name": "Delta",
+					"id": 5920532,
+					"id_str": "5920532",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"screen_name": "LoElebee",
+					"name": "Lorena Elebee",
+					"id": 2342339706,
+					"id_str": "2342339706",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"screen_name": "Hannahnfry",
+					"name": "Hannah Fry",
+					"id": 1727077808,
+					"id_str": "1727077808",
+					"indices": [
+						206,
+						217
+					]
+				},
+				{
+					"screen_name": "CShalby",
+					"name": "Colleen Shalby",
+					"id": 366423465,
+					"id_str": "366423465",
+					"indices": [
+						219,
+						227
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m9AKcZk22k",
+					"expanded_url": "https://www.latimes.com/california/story/2020-01-15/radio-call-to-control-tower-raises-questions-about-why-jet-fuel-was-dumped-over-cudahy",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217606926034292700,
+					"id_str": "1217606926034292736",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXPDE5UUAAkPDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOXPDE5UUAAkPDn.jpg",
+					"url": "https://t.co/Wel4mJEION",
+					"display_url": "pic.twitter.com/Wel4mJEION",
+					"expanded_url": "https://twitter.com/stiles/status/1217606929540734977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 568,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1006,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 1006,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217606926034292700,
+					"id_str": "1217606926034292736",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXPDE5UUAAkPDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOXPDE5UUAAkPDn.jpg",
+					"url": "https://t.co/Wel4mJEION",
+					"display_url": "pic.twitter.com/Wel4mJEION",
+					"expanded_url": "https://twitter.com/stiles/status/1217606929540734977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 568,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1006,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 1006,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1217606926109798400,
+					"id_str": "1217606926109798400",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXPDFLUcAAr-Qy.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOXPDFLUcAAr-Qy.png",
+					"url": "https://t.co/Wel4mJEION",
+					"display_url": "pic.twitter.com/Wel4mJEION",
+					"expanded_url": "https://twitter.com/stiles/status/1217606929540734977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 840,
+							"h": 583,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 583,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 621,
+									"y": 214,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 621,
+									"y": 214,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 502,
+									"y": 173,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 621,
+									"y": 214,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11205,
+			"friends_count": 1895,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1577934809",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We got a year's worth of flight data from @flightradar24 to better understand when the @Delta 89 flight that dumped fuel on an L.A.-area elementary school on Tuesday changed course. My latest w/ @LoElebee, @Hannahnfry, @CShalby:  https://t.co/m9AKcZk22k https://t.co/Wel4mJEION"
+	},
+	{
 		"created_at": "Wed Jan 15 22:43:08 +0000 2020",
 		"id": 1217577989778460700,
 		"id_str": "1217577989778460672",
