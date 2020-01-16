@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 17:39:40 +0000 2020",
+		"id": 1217864007375151000,
+		"id_str": "1217864007375151105",
+		"full_text": "Google search looking weird on desktop? That's because they just changed the design of paid and organic search results. New version more prominently displays icons and domain names. The \"Ad\" tag is now black and, to me, less obvious to the user. Meh. https://t.co/7pxWsl2s3h https://t.co/DIIfnBawTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7pxWsl2s3h",
+					"expanded_url": "https://twitter.com/searchliaison/status/1216782591463813126",
+					"display_url": "twitter.com/searchliaison/…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217864004887953400,
+					"id_str": "1217864004887953410",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EOa43CQUwAIU02F.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOa43CQUwAIU02F.png",
+					"url": "https://t.co/DIIfnBawTQ",
+					"display_url": "pic.twitter.com/DIIfnBawTQ",
+					"expanded_url": "https://twitter.com/stiles/status/1217864007375151105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 673,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 673,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217864004887953400,
+					"id_str": "1217864004887953410",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EOa43CQUwAIU02F.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOa43CQUwAIU02F.png",
+					"url": "https://t.co/DIIfnBawTQ",
+					"display_url": "pic.twitter.com/DIIfnBawTQ",
+					"expanded_url": "https://twitter.com/stiles/status/1217864007375151105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 673,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 673,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1217864004887965700,
+					"id_str": "1217864004887965696",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EOa43CQU8AA2qKF.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOa43CQU8AA2qKF.png",
+					"url": "https://t.co/DIIfnBawTQ",
+					"display_url": "pic.twitter.com/DIIfnBawTQ",
+					"expanded_url": "https://twitter.com/stiles/status/1217864007375151105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 679,
+							"h": 543,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 543,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 543,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11214,
+			"friends_count": 1896,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1577934809",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216782591463813000,
+		"quoted_status_id_str": "1216782591463813126",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7pxWsl2s3h",
+			"expanded": "https://twitter.com/searchliaison/status/1216782591463813126",
+			"display": "twitter.com/searchliaison/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 13 18:02:31 +0000 2020",
+			"id": 1216782591463813000,
+			"id_str": "1216782591463813126",
+			"full_text": "Last year, our search results on mobile gained a new look. That’s now rolling out to desktop results this week, presenting site domain names and brand icons prominently, along with a bolded “Ad” label for ads. Here’s a mockup: https://t.co/aM9UAbSKtv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				226
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1216782586682306600,
+						"id_str": "1216782586682306566",
+						"indices": [
+							227,
+							250
+						],
+						"media_url": "http://pbs.twimg.com/media/EOLhUNgUcAYOaPL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOLhUNgUcAYOaPL.jpg",
+						"url": "https://t.co/aM9UAbSKtv",
+						"display_url": "pic.twitter.com/aM9UAbSKtv",
+						"expanded_url": "https://twitter.com/searchliaison/status/1216782591463813126/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1224,
+								"h": 1148,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 199,
+										"y": 889,
+										"h": 121,
+										"w": 121
+									},
+									{
+										"x": 192,
+										"y": 489,
+										"h": 127,
+										"w": 127
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 112,
+										"y": 503,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 108,
+										"y": 277,
+										"h": 72,
+										"w": 72
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 203,
+										"y": 907,
+										"h": 124,
+										"w": 124
+									},
+									{
+										"x": 196,
+										"y": 499,
+										"h": 130,
+										"w": 130
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 203,
+										"y": 907,
+										"h": 124,
+										"w": 124
+									},
+									{
+										"x": 196,
+										"y": 499,
+										"h": 130,
+										"w": 130
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1216782586682306600,
+						"id_str": "1216782586682306566",
+						"indices": [
+							227,
+							250
+						],
+						"media_url": "http://pbs.twimg.com/media/EOLhUNgUcAYOaPL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOLhUNgUcAYOaPL.jpg",
+						"url": "https://t.co/aM9UAbSKtv",
+						"display_url": "pic.twitter.com/aM9UAbSKtv",
+						"expanded_url": "https://twitter.com/searchliaison/status/1216782591463813126/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1125,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1224,
+								"h": 1148,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 199,
+										"y": 889,
+										"h": 121,
+										"w": 121
+									},
+									{
+										"x": 192,
+										"y": 489,
+										"h": 127,
+										"w": 127
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 112,
+										"y": 503,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 108,
+										"y": 277,
+										"h": 72,
+										"w": 72
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 203,
+										"y": 907,
+										"h": 124,
+										"w": 124
+									},
+									{
+										"x": 196,
+										"y": 499,
+										"h": 130,
+										"w": 130
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 203,
+										"y": 907,
+										"h": 124,
+										"w": 124
+									},
+									{
+										"x": 196,
+										"y": 499,
+										"h": 130,
+										"w": 130
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 927444601882812400,
+				"id_str": "927444601882812416",
+				"name": "Google SearchLiaison",
+				"screen_name": "searchliaison",
+				"location": "",
+				"description": "Official tweets from Google's public liaison of search, @dannysullivan, sharing insights on how Google search works.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65969,
+				"friends_count": 12,
+				"listed_count": 1013,
+				"created_at": "Mon Nov 06 07:56:38 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 196,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/927446347879292930/Fi0D7FGJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/927446347879292930/Fi0D7FGJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/927444601882812416/1537553334",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 634,
+			"favorite_count": 927,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google search looking weird on desktop? That's because they just changed the design of paid and organic search results. New version more prominently displays icons and domain names. The \"Ad\" tag is now black and, to me, less obvious to the user. Meh. https://t.co/7pxWsl2s3h https://t.co/DIIfnBawTQ"
+	},
+	{
 		"created_at": "Thu Jan 16 15:20:19 +0000 2020",
 		"id": 1217828935410389000,
 		"id_str": "1217828935410388993",
