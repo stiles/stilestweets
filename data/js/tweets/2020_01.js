@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 22:57:23 +0000 2020",
+		"id": 1218306351643820000,
+		"id_str": "1218306351643820032",
+		"full_text": "@caseymmiller Me, too. I assumed everyone was seeing the change already, but not so. Folks who sit around me at work have the old version, and The Times story says the change is rolling out early this year. I guess we're, um, fortunate?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "caseymmiller",
+					"name": "Casey Miller",
+					"id": 53286916,
+					"id_str": "53286916",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1218304962351882200,
+		"in_reply_to_status_id_str": "1218304962351882242",
+		"in_reply_to_user_id": 53286916,
+		"in_reply_to_user_id_str": "53286916",
+		"in_reply_to_screen_name": "caseymmiller",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11219,
+			"friends_count": 1897,
+			"listed_count": 873,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1577934809",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@caseymmiller Me, too. I assumed everyone was seeing the change already, but not so. Folks who sit around me at work have the old version, and The Times story says the change is rolling out early this year. I guess we're, um, fortunate?"
+	},
+	{
+		"created_at": "Fri Jan 17 22:47:30 +0000 2020",
+		"id": 1218206116783575000,
+		"id_str": "1218303861233868800",
+		"full_text": "David Brooks you sweet, sweet summer child https://t.co/WWER4qBiIR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218206113331601400,
+					"id_str": "1218206113331601408",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfwAXhW4AAFWeo.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOfwAXhW4AAFWeo.png",
+					"url": "https://t.co/WWER4qBiIR",
+					"display_url": "pic.twitter.com/WWER4qBiIR",
+					"expanded_url": "https://twitter.com/gelliottmorris/status/1218206116783575040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 630,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 410,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218206113331601400,
+					"id_str": "1218206113331601408",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfwAXhW4AAFWeo.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOfwAXhW4AAFWeo.png",
+					"url": "https://t.co/WWER4qBiIR",
+					"display_url": "pic.twitter.com/WWER4qBiIR",
+					"expanded_url": "https://twitter.com/gelliottmorris/status/1218206116783575040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 630,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 410,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1218206113344249900,
+					"id_str": "1218206113344249860",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EOfwAXkX4AQ5HjI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOfwAXkX4AQ5HjI.jpg",
+					"url": "https://t.co/WWER4qBiIR",
+					"display_url": "pic.twitter.com/WWER4qBiIR",
+					"expanded_url": "https://twitter.com/gelliottmorris/status/1218206116783575040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 741,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 741,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57029492,
+			"id_str": "57029492",
+			"name": "G. Elliott Morris",
+			"screen_name": "gelliottmorris",
+			"location": "Washington, DC / Austin, TX",
+			"description": "Data journalist at @TheEconomist. I write mostly about polls, elections & political science. Past @pewmethods @UTAustin🐂. Newsletter: https://t.co/jhDR4O2kWn",
+			"url": "https://t.co/zlUGH48jh4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zlUGH48jh4",
+							"expanded_url": "http://gelliottmorris.com",
+							"display_url": "gelliottmorris.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jhDR4O2kWn",
+							"expanded_url": "http://thecrosstab.substack.com",
+							"display_url": "thecrosstab.substack.com",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39544,
+			"friends_count": 599,
+			"listed_count": 1247,
+			"created_at": "Wed Jul 15 14:24:06 +0000 2009",
+			"favourites_count": 33142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166699077406470146/8nCV6Cn6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166699077406470146/8nCV6Cn6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57029492/1579119881",
+			"profile_link_color": "3498DB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 719,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "David Brooks you sweet, sweet summer child https://t.co/WWER4qBiIR"
+	},
+	{
 		"created_at": "Fri Jan 17 17:11:08 +0000 2020",
 		"id": 1218219213103329300,
 		"id_str": "1218219213103329280",
