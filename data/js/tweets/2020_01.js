@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 15:16:42 +0000 2020",
+		"id": 1218308646104379400,
+		"id_str": "1218552804039483392",
+		"full_text": "All these cheesy puds spent their whole careers trying to find reasonable, principled ways to explain getting rid of Medicare and now that their party's only true platform is the cry-laughing emoji and rank fascism they sound like this. https://t.co/iKLZoEYe5Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iKLZoEYe5Z",
+					"expanded_url": "https://twitter.com/MarthaMcSally/status/1218261284669526016",
+					"display_url": "twitter.com/MarthaMcSally/…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171346034,
+			"id_str": "171346034",
+			"name": "David Roth",
+			"screen_name": "david_j_roth",
+			"location": "New York City, New York State",
+			"description": "Various at Deadspin and SB Nation and Vice Sports, co-founder of @Classical, turtle owner. Not the one from Van Halen or magic. Header art by Vicki Nerino.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100990,
+			"friends_count": 4715,
+			"listed_count": 1542,
+			"created_at": "Tue Jul 27 03:58:13 +0000 2010",
+			"favourites_count": 92235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198837179251937280/O48opItX_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198837179251937280/O48opItX_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171346034/1579029157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218261284669526000,
+		"quoted_status_id_str": "1218261284669526016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iKLZoEYe5Z",
+			"expanded": "https://twitter.com/MarthaMcSally/status/1218261284669526016",
+			"display": "twitter.com/MarthaMcSally/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 17 19:58:19 +0000 2020",
+			"id": 1218261284669526000,
+			"id_str": "1218261284669526016",
+			"full_text": "I’ve had enough of the media’s political smears and I’m not afraid to push back. \n\nIf you have too, help me amplify my message and hold liberal media hacks accountable --&gt; https://t.co/Qm2uLij1C9 https://t.co/WNJZgu3wlz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Qm2uLij1C9",
+						"expanded_url": "https://mmcsally.us/joms3mba",
+						"display_url": "mmcsally.us/joms3mba",
+						"indices": [
+							175,
+							198
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1218261260120313900,
+						"id_str": "1218261260120313858",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218261260120313858/pu/img/sucUG5S-Q2riQdNK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218261260120313858/pu/img/sucUG5S-Q2riQdNK.jpg",
+						"url": "https://t.co/WNJZgu3wlz",
+						"display_url": "pic.twitter.com/WNJZgu3wlz",
+						"expanded_url": "https://twitter.com/MarthaMcSally/status/1218261284669526016/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1218261260120313900,
+						"id_str": "1218261260120313858",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218261260120313858/pu/img/sucUG5S-Q2riQdNK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218261260120313858/pu/img/sucUG5S-Q2riQdNK.jpg",
+						"url": "https://t.co/WNJZgu3wlz",
+						"display_url": "pic.twitter.com/WNJZgu3wlz",
+						"expanded_url": "https://twitter.com/MarthaMcSally/status/1218261284669526016/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 21334,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1218261260120313858/pu/vid/480x270/gg-fiZfbmBlRZKrt.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1218261260120313858/pu/pl/uro6CVN8-eVHNDTv.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1218261260120313858/pu/vid/640x360/8Xq8fNrbbXmVCNie.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 482450423,
+				"id_str": "482450423",
+				"name": "McSally For Senate",
+				"screen_name": "MarthaMcSally",
+				"location": "Tucson AZ",
+				"description": "Campaign of Martha McSally for #AZSEN — ret. Colonel & 1st @usairforce woman to fly in combat. Currently represents Arizona in the United States Senate.",
+				"url": "https://t.co/McPDS2E5Vz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/McPDS2E5Vz",
+								"expanded_url": "http://mcsallyforsenate.com/",
+								"display_url": "mcsallyforsenate.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22505,
+				"friends_count": 193,
+				"listed_count": 403,
+				"created_at": "Fri Feb 03 22:46:04 +0000 2012",
+				"favourites_count": 119,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1860,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1218176462643236864/mrOjN0Pn_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218176462643236864/mrOjN0Pn_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/482450423/1537209459",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5126,
+			"favorite_count": 12801,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 160,
+		"favorite_count": 1422,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All these cheesy puds spent their whole careers trying to find reasonable, principled ways to explain getting rid of Medicare and now that their party's only true platform is the cry-laughing emoji and rank fascism they sound like this. https://t.co/iKLZoEYe5Z"
+	},
+	{
 		"created_at": "Sat Jan 18 02:24:47 +0000 2020",
 		"id": 1218358542349918200,
 		"id_str": "1218358542349918209",
