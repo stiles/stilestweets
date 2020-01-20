@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 00:52:43 +0000 2020",
+		"id": 1219048940311441400,
+		"id_str": "1219060150574538752",
+		"full_text": "@johnmyers Easiest was to disrupt is to feed distrust and misinformation -- common themes/tactics include incomplete information, inaccurate representation of facts, insufficient background and insults.\n\nApplies domestically too.\n\n#misinformation\n\nhttps://t.co/VJfHQX3xTO",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "misinformation",
+					"indices": [
+						231,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnmyers",
+					"name": "John Myers",
+					"id": 20873135,
+					"id_str": "20873135",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VJfHQX3xTO",
+					"expanded_url": "https://www.nbcnews.com/news/us-news/u-s-cybersecurity-agency-uses-pineapple-pizza-demonstrate-vulnerability-foreign-n1035296",
+					"display_url": "nbcnews.com/news/us-news/u…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1219046181038215200,
+		"in_reply_to_status_id_str": "1219046181038215168",
+		"in_reply_to_user_id": 20873135,
+		"in_reply_to_user_id_str": "20873135",
+		"in_reply_to_screen_name": "johnmyers",
+		"user": {
+			"id": 23175052,
+			"id_str": "23175052",
+			"name": "Dean Logan",
+			"screen_name": "DCLogan",
+			"location": "Whittier, CA - L.A. County",
+			"description": "These are my personal views/shares. For official tweets of the Los Angeles County Registrar-Recorder/County Clerk, please follow @lacountyrrcc.",
+			"url": "http://t.co/VkLKHVYxBl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VkLKHVYxBl",
+							"expanded_url": "http://www.lavote.net",
+							"display_url": "lavote.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1316,
+			"friends_count": 464,
+			"listed_count": 32,
+			"created_at": "Sat Mar 07 07:24:08 +0000 2009",
+			"favourites_count": 2870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/706191961800052736/I4_b8FIg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/706191961800052736/I4_b8FIg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23175052/1357195589",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@johnmyers Easiest was to disrupt is to feed distrust and misinformation -- common themes/tactics include incomplete information, inaccurate representation of facts, insufficient background and insults.\n\nApplies domestically too.\n\n#misinformation\n\nhttps://t.co/VJfHQX3xTO"
+	},
+	{
 		"created_at": "Sat Jan 18 22:02:56 +0000 2020",
 		"id": 1218655033438302200,
 		"id_str": "1218655033438302209",
