@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 07:32:05 +0000 2020",
+		"id": 1219061124856860700,
+		"id_str": "1219160654268862464",
+		"full_text": "Just a note to make clear: while provisional ballots in CA are almost always counted — it’s simply been a function of “trust but verify” — it’s also important to note they’ve been used inconsistently by counties, as I’ve reported. https://t.co/xt6m64pXLz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xt6m64pXLz",
+					"expanded_url": "https://www.latimes.com/politics/la-pol-ca-provisional-ballots-state-rules-20160724-snap-story.html",
+					"display_url": "latimes.com/politics/la-po…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20873135,
+			"id_str": "20873135",
+			"name": "John Myers",
+			"screen_name": "johnmyers",
+			"location": "john.myers@latimes.com",
+			"description": "Sacramento Bureau Chief, Los Angeles Times. All things California politics. Via @KQED, @ABC10, @KSBY etc. Outer Banks. Blue Devil. https://t.co/NlZqoJwmMA",
+			"url": "https://t.co/1bea9GCVKb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1bea9GCVKb",
+							"expanded_url": "http://www.facebook.com/politicsCalifornia",
+							"display_url": "facebook.com/politicsCalifo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NlZqoJwmMA",
+							"expanded_url": "http://membership.latimes.com",
+							"display_url": "membership.latimes.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27506,
+			"friends_count": 1295,
+			"listed_count": 1278,
+			"created_at": "Sat Feb 14 21:38:14 +0000 2009",
+			"favourites_count": 3471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9266CC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/640032582021742593/QHpCoxdH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/640032582021742593/QHpCoxdH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20873135/1574311744",
+			"profile_link_color": "6117EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F2F7F6",
+			"profile_text_color": "1D0101",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just a note to make clear: while provisional ballots in CA are almost always counted — it’s simply been a function of “trust but verify” — it’s also important to note they’ve been used inconsistently by counties, as I’ve reported. https://t.co/xt6m64pXLz"
+	},
+	{
 		"created_at": "Mon Jan 20 00:52:43 +0000 2020",
 		"id": 1219048940311441400,
 		"id_str": "1219060150574538752",
