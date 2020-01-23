@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 05:12:39 +0000 2020",
+		"id": 1220183559287328800,
+		"id_str": "1220212726804299776",
+		"full_text": "Sen Graham walking out of the Capitol encounters Schiff, shakes his hand and says, “Good job, you’re very well spoken.” https://t.co/Ne1f8TB7Qz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220183555256606700,
+					"id_str": "1220183555256606721",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EO72eovX4AEDDBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO72eovX4AEDDBt.jpg",
+					"url": "https://t.co/Ne1f8TB7Qz",
+					"display_url": "pic.twitter.com/Ne1f8TB7Qz",
+					"expanded_url": "https://twitter.com/frankthorp/status/1220183559287328768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1184,
+							"h": 1776,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 603,
+									"y": 496,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 603,
+									"y": 496,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 407,
+									"y": 335,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 189,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220183555256606700,
+					"id_str": "1220183555256606721",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EO72eovX4AEDDBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO72eovX4AEDDBt.jpg",
+					"url": "https://t.co/Ne1f8TB7Qz",
+					"display_url": "pic.twitter.com/Ne1f8TB7Qz",
+					"expanded_url": "https://twitter.com/frankthorp/status/1220183559287328768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1184,
+							"h": 1776,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 603,
+									"y": 496,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 603,
+									"y": 496,
+									"h": 111,
+									"w": 111
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 407,
+									"y": 335,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 230,
+									"y": 189,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14007532,
+			"id_str": "14007532",
+			"name": "Frank Thorp V",
+			"screen_name": "frankthorp",
+			"location": "Washington, DC",
+			"description": "Producer & Off-Air Reporter covering Congress at @NBCNews. Instagram: (frankthorpv) Also served as Chairman of the RTCA Exec. Committee.",
+			"url": "https://t.co/xxi2o0CoNd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xxi2o0CoNd",
+							"expanded_url": "https://www.instagram.com/frankthorpv/",
+							"display_url": "instagram.com/frankthorpv/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70361,
+			"friends_count": 1748,
+			"listed_count": 2064,
+			"created_at": "Tue Feb 26 15:31:46 +0000 2008",
+			"favourites_count": 6362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/674052150570459139/8qJWxmRm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/674052150570459139/8qJWxmRm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14007532/1564020726",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 847,
+		"favorite_count": 2565,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sen Graham walking out of the Capitol encounters Schiff, shakes his hand and says, “Good job, you’re very well spoken.” https://t.co/Ne1f8TB7Qz"
+	},
+	{
 		"created_at": "Tue Jan 21 05:01:11 +0000 2020",
 		"id": 1219485065937178600,
 		"id_str": "1219485065937178625",
