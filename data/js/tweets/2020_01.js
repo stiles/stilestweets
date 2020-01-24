@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 00:19:33 +0000 2020",
+		"id": 1220501353945895000,
+		"id_str": "1220501353945894912",
+		"full_text": "One in 3 Republicans think Trump has probably acted illegally, but most don’t want him convicted\nhttps://t.co/bP1u6tULhr https://t.co/NnXSnERV9Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bP1u6tULhr",
+					"expanded_url": "https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2020/01/23/daily-202-one-in-3-republicans-thinks-trump-has-probably-acted-illegally-but-most-don-t-want-him-convicted/5e2924d0602ff14e66057c1d/",
+					"display_url": "washingtonpost.com/news/powerpost…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1220501348673699800,
+					"id_str": "1220501348673699840",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EPAXgpeUwAAtXYp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPAXgpeUwAAtXYp.jpg",
+					"url": "https://t.co/NnXSnERV9Z",
+					"display_url": "pic.twitter.com/NnXSnERV9Z",
+					"expanded_url": "https://twitter.com/stiles/status/1220501353945894912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 1717,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 635,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 151,
+									"y": 433,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 40,
+									"y": 192,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 1094,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 102,
+									"y": 486,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 1094,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 102,
+									"y": 486,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 267,
+									"y": 765,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 71,
+									"y": 339,
+									"h": 109,
+									"w": 109
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220501348673699800,
+					"id_str": "1220501348673699840",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EPAXgpeUwAAtXYp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPAXgpeUwAAtXYp.jpg",
+					"url": "https://t.co/NnXSnERV9Z",
+					"display_url": "pic.twitter.com/NnXSnERV9Z",
+					"expanded_url": "https://twitter.com/stiles/status/1220501353945894912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 1717,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 635,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 151,
+									"y": 433,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 40,
+									"y": 192,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 1094,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 102,
+									"y": 486,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 382,
+									"y": 1094,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 102,
+									"y": 486,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 267,
+									"y": 765,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 71,
+									"y": 339,
+									"h": 109,
+									"w": 109
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11222,
+			"friends_count": 1901,
+			"listed_count": 874,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1577934809",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One in 3 Republicans think Trump has probably acted illegally, but most don’t want him convicted\nhttps://t.co/bP1u6tULhr https://t.co/NnXSnERV9Z"
+	},
+	{
 		"created_at": "Thu Jan 23 05:12:39 +0000 2020",
 		"id": 1220183559287328800,
 		"id_str": "1220212726804299776",
