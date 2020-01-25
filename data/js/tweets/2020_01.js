@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 25 17:25:52 +0000 2020",
+		"id": 1221119977924808700,
+		"id_str": "1221122022664572929",
+		"full_text": "Statement from @NPR's SVP for News @nancycbarnes, “Mary Louise Kelly has always conducted herself with the utmost integrity, and we stand behind this report.”   As someone who has worked w @NPRKelly for almost 20yrs can’t  agree more—superlative journalist, even better person. https://t.co/tAt046vFuj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NPR",
+					"name": "NPR",
+					"id": 5392522,
+					"id_str": "5392522",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"screen_name": "nancycbarnes",
+					"name": "Nancy Barnes",
+					"id": 50024361,
+					"id_str": "50024361",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "NPRKelly",
+					"name": "Mary Louise Kelly",
+					"id": 564069706,
+					"id_str": "564069706",
+					"indices": [
+						189,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tAt046vFuj",
+					"expanded_url": "https://twitter.com/kairyssdal/status/1221095955367251968",
+					"display_url": "twitter.com/kairyssdal/sta…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248843579,
+			"id_str": "248843579",
+			"name": "Christopher Turpin",
+			"screen_name": "turpinca",
+			"location": "DC",
+			"description": "VP for Editorial Innovation @NPR. 2x Interim SVP for News @NPR. Forever blowing bubbles @WestHamUnited",
+			"url": "https://t.co/jZRznViV70",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jZRznViV70",
+							"expanded_url": "http://npr.org",
+							"display_url": "npr.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 650,
+			"friends_count": 1139,
+			"listed_count": 23,
+			"created_at": "Mon Feb 07 21:02:07 +0000 2011",
+			"favourites_count": 607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214706397184577536/r_7sysYp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214706397184577536/r_7sysYp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248843579/1578443232",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221095955367252000,
+		"quoted_status_id_str": "1221095955367251968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tAt046vFuj",
+			"expanded": "https://twitter.com/kairyssdal/status/1221095955367251968",
+			"display": "twitter.com/kairyssdal/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 25 15:42:17 +0000 2020",
+			"id": 1221095955367252000,
+			"id_str": "1221095955367251968",
+			"full_text": "1.  There’s zero chance she agreed to go off the record after the end of the recorded part of that interview. \n\n2.  It’s worth a note here that when Ari set up the interview on @npratc last night, he made a point of saying it was airing in its entirety, unedited. https://t.co/lWF2oJ3Gow",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "npratc",
+						"name": "All Things Considered",
+						"id": 21918310,
+						"id_str": "21918310",
+						"indices": [
+							177,
+							184
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lWF2oJ3Gow",
+						"expanded_url": "https://twitter.com/meridithmcgraw/status/1221092967055839233",
+						"display_url": "twitter.com/meridithmcgraw…",
+						"indices": [
+							264,
+							287
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30013010,
+				"id_str": "30013010",
+				"name": "Kai Ryssdal",
+				"screen_name": "kairyssdal",
+				"location": "Los Angeles, CA",
+				"description": "kryssdal@marketplace.org",
+				"url": "https://t.co/3IrDWcjfo3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3IrDWcjfo3",
+								"expanded_url": "http://marketplace.org",
+								"display_url": "marketplace.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 182753,
+				"friends_count": 461,
+				"listed_count": 3076,
+				"created_at": "Thu Apr 09 16:16:44 +0000 2009",
+				"favourites_count": 130,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 49737,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1140444896970461184/3iXxXAIT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140444896970461184/3iXxXAIT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30013010/1386214357",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1221092967055839200,
+			"quoted_status_id_str": "1221092967055839233",
+			"quoted_status_permalink": {
+				"url": "https://t.co/lWF2oJ3Gow",
+				"expanded": "https://twitter.com/meridithmcgraw/status/1221092967055839233",
+				"display": "twitter.com/meridithmcgraw…"
+			},
+			"retweet_count": 619,
+			"favorite_count": 2611,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Statement from @NPR's SVP for News @nancycbarnes, “Mary Louise Kelly has always conducted herself with the utmost integrity, and we stand behind this report.”   As someone who has worked w @NPRKelly for almost 20yrs can’t  agree more—superlative journalist, even better person. https://t.co/tAt046vFuj"
+	},
+	{
 		"created_at": "Fri Jan 24 07:06:07 +0000 2020",
 		"id": 1220449792368828400,
 		"id_str": "1220603669978042368",
