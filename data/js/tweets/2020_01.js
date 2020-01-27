@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 18:38:51 +0000 2020",
+		"id": 1221865167203364900,
+		"id_str": "1221865167203364866",
+		"full_text": "I love this mapping project by @anvaka. It renders a map with every road in any major world municipality and allows users to customize colors and export images (and even make a mug!). \n\nHere's LA: https://t.co/Mi8dpt9M4m\n\nh/t @randal_olson https://t.co/k9SxAexjA1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anvaka",
+					"name": "Andrei Kashcha",
+					"id": 84120432,
+					"id_str": "84120432",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"screen_name": "randal_olson",
+					"name": "Randy Olson",
+					"id": 49413866,
+					"id_str": "49413866",
+					"indices": [
+						226,
+						239
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Mi8dpt9M4m",
+					"expanded_url": "https://anvaka.github.io/city-roads/?q=Los%20Angeles&areaId=3600207359",
+					"display_url": "anvaka.github.io/city-roads/?q=…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1221865164451926000,
+					"id_str": "1221865164451926016",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EPTv5LKU0AAzVuI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPTv5LKU0AAzVuI.png",
+					"url": "https://t.co/k9SxAexjA1",
+					"display_url": "pic.twitter.com/k9SxAexjA1",
+					"expanded_url": "https://twitter.com/stiles/status/1221865167203364866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 723,
+							"h": 924,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 723,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221865164451926000,
+					"id_str": "1221865164451926016",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EPTv5LKU0AAzVuI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPTv5LKU0AAzVuI.png",
+					"url": "https://t.co/k9SxAexjA1",
+					"display_url": "pic.twitter.com/k9SxAexjA1",
+					"expanded_url": "https://twitter.com/stiles/status/1221865167203364866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 723,
+							"h": 924,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 723,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11224,
+			"friends_count": 1902,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love this mapping project by @anvaka. It renders a map with every road in any major world municipality and allows users to customize colors and export images (and even make a mug!). \n\nHere's LA: https://t.co/Mi8dpt9M4m\n\nh/t @randal_olson https://t.co/k9SxAexjA1"
+	},
+	{
 		"created_at": "Mon Jan 27 17:28:24 +0000 2020",
 		"id": 1221847439092502500,
 		"id_str": "1221847439092502528",
