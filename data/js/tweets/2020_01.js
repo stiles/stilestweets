@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 07:05:04 +0000 2020",
+		"id": 1221674566520455200,
+		"id_str": "1221690570252247040",
+		"full_text": "This is absolutely outrageous. \n\nYou don’t even have to agree with @feliciasonmez tweets to agree that for her to be suspended for tweeting out a newsstory and then talking about being harassed for her tweets is an insane reaction. https://t.co/Ii0d5dWxot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "feliciasonmez",
+					"name": "Felicia Sonmez",
+					"id": 137466464,
+					"id_str": "137466464",
+					"indices": [
+						67,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ii0d5dWxot",
+					"expanded_url": "https://twitter.com/MatthewKeysLive/status/1221655093293924352",
+					"display_url": "twitter.com/MatthewKeysLiv…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11744152,
+			"id_str": "11744152",
+			"name": "Yashar Ali 🐘",
+			"screen_name": "yashar",
+			"location": "NYC/LA",
+			"description": "New York Magazine/HuffPost Contributor Email: currentyashar@gmail.com Direct Messages Open Text/Call/Signal/Confide/WhatsApp: 310-795-2497. Agents: UTA",
+			"url": "https://t.co/DC2FMygUBK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DC2FMygUBK",
+							"expanded_url": "http://yashar.substack.com",
+							"display_url": "yashar.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561830,
+			"friends_count": 24144,
+			"listed_count": 5510,
+			"created_at": "Wed Jan 02 06:55:39 +0000 2008",
+			"favourites_count": 134149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 156880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111685300089049088/0TUm7pyk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111685300089049088/0TUm7pyk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11744152/1502224549",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "080708",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221655093293924400,
+		"quoted_status_id_str": "1221655093293924352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ii0d5dWxot",
+			"expanded": "https://twitter.com/MatthewKeysLive/status/1221655093293924352",
+			"display": "twitter.com/MatthewKeysLiv…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 27 04:44:06 +0000 2020",
+			"id": 1221655093293924400,
+			"id_str": "1221655093293924352",
+			"full_text": "#BREAKING: Washington Post suspends reporter Felicia Sonmez over Kobe Bryant tweets, launches investigation into whether tweets – which were posted a few hours after Bryant’s death – violated the Post’s social media policy. https://t.co/Pew8jwnN0D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BREAKING",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Pew8jwnN0D",
+						"expanded_url": "https://twitter.com/matthewkeyslive/status/1221580953128062977",
+						"display_url": "twitter.com/matthewkeysliv…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 754485,
+				"id_str": "754485",
+				"name": "Matthew Keys",
+				"screen_name": "MatthewKeysLive",
+				"location": "Sacramento, CA",
+				"description": "Award-winning journalist. Past: @reuters, @fox40, @abc7newsbayarea, @grasswire. Now: ???. California = home.",
+				"url": "https://t.co/hmp72a1TPZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hmp72a1TPZ",
+								"expanded_url": "https://matthewkeys.net",
+								"display_url": "matthewkeys.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43618,
+				"friends_count": 5947,
+				"listed_count": 2511,
+				"created_at": "Sun Feb 04 13:40:33 +0000 2007",
+				"favourites_count": 36649,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 174716,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "212322",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080023535320424450/kR1TtMHc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080023535320424450/kR1TtMHc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/754485/1561395720",
+				"profile_link_color": "004A88",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FCFCFC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1221580953128063000,
+			"quoted_status_id_str": "1221580953128062977",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Pew8jwnN0D",
+				"expanded": "https://twitter.com/matthewkeyslive/status/1221580953128062977",
+				"display": "twitter.com/matthewkeysliv…"
+			},
+			"retweet_count": 815,
+			"favorite_count": 1672,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 200,
+		"favorite_count": 1433,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is absolutely outrageous. \n\nYou don’t even have to agree with @feliciasonmez tweets to agree that for her to be suspended for tweeting out a newsstory and then talking about being harassed for her tweets is an insane reaction. https://t.co/Ii0d5dWxot"
+	},
+	{
 		"created_at": "Mon Jan 27 04:05:43 +0000 2020",
 		"id": 1221644754213130200,
 		"id_str": "1221645436697464834",
