@@ -1,6 +1,742 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 21:38:15 +0000 2020",
+		"id": 1222272703488348200,
+		"id_str": "1222272703488348160",
+		"full_text": "Oh, hello. \n\nYou and I are going to become friends. \n\nhttps://t.co/BBMIivpBmF https://t.co/tsWFau3fyH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BBMIivpBmF",
+					"expanded_url": "https://gis.data.ca.gov/",
+					"display_url": "gis.data.ca.gov",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222272700715896800,
+					"id_str": "1222272700715896833",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EPZii6DUEAEY-fn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPZii6DUEAEY-fn.png",
+					"url": "https://t.co/tsWFau3fyH",
+					"display_url": "pic.twitter.com/tsWFau3fyH",
+					"expanded_url": "https://twitter.com/stiles/status/1222272703488348160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 611,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 611,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 611,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222272700715896800,
+					"id_str": "1222272700715896833",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EPZii6DUEAEY-fn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPZii6DUEAEY-fn.png",
+					"url": "https://t.co/tsWFau3fyH",
+					"display_url": "pic.twitter.com/tsWFau3fyH",
+					"expanded_url": "https://twitter.com/stiles/status/1222272703488348160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 611,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 611,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 611,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11242,
+			"friends_count": 1904,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh, hello. \n\nYou and I are going to become friends. \n\nhttps://t.co/BBMIivpBmF https://t.co/tsWFau3fyH"
+	},
+	{
+		"created_at": "Tue Jan 28 21:34:45 +0000 2020",
+		"id": 1222271821237477400,
+		"id_str": "1222271821237477376",
+		"full_text": "say what? https://t.co/SCPa6wWeVw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SCPa6wWeVw",
+					"expanded_url": "https://twitter.com/CNN/status/1222267596210343940",
+					"display_url": "twitter.com/CNN/status/122…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11242,
+			"friends_count": 1904,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222267596210344000,
+		"quoted_status_id_str": "1222267596210343940",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SCPa6wWeVw",
+			"expanded": "https://twitter.com/CNN/status/1222267596210343940",
+			"display": "twitter.com/CNN/status/122…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 28 21:17:58 +0000 2020",
+			"id": 1222267596210344000,
+			"id_str": "1222267596210343940",
+			"full_text": "Jared Kushner, senior adviser to the President, says the White House's Middle East plan is \"a great deal\" and if Palestinians reject it, “they’re going to screw up another opportunity, like they’ve screwed up every other opportunity that they’ve ever had in their existence.” https://t.co/ABAI3gKjig",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1222264847217451000,
+						"id_str": "1222264847217451008",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1222264847217451008/img/ZwqBBMYGOAyPyC4N.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1222264847217451008/img/ZwqBBMYGOAyPyC4N.jpg",
+						"url": "https://t.co/ABAI3gKjig",
+						"display_url": "pic.twitter.com/ABAI3gKjig",
+						"expanded_url": "https://twitter.com/CNN/status/1222267596210343940/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 9567972,
+						"source_user_id_str": "9567972",
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1222264847217451000,
+						"id_str": "1222264847217451008",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1222264847217451008/img/ZwqBBMYGOAyPyC4N.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1222264847217451008/img/ZwqBBMYGOAyPyC4N.jpg",
+						"url": "https://t.co/ABAI3gKjig",
+						"display_url": "pic.twitter.com/ABAI3gKjig",
+						"expanded_url": "https://twitter.com/CNN/status/1222267596210343940/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 9567972,
+						"source_user_id_str": "9567972",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 366099,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1222264847217451008/vid/640x360/5D0xdHa2H8Zq9zpU.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1222264847217451008/pl/zrumu0xPYqiLiVOD.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1222264847217451008/vid/480x270/yo4qVdeeGFkIXIwl.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1222264847217451008/vid/960x540/APmaMSPiX56z9xE2.mp4?tag=13"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 9567972,
+								"id_str": "9567972",
+								"name": "CNN Newsroom",
+								"screen_name": "CNNnewsroom",
+								"location": "New York, NY",
+								"description": "Latest news and information updates from the anchors, reporters and producers of CNN Newsroom, 9 a.m. to 4 p.m. ET and weekends on CNN.",
+								"url": "https://t.co/M0A3HjsFdP",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/M0A3HjsFdP",
+												"expanded_url": "http://cnn.com/newsroom",
+												"display_url": "cnn.com/newsroom",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 419724,
+								"friends_count": 554,
+								"listed_count": 6708,
+								"created_at": "Sat Oct 20 20:14:41 +0000 2007",
+								"favourites_count": 40,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 27958,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "9AE4E8",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/879434759365156872/50k-Wecg_normal.png",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/879434759365156872/50k-Wecg_normal.png",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/9567972/1478731883",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "929491",
+								"profile_text_color": "130C0C",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"can_media_tag": true,
+								"followed_by": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759251,
+				"id_str": "759251",
+				"name": "CNN",
+				"screen_name": "CNN",
+				"location": "",
+				"description": "It’s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK  & Download our app https://t.co/UCHG9M367J",
+				"url": "http://t.co/IaghNW8Xm2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IaghNW8Xm2",
+								"expanded_url": "http://www.cnn.com",
+								"display_url": "cnn.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UCHG9M367J",
+								"expanded_url": "http://cnn.com/apps",
+								"display_url": "cnn.com/apps",
+								"indices": [
+									135,
+									158
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 44635318,
+				"friends_count": 1107,
+				"listed_count": 141428,
+				"created_at": "Fri Feb 09 00:35:02 +0000 2007",
+				"favourites_count": 1432,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 283490,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "323232",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1564637377",
+				"profile_link_color": "004287",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 248,
+			"favorite_count": 651,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "say what? https://t.co/SCPa6wWeVw"
+	},
+	{
+		"created_at": "Tue Jan 28 21:22:39 +0000 2020",
+		"id": 1222261547596177400,
+		"id_str": "1222268775950516224",
+		"full_text": "Ben Smith to NYT Media column! This is gonna be fun. @sulliview with the deets https://t.co/kubiynkn1a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sulliview",
+					"name": "Margaret Sullivan",
+					"id": 460470940,
+					"id_str": "460470940",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kubiynkn1a",
+					"expanded_url": "https://www.washingtonpost.com/lifestyle/style/ben-smith-of-buzzfeed-news-departs-the-site-he-built-from-scratch-heading-for-the-new-york-times/2020/01/28/f9660248-41f0-11ea-aa6a-083d01b3ed18_story.html",
+					"display_url": "washingtonpost.com/lifestyle/styl…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255347566,
+			"id_str": "255347566",
+			"name": "jimrutenberg",
+			"screen_name": "jimrutenberg",
+			"location": "BKLYN-East End L.I./Atlantic O",
+			"description": "Writer At Large, NYT + NYT Mag",
+			"url": "https://t.co/csAyRe5cy8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csAyRe5cy8",
+							"expanded_url": "https://www.nytimes.com/by/jim-rutenberg",
+							"display_url": "nytimes.com/by/jim-rutenbe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33438,
+			"friends_count": 3780,
+			"listed_count": 1085,
+			"created_at": "Mon Feb 21 05:02:29 +0000 2011",
+			"favourites_count": 3408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069583255245123584/tAbml5wK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069583255245123584/tAbml5wK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255347566/1403299049",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ben Smith to NYT Media column! This is gonna be fun. @sulliview with the deets https://t.co/kubiynkn1a"
+	},
+	{
 		"created_at": "Tue Jan 28 21:03:57 +0000 2020",
 		"id": 1222264072038518800,
 		"id_str": "1222264072038518784",
