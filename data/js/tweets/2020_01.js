@@ -1,6 +1,1081 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 21:03:57 +0000 2020",
+		"id": 1222264072038518800,
+		"id_str": "1222264072038518784",
+		"full_text": "There's a high-speed police pursuit on the 118 Freeway, @GustavoArellano. Turn on KTLA!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GustavoArellano",
+					"name": "Col. Gustavo Arellano",
+					"id": 15518170,
+					"id_str": "15518170",
+					"indices": [
+						56,
+						72
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11242,
+			"friends_count": 1904,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "There's a high-speed police pursuit on the 118 Freeway, @GustavoArellano. Turn on KTLA!"
+	},
+	{
+		"created_at": "Tue Jan 28 20:42:43 +0000 2020",
+		"id": 1222257957804527600,
+		"id_str": "1222258727123705857",
+		"full_text": "Wishing everyone a healthy and prosperous #YearoftheRat https://t.co/9PwBo1eKsg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YearoftheRat",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9PwBo1eKsg",
+					"expanded_url": "https://twitter.com/M_Zamora_Photo/status/1222249444252381184",
+					"display_url": "twitter.com/M_Zamora_Photo…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 339852137,
+			"id_str": "339852137",
+			"name": "Janice Hahn",
+			"screen_name": "SupJaniceHahn",
+			"location": "San Pedro, CA",
+			"description": "Los Angeles County Supervisor. Proudly serving the 4th District.\n\n📸 https://t.co/MnG9ZpiHd3\n👍 https://t.co/xgnuGxjNCF",
+			"url": "https://t.co/3Pibllvzik",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Pibllvzik",
+							"expanded_url": "http://hahn.lacounty.gov/",
+							"display_url": "hahn.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MnG9ZpiHd3",
+							"expanded_url": "http://instagram.com/supjanicehahn/",
+							"display_url": "instagram.com/supjanicehahn/",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/xgnuGxjNCF",
+							"expanded_url": "http://facebook.com/supjanicehahn/",
+							"display_url": "facebook.com/supjanicehahn/",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15947,
+			"friends_count": 1988,
+			"listed_count": 583,
+			"created_at": "Thu Jul 21 19:22:22 +0000 2011",
+			"favourites_count": 2125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169680421535109120/e9v7m3zA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169680421535109120/e9v7m3zA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/339852137/1579633576",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222249444252381200,
+		"quoted_status_id_str": "1222249444252381184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9PwBo1eKsg",
+			"expanded": "https://twitter.com/M_Zamora_Photo/status/1222249444252381184",
+			"display": "twitter.com/M_Zamora_Photo…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 28 20:05:50 +0000 2020",
+			"id": 1222249444252381200,
+			"id_str": "1222249444252381184",
+			"full_text": "#LunarNewYear2020 @CCC_LA @mridleythomas @SheilaKuehl @SupJaniceHahn https://t.co/wBUWjAnK0f",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LunarNewYear2020",
+						"indices": [
+							0,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CCC_LA",
+						"name": "ChineseChamberLA",
+						"id": 370315705,
+						"id_str": "370315705",
+						"indices": [
+							18,
+							25
+						]
+					},
+					{
+						"screen_name": "mridleythomas",
+						"name": "Mark Ridley-Thomas",
+						"id": 16369269,
+						"id_str": "16369269",
+						"indices": [
+							26,
+							40
+						]
+					},
+					{
+						"screen_name": "SheilaKuehl",
+						"name": "Sheila Kuehl",
+						"id": 1327401170,
+						"id_str": "1327401170",
+						"indices": [
+							41,
+							53
+						]
+					},
+					{
+						"screen_name": "SupJaniceHahn",
+						"name": "Janice Hahn",
+						"id": 339852137,
+						"id_str": "339852137",
+						"indices": [
+							54,
+							68
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1222249415005462500,
+						"id_str": "1222249415005462528",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/EPZNXgBUYAAJca7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPZNXgBUYAAJca7.jpg",
+						"url": "https://t.co/wBUWjAnK0f",
+						"display_url": "pic.twitter.com/wBUWjAnK0f",
+						"expanded_url": "https://twitter.com/M_Zamora_Photo/status/1222249444252381184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1638,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "16369269",
+										"screen_name": "mridleythomas",
+										"name": "Mark Ridley-Thomas"
+									},
+									{
+										"type": "user",
+										"user_id": "1327401170",
+										"screen_name": "SheilaKuehl",
+										"name": "Sheila Kuehl"
+									},
+									{
+										"type": "user",
+										"user_id": "339852137",
+										"screen_name": "SupJaniceHahn",
+										"name": "Janice Hahn"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 786,
+										"y": 478,
+										"h": 88,
+										"w": 88
+									},
+									{
+										"x": 1038,
+										"y": 494,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 238,
+										"y": 438,
+										"h": 230,
+										"w": 230
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 460,
+										"y": 280,
+										"h": 51,
+										"w": 51
+									},
+									{
+										"x": 608,
+										"y": 289,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 139,
+										"y": 256,
+										"h": 134,
+										"w": 134
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 260,
+										"y": 158,
+										"h": 29,
+										"w": 29
+									},
+									{
+										"x": 344,
+										"y": 164,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 79,
+										"y": 145,
+										"h": 76,
+										"w": 76
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 786,
+										"y": 478,
+										"h": 88,
+										"w": 88
+									},
+									{
+										"x": 1038,
+										"y": 494,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 238,
+										"y": 438,
+										"h": 230,
+										"w": 230
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1222249415005462500,
+						"id_str": "1222249415005462528",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/EPZNXgBUYAAJca7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPZNXgBUYAAJca7.jpg",
+						"url": "https://t.co/wBUWjAnK0f",
+						"display_url": "pic.twitter.com/wBUWjAnK0f",
+						"expanded_url": "https://twitter.com/M_Zamora_Photo/status/1222249444252381184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1638,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "16369269",
+										"screen_name": "mridleythomas",
+										"name": "Mark Ridley-Thomas"
+									},
+									{
+										"type": "user",
+										"user_id": "1327401170",
+										"screen_name": "SheilaKuehl",
+										"name": "Sheila Kuehl"
+									},
+									{
+										"type": "user",
+										"user_id": "339852137",
+										"screen_name": "SupJaniceHahn",
+										"name": "Janice Hahn"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 786,
+										"y": 478,
+										"h": 88,
+										"w": 88
+									},
+									{
+										"x": 1038,
+										"y": 494,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 238,
+										"y": 438,
+										"h": 230,
+										"w": 230
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 460,
+										"y": 280,
+										"h": 51,
+										"w": 51
+									},
+									{
+										"x": 608,
+										"y": 289,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 139,
+										"y": 256,
+										"h": 134,
+										"w": 134
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 260,
+										"y": 158,
+										"h": 29,
+										"w": 29
+									},
+									{
+										"x": 344,
+										"y": 164,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 79,
+										"y": 145,
+										"h": 76,
+										"w": 76
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 786,
+										"y": 478,
+										"h": 88,
+										"w": 88
+									},
+									{
+										"x": 1038,
+										"y": 494,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 238,
+										"y": 438,
+										"h": 230,
+										"w": 230
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1222249415009685500,
+						"id_str": "1222249415009685504",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/EPZNXgCU0AAUNtT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPZNXgCU0AAUNtT.jpg",
+						"url": "https://t.co/wBUWjAnK0f",
+						"display_url": "pic.twitter.com/wBUWjAnK0f",
+						"expanded_url": "https://twitter.com/M_Zamora_Photo/status/1222249444252381184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1638,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 960,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "16369269",
+										"screen_name": "mridleythomas",
+										"name": "Mark Ridley-Thomas"
+									},
+									{
+										"type": "user",
+										"user_id": "1327401170",
+										"screen_name": "SheilaKuehl",
+										"name": "Sheila Kuehl"
+									},
+									{
+										"type": "user",
+										"user_id": "339852137",
+										"screen_name": "SupJaniceHahn",
+										"name": "Janice Hahn"
+									}
+								]
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1222249415001247700,
+						"id_str": "1222249415001247744",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/EPZNXgAUEAAQ51I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPZNXgAUEAAQ51I.jpg",
+						"url": "https://t.co/wBUWjAnK0f",
+						"display_url": "pic.twitter.com/wBUWjAnK0f",
+						"expanded_url": "https://twitter.com/M_Zamora_Photo/status/1222249444252381184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1638,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 960,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "16369269",
+										"screen_name": "mridleythomas",
+										"name": "Mark Ridley-Thomas"
+									},
+									{
+										"type": "user",
+										"user_id": "1327401170",
+										"screen_name": "SheilaKuehl",
+										"name": "Sheila Kuehl"
+									},
+									{
+										"type": "user",
+										"user_id": "339852137",
+										"screen_name": "SupJaniceHahn",
+										"name": "Janice Hahn"
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 658,
+										"y": 1380,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 572,
+										"y": 552,
+										"h": 214,
+										"w": 214
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 218,
+										"y": 458,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 189,
+										"y": 183,
+										"h": 71,
+										"w": 71
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 658,
+										"y": 1380,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 572,
+										"y": 552,
+										"h": 214,
+										"w": 214
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 385,
+										"y": 808,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 335,
+										"y": 323,
+										"h": 125,
+										"w": 125
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1222249415009693700,
+						"id_str": "1222249415009693696",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/EPZNXgCU8AAdMze.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPZNXgCU8AAdMze.jpg",
+						"url": "https://t.co/wBUWjAnK0f",
+						"display_url": "pic.twitter.com/wBUWjAnK0f",
+						"expanded_url": "https://twitter.com/M_Zamora_Photo/status/1222249444252381184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1638,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "16369269",
+										"screen_name": "mridleythomas",
+										"name": "Mark Ridley-Thomas"
+									},
+									{
+										"type": "user",
+										"user_id": "1327401170",
+										"screen_name": "SheilaKuehl",
+										"name": "Sheila Kuehl"
+									},
+									{
+										"type": "user",
+										"user_id": "339852137",
+										"screen_name": "SupJaniceHahn",
+										"name": "Janice Hahn"
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1520,
+										"y": 254,
+										"h": 104,
+										"w": 104
+									},
+									{
+										"x": 1920,
+										"y": 224,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 472,
+										"y": 372,
+										"h": 108,
+										"w": 108
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 890,
+										"y": 148,
+										"h": 60,
+										"w": 60
+									},
+									{
+										"x": 1125,
+										"y": 131,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 276,
+										"y": 217,
+										"h": 63,
+										"w": 63
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1520,
+										"y": 254,
+										"h": 104,
+										"w": 104
+									},
+									{
+										"x": 1920,
+										"y": 224,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 472,
+										"y": 372,
+										"h": 108,
+										"w": 108
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 504,
+										"y": 84,
+										"h": 34,
+										"w": 34
+									},
+									{
+										"x": 637,
+										"y": 74,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 156,
+										"y": 123,
+										"h": 35,
+										"w": 35
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2366194117,
+				"id_str": "2366194117",
+				"name": "L.A. Photographer",
+				"screen_name": "M_Zamora_Photo",
+				"location": "Los Angeles, CA",
+				"description": "mzamora@bos.lacounty.gov Staff Photographer, 213-705-7696 Executive Office of Los Angeles County Board of Supervisors @LACountyBOS",
+				"url": "https://t.co/IldDyn9BVH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IldDyn9BVH",
+								"expanded_url": "http://bos.lacounty.gov",
+								"display_url": "bos.lacounty.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 526,
+				"friends_count": 188,
+				"listed_count": 3,
+				"created_at": "Fri Feb 28 22:50:26 +0000 2014",
+				"favourites_count": 843,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1219098473812787201/Q5XK57xg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219098473812787201/Q5XK57xg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2366194117/1450586334",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9f60dcb484001",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9f60dcb484001.json",
+				"place_type": "poi",
+				"name": "Los Angeles County, Board Of Supervisors",
+				"full_name": "Los Angeles County, Board Of Supervisors",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.24610451716005,
+								34.05757744717071
+							],
+							[
+								-118.24610451716005,
+								34.05757744717071
+							],
+							[
+								-118.24610451716005,
+								34.05757744717071
+							],
+							[
+								-118.24610451716005,
+								34.05757744717071
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wishing everyone a healthy and prosperous #YearoftheRat https://t.co/9PwBo1eKsg"
+	},
+	{
 		"created_at": "Tue Jan 28 15:18:44 +0000 2020",
 		"id": 1222177191493959700,
 		"id_str": "1222177191493959680",
