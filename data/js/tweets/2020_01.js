@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 04:51:47 +0000 2020",
+		"id": 1222019417103487000,
+		"id_str": "1222019417103486977",
+		"full_text": "I wondered what they were up to as I walked past them in the parking lot tonight. Thought they were admiring the sunset -- or finally centering that sign! https://t.co/BTlioHPZ3U https://t.co/QmnuwBCEYf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BTlioHPZ3U",
+					"expanded_url": "https://www.youtube.com/watch?v=uFW0bYzGKWs",
+					"display_url": "youtube.com/watch?v=uFW0bY…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222019409658564600,
+					"id_str": "1222019409658564611",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EPV8LbVU0AM6IuH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPV8LbVU0AM6IuH.jpg",
+					"url": "https://t.co/QmnuwBCEYf",
+					"display_url": "pic.twitter.com/QmnuwBCEYf",
+					"expanded_url": "https://twitter.com/stiles/status/1222019417103486977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 851,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1818,
+							"h": 1290,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 615,
+									"y": 81,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 933,
+									"y": 124,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 46,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 933,
+									"y": 124,
+									"h": 122,
+									"w": 122
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222019409658564600,
+					"id_str": "1222019409658564611",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EPV8LbVU0AM6IuH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPV8LbVU0AM6IuH.jpg",
+					"url": "https://t.co/QmnuwBCEYf",
+					"display_url": "pic.twitter.com/QmnuwBCEYf",
+					"expanded_url": "https://twitter.com/stiles/status/1222019417103486977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 851,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1818,
+							"h": 1290,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 615,
+									"y": 81,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 933,
+									"y": 124,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 46,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 933,
+									"y": 124,
+									"h": 122,
+									"w": 122
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11235,
+			"friends_count": 1903,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wondered what they were up to as I walked past them in the parking lot tonight. Thought they were admiring the sunset -- or finally centering that sign! https://t.co/BTlioHPZ3U https://t.co/QmnuwBCEYf"
+	},
+	{
 		"created_at": "Tue Jan 28 03:54:00 +0000 2020",
 		"id": 1222004875266941000,
 		"id_str": "1222004875266940929",
