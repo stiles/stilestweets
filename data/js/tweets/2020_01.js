@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 03:54:00 +0000 2020",
+		"id": 1222004875266941000,
+		"id_str": "1222004875266940929",
+		"full_text": "This description by @hamiltonnolan of the @washingtonpost's successful strategy is spot on: \"Since Jeff Bezos bought the Post in 2013, it has carried on with its traditional reporting while adding a fearsome clickbait machine.\" https://t.co/3rKKZBH8c9 https://t.co/4FsT9wbSbu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hamiltonnolan",
+					"name": "Hamilton Nolan",
+					"id": 123545062,
+					"id_str": "123545062",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						42,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3rKKZBH8c9",
+					"expanded_url": "https://www.cjr.org/public_editor/washington-post-fluff-news.php",
+					"display_url": "cjr.org/public_editor/…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222004871513006000,
+					"id_str": "1222004871513006081",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EPVu9MhUYAE1AEA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPVu9MhUYAE1AEA.jpg",
+					"url": "https://t.co/4FsT9wbSbu",
+					"display_url": "pic.twitter.com/4FsT9wbSbu",
+					"expanded_url": "https://twitter.com/stiles/status/1222004875266940929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222004871513006000,
+					"id_str": "1222004871513006081",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EPVu9MhUYAE1AEA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPVu9MhUYAE1AEA.jpg",
+					"url": "https://t.co/4FsT9wbSbu",
+					"display_url": "pic.twitter.com/4FsT9wbSbu",
+					"expanded_url": "https://twitter.com/stiles/status/1222004875266940929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11235,
+			"friends_count": 1903,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This description by @hamiltonnolan of the @washingtonpost's successful strategy is spot on: \"Since Jeff Bezos bought the Post in 2013, it has carried on with its traditional reporting while adding a fearsome clickbait machine.\" https://t.co/3rKKZBH8c9 https://t.co/4FsT9wbSbu"
+	},
+	{
 		"created_at": "Tue Jan 28 02:36:12 +0000 2020",
 		"id": 1221977043211964400,
 		"id_str": "1221985294913654784",
