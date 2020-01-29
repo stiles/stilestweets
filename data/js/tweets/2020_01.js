@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 23:41:28 +0000 2020",
+		"id": 1222303710350475300,
+		"id_str": "1222303710350475270",
+		"full_text": "cc @LATBermudez https://t.co/RKHJ2tnYrx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LATBermudez",
+					"name": "Esmeralda Bermudez",
+					"id": 378749192,
+					"id_str": "378749192",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RKHJ2tnYrx",
+					"expanded_url": "https://twitter.com/BlueWillowBooks/status/1222282518038220800",
+					"display_url": "twitter.com/BlueWillowBook…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11242,
+			"friends_count": 1904,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222282518038220800,
+		"quoted_status_id_str": "1222282518038220800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RKHJ2tnYrx",
+			"expanded": "https://twitter.com/BlueWillowBooks/status/1222282518038220800",
+			"display": "twitter.com/BlueWillowBook…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 28 22:17:15 +0000 2020",
+			"id": 1222282518038220800,
+			"id_str": "1222282518038220800",
+			"full_text": "Dear neighbors,\n\nAfter much consideration and discussion with the book’s publisher, our event with Jeanine Cummins has been cancelled.\n\nIt was our hope to have a meaningful conversation about the book and the crisis on the US-Mexico border, which affects our city deeply.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 197256285,
+				"id_str": "197256285",
+				"name": "Blue Willow Bookshop",
+				"screen_name": "BlueWillowBooks",
+				"location": "Houston, TX",
+				"description": "West Houston's favorite bookshop. Can we say that? Opinionated service and fantastic author events since 1996.",
+				"url": "https://t.co/kgZZuovXaz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kgZZuovXaz",
+								"expanded_url": "http://www.bluewillowbookshop.com",
+								"display_url": "bluewillowbookshop.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5690,
+				"friends_count": 771,
+				"listed_count": 177,
+				"created_at": "Fri Oct 01 01:09:53 +0000 2010",
+				"favourites_count": 6712,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15870,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875827397202857984/tFjLxOME_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875827397202857984/tFjLxOME_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197256285/1558804277",
+				"profile_link_color": "4455A6",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc @LATBermudez https://t.co/RKHJ2tnYrx"
+	},
+	{
 		"created_at": "Tue Jan 28 21:38:15 +0000 2020",
 		"id": 1222272703488348200,
 		"id_str": "1222272703488348160",
