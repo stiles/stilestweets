@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 29 18:24:33 +0000 2020",
+		"id": 1222586128076812300,
+		"id_str": "1222586343512928256",
+		"full_text": "Fire officials initially reported that an unknown number of residents had jumped from the building to escape the flames. However, authorities later clarified that two people contemplated jumping, but were rescued https://t.co/QIFLZ25N38 @Hannahnfry @LukeMMoney @stiles",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hannahnfry",
+					"name": "Hannah Fry",
+					"id": 1727077808,
+					"id_str": "1727077808",
+					"indices": [
+						237,
+						248
+					]
+				},
+				{
+					"screen_name": "LukeMMoney",
+					"name": "Luke Money",
+					"id": 193595507,
+					"id_str": "193595507",
+					"indices": [
+						249,
+						260
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						261,
+						268
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QIFLZ25N38",
+					"expanded_url": "https://www.latimes.com/california/story/2020-01-29/residents-leap-from-los-angeles-high-rise-after-fire-breaks-out-on-6th-floor-fire-officials-say",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 714617040,
+			"id_str": "714617040",
+			"name": "David Zahniser 🦅",
+			"screen_name": "DavidZahniser",
+			"location": "Los Angeles, CA",
+			"description": "L.A. Times reporter covering City Hall, local government and other L.A.-related things. Ex-L.A. Weekly, Ex-Daily Breeze, ex cetera",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6304,
+			"friends_count": 994,
+			"listed_count": 231,
+			"created_at": "Tue Jul 24 17:11:43 +0000 2012",
+			"favourites_count": 1675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173331680154677248/nNxgQNAv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173331680154677248/nNxgQNAv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714617040/1568580819",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fire officials initially reported that an unknown number of residents had jumped from the building to escape the flames. However, authorities later clarified that two people contemplated jumping, but were rescued https://t.co/QIFLZ25N38 @Hannahnfry @LukeMMoney @stiles"
+	},
+	{
 		"created_at": "Wed Jan 29 15:01:16 +0000 2020",
 		"id": 1222535185184350200,
 		"id_str": "1222535185184350208",
