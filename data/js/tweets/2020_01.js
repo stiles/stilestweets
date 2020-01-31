@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 02:05:18 +0000 2020",
+		"id": 1223064684531601400,
+		"id_str": "1223064684531601408",
+		"full_text": "Opinion: L.A. politicians killed SB 50. So what’s their plan to fix the housing crisis? They don’t have one https://t.co/mG5RHj8JP0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mG5RHj8JP0",
+					"expanded_url": "https://www.latimes.com/opinion/story/2020-01-30/opinion-l-a-politicians-killed-sb-50-so-whats-their-plan-to-fix-the-housing-crisis-they-dont-have-one",
+					"display_url": "latimes.com/opinion/story/…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11246,
+			"friends_count": 1903,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Opinion: L.A. politicians killed SB 50. So what’s their plan to fix the housing crisis? They don’t have one https://t.co/mG5RHj8JP0"
+	},
+	{
 		"created_at": "Thu Jan 30 23:39:16 +0000 2020",
 		"id": 1223020474730307600,
 		"id_str": "1223027932655833089",
@@ -49,7 +157,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "Laura J. Nelson 🦅",
 			"screen_name": "laura_nelson",
 			"location": "Los Angeles, CA",
-			"description": "@latimes transportation reporter. I cover 🚙, 🚌, 🚇, 🚕, 🚥, 🚲, 🚶🏽‍♀️, 🛴, etc. Proud @latguild organizer. USC alum. Kansan. Tips? laura.nelson@latimes.com",
+			"description": "@latimes transportation reporter. I cover 🚙, 🚌, 🚇, 🚕, 🚥, 🚲, 🚶🏽♀️, 🛴, etc. Proud @latguild organizer. USC alum. Kansan. Tips? laura.nelson@latimes.com",
 			"url": "https://t.co/Owd4TbhzZA",
 			"entities": {
 				"url": {
