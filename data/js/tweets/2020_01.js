@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 23:39:16 +0000 2020",
+		"id": 1223020474730307600,
+		"id_str": "1223027932655833089",
+		"full_text": "Los Angeles may consider a major makeover on Hollywood Boulevard, including a \"road diet\" that would reduce space for cars and add wider sidewalks, outdoor dining areas and a protected bike lane. My story with @vegapriscella: https://t.co/4VOLYVHrma",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vegapriscella",
+					"name": "Priscella Vega",
+					"id": 235819208,
+					"id_str": "235819208",
+					"indices": [
+						210,
+						224
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4VOLYVHrma",
+					"expanded_url": "https://www.latimes.com/california/story/2020-01-30/hollywood-boulevard-highland-vine-road-diet-traffic",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16538210,
+			"id_str": "16538210",
+			"name": "Laura J. Nelson 🦅",
+			"screen_name": "laura_nelson",
+			"location": "Los Angeles, CA",
+			"description": "@latimes transportation reporter. I cover 🚙, 🚌, 🚇, 🚕, 🚥, 🚲, 🚶🏽‍♀️, 🛴, etc. Proud @latguild organizer. USC alum. Kansan. Tips? laura.nelson@latimes.com",
+			"url": "https://t.co/Owd4TbhzZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Owd4TbhzZA",
+							"expanded_url": "https://www.latimes.com/people/laura-j-nelson",
+							"display_url": "latimes.com/people/laura-j…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27863,
+			"friends_count": 998,
+			"listed_count": 1018,
+			"created_at": "Wed Oct 01 01:20:51 +0000 2008",
+			"favourites_count": 47450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16538210/1568313391",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 118,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Los Angeles may consider a major makeover on Hollywood Boulevard, including a \"road diet\" that would reduce space for cars and add wider sidewalks, outdoor dining areas and a protected bike lane. My story with @vegapriscella: https://t.co/4VOLYVHrma"
+	},
+	{
 		"created_at": "Wed Jan 29 18:24:33 +0000 2020",
 		"id": 1222586128076812300,
 		"id_str": "1222586343512928256",
