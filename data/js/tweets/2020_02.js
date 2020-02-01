@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 01 02:42:57 +0000 2020",
+		"id": 1223425102714294300,
+		"id_str": "1223436544435843077",
+		"full_text": "I’m about to step on stage for the 2nd District Supervisor Candidate Forum to talk about my plans to combat critical issues facing our community, none more important than homelessness &amp; housing. For me, this fight is more than a policy question - it’s personal. Here’s my plan: https://t.co/v26x4aFrxZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223425098134089700,
+					"id_str": "1223425098134089728",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EPp6pQ-UcAAHPIp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPp6pQ-UcAAHPIp.jpg",
+					"url": "https://t.co/v26x4aFrxZ",
+					"display_url": "pic.twitter.com/v26x4aFrxZ",
+					"expanded_url": "https://twitter.com/HerbJWesson/status/1223425102714294272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "772802441716854784",
+									"screen_name": "EveryoneIn_LA",
+									"name": "Everyone In LA"
+								},
+								{
+									"type": "user",
+									"user_id": "148809273",
+									"screen_name": "LAUnitedWay",
+									"name": "United Way of L.A."
+								},
+								{
+									"type": "user",
+									"user_id": "547245873",
+									"screen_name": "ChronicleSC",
+									"name": "ChronicleSC"
+								},
+								{
+									"type": "user",
+									"user_id": "774497418",
+									"screen_name": "Socalgrantmaker",
+									"name": "SoCalGrantmakers"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223425098134089700,
+					"id_str": "1223425098134089728",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EPp6pQ-UcAAHPIp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPp6pQ-UcAAHPIp.jpg",
+					"url": "https://t.co/v26x4aFrxZ",
+					"display_url": "pic.twitter.com/v26x4aFrxZ",
+					"expanded_url": "https://twitter.com/HerbJWesson/status/1223425102714294272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "772802441716854784",
+									"screen_name": "EveryoneIn_LA",
+									"name": "Everyone In LA"
+								},
+								{
+									"type": "user",
+									"user_id": "148809273",
+									"screen_name": "LAUnitedWay",
+									"name": "United Way of L.A."
+								},
+								{
+									"type": "user",
+									"user_id": "547245873",
+									"screen_name": "ChronicleSC",
+									"name": "ChronicleSC"
+								},
+								{
+									"type": "user",
+									"user_id": "774497418",
+									"screen_name": "Socalgrantmaker",
+									"name": "SoCalGrantmakers"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1921537580,
+			"id_str": "1921537580",
+			"name": "Herb J. Wesson, Jr.",
+			"screen_name": "HerbJWesson",
+			"location": "Los Angeles, CA",
+			"description": "1st African American President of the Los Angeles City Council. #CD10 Councilman. Proud dad & grandpa. This account is personal. https://t.co/4wAmq5f2m7",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4wAmq5f2m7",
+							"expanded_url": "http://Instagram.com/herbjwesson",
+							"display_url": "Instagram.com/herbjwesson",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10762,
+			"friends_count": 2059,
+			"listed_count": 161,
+			"created_at": "Mon Sep 30 22:49:24 +0000 2013",
+			"favourites_count": 2235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/625755814830080001/dptu2Y9R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/625755814830080001/dptu2Y9R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1921537580/1496337263",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m about to step on stage for the 2nd District Supervisor Candidate Forum to talk about my plans to combat critical issues facing our community, none more important than homelessness &amp; housing. For me, this fight is more than a policy question - it’s personal. Here’s my plan: https://t.co/v26x4aFrxZ"
+	},
+	{
+		"created_at": "Sat Feb 01 02:41:34 +0000 2020",
+		"id": 1223434581795319800,
+		"id_str": "1223436199215489024",
+		"full_text": "“The Party told you to reject all evidence of your eyes and ears. It was their final, most essential command.” \n\n- Orwell, “1984.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20742461,
+			"id_str": "20742461",
+			"name": "Tim O'Brien",
+			"screen_name": "TimOBrien",
+			"location": "New York",
+			"description": "Senior Adviser to @MikeBloomberg’s 2020 presidential campaign: https://t.co/1FHAATQ065. Follow: @Mike2020",
+			"url": "https://t.co/wcMBjPh6tu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wcMBjPh6tu",
+							"expanded_url": "https://timothylobrien.com/",
+							"display_url": "timothylobrien.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1FHAATQ065",
+							"expanded_url": "http://www.mikebloomberg.com",
+							"display_url": "mikebloomberg.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139965,
+			"friends_count": 1166,
+			"listed_count": 3656,
+			"created_at": "Fri Feb 13 02:45:33 +0000 2009",
+			"favourites_count": 1810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "303314",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872199156399460352/3jSVbu08_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872199156399460352/3jSVbu08_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20742461/1565443702",
+			"profile_link_color": "B24436",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CBA993",
+			"profile_text_color": "4B1218",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 523,
+		"favorite_count": 1152,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“The Party told you to reject all evidence of your eyes and ears. It was their final, most essential command.” \n\n- Orwell, “1984.”"
+	},
+	{
 		"created_at": "Sat Feb 01 00:25:23 +0000 2020",
 		"id": 1223327354342142000,
 		"id_str": "1223401926315757569",
