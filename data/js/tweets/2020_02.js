@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 01 07:36:41 +0000 2020",
+		"id": 1223443179032072200,
+		"id_str": "1223510466611146753",
+		"full_text": "Wonderful detailed reporting and graphics by Matt Stiles, @swetha_kan , @caseymmiller , @andyroberson22 and spearheaded by Ben Welsh. Late kudos to y'all! The final moments of Kobe Bryant’s fatal flight, turn by turn https://t.co/X0vnkZldoH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "swetha_kan",
+					"name": "Swetha Kannan",
+					"id": 857276747376611300,
+					"id_str": "857276747376611328",
+					"indices": [
+						58,
+						69
+					]
+				},
+				{
+					"screen_name": "caseymmiller",
+					"name": "Casey Miller",
+					"id": 53286916,
+					"id_str": "53286916",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"screen_name": "andyroberson22",
+					"name": "Andy Roberson",
+					"id": 3062229560,
+					"id_str": "3062229560",
+					"indices": [
+						88,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X0vnkZldoH",
+					"expanded_url": "https://www.latimes.com/projects/kobe-bryant-helicopter-crash-3d-map/",
+					"display_url": "latimes.com/projects/kobe-…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2342339706,
+			"id_str": "2342339706",
+			"name": "Lorena Elebee",
+			"screen_name": "LoElebee",
+			"location": "Los Angeles, CA",
+			"description": "Los Angeles Times Data Visualization Journalist",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 541,
+			"friends_count": 109,
+			"listed_count": 50,
+			"created_at": "Thu Feb 13 17:43:34 +0000 2014",
+			"favourites_count": 197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/461362504266833921/PqlTR8Yu_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/461362504266833921/PqlTR8Yu_normal.jpeg",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wonderful detailed reporting and graphics by Matt Stiles, @swetha_kan , @caseymmiller , @andyroberson22 and spearheaded by Ben Welsh. Late kudos to y'all! The final moments of Kobe Bryant’s fatal flight, turn by turn https://t.co/X0vnkZldoH"
+	},
+	{
 		"created_at": "Sat Feb 01 05:39:17 +0000 2020",
 		"id": 1223471795061346300,
 		"id_str": "1223480919463354369",
