@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 01 05:39:17 +0000 2020",
+		"id": 1223471795061346300,
+		"id_str": "1223480919463354369",
+		"full_text": "The last moments of Kobe Bryant’s flight raise perplexing questions on the cause of the crash, via @stiles for @latimes: https://t.co/ydmSVH4O3W https://t.co/qlxuMsqNdE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ydmSVH4O3W",
+					"expanded_url": "https://apple.co/31e5oEU",
+					"display_url": "apple.co/31e5oEU",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1223471792754430000,
+					"id_str": "1223471792754429953",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqlHP_WkAEJkk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqlHP_WkAEJkk_.jpg",
+					"url": "https://t.co/qlxuMsqNdE",
+					"display_url": "pic.twitter.com/qlxuMsqNdE",
+					"expanded_url": "https://twitter.com/AppleNews/status/1223471795061346305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223471792754430000,
+					"id_str": "1223471792754429953",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EPqlHP_WkAEJkk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPqlHP_WkAEJkk_.jpg",
+					"url": "https://t.co/qlxuMsqNdE",
+					"display_url": "pic.twitter.com/qlxuMsqNdE",
+					"expanded_url": "https://twitter.com/AppleNews/status/1223471795061346305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3257608936,
+			"id_str": "3257608936",
+			"name": "Apple News",
+			"screen_name": "AppleNews",
+			"location": "Cupertino, CA",
+			"description": "The world of news and magazines, in your hand. Stories selected by our U.S. editors.",
+			"url": "https://t.co/ApJxvTJyXK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ApJxvTJyXK",
+							"expanded_url": "http://apple.co/News",
+							"display_url": "apple.co/News",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275980,
+			"friends_count": 404,
+			"listed_count": 2078,
+			"created_at": "Fri May 15 18:27:31 +0000 2015",
+			"favourites_count": 278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110228024954245120/OTdcTC9Y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110228024954245120/OTdcTC9Y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3257608936/1553533987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The last moments of Kobe Bryant’s flight raise perplexing questions on the cause of the crash, via @stiles for @latimes: https://t.co/ydmSVH4O3W https://t.co/qlxuMsqNdE"
+	},
+	{
 		"created_at": "Sat Feb 01 02:42:57 +0000 2020",
 		"id": 1223425102714294300,
 		"id_str": "1223436544435843077",
