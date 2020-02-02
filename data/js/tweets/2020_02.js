@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 01 23:36:01 +0000 2020",
+		"id": 1223640866868297700,
+		"id_str": "1223751891051397120",
+		"full_text": "@nytmike @coachVMarino Coach V, please do some research and get educated. Maybe go to the library @BrownUniversity? I hear they are a great education institution.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytmike",
+					"name": "Michael S. Schmidt",
+					"id": 17436250,
+					"id_str": "17436250",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "coachVMarino",
+					"name": "Vinny Marino",
+					"id": 1465632199,
+					"id_str": "1465632199",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "BrownUniversity",
+					"name": "Brown University",
+					"id": 14884486,
+					"id_str": "14884486",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1223639207224258600,
+		"in_reply_to_status_id_str": "1223639207224258560",
+		"in_reply_to_user_id": 17436250,
+		"in_reply_to_user_id_str": "17436250",
+		"in_reply_to_screen_name": "nytmike",
+		"user": {
+			"id": 1686814075,
+			"id_str": "1686814075",
+			"name": "Robin Smyers",
+			"screen_name": "RobinSmyers1",
+			"location": "Dallas, Texas",
+			"description": "I love the Dallas Cowboys, the NHL, traveling, and volunteering. My opinions are solely mine. Believe #WhenWeAllVote, we matter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 885,
+			"listed_count": 18,
+			"created_at": "Tue Aug 20 21:53:50 +0000 2013",
+			"favourites_count": 10162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856572038353272833/8TG7n76P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856572038353272833/8TG7n76P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1686814075/1569966525",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 300,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@nytmike @coachVMarino Coach V, please do some research and get educated. Maybe go to the library @BrownUniversity? I hear they are a great education institution."
+	},
+	{
+		"created_at": "Sat Feb 01 23:35:15 +0000 2020",
+		"id": 1223645730214154200,
+		"id_str": "1223751696209154048",
+		"full_text": "@nytmike @coachVMarino Hey @BrownHCPerry and @JackHayesAD, this is one of your coaches. Embarrassing.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytmike",
+					"name": "Michael S. Schmidt",
+					"id": 17436250,
+					"id_str": "17436250",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "coachVMarino",
+					"name": "Vinny Marino",
+					"id": 1465632199,
+					"id_str": "1465632199",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "BrownHCPerry",
+					"name": "James Perry '00",
+					"id": 1071112306556325900,
+					"id_str": "1071112306556325888",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "JackHayesAD",
+					"name": "Jack Hayes",
+					"id": 3367841643,
+					"id_str": "3367841643",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1223639207224258600,
+		"in_reply_to_status_id_str": "1223639207224258560",
+		"in_reply_to_user_id": 17436250,
+		"in_reply_to_user_id_str": "17436250",
+		"in_reply_to_screen_name": "nytmike",
+		"user": {
+			"id": 26076407,
+			"id_str": "26076407",
+			"name": "Kiki",
+			"screen_name": "SJUA08",
+			"location": "Florida and Puerto Rico U.S.A.",
+			"description": "Blocked by former Puerto Rico governor Anibal Acevedo Vilá and Archbishop Roberto González Nieves, two evil persons.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1659,
+			"friends_count": 1611,
+			"listed_count": 30,
+			"created_at": "Mon Mar 23 19:59:21 +0000 2009",
+			"favourites_count": 33272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214738493735391233/UbVBdJGj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214738493735391233/UbVBdJGj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26076407/1578321018",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 477,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@nytmike @coachVMarino Hey @BrownHCPerry and @JackHayesAD, this is one of your coaches. Embarrassing."
+	},
+	{
 		"created_at": "Sat Feb 01 07:36:41 +0000 2020",
 		"id": 1223443179032072200,
 		"id_str": "1223510466611146753",
