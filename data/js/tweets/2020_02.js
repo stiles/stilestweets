@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 00:32:31 +0000 2020",
+		"id": 1223766110131982300,
+		"id_str": "1223766110131982336",
+		"full_text": "ICYMI: The last moments of Kobe Bryant’s flight raise perplexing questions on the cause of the crash. A team effort with @swetha_kan, @caseymmiller, @andyroberson22, @palewire et al. \n\nStory: https://t.co/deZBXRBDO4 \n\nFlight maps: https://t.co/w1Dco5ZshY https://t.co/taSBGkURiQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "swetha_kan",
+					"name": "Swetha Kannan",
+					"id": 857276747376611300,
+					"id_str": "857276747376611328",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"screen_name": "caseymmiller",
+					"name": "Casey Miller",
+					"id": 53286916,
+					"id_str": "53286916",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"screen_name": "andyroberson22",
+					"name": "Andy Roberson",
+					"id": 3062229560,
+					"id_str": "3062229560",
+					"indices": [
+						149,
+						164
+					]
+				},
+				{
+					"screen_name": "palewire",
+					"name": "Ben Welsh",
+					"id": 14559196,
+					"id_str": "14559196",
+					"indices": [
+						166,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/deZBXRBDO4",
+					"expanded_url": "https://www.latimes.com/california/story/2020-01-31/the-last-moments-of-kobe-bryants-flight-raise-perplexing-questions-on-cause-of-crash",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						192,
+						215
+					]
+				},
+				{
+					"url": "https://t.co/w1Dco5ZshY",
+					"expanded_url": "https://www.latimes.com/projects/kobe-bryant-helicopter-crash-3d-map/",
+					"display_url": "latimes.com/projects/kobe-…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1223766095439360000,
+					"id_str": "1223766095439360000",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EPuwx67UcAA8aID.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPuwx67UcAA8aID.jpg",
+					"url": "https://t.co/taSBGkURiQ",
+					"display_url": "pic.twitter.com/taSBGkURiQ",
+					"expanded_url": "https://twitter.com/stiles/status/1223766110131982336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1370,
+							"h": 968,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223766095439360000,
+					"id_str": "1223766095439360000",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EPuwx67UcAA8aID.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPuwx67UcAA8aID.jpg",
+					"url": "https://t.co/taSBGkURiQ",
+					"display_url": "pic.twitter.com/taSBGkURiQ",
+					"expanded_url": "https://twitter.com/stiles/status/1223766110131982336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1370,
+							"h": 968,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11245,
+			"friends_count": 1907,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ICYMI: The last moments of Kobe Bryant’s flight raise perplexing questions on the cause of the crash. A team effort with @swetha_kan, @caseymmiller, @andyroberson22, @palewire et al. \n\nStory: https://t.co/deZBXRBDO4 \n\nFlight maps: https://t.co/w1Dco5ZshY https://t.co/taSBGkURiQ"
+	},
+	{
+		"created_at": "Sun Feb 02 00:28:49 +0000 2020",
+		"id": 1223765176219922400,
+		"id_str": "1223765176219922437",
+		"full_text": "First no impeachment witnesses and now this.\n\nYou're too much, 'Merica. https://t.co/8RUAvTQ62c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8RUAvTQ62c",
+					"expanded_url": "https://twitter.com/LisaFranceCNN/status/1223636619586166784",
+					"display_url": "twitter.com/LisaFranceCNN/…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11245,
+			"friends_count": 1907,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223636619586166800,
+		"quoted_status_id_str": "1223636619586166784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8RUAvTQ62c",
+			"expanded": "https://twitter.com/LisaFranceCNN/status/1223636619586166784",
+			"display": "twitter.com/LisaFranceCNN/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 01 15:57:58 +0000 2020",
+			"id": 1223636619586166800,
+			"id_str": "1223636619586166784",
+			"full_text": "What are you doing #America ?!? https://t.co/HVVjvpApXw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "America",
+						"indices": [
+							19,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1223636614406078500,
+						"id_str": "1223636614406078464",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EPs7BIfWAAArLP2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPs7BIfWAAArLP2.jpg",
+						"url": "https://t.co/HVVjvpApXw",
+						"display_url": "pic.twitter.com/HVVjvpApXw",
+						"expanded_url": "https://twitter.com/LisaFranceCNN/status/1223636619586166784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 514,
+										"y": 926,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1510,
+										"y": 592,
+										"h": 208,
+										"w": 208
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 170,
+										"y": 307,
+										"h": 32,
+										"w": 32
+									},
+									{
+										"x": 501,
+										"y": 196,
+										"h": 69,
+										"w": 69
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 301,
+										"y": 542,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 884,
+										"y": 346,
+										"h": 121,
+										"w": 121
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 514,
+										"y": 926,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1510,
+										"y": 592,
+										"h": 208,
+										"w": 208
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1223636614406078500,
+						"id_str": "1223636614406078464",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EPs7BIfWAAArLP2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPs7BIfWAAArLP2.jpg",
+						"url": "https://t.co/HVVjvpApXw",
+						"display_url": "pic.twitter.com/HVVjvpApXw",
+						"expanded_url": "https://twitter.com/LisaFranceCNN/status/1223636619586166784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 514,
+										"y": 926,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1510,
+										"y": 592,
+										"h": 208,
+										"w": 208
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 170,
+										"y": 307,
+										"h": 32,
+										"w": 32
+									},
+									{
+										"x": 501,
+										"y": 196,
+										"h": 69,
+										"w": 69
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 301,
+										"y": 542,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 884,
+										"y": 346,
+										"h": 121,
+										"w": 121
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 514,
+										"y": 926,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1510,
+										"y": 592,
+										"h": 208,
+										"w": 208
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52752875,
+				"id_str": "52752875",
+				"name": "Lisa Respers France",
+				"screen_name": "LisaFranceCNN",
+				"location": "Inside my head",
+				"description": "Senior writer for CNN's Entertainment team. Passionate about too many things. Only Judy can judge me. RTs are not endorsements",
+				"url": "https://t.co/IaghNWqyKC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IaghNWqyKC",
+								"expanded_url": "http://www.cnn.com",
+								"display_url": "cnn.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12942,
+				"friends_count": 1645,
+				"listed_count": 303,
+				"created_at": "Wed Jul 01 15:19:53 +0000 2009",
+				"favourites_count": 6277,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45794,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "323232",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1168950253099397121/8TioKdsR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168950253099397121/8TioKdsR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52752875/1386131344",
+				"profile_link_color": "004187",
+				"profile_sidebar_border_color": "DADADA",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First no impeachment witnesses and now this.\n\nYou're too much, 'Merica. https://t.co/8RUAvTQ62c"
+	},
+	{
 		"created_at": "Sat Feb 01 23:36:01 +0000 2020",
 		"id": 1223640866868297700,
 		"id_str": "1223751891051397120",
