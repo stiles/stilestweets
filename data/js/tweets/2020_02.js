@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 19:20:42 +0000 2020",
+		"id": 1224412413115519000,
+		"id_str": "1224412413115518977",
+		"full_text": "One of a handful of plates used to print the recent @latimes special section on #KobeBryant. https://t.co/jWCv4CPzc8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KobeBryant",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						52,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224412401707077600,
+					"id_str": "1224412401707077632",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EP38l5ZVUAANt9J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP38l5ZVUAANt9J.jpg",
+					"url": "https://t.co/jWCv4CPzc8",
+					"display_url": "pic.twitter.com/jWCv4CPzc8",
+					"expanded_url": "https://twitter.com/stiles/status/1224412413115518977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 264,
+									"y": 254,
+									"h": 360,
+									"w": 360
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 150,
+									"y": 144,
+									"h": 204,
+									"w": 204
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 452,
+									"y": 434,
+									"h": 616,
+									"w": 616
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 452,
+									"y": 434,
+									"h": 616,
+									"w": 616
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224412401707077600,
+					"id_str": "1224412401707077632",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EP38l5ZVUAANt9J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP38l5ZVUAANt9J.jpg",
+					"url": "https://t.co/jWCv4CPzc8",
+					"display_url": "pic.twitter.com/jWCv4CPzc8",
+					"expanded_url": "https://twitter.com/stiles/status/1224412413115518977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 264,
+									"y": 254,
+									"h": 360,
+									"w": 360
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 150,
+									"y": 144,
+									"h": 204,
+									"w": 204
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 452,
+									"y": 434,
+									"h": 616,
+									"w": 616
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 452,
+									"y": 434,
+									"h": 616,
+									"w": 616
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11242,
+			"friends_count": 1907,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of a handful of plates used to print the recent @latimes special section on #KobeBryant. https://t.co/jWCv4CPzc8"
+	},
+	{
 		"created_at": "Sun Feb 02 18:22:44 +0000 2020",
 		"id": 1224035437288673300,
 		"id_str": "1224035437288673280",
