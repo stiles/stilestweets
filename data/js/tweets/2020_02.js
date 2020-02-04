@@ -1,6 +1,717 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 21:11:22 +0000 2020",
+		"id": 1224802652422193200,
+		"id_str": "1224802652422193153",
+		"full_text": "Here's the statement from Shadow Inc, which built the Iowa Democrats' mobile app: https://t.co/XNbwVUSzxz https://t.co/Fm4RMgvUhQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XNbwVUSzxz",
+					"expanded_url": "https://shadowinc.io",
+					"display_url": "shadowinc.io",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224802650002083800,
+					"id_str": "1224802650002083840",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EP9fhVlU0AASYkI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EP9fhVlU0AASYkI.png",
+					"url": "https://t.co/Fm4RMgvUhQ",
+					"display_url": "pic.twitter.com/Fm4RMgvUhQ",
+					"expanded_url": "https://twitter.com/stiles/status/1224802652422193153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 735,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 735,
+							"h": 498,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 170,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 170,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 21,
+									"y": 157,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 170,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224802650002083800,
+					"id_str": "1224802650002083840",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EP9fhVlU0AASYkI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EP9fhVlU0AASYkI.png",
+					"url": "https://t.co/Fm4RMgvUhQ",
+					"display_url": "pic.twitter.com/Fm4RMgvUhQ",
+					"expanded_url": "https://twitter.com/stiles/status/1224802652422193153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 735,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 735,
+							"h": 498,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 170,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 170,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 21,
+									"y": 157,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 170,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11244,
+			"friends_count": 1908,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's the statement from Shadow Inc, which built the Iowa Democrats' mobile app: https://t.co/XNbwVUSzxz https://t.co/Fm4RMgvUhQ"
+	},
+	{
+		"created_at": "Tue Feb 04 21:06:17 +0000 2020",
+		"id": 1224801371985039400,
+		"id_str": "1224801371985039360",
+		"full_text": "Love this profile banner image used by @gjniemira, whose company, Shadow Inc., built the mobile tabulation app for Iowa Democrats. https://t.co/V2Pf6Zdipb https://t.co/3nAVTWbDxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gjniemira",
+					"name": "Gerard Niemira",
+					"id": 1370778396,
+					"id_str": "1370778396",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V2Pf6Zdipb",
+					"expanded_url": "https://shadowinc.io/",
+					"display_url": "shadowinc.io",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224801369946611700,
+					"id_str": "1224801369946611712",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EP9eW1AUYAAKZSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP9eW1AUYAAKZSF.jpg",
+					"url": "https://t.co/3nAVTWbDxX",
+					"display_url": "pic.twitter.com/3nAVTWbDxX",
+					"expanded_url": "https://twitter.com/stiles/status/1224801371985039360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224801369946611700,
+					"id_str": "1224801369946611712",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EP9eW1AUYAAKZSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP9eW1AUYAAKZSF.jpg",
+					"url": "https://t.co/3nAVTWbDxX",
+					"display_url": "pic.twitter.com/3nAVTWbDxX",
+					"expanded_url": "https://twitter.com/stiles/status/1224801371985039360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11244,
+			"friends_count": 1908,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this profile banner image used by @gjniemira, whose company, Shadow Inc., built the mobile tabulation app for Iowa Democrats. https://t.co/V2Pf6Zdipb https://t.co/3nAVTWbDxX"
+	},
+	{
+		"created_at": "Tue Feb 04 20:55:27 +0000 2020",
+		"id": 1224798644676595700,
+		"id_str": "1224798644676595712",
+		"full_text": "“It’s hard to look at Washington or look at Iowa and think that our national politics is working.” https://t.co/wTDComfiM0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wTDComfiM0",
+					"expanded_url": "https://www.nytimes.com/2020/02/04/us/politics/political-system-broken.html",
+					"display_url": "nytimes.com/2020/02/04/us/…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11244,
+			"friends_count": 1908,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“It’s hard to look at Washington or look at Iowa and think that our national politics is working.” https://t.co/wTDComfiM0"
+	},
+	{
+		"created_at": "Tue Feb 04 20:50:07 +0000 2020",
+		"id": 1224794996726882300,
+		"id_str": "1224797302000209921",
+		"full_text": "Woo, new D3 gallery! 🎉 See all the new examples on one page! https://t.co/ERmajJ6ZKj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ERmajJ6ZKj",
+					"expanded_url": "https://observablehq.com/@d3/gallery",
+					"display_url": "observablehq.com/@d3/gallery",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43593,
+			"id_str": "43593",
+			"name": "Mike Bostock",
+			"screen_name": "mbostock",
+			"location": "San Francisco, CA",
+			"description": "Building a better computational medium. Founder @observablehq. Creator @d3js_org. Former @nytgraphics. Pronounced BOSS-tock.",
+			"url": "https://t.co/QK6xnRCSUN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QK6xnRCSUN",
+							"expanded_url": "https://observablehq.com/@mbostock",
+							"display_url": "observablehq.com/@mbostock",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60719,
+			"friends_count": 2,
+			"listed_count": 2619,
+			"created_at": "Tue Dec 05 21:57:30 +0000 2006",
+			"favourites_count": 4493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883703183297490945/UP4f6j-b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883703183297490945/UP4f6j-b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43593/1449865705",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Woo, new D3 gallery! 🎉 See all the new examples on one page! https://t.co/ERmajJ6ZKj"
+	},
+	{
 		"created_at": "Tue Feb 04 16:59:21 +0000 2020",
 		"id": 1224739230305243100,
 		"id_str": "1224739230305243136",
