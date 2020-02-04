@@ -1,6 +1,569 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 07:07:55 +0000 2020",
+		"id": 1224590391711715300,
+		"id_str": "1224590391711715328",
+		"full_text": "@datagraphics And these... https://t.co/VKjMhnlN1s",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "datagraphics",
+					"name": "Los Angeles Times Data and Graphics",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224590373076340700,
+					"id_str": "1224590373076340737",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6edMaUEAEPVwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6edMaUEAEPVwx.jpg",
+					"url": "https://t.co/VKjMhnlN1s",
+					"display_url": "pic.twitter.com/VKjMhnlN1s",
+					"expanded_url": "https://twitter.com/stiles/status/1224590391711715328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 934,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1634,
+							"h": 1272,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 1021,
+									"y": 434,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 74,
+									"y": 505,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 1020,
+									"y": 652,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 75,
+									"y": 657,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 1020,
+									"y": 871,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1391,
+									"y": 592,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 102,
+									"y": 689,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1389,
+									"y": 888,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 103,
+									"y": 895,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1389,
+									"y": 1187,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 578,
+									"y": 246,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 42,
+									"y": 286,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 578,
+									"y": 369,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 42,
+									"y": 372,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 578,
+									"y": 493,
+									"h": 22,
+									"w": 22
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1391,
+									"y": 592,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 102,
+									"y": 689,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1389,
+									"y": 888,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 103,
+									"y": 895,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1389,
+									"y": 1187,
+									"h": 55,
+									"w": 55
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224590373076340700,
+					"id_str": "1224590373076340737",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6edMaUEAEPVwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6edMaUEAEPVwx.jpg",
+					"url": "https://t.co/VKjMhnlN1s",
+					"display_url": "pic.twitter.com/VKjMhnlN1s",
+					"expanded_url": "https://twitter.com/stiles/status/1224590391711715328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 934,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1634,
+							"h": 1272,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 1021,
+									"y": 434,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 74,
+									"y": 505,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 1020,
+									"y": 652,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 75,
+									"y": 657,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 1020,
+									"y": 871,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1391,
+									"y": 592,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 102,
+									"y": 689,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1389,
+									"y": 888,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 103,
+									"y": 895,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1389,
+									"y": 1187,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 578,
+									"y": 246,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 42,
+									"y": 286,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 578,
+									"y": 369,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 42,
+									"y": 372,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 578,
+									"y": 493,
+									"h": 22,
+									"w": 22
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1391,
+									"y": 592,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 102,
+									"y": 689,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1389,
+									"y": 888,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 103,
+									"y": 895,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1389,
+									"y": 1187,
+									"h": 55,
+									"w": 55
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1224590373135077400,
+					"id_str": "1224590373135077378",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6edMoUUAIs6rh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6edMoUUAIs6rh.jpg",
+					"url": "https://t.co/VKjMhnlN1s",
+					"display_url": "pic.twitter.com/VKjMhnlN1s",
+					"expanded_url": "https://twitter.com/stiles/status/1224590391711715328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1171,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1224590373206421500,
+					"id_str": "1224590373206421506",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EP6edM5U8AIprfV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP6edM5U8AIprfV.jpg",
+					"url": "https://t.co/VKjMhnlN1s",
+					"display_url": "pic.twitter.com/VKjMhnlN1s",
+					"expanded_url": "https://twitter.com/stiles/status/1224590391711715328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1149,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224587670120059000,
+		"in_reply_to_status_id_str": "1224587670120058880",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11244,
+			"friends_count": 1907,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@datagraphics And these... https://t.co/VKjMhnlN1s"
+	},
+	{
 		"created_at": "Tue Feb 04 05:48:44 +0000 2020",
 		"id": 1224570464095236000,
 		"id_str": "1224570464095236096",
