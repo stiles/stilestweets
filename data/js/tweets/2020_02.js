@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 16:59:21 +0000 2020",
+		"id": 1224739230305243100,
+		"id_str": "1224739230305243136",
+		"full_text": "RIP Anna Russell, one of my heroes. https://t.co/ZTSINgJptU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZTSINgJptU",
+					"expanded_url": "https://twitter.com/zachdespart/status/1224713375738925056",
+					"display_url": "twitter.com/zachdespart/st…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11243,
+			"friends_count": 1908,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1224713375738925000,
+		"quoted_status_id_str": "1224713375738925056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZTSINgJptU",
+			"expanded": "https://twitter.com/zachdespart/status/1224713375738925056",
+			"display": "twitter.com/zachdespart/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 04 15:16:37 +0000 2020",
+			"id": 1224713375738925000,
+			"id_str": "1224713375738925056",
+			"full_text": "At first I thought @mmorris011 wrote this in an hour and I wanted to quit being a journalist. Then I found out he wrote part of it on deadline and I still kind of want to quit. Fantastic writing on a well-deserving subject. Take some time for this today.\nhttps://t.co/33nUwofONU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mmorris011",
+						"name": "Mike Morris",
+						"id": 17773300,
+						"id_str": "17773300",
+						"indices": [
+							19,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/33nUwofONU",
+						"expanded_url": "https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-city-secretary-Anna-Russell-dies-88-15026821.php",
+						"display_url": "houstonchronicle.com/news/houston-t…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3044715749,
+				"id_str": "3044715749",
+				"name": "Zach Despart🖊️",
+				"screen_name": "zachdespart",
+				"location": "Houston, TX",
+				"description": "Covering Harris County, 3rd largest in US, for @houstonchron // \nzach.despart@chron.com // Prev. @HoustonPress @bfp_news @addyindy. #NY native. @uvmvermont alum",
+				"url": "https://t.co/Eu23TmxqKp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Eu23TmxqKp",
+								"expanded_url": "https://www.houstonchronicle.com/author/zach-despart/",
+								"display_url": "houstonchronicle.com/author/zach-de…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2393,
+				"friends_count": 903,
+				"listed_count": 91,
+				"created_at": "Wed Feb 18 20:33:21 +0000 2015",
+				"favourites_count": 4580,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9604,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935179153107648512/y0QgYolO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935179153107648512/y0QgYolO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3044715749/1561600371",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RIP Anna Russell, one of my heroes. https://t.co/ZTSINgJptU"
+	},
+	{
 		"created_at": "Tue Feb 04 07:07:55 +0000 2020",
 		"id": 1224590391711715300,
 		"id_str": "1224590391711715328",
