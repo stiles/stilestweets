@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 23:01:28 +0000 2020",
+		"id": 1224821360897097700,
+		"id_str": "1224830357763055619",
+		"full_text": "There is no way they could succeed. The problem is structural, the way we’re funding campaign tech is wrong. We need it to be based on open source technology, we need a community of companies, parties, and third party groups funding it. It needs to have funding between cycles.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224821359710101500,
+		"in_reply_to_status_id_str": "1224821359710101504",
+		"in_reply_to_user_id": 22,
+		"in_reply_to_user_id_str": "22",
+		"in_reply_to_screen_name": "rabble",
+		"user": {
+			"id": 22,
+			"id_str": "22",
+			"name": "rabble",
+			"screen_name": "rabble",
+			"location": "PDX",
+			"description": "anarchist, hacker, troublemaker (he/him) working on the decentralized web.",
+			"url": "https://t.co/u3K6xGWmNe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u3K6xGWmNe",
+							"expanded_url": "http://planetary.social/",
+							"display_url": "planetary.social",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15042,
+			"friends_count": 3125,
+			"listed_count": 580,
+			"created_at": "Tue Mar 21 21:04:12 +0000 2006",
+			"favourites_count": 19288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C15E4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224825939281891328/kB9lu82c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224825939281891328/kB9lu82c_normal.jpg",
+			"profile_link_color": "99231B",
+			"profile_sidebar_border_color": "FFE900",
+			"profile_sidebar_fill_color": "F06D63",
+			"profile_text_color": "350808",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There is no way they could succeed. The problem is structural, the way we’re funding campaign tech is wrong. We need it to be based on open source technology, we need a community of companies, parties, and third party groups funding it. It needs to have funding between cycles."
+	},
+	{
 		"created_at": "Tue Feb 04 22:00:38 +0000 2020",
 		"id": 1224815048775753700,
 		"id_str": "1224815048775753728",
