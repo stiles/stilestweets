@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 00:15:39 +0000 2020",
+		"id": 1224823007971106800,
+		"id_str": "1224849027134644224",
+		"full_text": "Buttigieg is in yellow.\n\nCheck out the suburban counties surrounding Des Moines. That's where Buttigieg's lead was built, especially in Dallas County where he won especially big https://t.co/Uk7wgDj8bM https://t.co/Cj37IybqHN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Uk7wgDj8bM",
+					"expanded_url": "https://www.nytimes.com/interactive/2020/02/04/us/elections/results-iowa-caucus.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224822633654620200,
+					"id_str": "1224822633654620160",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EP9xsifXkAAIKm6.png",
+					"media_url_https": "https://pbs.twimg.com/media/EP9xsifXkAAIKm6.png",
+					"url": "https://t.co/Cj37IybqHN",
+					"display_url": "pic.twitter.com/Cj37IybqHN",
+					"expanded_url": "https://twitter.com/ShaneGoldmacher/status/1224823007971106816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 824,
+							"h": 556,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 824,
+							"h": 556,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 200,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 200,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 200,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 165,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224822633654620200,
+					"id_str": "1224822633654620160",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EP9xsifXkAAIKm6.png",
+					"media_url_https": "https://pbs.twimg.com/media/EP9xsifXkAAIKm6.png",
+					"url": "https://t.co/Cj37IybqHN",
+					"display_url": "pic.twitter.com/Cj37IybqHN",
+					"expanded_url": "https://twitter.com/ShaneGoldmacher/status/1224823007971106816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 824,
+							"h": 556,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 824,
+							"h": 556,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 200,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 200,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 80,
+									"y": 200,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 165,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23232204,
+			"id_str": "23232204",
+			"name": "Shane Goldmacher",
+			"screen_name": "ShaneGoldmacher",
+			"location": "New York, NY",
+			"description": "New York Times national political reporter, Ex-@NYTMetro @POLITICO, @NationalJournal and @latimes. SF Giants fan. shane.goldmacher@nytimes.com",
+			"url": "https://t.co/UmqCI5AhUx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmqCI5AhUx",
+							"expanded_url": "http://www.nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54523,
+			"friends_count": 3007,
+			"listed_count": 1977,
+			"created_at": "Sat Mar 07 20:42:24 +0000 2009",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 51801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/774275724568059904/sJiDDmfK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/774275724568059904/sJiDDmfK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23232204/1499714939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Buttigieg is in yellow.\n\nCheck out the suburban counties surrounding Des Moines. That's where Buttigieg's lead was built, especially in Dallas County where he won especially big https://t.co/Uk7wgDj8bM https://t.co/Cj37IybqHN"
+	},
+	{
 		"created_at": "Tue Feb 04 23:01:28 +0000 2020",
 		"id": 1224821360897097700,
 		"id_str": "1224830357763055619",
