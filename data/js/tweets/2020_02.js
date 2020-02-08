@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 00:02:05 +0000 2020",
+		"id": 1225932775955415000,
+		"id_str": "1225932775955415041",
+		"full_text": "@dannydb She should talk to @jeremybowers. Everything I know about the delicious breakfast sandwiches in DC I learned from him. Well, @brianboyer, too.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dannydb",
+					"name": "Danny DeBelius",
+					"id": 14823197,
+					"id_str": "14823197",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "jeremybowers",
+					"name": "Jeremy Bowers",
+					"id": 8083262,
+					"id_str": "8083262",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "brianboyer",
+					"name": "Brian Boyer",
+					"id": 14570738,
+					"id_str": "14570738",
+					"indices": [
+						134,
+						145
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1225858507930394600,
+		"in_reply_to_status_id_str": "1225858507930394624",
+		"in_reply_to_user_id": 14823197,
+		"in_reply_to_user_id_str": "14823197",
+		"in_reply_to_screen_name": "dannydb",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Finding and telling stories w/ data, visuals & code. Dad. Texan. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11245,
+			"friends_count": 1917,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1580144526",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dannydb She should talk to @jeremybowers. Everything I know about the delicious breakfast sandwiches in DC I learned from him. Well, @brianboyer, too."
+	},
+	{
+		"created_at": "Fri Feb 07 23:57:27 +0000 2020",
+		"id": 1225930524490944500,
+		"id_str": "1225931612216381440",
+		"full_text": "Heads on a pike? https://t.co/RE9AcJMamp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RE9AcJMamp",
+					"expanded_url": "https://www.nytimes.com/2020/02/07/us/politics/alexander-vindman-gordon-sondland-fired.html?referringSource=articleShare",
+					"display_url": "nytimes.com/2020/02/07/us/…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13889472,
+			"id_str": "13889472",
+			"name": "Robert Quigley",
+			"screen_name": "robquig",
+			"location": "Austin",
+			"description": "@thedragaudio executive producer and @utjschool professor. // \"The connections we make in the course of a life — maybe that's what heaven is.\" - Mr. Rogers",
+			"url": "https://t.co/l02dnAMxfX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l02dnAMxfX",
+							"expanded_url": "http://thedragaudio.com",
+							"display_url": "thedragaudio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9541,
+			"friends_count": 8571,
+			"listed_count": 719,
+			"created_at": "Sun Feb 24 03:55:30 +0000 2008",
+			"favourites_count": 12964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CF5300",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062887331131281408/YboEgHC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062887331131281408/YboEgHC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13889472/1398648779",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Heads on a pike? https://t.co/RE9AcJMamp"
+	},
+	{
 		"created_at": "Fri Feb 07 16:52:46 +0000 2020",
 		"id": 1225824737084854300,
 		"id_str": "1225824737084854272",
