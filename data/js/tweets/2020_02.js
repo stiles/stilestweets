@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 01:16:18 +0000 2020",
+		"id": 1225929653329617000,
+		"id_str": "1225951456139694080",
+		"full_text": "2020 in a nuthsell is Facebook’s Twitter account being hacked https://t.co/r9vSZjnDZY https://t.co/tkv4hRPdre",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r9vSZjnDZY",
+					"expanded_url": "https://twitter.com/Facebook/status/1225929292137320448",
+					"display_url": "twitter.com/Facebook/statu…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225929648023822300,
+					"id_str": "1225929648023822336",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EQNghQYUYAAG-I3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQNghQYUYAAG-I3.jpg",
+					"url": "https://t.co/tkv4hRPdre",
+					"display_url": "pic.twitter.com/tkv4hRPdre",
+					"expanded_url": "https://twitter.com/alexeheath/status/1225929653329616896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 544,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 544,
+							"h": 318,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225929648023822300,
+					"id_str": "1225929648023822336",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EQNghQYUYAAG-I3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQNghQYUYAAG-I3.jpg",
+					"url": "https://t.co/tkv4hRPdre",
+					"display_url": "pic.twitter.com/tkv4hRPdre",
+					"expanded_url": "https://twitter.com/alexeheath/status/1225929653329616896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 544,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 544,
+							"h": 318,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 318,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14752818,
+			"id_str": "14752818",
+			"name": "Alex Heath",
+			"screen_name": "alexeheath",
+			"location": "LA via NYC",
+			"description": "Reporter @TheInformation covering Facebook and its competitors, along with the intersection of tech and media.",
+			"url": "https://t.co/LjSvjAhDV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LjSvjAhDV6",
+							"expanded_url": "https://www.theinformation.com/reporters/alex-heath",
+							"display_url": "theinformation.com/reporters/alex…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18598,
+			"friends_count": 1985,
+			"listed_count": 815,
+			"created_at": "Tue May 13 01:31:28 +0000 2008",
+			"favourites_count": 6133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 52211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D0D6DA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139652790106460160/e_S-XlD9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139652790106460160/e_S-XlD9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14752818/1556755440",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"retweet_count": 18,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2020 in a nuthsell is Facebook’s Twitter account being hacked https://t.co/r9vSZjnDZY https://t.co/tkv4hRPdre"
+	},
+	{
 		"created_at": "Sat Feb 08 00:02:05 +0000 2020",
 		"id": 1225932775955415000,
 		"id_str": "1225932775955415041",
