@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 22:29:21 +0000 2020",
+		"id": 1226271828777128000,
+		"id_str": "1226271828777127937",
+		"full_text": "This is why @twitter was invented. So members of Congress could tell people about the important work they're doing. https://t.co/PqTePJe58L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PqTePJe58L",
+					"expanded_url": "https://twitter.com/mattgaetz/status/1226246469700726784",
+					"display_url": "twitter.com/mattgaetz/stat…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11249,
+			"friends_count": 1919,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581199605",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1226246469700726800,
+		"quoted_status_id_str": "1226246469700726784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PqTePJe58L",
+			"expanded": "https://twitter.com/mattgaetz/status/1226246469700726784",
+			"display": "twitter.com/mattgaetz/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 08 20:48:35 +0000 2020",
+			"id": 1226246469700726800,
+			"id_str": "1226246469700726784",
+			"full_text": "Great Saturday from the #MarALago tower! https://t.co/aVuHcrYuyW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				40
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarALago",
+						"indices": [
+							24,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1226246464164241400,
+						"id_str": "1226246464164241409",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/EQSAqYeWoAEF8rE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQSAqYeWoAEF8rE.jpg",
+						"url": "https://t.co/aVuHcrYuyW",
+						"display_url": "pic.twitter.com/aVuHcrYuyW",
+						"expanded_url": "https://twitter.com/mattgaetz/status/1226246469700726784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1226246464164241400,
+						"id_str": "1226246464164241409",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/EQSAqYeWoAEF8rE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQSAqYeWoAEF8rE.jpg",
+						"url": "https://t.co/aVuHcrYuyW",
+						"display_url": "pic.twitter.com/aVuHcrYuyW",
+						"expanded_url": "https://twitter.com/mattgaetz/status/1226246469700726784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58579942,
+				"id_str": "58579942",
+				"name": "Matt Gaetz",
+				"screen_name": "mattgaetz",
+				"location": "Fort Walton Beach, FL",
+				"description": "Florida man proudly serving the First District in Congress. “He’s a machine...handsome and going places” says @realDonaldTrump #OpenGaetz",
+				"url": "https://t.co/QiudvzVsVL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QiudvzVsVL",
+								"expanded_url": "http://www.mattgaetz.com",
+								"display_url": "mattgaetz.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 401078,
+				"friends_count": 2473,
+				"listed_count": 1624,
+				"created_at": "Mon Jul 20 20:24:48 +0000 2009",
+				"favourites_count": 10773,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11576,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "294A69",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1201980856337862658/FfOrZCt4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201980856337862658/FfOrZCt4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58579942/1573243688",
+				"profile_link_color": "294A69",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E2E5ED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 690,
+			"favorite_count": 6562,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is why @twitter was invented. So members of Congress could tell people about the important work they're doing. https://t.co/PqTePJe58L"
+	},
+	{
 		"created_at": "Sat Feb 08 22:11:32 +0000 2020",
 		"id": 1225877633256349700,
 		"id_str": "1226267346420940800",
