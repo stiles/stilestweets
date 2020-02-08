@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 22:11:32 +0000 2020",
+		"id": 1225877633256349700,
+		"id_str": "1226267346420940800",
+		"full_text": "CORRECTION: NTSB issues investigative update Fri., Feb. 7, 2020, on the Jan.\n26, 2020, helicopter crash near Calabasas, California; https://t.co/juKBva0pI6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/juKBva0pI6",
+					"expanded_url": "https://go.usa.gov/xd84g",
+					"display_url": "go.usa.gov/xd84g",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743161872669630500,
+			"id_str": "743161872669630464",
+			"name": "NTSB_Newsroom",
+			"screen_name": "NTSB_Newsroom",
+			"location": "Washington, DC",
+			"description": "NTSB_Newsroom is the official Twitter handle of the NTSB's media relations division, providing timely and official information about newsworthy NTSB activities.",
+			"url": "https://t.co/UX3iQ6tx5I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UX3iQ6tx5I",
+							"expanded_url": "http://www.ntsb.gov/news/pages/default.aspx",
+							"display_url": "ntsb.gov/news/pages/def…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66312,
+			"friends_count": 137,
+			"listed_count": 819,
+			"created_at": "Wed Jun 15 19:22:52 +0000 2016",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980507669180989440/AovoRUQc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980507669180989440/AovoRUQc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743161872669630464/1473355605",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CORRECTION: NTSB issues investigative update Fri., Feb. 7, 2020, on the Jan.\n26, 2020, helicopter crash near Calabasas, California; https://t.co/juKBva0pI6"
+	},
+	{
 		"created_at": "Sat Feb 08 04:02:40 +0000 2020",
 		"id": 1225993320679133200,
 		"id_str": "1225993320679133185",
