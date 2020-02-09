@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 22:10:28 +0000 2020",
+		"id": 1226623991282045000,
+		"id_str": "1226629464777347072",
+		"full_text": "Suffice to say, this is not how the law works. https://t.co/zjciLc1M31",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zjciLc1M31",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/1226594751132114945",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14362404,
+			"id_str": "14362404",
+			"name": "Brad Heath",
+			"screen_name": "bradheath",
+			"location": "Washington",
+			"description": "DC reporter for @reuters on crime, justice and tech. Ex-@usatoday. Data, documents and, allegedly, \"convoluted KGB style back-door\" stuff. • 202-527-9709",
+			"url": "https://t.co/4PolW6u8mZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4PolW6u8mZ",
+							"expanded_url": "http://bradheath.org/contact",
+							"display_url": "bradheath.org/contact",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64769,
+			"friends_count": 1142,
+			"listed_count": 1583,
+			"created_at": "Fri Apr 11 16:45:09 +0000 2008",
+			"favourites_count": 4412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 36152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058483170667040768/PjNCtHgg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058483170667040768/PjNCtHgg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14362404/1577416485",
+			"profile_link_color": "336699",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1226594751132115000,
+		"quoted_status_id_str": "1226594751132114945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zjciLc1M31",
+			"expanded": "https://twitter.com/realDonaldTrump/status/1226594751132114945",
+			"display": "twitter.com/realDonaldTrum…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 09 19:52:32 +0000 2020",
+			"id": 1226594751132115000,
+			"id_str": "1226594751132114945",
+			"full_text": "FBI Director Christopher Wray just admitted that the FISA Warrants and Survailence of my campaign were illegal. So was the Fake Dossier. THEREFORE, THE WHOLE SCAM INVESTIGATION, THE MUELLER REPORT AND EVERYTHING ELSE FOR THREE YEARS, WAS A FIXED HOAX. WHO PAYS THE PRICE?....",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72351480,
+				"friends_count": 48,
+				"listed_count": 114424,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48901,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23977,
+			"favorite_count": 72258,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 54,
+		"favorite_count": 280,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Suffice to say, this is not how the law works. https://t.co/zjciLc1M31"
+	},
+	{
+		"created_at": "Sun Feb 09 22:08:37 +0000 2020",
+		"id": 1226618660518813700,
+		"id_str": "1226628996651044866",
+		"full_text": "commit messages with '?' at the end are my favorites",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 481724987,
+			"id_str": "481724987",
+			"name": "Dylan Moriarty",
+			"screen_name": "DylanMoriarty",
+			"location": "Brooklyn, NY",
+			"description": "Mapping & good tunes over @WSJGraphics | Moonlight radio AP | Once upon a time  @DevelopmentSeed",
+			"url": "https://t.co/KOwlrmyInO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KOwlrmyInO",
+							"expanded_url": "https://moriartynaps.org/",
+							"display_url": "moriartynaps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1169,
+			"friends_count": 994,
+			"listed_count": 32,
+			"created_at": "Fri Feb 03 03:22:05 +0000 2012",
+			"favourites_count": 4477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184355103534280704/Q2raOSsL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184355103534280704/Q2raOSsL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/481724987/1487396095",
+			"profile_link_color": "007E91",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "commit messages with '?' at the end are my favorites"
+	},
+	{
+		"created_at": "Sun Feb 09 22:07:13 +0000 2020",
+		"id": 1226618115477270500,
+		"id_str": "1226628647236145152",
+		"full_text": "It’s #Oscars day! Expect road closures throughout Hollywood and increased police presence! And yes we do stand outside even in this rain #SoggyBoots",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Oscars",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"text": "SoggyBoots",
+					"indices": [
+						137,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 555254717,
+			"id_str": "555254717",
+			"name": "LAPD Hollywood Division",
+			"screen_name": "LAPDHollywood",
+			"location": "Hollywood, Los Angeles",
+			"description": "Official Twitter of LAPD Hollywood Division 🚔 To report a crime, dial 911 or 📞 (877) ASK-LAPD for non-emergencies. Instagram: @LAPDHollywood",
+			"url": "https://t.co/tqGTd6EE1d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tqGTd6EE1d",
+							"expanded_url": "http://www.lapdonline.org/hollywood_community_police_station",
+							"display_url": "lapdonline.org/hollywood_comm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30180,
+			"friends_count": 973,
+			"listed_count": 417,
+			"created_at": "Mon Apr 16 16:43:34 +0000 2012",
+			"favourites_count": 3873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221162059972280320/_s8tlIxn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221162059972280320/_s8tlIxn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/555254717/1578657251",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It’s #Oscars day! Expect road closures throughout Hollywood and increased police presence! And yes we do stand outside even in this rain #SoggyBoots"
+	},
+	{
 		"created_at": "Sun Feb 09 20:09:46 +0000 2020",
 		"id": 1226595023317278700,
 		"id_str": "1226599088877002753",
