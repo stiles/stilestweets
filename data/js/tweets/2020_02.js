@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 20:09:46 +0000 2020",
+		"id": 1226595023317278700,
+		"id_str": "1226599088877002753",
+		"full_text": "@realDonaldTrump Your campaign wasn’t wiretapped, tiger. https://t.co/Wxp9WMRZ0h",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226595019433422800,
+					"id_str": "1226595019433422851",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EQW9q-CXsAMMF0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQW9q-CXsAMMF0F.jpg",
+					"url": "https://t.co/Wxp9WMRZ0h",
+					"display_url": "pic.twitter.com/Wxp9WMRZ0h",
+					"expanded_url": "https://twitter.com/pragmaticNYC/status/1226595023317278726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1404,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 959,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226595019433422800,
+					"id_str": "1226595019433422851",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EQW9q-CXsAMMF0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQW9q-CXsAMMF0F.jpg",
+					"url": "https://t.co/Wxp9WMRZ0h",
+					"display_url": "pic.twitter.com/Wxp9WMRZ0h",
+					"expanded_url": "https://twitter.com/pragmaticNYC/status/1226595023317278726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1404,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 959,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1226594751132115000,
+		"in_reply_to_status_id_str": "1226594751132114945",
+		"in_reply_to_user_id": 25073877,
+		"in_reply_to_user_id_str": "25073877",
+		"in_reply_to_screen_name": "realDonaldTrump",
+		"user": {
+			"id": 2161004655,
+			"id_str": "2161004655",
+			"name": "David M. Russell",
+			"screen_name": "pragmaticNYC",
+			"location": "New York, NY",
+			"description": "The Practical Politics of Getting Things Done",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 180,
+			"friends_count": 203,
+			"listed_count": 9,
+			"created_at": "Wed Oct 30 22:54:42 +0000 2013",
+			"favourites_count": 4760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/868989487715581952/yFfENW2H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/868989487715581952/yFfENW2H_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@realDonaldTrump Your campaign wasn’t wiretapped, tiger. https://t.co/Wxp9WMRZ0h"
+	},
+	{
 		"created_at": "Sun Feb 09 04:56:58 +0000 2020",
 		"id": 1226369373234847700,
 		"id_str": "1226369373234847745",
