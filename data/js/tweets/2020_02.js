@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 03:06:51 +0000 2020",
+		"id": 1225194959952924700,
+		"id_str": "1226341664400134145",
+		"full_text": "One piece of tech that worked all week was the maps. Check out how journalists used Mapbox to visualize caucus results faster than they could come in https://t.co/GZxMRU6324 #IowaCaucuses #builtwithmapbox https://t.co/UdqA9tBx5S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IowaCaucuses",
+					"indices": [
+						174,
+						187
+					]
+				},
+				{
+					"text": "builtwithmapbox",
+					"indices": [
+						188,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GZxMRU6324",
+					"expanded_url": "https://buff.ly/3beVsji",
+					"display_url": "buff.ly/3beVsji",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225194956689555500,
+					"id_str": "1225194956689555456",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EQDEUl4UwAAh7jf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQDEUl4UwAAh7jf.jpg",
+					"url": "https://t.co/UdqA9tBx5S",
+					"display_url": "pic.twitter.com/UdqA9tBx5S",
+					"expanded_url": "https://twitter.com/Mapbox/status/1225194959952924672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225194956689555500,
+					"id_str": "1225194956689555456",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EQDEUl4UwAAh7jf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQDEUl4UwAAh7jf.jpg",
+					"url": "https://t.co/UdqA9tBx5S",
+					"display_url": "pic.twitter.com/UdqA9tBx5S",
+					"expanded_url": "https://twitter.com/Mapbox/status/1225194959952924672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225194957004103700,
+					"id_str": "1225194957004103681",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EQDEUnDUYAEJv0N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQDEUnDUYAEJv0N.jpg",
+					"url": "https://t.co/UdqA9tBx5S",
+					"display_url": "pic.twitter.com/UdqA9tBx5S",
+					"expanded_url": "https://twitter.com/Mapbox/status/1225194959952924672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 574,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1674,
+							"h": 1984,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1013,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225194957897715700,
+					"id_str": "1225194957897715718",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EQDEUqYX0AYxHfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQDEUqYX0AYxHfZ.jpg",
+					"url": "https://t.co/UdqA9tBx5S",
+					"display_url": "pic.twitter.com/UdqA9tBx5S",
+					"expanded_url": "https://twitter.com/Mapbox/status/1225194959952924672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 906,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1445,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55236002,
+			"id_str": "55236002",
+			"name": "Mapbox",
+			"screen_name": "Mapbox",
+			"location": "Washington DC + San Francisco",
+			"description": "Mapbox is the location data platform for mobile and web applications. We’re changing the way people move around cities and explore our world.",
+			"url": "https://t.co/dNEgySRm0u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dNEgySRm0u",
+							"expanded_url": "http://www.mapbox.com/",
+							"display_url": "mapbox.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67764,
+			"friends_count": 2074,
+			"listed_count": 2473,
+			"created_at": "Thu Jul 09 13:34:45 +0000 2009",
+			"favourites_count": 2506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D102D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112778715333836801/JDuDUMwe_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112778715333836801/JDuDUMwe_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55236002/1565896431",
+			"profile_link_color": "565656",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCEDFA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One piece of tech that worked all week was the maps. Check out how journalists used Mapbox to visualize caucus results faster than they could come in https://t.co/GZxMRU6324 #IowaCaucuses #builtwithmapbox https://t.co/UdqA9tBx5S"
+	},
+	{
 		"created_at": "Sat Feb 08 22:29:21 +0000 2020",
 		"id": 1226271828777128000,
 		"id_str": "1226271828777127937",
