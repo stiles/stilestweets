@@ -1,6 +1,754 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 00:17:35 +0000 2020",
+		"id": 1226661452599054300,
+		"id_str": "1226661452599054336",
+		"full_text": "@rdmurphy well that too. yikes.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rdmurphy",
+					"name": "Ryan Murphy",
+					"id": 20031243,
+					"id_str": "20031243",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1226661276576673800,
+		"in_reply_to_status_id_str": "1226661276576673792",
+		"in_reply_to_user_id": 20031243,
+		"in_reply_to_user_id_str": "20031243",
+		"in_reply_to_screen_name": "rdmurphy",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11245,
+			"friends_count": 1922,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581199605",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rdmurphy well that too. yikes."
+	},
+	{
+		"created_at": "Mon Feb 10 00:07:27 +0000 2020",
+		"id": 1226658905415008300,
+		"id_str": "1226658905415008256",
+		"full_text": "@rdmurphy The layout, you mean? https://t.co/kSSEM9ZPxg",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rdmurphy",
+					"name": "Ryan Murphy",
+					"id": 20031243,
+					"id_str": "20031243",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226658902298640400,
+					"id_str": "1226658902298640384",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EQX3xcQUwAAtCUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQX3xcQUwAAtCUE.jpg",
+					"url": "https://t.co/kSSEM9ZPxg",
+					"display_url": "pic.twitter.com/kSSEM9ZPxg",
+					"expanded_url": "https://twitter.com/stiles/status/1226658905415008256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 303,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 535,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226658902298640400,
+					"id_str": "1226658902298640384",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EQX3xcQUwAAtCUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQX3xcQUwAAtCUE.jpg",
+					"url": "https://t.co/kSSEM9ZPxg",
+					"display_url": "pic.twitter.com/kSSEM9ZPxg",
+					"expanded_url": "https://twitter.com/stiles/status/1226658905415008256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 303,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 535,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1226658345081168000,
+		"in_reply_to_status_id_str": "1226658345081167872",
+		"in_reply_to_user_id": 20031243,
+		"in_reply_to_user_id_str": "20031243",
+		"in_reply_to_screen_name": "rdmurphy",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11245,
+			"friends_count": 1922,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581199605",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rdmurphy The layout, you mean? https://t.co/kSSEM9ZPxg"
+	},
+	{
+		"created_at": "Sun Feb 09 23:47:47 +0000 2020",
+		"id": 1226642061912236000,
+		"id_str": "1226653954752122880",
+		"full_text": "Spike Lee is wearing a custom @gucci suit in honor of Kobe Bryant. #Oscars https://t.co/Qy3XY2Atmk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Oscars",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gucci",
+					"name": "gucci",
+					"id": 16913418,
+					"id_str": "16913418",
+					"indices": [
+						30,
+						36
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226642008258728000,
+					"id_str": "1226642008258727936",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EQXoaFDVUAA8dq3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQXoaFDVUAA8dq3.jpg",
+					"url": "https://t.co/Qy3XY2Atmk",
+					"display_url": "pic.twitter.com/Qy3XY2Atmk",
+					"expanded_url": "https://twitter.com/AmyKinLA/status/1226642061912236033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226642008258728000,
+					"id_str": "1226642008258727936",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EQXoaFDVUAA8dq3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQXoaFDVUAA8dq3.jpg",
+					"url": "https://t.co/Qy3XY2Atmk",
+					"display_url": "pic.twitter.com/Qy3XY2Atmk",
+					"expanded_url": "https://twitter.com/AmyKinLA/status/1226642061912236033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1226642039296520200,
+					"id_str": "1226642039296520192",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EQXob4rUcAASSRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQXob4rUcAASSRy.jpg",
+					"url": "https://t.co/Qy3XY2Atmk",
+					"display_url": "pic.twitter.com/Qy3XY2Atmk",
+					"expanded_url": "https://twitter.com/AmyKinLA/status/1226642061912236033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24668317,
+			"id_str": "24668317",
+			"name": "Amy Kaufman",
+			"screen_name": "AmyKinLA",
+			"location": "",
+			"description": "I cover Hollywood for the @LATimes. My dog is named Riggins. And I'm the author of the @nytimes best seller \"Bachelor Nation\": https://t.co/OU1TlQcBoE",
+			"url": "https://t.co/np1ZqEInkc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/np1ZqEInkc",
+							"expanded_url": "http://www.latimes.com/la-bio-amy-kaufman-staff.html",
+							"display_url": "latimes.com/la-bio-amy-kau…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OU1TlQcBoE",
+							"expanded_url": "https://goo.gl/4cXoJz",
+							"display_url": "goo.gl/4cXoJz",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 53475,
+			"friends_count": 966,
+			"listed_count": 941,
+			"created_at": "Mon Mar 16 08:54:33 +0000 2009",
+			"favourites_count": 44741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211190676727058432/sALOSdaE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211190676727058432/sALOSdaE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24668317/1549921827",
+			"profile_link_color": "5C00B3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spike Lee is wearing a custom @gucci suit in honor of Kobe Bryant. #Oscars https://t.co/Qy3XY2Atmk"
+	},
+	{
+		"created_at": "Sun Feb 09 23:45:37 +0000 2020",
+		"id": 1226647079164022800,
+		"id_str": "1226653410679607297",
+		"full_text": "I've decided I don't want to do this because I can't take wrenching marriage drama at the moment in the times in which we live. https://t.co/VzL3wUBlQ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VzL3wUBlQ9",
+					"expanded_url": "https://twitter.com/RenuZ/status/1226646785780781057",
+					"display_url": "twitter.com/RenuZ/status/1…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135575282,
+			"id_str": "135575282",
+			"name": "Ben White",
+			"screen_name": "morningmoneyben",
+			"location": "NYC",
+			"description": "POLITICO Chief Economic Correspondent and Morning Money columnist. CNBC contributor. Encrypted email: benjaminjohnwhite@protonmail.com. DM for Signal.",
+			"url": "https://t.co/foE2FUQGfp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/foE2FUQGfp",
+							"expanded_url": "http://www.politico.com/morningmoney/",
+							"display_url": "politico.com/morningmoney/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104681,
+			"friends_count": 4267,
+			"listed_count": 2718,
+			"created_at": "Wed Apr 21 17:54:22 +0000 2010",
+			"favourites_count": 60217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 133956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199086411212869633/7GegRJq0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199086411212869633/7GegRJq0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135575282/1568988133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1226646785780781000,
+		"quoted_status_id_str": "1226646785780781057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VzL3wUBlQ9",
+			"expanded": "https://twitter.com/RenuZ/status/1226646785780781057",
+			"display": "twitter.com/RenuZ/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 09 23:19:18 +0000 2020",
+			"id": 1226646785780781000,
+			"id_str": "1226646785780781057",
+			"full_text": "@morningmoneyben see Marriage Story on Netflix if you can. It was just heartbreakingly good.",
+			"truncated": false,
+			"display_text_range": [
+				17,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "morningmoneyben",
+						"name": "Ben White",
+						"id": 135575282,
+						"id_str": "135575282",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1226646648287367200,
+			"in_reply_to_status_id_str": "1226646648287367170",
+			"in_reply_to_user_id": 135575282,
+			"in_reply_to_user_id_str": "135575282",
+			"in_reply_to_screen_name": "morningmoneyben",
+			"user": {
+				"id": 32165863,
+				"id_str": "32165863",
+				"name": "Renu Zaretsky (Tax Hound 🐶)",
+				"screen_name": "RenuZ",
+				"location": "Bloomfield Township, MI",
+				"description": "#TaxHound and #DailyDeduction writer @TaxPolicyCenter. Indian-American wife, parent to 2 kids, 1 Scottish Deerhound. Views mine alone, RTs not endorsements",
+				"url": "https://t.co/eBiH1c3td5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eBiH1c3td5",
+								"expanded_url": "https://www.taxpolicycenter.org/taxvox/tax-hound-case-files",
+								"display_url": "taxpolicycenter.org/taxvox/tax-hou…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 574,
+				"friends_count": 650,
+				"listed_count": 41,
+				"created_at": "Thu Apr 16 21:44:10 +0000 2009",
+				"favourites_count": 17657,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11875,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075822837544468481/HzjKPzE0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075822837544468481/HzjKPzE0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32165863/1424356245",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've decided I don't want to do this because I can't take wrenching marriage drama at the moment in the times in which we live. https://t.co/VzL3wUBlQ9"
+	},
+	{
 		"created_at": "Sun Feb 09 22:10:28 +0000 2020",
 		"id": 1226623991282045000,
 		"id_str": "1226629464777347072",
