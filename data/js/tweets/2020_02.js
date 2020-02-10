@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 19:51:54 +0000 2020",
+		"id": 1226950824523288600,
+		"id_str": "1226956981350494208",
+		"full_text": "YAY, go @priyakkumar! So well deserved 👏🏾\n\nhttps://t.co/Laeq8VTlTF https://t.co/6SO6XJyHhp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "priyakkumar",
+					"name": "Priya Krishnakumar",
+					"id": 192995488,
+					"id_str": "192995488",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Laeq8VTlTF",
+					"expanded_url": "https://www.snd.org/bodd/2020/02/07/2019-results/",
+					"display_url": "snd.org/bodd/2020/02/0…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1226950820949713000,
+					"id_str": "1226950820949712896",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EQcBRV-U4AAtk_v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQcBRV-U4AAtk_v.jpg",
+					"url": "https://t.co/6SO6XJyHhp",
+					"display_url": "pic.twitter.com/6SO6XJyHhp",
+					"expanded_url": "https://twitter.com/sandhya__k/status/1226950824523288576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1840,
+							"h": 876,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 571,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226950820949713000,
+					"id_str": "1226950820949712896",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EQcBRV-U4AAtk_v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQcBRV-U4AAtk_v.jpg",
+					"url": "https://t.co/6SO6XJyHhp",
+					"display_url": "pic.twitter.com/6SO6XJyHhp",
+					"expanded_url": "https://twitter.com/sandhya__k/status/1226950824523288576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1840,
+							"h": 876,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 571,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 221255986,
+			"id_str": "221255986",
+			"name": "Sandhya Kambhampati",
+			"screen_name": "sandhya__k",
+			"location": "Los Angeles, CA",
+			"description": "Data reporter @latimes/@datagraphics covering demographics in CA. Likes stats, FOIA & ice cream. email: sandhya@latimes.com",
+			"url": "https://t.co/raU7Y29kFd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/raU7Y29kFd",
+							"expanded_url": "http://www.sandhyakambhampati.com",
+							"display_url": "sandhyakambhampati.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5313,
+			"friends_count": 905,
+			"listed_count": 274,
+			"created_at": "Tue Nov 30 04:37:53 +0000 2010",
+			"favourites_count": 10442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DFEFF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142311392332013568/6AGzTmZZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142311392332013568/6AGzTmZZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/221255986/1508726878",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YAY, go @priyakkumar! So well deserved 👏🏾\n\nhttps://t.co/Laeq8VTlTF https://t.co/6SO6XJyHhp"
+	},
+	{
+		"created_at": "Mon Feb 10 19:35:25 +0000 2020",
+		"id": 1226952428492292000,
+		"id_str": "1226952833720709120",
+		"full_text": "Siren --&gt; https://t.co/h8Myd8xwe7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h8Myd8xwe7",
+					"expanded_url": "https://twitter.com/mikememoli/status/1226951263302103040",
+					"display_url": "twitter.com/mikememoli/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24484939,
+			"id_str": "24484939",
+			"name": "Janet Hook",
+			"screen_name": "hookjan",
+			"location": "Washington D.C.",
+			"description": "National political reporter for the Los Angeles Times. Wall Street Journal alum.  Mom. Arsenal fan. Lover of Maine.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9665,
+			"friends_count": 1180,
+			"listed_count": 375,
+			"created_at": "Sun Mar 15 04:13:26 +0000 2009",
+			"favourites_count": 163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173609802838290432/8-RPTeo2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173609802838290432/8-RPTeo2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24484939/1546383030",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1226951263302103000,
+		"quoted_status_id_str": "1226951263302103040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h8Myd8xwe7",
+			"expanded": "https://twitter.com/mikememoli/status/1226951263302103040",
+			"display": "twitter.com/mikememoli/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 10 19:29:11 +0000 2020",
+			"id": 1226951263302103000,
+			"id_str": "1226951263302103040",
+			"full_text": "Big warning sign for @JoeBiden in new national Q poll: @MikeBloomberg hits 22% support among black voters, ex-VP down to 27%.\n\nIn poll released 1/28, Biden was at 49%, Bloomberg 7% https://t.co/YUTV8UtMAB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JoeBiden",
+						"name": "Joe Biden (Text Join to 30330)",
+						"id": 939091,
+						"id_str": "939091",
+						"indices": [
+							21,
+							30
+						]
+					},
+					{
+						"screen_name": "MikeBloomberg",
+						"name": "Mike Bloomberg",
+						"id": 16581604,
+						"id_str": "16581604",
+						"indices": [
+							55,
+							69
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1226951258935873500,
+						"id_str": "1226951258935873536",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/EQcBq1mXUAAaasq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQcBq1mXUAAaasq.jpg",
+						"url": "https://t.co/YUTV8UtMAB",
+						"display_url": "pic.twitter.com/YUTV8UtMAB",
+						"expanded_url": "https://twitter.com/mikememoli/status/1226951263302103040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 383,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1226951258935873500,
+						"id_str": "1226951258935873536",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/EQcBq1mXUAAaasq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQcBq1mXUAAaasq.jpg",
+						"url": "https://t.co/YUTV8UtMAB",
+						"display_url": "pic.twitter.com/YUTV8UtMAB",
+						"expanded_url": "https://twitter.com/mikememoli/status/1226951263302103040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 383,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16072058,
+				"id_str": "16072058",
+				"name": "Mike Memoli",
+				"screen_name": "mikememoli",
+				"location": "Washington, DC",
+				"description": "@nbcnews correspondent // @latimes alum // mike dot memoli at nbcuni dot com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47922,
+				"friends_count": 1988,
+				"listed_count": 2046,
+				"created_at": "Sun Aug 31 22:50:48 +0000 2008",
+				"favourites_count": 2311,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53711,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030C21",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008934449483014144/nROsEBnE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008934449483014144/nROsEBnE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16072058/1529384657",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "Siren --&gt; https://t.co/h8Myd8xwe7"
+	},
+	{
+		"created_at": "Mon Feb 10 19:33:48 +0000 2020",
+		"id": 1226950094194385000,
+		"id_str": "1226952424679567362",
+		"full_text": "@phildstewart It should change its title to Stars, Stripes, and Rage Tweets.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "phildstewart",
+					"name": "Phil Stewart",
+					"id": 175248804,
+					"id_str": "175248804",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1226949895468339200,
+		"in_reply_to_status_id_str": "1226949895468339200",
+		"in_reply_to_user_id": 175248804,
+		"in_reply_to_user_id_str": "175248804",
+		"in_reply_to_screen_name": "phildstewart",
+		"user": {
+			"id": 114565156,
+			"id_str": "114565156",
+			"name": "Steve Metz",
+			"screen_name": "steven_metz",
+			"location": "USA",
+			"description": "Iconoclast writing on strategic futures/foreign & defense policy. Realist/moderate. Working on a book on the future of insurgency. Tweets my personal opinion.",
+			"url": "https://t.co/I35IJW7UJB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I35IJW7UJB",
+							"expanded_url": "https://authory.com/StevenMetz",
+							"display_url": "authory.com/StevenMetz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10450,
+			"friends_count": 2296,
+			"listed_count": 431,
+			"created_at": "Mon Feb 15 21:12:22 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208150072380264458/bDBbIzPI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208150072380264458/bDBbIzPI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114565156/1522004001",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@phildstewart It should change its title to Stars, Stripes, and Rage Tweets."
+	},
+	{
 		"created_at": "Mon Feb 10 18:03:43 +0000 2020",
 		"id": 1226929756391653400,
 		"id_str": "1226929756391653376",
