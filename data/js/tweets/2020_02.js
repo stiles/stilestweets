@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 11 18:06:14 +0000 2020",
+		"id": 1227290108413350000,
+		"id_str": "1227292775386730496",
+		"full_text": "Big wonderful voting changes for Los Angeles county voters! Hundreds of voting centers opening for extended hours! Postage-paid VBM! Secure ballots! \n\nVote! Vote! Vote! https://t.co/uK7ewiWGBg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uK7ewiWGBg",
+					"expanded_url": "https://twitter.com/stiles/status/1227288682358435841",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26544382,
+			"id_str": "26544382",
+			"name": "Julie Butcher 🌴",
+			"screen_name": "JulieButcher",
+			"location": "La Crescenta-Montrose, CA",
+			"description": "They go low, we go local.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2735,
+			"friends_count": 4165,
+			"listed_count": 37,
+			"created_at": "Wed Mar 25 17:32:17 +0000 2009",
+			"favourites_count": 30182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C1DBE3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928513081667235841/vFFL4-my_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928513081667235841/vFFL4-my_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26544382/1581188333",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227288682358435800,
+		"quoted_status_id_str": "1227288682358435841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uK7ewiWGBg",
+			"expanded": "https://twitter.com/stiles/status/1227288682358435841",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 11 17:49:58 +0000 2020",
+			"id": 1227288682358435800,
+			"id_str": "1227288682358435841",
+			"full_text": "“There are no longer wrong places to vote in L.A. County. Every voting location is the right place to vote.” -- @LACountyRRCC  https://t.co/lKyzlK0o7G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LACountyRRCC",
+						"name": "Dean Logan, RR/CC",
+						"id": 21807663,
+						"id_str": "21807663",
+						"indices": [
+							112,
+							125
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lKyzlK0o7G",
+						"expanded_url": "https://www.latimes.com/california/story/2020-02-11/la-county-election-day-vote-centers-super-tuesday-polling-place",
+						"display_url": "latimes.com/california/sto…",
+						"indices": [
+							127,
+							150
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles",
+				"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11248,
+				"friends_count": 1924,
+				"listed_count": 876,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 7450,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15067,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581444344",
+				"profile_link_color": "B12E35",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big wonderful voting changes for Los Angeles county voters! Hundreds of voting centers opening for extended hours! Postage-paid VBM! Secure ballots! \n\nVote! Vote! Vote! https://t.co/uK7ewiWGBg"
+	},
+	{
+		"created_at": "Tue Feb 11 17:49:58 +0000 2020",
+		"id": 1227288682358435800,
+		"id_str": "1227288682358435841",
+		"full_text": "“There are no longer wrong places to vote in L.A. County. Every voting location is the right place to vote.” -- @LACountyRRCC  https://t.co/lKyzlK0o7G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						112,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lKyzlK0o7G",
+					"expanded_url": "https://www.latimes.com/california/story/2020-02-11/la-county-election-day-vote-centers-super-tuesday-polling-place",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11248,
+			"friends_count": 1924,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581444344",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“There are no longer wrong places to vote in L.A. County. Every voting location is the right place to vote.” -- @LACountyRRCC  https://t.co/lKyzlK0o7G"
+	},
+	{
 		"created_at": "Tue Feb 11 15:03:24 +0000 2020",
 		"id": 1227246766656872400,
 		"id_str": "1227246766656872449",
