@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 20:00:12 +0000 2020",
+		"id": 1227028667542298600,
+		"id_str": "1228046233836478464",
+		"full_text": "One more time for the people in the back 📢 \n\nCoronavirus is NOT currently spreading in the @CountyofLA. There is still only one confirmed case.\n\n@lapublichealth has all the facts at: https://t.co/RHjXesGQEM https://t.co/RT76DBNua2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"screen_name": "lapublichealth",
+					"name": "LA Public Health",
+					"id": 38287098,
+					"id_str": "38287098",
+					"indices": [
+						145,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RHjXesGQEM",
+					"expanded_url": "http://bit.ly/2OGjSIA",
+					"display_url": "bit.ly/2OGjSIA",
+					"indices": [
+						183,
+						206
+					]
+				},
+				{
+					"url": "https://t.co/RT76DBNua2",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1226556705518997504",
+					"display_url": "twitter.com/lapublichealth…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 339852137,
+			"id_str": "339852137",
+			"name": "Janice Hahn",
+			"screen_name": "SupJaniceHahn",
+			"location": "San Pedro, CA",
+			"description": "Los Angeles County Supervisor. Proudly serving the 4th District.\n\n📸 https://t.co/MnG9ZpiHd3\n👍 https://t.co/xgnuGxjNCF",
+			"url": "https://t.co/3Pibllvzik",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Pibllvzik",
+							"expanded_url": "http://hahn.lacounty.gov/",
+							"display_url": "hahn.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MnG9ZpiHd3",
+							"expanded_url": "http://instagram.com/supjanicehahn/",
+							"display_url": "instagram.com/supjanicehahn/",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/xgnuGxjNCF",
+							"expanded_url": "http://facebook.com/supjanicehahn/",
+							"display_url": "facebook.com/supjanicehahn/",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15973,
+			"friends_count": 1993,
+			"listed_count": 585,
+			"created_at": "Thu Jul 21 19:22:22 +0000 2011",
+			"favourites_count": 2168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169680421535109120/e9v7m3zA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169680421535109120/e9v7m3zA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/339852137/1579633576",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1226556705518997500,
+		"quoted_status_id_str": "1226556705518997504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RT76DBNua2",
+			"expanded": "https://twitter.com/lapublichealth/status/1226556705518997504",
+			"display": "twitter.com/lapublichealth…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 09 17:21:21 +0000 2020",
+			"id": 1226556705518997500,
+			"id_str": "1226556705518997504",
+			"full_text": "Know the facts about #NovelCoronavirus. The #coronavirus is NOT currently spreading in the community in Los Angeles County nor in the United States. View https://t.co/74dO96061O for more. https://t.co/Gx7pQJWRhc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NovelCoronavirus",
+						"indices": [
+							21,
+							38
+						]
+					},
+					{
+						"text": "coronavirus",
+						"indices": [
+							44,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/74dO96061O",
+						"expanded_url": "https://bit.ly/2OGjSIA",
+						"display_url": "bit.ly/2OGjSIA",
+						"indices": [
+							154,
+							177
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1226556702650011600,
+						"id_str": "1226556702650011649",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/media/EQWa0o5UEAE7A9B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQWa0o5UEAE7A9B.jpg",
+						"url": "https://t.co/Gx7pQJWRhc",
+						"display_url": "pic.twitter.com/Gx7pQJWRhc",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1226556705518997504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 636,
+								"h": 205,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 636,
+								"h": 205,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 636,
+								"h": 205,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1226556702650011600,
+						"id_str": "1226556702650011649",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/media/EQWa0o5UEAE7A9B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQWa0o5UEAE7A9B.jpg",
+						"url": "https://t.co/Gx7pQJWRhc",
+						"display_url": "pic.twitter.com/Gx7pQJWRhc",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1226556705518997504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 636,
+								"h": 205,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 636,
+								"h": 205,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 636,
+								"h": 205,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38287098,
+				"id_str": "38287098",
+				"name": "LA Public Health",
+				"screen_name": "lapublichealth",
+				"location": "Los Angeles, California",
+				"description": "Committed to protecting & improving the health of the over 10 million residents of #LACounty. Follow for #HealthAlerts & #HealthTips. #PublicHealth",
+				"url": "https://t.co/Fiv01QwVHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Fiv01QwVHL",
+								"expanded_url": "http://publichealth.lacounty.gov",
+								"display_url": "publichealth.lacounty.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17986,
+				"friends_count": 631,
+				"listed_count": 534,
+				"created_at": "Wed May 06 21:57:05 +0000 2009",
+				"favourites_count": 1425,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7098,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38287098/1527611465",
+				"profile_link_color": "00205B",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DCE7EA",
+				"profile_text_color": "404040",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One more time for the people in the back 📢 \n\nCoronavirus is NOT currently spreading in the @CountyofLA. There is still only one confirmed case.\n\n@lapublichealth has all the facts at: https://t.co/RHjXesGQEM https://t.co/RT76DBNua2"
+	},
+	{
 		"created_at": "Thu Feb 13 18:45:45 +0000 2020",
 		"id": 1228027495804330000,
 		"id_str": "1228027495804329984",
