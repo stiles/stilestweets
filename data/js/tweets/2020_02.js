@@ -1,6 +1,569 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 18:13:03 +0000 2020",
+		"id": 1228019265988518000,
+		"id_str": "1228019265988517889",
+		"full_text": "I want to eat all of this. \n\nAll of it. \n\nhttps://t.co/Jfb3k9Vp6k https://t.co/kj6hU4JCLm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jfb3k9Vp6k",
+					"expanded_url": "https://www.nytimes.com/interactive/2020/dining/one-pot-meals.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1228019247651012600,
+					"id_str": "1228019247651012608",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EQrM_9mUwAAAolP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQrM_9mUwAAAolP.jpg",
+					"url": "https://t.co/kj6hU4JCLm",
+					"display_url": "pic.twitter.com/kj6hU4JCLm",
+					"expanded_url": "https://twitter.com/stiles/status/1228019265988517889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228019247651012600,
+					"id_str": "1228019247651012608",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EQrM_9mUwAAAolP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQrM_9mUwAAAolP.jpg",
+					"url": "https://t.co/kj6hU4JCLm",
+					"display_url": "pic.twitter.com/kj6hU4JCLm",
+					"expanded_url": "https://twitter.com/stiles/status/1228019265988517889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11246,
+			"friends_count": 1938,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581616080",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I want to eat all of this. \n\nAll of it. \n\nhttps://t.co/Jfb3k9Vp6k https://t.co/kj6hU4JCLm"
+	},
+	{
+		"created_at": "Thu Feb 13 18:06:26 +0000 2020",
+		"id": 1227996452946735000,
+		"id_str": "1228017603265777664",
+		"full_text": "This is one of the best reader emails of all time, hands down. https://t.co/GfvPUG02t0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GfvPUG02t0",
+					"expanded_url": "https://twitter.com/brettmmurphy/status/1227771900379697152",
+					"display_url": "twitter.com/brettmmurphy/s…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16538210,
+			"id_str": "16538210",
+			"name": "Laura J. Nelson 🦅",
+			"screen_name": "laura_nelson",
+			"location": "Los Angeles, CA",
+			"description": "@latimes transportation reporter. I cover 🚙, 🚌, 🚇, 🚕, 🚥, 🚲, 🚶🏽‍♀️, 🛴, etc. Proud @latguild organizer. USC alum. Kansan. Tips? laura.nelson@latimes.com",
+			"url": "https://t.co/Owd4TbhzZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Owd4TbhzZA",
+							"expanded_url": "https://www.latimes.com/people/laura-j-nelson",
+							"display_url": "latimes.com/people/laura-j…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27920,
+			"friends_count": 995,
+			"listed_count": 1014,
+			"created_at": "Wed Oct 01 01:20:51 +0000 2008",
+			"favourites_count": 47935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16538210/1568313391",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227771900379697200,
+		"quoted_status_id_str": "1227771900379697152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GfvPUG02t0",
+			"expanded": "https://twitter.com/brettmmurphy/status/1227771900379697152",
+			"display": "twitter.com/brettmmurphy/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 13 01:50:06 +0000 2020",
+			"id": 1227771900379697200,
+			"id_str": "1227771900379697152",
+			"full_text": "INBOX: https://t.co/lo2mA74JVX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				6
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1227771896244076500,
+						"id_str": "1227771896244076545",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/EQnsCNzWAAEEphR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQnsCNzWAAEEphR.jpg",
+						"url": "https://t.co/lo2mA74JVX",
+						"display_url": "pic.twitter.com/lo2mA74JVX",
+						"expanded_url": "https://twitter.com/BrettMmurphy/status/1227771900379697152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1227771896244076500,
+						"id_str": "1227771896244076545",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/EQnsCNzWAAEEphR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQnsCNzWAAEEphR.jpg",
+						"url": "https://t.co/lo2mA74JVX",
+						"display_url": "pic.twitter.com/lo2mA74JVX",
+						"expanded_url": "https://twitter.com/BrettMmurphy/status/1227771900379697152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 341788366,
+				"id_str": "341788366",
+				"name": "Brett Murphy",
+				"screen_name": "BrettMmurphy",
+				"location": "",
+				"description": "Journalist on the USA Today investigations desk. GW adjunct. Local Matters newsletter. brett.murphy@usatoday.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3050,
+				"friends_count": 680,
+				"listed_count": 86,
+				"created_at": "Sun Jul 24 23:39:50 +0000 2011",
+				"favourites_count": 3068,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1808,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079240313892491265/NYcXEIgx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079240313892491265/NYcXEIgx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/341788366/1551582351",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 811,
+			"favorite_count": 2772,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 143,
+		"favorite_count": 752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is one of the best reader emails of all time, hands down. https://t.co/GfvPUG02t0"
+	},
+	{
+		"created_at": "Thu Feb 13 18:04:23 +0000 2020",
+		"id": 1228015823186382800,
+		"id_str": "1228017085336322053",
+		"full_text": "The L.A. D.A.'s office is going to wipe out 66K marijuana convictions today. While the move is sure to be hailed, it will likely raise some political eyebrows ... https://t.co/xs31dIZqvn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xs31dIZqvn",
+					"expanded_url": "https://www.latimes.com/california/story/2020-02-13/la-district-attorney-clear-marijuana-convictions",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 347599287,
+			"id_str": "347599287",
+			"name": "James Queally",
+			"screen_name": "JamesQueallyLAT",
+			"location": "Los Angeles, CA",
+			"description": "Trying to make my city a better place: Cops, Crime, Chaos(& Courts?) reporter @latimes /Alleged author /Debut: LINE OF SIGHT (Polis 3/10/20) / Rep: @jmcgowanbks",
+			"url": "https://t.co/EJW9uMKG0X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EJW9uMKG0X",
+							"expanded_url": "https://jamesqueallywriter.com/",
+							"display_url": "jamesqueallywriter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6698,
+			"friends_count": 1917,
+			"listed_count": 317,
+			"created_at": "Wed Aug 03 01:52:47 +0000 2011",
+			"favourites_count": 6564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800128773567889408/A9pegN2q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800128773567889408/A9pegN2q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/347599287/1568128698",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The L.A. D.A.'s office is going to wipe out 66K marijuana convictions today. While the move is sure to be hailed, it will likely raise some political eyebrows ... https://t.co/xs31dIZqvn"
+	},
+	{
 		"created_at": "Thu Feb 13 04:31:11 +0000 2020",
 		"id": 1227812436687782000,
 		"id_str": "1227812436687781889",
