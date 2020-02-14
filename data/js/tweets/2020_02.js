@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 01:40:11 +0000 2020",
+		"id": 1228034401306583000,
+		"id_str": "1228131790537183233",
+		"full_text": "I am jealous of these @Harry_Stevens charts =&gt; https://t.co/2CykkIZPXq https://t.co/Jv4DnUMWT6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Harry_Stevens",
+					"name": "Harry Stevens",
+					"id": 73439531,
+					"id_str": "73439531",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2CykkIZPXq",
+					"expanded_url": "https://www.washingtonpost.com/politics/2020/02/13/only-two-recent-major-party-nominees-have-lost-both-iowa-new-hampshire/",
+					"display_url": "washingtonpost.com/politics/2020/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1228034393333289000,
+					"id_str": "1228034393333288961",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EQraxjqX0AEO-hU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQraxjqX0AEO-hU.jpg",
+					"url": "https://t.co/Jv4DnUMWT6",
+					"display_url": "pic.twitter.com/Jv4DnUMWT6",
+					"expanded_url": "https://twitter.com/LazaroGamio/status/1228034401306583040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 935,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1998,
+							"h": 1556,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228034393333289000,
+					"id_str": "1228034393333288961",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EQraxjqX0AEO-hU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQraxjqX0AEO-hU.jpg",
+					"url": "https://t.co/Jv4DnUMWT6",
+					"display_url": "pic.twitter.com/Jv4DnUMWT6",
+					"expanded_url": "https://twitter.com/LazaroGamio/status/1228034401306583040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 935,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1998,
+							"h": 1556,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228034393417166800,
+					"id_str": "1228034393417166848",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EQraxj-XsAAvSyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQraxj-XsAAvSyA.jpg",
+					"url": "https://t.co/Jv4DnUMWT6",
+					"display_url": "pic.twitter.com/Jv4DnUMWT6",
+					"expanded_url": "https://twitter.com/LazaroGamio/status/1228034401306583040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1994,
+							"h": 1304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 785,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 295989660,
+			"id_str": "295989660",
+			"name": "Lazaro Gamio",
+			"screen_name": "LazaroGamio",
+			"location": "Washington, D.C.",
+			"description": "Making charts at @nytgraphics. Previously: @axios, @PostGraphics, @miamiherald.",
+			"url": "https://t.co/TdETgCsYO7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TdETgCsYO7",
+							"expanded_url": "http://www.lazarogamio.com",
+							"display_url": "lazarogamio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4969,
+			"friends_count": 4244,
+			"listed_count": 262,
+			"created_at": "Tue May 10 00:48:21 +0000 2011",
+			"favourites_count": 6051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071878013388767234/cyCHoScm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071878013388767234/cyCHoScm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/295989660/1488074496",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am jealous of these @Harry_Stevens charts =&gt; https://t.co/2CykkIZPXq https://t.co/Jv4DnUMWT6"
+	},
+	{
 		"created_at": "Thu Feb 13 21:59:35 +0000 2020",
 		"id": 1228076277946470400,
 		"id_str": "1228076277946470401",
