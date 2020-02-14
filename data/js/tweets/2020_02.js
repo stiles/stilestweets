@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 18:51:28 +0000 2020",
+		"id": 1228390630268657700,
+		"id_str": "1228391321712246785",
+		"full_text": "Roses are red\nViolets are blue\nSubscribe to local news\nUnless you want me living on your sofa\nhttps://t.co/kfT7AuQmHw https://t.co/JnasikNeEk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kfT7AuQmHw",
+					"expanded_url": "https://www.latimes.com/business/story/2020-02-13/mcclatchy-bankruptcy-effects",
+					"display_url": "latimes.com/business/story…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1228390628490264600,
+					"id_str": "1228390628490264576",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EQwexLCUwAAYYIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQwexLCUwAAYYIO.jpg",
+					"url": "https://t.co/JnasikNeEk",
+					"display_url": "pic.twitter.com/JnasikNeEk",
+					"expanded_url": "https://twitter.com/DCteachild/status/1228390630268657664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228390628490264600,
+					"id_str": "1228390628490264576",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EQwexLCUwAAYYIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQwexLCUwAAYYIO.jpg",
+					"url": "https://t.co/JnasikNeEk",
+					"display_url": "pic.twitter.com/JnasikNeEk",
+					"expanded_url": "https://twitter.com/DCteachild/status/1228390630268657664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22213435,
+			"id_str": "22213435",
+			"name": "Diya Chacko",
+			"screen_name": "DCteachild",
+			"location": "El Segundo, CA",
+			"description": "Metro audience editor @latimes. Former health & environment editor @ocregister | prod. manager @NOLANews. WhoDat. @ONALA. Scifi/horror/anime recs 🙏🏽",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 727,
+			"listed_count": 41,
+			"created_at": "Sat Feb 28 01:03:57 +0000 2009",
+			"favourites_count": 969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0D0F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981734558449131520/pdWu34xE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981734558449131520/pdWu34xE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22213435/1522898897",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Roses are red\nViolets are blue\nSubscribe to local news\nUnless you want me living on your sofa\nhttps://t.co/kfT7AuQmHw https://t.co/JnasikNeEk"
+	},
+	{
 		"created_at": "Fri Feb 14 02:56:07 +0000 2020",
 		"id": 1228150899526140000,
 		"id_str": "1228150899526139906",
