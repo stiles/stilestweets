@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 18 19:10:36 +0000 2020",
+		"id": 1229845690949353500,
+		"id_str": "1229845690949353472",
+		"full_text": "Fascinating story about California experts battling Huanglongbing (黄龙病), a disease that poses an existential threat to American citrus yield. “I’m not retiring until we’ve got something good to deal with this.\" \n\nNice work, as always, @GustavoArellano: https://t.co/UhnA2Vdg4Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GustavoArellano",
+					"name": "Col. Gustavo Arellano",
+					"id": 15518170,
+					"id_str": "15518170",
+					"indices": [
+						235,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UhnA2Vdg4Y",
+					"expanded_url": "https://www.latimes.com/california/story/2020-02-18/citrus-collection-uc-riverside-givaudan",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11260,
+			"friends_count": 1946,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581616080",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fascinating story about California experts battling Huanglongbing (黄龙病), a disease that poses an existential threat to American citrus yield. “I’m not retiring until we’ve got something good to deal with this.\" \n\nNice work, as always, @GustavoArellano: https://t.co/UhnA2Vdg4Y"
+	},
+	{
+		"created_at": "Tue Feb 18 18:54:05 +0000 2020",
+		"id": 1229841200229671000,
+		"id_str": "1229841531621629952",
+		"full_text": "No felon left behind https://t.co/KbRIQLuol2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KbRIQLuol2",
+					"expanded_url": "https://twitter.com/kaitlancollins/status/1229838562734039040",
+					"display_url": "twitter.com/kaitlancollins…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21328006,
+			"id_str": "21328006",
+			"name": "David Lazarus",
+			"screen_name": "Davidlaz",
+			"location": "Los Angeles, CA",
+			"description": "Consumer columnist for the Los Angeles Times and KTLA Channel 5,  part-time radio host. I get my kicks above the waistline, sunshine.",
+			"url": "https://t.co/HNWGvHGHeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HNWGvHGHeR",
+							"expanded_url": "http://www.latimes.com/business/lanews-david-lazarus-20130507-staff.html",
+							"display_url": "latimes.com/business/lanew…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16666,
+			"friends_count": 1340,
+			"listed_count": 623,
+			"created_at": "Thu Feb 19 19:04:39 +0000 2009",
+			"favourites_count": 58146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753254982510448640/i8EZpjPO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753254982510448640/i8EZpjPO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21328006/1363975904",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1229838562734039000,
+		"quoted_status_id_str": "1229838562734039040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KbRIQLuol2",
+			"expanded": "https://twitter.com/kaitlancollins/status/1229838562734039040",
+			"display": "twitter.com/kaitlancollins…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 18 18:42:17 +0000 2020",
+			"id": 1229838562734039000,
+			"id_str": "1229838562734039040",
+			"full_text": "Before boarding Air Force One, Trump announces he has commuted the sentence of former Illinois Gov. Rod Blagojevich.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 180107694,
+				"id_str": "180107694",
+				"name": "Kaitlan Collins",
+				"screen_name": "kaitlancollins",
+				"location": "Washington, D.C.",
+				"description": "CNN White House Correspondent",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 261872,
+				"friends_count": 589,
+				"listed_count": 3022,
+				"created_at": "Wed Aug 18 21:21:08 +0000 2010",
+				"favourites_count": 53,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10949,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F4E9E9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1082054511043108864/FU2tpLLr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082054511043108864/FU2tpLLr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180107694/1486678997",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "D6BCFF",
+				"profile_sidebar_fill_color": "5B5151",
+				"profile_text_color": "C8C297",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 237,
+			"favorite_count": 401,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 49,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No felon left behind https://t.co/KbRIQLuol2"
+	},
+	{
+		"created_at": "Tue Feb 18 18:51:07 +0000 2020",
+		"id": 1229838929576235000,
+		"id_str": "1229840785287172096",
+		"full_text": "NYT now reporting that Trump has commuted Blagojevich’s sentence https://t.co/3M2mTtKXF3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3M2mTtKXF3",
+					"expanded_url": "https://www.nytimes.com/2020/02/18/us/politics/trump-pardon-blagojevich-debartolo.html",
+					"display_url": "nytimes.com/2020/02/18/us/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17614726,
+			"id_str": "17614726",
+			"name": "Brandon Wall",
+			"screen_name": "Walldo",
+			"location": "Chicago ➡️ LA ➡️ New to NY",
+			"description": "Deputy Curation Director @BuzzFeedNews | I oversee content distribution and help with newsroom strategy | Reporter @ heart | @suntimes alum",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20593,
+			"friends_count": 4016,
+			"listed_count": 756,
+			"created_at": "Tue Nov 25 07:13:27 +0000 2008",
+			"favourites_count": 78321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 137171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "376661",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185407186840641542/XjpPx0Jq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185407186840641542/XjpPx0Jq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17614726/1482626259",
+			"profile_link_color": "525252",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFCF0F",
+			"profile_text_color": "403B32",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NYT now reporting that Trump has commuted Blagojevich’s sentence https://t.co/3M2mTtKXF3"
+	},
+	{
+		"created_at": "Tue Feb 18 18:33:00 +0000 2020",
+		"id": 1229816077967712300,
+		"id_str": "1229836228456935424",
+		"full_text": "The California Primary is 2 weeks away and the state changed a bunch of stuff about how you actually cast your vote. Luckily,@phihado @adrienneshih and @MelissaGomez004 made a handy guide so you don't get confused.\n\n https://t.co/B9Q4znjtS6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "phihado",
+					"name": "Phi Do",
+					"id": 3111647040,
+					"id_str": "3111647040",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"screen_name": "adrienneshih",
+					"name": "Adrienne Shih",
+					"id": 123525091,
+					"id_str": "123525091",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"screen_name": "MelissaGomez004",
+					"name": "Melissa Gomez",
+					"id": 2558218715,
+					"id_str": "2558218715",
+					"indices": [
+						152,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B9Q4znjtS6",
+					"expanded_url": "https://www.latimes.com/politics/story/2020-02-03/california-voter-information-primary-election",
+					"display_url": "latimes.com/politics/story…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68556549,
+			"id_str": "68556549",
+			"name": "Samantha Melbourneweaver",
+			"screen_name": "SamanthaMVB",
+			"location": "Highland Park, CA",
+			"description": "Audience Engagement Director at @latimes. Previously @socalnewsgroup and @azcentral. @Cronkite_ASU alum.",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2428,
+			"friends_count": 2475,
+			"listed_count": 97,
+			"created_at": "Tue Aug 25 00:26:03 +0000 2009",
+			"favourites_count": 1279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063972074606092288/-6dPY7XB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063972074606092288/-6dPY7XB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68556549/1420212339",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The California Primary is 2 weeks away and the state changed a bunch of stuff about how you actually cast your vote. Luckily,@phihado @adrienneshih and @MelissaGomez004 made a handy guide so you don't get confused.\n\n https://t.co/B9Q4znjtS6"
+	},
+	{
 		"created_at": "Tue Feb 18 17:11:59 +0000 2020",
 		"id": 1229815840163254300,
 		"id_str": "1229815840163254272",
