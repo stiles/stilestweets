@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 03:33:07 +0000 2020",
+		"id": 1229945325177061400,
+		"id_str": "1229972153828700160",
+		"full_text": "Paywalls are the easiest walls to knock down; all you gotta do is PAY. Here’s the chisel, bruh—you do the rest! https://t.co/tNl1EptgNS https://t.co/XvlR8b2G1q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tNl1EptgNS",
+					"expanded_url": "https://www.latimes.com/subscriptions/",
+					"display_url": "latimes.com/subscriptions/",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/XvlR8b2G1q",
+					"expanded_url": "https://twitter.com/ozrkjn/status/1229910514630873088",
+					"display_url": "twitter.com/ozrkjn/status/…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15518170,
+			"id_str": "15518170",
+			"name": "Col. Gustavo Arellano",
+			"screen_name": "GustavoArellano",
+			"location": "Anacrime,OC,Zacatecas",
+			"description": "Con su pluma en su mano for @latimes. Investigations/tacos/history/OC/DESMADRE. Eternal Mexican, KY Col. ✉️: mexicanwithglasses@gmail.com & my newsletter below!",
+			"url": "https://t.co/h6ctxISTf1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6ctxISTf1",
+							"expanded_url": "http://tinyletter.com/gustavoarellanosweekly",
+							"display_url": "tinyletter.com/gustavoarellan…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23488,
+			"friends_count": 426,
+			"listed_count": 628,
+			"created_at": "Mon Jul 21 17:45:07 +0000 2008",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 272986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105308321668460545/G2xfLioi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105308321668460545/G2xfLioi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15518170/1545190490",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1229910514630873000,
+		"quoted_status_id_str": "1229910514630873088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XvlR8b2G1q",
+			"expanded": "https://twitter.com/ozrkjn/status/1229910514630873088",
+			"display": "twitter.com/ozrkjn/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 18 23:28:11 +0000 2020",
+			"id": 1229910514630873000,
+			"id_str": "1229910514630873088",
+			"full_text": "@ucrholly @latimes @GustavoArellano @UCRiverside Would really love to read but like most great stories on the web now it's behind a paywall.😕",
+			"truncated": false,
+			"display_text_range": [
+				49,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ucrholly",
+						"name": "Holly Ober",
+						"id": 987386169687076900,
+						"id_str": "987386169687076864",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							10,
+							18
+						]
+					},
+					{
+						"screen_name": "GustavoArellano",
+						"name": "Col. Gustavo Arellano",
+						"id": 15518170,
+						"id_str": "15518170",
+						"indices": [
+							19,
+							35
+						]
+					},
+					{
+						"screen_name": "UCRiverside",
+						"name": "UC Riverside",
+						"id": 20448698,
+						"id_str": "20448698",
+						"indices": [
+							36,
+							48
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1229812103269142500,
+			"in_reply_to_status_id_str": "1229812103269142529",
+			"in_reply_to_user_id": 987386169687076900,
+			"in_reply_to_user_id_str": "987386169687076864",
+			"in_reply_to_screen_name": "ucrholly",
+			"user": {
+				"id": 65763778,
+				"id_str": "65763778",
+				"name": "OzrKjn",
+				"screen_name": "OzrKjn",
+				"location": "NW Arkansas",
+				"description": "Originally from NOLA now in the beautiful Ozarks. Love my family, friends, animals, liberty and justice for ALL.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44,
+				"friends_count": 382,
+				"listed_count": 1,
+				"created_at": "Fri Aug 14 23:16:27 +0000 2009",
+				"favourites_count": 3453,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 229,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1146097763794509825/rvnvjl0R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146097763794509825/rvnvjl0R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65763778/1445384206",
+				"profile_link_color": "009AB9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Paywalls are the easiest walls to knock down; all you gotta do is PAY. Here’s the chisel, bruh—you do the rest! https://t.co/tNl1EptgNS https://t.co/XvlR8b2G1q"
+	},
+	{
 		"created_at": "Wed Feb 19 01:52:07 +0000 2020",
 		"id": 1229946735700529200,
 		"id_str": "1229946735700529152",
