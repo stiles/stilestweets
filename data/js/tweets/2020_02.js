@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 22:49:05 +0000 2020",
+		"id": 1230263061849624600,
+		"id_str": "1230263061849624576",
+		"full_text": "I can't read this tweet without Ellis Carver's voice... https://t.co/tPdD3DSrAy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tPdD3DSrAy",
+					"expanded_url": "https://twitter.com/AoDespair/status/1230259607647522819",
+					"display_url": "twitter.com/AoDespair/stat…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11258,
+			"friends_count": 1957,
+			"listed_count": 875,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581616080",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1230259607647522800,
+		"quoted_status_id_str": "1230259607647522819",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tPdD3DSrAy",
+			"expanded": "https://twitter.com/AoDespair/status/1230259607647522819",
+			"display": "twitter.com/AoDespair/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 19 22:35:22 +0000 2020",
+			"id": 1230259607647522800,
+			"id_str": "1230259607647522819",
+			"full_text": "Who funds you, fucknuts? https://t.co/2OGEyHCgkL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				24
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2OGEyHCgkL",
+						"expanded_url": "https://twitter.com/FDRLST/status/1230160111852670977",
+						"display_url": "twitter.com/FDRLST/status/…",
+						"indices": [
+							25,
+							48
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 738538436,
+				"id_str": "738538436",
+				"name": "David Simon",
+				"screen_name": "AoDespair",
+				"location": "Baltimore, MD",
+				"description": "Author, journalist, and TV writer/producer.  Angriest Man in Television is faint praise indeed.",
+				"url": "http://t.co/HeZcYqokGo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HeZcYqokGo",
+								"expanded_url": "http://davidsimon.com/",
+								"display_url": "davidsimon.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251448,
+				"friends_count": 504,
+				"listed_count": 2708,
+				"created_at": "Sun Aug 05 12:53:48 +0000 2012",
+				"favourites_count": 5209,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 79243,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/622577947434741760/XTFh2S53_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/622577947434741760/XTFh2S53_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/738538436/1445281343",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1230160111852671000,
+			"quoted_status_id_str": "1230160111852670977",
+			"quoted_status_permalink": {
+				"url": "https://t.co/2OGEyHCgkL",
+				"expanded": "https://twitter.com/FDRLST/status/1230160111852670977",
+				"display": "twitter.com/FDRLST/status/…"
+			},
+			"retweet_count": 42,
+			"favorite_count": 494,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can't read this tweet without Ellis Carver's voice... https://t.co/tPdD3DSrAy"
+	},
+	{
 		"created_at": "Wed Feb 19 21:49:23 +0000 2020",
 		"id": 1230248037835894800,
 		"id_str": "1230248037835894784",
