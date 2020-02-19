@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 00:24:25 +0000 2020",
+		"id": 1229923808720515000,
+		"id_str": "1229924662244544512",
+		"full_text": "This marks Trump's 4th visit to California as president. \n\nTomorrow, he'll meet with Kevin McCarthy in Bakersfield and head to a fundraising golf event in Rancho Mirage, hosted by Oracle Chairman Larry Ellison https://t.co/0R229CUTyt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0R229CUTyt",
+					"expanded_url": "https://www.latimes.com/california/story/2020-02-18/trump-to-visit-los-angeles-today-heres-what-you-need-to-know",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1229922972103667700,
+		"in_reply_to_status_id_str": "1229922972103667712",
+		"in_reply_to_user_id": 366423465,
+		"in_reply_to_user_id_str": "366423465",
+		"in_reply_to_screen_name": "CShalby",
+		"user": {
+			"id": 366423465,
+			"id_str": "366423465",
+			"name": "Colleen Shalby",
+			"screen_name": "CShalby",
+			"location": "Los Angeles",
+			"description": "Reporter at @latimes. Alum of @NewsHour + GWU. Reach me at colleen.shalby@latimes.com",
+			"url": "https://t.co/0W8NN77DdC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0W8NN77DdC",
+							"expanded_url": "http://www.latimes.com/la-bio-colleen-shalby-staff.html",
+							"display_url": "latimes.com/la-bio-colleen…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4249,
+			"friends_count": 999,
+			"listed_count": 219,
+			"created_at": "Fri Sep 02 04:31:22 +0000 2011",
+			"favourites_count": 5714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "063F78",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184902555026853888/1bYPDNoT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184902555026853888/1bYPDNoT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366423465/1533152259",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This marks Trump's 4th visit to California as president. \n\nTomorrow, he'll meet with Kevin McCarthy in Bakersfield and head to a fundraising golf event in Rancho Mirage, hosted by Oracle Chairman Larry Ellison https://t.co/0R229CUTyt"
+	},
+	{
 		"created_at": "Wed Feb 19 00:16:07 +0000 2020",
 		"id": 1229922573837729800,
 		"id_str": "1229922573837729792",
