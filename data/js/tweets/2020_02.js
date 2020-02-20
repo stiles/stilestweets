@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 18:27:00 +0000 2020",
+		"id": 1230558066539561000,
+		"id_str": "1230559491826958339",
+		"full_text": "I’m span of few days, Trump has put a Trump Hotel gold club loyalty member in charge of US spy agencies, commuted sentences of criminals with Trump connections, signaled possible pardon to campaign aide convicted of lying to Congress and threatening witness.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 242907470,
+			"id_str": "242907470",
+			"name": "Greg Miller",
+			"screen_name": "gregpmiller",
+			"location": "Washington, D.C.",
+			"description": "Greg Miller is a National Security Correspondent for The Washington Post, winner of Pulitzer Prize and author of The Apprentice. greg.miller@washpost.com",
+			"url": "http://t.co/SPerOfFo0w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SPerOfFo0w",
+							"expanded_url": "http://www.washingtonpost.com/greg-miller/2011/03/02/ABDOymP_page.html",
+							"display_url": "washingtonpost.com/greg-miller/20…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111947,
+			"friends_count": 1193,
+			"listed_count": 2105,
+			"created_at": "Tue Jan 25 21:40:14 +0000 2011",
+			"favourites_count": 779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030478013631262722/oYihN1G__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030478013631262722/oYihN1G__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/242907470/1579810225",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 182,
+		"favorite_count": 299,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m span of few days, Trump has put a Trump Hotel gold club loyalty member in charge of US spy agencies, commuted sentences of criminals with Trump connections, signaled possible pardon to campaign aide convicted of lying to Congress and threatening witness."
+	},
+	{
 		"created_at": "Wed Feb 19 23:55:58 +0000 2020",
 		"id": 1230276901094060000,
 		"id_str": "1230279893382041601",
