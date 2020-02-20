@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 22:01:58 +0000 2020",
+		"id": 1230582658024931300,
+		"id_str": "1230613589313998848",
+		"full_text": "Looking for a place to vote in L.A. County? Try this useful @latimes interactive map from @stiles and @ryanvmenezes:  https://t.co/N2zunUnIrY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N2zunUnIrY",
+					"expanded_url": "https://www.latimes.com/projects/la-county-vote-center-locations/",
+					"display_url": "latimes.com/projects/la-co…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1480484899,
+			"id_str": "1480484899",
+			"name": "carlos valdez lozano",
+			"screen_name": "carlosvlozano",
+			"location": "los angeles, ca.",
+			"description": "asst. metro editor @latimes, writer, dodgers fan, globetrotter, music junkie",
+			"url": "http://t.co/zb8HyvYyAJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/zb8HyvYyAJ",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1055,
+			"friends_count": 701,
+			"listed_count": 43,
+			"created_at": "Mon Jun 03 19:25:59 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227120030984241153/CNGhy0Vp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227120030984241153/CNGhy0Vp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1480484899/1565137689",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking for a place to vote in L.A. County? Try this useful @latimes interactive map from @stiles and @ryanvmenezes:  https://t.co/N2zunUnIrY"
+	},
+	{
 		"created_at": "Thu Feb 20 18:27:00 +0000 2020",
 		"id": 1230558066539561000,
 		"id_str": "1230559491826958339",
