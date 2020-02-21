@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 19:00:17 +0000 2020",
+		"id": 1230927053391835100,
+		"id_str": "1230930255008780290",
+		"full_text": "Interested in learning Python for data analysis, web scraping and sucking data from PDFs? UT is hosting an IRE bootcamp April 17-19. Scholarships available: https://t.co/MtIUQaM06t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MtIUQaM06t",
+					"expanded_url": "https://ire.org/events-and-training/fellowships-and-scholarships/#pythonbootcamp",
+					"display_url": "ire.org/events-and-tra…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5712972,
+			"id_str": "5712972",
+			"name": "Christian McDonald",
+			"screen_name": "crit",
+			"location": "Austin, TX",
+			"description": "Current job: Assistant Professor of Practice at UT-Austin School of Journalism. Past: @statesman, @ajc. I teach data and coding.  I love soccer, heavy metal.",
+			"url": "https://t.co/9FDU1PFtyS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9FDU1PFtyS",
+							"expanded_url": "http://www.cmcdonald.com/",
+							"display_url": "cmcdonald.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1392,
+			"friends_count": 741,
+			"listed_count": 147,
+			"created_at": "Wed May 02 13:17:44 +0000 2007",
+			"favourites_count": 1291,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/716094756938362881/DoCKs_WW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/716094756938362881/DoCKs_WW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5712972/1488756395",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interested in learning Python for data analysis, web scraping and sucking data from PDFs? UT is hosting an IRE bootcamp April 17-19. Scholarships available: https://t.co/MtIUQaM06t"
+	},
+	{
 		"created_at": "Fri Feb 21 03:03:07 +0000 2020",
 		"id": 1230689378969587700,
 		"id_str": "1230689378969587712",
