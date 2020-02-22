@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 23:17:37 +0000 2020",
+		"id": 1231353231298613200,
+		"id_str": "1231357406937927681",
+		"full_text": "It’s the first day of early voting in California &amp; machines are not working at most polling places in LA county.\n\nThis is not good. This suppresses votes.\n\nPeople are being turned away. It’s Saturday, it’s when most people can vote. https://t.co/yAdZnte4Ay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231353216710824000,
+					"id_str": "1231353216710823936",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/ERalOgMVUAAo38w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERalOgMVUAAo38w.jpg",
+					"url": "https://t.co/yAdZnte4Ay",
+					"display_url": "pic.twitter.com/yAdZnte4Ay",
+					"expanded_url": "https://twitter.com/TwinklingTania/status/1231353231298613249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231353216710824000,
+					"id_str": "1231353216710823936",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/ERalOgMVUAAo38w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERalOgMVUAAo38w.jpg",
+					"url": "https://t.co/yAdZnte4Ay",
+					"display_url": "pic.twitter.com/yAdZnte4Ay",
+					"expanded_url": "https://twitter.com/TwinklingTania/status/1231353231298613249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231353216710787000,
+					"id_str": "1231353216710787072",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/ERalOgMUwAAjPOo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERalOgMUwAAjPOo.jpg",
+					"url": "https://t.co/yAdZnte4Ay",
+					"display_url": "pic.twitter.com/yAdZnte4Ay",
+					"expanded_url": "https://twitter.com/TwinklingTania/status/1231353231298613249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 298110297,
+			"id_str": "298110297",
+			"name": "Tania Singh",
+			"screen_name": "TwinklingTania",
+			"location": "",
+			"description": "Eboard @CA_Dem AD61; Labor Organizer, Leftist, Sex Positive, Cannabis enthusiast, over sharer of intimate feelings & perpetually experiencing FOMO.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16866,
+			"friends_count": 3243,
+			"listed_count": 78,
+			"created_at": "Fri May 13 18:20:55 +0000 2011",
+			"favourites_count": 67292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222371752384196608/HmNcFm-L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222371752384196608/HmNcFm-L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/298110297/1571806496",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s the first day of early voting in California &amp; machines are not working at most polling places in LA county.\n\nThis is not good. This suppresses votes.\n\nPeople are being turned away. It’s Saturday, it’s when most people can vote. https://t.co/yAdZnte4Ay"
+	},
+	{
 		"created_at": "Sat Feb 22 22:16:51 +0000 2020",
 		"id": 1231312887408283600,
 		"id_str": "1231342114107117568",
