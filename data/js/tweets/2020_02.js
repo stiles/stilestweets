@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 04:11:24 +0000 2020",
+		"id": 1231068318011809800,
+		"id_str": "1231068950420578305",
+		"full_text": "Jill and Joe Biden at his last campaign event before the Nevada caucuses Saturday - the Vice President on the eve of the most important week of his political career. @nprpolitics @asmamk https://t.co/iCTJcLXh43",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nprpolitics",
+					"name": "NPR Politics",
+					"id": 5741722,
+					"id_str": "5741722",
+					"indices": [
+						166,
+						178
+					]
+				},
+				{
+					"screen_name": "asmamk",
+					"name": "Asma Khalid",
+					"id": 187838951,
+					"id_str": "187838951",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231068311292563500,
+					"id_str": "1231068311292563457",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/ERWiG0zVUAEWfk5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERWiG0zVUAEWfk5.jpg",
+					"url": "https://t.co/iCTJcLXh43",
+					"display_url": "pic.twitter.com/iCTJcLXh43",
+					"expanded_url": "https://twitter.com/MEvstatieva/status/1231068318011809792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231068311292563500,
+					"id_str": "1231068311292563457",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/ERWiG0zVUAEWfk5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERWiG0zVUAEWfk5.jpg",
+					"url": "https://t.co/iCTJcLXh43",
+					"display_url": "pic.twitter.com/iCTJcLXh43",
+					"expanded_url": "https://twitter.com/MEvstatieva/status/1231068318011809792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26324070,
+			"id_str": "26324070",
+			"name": "Monika Evstatieva",
+			"screen_name": "MEvstatieva",
+			"location": "Washington, DC",
+			"description": "Senior Producer @nprpolitics; formerly at @nytimes, @nprweekend, @npratc; occasional world traveler; roots: 🇧🇬",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6066,
+			"friends_count": 1739,
+			"listed_count": 145,
+			"created_at": "Tue Mar 24 21:05:53 +0000 2009",
+			"favourites_count": 2934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/916153874758754305/z1tYwdji_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/916153874758754305/z1tYwdji_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26324070/1579459784",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jill and Joe Biden at his last campaign event before the Nevada caucuses Saturday - the Vice President on the eve of the most important week of his political career. @nprpolitics @asmamk https://t.co/iCTJcLXh43"
+	},
+	{
+		"created_at": "Sat Feb 22 04:07:53 +0000 2020",
+		"id": 1231066527522283500,
+		"id_str": "1231068065242079238",
+		"full_text": "Back from a funeral and so, well, check on that friend or colleague you haven't heard from in a while ok?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8119452,
+			"id_str": "8119452",
+			"name": "💀 damned sinker 💀",
+			"screen_name": "dansinker",
+			"location": "Chicago, IL",
+			"description": "I do https://t.co/xyanwamsDC. Co-host of @sayswhopodcast, formerly @opennews, author of @MayorEmanuel, founder of Punk Planet (RIP), #1 Candle King of Kickstarter",
+			"url": "https://t.co/KfjG5DhmVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KfjG5DhmVG",
+							"expanded_url": "http://dansinker.com",
+							"display_url": "dansinker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xyanwamsDC",
+							"expanded_url": "http://impeachment.fyi",
+							"display_url": "impeachment.fyi",
+							"indices": [
+								5,
+								28
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25261,
+			"friends_count": 4001,
+			"listed_count": 1347,
+			"created_at": "Sat Aug 11 05:51:44 +0000 2007",
+			"favourites_count": 80664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 120404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8119452/1347983122",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 55,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Back from a funeral and so, well, check on that friend or colleague you haven't heard from in a while ok?"
+	},
+	{
 		"created_at": "Fri Feb 21 21:34:40 +0000 2020",
 		"id": 1230969109103276000,
 		"id_str": "1230969109103276032",
