@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 22:16:51 +0000 2020",
+		"id": 1231312887408283600,
+		"id_str": "1231342114107117568",
+		"full_text": "OK, I just voted in LA County, and if you live here, this is a thread with a few things you should know.\n\n1) If you got sent a vote by mail ballot, BRING IT WITH YOU to the polls to surrender it. I didn't ask for one, but they sent me one automatically, and when I first showed 1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21156254,
+			"id_str": "21156254",
+			"name": "Matt Walker",
+			"screen_name": "funnymatt",
+			"location": "Orion-Cygnus Arm, Milky Way",
+			"description": "Comedian, writer, actor, nerd, gamer. Co-host of #TheNightTimeShow. Shorty Award winner for #Comedian in 2012. Trek is better than Wars.\nmatt@funnymatt.com",
+			"url": "https://t.co/dSd3XZrVKo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dSd3XZrVKo",
+							"expanded_url": "http://www.funnymatt.com/h8r",
+							"display_url": "funnymatt.com/h8r",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7706,
+			"friends_count": 3720,
+			"listed_count": 117,
+			"created_at": "Wed Feb 18 01:31:53 +0000 2009",
+			"favourites_count": 2263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 60444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D75F18",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/613807638770364416/tv8T7FDd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/613807638770364416/tv8T7FDd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21156254/1418352523",
+			"profile_link_color": "D75F18",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFDFDF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "OK, I just voted in LA County, and if you live here, this is a thread with a few things you should know.\n\n1) If you got sent a vote by mail ballot, BRING IT WITH YOU to the polls to surrender it. I didn't ask for one, but they sent me one automatically, and when I first showed 1/"
+	},
+	{
 		"created_at": "Sat Feb 22 04:11:24 +0000 2020",
 		"id": 1231068318011809800,
 		"id_str": "1231068950420578305",
