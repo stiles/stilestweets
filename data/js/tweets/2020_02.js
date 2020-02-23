@@ -1,6 +1,126 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 23 21:07:13 +0000 2020",
+		"id": 1231417893553725400,
+		"id_str": "1231686977512099840",
+		"full_text": "Not without hiccups and first day issues, the new voting model in #LACounty is underway. #VSAP equipment performed well and voter feedback on usability was positive. More work ahead to ensure better coordination of facilities and logistics as we set course for the ten days ahead.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LACounty",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "VSAP",
+					"indices": [
+						89,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21807663,
+			"id_str": "21807663",
+			"name": "Dean Logan, RR/CC",
+			"screen_name": "LACountyRRCC",
+			"location": "Los Angeles County",
+			"description": "L.A. County Registrar-Recorder/County Clerk | Elections? We conduct them.\nRecords? We have those.\nGetting Married? We do that too.\nhttps://t.co/yo9p8vsY6o",
+			"url": "http://t.co/VkLKHVYxBl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VkLKHVYxBl",
+							"expanded_url": "http://www.lavote.net",
+							"display_url": "lavote.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yo9p8vsY6o",
+							"expanded_url": "http://www.lavote.net/documents/media/RRCC_SMSDisclaimers.pdf",
+							"display_url": "lavote.net/documents/medi…",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6472,
+			"friends_count": 1436,
+			"listed_count": 254,
+			"created_at": "Tue Feb 24 22:40:37 +0000 2009",
+			"favourites_count": 5369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981222659189977088/jlnhwlt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21807663/1579280807",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 74,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Not without hiccups and first day issues, the new voting model in #LACounty is underway. #VSAP equipment performed well and voter feedback on usability was positive. More work ahead to ensure better coordination of facilities and logistics as we set course for the ten days ahead."
+	},
+	{
 		"created_at": "Sun Feb 23 00:10:26 +0000 2020",
 		"id": 1231370695419908000,
 		"id_str": "1231370695419908097",
