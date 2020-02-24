@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 24 15:52:18 +0000 2020",
+		"id": 1231970114922107000,
+		"id_str": "1231970114922106880",
+		"full_text": "@laura_nelson It's because someone who won't be named washed it with soap and water.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laura_nelson",
+					"name": "Laura J. Nelson 🦅",
+					"id": 16538210,
+					"id_str": "16538210",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1231969217756352500,
+		"in_reply_to_status_id_str": "1231969217756352512",
+		"in_reply_to_user_id": 16538210,
+		"in_reply_to_user_id_str": "16538210",
+		"in_reply_to_screen_name": "laura_nelson",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11264,
+			"friends_count": 1964,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581616080",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@laura_nelson It's because someone who won't be named washed it with soap and water."
+	},
+	{
+		"created_at": "Mon Feb 24 15:51:44 +0000 2020",
+		"id": 1231955390457208800,
+		"id_str": "1231969969681788929",
+		"full_text": "With election day 8 days away and vote centers open in participating counties, it’s clear California’s presidential primary hinges on big voting changes in Los Angeles. ⁦@stiles and I take a closer look.⁩\nhttps://t.co/QCbNWca7co",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						170,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QCbNWca7co",
+					"expanded_url": "https://www.latimes.com/california/story/2020-02-24/california-presidential-primary-could-hinge-on-big-voting-changes-in-los-angeles",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20873135,
+			"id_str": "20873135",
+			"name": "John Myers",
+			"screen_name": "johnmyers",
+			"location": "john.myers@latimes.com",
+			"description": "Sacramento Bureau Chief, Los Angeles Times. Most of the menu is California politics with a dollop of #GoDuke 🏀. Join us at https://t.co/NlZqoJeLo0",
+			"url": "https://t.co/1bea9GlklB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1bea9GlklB",
+							"expanded_url": "http://www.facebook.com/politicsCalifornia",
+							"display_url": "facebook.com/politicsCalifo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NlZqoJeLo0",
+							"expanded_url": "http://membership.latimes.com",
+							"display_url": "membership.latimes.com",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27668,
+			"friends_count": 1295,
+			"listed_count": 1281,
+			"created_at": "Sat Feb 14 21:38:14 +0000 2009",
+			"favourites_count": 3536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9266CC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/640032582021742593/QHpCoxdH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/640032582021742593/QHpCoxdH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20873135/1574311744",
+			"profile_link_color": "6117EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F2F7F6",
+			"profile_text_color": "1D0101",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With election day 8 days away and vote centers open in participating counties, it’s clear California’s presidential primary hinges on big voting changes in Los Angeles. ⁦@stiles and I take a closer look.⁩\nhttps://t.co/QCbNWca7co"
+	},
+	{
+		"created_at": "Mon Feb 24 15:51:28 +0000 2020",
+		"id": 1231944085637779500,
+		"id_str": "1231969903193686016",
+		"full_text": "New voting machines. Thousands of polling places closed, replaced w/ regional vote centers. 62,000 different ballot configurations. What could go wrong in LA County on Super Tuesday? from @johnmyers &amp; @stiles https://t.co/roaSowseKS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnmyers",
+					"name": "John Myers",
+					"id": 20873135,
+					"id_str": "20873135",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						205,
+						212
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/roaSowseKS",
+					"expanded_url": "https://www.latimes.com/california/story/2020-02-24/california-presidential-primary-could-hinge-on-big-voting-changes-in-los-angeles",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150793102,
+			"id_str": "150793102",
+			"name": "Michael Finnegan",
+			"screen_name": "finneganLAT",
+			"location": "Los Angeles",
+			"description": "Los Angeles Times politics reporter covering the 2020 presidential campaign.",
+			"url": "https://t.co/YrYeLKoWJS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YrYeLKoWJS",
+							"expanded_url": "http://www.latimes.com/la-bio-michael-finnegan-staff.html",
+							"display_url": "latimes.com/la-bio-michael…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9491,
+			"friends_count": 1424,
+			"listed_count": 342,
+			"created_at": "Tue Jun 01 21:05:19 +0000 2010",
+			"favourites_count": 220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187412574549102593/HbfrfETw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187412574549102593/HbfrfETw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/150793102/1568136348",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New voting machines. Thousands of polling places closed, replaced w/ regional vote centers. 62,000 different ballot configurations. What could go wrong in LA County on Super Tuesday? from @johnmyers &amp; @stiles https://t.co/roaSowseKS"
+	},
+	{
+		"created_at": "Mon Feb 24 15:50:55 +0000 2020",
+		"id": 1231969765867962400,
+		"id_str": "1231969765867962370",
+		"full_text": "@LACountyRRCC @johnmyers BTW: @ryanvmenezes and I made this handy map to find locations of the new vote centers across LA county. Angelenos can vote at many of them starting yesterday and all of them by Feb. 29. \n\nDetails on the centers: https://t.co/lKyzlK0o7G\n\nMap: https://t.co/8nzQFuiDnG\n\nPLEASE RT!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			303
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "johnmyers",
+					"name": "John Myers",
+					"id": 20873135,
+					"id_str": "20873135",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						30,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lKyzlK0o7G",
+					"expanded_url": "https://www.latimes.com/california/story/2020-02-11/la-county-election-day-vote-centers-super-tuesday-polling-place",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						238,
+						261
+					]
+				},
+				{
+					"url": "https://t.co/8nzQFuiDnG",
+					"expanded_url": "https://www.latimes.com/projects/la-county-vote-center-locations/",
+					"display_url": "latimes.com/projects/la-co…",
+					"indices": [
+						268,
+						291
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1231968791459819500,
+		"in_reply_to_status_id_str": "1231968791459819520",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11264,
+			"friends_count": 1964,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581616080",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LACountyRRCC @johnmyers BTW: @ryanvmenezes and I made this handy map to find locations of the new vote centers across LA county. Angelenos can vote at many of them starting yesterday and all of them by Feb. 29. \n\nDetails on the centers: https://t.co/lKyzlK0o7G\n\nMap: https://t.co/8nzQFuiDnG\n\nPLEASE RT!"
+	},
+	{
 		"created_at": "Sun Feb 23 21:07:13 +0000 2020",
 		"id": 1231417893553725400,
 		"id_str": "1231686977512099840",
