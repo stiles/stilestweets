@@ -1,6 +1,666 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 24 17:00:24 +0000 2020",
+		"id": 1231987252483330000,
+		"id_str": "1231987252483330048",
+		"full_text": "@SamAugustDean https://t.co/QHdrmed075",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SamAugustDean",
+					"name": "Sam Dean 🦅",
+					"id": 82670189,
+					"id_str": "82670189",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231987238705090600,
+					"id_str": "1231987238705090560",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/ERjl3cLU0AAg32-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERjl3cLU0AAg32-.jpg",
+					"url": "https://t.co/QHdrmed075",
+					"display_url": "pic.twitter.com/QHdrmed075",
+					"expanded_url": "https://twitter.com/stiles/status/1231987252483330048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1524,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231987238705090600,
+					"id_str": "1231987238705090560",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/ERjl3cLU0AAg32-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERjl3cLU0AAg32-.jpg",
+					"url": "https://t.co/QHdrmed075",
+					"display_url": "pic.twitter.com/QHdrmed075",
+					"expanded_url": "https://twitter.com/stiles/status/1231987252483330048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1524,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1231983632597667800,
+		"in_reply_to_status_id_str": "1231983632597667840",
+		"in_reply_to_user_id": 82670189,
+		"in_reply_to_user_id_str": "82670189",
+		"in_reply_to_screen_name": "SamAugustDean",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11265,
+			"friends_count": 1965,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581616080",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@SamAugustDean https://t.co/QHdrmed075"
+	},
+	{
+		"created_at": "Mon Feb 24 16:50:54 +0000 2020",
+		"id": 1231984766863331300,
+		"id_str": "1231984860710854656",
+		"full_text": "Follow @JamesQueallyLAT and @LauraMNewberry for the latest on the verdict and what it means. https://t.co/mrxBm0yJIi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesQueallyLAT",
+					"name": "James Queally",
+					"id": 347599287,
+					"id_str": "347599287",
+					"indices": [
+						7,
+						23
+					]
+				},
+				{
+					"screen_name": "LauraMNewberry",
+					"name": "Laura Newberry",
+					"id": 547653410,
+					"id_str": "547653410",
+					"indices": [
+						28,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mrxBm0yJIi",
+					"expanded_url": "https://twitter.com/latimes/status/1231983989709131780",
+					"display_url": "twitter.com/latimes/status…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13479902,
+			"id_str": "13479902",
+			"name": "Julia Wick",
+			"screen_name": "sherlyholmes",
+			"location": "LA",
+			"description": "@latimes metro reporter & Essential California newsletter author (subscribe here: https://t.co/FxOtLkVeGE) Former EIC of @LAist. Native Angeleno.",
+			"url": "https://t.co/9nLR6Wm4Ya",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9nLR6Wm4Ya",
+							"expanded_url": "https://www.latimes.com/la-bio-julia-wick-staff.html",
+							"display_url": "latimes.com/la-bio-julia-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FxOtLkVeGE",
+							"expanded_url": "https://lat.ms/2JG6TWt",
+							"display_url": "lat.ms/2JG6TWt",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8269,
+			"friends_count": 1851,
+			"listed_count": 193,
+			"created_at": "Thu Feb 14 17:24:54 +0000 2008",
+			"favourites_count": 13902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13479902/1502071398",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1231983989709131800,
+		"quoted_status_id_str": "1231983989709131780",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mrxBm0yJIi",
+			"expanded": "https://twitter.com/latimes/status/1231983989709131780",
+			"display": "twitter.com/latimes/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 24 16:47:26 +0000 2020",
+			"id": 1231983989709131800,
+			"id_str": "1231983989709131780",
+			"full_text": "⚡️ Harvey Weinstein convicted on 2 out of 5 counts - criminal sexual act, rape https://t.co/wTEIToIoeB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wTEIToIoeB",
+						"expanded_url": "https://twitter.com/i/events/1230956635280928768",
+						"display_url": "twitter.com/i/events/12309…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16664681,
+				"id_str": "16664681",
+				"name": "Los Angeles Times",
+				"screen_name": "latimes",
+				"location": "El Segundo, CA",
+				"description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/KW9cHofnW4",
+				"url": "https://t.co/eTksmynSH7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eTksmynSH7",
+								"expanded_url": "http://latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KW9cHofnW4",
+								"expanded_url": "http://latimes.com/subscribe",
+								"display_url": "latimes.com/subscribe",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3518995,
+				"friends_count": 6919,
+				"listed_count": 32764,
+				"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+				"favourites_count": 2449,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 266036,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "615F61",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 88,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Follow @JamesQueallyLAT and @LauraMNewberry for the latest on the verdict and what it means. https://t.co/mrxBm0yJIi"
+	},
+	{
+		"created_at": "Mon Feb 24 16:44:40 +0000 2020",
+		"id": 1231980973190979600,
+		"id_str": "1231983292158660608",
+		"full_text": "There’s always a tweet for that. https://t.co/tHbMwsIb7p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tHbMwsIb7p",
+					"expanded_url": "https://twitter.com/tomrisen/status/1231961462467371010",
+					"display_url": "twitter.com/tomrisen/statu…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14298769,
+			"id_str": "14298769",
+			"name": "Molly Jong-Fast",
+			"screen_name": "MollyJongFast",
+			"location": "",
+			"description": "Editor at large @thedailybeast.      https://t.co/c9JzH8VPTP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9JzH8VPTP",
+							"expanded_url": "https://www.instagram.com/mollyjongfast/?hl=en",
+							"display_url": "instagram.com/mollyjongfast/…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 425372,
+			"friends_count": 5496,
+			"listed_count": 2666,
+			"created_at": "Fri Apr 04 01:41:30 +0000 2008",
+			"favourites_count": 744987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 183197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221616560252559360/d29_Rmsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221616560252559360/d29_Rmsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14298769/1560033873",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1231961462467371000,
+		"quoted_status_id_str": "1231961462467371010",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tHbMwsIb7p",
+			"expanded": "https://twitter.com/tomrisen/status/1231961462467371010",
+			"display": "twitter.com/tomrisen/statu…"
+		},
+		"retweet_count": 503,
+		"favorite_count": 1731,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There’s always a tweet for that. https://t.co/tHbMwsIb7p"
+	},
+	{
+		"created_at": "Mon Feb 24 16:44:15 +0000 2020",
+		"id": 1231983188500566000,
+		"id_str": "1231983188500566017",
+		"full_text": "@SamAugustDean If only we lived in Taiwan. They're the masters at this.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SamAugustDean",
+					"name": "Sam Dean 🦅",
+					"id": 82670189,
+					"id_str": "82670189",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1231982274494648300,
+		"in_reply_to_status_id_str": "1231982274494648324",
+		"in_reply_to_user_id": 82670189,
+		"in_reply_to_user_id_str": "82670189",
+		"in_reply_to_screen_name": "SamAugustDean",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California w/ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11265,
+			"friends_count": 1965,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581616080",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SamAugustDean If only we lived in Taiwan. They're the masters at this."
+	},
+	{
 		"created_at": "Mon Feb 24 15:52:18 +0000 2020",
 		"id": 1231970114922107000,
 		"id_str": "1231970114922106880",
