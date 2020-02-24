@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 24 17:41:03 +0000 2020",
+		"id": 1231997431715373000,
+		"id_str": "1231997479878459392",
+		"full_text": "Learn how you can build your own Albers USA tileset and upload it to Mapbox. Repeat these steps for all kinds of projections https://t.co/D0LOYZfgqO https://t.co/LUe7t5orMx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D0LOYZfgqO",
+					"expanded_url": "https://buff.ly/2SS1fE2",
+					"display_url": "buff.ly/2SS1fE2",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1231997429874069500,
+					"id_str": "1231997429874069504",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ERjvIpPWkAA5VPv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERjvIpPWkAA5VPv.jpg",
+					"url": "https://t.co/LUe7t5orMx",
+					"display_url": "pic.twitter.com/LUe7t5orMx",
+					"expanded_url": "https://twitter.com/Mapbox/status/1231997431715373058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231997429874069500,
+					"id_str": "1231997429874069504",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ERjvIpPWkAA5VPv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERjvIpPWkAA5VPv.jpg",
+					"url": "https://t.co/LUe7t5orMx",
+					"display_url": "pic.twitter.com/LUe7t5orMx",
+					"expanded_url": "https://twitter.com/Mapbox/status/1231997431715373058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55236002,
+			"id_str": "55236002",
+			"name": "Mapbox",
+			"screen_name": "Mapbox",
+			"location": "Washington DC + San Francisco",
+			"description": "Mapbox is the location data platform for mobile and web applications. We’re changing the way people move around cities and explore our world.",
+			"url": "https://t.co/dNEgySRm0u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dNEgySRm0u",
+							"expanded_url": "http://www.mapbox.com/",
+							"display_url": "mapbox.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67962,
+			"friends_count": 2075,
+			"listed_count": 2478,
+			"created_at": "Thu Jul 09 13:34:45 +0000 2009",
+			"favourites_count": 2523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D102D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112778715333836801/JDuDUMwe_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112778715333836801/JDuDUMwe_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55236002/1565896431",
+			"profile_link_color": "565656",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCEDFA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn how you can build your own Albers USA tileset and upload it to Mapbox. Repeat these steps for all kinds of projections https://t.co/D0LOYZfgqO https://t.co/LUe7t5orMx"
+	},
+	{
 		"created_at": "Mon Feb 24 17:00:24 +0000 2020",
 		"id": 1231987252483330000,
 		"id_str": "1231987252483330048",
