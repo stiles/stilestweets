@@ -1,6 +1,164 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 17:38:35 +0000 2020",
+		"id": 1232721636475801600,
+		"id_str": "1232721636475801600",
+		"full_text": "Just voted using the new #VSAP system at one of the many new vote centers in LA County. Not a hiccup. Staff helpful. System worked great from pollbook to casting the ballot. \n\nGo vote at one of these locations: https://t.co/8nzQFuiDnG cc @LACountyRRCC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VSAP",
+					"indices": [
+						25,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						238,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8nzQFuiDnG",
+					"expanded_url": "https://www.latimes.com/projects/la-county-vote-center-locations/",
+					"display_url": "latimes.com/projects/la-co…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11270,
+			"friends_count": 1965,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581616080",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9e39230480000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9e39230480000.json",
+			"place_type": "poi",
+			"name": "County of Los Angeles Public Library - Culver City Julian Dixon",
+			"full_name": "County of Los Angeles Public Library - Culver City Julian Dixon",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.39684731259626,
+							34.00757427730857
+						],
+						[
+							-118.39684731259626,
+							34.00757427730857
+						],
+						[
+							-118.39684731259626,
+							34.00757427730857
+						],
+						[
+							-118.39684731259626,
+							34.00757427730857
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just voted using the new #VSAP system at one of the many new vote centers in LA County. Not a hiccup. Staff helpful. System worked great from pollbook to casting the ballot. \n\nGo vote at one of these locations: https://t.co/8nzQFuiDnG cc @LACountyRRCC"
+	},
+	{
 		"created_at": "Wed Feb 26 13:39:57 +0000 2020",
 		"id": 1232639812546379800,
 		"id_str": "1232661582129221632",
