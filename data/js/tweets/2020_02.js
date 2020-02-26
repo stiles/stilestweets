@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 22:04:32 +0000 2020",
+		"id": 1232752614061805600,
+		"id_str": "1232788566180106240",
+		"full_text": "If you're wondering what @stiles is up to at the @latimes, the answer tells you a lot about the future not just of journalism but of data analytics as well.  https://t.co/gzd7Q8H2BZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						49,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gzd7Q8H2BZ",
+					"expanded_url": "https://www.hkstrategies.com/what-pepper-spray-can-teach-us-about-data-analytics/",
+					"display_url": "hkstrategies.com/what-pepper-sp…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145450074,
+			"id_str": "145450074",
+			"name": "Jason Stanford",
+			"screen_name": "JasStanford",
+			"location": "Austin, TX",
+			"description": "Writer. @bourbonface's +1. RTs are superdelegates. My newsletter: https://t.co/U8E34ec46v",
+			"url": "https://t.co/DSvjfbL6Al",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DSvjfbL6Al",
+							"expanded_url": "http://bit.ly/2o0yPc8",
+							"display_url": "bit.ly/2o0yPc8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U8E34ec46v",
+							"expanded_url": "https://jasonstanford.substack.com",
+							"display_url": "jasonstanford.substack.com",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7394,
+			"friends_count": 4253,
+			"listed_count": 272,
+			"created_at": "Wed May 19 00:53:36 +0000 2010",
+			"favourites_count": 30777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059779921260802053/5QDiyOEw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059779921260802053/5QDiyOEw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145450074/1513385764",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're wondering what @stiles is up to at the @latimes, the answer tells you a lot about the future not just of journalism but of data analytics as well.  https://t.co/gzd7Q8H2BZ"
+	},
+	{
 		"created_at": "Wed Feb 26 17:38:35 +0000 2020",
 		"id": 1232721636475801600,
 		"id_str": "1232721636475801600",
