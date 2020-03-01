@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 29 23:57:57 +0000 2020",
+		"id": 1233759415037255700,
+		"id_str": "1233904270782521344",
+		"full_text": "The problem with the left’s idea that juicing turnout can rescue ideologically extreme candidates: non-voters aren’t actually liberals! They’re moderates! \n\nAdults who didn’t turn out in 2012 or 2016 are just 4% likelier than swing voters to take the liberal view across 8 issues. https://t.co/rbJTQrf7E8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1233759406082445300,
+					"id_str": "1233759406082445312",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ER8xpKHXUAAid2E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER8xpKHXUAAid2E.jpg",
+					"url": "https://t.co/rbJTQrf7E8",
+					"display_url": "pic.twitter.com/rbJTQrf7E8",
+					"expanded_url": "https://twitter.com/gelliottmorris/status/1233759415037255681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 942,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 942,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1233759406082445300,
+					"id_str": "1233759406082445312",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ER8xpKHXUAAid2E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER8xpKHXUAAid2E.jpg",
+					"url": "https://t.co/rbJTQrf7E8",
+					"display_url": "pic.twitter.com/rbJTQrf7E8",
+					"expanded_url": "https://twitter.com/gelliottmorris/status/1233759415037255681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 942,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 942,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57029492,
+			"id_str": "57029492",
+			"name": "G. Elliott Morris",
+			"screen_name": "gelliottmorris",
+			"location": "Washington, DC",
+			"description": "Data-driven journalist @TheEconomist. Mostly cover polls, elections & political science. Past @pewmethods @UTAustin🐂. Blog/newsletter: https://t.co/jhDR4O2kWn",
+			"url": "https://t.co/zlUGH48jh4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zlUGH48jh4",
+							"expanded_url": "http://gelliottmorris.com",
+							"display_url": "gelliottmorris.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jhDR4O2kWn",
+							"expanded_url": "http://thecrosstab.substack.com",
+							"display_url": "thecrosstab.substack.com",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 43448,
+			"friends_count": 486,
+			"listed_count": 1346,
+			"created_at": "Wed Jul 15 14:24:06 +0000 2009",
+			"favourites_count": 33247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166699077406470146/8nCV6Cn6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166699077406470146/8nCV6Cn6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57029492/1579119881",
+			"profile_link_color": "3498DB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 438,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The problem with the left’s idea that juicing turnout can rescue ideologically extreme candidates: non-voters aren’t actually liberals! They’re moderates! \n\nAdults who didn’t turn out in 2012 or 2016 are just 4% likelier than swing voters to take the liberal view across 8 issues. https://t.co/rbJTQrf7E8"
+	},
+	{
 		"created_at": "Sat Feb 29 21:38:36 +0000 2020",
 		"id": 1233869201242083300,
 		"id_str": "1233869201242083328",
