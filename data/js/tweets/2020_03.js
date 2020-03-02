@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 17:14:45 +0000 2020",
+		"id": 1234525999821312000,
+		"id_str": "1234527578796412933",
+		"full_text": "Big $$ in County District 2 Supe's race: Assn. for Los Angeles Deputy Sheriffs State PAC gave $500,000 to group supporting Herb Wesson’s campaign, SEIU Local 721 gave $400,000. Groups backing Holly Mitchell spent at least $200,000, largely individual donors, reports @stiles",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						267,
+						274
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28052497,
+			"id_str": "28052497",
+			"name": "Dakota Smith",
+			"screen_name": "dakotacdsmith",
+			"location": "Los Angeles",
+			"description": "LA Times reporter covering Mayor Garcetti and City Hall. dakota.smith@latimes.com",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4945,
+			"friends_count": 696,
+			"listed_count": 205,
+			"created_at": "Wed Apr 01 04:43:27 +0000 2009",
+			"favourites_count": 903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172522964207591431/cnYD59Z4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172522964207591431/cnYD59Z4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28052497/1478578833",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Big $$ in County District 2 Supe's race: Assn. for Los Angeles Deputy Sheriffs State PAC gave $500,000 to group supporting Herb Wesson’s campaign, SEIU Local 721 gave $400,000. Groups backing Holly Mitchell spent at least $200,000, largely individual donors, reports @stiles"
+	},
+	{
+		"created_at": "Mon Mar 02 16:47:55 +0000 2020",
+		"id": 1234496668168417300,
+		"id_str": "1234520823790067713",
+		"full_text": "The #LATimes has a fantastic location finder to help you find where you can vote for #SuperTuesday. -  Looking for a place to vote in L.A. County? Try this useful @latimes interactive map from @stiles and @ryanvmenezes:  https://t.co/U6BHwG0jCc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LATimes",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "SuperTuesday",
+					"indices": [
+						85,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						193,
+						200
+					]
+				},
+				{
+					"screen_name": "ryanvmenezes",
+					"name": "Ryan Menezes",
+					"id": 24972827,
+					"id_str": "24972827",
+					"indices": [
+						205,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U6BHwG0jCc",
+					"expanded_url": "https://www.latimes.com/projects/la-county-vote-center-locations/",
+					"display_url": "latimes.com/projects/la-co…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18664064,
+			"id_str": "18664064",
+			"name": "Campus Circle",
+			"screen_name": "CampusCircle",
+			"location": "ÜT: 34.026283,-118.287504",
+			"description": "Campus Circle covers the latest in film, music and culture for college students and young professionals.",
+			"url": "http://t.co/oOBYdjDwNs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oOBYdjDwNs",
+							"expanded_url": "http://campuscircle.com",
+							"display_url": "campuscircle.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3317,
+			"friends_count": 3914,
+			"listed_count": 116,
+			"created_at": "Tue Jan 06 05:40:19 +0000 2009",
+			"favourites_count": 338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459772915894845441/hECeKdGS_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459772915894845441/hECeKdGS_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18664064/1436380886",
+			"profile_link_color": "00B2F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FBF8F3",
+			"profile_text_color": "2B2B2B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #LATimes has a fantastic location finder to help you find where you can vote for #SuperTuesday. -  Looking for a place to vote in L.A. County? Try this useful @latimes interactive map from @stiles and @ryanvmenezes:  https://t.co/U6BHwG0jCc"
+	},
+	{
 		"created_at": "Mon Mar 02 14:25:02 +0000 2020",
 		"id": 1234324807082107000,
 		"id_str": "1234484868437774336",
