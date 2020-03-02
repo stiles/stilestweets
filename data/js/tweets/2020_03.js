@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 14:25:02 +0000 2020",
+		"id": 1234324807082107000,
+		"id_str": "1234484868437774336",
+		"full_text": "California — If you marked your ballot but HAVE NOT mailed it in yet for #PeteButtigieg, you can can surrender that ballot at any local voting site till 8p Tuesday and ask for a new ballot. https://t.co/ms1oLrIikF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PeteButtigieg",
+					"indices": [
+						73,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ms1oLrIikF",
+					"expanded_url": "https://www.latimes.com/politics/story/2020-03-01/pete-buttigieg-tom-steyer-drop-out-california-primary-early-voting",
+					"display_url": "latimes.com/politics/story…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30725017,
+			"id_str": "30725017",
+			"name": "Daniel Hernandez✍🏽🌞",
+			"screen_name": "longdrivesouth",
+			"location": "Los Angeles/SD/TJ/Mexico City/",
+			"description": "Culture reporter @latimes. Border brother. Crackin' knuckles.",
+			"url": "https://t.co/d8AQ1IXWME",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d8AQ1IXWME",
+							"expanded_url": "https://www.newyorker.com/books/page-turner/the-exchange-daniel-hernandez-on-mexico-city",
+							"display_url": "newyorker.com/books/page-tur…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21030,
+			"friends_count": 6035,
+			"listed_count": 651,
+			"created_at": "Sun Apr 12 21:26:32 +0000 2009",
+			"favourites_count": 154657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "D8E610",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034337370902999040/ilG7EJ2-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034337370902999040/ilG7EJ2-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30725017/1463040617",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "619E06",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1606,
+		"favorite_count": 1885,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "California — If you marked your ballot but HAVE NOT mailed it in yet for #PeteButtigieg, you can can surrender that ballot at any local voting site till 8p Tuesday and ask for a new ballot. https://t.co/ms1oLrIikF"
+	},
+	{
 		"created_at": "Mon Mar 02 13:55:37 +0000 2020",
 		"id": 1234304476002963500,
 		"id_str": "1234477465487069185",
