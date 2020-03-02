@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 17:29:40 +0000 2020",
+		"id": 1234531329988915200,
+		"id_str": "1234531329988915201",
+		"full_text": "If you haven't yet cast your ballot, you can go to one of the 1,000 vote centers in LA County, surrender it and vote in person. Locations: https://t.co/8nzQFuiDnG https://t.co/cujxVXr1gP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8nzQFuiDnG",
+					"expanded_url": "https://www.latimes.com/projects/la-county-vote-center-locations/",
+					"display_url": "latimes.com/projects/la-co…",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/cujxVXr1gP",
+					"expanded_url": "https://twitter.com/CASOSvote/status/1234529630117216256",
+					"display_url": "twitter.com/CASOSvote/stat…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics). 我喜欢牛肉面",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11266,
+			"friends_count": 1965,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1581616080",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234529630117216300,
+		"quoted_status_id_str": "1234529630117216256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cujxVXr1gP",
+			"expanded": "https://twitter.com/CASOSvote/status/1234529630117216256",
+			"display": "twitter.com/CASOSvote/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 02 17:22:54 +0000 2020",
+			"id": 1234529630117216300,
+			"id_str": "1234529630117216256",
+			"full_text": "THREAD: Once a vote-by-mail ballot is cast, a voter cannot change their vote or request a new ballot. \n\nA vote-by-mail ballot is considered cast once it is mailed to or dropped off with an elections official, or dropped off at a polling location or drop box.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24424732,
+				"id_str": "24424732",
+				"name": "CA SOS Vote",
+				"screen_name": "CASOSvote",
+				"location": "California",
+				"description": "Statewide election news from the office of California Secretary of State Alex Padilla #RegisterToVote at: https://t.co/hr1I3LgPhl #VoteCalifornia",
+				"url": "https://t.co/L7bTiEkuDC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L7bTiEkuDC",
+								"expanded_url": "http://www.sos.ca.gov/",
+								"display_url": "sos.ca.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hr1I3LgPhl",
+								"expanded_url": "http://registertovote.ca.gov/",
+								"display_url": "registertovote.ca.gov",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10768,
+				"friends_count": 595,
+				"listed_count": 426,
+				"created_at": "Sat Mar 14 20:30:55 +0000 2009",
+				"favourites_count": 1054,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5640,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1065045654811009024/vMsLv3Uj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065045654811009024/vMsLv3Uj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24424732/1543273128",
+				"profile_link_color": "981B1F",
+				"profile_sidebar_border_color": "981B1F",
+				"profile_sidebar_fill_color": "FADF67",
+				"profile_text_color": "3D392D",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you haven't yet cast your ballot, you can go to one of the 1,000 vote centers in LA County, surrender it and vote in person. Locations: https://t.co/8nzQFuiDnG https://t.co/cujxVXr1gP"
+	},
+	{
 		"created_at": "Mon Mar 02 17:14:45 +0000 2020",
 		"id": 1234525999821312000,
 		"id_str": "1234527578796412933",
