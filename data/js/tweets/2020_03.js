@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 02:39:52 +0000 2020",
+		"id": 1234620243684647000,
+		"id_str": "1234669791601807361",
+		"full_text": "For my friends and colleagues who may be seeing the latest in social media fiction -- if I was to silence anyone (or pretend I had such power), it wouldn't be our dedicated election workers I would muzzle. Now, back to work.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23175052,
+			"id_str": "23175052",
+			"name": "Dean Logan",
+			"screen_name": "DCLogan",
+			"location": "Whittier, CA - L.A. County",
+			"description": "These are my personal views/shares. For official tweets of the Los Angeles County Registrar-Recorder/County Clerk, please follow @lacountyrrcc.",
+			"url": "http://t.co/VkLKHVYxBl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VkLKHVYxBl",
+							"expanded_url": "http://www.lavote.net",
+							"display_url": "lavote.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1370,
+			"friends_count": 461,
+			"listed_count": 32,
+			"created_at": "Sat Mar 07 07:24:08 +0000 2009",
+			"favourites_count": 2962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/706191961800052736/I4_b8FIg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/706191961800052736/I4_b8FIg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23175052/1357195589",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "For my friends and colleagues who may be seeing the latest in social media fiction -- if I was to silence anyone (or pretend I had such power), it wouldn't be our dedicated election workers I would muzzle. Now, back to work."
+	},
+	{
+		"created_at": "Tue Mar 03 02:36:34 +0000 2020",
+		"id": 1234568026336436200,
+		"id_str": "1234668963289653256",
+		"full_text": "Maybe that dream could include precinct-level election results by vote type going back several elections? https://t.co/B2s93ZHNEW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B2s93ZHNEW",
+					"expanded_url": "https://twitter.com/SR_spatial/status/1234135381408387073",
+					"display_url": "twitter.com/SR_spatial/sta…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14517538,
+			"id_str": "14517538",
+			"name": "Derek Willis",
+			"screen_name": "derekwillis",
+			"location": "Kensington Oval, ideally",
+			"description": "Journalist with coding habit @propublica. Hobby: @openelex. Cricket, @PP_Represent & campaign finance. DM for Signal/derek.willis@propublica.org. He/him/yinz",
+			"url": "https://t.co/xizhjsd6Vd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xizhjsd6Vd",
+							"expanded_url": "http://thescoop.org",
+							"display_url": "thescoop.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22966,
+			"friends_count": 1245,
+			"listed_count": 1433,
+			"created_at": "Thu Apr 24 20:48:23 +0000 2008",
+			"favourites_count": 22083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 96419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9BACE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061425559945822214/ns-bDp0l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061425559945822214/ns-bDp0l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14517538/1467483088",
+			"profile_link_color": "0016FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234135381408387000,
+		"quoted_status_id_str": "1234135381408387073",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B2s93ZHNEW",
+			"expanded": "https://twitter.com/SR_spatial/status/1234135381408387073",
+			"display": "twitter.com/SR_spatial/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 01 15:16:18 +0000 2020",
+			"id": 1234135381408387000,
+			"id_str": "1234135381408387073",
+			"full_text": "New York City Is Building a Data Geek’s Dream - WSJ https://t.co/SetaVvRbyx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SetaVvRbyx",
+						"expanded_url": "https://www.wsj.com/articles/new-york-city-is-building-a-data-geeks-dream-11583071200",
+						"display_url": "wsj.com/articles/new-y…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62931880,
+				"id_str": "62931880",
+				"name": "Steven Romalewski",
+				"screen_name": "SR_spatial",
+				"location": "New York City",
+				"description": "“... a researcher at the Center for Urban Research at the City University of New York Graduate Center, who mapped the results.”\n\nPhoto: Ozier Muhammad/CUNY",
+				"url": "https://t.co/KdV9SIYf69",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KdV9SIYf69",
+								"expanded_url": "http://www.gc.cuny.edu/urbanresearchmaps",
+								"display_url": "gc.cuny.edu/urbanresearchm…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3475,
+				"friends_count": 618,
+				"listed_count": 239,
+				"created_at": "Tue Aug 04 21:20:45 +0000 2009",
+				"favourites_count": 6123,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17981,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1193317638996410368/JJzgEear_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193317638996410368/JJzgEear_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62931880/1474303312",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maybe that dream could include precinct-level election results by vote type going back several elections? https://t.co/B2s93ZHNEW"
+	},
+	{
 		"created_at": "Mon Mar 02 22:13:21 +0000 2020",
 		"id": 1234598132689670100,
 		"id_str": "1234602720486547457",
