@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 06:17:35 +0000 2020",
+		"id": 1234720816689868800,
+		"id_str": "1234724585553031168",
+		"full_text": "LA County vote center @LACountyRRCC at Doctors Hospital in East L.A. had a bit of a ruckus. Machines went down and at least one concerened watcher was raising his voice about provisional ballots. A lot of people got out of line, then the machines came back up.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Dean Logan, RR/CC",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 500199249,
+			"id_str": "500199249",
+			"name": "Paul Thornton",
+			"screen_name": "PaulMThornton",
+			"location": "Los Angeles",
+			"description": "@latimesopinion letters editor. I’d rather be running on a mountain trail in the San Gabriels.",
+			"url": "http://t.co/WKEYIzsoT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WKEYIzsoT2",
+							"expanded_url": "http://latimes.com/opinion",
+							"display_url": "latimes.com/opinion",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193,
+			"friends_count": 63,
+			"listed_count": 14,
+			"created_at": "Wed Feb 22 22:12:51 +0000 2012",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171439079767953409/UwpCN2pR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171439079767953409/UwpCN2pR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/500199249/1567536572",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "LA County vote center @LACountyRRCC at Doctors Hospital in East L.A. had a bit of a ruckus. Machines went down and at least one concerened watcher was raising his voice about provisional ballots. A lot of people got out of line, then the machines came back up."
+	},
+	{
 		"created_at": "Tue Mar 03 02:39:52 +0000 2020",
 		"id": 1234620243684647000,
 		"id_str": "1234669791601807361",
