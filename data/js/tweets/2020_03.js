@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 06:09:49 +0000 2020",
+		"id": 1235078731359608800,
+		"id_str": "1235085015597244417",
+		"full_text": "Re-upping this prescient @stiles story on potential problems with L.A. County's new voting system.  \n\n\"If the process goes awry — either in the earlier-than-normal presidential primary in March  — blame could fall on Logan yet again.\" #SuperTuesdayResults  https://t.co/FtgZgV4ZQn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperTuesdayResults",
+					"indices": [
+						235,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						25,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FtgZgV4ZQn",
+					"expanded_url": "https://www.latimes.com/la-me-voting-ballot-dean-logan-los-angeles-county-20190609-story.html",
+					"display_url": "latimes.com/la-me-voting-b…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17001628,
+			"id_str": "17001628",
+			"name": "Erika D. Smith 🦅",
+			"screen_name": "Erika_D_Smith",
+			"location": "Los Angeles, CA",
+			"description": "Assistant metro editor at @latimes. Former columnist & editorial writer at @sacbee_news & @indystar. Ohioan by birth. Proud Californian by choice. ✊🏽",
+			"url": "https://t.co/LmEaf8bulA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LmEaf8bulA",
+							"expanded_url": "https://www.latimes.com/la-bio-erika-d-smith-staff.html",
+							"display_url": "latimes.com/la-bio-erika-d…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8165,
+			"friends_count": 2655,
+			"listed_count": 287,
+			"created_at": "Mon Oct 27 16:35:44 +0000 2008",
+			"favourites_count": 4101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "160D1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856323057/photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856323057/photo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17001628/1567841329",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "353F45",
+			"profile_text_color": "A49EFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Re-upping this prescient @stiles story on potential problems with L.A. County's new voting system.  \n\n\"If the process goes awry — either in the earlier-than-normal presidential primary in March  — blame could fall on Logan yet again.\" #SuperTuesdayResults  https://t.co/FtgZgV4ZQn"
+	},
+	{
 		"created_at": "Wed Mar 04 02:16:27 +0000 2020",
 		"id": 1235026287565004800,
 		"id_str": "1235026287565004800",
