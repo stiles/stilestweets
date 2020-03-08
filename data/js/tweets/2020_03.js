@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 08 20:19:52 +0000 2020",
+		"id": 1236707996329226200,
+		"id_str": "1236748490027327490",
+		"full_text": "The two day-long courses I helped teach at #NICAR20 are fully scripted and free to all.\n\n🐍 First Python Notebook: Data analysis on deadline https://t.co/gdpD4kYRhk\n\n📊 First Graphics App: Node.js in the newsroom https://t.co/WSjAolgns2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NICAR20",
+					"indices": [
+						43,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gdpD4kYRhk",
+					"expanded_url": "https://www.firstpythonnotebook.org",
+					"display_url": "firstpythonnotebook.org",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/WSjAolgns2",
+					"expanded_url": "https://www.firstgraphics.app",
+					"display_url": "firstgraphics.app",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · Send me tips · DMs open · ben.welsh@latimes.com",
+			"url": "https://t.co/M40D7KBYi4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M40D7KBYi4",
+							"expanded_url": "https://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/alHGK4tTzG",
+							"expanded_url": "http://californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10435,
+			"friends_count": 3108,
+			"listed_count": 744,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 57076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The two day-long courses I helped teach at #NICAR20 are fully scripted and free to all.\n\n🐍 First Python Notebook: Data analysis on deadline https://t.co/gdpD4kYRhk\n\n📊 First Graphics App: Node.js in the newsroom https://t.co/WSjAolgns2"
+	},
+	{
 		"created_at": "Sat Mar 07 02:52:33 +0000 2020",
 		"id": 1236122538784120800,
 		"id_str": "1236122538784120836",
