@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 03:31:28 +0000 2020",
+		"id": 1236856890862325800,
+		"id_str": "1236857105404973057",
+		"full_text": "Let them share Matt Gaetz's gas mask. https://t.co/Yph0QksAk4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yph0QksAk4",
+					"expanded_url": "https://twitter.com/kasie/status/1236839164269735936",
+					"display_url": "twitter.com/kasie/status/1…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8119452,
+			"id_str": "8119452",
+			"name": "💀 damned sinker 💀",
+			"screen_name": "dansinker",
+			"location": "Chicago, IL",
+			"description": "I do https://t.co/xyanwamsDC. Co-host of @sayswhopodcast, formerly @opennews, author of @MayorEmanuel, founder of Punk Planet (RIP), #1 Candle King of Kickstarter",
+			"url": "https://t.co/KfjG5DhmVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KfjG5DhmVG",
+							"expanded_url": "http://dansinker.com",
+							"display_url": "dansinker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xyanwamsDC",
+							"expanded_url": "http://impeachment.fyi",
+							"display_url": "impeachment.fyi",
+							"indices": [
+								5,
+								28
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25273,
+			"friends_count": 4009,
+			"listed_count": 1346,
+			"created_at": "Sat Aug 11 05:51:44 +0000 2007",
+			"favourites_count": 82600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 121193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8119452/1347983122",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236839164269736000,
+		"quoted_status_id_str": "1236839164269735936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yph0QksAk4",
+			"expanded": "https://twitter.com/kasie/status/1236839164269735936",
+			"display": "twitter.com/kasie/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 09 02:20:10 +0000 2020",
+			"id": 1236839164269736000,
+			"id_str": "1236839164269735936",
+			"full_text": "BREAKING from me &amp; @AlexNBCNews : Members of Congress are becoming increasingly anxious about coronavirus and there is growing pressure on leadership to take steps to protect lawmakers — even potentially recessing for a period of weeks, according to two Democratic sources",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AlexNBCNews",
+						"name": "Alex Moe",
+						"id": 163995093,
+						"id_str": "163995093",
+						"indices": [
+							23,
+							35
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12354832,
+				"id_str": "12354832",
+				"name": "Kasie Hunt",
+				"screen_name": "kasie",
+				"location": "Washington, DC",
+				"description": "@NBCNews Capitol Hill Correspondent. Host, @KasieDC, Sundays 7-9 pm ET on @MSNBC. Once & therefore always #Wire1 at The Associated Press.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 476313,
+				"friends_count": 2184,
+				"listed_count": 5187,
+				"created_at": "Thu Jan 17 11:28:36 +0000 2008",
+				"favourites_count": 14975,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32468,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1235655767698661376/bIU9xP3k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235655767698661376/bIU9xP3k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12354832/1526270796",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2358,
+			"favorite_count": 4787,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let them share Matt Gaetz's gas mask. https://t.co/Yph0QksAk4"
+	},
+	{
 		"created_at": "Sun Mar 08 20:21:50 +0000 2020",
 		"id": 1236748985353695200,
 		"id_str": "1236748985353695232",
