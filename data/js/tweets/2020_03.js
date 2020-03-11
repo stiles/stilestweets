@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 21:57:50 +0000 2020",
+		"id": 1237856696787030000,
+		"id_str": "1237860307843739649",
+		"full_text": "Long lines, voting problems prompt an investigation, grilling of L.A.'s elections chief. (✍🏼: @stiles) https://t.co/e7hJbgVSjW https://t.co/GnXFWAPnva",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e7hJbgVSjW",
+					"expanded_url": "https://lat.ms/2wLfAJY",
+					"display_url": "lat.ms/2wLfAJY",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237855475770638300,
+					"id_str": "1237855475770638338",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ES2-_yyUwAIC7S8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES2-_yyUwAIC7S8.jpg",
+					"url": "https://t.co/GnXFWAPnva",
+					"display_url": "pic.twitter.com/GnXFWAPnva",
+					"expanded_url": "https://twitter.com/kentnish/status/1237856696787030018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237855475770638300,
+					"id_str": "1237855475770638338",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ES2-_yyUwAIC7S8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES2-_yyUwAIC7S8.jpg",
+					"url": "https://t.co/GnXFWAPnva",
+					"display_url": "pic.twitter.com/GnXFWAPnva",
+					"expanded_url": "https://twitter.com/kentnish/status/1237856696787030018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1237855494359773200,
+					"id_str": "1237855494359773186",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ES2_A4CUcAIzWws.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES2_A4CUcAIzWws.jpg",
+					"url": "https://t.co/GnXFWAPnva",
+					"display_url": "pic.twitter.com/GnXFWAPnva",
+					"expanded_url": "https://twitter.com/kentnish/status/1237856696787030018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1237855494414319600,
+					"id_str": "1237855494414319618",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ES2_A4PUwAIElRk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES2_A4PUwAIElRk.jpg",
+					"url": "https://t.co/GnXFWAPnva",
+					"display_url": "pic.twitter.com/GnXFWAPnva",
+					"expanded_url": "https://twitter.com/kentnish/status/1237856696787030018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14879434,
+			"id_str": "14879434",
+			"name": "Kent Nishimura",
+			"screen_name": "kentnish",
+			"location": "Los Angeles, CA",
+			"description": "Staff Photographer, @latimes. Interested in the intersection of tech, news, visual storytelling. 📨: kent.nishimura@latimes.com",
+			"url": "https://t.co/K3Seyh8JyY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K3Seyh8JyY",
+							"expanded_url": "https://www.latimes.com/people/kent-nishimura",
+							"display_url": "latimes.com/people/kent-ni…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3717,
+			"friends_count": 2310,
+			"listed_count": 165,
+			"created_at": "Fri May 23 08:58:26 +0000 2008",
+			"favourites_count": 12133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221252646536802304/Y2AXOns__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221252646536802304/Y2AXOns__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14879434/1582955194",
+			"profile_link_color": "77D4FD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Long lines, voting problems prompt an investigation, grilling of L.A.'s elections chief. (✍🏼: @stiles) https://t.co/e7hJbgVSjW https://t.co/GnXFWAPnva"
+	},
+	{
+		"created_at": "Wed Mar 11 21:34:40 +0000 2020",
+		"id": 1237853519220076500,
+		"id_str": "1237854479782830081",
+		"full_text": "Long, but interesting.\n\n“Why All the @WarbyParker Clones Are Now Imploding” #DTC #business\n\nhttps://t.co/JneqzRSf0R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DTC",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "business",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WarbyParker",
+					"name": "Warby Parker",
+					"id": 77527412,
+					"id_str": "77527412",
+					"indices": [
+						37,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JneqzRSf0R",
+					"expanded_url": "https://marker.medium.com/why-all-the-warby-parker-clones-are-now-imploding-44bfcc70a00c",
+					"display_url": "marker.medium.com/why-all-the-wa…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19805682,
+			"id_str": "19805682",
+			"name": "Bill Lamb",
+			"screen_name": "zachvat",
+			"location": "",
+			"description": "Retired newspaper editor. Graduate, Defense Language Institute Foreign Language Center. Mac user since 1985.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 485,
+			"friends_count": 372,
+			"listed_count": 160,
+			"created_at": "Sat Jan 31 05:02:00 +0000 2009",
+			"favourites_count": 13322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 167219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344628571/me-300_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344628571/me-300_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19805682/1351283381",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Long, but interesting.\n\n“Why All the @WarbyParker Clones Are Now Imploding” #DTC #business\n\nhttps://t.co/JneqzRSf0R"
+	},
+	{
 		"created_at": "Wed Mar 11 16:07:04 +0000 2020",
 		"id": 1237772033770934300,
 		"id_str": "1237772033770934272",
