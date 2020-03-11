@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 14:09:54 +0000 2020",
+		"id": 1237595657587708000,
+		"id_str": "1237742549025968130",
+		"full_text": "uh I guess I gotta adjust my scale just for Biden in Mississippi https://t.co/5Y3nA3KKN5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237595489341591600,
+					"id_str": "1237595489341591552",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/ESzSil3U0AAEYHE.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESzSil3U0AAEYHE.png",
+					"url": "https://t.co/5Y3nA3KKN5",
+					"display_url": "pic.twitter.com/5Y3nA3KKN5",
+					"expanded_url": "https://twitter.com/anmccartney/status/1237595657587707904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 888,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 546,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237595489341591600,
+					"id_str": "1237595489341591552",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/ESzSil3U0AAEYHE.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESzSil3U0AAEYHE.png",
+					"url": "https://t.co/5Y3nA3KKN5",
+					"display_url": "pic.twitter.com/5Y3nA3KKN5",
+					"expanded_url": "https://twitter.com/anmccartney/status/1237595657587707904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 888,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 546,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 312006319,
+			"id_str": "312006319",
+			"name": "Allison McCartney",
+			"screen_name": "anmccartney",
+			"location": "Brooklyn, NY",
+			"description": "Data and graphics at @BBGVisualData @business. \"least followers I've ever seen for a verified lol\" - Martin Shkreli",
+			"url": "https://t.co/tfY6vBak2R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tfY6vBak2R",
+							"expanded_url": "http://lady.graphics",
+							"display_url": "lady.graphics",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2081,
+			"friends_count": 1302,
+			"listed_count": 109,
+			"created_at": "Mon Jun 06 12:45:15 +0000 2011",
+			"favourites_count": 23224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159257547662090240/DTVEAR7L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159257547662090240/DTVEAR7L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/312006319/1398303372",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "uh I guess I gotta adjust my scale just for Biden in Mississippi https://t.co/5Y3nA3KKN5"
+	},
+	{
 		"created_at": "Wed Mar 11 02:05:04 +0000 2020",
 		"id": 1237560140087169000,
 		"id_str": "1237560140087169025",
