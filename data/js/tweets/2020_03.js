@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 19:58:54 +0000 2020",
+		"id": 1238554317872750600,
+		"id_str": "1238555153206087680",
+		"full_text": "#PressRelease 2019 Novel Coronavirus (COVID-19) Advisory.\nEight New Cases of Confirmed #COVIDー19 in Los Angeles County.  View https://t.co/R10GTLWLdX for more. Social distancing is the best and most effective tool to slow the spread of COVID-19. https://t.co/PtQbl1yTDg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PressRelease",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "COVIDー19",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R10GTLWLdX",
+					"expanded_url": "https://bit.ly/2U4ODc7",
+					"display_url": "bit.ly/2U4ODc7",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238553584628691000,
+					"id_str": "1238553584628690944",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/ETA57E8UcAAAAtI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETA57E8UcAAAAtI.jpg",
+					"url": "https://t.co/PtQbl1yTDg",
+					"display_url": "pic.twitter.com/PtQbl1yTDg",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1238554317872750592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 582,
+							"h": 791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 582,
+							"h": 791,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238553584628691000,
+					"id_str": "1238553584628690944",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/ETA57E8UcAAAAtI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETA57E8UcAAAAtI.jpg",
+					"url": "https://t.co/PtQbl1yTDg",
+					"display_url": "pic.twitter.com/PtQbl1yTDg",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1238554317872750592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 582,
+							"h": 791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 582,
+							"h": 791,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238553611430277000,
+					"id_str": "1238553611430277120",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/ETA58oyUMAAS-2A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETA58oyUMAAS-2A.jpg",
+					"url": "https://t.co/PtQbl1yTDg",
+					"display_url": "pic.twitter.com/PtQbl1yTDg",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1238554317872750592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 601,
+							"h": 763,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 601,
+							"h": 763,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38287098,
+			"id_str": "38287098",
+			"name": "LA Public Health",
+			"screen_name": "lapublichealth",
+			"location": "Los Angeles, California",
+			"description": "Committed to protecting & improving the health of the over 10 million residents of #LACounty. Follow for #HealthAlerts & #HealthTips. #PublicHealth",
+			"url": "https://t.co/Fiv01QwVHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fiv01QwVHL",
+							"expanded_url": "http://publichealth.lacounty.gov",
+							"display_url": "publichealth.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25568,
+			"friends_count": 632,
+			"listed_count": 649,
+			"created_at": "Wed May 06 21:57:05 +0000 2009",
+			"favourites_count": 1424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38287098/1527611465",
+			"profile_link_color": "00205B",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DCE7EA",
+			"profile_text_color": "404040",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PressRelease 2019 Novel Coronavirus (COVID-19) Advisory.\nEight New Cases of Confirmed #COVIDー19 in Los Angeles County.  View https://t.co/R10GTLWLdX for more. Social distancing is the best and most effective tool to slow the spread of COVID-19. https://t.co/PtQbl1yTDg"
+	},
+	{
+		"created_at": "Fri Mar 13 19:53:03 +0000 2020",
+		"id": 1238553679642280000,
+		"id_str": "1238553679642279936",
+		"full_text": "How to talk to your kids about coronavirus #COVID19  https://t.co/g1fRQeFwk0 https://t.co/qqyWgwHiFQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						43,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g1fRQeFwk0",
+					"expanded_url": "https://www.pbs.org/parents/thrive/how-to-talk-to-your-kids-about-coronavirus",
+					"display_url": "pbs.org/parents/thrive…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238553582250541000,
+					"id_str": "1238553582250541056",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/ETA568FUwAAW3ML.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETA568FUwAAW3ML.jpg",
+					"url": "https://t.co/qqyWgwHiFQ",
+					"display_url": "pic.twitter.com/qqyWgwHiFQ",
+					"expanded_url": "https://twitter.com/stiles/status/1238553679642279936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 713,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 713,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238553582250541000,
+					"id_str": "1238553582250541056",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/ETA568FUwAAW3ML.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETA568FUwAAW3ML.jpg",
+					"url": "https://t.co/qqyWgwHiFQ",
+					"display_url": "pic.twitter.com/qqyWgwHiFQ",
+					"expanded_url": "https://twitter.com/stiles/status/1238553679642279936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 713,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 713,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11282,
+			"friends_count": 1987,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1583580925",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to talk to your kids about coronavirus #COVID19  https://t.co/g1fRQeFwk0 https://t.co/qqyWgwHiFQ"
+	},
+	{
 		"created_at": "Fri Mar 13 18:37:33 +0000 2020",
 		"id": 1238521720534757400,
 		"id_str": "1238534681533931526",
