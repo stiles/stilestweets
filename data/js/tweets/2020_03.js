@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 20:55:30 +0000 2020",
+		"id": 1238566978224357400,
+		"id_str": "1238569398270484480",
+		"full_text": "my only comment is that @Yamiche is incredibly great",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Yamiche",
+					"name": "Yamiche Alcindor",
+					"id": 89887215,
+					"id_str": "89887215",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22816767,
+			"id_str": "22816767",
+			"name": "Steven Rich",
+			"screen_name": "dataeditor",
+			"location": "███████, DC",
+			"description": "data @washingtonpost @wpinvestigates | board member @ire_nicar | woodworker @databaewoodshop | pay studier @postguild",
+			"url": "https://t.co/XOfVM3k2uT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XOfVM3k2uT",
+							"expanded_url": "http://www.washingtonpost.com/people/steven-rich",
+							"display_url": "washingtonpost.com/people/steven-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17668,
+			"friends_count": 1186,
+			"listed_count": 623,
+			"created_at": "Wed Mar 04 19:04:48 +0000 2009",
+			"favourites_count": 5802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196585857823772672/qI_tD-pT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196585857823772672/qI_tD-pT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22816767/1571238093",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "my only comment is that @Yamiche is incredibly great"
+	},
+	{
 		"created_at": "Fri Mar 13 19:58:54 +0000 2020",
 		"id": 1238554317872750600,
 		"id_str": "1238555153206087680",
