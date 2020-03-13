@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 04:49:50 +0000 2020",
+		"id": 1237888666468581400,
+		"id_str": "1238326378434453504",
+		"full_text": "We're working along side you during the #SARS-CoV-2 outbreak - scaling up production to ensure product availability without compromising quality. https://t.co/HMaToZMHxQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SARS",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HMaToZMHxQ",
+					"expanded_url": "http://ow.ly/HOIx50yJwUh",
+					"display_url": "ow.ly/HOIx50yJwUh",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62862144,
+			"id_str": "62862144",
+			"name": "Thermo Fisher",
+			"screen_name": "thermofisher",
+			"location": "",
+			"description": "Thermo Fisher Scientific Inc. is the world leader in serving science. Our mission is to enable our customers to make the world healthier, cleaner and safer.",
+			"url": "http://t.co/iT255IMiVs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iT255IMiVs",
+							"expanded_url": "http://www.thermofisher.com",
+							"display_url": "thermofisher.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48836,
+			"friends_count": 729,
+			"listed_count": 831,
+			"created_at": "Tue Aug 04 16:36:54 +0000 2009",
+			"favourites_count": 1032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/664163524441219072/NamO9xUO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/664163524441219072/NamO9xUO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62862144/1544465976",
+			"profile_link_color": "EE3134",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "BABFCA",
+			"profile_text_color": "2F3441",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're working along side you during the #SARS-CoV-2 outbreak - scaling up production to ensure product availability without compromising quality. https://t.co/HMaToZMHxQ"
+	},
+	{
 		"created_at": "Fri Mar 13 03:03:08 +0000 2020",
 		"id": 1238299526475047000,
 		"id_str": "1238299526475046912",
