@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 01:00:09 +0000 2020",
+		"id": 1238266634118123500,
+		"id_str": "1238268579268575234",
+		"full_text": "If you are tired of c*r*n*v*r*s coverage and want to mindlessly mouse over some election results, we've added 5 more counties (Nevada, Butte, Sierra, Placer and Plumas) and updated our LA County totals ~\nhttps://t.co/mqxRDLmzZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mqxRDLmzZB",
+					"expanded_url": "https://www.latimes.com/projects/2020-california-primaries-precincts-results/",
+					"display_url": "latimes.com/projects/2020-…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1236085169401892900,
+		"in_reply_to_status_id_str": "1236085169401892864",
+		"in_reply_to_user_id": 192995488,
+		"in_reply_to_user_id_str": "192995488",
+		"in_reply_to_screen_name": "priyakkumar",
+		"user": {
+			"id": 192995488,
+			"id_str": "192995488",
+			"name": "Priya Krishnakumar",
+			"screen_name": "priyakkumar",
+			"location": "",
+			"description": "Graphics maps n’ data @latimes. Very loud typer. Cake is a breakfast food!! priya@latimes.com",
+			"url": "https://t.co/w8ovcvH7jJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w8ovcvH7jJ",
+							"expanded_url": "http://priyakrishnakumar.com",
+							"display_url": "priyakrishnakumar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5764,
+			"friends_count": 720,
+			"listed_count": 115,
+			"created_at": "Mon Sep 20 18:18:50 +0000 2010",
+			"favourites_count": 8905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174894404911292416/t8_zGAb7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174894404911292416/t8_zGAb7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192995488/1496358615",
+			"profile_link_color": "009FBF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBBE3D",
+			"profile_text_color": "EED68C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are tired of c*r*n*v*r*s coverage and want to mindlessly mouse over some election results, we've added 5 more counties (Nevada, Butte, Sierra, Placer and Plumas) and updated our LA County totals ~\nhttps://t.co/mqxRDLmzZB"
+	},
+	{
 		"created_at": "Thu Mar 12 20:50:37 +0000 2020",
 		"id": 1238205414577188900,
 		"id_str": "1238205780844675072",
