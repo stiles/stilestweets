@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 16:46:57 +0000 2020",
+		"id": 1238506848367435800,
+		"id_str": "1238506848367435778",
+		"full_text": "whAt couLd gO wroNg https://t.co/dR9fQkaF0i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dR9fQkaF0i",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/1238478818135945216",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11283,
+			"friends_count": 1985,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1583580925",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238478818135945200,
+		"quoted_status_id_str": "1238478818135945216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dR9fQkaF0i",
+			"expanded": "https://twitter.com/realDonaldTrump/status/1238478818135945216",
+			"display": "twitter.com/realDonaldTrum…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 13 14:55:34 +0000 2020",
+			"id": 1238478818135945200,
+			"id_str": "1238478818135945216",
+			"full_text": "I will be having a news conference today at 3:00 P.M., The White House. Topic: CoronaVirus!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73779424,
+				"friends_count": 47,
+				"listed_count": 116211,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 49747,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19165,
+			"favorite_count": 78157,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "whAt couLd gO wroNg https://t.co/dR9fQkaF0i"
+	},
+	{
+		"created_at": "Fri Mar 13 16:43:37 +0000 2020",
+		"id": 1238498440583303200,
+		"id_str": "1238506009099829248",
+		"full_text": "Coronavirus fatality rates by age calculated by the Chinese CDC:\n\nages 10-19: 0.2%\nages 20-29: 0.2%\nages 30-39: 0.2%\nages 40-49: 0.4%\nages 50-59: 1.3%\nages 60-69: 3.6%\nages 70-79: 8%\n80 and over: 14.8%\n\nhttps://t.co/9PaeNKuWUp\n\n@skarlamangla",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "skarlamangla",
+					"name": "Soumya",
+					"id": 244701234,
+					"id_str": "244701234",
+					"indices": [
+						228,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9PaeNKuWUp",
+					"expanded_url": "https://www.latimes.com/california/story/2020-03-11/covid-19-risk-healthy-young-person",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123327472,
+			"id_str": "123327472",
+			"name": "Peter Baker",
+			"screen_name": "peterbakernyt",
+			"location": "",
+			"description": "Chief White House Correspondent for The New York Times and MSNBC analyst. Proud husband of Susan Glasser of the New Yorker and CNN.",
+			"url": "https://t.co/UmqCI5AhUx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmqCI5AhUx",
+							"expanded_url": "http://www.nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 365642,
+			"friends_count": 2645,
+			"listed_count": 4992,
+			"created_at": "Mon Mar 15 18:55:27 +0000 2010",
+			"favourites_count": 4541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "08090A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/821603222544596994/VlQaklD5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/821603222544596994/VlQaklD5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123327472/1484720732",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 493,
+		"favorite_count": 565,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coronavirus fatality rates by age calculated by the Chinese CDC:\n\nages 10-19: 0.2%\nages 20-29: 0.2%\nages 30-39: 0.2%\nages 40-49: 0.4%\nages 50-59: 1.3%\nages 60-69: 3.6%\nages 70-79: 8%\n80 and over: 14.8%\n\nhttps://t.co/9PaeNKuWUp\n\n@skarlamangla"
+	},
+	{
+		"created_at": "Fri Mar 13 16:23:53 +0000 2020",
+		"id": 1238501044662857700,
+		"id_str": "1238501044662857729",
+		"full_text": "The @LACountyBOS has canceled its regular Tuesday meeting next week out of \"an abundance of caution\". https://t.co/qboTLuOlDA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyBOS",
+					"name": "LACountyBOS",
+					"id": 1144740456586047500,
+					"id_str": "1144740456586047489",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238500974156599300,
+					"id_str": "1238500974156599296",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/ETAKEvqUUAA4ogm.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETAKEvqUUAA4ogm.png",
+					"url": "https://t.co/qboTLuOlDA",
+					"display_url": "pic.twitter.com/qboTLuOlDA",
+					"expanded_url": "https://twitter.com/stiles/status/1238501044662857729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 553,
+							"h": 289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 553,
+							"h": 289,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 553,
+							"h": 289,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238500974156599300,
+					"id_str": "1238500974156599296",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/ETAKEvqUUAA4ogm.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETAKEvqUUAA4ogm.png",
+					"url": "https://t.co/qboTLuOlDA",
+					"display_url": "pic.twitter.com/qboTLuOlDA",
+					"expanded_url": "https://twitter.com/stiles/status/1238501044662857729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 553,
+							"h": 289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 553,
+							"h": 289,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 553,
+							"h": 289,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11283,
+			"friends_count": 1985,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1583580925",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @LACountyBOS has canceled its regular Tuesday meeting next week out of \"an abundance of caution\". https://t.co/qboTLuOlDA"
+	},
+	{
+		"created_at": "Fri Mar 13 16:21:25 +0000 2020",
+		"id": 1238500326392594400,
+		"id_str": "1238500420869181441",
+		"full_text": "Staying home today? Don't forget that you can use your #LACountyLibrary card to access all of our digital resources 24/7 no matter where you are: https://t.co/Imam86MrUh https://t.co/iX21CsCIoR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LACountyLibrary",
+					"indices": [
+						55,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Imam86MrUh",
+					"expanded_url": "https://buff.ly/2C9GfT5",
+					"display_url": "buff.ly/2C9GfT5",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238500324115128300,
+					"id_str": "1238500324115128321",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/ETAJe6EWoAEosm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETAJe6EWoAEosm0.jpg",
+					"url": "https://t.co/iX21CsCIoR",
+					"display_url": "pic.twitter.com/iX21CsCIoR",
+					"expanded_url": "https://twitter.com/LACountyLibrary/status/1238500326392594432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 773,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238500324115128300,
+					"id_str": "1238500324115128321",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/ETAJe6EWoAEosm0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETAJe6EWoAEosm0.jpg",
+					"url": "https://t.co/iX21CsCIoR",
+					"display_url": "pic.twitter.com/iX21CsCIoR",
+					"expanded_url": "https://twitter.com/LACountyLibrary/status/1238500326392594432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 773,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15359126,
+			"id_str": "15359126",
+			"name": "LA County Library",
+			"screen_name": "LACountyLibrary",
+			"location": "Los Angeles County, California",
+			"description": "Serving 3.4 million residents of Los Angeles County with 86 libraries and our mobile fleet.",
+			"url": "https://t.co/KgdvlkvSD2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KgdvlkvSD2",
+							"expanded_url": "http://LACountyLibrary.org",
+							"display_url": "LACountyLibrary.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10063,
+			"friends_count": 2658,
+			"listed_count": 426,
+			"created_at": "Tue Jul 08 22:32:57 +0000 2008",
+			"favourites_count": 3075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996030100859572224/Xn7XtVAc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996030100859572224/Xn7XtVAc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15359126/1557167026",
+			"profile_link_color": "1A75BC",
+			"profile_sidebar_border_color": "0A7AD0",
+			"profile_sidebar_fill_color": "E9EDF2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Staying home today? Don't forget that you can use your #LACountyLibrary card to access all of our digital resources 24/7 no matter where you are: https://t.co/Imam86MrUh https://t.co/iX21CsCIoR"
+	},
+	{
 		"created_at": "Fri Mar 13 04:49:50 +0000 2020",
 		"id": 1237888666468581400,
 		"id_str": "1238326378434453504",
