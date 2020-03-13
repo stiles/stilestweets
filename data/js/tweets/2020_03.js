@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 22:56:20 +0000 2020",
+		"id": 1238599699961020400,
+		"id_str": "1238599806760570880",
+		"full_text": "Have you been impacted by Hollywood productions suspended due to coronavirus concerns? My colleagues and I would like to hear from you. If you want to be anonymous, just say so. My DMs are open or you can e-mail me at Wendy.Lee@latimes.com.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43875529,
+			"id_str": "43875529",
+			"name": "Wendy Lee",
+			"screen_name": "thewendylee",
+			"location": "San Francisco, CA",
+			"description": "Reporter at the Los Angeles Times covering digital media. Former tech reporter at the San Francisco Chronicle.",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5642,
+			"friends_count": 3858,
+			"listed_count": 365,
+			"created_at": "Mon Jun 01 12:27:51 +0000 2009",
+			"favourites_count": 607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/435895552929050624/Z1T9XiH8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/435895552929050624/Z1T9XiH8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43875529/1400457820",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Have you been impacted by Hollywood productions suspended due to coronavirus concerns? My colleagues and I would like to hear from you. If you want to be anonymous, just say so. My DMs are open or you can e-mail me at Wendy.Lee@latimes.com."
+	},
+	{
 		"created_at": "Fri Mar 13 21:42:10 +0000 2020",
 		"id": 1238581140895617000,
 		"id_str": "1238581140895617024",
