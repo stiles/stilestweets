@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 17:23:25 +0000 2020",
+		"id": 1238515918977802200,
+		"id_str": "1238516023277436928",
+		"full_text": "California will continue acting swiftly to help workers hurt by #COVID19. \n\n@CALWDA has compiled coronavirus resources for employers and workers to centralize information on paid sick leave, paid family leave, unemployment &amp; more.\n\nRead more: https://t.co/BXaAQEx50u https://t.co/Zh9JWHwCIz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CALWDA",
+					"name": "CA Labor & Workforce Development Agency",
+					"id": 1224555674488586200,
+					"id_str": "1224555674488586242",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BXaAQEx50u",
+					"expanded_url": "https://labor.ca.gov/coronavirus2019/",
+					"display_url": "labor.ca.gov/coronavirus201…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238146956083335200,
+					"id_str": "1238146956083335169",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ES7IGLkUEAEcqC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES7IGLkUEAEcqC7.jpg",
+					"url": "https://t.co/Zh9JWHwCIz",
+					"display_url": "pic.twitter.com/Zh9JWHwCIz",
+					"expanded_url": "https://twitter.com/CAPublicHealth/status/1238515918977802244/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238146956083335200,
+					"id_str": "1238146956083335169",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ES7IGLkUEAEcqC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES7IGLkUEAEcqC7.jpg",
+					"url": "https://t.co/Zh9JWHwCIz",
+					"display_url": "pic.twitter.com/Zh9JWHwCIz",
+					"expanded_url": "https://twitter.com/CAPublicHealth/status/1238515918977802244/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33934492,
+			"id_str": "33934492",
+			"name": "CA Public Health",
+			"screen_name": "CAPublicHealth",
+			"location": "Sacramento, CA",
+			"description": "The California Department of Public Health is dedicated to optimizing the health and well-being of Californians. Retweets ≠ endorsements https://t.co/yH0hWvIPQ5",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yH0hWvIPQ5",
+							"expanded_url": "http://www.cdph.ca.gov",
+							"display_url": "cdph.ca.gov",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25708,
+			"friends_count": 497,
+			"listed_count": 916,
+			"created_at": "Tue Apr 21 15:20:27 +0000 2009",
+			"favourites_count": 3450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189655066354962432/pJYGQ-YL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189655066354962432/pJYGQ-YL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33934492/1583442294",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "CBE1F2",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "California will continue acting swiftly to help workers hurt by #COVID19. \n\n@CALWDA has compiled coronavirus resources for employers and workers to centralize information on paid sick leave, paid family leave, unemployment &amp; more.\n\nRead more: https://t.co/BXaAQEx50u https://t.co/Zh9JWHwCIz"
+	},
+	{
 		"created_at": "Fri Mar 13 16:46:57 +0000 2020",
 		"id": 1238506848367435800,
 		"id_str": "1238506848367435778",
