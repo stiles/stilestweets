@@ -1,6 +1,118 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 23:12:34 +0000 2020",
+		"id": 1240388239849951200,
+		"id_str": "1240415829776166912",
+		"full_text": "Most observers considered @HerbJWesson the big favorite in the 2nd District County Supervisor race. But new numbers from @LACountyRRCC show his lead over Sen. @HollyJMitchell has shrunk to than 1%. Wesson sits at 30.07% and Mitchell has 29.2%. The runoff is gonna be a doozy!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HerbJWesson",
+					"name": "Herb J. Wesson, Jr.",
+					"id": 1921537580,
+					"id_str": "1921537580",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Los Angeles County Registrar-Recorder/County Clerk",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						121,
+						134
+					]
+				},
+				{
+					"screen_name": "HollyJMitchell",
+					"name": "Holly J Mitchell",
+					"id": 278192411,
+					"id_str": "278192411",
+					"indices": [
+						159,
+						174
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1169011415748886500,
+			"id_str": "1169011415748886528",
+			"name": "Jon Regardie",
+			"screen_name": "JonRegardie",
+			"location": "",
+			"description": "I like politics, the city of L.A., punk rock and the NBA. Not necessarily in that order. Or maybe in that order.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146,
+			"friends_count": 70,
+			"listed_count": 1,
+			"created_at": "Tue Sep 03 22:17:23 +0000 2019",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169011704870703104/_sBCCWNc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169011704870703104/_sBCCWNc_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Most observers considered @HerbJWesson the big favorite in the 2nd District County Supervisor race. But new numbers from @LACountyRRCC show his lead over Sen. @HollyJMitchell has shrunk to than 1%. Wesson sits at 30.07% and Mitchell has 29.2%. The runoff is gonna be a doozy!"
+	},
+	{
 		"created_at": "Wed Mar 18 18:40:19 +0000 2020",
 		"id": 1239610277345329200,
 		"id_str": "1240347315434446849",
