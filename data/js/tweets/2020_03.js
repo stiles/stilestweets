@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 18:40:19 +0000 2020",
+		"id": 1239610277345329200,
+		"id_str": "1240347315434446849",
+		"full_text": "Our last update on U.S. #COVID19 testing capacity. As high throughput systems come online this week, testing capacity will substantially increase nationwide. Any limitations will be the testing supply chain (reagents, swabs, sites, etc) - not platforms for conducting testing. https://t.co/EhF4qISSfU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EhF4qISSfU",
+					"expanded_url": "https://twitter.com/covid2019tests/status/1239546791869235205",
+					"display_url": "twitter.com/covid2019tests…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40156330,
+			"id_str": "40156330",
+			"name": "Scott Gottlieb, MD",
+			"screen_name": "ScottGottliebMD",
+			"location": "Washington, DC",
+			"description": "Resident Fellow @AEI. Partner @NEA. Contributor @CNBC. 23rd Commissioner of the @US_FDA 2017 to 2019. @Pfizer @Illumina @AetionInc @TempusLabs",
+			"url": "https://t.co/CsvXyacSip",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CsvXyacSip",
+							"expanded_url": "https://www.aei.org/profile/scott-gottlieb/",
+							"display_url": "aei.org/profile/scott-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186823,
+			"friends_count": 908,
+			"listed_count": 3657,
+			"created_at": "Fri May 15 02:39:37 +0000 2009",
+			"favourites_count": 1507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/939996832574435329/cQICPkCh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/939996832574435329/cQICPkCh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40156330/1560615779",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239546791869235200,
+		"quoted_status_id_str": "1239546791869235205",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EhF4qISSfU",
+			"expanded": "https://twitter.com/covid2019tests/status/1239546791869235205",
+			"display": "twitter.com/covid2019tests…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 16 13:39:19 +0000 2020",
+			"id": 1239546791869235200,
+			"id_str": "1239546791869235205",
+			"full_text": "Updating for #coronavirus testing at MassGeneral/ Brigham and Women’s, UPMC, and BioReference Laboratories https://t.co/qfFqy4VIqY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "coronavirus",
+						"indices": [
+							13,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1239546787771437000,
+						"id_str": "1239546787771437058",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/ETPBPG-X0AIVJCU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETPBPG-X0AIVJCU.jpg",
+						"url": "https://t.co/qfFqy4VIqY",
+						"display_url": "pic.twitter.com/qfFqy4VIqY",
+						"expanded_url": "https://twitter.com/COVID2019tests/status/1239546791869235205/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 826,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 826,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 549,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1239546787771437000,
+						"id_str": "1239546787771437058",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/ETPBPG-X0AIVJCU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETPBPG-X0AIVJCU.jpg",
+						"url": "https://t.co/qfFqy4VIqY",
+						"display_url": "pic.twitter.com/qfFqy4VIqY",
+						"expanded_url": "https://twitter.com/COVID2019tests/status/1239546791869235205/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 826,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 826,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 549,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1154104193017417700,
+				"id_str": "1154104193017417729",
+				"name": "COVID-19 Test Capacity",
+				"screen_name": "COVID2019tests",
+				"location": "Washington, DC",
+				"description": "COVID lab test capacity in U.S. Reflects number of patients that can be tested daily per lab with two samples per patient. Please update Abigail.Keller@AEI.org",
+				"url": "https://t.co/Bs73D9ayCe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Bs73D9ayCe",
+								"expanded_url": "https://www.aei.org/2019-coronavirus-coverage/",
+								"display_url": "aei.org/2019-coronavir…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17970,
+				"friends_count": 40,
+				"listed_count": 538,
+				"created_at": "Wed Jul 24 19:00:56 +0000 2019",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1237736310368022538/kIFzOrlM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237736310368022538/kIFzOrlM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1154104193017417729/1583934308",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 134,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 308,
+		"favorite_count": 694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our last update on U.S. #COVID19 testing capacity. As high throughput systems come online this week, testing capacity will substantially increase nationwide. Any limitations will be the testing supply chain (reagents, swabs, sites, etc) - not platforms for conducting testing. https://t.co/EhF4qISSfU"
+	},
+	{
 		"created_at": "Wed Mar 18 15:59:51 +0000 2020",
 		"id": 1240306935724826600,
 		"id_str": "1240306935724826624",
