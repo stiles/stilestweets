@@ -1,6 +1,914 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 15:59:51 +0000 2020",
+		"id": 1240306935724826600,
+		"id_str": "1240306935724826624",
+		"full_text": "@kearneymw I can't live without this. DO IT.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kearneymw",
+					"name": "Michael W. Kearney📊",
+					"id": 2973406683,
+					"id_str": "2973406683",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240306667771830300,
+		"in_reply_to_status_id_str": "1240306667771830277",
+		"in_reply_to_user_id": 2973406683,
+		"in_reply_to_user_id_str": "2973406683",
+		"in_reply_to_screen_name": "kearneymw",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11279,
+			"friends_count": 1991,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1583580925",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kearneymw I can't live without this. DO IT."
+	},
+	{
+		"created_at": "Wed Mar 18 15:58:45 +0000 2020",
+		"id": 1240306301084643300,
+		"id_str": "1240306658053505024",
+		"full_text": "some estimate half the population will catch COVID and 5% will need ICU care. in that scenario, CA would need 975,000 ICU beds. \n\nwe only have 7,200. this is why we have to slow the virus’ spread — so all 975,000 don’t show up to the hospital at once https://t.co/Jd9jLjDGfq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jd9jLjDGfq",
+					"expanded_url": "https://www.latimes.com/california/story/2020-03-18/hospitals-are-straining-under-the-coronavirus-the-big-wave-coming-could-break-them",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1240304190531883000,
+		"in_reply_to_status_id_str": "1240304190531883010",
+		"in_reply_to_user_id": 244701234,
+		"in_reply_to_user_id_str": "244701234",
+		"in_reply_to_screen_name": "skarlamangla",
+		"user": {
+			"id": 244701234,
+			"id_str": "244701234",
+			"name": "Soumya",
+			"screen_name": "skarlamangla",
+			"location": "Los Angeles, California",
+			"description": "health reporter at the Los Angeles Times. former rosalynn carter mental health fellow. call me beep me if you want to reach me: soumya.karlamangla@latimes.com",
+			"url": "https://t.co/G9r2ACbsrI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G9r2ACbsrI",
+							"expanded_url": "http://www.latimes.com/la-bio-soumya-karlamangla-staff.html",
+							"display_url": "latimes.com/la-bio-soumya-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9933,
+			"friends_count": 2704,
+			"listed_count": 419,
+			"created_at": "Sat Jan 29 23:03:33 +0000 2011",
+			"favourites_count": 10909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019061820068261890/UKFbU45L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019061820068261890/UKFbU45L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/244701234/1484020302",
+			"profile_link_color": "D4513F",
+			"profile_sidebar_border_color": "929C7A",
+			"profile_sidebar_fill_color": "958C6B",
+			"profile_text_color": "BD9679",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some estimate half the population will catch COVID and 5% will need ICU care. in that scenario, CA would need 975,000 ICU beds. \n\nwe only have 7,200. this is why we have to slow the virus’ spread — so all 975,000 don’t show up to the hospital at once https://t.co/Jd9jLjDGfq"
+	},
+	{
+		"created_at": "Wed Mar 18 15:42:32 +0000 2020",
+		"id": 1240302576429486000,
+		"id_str": "1240302576429486080",
+		"full_text": "YIKES https://t.co/1dphdR1kOw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1dphdR1kOw",
+					"expanded_url": "https://twitter.com/qdbui/status/1240302233331421184",
+					"display_url": "twitter.com/qdbui/status/1…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11279,
+			"friends_count": 1991,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1583580925",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240302233331421200,
+		"quoted_status_id_str": "1240302233331421184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1dphdR1kOw",
+			"expanded": "https://twitter.com/qdbui/status/1240302233331421184",
+			"display": "twitter.com/qdbui/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 18 15:41:10 +0000 2020",
+			"id": 1240302233331421200,
+			"id_str": "1240302233331421184",
+			"full_text": "Early reports from Minneapolis, Ohio and Rhode Island suggests that we're in the middle of a tidal wave of unemployment. Last week's initial claims don't make any sense compared to history. https://t.co/gaJeCR0F4a",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1240301632182722600,
+						"id_str": "1240301632182722563",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/ETZvw1iWoAMPbwQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETZvw1iWoAMPbwQ.jpg",
+						"url": "https://t.co/gaJeCR0F4a",
+						"display_url": "pic.twitter.com/gaJeCR0F4a",
+						"expanded_url": "https://twitter.com/qdbui/status/1240302233331421184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 701,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 411,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 233,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240301632182722600,
+						"id_str": "1240301632182722563",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/ETZvw1iWoAMPbwQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETZvw1iWoAMPbwQ.jpg",
+						"url": "https://t.co/gaJeCR0F4a",
+						"display_url": "pic.twitter.com/gaJeCR0F4a",
+						"expanded_url": "https://twitter.com/qdbui/status/1240302233331421184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 701,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 411,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 233,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1240301887901053000,
+						"id_str": "1240301887901052928",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/ETZv_uKWsAAUBYA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETZv_uKWsAAUBYA.jpg",
+						"url": "https://t.co/gaJeCR0F4a",
+						"display_url": "pic.twitter.com/gaJeCR0F4a",
+						"expanded_url": "https://twitter.com/qdbui/status/1240302233331421184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 233,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 411,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 701,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1240301919610048500,
+						"id_str": "1240301919610048514",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/ETZwBkSXkAI_mAd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETZwBkSXkAI_mAd.jpg",
+						"url": "https://t.co/gaJeCR0F4a",
+						"display_url": "pic.twitter.com/gaJeCR0F4a",
+						"expanded_url": "https://twitter.com/qdbui/status/1240302233331421184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 239,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 422,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16292617,
+				"id_str": "16292617",
+				"name": "Quoctrung Bui",
+				"screen_name": "qdbui",
+				"location": "Brooklyn, NY",
+				"description": "Part of the long-strings-of-text and pictures team at @nytimes and @upshotnyt. It’s pronounced \"kwok-chrung boo-ee\", but I really just go by \"boo-ee\".",
+				"url": "https://t.co/5Ys3vhWdA4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5Ys3vhWdA4",
+								"expanded_url": "http://qdinhbui2.github.io/",
+								"display_url": "qdinhbui2.github.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4068,
+				"friends_count": 1258,
+				"listed_count": 172,
+				"created_at": "Mon Sep 15 05:53:48 +0000 2008",
+				"favourites_count": 2942,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1206,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048266518922977281/FgO7UzWW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048266518922977281/FgO7UzWW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16292617/1555088084",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F9FA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YIKES https://t.co/1dphdR1kOw"
+	},
+	{
+		"created_at": "Wed Mar 18 15:29:58 +0000 2020",
+		"id": 1240299414079463400,
+		"id_str": "1240299414079463425",
+		"full_text": "@GustavoArellano is worth it for sure! https://t.co/bOngModxhC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GustavoArellano",
+					"name": "Col. Gustavo Arellano",
+					"id": 15518170,
+					"id_str": "15518170",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bOngModxhC",
+					"expanded_url": "https://twitter.com/pxcaballero/status/1240172643006861317",
+					"display_url": "twitter.com/pxcaballero/st…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 15518170,
+		"in_reply_to_user_id_str": "15518170",
+		"in_reply_to_screen_name": "GustavoArellano",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11279,
+			"friends_count": 1991,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1583580925",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240172643006861300,
+		"quoted_status_id_str": "1240172643006861317",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bOngModxhC",
+			"expanded": "https://twitter.com/pxcaballero/status/1240172643006861317",
+			"display": "twitter.com/pxcaballero/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 18 07:06:14 +0000 2020",
+			"id": 1240172643006861300,
+			"id_str": "1240172643006861317",
+			"full_text": "@latimes there wasn’t a box to say why I am subscribing but it is to support journalism and @GustavoArellano https://t.co/nQnyYHHmxg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "GustavoArellano",
+						"name": "Col. Gustavo Arellano",
+						"id": 15518170,
+						"id_str": "15518170",
+						"indices": [
+							92,
+							108
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1240172639169024000,
+						"id_str": "1240172639169024000",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/ETX6cdHUEAAPFcJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETX6cdHUEAAPFcJ.jpg",
+						"url": "https://t.co/nQnyYHHmxg",
+						"display_url": "pic.twitter.com/nQnyYHHmxg",
+						"expanded_url": "https://twitter.com/pxcaballero/status/1240172643006861317/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 563,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240172639169024000,
+						"id_str": "1240172639169024000",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/ETX6cdHUEAAPFcJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETX6cdHUEAAPFcJ.jpg",
+						"url": "https://t.co/nQnyYHHmxg",
+						"display_url": "pic.twitter.com/nQnyYHHmxg",
+						"expanded_url": "https://twitter.com/pxcaballero/status/1240172643006861317/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 563,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 16664681,
+			"in_reply_to_user_id_str": "16664681",
+			"in_reply_to_screen_name": "latimes",
+			"user": {
+				"id": 19131242,
+				"id_str": "19131242",
+				"name": "Perla",
+				"screen_name": "pxcaballero",
+				"location": "Portland, USA",
+				"description": "Love to wear red lipstick and drink Manhattans. Podcast and Music make me happy. #Foamilia #DivaParalegal #Zero2Chola #FancyLadyTravels",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 907,
+				"friends_count": 4910,
+				"listed_count": 21,
+				"created_at": "Sun Jan 18 01:15:39 +0000 2009",
+				"favourites_count": 11976,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25268,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A8A1AD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001971981930053632/aSYuD257_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001971981930053632/aSYuD257_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19131242/1559268077",
+				"profile_link_color": "3300FF",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GustavoArellano is worth it for sure! https://t.co/bOngModxhC"
+	},
+	{
 		"created_at": "Wed Mar 18 15:05:07 +0000 2020",
 		"id": 1240293159407472600,
 		"id_str": "1240293159407472641",
