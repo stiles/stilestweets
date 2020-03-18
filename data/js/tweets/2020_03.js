@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 15:05:07 +0000 2020",
+		"id": 1240293159407472600,
+		"id_str": "1240293159407472641",
+		"full_text": "With the latest tabulation update from @LACountyRRCC, @HollyJMitchell inches even closer to @HerbJWesson. The margin between them has steadily narrowed as more mail votes have been counted since the election. Runoff either way, but still interesting: https://t.co/iuh3Zm7B3l https://t.co/kLnzBJ8Kcz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LACountyRRCC",
+					"name": "Los Angeles County Registrar-Recorder/County Clerk",
+					"id": 21807663,
+					"id_str": "21807663",
+					"indices": [
+						39,
+						52
+					]
+				},
+				{
+					"screen_name": "HollyJMitchell",
+					"name": "Holly J Mitchell",
+					"id": 278192411,
+					"id_str": "278192411",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"screen_name": "HerbJWesson",
+					"name": "Herb J. Wesson, Jr.",
+					"id": 1921537580,
+					"id_str": "1921537580",
+					"indices": [
+						92,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iuh3Zm7B3l",
+					"expanded_url": "https://results.lavote.net/text-results/4085#contest-7",
+					"display_url": "results.lavote.net/text-results/4…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240292506304036900,
+					"id_str": "1240292506304036866",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ETZndo_UwAIysUm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETZndo_UwAIysUm.jpg",
+					"url": "https://t.co/kLnzBJ8Kcz",
+					"display_url": "pic.twitter.com/kLnzBJ8Kcz",
+					"expanded_url": "https://twitter.com/stiles/status/1240293159407472641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1608,
+							"h": 752,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 561,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240292506304036900,
+					"id_str": "1240292506304036866",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ETZndo_UwAIysUm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETZndo_UwAIysUm.jpg",
+					"url": "https://t.co/kLnzBJ8Kcz",
+					"display_url": "pic.twitter.com/kLnzBJ8Kcz",
+					"expanded_url": "https://twitter.com/stiles/status/1240293159407472641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1608,
+							"h": 752,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 561,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11279,
+			"friends_count": 1991,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209725366132043776/WUotZHM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1583580925",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With the latest tabulation update from @LACountyRRCC, @HollyJMitchell inches even closer to @HerbJWesson. The margin between them has steadily narrowed as more mail votes have been counted since the election. Runoff either way, but still interesting: https://t.co/iuh3Zm7B3l https://t.co/kLnzBJ8Kcz"
+	},
+	{
 		"created_at": "Wed Mar 18 05:10:33 +0000 2020",
 		"id": 1240143532175831000,
 		"id_str": "1240143532175831040",
