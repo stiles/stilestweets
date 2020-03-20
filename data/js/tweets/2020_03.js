@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 19:35:21 +0000 2020",
+		"id": 1241083579095863300,
+		"id_str": "1241085942636527616",
+		"full_text": "@BermudezWrites Cabrona-virus",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BermudezWrites",
+					"name": "Esmeralda Bermudez",
+					"id": 378749192,
+					"id_str": "378749192",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1240999482428289000,
+		"in_reply_to_status_id_str": "1240999482428289024",
+		"in_reply_to_user_id": 378749192,
+		"in_reply_to_user_id_str": "378749192",
+		"in_reply_to_screen_name": "BermudezWrites",
+		"user": {
+			"id": 717851575146795000,
+			"id_str": "717851575146795008",
+			"name": "Betty Chavarria",
+			"screen_name": "bettychavarriaa",
+			"location": "Long Beach, CA",
+			"description": "News Designer @latimes 🦅🗞@CSULB alumna and full-time Long Beacher🌴 Former: @gannett @socalnewsgroup. views are my own",
+			"url": "https://t.co/L0ZtEzsgSK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L0ZtEzsgSK",
+							"expanded_url": "http://bettychavarria.com",
+							"display_url": "bettychavarria.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 498,
+			"friends_count": 754,
+			"listed_count": 10,
+			"created_at": "Wed Apr 06 23:08:47 +0000 2016",
+			"favourites_count": 2305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238680142005686273/YbKvmWOl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238680142005686273/YbKvmWOl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/717851575146795008/1532066483",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "es",
+		"text": "@BermudezWrites Cabrona-virus"
+	},
+	{
 		"created_at": "Fri Mar 20 18:03:06 +0000 2020",
 		"id": 1241062725968523300,
 		"id_str": "1241062725968523266",
