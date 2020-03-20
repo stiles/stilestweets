@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 22:12:06 +0000 2020",
+		"id": 1241124388641988600,
+		"id_str": "1241125389281275904",
+		"full_text": "Look it's Friday afternoon, @stiles is breaking some story, I am taping an hourlong @npr @StoryCorps special while crouched by the suitcases in a closet and the kids... they're mainlining whatever screen time they want. I tried! I gave up",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"screen_name": "NPR",
+					"name": "NPR",
+					"id": 5392522,
+					"id_str": "5392522",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"screen_name": "StoryCorps",
+					"name": "StoryCorps",
+					"id": 13786802,
+					"id_str": "13786802",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16001350,
+			"id_str": "16001350",
+			"name": "Elise Hu",
+			"screen_name": "elisewho",
+			"location": "California",
+			"description": "LA-based host-at-large @NPR. Ex-expat buro chief in Korea & Japan. #Mizzou alum. Texan. Eater. Millennial ajumma 입니다. elise@reasonablevolume.com",
+			"url": "https://t.co/5UvjA7JNu7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5UvjA7JNu7",
+							"expanded_url": "http://elisehu.com",
+							"display_url": "elisehu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43627,
+			"friends_count": 2039,
+			"listed_count": 1764,
+			"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+			"favourites_count": 3526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDEDEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1565204689",
+			"profile_link_color": "4E647A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Look it's Friday afternoon, @stiles is breaking some story, I am taping an hourlong @npr @StoryCorps special while crouched by the suitcases in a closet and the kids... they're mainlining whatever screen time they want. I tried! I gave up"
+	},
+	{
 		"created_at": "Fri Mar 20 21:05:17 +0000 2020",
 		"id": 1241108576178802700,
 		"id_str": "1241108576178802688",
