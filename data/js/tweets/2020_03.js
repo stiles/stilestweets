@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 02:53:36 +0000 2020",
+		"id": 1240819007143301000,
+		"id_str": "1240833845198381063",
+		"full_text": "This does not mean that you cannot leave your home. You can take a walk, go to the pharmacy, pick up groceries and check on loved ones. https://t.co/7AsejNxEWR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7AsejNxEWR",
+					"expanded_url": "https://twitter.com/CountyofLA/status/1240811535124942848",
+					"display_url": "twitter.com/CountyofLA/sta…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193771633,
+			"id_str": "193771633",
+			"name": "Los Angeles County",
+			"screen_name": "CountyofLA",
+			"location": "Los Angeles County",
+			"description": "Official account of Los Angeles County",
+			"url": "http://t.co/7Z6JLrLfYn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7Z6JLrLfYn",
+							"expanded_url": "http://lacounty.gov",
+							"display_url": "lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52831,
+			"friends_count": 4769,
+			"listed_count": 757,
+			"created_at": "Wed Sep 22 17:08:50 +0000 2010",
+			"favourites_count": 4937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193771633/1577136518",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240811535124942800,
+		"quoted_status_id_str": "1240811535124942848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7AsejNxEWR",
+			"expanded": "https://twitter.com/CountyofLA/status/1240811535124942848",
+			"display": "twitter.com/CountyofLA/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 20 01:24:57 +0000 2020",
+			"id": 1240811535124942800,
+			"id_str": "1240811535124942848",
+			"full_text": "#SaferAtHome order for control of #COVID19. Temporary prohibition of events and gatherings of 10+ people and closure of non-essential businesses and areas https://t.co/IrmWTZj033 https://t.co/meNsPrY20y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SaferAtHome",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"text": "COVID19",
+						"indices": [
+							34,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IrmWTZj033",
+						"expanded_url": "http://file.lacounty.gov/SDSInter/lac/1070029_COVID-19_SaferAtHome_HealthOfficerOrder_20200319_Signed.pdf",
+						"display_url": "file.lacounty.gov/SDSInter/lac/1…",
+						"indices": [
+							155,
+							178
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1240811513910136800,
+						"id_str": "1240811513910136832",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/ETg_f2_UEAAc1l5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETg_f2_UEAAc1l5.jpg",
+						"url": "https://t.co/meNsPrY20y",
+						"display_url": "pic.twitter.com/meNsPrY20y",
+						"expanded_url": "https://twitter.com/CountyofLA/status/1240811535124942848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1240811513910136800,
+						"id_str": "1240811513910136832",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/ETg_f2_UEAAc1l5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETg_f2_UEAAc1l5.jpg",
+						"url": "https://t.co/meNsPrY20y",
+						"display_url": "pic.twitter.com/meNsPrY20y",
+						"expanded_url": "https://twitter.com/CountyofLA/status/1240811535124942848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 193771633,
+				"id_str": "193771633",
+				"name": "Los Angeles County",
+				"screen_name": "CountyofLA",
+				"location": "Los Angeles County",
+				"description": "Official account of Los Angeles County",
+				"url": "http://t.co/7Z6JLrLfYn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7Z6JLrLfYn",
+								"expanded_url": "http://lacounty.gov",
+								"display_url": "lacounty.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52831,
+				"friends_count": 4769,
+				"listed_count": 757,
+				"created_at": "Wed Sep 22 17:08:50 +0000 2010",
+				"favourites_count": 4937,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14773,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193771633/1577136518",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 370,
+			"favorite_count": 391,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 953,
+		"favorite_count": 1208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This does not mean that you cannot leave your home. You can take a walk, go to the pharmacy, pick up groceries and check on loved ones. https://t.co/7AsejNxEWR"
+	},
+	{
 		"created_at": "Thu Mar 19 21:24:00 +0000 2020",
 		"id": 1240750896914387000,
 		"id_str": "1240750896914386945",
