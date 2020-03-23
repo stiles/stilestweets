@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 23:44:18 +0000 2020",
+		"id": 1241246742701457400,
+		"id_str": "1241873366501298176",
+		"full_text": "**Extra, extra!**\n\nA study in South Korea found masks retain 99.9% of filtering efficiency after being steamed stovetop, as you would veggies. Up to three times, for 20 mins. \n\nOnly for higher-rated (KF94, in South Korea) masks — lower rated KF80 masks lost some of its function. https://t.co/ziNka0nyAk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ziNka0nyAk",
+					"expanded_url": "https://twitter.com/JANGTOPIA/status/1241235985460936710",
+					"display_url": "twitter.com/JANGTOPIA/stat…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54643600,
+			"id_str": "54643600",
+			"name": "Victoria Kim",
+			"screen_name": "vicjkim",
+			"location": "대한민국 서울",
+			"description": "@LATimes Seoul correspondent. Reach me at https://t.co/aCqVWMmXQW (at) https://t.co/eTksmynSH7. LA 타임스 서울 특파원입니다",
+			"url": "https://t.co/oLZaH6LhdI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oLZaH6LhdI",
+							"expanded_url": "http://www.latimes.com/la-bio-victoria-kim-staff.html",
+							"display_url": "latimes.com/la-bio-victori…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aCqVWMmXQW",
+							"expanded_url": "http://victoria.kim",
+							"display_url": "victoria.kim",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8813,
+			"friends_count": 2195,
+			"listed_count": 274,
+			"created_at": "Tue Jul 07 19:07:04 +0000 2009",
+			"favourites_count": 5328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148260636566016001/Sp-xkMH3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148260636566016001/Sp-xkMH3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54643600/1421810039",
+			"profile_link_color": "737CA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241235985460936700,
+		"quoted_status_id_str": "1241235985460936710",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ziNka0nyAk",
+			"expanded": "https://twitter.com/JANGTOPIA/status/1241235985460936710",
+			"display": "twitter.com/JANGTOPIA/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 21 05:31:34 +0000 2020",
+			"id": 1241235985460936700,
+			"id_str": "1241235985460936710",
+			"full_text": "[KF94 마스크 소독후 재사용 가능]\n\n\"마스크 찜통 소독 효과 검증..KF94 포집효율 99.9% 유지\"\n\n\"시험은 식품의약품안전처의 보건용 마스크의 기준 규격에 따른 방법인에 따라 진행, 식약처로부터 시험기관으로 지정받은 기관에서 실험을 실시했다.\"\n\nhttps://t.co/i7qhmacuKZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i7qhmacuKZ",
+						"expanded_url": "https://news.v.daum.net/v/20200321130150059",
+						"display_url": "news.v.daum.net/v/202003211301…",
+						"indices": [
+							144,
+							167
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 538695054,
+				"id_str": "538695054",
+				"name": "장덕천(부천시장)",
+				"screen_name": "JANGTOPIA",
+				"location": "대한민국 부천시",
+				"description": "더불어민주당 부천시장. 사람사는세상 노무현재단 자문변호사 역임. 제19대 대선 문재인 후보 법률인권특보 역임. 문화가 산업이 되는 도시 부천. 평등은 약자 편이다.",
+				"url": "https://t.co/oA7rjkmsz5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oA7rjkmsz5",
+								"expanded_url": "https://www.facebook.com/jangtopia",
+								"display_url": "facebook.com/jangtopia",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8833,
+				"friends_count": 2040,
+				"listed_count": 35,
+				"created_at": "Wed Mar 28 01:01:58 +0000 2012",
+				"favourites_count": 4872,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 695,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1235819339963490307/ftcWh784_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235819339963490307/ftcWh784_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/538695054/1549443694",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1273,
+			"favorite_count": 784,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 78,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "**Extra, extra!**\n\nA study in South Korea found masks retain 99.9% of filtering efficiency after being steamed stovetop, as you would veggies. Up to three times, for 20 mins. \n\nOnly for higher-rated (KF94, in South Korea) masks — lower rated KF80 masks lost some of its function. https://t.co/ziNka0nyAk"
+	},
+	{
 		"created_at": "Sun Mar 22 17:04:35 +0000 2020",
 		"id": 1241558380105199600,
 		"id_str": "1241772777612312576",
