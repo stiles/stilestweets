@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 26 18:30:58 +0000 2020",
+		"id": 1243244014528151600,
+		"id_str": "1243244067145711616",
+		"full_text": "Have you received your invitation to respond to the census yet? #2020Census\n\n🖥️ https://t.co/siOl8KiquD\n📞 1-844-330-2020 https://t.co/VAQV2QSJYP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020Census",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/siOl8KiquD",
+					"expanded_url": "http://My2020Census.gov",
+					"display_url": "My2020Census.gov",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1243241614744514600,
+					"id_str": "1243241614744514560",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EUDhqWDUcAA-92R.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUDhqWDUcAA-92R.png",
+					"url": "https://t.co/VAQV2QSJYP",
+					"display_url": "pic.twitter.com/VAQV2QSJYP",
+					"expanded_url": "https://twitter.com/LACity/status/1243244014528151553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243241614744514600,
+					"id_str": "1243241614744514560",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EUDhqWDUcAA-92R.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUDhqWDUcAA-92R.png",
+					"url": "https://t.co/VAQV2QSJYP",
+					"display_url": "pic.twitter.com/VAQV2QSJYP",
+					"expanded_url": "https://twitter.com/LACity/status/1243244014528151553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880028463704363000,
+			"id_str": "880028463704363008",
+			"name": "City of Los Angeles",
+			"screen_name": "LACity",
+			"location": "Los Angeles, CA",
+			"description": "The best City in which to live, work, and play.",
+			"url": "https://t.co/zBQxTRn9GS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zBQxTRn9GS",
+							"expanded_url": "http://lacity.org",
+							"display_url": "lacity.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23623,
+			"friends_count": 195,
+			"listed_count": 277,
+			"created_at": "Wed Jun 28 11:41:50 +0000 2017",
+			"favourites_count": 1083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880031210415599616/I1IlnKdB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880031210415599616/I1IlnKdB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880028463704363008/1498707859",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you received your invitation to respond to the census yet? #2020Census\n\n🖥️ https://t.co/siOl8KiquD\n📞 1-844-330-2020 https://t.co/VAQV2QSJYP"
+	},
+	{
+		"created_at": "Thu Mar 26 18:30:11 +0000 2020",
+		"id": 1243243869451378700,
+		"id_str": "1243243869451378689",
+		"full_text": "We've moved on to \"extreme\" hopscotch, via @galileolearning! Try it: https://t.co/llW8boco6z https://t.co/CYLRCde3yo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "galileolearning",
+					"name": "Galileo",
+					"id": 38274111,
+					"id_str": "38274111",
+					"indices": [
+						43,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/llW8boco6z",
+					"expanded_url": "https://galileo-camps.com/galileo-anywhere-activity-1b/",
+					"display_url": "galileo-camps.com/galileo-anywhe…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1243243862375559200,
+					"id_str": "1243243862375559168",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EUDjtLIUcAAzqQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUDjtLIUcAAzqQc.jpg",
+					"url": "https://t.co/CYLRCde3yo",
+					"display_url": "pic.twitter.com/CYLRCde3yo",
+					"expanded_url": "https://twitter.com/stiles/status/1243243869451378689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243243862375559200,
+					"id_str": "1243243862375559168",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EUDjtLIUcAAzqQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUDjtLIUcAAzqQc.jpg",
+					"url": "https://t.co/CYLRCde3yo",
+					"display_url": "pic.twitter.com/CYLRCde3yo",
+					"expanded_url": "https://twitter.com/stiles/status/1243243869451378689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11350,
+			"friends_count": 2001,
+			"listed_count": 882,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585110720",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've moved on to \"extreme\" hopscotch, via @galileolearning! Try it: https://t.co/llW8boco6z https://t.co/CYLRCde3yo"
+	},
+	{
 		"created_at": "Thu Mar 26 17:17:54 +0000 2020",
 		"id": 1243225677995724800,
 		"id_str": "1243225677995724801",
