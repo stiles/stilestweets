@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 26 14:51:29 +0000 2020",
+		"id": 1243165818571153400,
+		"id_str": "1243188833190965248",
+		"full_text": "I used to be the family IT support person.\n\nNow I'm the family COVID map critic. https://t.co/hyucD9VkS7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243165703852654600,
+					"id_str": "1243165703852654593",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EUCcnv8WAAEf1YA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUCcnv8WAAEf1YA.jpg",
+					"url": "https://t.co/hyucD9VkS7",
+					"display_url": "pic.twitter.com/hyucD9VkS7",
+					"expanded_url": "https://twitter.com/brianboyer/status/1243165818571153408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1062,
+							"h": 926,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1062,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 593,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243165703852654600,
+					"id_str": "1243165703852654593",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EUCcnv8WAAEf1YA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUCcnv8WAAEf1YA.jpg",
+					"url": "https://t.co/hyucD9VkS7",
+					"display_url": "pic.twitter.com/hyucD9VkS7",
+					"expanded_url": "https://twitter.com/brianboyer/status/1243165818571153408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1062,
+							"h": 926,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1062,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 593,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14570738,
+			"id_str": "14570738",
+			"name": "Brian Boyer",
+			"screen_name": "brianboyer",
+			"location": "Chicago",
+			"description": "Hire me! Formerly VP Product + People at @spiritedmediaco, @nprviz, @tribapps, @propubnerds. Adviser, @detroitsound.",
+			"url": "https://t.co/ASuNrDlpFT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ASuNrDlpFT",
+							"expanded_url": "https://brianboyer.net/",
+							"display_url": "brianboyer.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12554,
+			"friends_count": 789,
+			"listed_count": 1211,
+			"created_at": "Mon Apr 28 15:37:43 +0000 2008",
+			"favourites_count": 886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986978578989486080/_4_JBD7__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986978578989486080/_4_JBD7__normal.jpg",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F7F4",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I used to be the family IT support person.\n\nNow I'm the family COVID map critic. https://t.co/hyucD9VkS7"
+	},
+	{
 		"created_at": "Wed Mar 25 04:30:57 +0000 2020",
 		"id": 1242670281023303700,
 		"id_str": "1242670281023303680",
