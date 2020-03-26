@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 26 17:17:54 +0000 2020",
+		"id": 1243225677995724800,
+		"id_str": "1243225677995724801",
+		"full_text": "Morning art class with @wendymac is packed!! https://t.co/Nnc9KMA84Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wendymac",
+					"name": "wendy macnaughton",
+					"id": 8412262,
+					"id_str": "8412262",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243225670458564600,
+					"id_str": "1243225670458564613",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EUDTKQ9UYAU31LN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUDTKQ9UYAU31LN.jpg",
+					"url": "https://t.co/Nnc9KMA84Q",
+					"display_url": "pic.twitter.com/Nnc9KMA84Q",
+					"expanded_url": "https://twitter.com/stiles/status/1243225677995724801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 919,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243225670458564600,
+					"id_str": "1243225670458564613",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EUDTKQ9UYAU31LN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUDTKQ9UYAU31LN.jpg",
+					"url": "https://t.co/Nnc9KMA84Q",
+					"display_url": "pic.twitter.com/Nnc9KMA84Q",
+					"expanded_url": "https://twitter.com/stiles/status/1243225677995724801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 919,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11348,
+			"friends_count": 2001,
+			"listed_count": 882,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585110720",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Morning art class with @wendymac is packed!! https://t.co/Nnc9KMA84Q"
+	},
+	{
 		"created_at": "Thu Mar 26 14:51:29 +0000 2020",
 		"id": 1243165818571153400,
 		"id_str": "1243188833190965248",
