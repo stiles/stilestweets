@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 26 22:39:08 +0000 2020",
+		"id": 1243306519589863400,
+		"id_str": "1243306519589863429",
+		"full_text": "🤦‍♂️ https://t.co/OBgigY41so",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OBgigY41so",
+					"expanded_url": "https://twitter.com/yashar/status/1243306052776419328",
+					"display_url": "twitter.com/yashar/status/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11349,
+			"friends_count": 2001,
+			"listed_count": 882,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585110720",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243306052776419300,
+		"quoted_status_id_str": "1243306052776419328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OBgigY41so",
+			"expanded": "https://twitter.com/yashar/status/1243306052776419328",
+			"display": "twitter.com/yashar/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 26 22:37:17 +0000 2020",
+			"id": 1243306052776419300,
+			"id_str": "1243306052776419328",
+			"full_text": "U.S. government has 1.5 million expired N95 masks sitting in an Indiana warehouse https://t.co/zF0mYvA1nA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zF0mYvA1nA",
+						"expanded_url": "https://www.washingtonpost.com/national/coronavirus-government-mask-stockpile/2020/03/26/89d729c8-6f5b-11ea-96a0-df4c5d9284af_story.html",
+						"display_url": "washingtonpost.com/national/coron…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11744152,
+				"id_str": "11744152",
+				"name": "Yashar Ali 🐘",
+				"screen_name": "yashar",
+				"location": "NYC/LA",
+				"description": "New York Magazine/HuffPost Contributor Email: currentyashar@gmail.com Direct Messages Open Text/Call/Signal/Confide/WhatsApp: 310-795-2497. Agents: UTA",
+				"url": "https://t.co/qAD8F5TW8p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qAD8F5TW8p",
+								"expanded_url": "http://bit.ly/2U6YP5n",
+								"display_url": "bit.ly/2U6YP5n",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 583834,
+				"friends_count": 24623,
+				"listed_count": 5694,
+				"created_at": "Wed Jan 02 06:55:39 +0000 2008",
+				"favourites_count": 140947,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 163523,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1239039865607479296/vOY7IFfL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239039865607479296/vOY7IFfL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11744152/1502224549",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "080708",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 285,
+			"favorite_count": 607,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤦‍♂️ https://t.co/OBgigY41so"
+	},
+	{
 		"created_at": "Thu Mar 26 18:30:58 +0000 2020",
 		"id": 1243244014528151600,
 		"id_str": "1243244067145711616",
