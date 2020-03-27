@@ -1,10 +1,184 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 01:13:29 +0000 2020",
+		"id": 1243230510739943400,
+		"id_str": "1243345365207633922",
+		"full_text": "When they tell me to stay home but the McRib is back https://t.co/mBRAux7P0j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243230502498095000,
+					"id_str": "1243230502498095109",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EUDXjhtUUAU5kPC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUDXjhtUUAU5kPC.jpg",
+					"url": "https://t.co/mBRAux7P0j",
+					"display_url": "pic.twitter.com/mBRAux7P0j",
+					"expanded_url": "https://twitter.com/lazerdoov/status/1243230510739943425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243230502498095000,
+					"id_str": "1243230502498095109",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EUDXjhtUUAU5kPC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUDXjhtUUAU5kPC.jpg",
+					"url": "https://t.co/mBRAux7P0j",
+					"display_url": "pic.twitter.com/mBRAux7P0j",
+					"expanded_url": "https://twitter.com/lazerdoov/status/1243230510739943425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185963016,
+			"id_str": "185963016",
+			"name": "Dan Duvall",
+			"screen_name": "lazerdoov",
+			"location": "",
+			"description": "Half of The Hate Locker Podcast and a real piece of work.",
+			"url": "https://t.co/Ki3XY6hFSi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ki3XY6hFSi",
+							"expanded_url": "https://podcasts.apple.com/ca/podcast/the-hate-locker/id1397648744",
+							"display_url": "podcasts.apple.com/ca/podcast/the…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36217,
+			"friends_count": 1605,
+			"listed_count": 1420,
+			"created_at": "Thu Sep 02 07:29:26 +0000 2010",
+			"favourites_count": 80803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240473523987968000/bwwpZfmA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240473523987968000/bwwpZfmA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/185963016/1533076152",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1429,
+		"favorite_count": 9882,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When they tell me to stay home but the McRib is back https://t.co/mBRAux7P0j"
+	},
+	{
 		"created_at": "Thu Mar 26 22:39:08 +0000 2020",
 		"id": 1243306519589863400,
 		"id_str": "1243306519589863429",
-		"full_text": "🤦‍♂️ https://t.co/OBgigY41so",
+		"full_text": "🤦♂️ https://t.co/OBgigY41so",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -216,7 +390,7 @@ Grailbird.data.tweets_2020_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "und",
-		"text": "🤦‍♂️ https://t.co/OBgigY41so"
+		"text": "🤦♂️ https://t.co/OBgigY41so"
 	},
 	{
 		"created_at": "Thu Mar 26 18:30:58 +0000 2020",
