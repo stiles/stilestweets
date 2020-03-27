@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 16:24:53 +0000 2020",
+		"id": 1243574724807934000,
+		"id_str": "1243574724807933957",
+		"full_text": "My quarantine vibe \"One steals. One kills. One dies.\"\n\nFeels about right for when the zombies come. https://t.co/5cu7JCvqcy https://t.co/QXT0ZyA7EP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5cu7JCvqcy",
+					"expanded_url": "https://twitter.com/NSiegel_DC/status/1242967324782743552",
+					"display_url": "twitter.com/NSiegel_DC/sta…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1243574679455109000,
+					"id_str": "1243574679455109121",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EUIQlQyXkAEL_JN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUIQlQyXkAEL_JN.jpg",
+					"url": "https://t.co/QXT0ZyA7EP",
+					"display_url": "pic.twitter.com/QXT0ZyA7EP",
+					"expanded_url": "https://twitter.com/stiles/status/1243574724807933957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 256,
+							"h": 388,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 256,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 256,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243574679455109000,
+					"id_str": "1243574679455109121",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EUIQlQyXkAEL_JN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUIQlQyXkAEL_JN.jpg",
+					"url": "https://t.co/QXT0ZyA7EP",
+					"display_url": "pic.twitter.com/QXT0ZyA7EP",
+					"expanded_url": "https://twitter.com/stiles/status/1243574724807933957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 256,
+							"h": 388,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 256,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 256,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11345,
+			"friends_count": 2001,
+			"listed_count": 882,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585110720",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242967324782743600,
+		"quoted_status_id_str": "1242967324782743552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5cu7JCvqcy",
+			"expanded": "https://twitter.com/NSiegel_DC/status/1242967324782743552",
+			"display": "twitter.com/NSiegel_DC/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 26 00:11:18 +0000 2020",
+			"id": 1242967324782743600,
+			"id_str": "1242967324782743552",
+			"full_text": "Your quarantine vibe is the tagline from the highest grossing movie the week you were born. GO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 892378851120222200,
+				"id_str": "892378851120222208",
+				"name": "Nicole Siegel",
+				"screen_name": "NSiegel_DC",
+				"location": "Washington, DC",
+				"description": "All things advocacy, comms & #HigherEd for @ThirdWayEdu. Tweets and views are my own. @NCState @AmericanU",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 716,
+				"friends_count": 1037,
+				"listed_count": 23,
+				"created_at": "Tue Aug 01 13:37:52 +0000 2017",
+				"favourites_count": 1894,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3175,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1138062336458141696/wdgsxFnD_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138062336458141696/wdgsxFnD_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/892378851120222208/1521039966",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01fbe706f872cb32",
+				"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+				"place_type": "city",
+				"name": "Washington",
+				"full_name": "Washington, DC",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-77.119401,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.9953797
+							],
+							[
+								-77.119401,
+								38.9953797
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 133,
+			"favorite_count": 1908,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My quarantine vibe \"One steals. One kills. One dies.\"\n\nFeels about right for when the zombies come. https://t.co/5cu7JCvqcy https://t.co/QXT0ZyA7EP"
+	},
+	{
 		"created_at": "Fri Mar 27 15:54:26 +0000 2020",
 		"id": 1243567060120035300,
 		"id_str": "1243567060120035328",
