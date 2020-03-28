@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 28 03:17:02 +0000 2020",
+		"id": 1243662340072984600,
+		"id_str": "1243738844911915010",
+		"full_text": "RELEASE: Certified Election Results for the March 3 Presidential Primary Election\nhttps://t.co/MgR7x7RZBO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MgR7x7RZBO",
+					"expanded_url": "https://lavote.net/docs/rrcc/news-releases/03032020_certified-results.pdf",
+					"display_url": "lavote.net/docs/rrcc/news…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21807663,
+			"id_str": "21807663",
+			"name": "Los Angeles County Registrar-Recorder/County Clerk",
+			"screen_name": "LACountyRRCC",
+			"location": "Los Angeles County",
+			"description": "L.A. County Registrar-Recorder/County Clerk | Elections? We conduct them. Records? We have those. Getting Married? We do that too.",
+			"url": "https://t.co/r2JyqSLzIk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r2JyqSLzIk",
+							"expanded_url": "http://www.lavote.net",
+							"display_url": "lavote.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7194,
+			"friends_count": 1451,
+			"listed_count": 263,
+			"created_at": "Tue Feb 24 22:40:37 +0000 2009",
+			"favourites_count": 5509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239425380521373696/MMmrn5NH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239425380521373696/MMmrn5NH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21807663/1583451737",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RELEASE: Certified Election Results for the March 3 Presidential Primary Election\nhttps://t.co/MgR7x7RZBO"
+	},
+	{
 		"created_at": "Fri Mar 27 16:24:53 +0000 2020",
 		"id": 1243574724807934000,
 		"id_str": "1243574724807933957",
