@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 29 04:42:45 +0000 2020",
+		"id": 1244088041615945700,
+		"id_str": "1244122802958897153",
+		"full_text": "All Los Angeles County beaches officially closed today\n\nNot everyone accepting this fact\n\nMaybe @GavinNewsom needs to institute fines?\n\nHermosa Beach\nManhattan Beach\nVenice Beach\n\n#coronavirus \n#latimes https://t.co/YdLTOjekP4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirus",
+					"indices": [
+						180,
+						192
+					]
+				},
+				{
+					"text": "latimes",
+					"indices": [
+						194,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinNewsom",
+					"name": "Gavin Newsom",
+					"id": 11347122,
+					"id_str": "11347122",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244084541188272000,
+					"id_str": "1244084541188272128",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EUPgTHwU8AA695-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUPgTHwU8AA695-.jpg",
+					"url": "https://t.co/YdLTOjekP4",
+					"display_url": "pic.twitter.com/YdLTOjekP4",
+					"expanded_url": "https://twitter.com/jaylclendenin/status/1244088041615945733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244084541188272000,
+					"id_str": "1244084541188272128",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EUPgTHwU8AA695-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUPgTHwU8AA695-.jpg",
+					"url": "https://t.co/YdLTOjekP4",
+					"display_url": "pic.twitter.com/YdLTOjekP4",
+					"expanded_url": "https://twitter.com/jaylclendenin/status/1244088041615945733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1244084654052802600,
+					"id_str": "1244084654052802560",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EUPgZsNVAAAP7ff.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUPgZsNVAAAP7ff.jpg",
+					"url": "https://t.co/YdLTOjekP4",
+					"display_url": "pic.twitter.com/YdLTOjekP4",
+					"expanded_url": "https://twitter.com/jaylclendenin/status/1244088041615945733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1244084737519415300,
+					"id_str": "1244084737519415298",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EUPgejJUcAIzJtS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUPgejJUcAIzJtS.jpg",
+					"url": "https://t.co/YdLTOjekP4",
+					"display_url": "pic.twitter.com/YdLTOjekP4",
+					"expanded_url": "https://twitter.com/jaylclendenin/status/1244088041615945733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1244087338398961700,
+					"id_str": "1244087338398961664",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EUPi18LU0AA6TxU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUPi18LU0AA6TxU.jpg",
+					"url": "https://t.co/YdLTOjekP4",
+					"display_url": "pic.twitter.com/YdLTOjekP4",
+					"expanded_url": "https://twitter.com/jaylclendenin/status/1244088041615945733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266964240,
+			"id_str": "266964240",
+			"name": "Jay L. Clendenin (JLCvisuals)",
+			"screen_name": "jaylclendenin",
+			"location": "Los Angeles",
+			"description": "Los Angeles photographer specializing in entertainment coverage and I shoot a lot of celebrity portraits!",
+			"url": "https://t.co/tAl1tiShul",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tAl1tiShul",
+							"expanded_url": "https://www.latimes.com/la-bio-jay-l-clendenin-staff.html",
+							"display_url": "latimes.com/la-bio-jay-l-c…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3469,
+			"friends_count": 1477,
+			"listed_count": 162,
+			"created_at": "Wed Mar 16 03:15:52 +0000 2011",
+			"favourites_count": 12035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181076252242796545/sc0o8WN1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181076252242796545/sc0o8WN1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266964240/1577945801",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All Los Angeles County beaches officially closed today\n\nNot everyone accepting this fact\n\nMaybe @GavinNewsom needs to institute fines?\n\nHermosa Beach\nManhattan Beach\nVenice Beach\n\n#coronavirus \n#latimes https://t.co/YdLTOjekP4"
+	},
+	{
 		"created_at": "Sat Mar 28 20:06:49 +0000 2020",
 		"id": 1243992965367746600,
 		"id_str": "1243992965367746561",
