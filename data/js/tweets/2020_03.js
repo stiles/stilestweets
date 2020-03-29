@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 29 18:22:10 +0000 2020",
+		"id": 1244328601656406000,
+		"id_str": "1244329014296080385",
+		"full_text": "Fauci predicts that over 100,000 Americans will die but the good news is ratings are up https://t.co/c4s0kjpcaL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c4s0kjpcaL",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/1244309931874017280",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15446531,
+			"id_str": "15446531",
+			"name": "Matthew Yglesias",
+			"screen_name": "mattyglesias",
+			"location": "Washington, DC",
+			"description": "Writing a book: ONE BILLION AMERICANS; podcasting on THE WEEDS; blogging at https://t.co/5gESirESRH; proud owner of a non-conforming garage",
+			"url": "https://t.co/nOeiO7sYh8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nOeiO7sYh8",
+							"expanded_url": "http://www.applepodcasts.com/mattyglesias",
+							"display_url": "applepodcasts.com/mattyglesias",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5gESirESRH",
+							"expanded_url": "http://Vox.com",
+							"display_url": "Vox.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 454309,
+			"friends_count": 944,
+			"listed_count": 11581,
+			"created_at": "Tue Jul 15 21:44:28 +0000 2008",
+			"favourites_count": 19079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229560786584031232/4MqVWOAf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229560786584031232/4MqVWOAf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15446531/1560120768",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1244309931874017300,
+		"quoted_status_id_str": "1244309931874017280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c4s0kjpcaL",
+			"expanded": "https://twitter.com/realDonaldTrump/status/1244309931874017280",
+			"display": "twitter.com/realDonaldTrum…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 29 17:06:20 +0000 2020",
+			"id": 1244309931874017300,
+			"id_str": "1244309931874017280",
+			"full_text": "Because the “Ratings” of my News Conferences etc. are so high, “Bachelor finale, Monday Night Football type numbers” according to the @nytimes, the Lamestream Media is going CRAZY. “Trump is reaching too many people, we must stop him.” said one lunatic. See you at 5:00 P.M.!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							134,
+							142
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 75453362,
+				"friends_count": 47,
+				"listed_count": 118005,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 50272,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18755,
+			"favorite_count": 71317,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 266,
+		"favorite_count": 886,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fauci predicts that over 100,000 Americans will die but the good news is ratings are up https://t.co/c4s0kjpcaL"
+	},
+	{
 		"created_at": "Sun Mar 29 06:17:28 +0000 2020",
 		"id": 1244122387416641500,
 		"id_str": "1244146638802702336",
