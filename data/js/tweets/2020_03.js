@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 29 06:17:28 +0000 2020",
+		"id": 1244122387416641500,
+		"id_str": "1244146638802702336",
+		"full_text": "@seanhannity That’s Korean script (Hangul) that on the banner. Come on, guys...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seanhannity",
+					"name": "Sean Hannity",
+					"id": 41634520,
+					"id_str": "41634520",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1243866812615471000,
+		"in_reply_to_status_id_str": "1243866812615471104",
+		"in_reply_to_user_id": 41634520,
+		"in_reply_to_user_id_str": "41634520",
+		"in_reply_to_screen_name": "seanhannity",
+		"user": {
+			"id": 489218573,
+			"id_str": "489218573",
+			"name": "Robert E Kelly",
+			"screen_name": "Robert_E_Kelly",
+			"location": "Busan, Korea",
+			"description": "Professor of Political Science; Pusan Nat'l Uni; 부산대학교 정치외교학과 교수; Int'l Relations, Koreas, E Asia; also: @LowyInstitute; @TheNatlInterest; BBC Dad (yes, really)",
+			"url": "https://t.co/WcHopyTOLX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WcHopyTOLX",
+							"expanded_url": "http://asiansecurityblog.wordpress.com/",
+							"display_url": "asiansecurityblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92015,
+			"friends_count": 518,
+			"listed_count": 960,
+			"created_at": "Sat Feb 11 09:21:25 +0000 2012",
+			"favourites_count": 7212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/543237153350631424/CxfvlCxP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/543237153350631424/CxfvlCxP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/489218573/1398209825",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 573,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@seanhannity That’s Korean script (Hangul) that on the banner. Come on, guys..."
+	},
+	{
 		"created_at": "Sun Mar 29 04:42:45 +0000 2020",
 		"id": 1244088041615945700,
 		"id_str": "1244122802958897153",
