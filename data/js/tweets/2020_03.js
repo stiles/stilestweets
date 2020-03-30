@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 05:34:27 +0000 2020",
+		"id": 1244478381011296300,
+		"id_str": "1244498202360836096",
+		"full_text": "Genius https://t.co/l7Xd1z99W1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l7Xd1z99W1",
+					"expanded_url": "https://twitter.com/anntelnaes/status/1244400343816867840",
+					"display_url": "twitter.com/anntelnaes/sta…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137589397,
+			"id_str": "137589397",
+			"name": "Jessica Levinson",
+			"screen_name": "LevinsonJessica",
+			"location": "Los Angeles",
+			"description": "Prof @LoyolaLawSchool. @TheMadBrand’s legal eagle on @KCRW. Contrib @NbcNewsThink. Find me @CBSNews @MSNBC @CNN. Fmr Pres LA #Ethics. #Law #Politics #SCOTUS",
+			"url": "https://t.co/v8MDZzJydC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v8MDZzJydC",
+							"expanded_url": "http://www.lls.edu/faculty/facultylistl-r/levinsonjessica/",
+							"display_url": "lls.edu/faculty/facult…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4826,
+			"friends_count": 1724,
+			"listed_count": 205,
+			"created_at": "Tue Apr 27 05:14:09 +0000 2010",
+			"favourites_count": 46103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0034B8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034107208139558913/WtwOkw_H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034107208139558913/WtwOkw_H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137589397/1424273968",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1244400343816867800,
+		"quoted_status_id_str": "1244400343816867840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l7Xd1z99W1",
+			"expanded": "https://twitter.com/anntelnaes/status/1244400343816867840",
+			"display": "twitter.com/anntelnaes/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 29 23:05:36 +0000 2020",
+			"id": 1244400343816867800,
+			"id_str": "1244400343816867840",
+			"full_text": "Yamiche and Trump https://t.co/LlrLapzVQx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				17
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1244400337928065000,
+						"id_str": "1244400337928065024",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/EUT_g6SUEAA3WA9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUT_g6SUEAA3WA9.jpg",
+						"url": "https://t.co/LlrLapzVQx",
+						"display_url": "pic.twitter.com/LlrLapzVQx",
+						"expanded_url": "https://twitter.com/AnnTelnaes/status/1244400343816867840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1244400337928065000,
+						"id_str": "1244400337928065024",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/EUT_g6SUEAA3WA9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUT_g6SUEAA3WA9.jpg",
+						"url": "https://t.co/LlrLapzVQx",
+						"display_url": "pic.twitter.com/LlrLapzVQx",
+						"expanded_url": "https://twitter.com/AnnTelnaes/status/1244400343816867840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 558040899,
+				"id_str": "558040899",
+				"name": "Ann Telnaes",
+				"screen_name": "AnnTelnaes",
+				"location": "Washington, DC",
+				"description": "Pushy Nasty Woman Pulitzer prize winning editorial cartoonist for the Washington Post. \nTrump's ABC https://t.co/fjCscpiTCa",
+				"url": "https://t.co/ucVRwvUuIZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ucVRwvUuIZ",
+								"expanded_url": "http://www.washingtonpost.com/people/ann-telnaes",
+								"display_url": "washingtonpost.com/people/ann-tel…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fjCscpiTCa",
+								"expanded_url": "http://fantagraphics.com/trumpsabc/",
+								"display_url": "fantagraphics.com/trumpsabc/",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 51900,
+				"friends_count": 939,
+				"listed_count": 1259,
+				"created_at": "Thu Apr 19 18:51:43 +0000 2012",
+				"favourites_count": 16115,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12195,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E81C4F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/672790806051164160/6CthyZFn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/672790806051164160/6CthyZFn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/558040899/1583762673",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11460,
+			"favorite_count": 43143,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 68,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "lt",
+		"text": "Genius https://t.co/l7Xd1z99W1"
+	},
+	{
 		"created_at": "Sun Mar 29 22:47:49 +0000 2020",
 		"id": 1244395869975113700,
 		"id_str": "1244395869975113729",
