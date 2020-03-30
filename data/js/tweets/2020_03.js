@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 19:20:47 +0000 2020",
+		"id": 1244680638814281700,
+		"id_str": "1244706152870326272",
+		"full_text": "Submit your public comment for the Virtual March 31st Board meeting details 👇🏼 https://t.co/FUfLYEhK2K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244680633131004000,
+					"id_str": "1244680633131003904",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EUX-cPSU8AA0oaV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUX-cPSU8AA0oaV.jpg",
+					"url": "https://t.co/FUfLYEhK2K",
+					"display_url": "pic.twitter.com/FUfLYEhK2K",
+					"expanded_url": "https://twitter.com/LACountyBOS/status/1244680638814281728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244680633131004000,
+					"id_str": "1244680633131003904",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EUX-cPSU8AA0oaV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUX-cPSU8AA0oaV.jpg",
+					"url": "https://t.co/FUfLYEhK2K",
+					"display_url": "pic.twitter.com/FUfLYEhK2K",
+					"expanded_url": "https://twitter.com/LACountyBOS/status/1244680638814281728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144740456586047500,
+			"id_str": "1144740456586047489",
+			"name": "LACountyBOS",
+			"screen_name": "LACountyBOS",
+			"location": "Los Angeles, CA",
+			"description": "Official page of the Executive Office of the LA County Board of Supervisors, the governing body of the largest local government in the Nation.",
+			"url": "https://t.co/zzlRYEtVvg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzlRYEtVvg",
+							"expanded_url": "http://www.bos.lacounty.gov",
+							"display_url": "bos.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 759,
+			"friends_count": 420,
+			"listed_count": 9,
+			"created_at": "Fri Jun 28 22:52:47 +0000 2019",
+			"favourites_count": 1166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178700670922182657/VuTwPBSR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178700670922182657/VuTwPBSR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144740456586047489/1575582683",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Submit your public comment for the Virtual March 31st Board meeting details 👇🏼 https://t.co/FUfLYEhK2K"
+	},
+	{
 		"created_at": "Mon Mar 30 14:01:58 +0000 2020",
 		"id": 1244625921325158400,
 		"id_str": "1244625921325158400",
