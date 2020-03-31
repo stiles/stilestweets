@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 00:53:45 +0000 2020",
+		"id": 1244710889464496000,
+		"id_str": "1244789950337318912",
+		"full_text": "and i don't know what to tell you because I'M NOT LEAVING MY FUCKING APARTMENT.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1244710699013738500,
+		"in_reply_to_status_id_str": "1244710699013738497",
+		"in_reply_to_user_id": 20654193,
+		"in_reply_to_user_id_str": "20654193",
+		"in_reply_to_screen_name": "kirkpate",
+		"user": {
+			"id": 20654193,
+			"id_str": "20654193",
+			"name": "internet baby",
+			"screen_name": "kirkpate",
+			"location": "NYC",
+			"description": "Emily Kirkpatrick \nwriter for hire @genmag @dazed @fashionista_com @nylonmag \nfashion snob\npaparazzi pic curator\nformerly: @nypost @i_d @peoplestyle \n(she/her)",
+			"url": "https://t.co/MjZCzqEkQ1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MjZCzqEkQ1",
+							"expanded_url": "http://emilykirkpatrick.substack.com",
+							"display_url": "emilykirkpatrick.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3264,
+			"friends_count": 1105,
+			"listed_count": 24,
+			"created_at": "Thu Feb 12 04:29:41 +0000 2009",
+			"favourites_count": 27180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0C0D0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127057284176257024/8zvTIEzb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127057284176257024/8zvTIEzb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20654193/1571166068",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 4367,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "and i don't know what to tell you because I'M NOT LEAVING MY FUCKING APARTMENT."
+	},
+	{
 		"created_at": "Mon Mar 30 20:49:40 +0000 2020",
 		"id": 1244728521437503500,
 		"id_str": "1244728521437503488",
