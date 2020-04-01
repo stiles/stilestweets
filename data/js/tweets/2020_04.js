@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 01 22:55:06 +0000 2020",
+		"id": 1245484863391584300,
+		"id_str": "1245484863391584256",
+		"full_text": "State @CAPublicHealth releases new dashboard with numbers of #COVID19 patients by hospital. Unfortunately they used a private BI tool with no data download. https://t.co/CI7Ya3pOUQ https://t.co/keYU3cDf6f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CAPublicHealth",
+					"name": "CA Public Health",
+					"id": 33934492,
+					"id_str": "33934492",
+					"indices": [
+						6,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CI7Ya3pOUQ",
+					"expanded_url": "https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19PublicDashboard/Covid-19Hospitals",
+					"display_url": "public.tableau.com/profile/ca.ope…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245484858027036700,
+					"id_str": "1245484858027036672",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUjZ4SfUUAAZVdN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUjZ4SfUUAAZVdN.jpg",
+					"url": "https://t.co/keYU3cDf6f",
+					"display_url": "pic.twitter.com/keYU3cDf6f",
+					"expanded_url": "https://twitter.com/stiles/status/1245484863391584256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 306,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 306,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 306,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245484858027036700,
+					"id_str": "1245484858027036672",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUjZ4SfUUAAZVdN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUjZ4SfUUAAZVdN.jpg",
+					"url": "https://t.co/keYU3cDf6f",
+					"display_url": "pic.twitter.com/keYU3cDf6f",
+					"expanded_url": "https://twitter.com/stiles/status/1245484863391584256/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 306,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 306,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 306,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							153
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EUjZ4SfUUAAZVdN.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11358,
+			"friends_count": 2007,
+			"listed_count": 882,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "State @CAPublicHealth releases new dashboard with numbers of #COVID19 patients by hospital. Unfortunately they used a private BI tool with no data download. https://t.co/CI7Ya3pOUQ https://t.co/keYU3cDf6f"
+	},
+	{
 		"created_at": "Wed Apr 01 19:25:26 +0000 2020",
 		"id": 1245432102872428500,
 		"id_str": "1245432102872428545",
