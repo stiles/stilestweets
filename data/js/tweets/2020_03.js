@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 23:39:40 +0000 2020",
+		"id": 1245133691619119000,
+		"id_str": "1245133691619119104",
+		"full_text": "Just got a letter from @CountyofLA saying it can't tell us the identity of the first #COVID19 death (who we identified weeks ago in a story) because its employees can't come into the office. \n\nSo what other functions can @lapublichealth not perform because of this pandemic? https://t.co/x6YVtZ9y7v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						85,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "lapublichealth",
+					"name": "LA Public Health",
+					"id": 38287098,
+					"id_str": "38287098",
+					"indices": [
+						221,
+						236
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245133557883797500,
+					"id_str": "1245133557883797504",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EUeaX7eVAAARNHZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUeaX7eVAAARNHZ.png",
+					"url": "https://t.co/x6YVtZ9y7v",
+					"display_url": "pic.twitter.com/x6YVtZ9y7v",
+					"expanded_url": "https://twitter.com/stiles/status/1245133691619119104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1282,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245133557883797500,
+					"id_str": "1245133557883797504",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EUeaX7eVAAARNHZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUeaX7eVAAARNHZ.png",
+					"url": "https://t.co/x6YVtZ9y7v",
+					"display_url": "pic.twitter.com/x6YVtZ9y7v",
+					"expanded_url": "https://twitter.com/stiles/status/1245133691619119104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1282,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11356,
+			"friends_count": 2005,
+			"listed_count": 882,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just got a letter from @CountyofLA saying it can't tell us the identity of the first #COVID19 death (who we identified weeks ago in a story) because its employees can't come into the office. \n\nSo what other functions can @lapublichealth not perform because of this pandemic? https://t.co/x6YVtZ9y7v"
+	},
+	{
 		"created_at": "Tue Mar 31 20:44:28 +0000 2020",
 		"id": 1245089603888926700,
 		"id_str": "1245089603888926720",
