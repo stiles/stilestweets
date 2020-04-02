@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 00:46:56 +0000 2020",
+		"id": 1245503372586713000,
+		"id_str": "1245513009398550529",
+		"full_text": "Here at the South Bay Galleria in Redondo Beach — we want to turn this parking lot into a drive-thru #COVIDー19 testing site as fast as possible. https://t.co/eUiPE1sWlj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVIDー19",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245502893022568400,
+					"id_str": "1245502893022568448",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245502893022568448/pu/img/i1PJvTUi98ZsvWRd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245502893022568448/pu/img/i1PJvTUi98ZsvWRd.jpg",
+					"url": "https://t.co/eUiPE1sWlj",
+					"display_url": "pic.twitter.com/eUiPE1sWlj",
+					"expanded_url": "https://twitter.com/SupJaniceHahn/status/1245503372586713088/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245502893022568400,
+					"id_str": "1245502893022568448",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245502893022568448/pu/img/i1PJvTUi98ZsvWRd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245502893022568448/pu/img/i1PJvTUi98ZsvWRd.jpg",
+					"url": "https://t.co/eUiPE1sWlj",
+					"display_url": "pic.twitter.com/eUiPE1sWlj",
+					"expanded_url": "https://twitter.com/SupJaniceHahn/status/1245503372586713088/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245502893022568448/pu/vid/640x360/p5gIwJrIZfDtFnGe.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245502893022568448/pu/vid/480x270/IDrj8OW6Pl4IL6Fl.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245502893022568448/pu/vid/1280x720/LYmpq8_KwUw1t0hZ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1245502893022568448/pu/pl/lrrOyrC7keSW1MLF.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 339852137,
+			"id_str": "339852137",
+			"name": "Janice Hahn",
+			"screen_name": "SupJaniceHahn",
+			"location": "San Pedro, CA",
+			"description": "Los Angeles County Supervisor. Proudly serving the 4th District.\n\n📸 https://t.co/MnG9ZpiHd3\n👍 https://t.co/xgnuGxjNCF",
+			"url": "https://t.co/3Pibllvzik",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Pibllvzik",
+							"expanded_url": "http://hahn.lacounty.gov/",
+							"display_url": "hahn.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MnG9ZpiHd3",
+							"expanded_url": "http://instagram.com/supjanicehahn/",
+							"display_url": "instagram.com/supjanicehahn/",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/xgnuGxjNCF",
+							"expanded_url": "http://facebook.com/supjanicehahn/",
+							"display_url": "facebook.com/supjanicehahn/",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16365,
+			"friends_count": 2004,
+			"listed_count": 592,
+			"created_at": "Thu Jul 21 19:22:22 +0000 2011",
+			"favourites_count": 2243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169680421535109120/e9v7m3zA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169680421535109120/e9v7m3zA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/339852137/1579633576",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here at the South Bay Galleria in Redondo Beach — we want to turn this parking lot into a drive-thru #COVIDー19 testing site as fast as possible. https://t.co/eUiPE1sWlj"
+	},
+	{
 		"created_at": "Wed Apr 01 23:57:21 +0000 2020",
 		"id": 1245445798583603200,
 		"id_str": "1245500531293876224",
