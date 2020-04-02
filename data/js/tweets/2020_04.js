@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 01 23:57:21 +0000 2020",
+		"id": 1245445798583603200,
+		"id_str": "1245500531293876224",
+		"full_text": "Join us tomorrow (4/2/20) at 2:30 p.m. on Instagram Live for The Chief’s Chat w/ Fire Chief Daryl Osby &amp; Dep. Fire Chief Jon O’Brien to discuss the impact of COVID-19 on the LACoFD &amp; the Dept’s response to the pandemic. E-mail questions to Fire-ChiefsChat@fire.lacounty.gov. https://t.co/hmm2sk1uRw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245445792187338800,
+					"id_str": "1245445792187338753",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EUi2WW5U0AEeB_g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUi2WW5U0AEeB_g.jpg",
+					"url": "https://t.co/hmm2sk1uRw",
+					"display_url": "pic.twitter.com/hmm2sk1uRw",
+					"expanded_url": "https://twitter.com/LACOFD/status/1245445798583603200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245445792187338800,
+					"id_str": "1245445792187338753",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EUi2WW5U0AEeB_g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUi2WW5U0AEeB_g.jpg",
+					"url": "https://t.co/hmm2sk1uRw",
+					"display_url": "pic.twitter.com/hmm2sk1uRw",
+					"expanded_url": "https://twitter.com/LACOFD/status/1245445798583603200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308751479,
+			"id_str": "308751479",
+			"name": "LACoFD",
+			"screen_name": "LACOFD",
+			"location": "Los Angeles, California, USA",
+			"description": "Welcome to the official Twitter feed of the LACoFD. Dial 911 for emergencies. For the latest info on COVID-19, visit https://t.co/VDtDsIKp3F",
+			"url": "https://t.co/3AGfBXJfJZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3AGfBXJfJZ",
+							"expanded_url": "http://www.fire.lacounty.gov",
+							"display_url": "fire.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VDtDsIKp3F",
+							"expanded_url": "http://www.lacounty.gov/covid19",
+							"display_url": "lacounty.gov/covid19",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 88204,
+			"friends_count": 86,
+			"listed_count": 1090,
+			"created_at": "Tue May 31 23:09:56 +0000 2011",
+			"favourites_count": 4435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "151D34",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895042942263410688/Xs2w6m8s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895042942263410688/Xs2w6m8s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308751479/1351807228",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us tomorrow (4/2/20) at 2:30 p.m. on Instagram Live for The Chief’s Chat w/ Fire Chief Daryl Osby &amp; Dep. Fire Chief Jon O’Brien to discuss the impact of COVID-19 on the LACoFD &amp; the Dept’s response to the pandemic. E-mail questions to Fire-ChiefsChat@fire.lacounty.gov. https://t.co/hmm2sk1uRw"
+	},
+	{
 		"created_at": "Wed Apr 01 22:55:06 +0000 2020",
 		"id": 1245484863391584300,
 		"id_str": "1245484863391584256",
