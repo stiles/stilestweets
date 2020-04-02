@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 14:44:57 +0000 2020",
+		"id": 1245625542243528700,
+		"id_str": "1245723901490937857",
+		"full_text": "🌔 #LateNightTwitter 🌔\n\nI give you, the @datagraphics guide to the Internet.\n\nhttps://t.co/ZY3AIZcy6O\n\nBy @andyroberson22 and Alex Tatusian. https://t.co/JHxQjJtrna",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LateNightTwitter",
+					"indices": [
+						2,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "datagraphics",
+					"name": "Los Angeles Times Data and Graphics",
+					"id": 17918860,
+					"id_str": "17918860",
+					"indices": [
+						39,
+						52
+					]
+				},
+				{
+					"screen_name": "andyroberson22",
+					"name": "Andy Roberson",
+					"id": 3062229560,
+					"id_str": "3062229560",
+					"indices": [
+						105,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZY3AIZcy6O",
+					"expanded_url": "https://www.latimes.com/projects/guide-to-the-internet/",
+					"display_url": "latimes.com/projects/guide…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1245625508617801700,
+					"id_str": "1245625508617801729",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUlZzOxUUAEY6Oq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUlZzOxUUAEY6Oq.jpg",
+					"url": "https://t.co/JHxQjJtrna",
+					"display_url": "pic.twitter.com/JHxQjJtrna",
+					"expanded_url": "https://twitter.com/palewire/status/1245625542243528704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 574,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1013,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245625508617801700,
+					"id_str": "1245625508617801729",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUlZzOxUUAEY6Oq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUlZzOxUUAEY6Oq.jpg",
+					"url": "https://t.co/JHxQjJtrna",
+					"display_url": "pic.twitter.com/JHxQjJtrna",
+					"expanded_url": "https://twitter.com/palewire/status/1245625542243528704/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 574,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1013,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							32,
+							27
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EUlZzOxUUAEY6Oq.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · Send me tips · DMs open · ben.welsh@latimes.com",
+			"url": "https://t.co/M40D7KBYi4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M40D7KBYi4",
+							"expanded_url": "https://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/alHGK4tTzG",
+							"expanded_url": "http://californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11001,
+			"friends_count": 3115,
+			"listed_count": 752,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 57423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌔 #LateNightTwitter 🌔\n\nI give you, the @datagraphics guide to the Internet.\n\nhttps://t.co/ZY3AIZcy6O\n\nBy @andyroberson22 and Alex Tatusian. https://t.co/JHxQjJtrna"
+	},
+	{
 		"created_at": "Thu Apr 02 05:34:37 +0000 2020",
 		"id": 1245585407892271000,
 		"id_str": "1245585407892271104",
