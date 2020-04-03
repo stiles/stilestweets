@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 17:13:29 +0000 2020",
+		"id": 1246123669526425600,
+		"id_str": "1246123669526425601",
+		"full_text": "breakfast of champions https://t.co/MCzcIyIvwE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246123645518221300,
+					"id_str": "1246123645518221313",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EUse2nVUEAELfmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUse2nVUEAELfmb.jpg",
+					"url": "https://t.co/MCzcIyIvwE",
+					"display_url": "pic.twitter.com/MCzcIyIvwE",
+					"expanded_url": "https://twitter.com/stiles/status/1246123669526425601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246123645518221300,
+					"id_str": "1246123645518221313",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EUse2nVUEAELfmb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUse2nVUEAELfmb.jpg",
+					"url": "https://t.co/MCzcIyIvwE",
+					"display_url": "pic.twitter.com/MCzcIyIvwE",
+					"expanded_url": "https://twitter.com/stiles/status/1246123669526425601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11363,
+			"friends_count": 2009,
+			"listed_count": 882,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "breakfast of champions https://t.co/MCzcIyIvwE"
+	},
+	{
+		"created_at": "Fri Apr 03 16:29:46 +0000 2020",
+		"id": 1246112250978500600,
+		"id_str": "1246112668861083649",
+		"full_text": "Nevermind the website. The federal law that created the Strategic National Stockpile specifically says one of its purposes is to help the states and local gov'ts. \n\nI'm not an expert on legal cites but I believe this is 42 U.S. Code § 247d–6b (a)(3)(j)\n\nhttps://t.co/plYBoPSA3M https://t.co/TBTEgqdggz https://t.co/xV5TGinhJC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			301
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/plYBoPSA3M",
+					"expanded_url": "https://www.law.cornell.edu/uscode/text/42/247d-6b",
+					"display_url": "law.cornell.edu/uscode/text/42…",
+					"indices": [
+						254,
+						277
+					]
+				},
+				{
+					"url": "https://t.co/TBTEgqdggz",
+					"expanded_url": "https://twitter.com/AaronBlake/status/1246108831601565697",
+					"display_url": "twitter.com/AaronBlake/sta…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246111916495380500,
+					"id_str": "1246111916495380480",
+					"indices": [
+						302,
+						325
+					],
+					"media_url": "http://pbs.twimg.com/media/EUsUL5UWoAAI9BC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUsUL5UWoAAI9BC.jpg",
+					"url": "https://t.co/xV5TGinhJC",
+					"display_url": "pic.twitter.com/xV5TGinhJC",
+					"expanded_url": "https://twitter.com/jpeebles/status/1246112250978500619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246111916495380500,
+					"id_str": "1246111916495380480",
+					"indices": [
+						302,
+						325
+					],
+					"media_url": "http://pbs.twimg.com/media/EUsUL5UWoAAI9BC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUsUL5UWoAAI9BC.jpg",
+					"url": "https://t.co/xV5TGinhJC",
+					"display_url": "pic.twitter.com/xV5TGinhJC",
+					"expanded_url": "https://twitter.com/jpeebles/status/1246112250978500619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12623552,
+			"id_str": "12623552",
+			"name": "Jennifer Peebles",
+			"screen_name": "jpeebles",
+			"location": "Atlanta, GA",
+			"description": "Journalist & data wrangler @ajc. Slowest banjo picker in ATL. Pathological cornbread-maker. Has played croquet in Blundale, Ga.",
+			"url": "https://t.co/DHvZR12dDX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DHvZR12dDX",
+							"expanded_url": "http://www.ajc.com/staff/jennifer-peebles/",
+							"display_url": "ajc.com/staff/jennifer…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1941,
+			"friends_count": 1999,
+			"listed_count": 146,
+			"created_at": "Thu Jan 24 02:09:08 +0000 2008",
+			"favourites_count": 40452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800712810120564736/8jE60nSe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800712810120564736/8jE60nSe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12623552/1486487953",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246108831601565700,
+		"quoted_status_id_str": "1246108831601565697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TBTEgqdggz",
+			"expanded": "https://twitter.com/AaronBlake/status/1246108831601565697",
+			"display": "twitter.com/AaronBlake/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 03 16:14:31 +0000 2020",
+			"id": 1246108831601565700,
+			"id_str": "1246108831601565697",
+			"full_text": "HHS website when Kushner made the claim: \"Strategic National Stockpile is the nation’s largest supply of life-saving pharmaceuticals and medical supplies\"\n\nAnd now: The \"stockpile can be used as a short-term stopgap buffer\"\n\nhttps://t.co/OgqW66rejr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OgqW66rejr",
+						"expanded_url": "https://www.washingtonpost.com/politics/2020/04/03/jared-kushner-stands-trump-proceeds-offer-very-trumpian-claim-about-stockpiles/",
+						"display_url": "washingtonpost.com/politics/2020/…",
+						"indices": [
+							225,
+							248
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 136300373,
+				"id_str": "136300373",
+				"name": "Aaron Blake",
+				"screen_name": "AaronBlake",
+				"location": "Washington, D.C./NoVa",
+				"description": "Senior political reporter, writing for The Fix at The Washington Post. aaron.blake@washpost.com",
+				"url": "https://t.co/qEi9zttg8S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qEi9zttg8S",
+								"expanded_url": "http://wapo.st/13B31dj",
+								"display_url": "wapo.st/13B31dj",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 135158,
+				"friends_count": 4306,
+				"listed_count": 3468,
+				"created_at": "Fri Apr 23 15:00:15 +0000 2010",
+				"favourites_count": 4479,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3162,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1221994807104589826/tdtiICP2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221994807104589826/tdtiICP2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/136300373/1584801142",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nevermind the website. The federal law that created the Strategic National Stockpile specifically says one of its purposes is to help the states and local gov'ts. \n\nI'm not an expert on legal cites but I believe this is 42 U.S. Code § 247d–6b (a)(3)(j)\n\nhttps://t.co/plYBoPSA3M https://t.co/TBTEgqdggz https://t.co/xV5TGinhJC"
+	},
+	{
 		"created_at": "Fri Apr 03 02:07:39 +0000 2020",
 		"id": 1245895708537843700,
 		"id_str": "1245895708537843713",
