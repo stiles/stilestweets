@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 15:14:08 +0000 2020",
+		"id": 1246816797829054500,
+		"id_str": "1246818410324844546",
+		"full_text": "@stiles Florida Man: https://t.co/upc2Z9LQFR",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/upc2Z9LQFR",
+					"expanded_url": "https://www.palmbeachpost.com/news/20200311/president-trump-requests-absentee-ballot",
+					"display_url": "palmbeachpost.com/news/20200311/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1246812619492622300,
+		"in_reply_to_status_id_str": "1246812619492622336",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14861509,
+			"id_str": "14861509",
+			"name": "HARTNETT",
+			"screen_name": "wmhartnett",
+			"location": "Atlanta, Georgia",
+			"description": "Geographer, former data journalist, erstwhile Florida Man. Write your message on a Frisbee® to get in touch.",
+			"url": "https://t.co/JivjvSnCt8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JivjvSnCt8",
+							"expanded_url": "http://wmhartnett.com/",
+							"display_url": "wmhartnett.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 703,
+			"friends_count": 354,
+			"listed_count": 63,
+			"created_at": "Wed May 21 20:19:50 +0000 2008",
+			"favourites_count": 9341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042814004324904961/gTBFf468_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042814004324904961/gTBFf468_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14861509/1537459515",
+			"profile_link_color": "0A0A33",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "@stiles Florida Man: https://t.co/upc2Z9LQFR"
+	},
+	{
 		"created_at": "Sun Apr 05 03:07:29 +0000 2020",
 		"id": 1246487881297920000,
 		"id_str": "1246635543187714049",
