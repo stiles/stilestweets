@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 21:40:36 +0000 2020",
+		"id": 1247257543035859000,
+		"id_str": "1247278054839205888",
+		"full_text": "~Some personal news~\n\nThis is my last week at @latimes. I'm excited to announce I'll be joining @wsj as a graphics reporter! Looking forward to learn from the 🧠 of @no_such_zone, @toniacowan, @shazna and the talented @wsjgraphics crew! (1/?)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"screen_name": "WSJ",
+					"name": "The Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"screen_name": "no_such_zone",
+					"name": "Hanna J. Sender",
+					"id": 33528435,
+					"id_str": "33528435",
+					"indices": [
+						164,
+						177
+					]
+				},
+				{
+					"screen_name": "ToniaCowan",
+					"name": "Tonia Cowan",
+					"id": 9641642,
+					"id_str": "9641642",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"screen_name": "shazna",
+					"name": "Shazna Nessa",
+					"id": 14130084,
+					"id_str": "14130084",
+					"indices": [
+						192,
+						199
+					]
+				},
+				{
+					"screen_name": "WSJGraphics",
+					"name": "WSJ Graphics",
+					"id": 19564105,
+					"id_str": "19564105",
+					"indices": [
+						217,
+						229
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16608336,
+			"id_str": "16608336",
+			"name": "Kyle Kim",
+			"screen_name": "kyleykim",
+			"location": "Los Angeles",
+			"description": "Graphics and data viz @latimesgraphics | 🎾 NTRP 3.5 | banh mi and tacos al pastor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3997,
+			"friends_count": 1231,
+			"listed_count": 179,
+			"created_at": "Mon Oct 06 01:25:53 +0000 2008",
+			"favourites_count": 8452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173652358686900229/Lz3bXWCF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173652358686900229/Lz3bXWCF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16608336/1532537655",
+			"profile_link_color": "6CA9D6",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "1F1D25",
+			"profile_text_color": "51CECE",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 150,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "~Some personal news~\n\nThis is my last week at @latimes. I'm excited to announce I'll be joining @wsj as a graphics reporter! Looking forward to learn from the 🧠 of @no_such_zone, @toniacowan, @shazna and the talented @wsjgraphics crew! (1/?)"
+	},
+	{
 		"created_at": "Mon Apr 06 18:55:23 +0000 2020",
 		"id": 1247236477404057600,
 		"id_str": "1247236477404057600",
