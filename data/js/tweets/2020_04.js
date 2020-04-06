@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 18:55:23 +0000 2020",
+		"id": 1247236477404057600,
+		"id_str": "1247236477404057600",
+		"full_text": "Inside the frenzied campaign to get protective supplies to California hospitals. Will it be enough? \n\n\"It's a little tense.\"\n\nMy latest on the #COVID19 story with @Emily_Baum and @DelWilber: https://t.co/9vusHAY3Ws",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						143,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Emily_Baum",
+					"name": "Emily Baumgaertner",
+					"id": 2838145504,
+					"id_str": "2838145504",
+					"indices": [
+						163,
+						174
+					]
+				},
+				{
+					"screen_name": "DelWilber",
+					"name": "Del Quentin Wilber",
+					"id": 20114089,
+					"id_str": "20114089",
+					"indices": [
+						179,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9vusHAY3Ws",
+					"expanded_url": "https://www.latimes.com/california/story/2020-04-06/coronavirus-masks-california-hospitals",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11370,
+			"friends_count": 2017,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inside the frenzied campaign to get protective supplies to California hospitals. Will it be enough? \n\n\"It's a little tense.\"\n\nMy latest on the #COVID19 story with @Emily_Baum and @DelWilber: https://t.co/9vusHAY3Ws"
+	},
+	{
+		"created_at": "Mon Apr 06 18:52:04 +0000 2020",
+		"id": 1247235069795762200,
+		"id_str": "1247235644880871426",
+		"full_text": "@stiles Also, I miss you Stiles, let's get some Korean fried chicken and make fun of Tallahassee car commercials.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1247234049510240300,
+		"in_reply_to_status_id_str": "1247234049510240256",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 8083262,
+			"id_str": "8083262",
+			"name": "Jeremy Bowers",
+			"screen_name": "jeremybowers",
+			"location": "Washington, D.C.",
+			"description": "Engineering director @wapoengineering • elections + infosec ← @nytinteractive ← @nprviz. ❦ #TheSqueezle ❦ #TheGiblette ❦ @beckybowers",
+			"url": "https://t.co/bJcwfkCU7u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bJcwfkCU7u",
+							"expanded_url": "https://jeremybowers.com/",
+							"display_url": "jeremybowers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13843,
+			"friends_count": 4660,
+			"listed_count": 746,
+			"created_at": "Thu Aug 09 16:00:54 +0000 2007",
+			"favourites_count": 90055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 70688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242475604747878400/MbDr0uy4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242475604747878400/MbDr0uy4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8083262/1585064243",
+			"profile_link_color": "005599",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@stiles Also, I miss you Stiles, let's get some Korean fried chicken and make fun of Tallahassee car commercials."
+	},
+	{
+		"created_at": "Mon Apr 06 18:51:42 +0000 2020",
+		"id": 1247235549678559200,
+		"id_str": "1247235549678559238",
+		"full_text": "Don't count on it. He's been on the verge of an epic collapse since his dad sent him to military school at 13.\n\nHe always finds ways to survive. https://t.co/AmXlNcdXad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AmXlNcdXad",
+					"expanded_url": "https://twitter.com/simonowens/status/1247233538589708288",
+					"display_url": "twitter.com/simonowens/sta…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11370,
+			"friends_count": 2017,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247233538589708300,
+		"quoted_status_id_str": "1247233538589708288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AmXlNcdXad",
+			"expanded": "https://twitter.com/simonowens/status/1247233538589708288",
+			"display": "twitter.com/simonowens/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 18:43:42 +0000 2020",
+			"id": 1247233538589708300,
+			"id_str": "1247233538589708288",
+			"full_text": "We're just one good Twitter meme away from taking down Trump. I can feel it.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16248619,
+				"id_str": "16248619",
+				"name": "Simon Owens",
+				"screen_name": "simonowens",
+				"location": "Washington, DC",
+				"description": "Tech and media journalist. Email me: simonowens@gmail.com. Full bio in link below.",
+				"url": "https://t.co/GRFE1znbsp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GRFE1znbsp",
+								"expanded_url": "https://medium.com/@simonowens/about-simon-owens-75f5cd470f3f",
+								"display_url": "medium.com/@simonowens/ab…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6624,
+				"friends_count": 793,
+				"listed_count": 682,
+				"created_at": "Thu Sep 11 22:10:10 +0000 2008",
+				"favourites_count": 726,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8781,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1206741338106056709/FHNIYphO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206741338106056709/FHNIYphO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16248619/1412614549",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't count on it. He's been on the verge of an epic collapse since his dad sent him to military school at 13.\n\nHe always finds ways to survive. https://t.co/AmXlNcdXad"
+	},
+	{
 		"created_at": "Sun Apr 05 21:08:39 +0000 2020",
 		"id": 1246907627952459800,
 		"id_str": "1246907627952459776",
