@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 14:18:00 +0000 2020",
+		"id": 1247529060219011000,
+		"id_str": "1247529060219011074",
+		"full_text": "\"Mr. Navarro’s memo is evidence that some in the upper ranks of the administration had at least considered the possibility of the outbreak turning into something far more serious than Mr. Trump was acknowledging publicly at the time.\" -- @maggieNYT https://t.co/0idD58TvSN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maggieNYT",
+					"name": "Maggie Haberman",
+					"id": 93069110,
+					"id_str": "93069110",
+					"indices": [
+						238,
+						248
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0idD58TvSN",
+					"expanded_url": "https://nyti.ms/3aPtSZ5",
+					"display_url": "nyti.ms/3aPtSZ5",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11369,
+			"friends_count": 2020,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Mr. Navarro’s memo is evidence that some in the upper ranks of the administration had at least considered the possibility of the outbreak turning into something far more serious than Mr. Trump was acknowledging publicly at the time.\" -- @maggieNYT https://t.co/0idD58TvSN"
+	},
+	{
+		"created_at": "Tue Apr 07 13:55:43 +0000 2020",
+		"id": 1247522475782606800,
+		"id_str": "1247523450714902531",
+		"full_text": "Breaking: Stephanie Grisham is out as WH press secretary. \n\nShe is leaving the job without ever having briefed the press.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22129280,
+			"id_str": "22129280",
+			"name": "Jim Sciutto",
+			"screen_name": "jimsciutto",
+			"location": "Washington, DC & New York, NY",
+			"description": "CoAnchor CNN Newsroom, Chief National Security Correspondent, Best-selling Author “The Shadow War”: https://t.co/i7OXFQa3yR",
+			"url": "https://t.co/QzackVpdlc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QzackVpdlc",
+							"expanded_url": "http://www.jimsciutto.com",
+							"display_url": "jimsciutto.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i7OXFQa3yR",
+							"expanded_url": "https://www.harpercollins.com/9780062853646/the-shadow-war",
+							"display_url": "harpercollins.com/9780062853646/…",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 360141,
+			"friends_count": 844,
+			"listed_count": 5639,
+			"created_at": "Fri Feb 27 11:07:05 +0000 2009",
+			"favourites_count": 3091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 30096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135502950351159304/kGJgAERD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135502950351159304/kGJgAERD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22129280/1558814227",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2558,
+		"favorite_count": 7316,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Breaking: Stephanie Grisham is out as WH press secretary. \n\nShe is leaving the job without ever having briefed the press."
+	},
+	{
+		"created_at": "Tue Apr 07 13:52:44 +0000 2020",
+		"id": 1247367738475061200,
+		"id_str": "1247522702358761475",
+		"full_text": "THIS IS SOME BULLSHIT. https://t.co/IwUB7KehGm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247367729478279200,
+					"id_str": "1247367729478279177",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-KV1PWoAknx02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-KV1PWoAknx02.jpg",
+					"url": "https://t.co/IwUB7KehGm",
+					"display_url": "pic.twitter.com/IwUB7KehGm",
+					"expanded_url": "https://twitter.com/ursulaliang/status/1247367738475061248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1010,
+							"h": 846,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1010,
+							"h": 846,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247367729478279200,
+					"id_str": "1247367729478279177",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-KV1PWoAknx02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-KV1PWoAknx02.jpg",
+					"url": "https://t.co/IwUB7KehGm",
+					"display_url": "pic.twitter.com/IwUB7KehGm",
+					"expanded_url": "https://twitter.com/ursulaliang/status/1247367738475061248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1010,
+							"h": 846,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1010,
+							"h": 846,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19074538,
+			"id_str": "19074538",
+			"name": "𝚄𝚛𝚜𝚞𝚕𝚊 𝙻𝚒𝚊𝚗𝚐",
+			"screen_name": "ursulaliang",
+			"location": "The Bronx",
+			"description": "Director, producer, journalist. @9mandoc @noncompliantdoc @oneoctoberfilm. NYT T Mag, NYT Op-Docs, ESPN Mag, Hyphen. COMING SOON: Down a Dark Stairwell",
+			"url": "https://t.co/pCdmPq85GV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pCdmPq85GV",
+							"expanded_url": "http://www.9-man.com",
+							"display_url": "9-man.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3075,
+			"friends_count": 2255,
+			"listed_count": 101,
+			"created_at": "Fri Jan 16 16:47:18 +0000 2009",
+			"favourites_count": 20410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168260061438914561/EY6NAREi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168260061438914561/EY6NAREi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19074538/1377327878",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THIS IS SOME BULLSHIT. https://t.co/IwUB7KehGm"
+	},
+	{
 		"created_at": "Mon Apr 06 23:54:10 +0000 2020",
 		"id": 1247311667894964200,
 		"id_str": "1247311667894964226",
