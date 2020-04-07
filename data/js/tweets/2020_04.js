@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 23:54:10 +0000 2020",
+		"id": 1247311667894964200,
+		"id_str": "1247311667894964226",
+		"full_text": "@MarkPuente Cute! \n\nAlso: Only two more weeks until Season 6 drops.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkPuente",
+					"name": "Mark Puente",
+					"id": 119945205,
+					"id_str": "119945205",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247310560095621000,
+		"in_reply_to_status_id_str": "1247310560095621121",
+		"in_reply_to_user_id": 119945205,
+		"in_reply_to_user_id_str": "119945205",
+		"in_reply_to_screen_name": "MarkPuente",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11371,
+			"friends_count": 2020,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarkPuente Cute! \n\nAlso: Only two more weeks until Season 6 drops."
+	},
+	{
+		"created_at": "Mon Apr 06 23:49:47 +0000 2020",
+		"id": 1247307188625801200,
+		"id_str": "1247310567561297921",
+		"full_text": "Your guide to coronavirus face masks and coverings: How to do it right https://t.co/xkGjsSUlmC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xkGjsSUlmC",
+					"expanded_url": "https://www.latimes.com/california/story/2020-04-06/how-to-guide-to-coronavirus-face-masks-how-to",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22213435,
+			"id_str": "22213435",
+			"name": "Diya Chacko",
+			"screen_name": "DCteachild",
+			"location": "El Segundo, CA",
+			"description": "Coronavirus newsletter (https://t.co/vOptSPzolt) Audience @latimes. Was health & environment editor @ocregister. WhoDat ⚜️. @ONALA. pls send sci-fi/horror/anime recs",
+			"url": "https://t.co/76DkZed3Ap",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/76DkZed3Ap",
+							"expanded_url": "https://www.latimes.com/people/diya-chacko",
+							"display_url": "latimes.com/people/diya-ch…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vOptSPzolt",
+							"expanded_url": "http://lat.ms/2wxAj3X",
+							"display_url": "lat.ms/2wxAj3X",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1187,
+			"friends_count": 757,
+			"listed_count": 51,
+			"created_at": "Sat Feb 28 01:03:57 +0000 2009",
+			"favourites_count": 1284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0D0F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981734558449131520/pdWu34xE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981734558449131520/pdWu34xE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22213435/1522898897",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Your guide to coronavirus face masks and coverings: How to do it right https://t.co/xkGjsSUlmC"
+	},
+	{
 		"created_at": "Mon Apr 06 21:40:36 +0000 2020",
 		"id": 1247257543035859000,
 		"id_str": "1247278054839205888",
