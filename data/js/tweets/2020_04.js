@@ -1,6 +1,750 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 00:12:27 +0000 2020",
+		"id": 1247678657503449000,
+		"id_str": "1247678657503449094",
+		"full_text": "Seriously, this nut graf. I want to write like this when I grow up. https://t.co/sCZo6UTPyv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247678582844866600,
+					"id_str": "1247678582844866561",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EVClD4RUwAEploW.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVClD4RUwAEploW.png",
+					"url": "https://t.co/sCZo6UTPyv",
+					"display_url": "pic.twitter.com/sCZo6UTPyv",
+					"expanded_url": "https://twitter.com/stiles/status/1247678657503449094/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 685,
+							"h": 306,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 685,
+							"h": 306,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247678582844866600,
+					"id_str": "1247678582844866561",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EVClD4RUwAEploW.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVClD4RUwAEploW.png",
+					"url": "https://t.co/sCZo6UTPyv",
+					"display_url": "pic.twitter.com/sCZo6UTPyv",
+					"expanded_url": "https://twitter.com/stiles/status/1247678657503449094/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 685,
+							"h": 306,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 685,
+							"h": 306,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247677517655240700,
+		"in_reply_to_status_id_str": "1247677517655240706",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11372,
+			"friends_count": 2022,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seriously, this nut graf. I want to write like this when I grow up. https://t.co/sCZo6UTPyv"
+	},
+	{
+		"created_at": "Wed Apr 08 00:07:55 +0000 2020",
+		"id": 1247677517655240700,
+		"id_str": "1247677517655240706",
+		"full_text": "Such care for craft in this @mattfleg analysis piece. It's so lively and smart, without any fat to trim. A joy to read. \"Mr. Biden has never shown the work on this math, never explained how the threat could be both existential and quickly revocable.\" https://t.co/wCRI6IHGHL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattfleg",
+					"name": "Matt Flegenheimer",
+					"id": 218276360,
+					"id_str": "218276360",
+					"indices": [
+						28,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wCRI6IHGHL",
+					"expanded_url": "https://www.nytimes.com/2020/04/07/us/politics/2020-vs-2016-election.html",
+					"display_url": "nytimes.com/2020/04/07/us/…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11372,
+			"friends_count": 2022,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Such care for craft in this @mattfleg analysis piece. It's so lively and smart, without any fat to trim. A joy to read. \"Mr. Biden has never shown the work on this math, never explained how the threat could be both existential and quickly revocable.\" https://t.co/wCRI6IHGHL"
+	},
+	{
+		"created_at": "Tue Apr 07 23:35:53 +0000 2020",
+		"id": 1247669457654182000,
+		"id_str": "1247669457654181889",
+		"full_text": "Proof that @soumya is better at L.A. and L.A. Twitter than me. https://t.co/CwbMFXS3CZ &amp; https://t.co/Dw2MtKIa2h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soumya",
+					"name": "Soumya Jana",
+					"id": 4509281,
+					"id_str": "4509281",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CwbMFXS3CZ",
+					"expanded_url": "https://twitter.com/skarlamangla/status/1074843761060933632",
+					"display_url": "twitter.com/skarlamangla/s…",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/Dw2MtKIa2h",
+					"expanded_url": "https://twitter.com/skarlamangla/status/1247330114867621888",
+					"display_url": "twitter.com/skarlamangla/s…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11372,
+			"friends_count": 2022,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247330114867622000,
+		"quoted_status_id_str": "1247330114867621888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Dw2MtKIa2h",
+			"expanded": "https://twitter.com/skarlamangla/status/1247330114867621888",
+			"display": "twitter.com/skarlamangla/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 07 01:07:28 +0000 2020",
+			"id": 1247330114867622000,
+			"id_str": "1247330114867621888",
+			"full_text": "my peaceful daily walk now features coyotes!! what is happening https://t.co/nEB8zKYGM1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247330035750432800,
+						"id_str": "1247330035750432773",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247330035750432773/pu/img/OuapkGgxzepLZqHm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247330035750432773/pu/img/OuapkGgxzepLZqHm.jpg",
+						"url": "https://t.co/nEB8zKYGM1",
+						"display_url": "pic.twitter.com/nEB8zKYGM1",
+						"expanded_url": "https://twitter.com/skarlamangla/status/1247330114867621888/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247330035750432800,
+						"id_str": "1247330035750432773",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247330035750432773/pu/img/OuapkGgxzepLZqHm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247330035750432773/pu/img/OuapkGgxzepLZqHm.jpg",
+						"url": "https://t.co/nEB8zKYGM1",
+						"display_url": "pic.twitter.com/nEB8zKYGM1",
+						"expanded_url": "https://twitter.com/skarlamangla/status/1247330114867621888/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 13798,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247330035750432773/pu/vid/320x568/ZRP4qMH3sSYrle_8.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247330035750432773/pu/vid/720x1280/p6N_dQ585yuOLbz1.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1247330035750432773/pu/pl/Uxq1__zng__VAwu0.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247330035750432773/pu/vid/360x640/6vK1y4yg-WM1I0KK.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 244701234,
+				"id_str": "244701234",
+				"name": "Soumya",
+				"screen_name": "skarlamangla",
+				"location": "Los Angeles, California",
+				"description": "health reporter at the Los Angeles Times. former rosalynn carter mental health fellow. call me beep me if you want to reach me: soumya.karlamangla@latimes.com",
+				"url": "https://t.co/G9r2ACbsrI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G9r2ACbsrI",
+								"expanded_url": "http://www.latimes.com/la-bio-soumya-karlamangla-staff.html",
+								"display_url": "latimes.com/la-bio-soumya-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12618,
+				"friends_count": 2718,
+				"listed_count": 482,
+				"created_at": "Sat Jan 29 23:03:33 +0000 2011",
+				"favourites_count": 11307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10919,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2E0000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1019061820068261890/UKFbU45L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019061820068261890/UKFbU45L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/244701234/1484020302",
+				"profile_link_color": "D4513F",
+				"profile_sidebar_border_color": "929C7A",
+				"profile_sidebar_fill_color": "958C6B",
+				"profile_text_color": "BD9679",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proof that @soumya is better at L.A. and L.A. Twitter than me. https://t.co/CwbMFXS3CZ &amp; https://t.co/Dw2MtKIa2h"
+	},
+	{
+		"created_at": "Tue Apr 07 23:32:45 +0000 2020",
+		"id": 1247668667371761700,
+		"id_str": "1247668667371761664",
+		"full_text": "@TheBrianPark Please tell me that's @SPAMbrand in there.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheBrianPark",
+					"name": "Brian Park",
+					"id": 1072207332359041000,
+					"id_str": "1072207332359041024",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "SPAMbrand",
+					"name": "SPAM® Brand",
+					"id": 35826370,
+					"id_str": "35826370",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247635931596648400,
+		"in_reply_to_status_id_str": "1247635931596648449",
+		"in_reply_to_user_id": 1072207332359041000,
+		"in_reply_to_user_id_str": "1072207332359041024",
+		"in_reply_to_screen_name": "TheBrianPark",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11372,
+			"friends_count": 2022,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheBrianPark Please tell me that's @SPAMbrand in there."
+	},
+	{
 		"created_at": "Tue Apr 07 15:56:20 +0000 2020",
 		"id": 1247553807988355000,
 		"id_str": "1247553807988355072",
