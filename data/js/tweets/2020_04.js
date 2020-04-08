@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 20:40:59 +0000 2020",
+		"id": 1247987829776343000,
+		"id_str": "1247987829776343040",
+		"full_text": "A new poll from @UCLALuskin and @ZevYaroslavsky shows widespread anxiety among L.A. residents about contracting  #coronavirus — and getting hurt by its economic toll. They also trust local gov't response over the feds. My latest: https://t.co/GQxE8h8KuT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirus",
+					"indices": [
+						113,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UCLALuskin",
+					"name": "#UCLALuskin",
+					"id": 56750010,
+					"id_str": "56750010",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "ZevYaroslavsky",
+					"name": "Zev Yaroslavsky",
+					"id": 89052543,
+					"id_str": "89052543",
+					"indices": [
+						32,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GQxE8h8KuT",
+					"expanded_url": "https://www.latimes.com/california/story/2020-04-08/coronavirus-worry-anxious-covid-19-poll-stay-at-home",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11375,
+			"friends_count": 2025,
+			"listed_count": 881,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A new poll from @UCLALuskin and @ZevYaroslavsky shows widespread anxiety among L.A. residents about contracting  #coronavirus — and getting hurt by its economic toll. They also trust local gov't response over the feds. My latest: https://t.co/GQxE8h8KuT"
+	},
+	{
 		"created_at": "Wed Apr 08 00:12:27 +0000 2020",
 		"id": 1247678657503449000,
 		"id_str": "1247678657503449094",
