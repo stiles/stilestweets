@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 02:51:44 +0000 2020",
+		"id": 1248059906860691500,
+		"id_str": "1248081131192246273",
+		"full_text": "Received this message on a shipment of ventilators from Governor @GavinNewsom and the people of California. \n\nHave faith – we will beat this if we all work together. https://t.co/uagRbfrmOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinNewsom",
+					"name": "Gavin Newsom",
+					"id": 11347122,
+					"id_str": "11347122",
+					"indices": [
+						65,
+						77
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248059830662828000,
+					"id_str": "1248059830662828040",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EVH_zbEXkAg-NdQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVH_zbEXkAg-NdQ.jpg",
+					"url": "https://t.co/uagRbfrmOW",
+					"display_url": "pic.twitter.com/uagRbfrmOW",
+					"expanded_url": "https://twitter.com/GovMurphy/status/1248059906860691456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1847,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248059830662828000,
+					"id_str": "1248059830662828040",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EVH_zbEXkAg-NdQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVH_zbEXkAg-NdQ.jpg",
+					"url": "https://t.co/uagRbfrmOW",
+					"display_url": "pic.twitter.com/uagRbfrmOW",
+					"expanded_url": "https://twitter.com/GovMurphy/status/1248059906860691456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1847,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948946378939609100,
+			"id_str": "948946378939609089",
+			"name": "Governor Phil Murphy",
+			"screen_name": "GovMurphy",
+			"location": "New Jersey, USA",
+			"description": "56th Governor of the great State of New Jersey. Proud husband of @FirstLadyNJ and father of 4 humans and 2 dogs. Proud to lead @NJGov alongside @LtGovOliver.",
+			"url": "https://t.co/bB3uxx4f5p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bB3uxx4f5p",
+							"expanded_url": "http://NJ.Gov",
+							"display_url": "NJ.Gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190795,
+			"friends_count": 132,
+			"listed_count": 774,
+			"created_at": "Thu Jan 04 15:57:02 +0000 2018",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237143859005665282/OyTayLI9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237143859005665282/OyTayLI9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948946378939609089/1584550812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2060,
+		"favorite_count": 12589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Received this message on a shipment of ventilators from Governor @GavinNewsom and the people of California. \n\nHave faith – we will beat this if we all work together. https://t.co/uagRbfrmOW"
+	},
+	{
 		"created_at": "Thu Apr 09 00:50:19 +0000 2020",
 		"id": 1248050575221985300,
 		"id_str": "1248050575221985285",
