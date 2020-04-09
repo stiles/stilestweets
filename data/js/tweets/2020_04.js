@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 15:14:49 +0000 2020",
+		"id": 1248268135632793600,
+		"id_str": "1248268135632793600",
+		"full_text": "@KasulisK @matthewjbell I'm a creature of habit. This is my beloved kitteh Cheese, RIP. He died in Korea a couple of years ago at age 16. \n\ncc @hbecerraLATimes https://t.co/ntjLJvCn0Y",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KasulisK",
+					"name": "Kelly Kasulis (카슬리스 켈리)",
+					"id": 2437237452,
+					"id_str": "2437237452",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "matthewjbell",
+					"name": "Matthew Bell",
+					"id": 14360771,
+					"id_str": "14360771",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "hbecerraLATimes",
+					"name": "Hector Becerra",
+					"id": 19074004,
+					"id_str": "19074004",
+					"indices": [
+						143,
+						159
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248268013553344500,
+					"id_str": "1248268013553344512",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EVK9JQxUYAAqlDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVK9JQxUYAAqlDq.jpg",
+					"url": "https://t.co/ntjLJvCn0Y",
+					"display_url": "pic.twitter.com/ntjLJvCn0Y",
+					"expanded_url": "https://twitter.com/stiles/status/1248268135632793600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1428,
+							"h": 1284,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248268013553344500,
+					"id_str": "1248268013553344512",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EVK9JQxUYAAqlDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVK9JQxUYAAqlDq.jpg",
+					"url": "https://t.co/ntjLJvCn0Y",
+					"display_url": "pic.twitter.com/ntjLJvCn0Y",
+					"expanded_url": "https://twitter.com/stiles/status/1248268135632793600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1428,
+							"h": 1284,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1248252594104881200,
+		"in_reply_to_status_id_str": "1248252594104881154",
+		"in_reply_to_user_id": 2437237452,
+		"in_reply_to_user_id_str": "2437237452",
+		"in_reply_to_screen_name": "KasulisK",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11377,
+			"friends_count": 2026,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@KasulisK @matthewjbell I'm a creature of habit. This is my beloved kitteh Cheese, RIP. He died in Korea a couple of years ago at age 16. \n\ncc @hbecerraLATimes https://t.co/ntjLJvCn0Y"
+	},
+	{
 		"created_at": "Thu Apr 09 14:02:03 +0000 2020",
 		"id": 1248249823662235600,
 		"id_str": "1248249823662235649",
