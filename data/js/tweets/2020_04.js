@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 17:48:10 +0000 2020",
+		"id": 1248306724001308700,
+		"id_str": "1248306724001308672",
+		"full_text": "Q. Did you put salsa on the @Wunderlist?\n\nA. We don't have @Wunderlist any more.\n\n😢",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wunderlist",
+					"name": "Wunderlist",
+					"id": 211089576,
+					"id_str": "211089576",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "Wunderlist",
+					"name": "Wunderlist",
+					"id": 211089576,
+					"id_str": "211089576",
+					"indices": [
+						59,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1248305658400661500,
+		"in_reply_to_status_id_str": "1248305658400661506",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11378,
+			"friends_count": 2026,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Q. Did you put salsa on the @Wunderlist?\n\nA. We don't have @Wunderlist any more.\n\n😢"
+	},
+	{
+		"created_at": "Thu Apr 09 17:44:20 +0000 2020",
+		"id": 1248305760909422600,
+		"id_str": "1248305760909422592",
+		"full_text": "Neat! https://t.co/GiarbyCFrz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GiarbyCFrz",
+					"expanded_url": "https://twitter.com/LACountyLibrary/status/1248305439743324160",
+					"display_url": "twitter.com/LACountyLibrar…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11378,
+			"friends_count": 2026,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248305439743324200,
+		"quoted_status_id_str": "1248305439743324160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GiarbyCFrz",
+			"expanded": "https://twitter.com/LACountyLibrary/status/1248305439743324160",
+			"display": "twitter.com/LACountyLibrar…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 09 17:43:03 +0000 2020",
+			"id": 1248305439743324200,
+			"id_str": "1248305439743324160",
+			"full_text": "Do you love history? Are you getting bored at home? Then we invite you to help transcribe our digitized collection of 19th-century handwritten letters into readable text that everyone can enjoy! Learn more here: https://t.co/wxJSI6fi2W https://t.co/wj10ct79uO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wxJSI6fi2W",
+						"expanded_url": "https://buff.ly/2SFdBx4",
+						"display_url": "buff.ly/2SFdBx4",
+						"indices": [
+							212,
+							235
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1248305435150405600,
+						"id_str": "1248305435150405632",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/EVLfLfFUUAAF-RM.png",
+						"media_url_https": "https://pbs.twimg.com/media/EVLfLfFUUAAF-RM.png",
+						"url": "https://t.co/wj10ct79uO",
+						"display_url": "pic.twitter.com/wj10ct79uO",
+						"expanded_url": "https://twitter.com/LACountyLibrary/status/1248305439743324160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 782,
+								"h": 819,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 649,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 782,
+								"h": 819,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1248305435150405600,
+						"id_str": "1248305435150405632",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/EVLfLfFUUAAF-RM.png",
+						"media_url_https": "https://pbs.twimg.com/media/EVLfLfFUUAAF-RM.png",
+						"url": "https://t.co/wj10ct79uO",
+						"display_url": "pic.twitter.com/wj10ct79uO",
+						"expanded_url": "https://twitter.com/LACountyLibrary/status/1248305439743324160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 782,
+								"h": 819,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 649,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 782,
+								"h": 819,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1248305435506905000,
+						"id_str": "1248305435506905089",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/EVLfLgaUEAEF1Zq.png",
+						"media_url_https": "https://pbs.twimg.com/media/EVLfLgaUEAEF1Zq.png",
+						"url": "https://t.co/wj10ct79uO",
+						"display_url": "pic.twitter.com/wj10ct79uO",
+						"expanded_url": "https://twitter.com/LACountyLibrary/status/1248305439743324160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 873,
+								"h": 793,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 873,
+								"h": 793,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 618,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15359126,
+				"id_str": "15359126",
+				"name": "LA County Library",
+				"screen_name": "LACountyLibrary",
+				"location": "Los Angeles County, California",
+				"description": "Serving 3.4 million residents of Los Angeles County with 86 libraries and our mobile fleet.",
+				"url": "https://t.co/KgdvlkvSD2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KgdvlkvSD2",
+								"expanded_url": "http://LACountyLibrary.org",
+								"display_url": "LACountyLibrary.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10349,
+				"friends_count": 2659,
+				"listed_count": 425,
+				"created_at": "Tue Jul 08 22:32:57 +0000 2008",
+				"favourites_count": 3223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15293,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/996030100859572224/Xn7XtVAc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/996030100859572224/Xn7XtVAc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15359126/1557167026",
+				"profile_link_color": "1A75BC",
+				"profile_sidebar_border_color": "0A7AD0",
+				"profile_sidebar_fill_color": "E9EDF2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Neat! https://t.co/GiarbyCFrz"
+	},
+	{
 		"created_at": "Thu Apr 09 15:14:49 +0000 2020",
 		"id": 1248268135632793600,
 		"id_str": "1248268135632793600",
