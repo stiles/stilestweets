@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 03:15:42 +0000 2020",
+		"id": 1248402908908892200,
+		"id_str": "1248449549468721154",
+		"full_text": "THREAD: In our report on steps to reopen America, we reference the need to be able to test at least 750,000 people a week. That number is being discussed. Here is more clarification on how we derived it, and what it means. 1/n https://t.co/q4Bm18IX4m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q4Bm18IX4m",
+					"expanded_url": "https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/",
+					"display_url": "aei.org/research-produ…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40156330,
+			"id_str": "40156330",
+			"name": "Scott Gottlieb, MD",
+			"screen_name": "ScottGottliebMD",
+			"location": "Washington, DC",
+			"description": "Resident Fellow @AEI. Partner @NEA. Contributor @CNBC. 23rd Commissioner of the @US_FDA 2017 to 2019. @Pfizer @Illumina @AetionInc @TempusLabs",
+			"url": "https://t.co/CsvXyacSip",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CsvXyacSip",
+							"expanded_url": "https://www.aei.org/profile/scott-gottlieb/",
+							"display_url": "aei.org/profile/scott-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285439,
+			"friends_count": 900,
+			"listed_count": 5142,
+			"created_at": "Fri May 15 02:39:37 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/939996832574435329/cQICPkCh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/939996832574435329/cQICPkCh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40156330/1584905765",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 399,
+		"favorite_count": 733,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THREAD: In our report on steps to reopen America, we reference the need to be able to test at least 750,000 people a week. That number is being discussed. Here is more clarification on how we derived it, and what it means. 1/n https://t.co/q4Bm18IX4m"
+	},
+	{
 		"created_at": "Thu Apr 09 17:48:10 +0000 2020",
 		"id": 1248306724001308700,
 		"id_str": "1248306724001308672",
