@@ -1,6 +1,681 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 20:57:38 +0000 2020",
+		"id": 1248716792962285600,
+		"id_str": "1248716792962285568",
+		"full_text": "Found an old bag in the garage with this attached. Blast from the past. https://t.co/HMYpqnu9KA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248716779628593200,
+					"id_str": "1248716779628593152",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EVRVS4rVAAAAG-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVRVS4rVAAAAG-T.jpg",
+					"url": "https://t.co/HMYpqnu9KA",
+					"display_url": "pic.twitter.com/HMYpqnu9KA",
+					"expanded_url": "https://twitter.com/stiles/status/1248716792962285568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248716779628593200,
+					"id_str": "1248716779628593152",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EVRVS4rVAAAAG-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVRVS4rVAAAAG-T.jpg",
+					"url": "https://t.co/HMYpqnu9KA",
+					"display_url": "pic.twitter.com/HMYpqnu9KA",
+					"expanded_url": "https://twitter.com/stiles/status/1248716792962285568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11376,
+			"friends_count": 2026,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1585540438",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0e260c0b60147001",
+			"url": "https://api.twitter.com/1.1/geo/id/0e260c0b60147001.json",
+			"place_type": "poi",
+			"name": "Los Angeles Times",
+			"full_name": "Los Angeles Times",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.38237312806986,
+							33.93048686155164
+						],
+						[
+							-118.38237312806986,
+							33.93048686155164
+						],
+						[
+							-118.38237312806986,
+							33.93048686155164
+						],
+						[
+							-118.38237312806986,
+							33.93048686155164
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Found an old bag in the garage with this attached. Blast from the past. https://t.co/HMYpqnu9KA"
+	},
+	{
+		"created_at": "Fri Apr 10 20:26:04 +0000 2020",
+		"id": 1248708303875530800,
+		"id_str": "1248708852377219073",
+		"full_text": "As we move forward, we must continue to be guided by real-time comprehensive data, including demographic and socioeconomic data. \n\nMY THOUGHTS HERE: https://t.co/waZQo98VbR\n\n@DrAnnaBarry @KNXmargaret @stiles @KrisAnkarlo\nhttps://t.co/fBZApeyjes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrAnnaBarry",
+					"name": "Dr Anna Maria Barry",
+					"id": 35198389,
+					"id_str": "35198389",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"screen_name": "KNXmargaret",
+					"name": "Margaret Carrero",
+					"id": 516635515,
+					"id_str": "516635515",
+					"indices": [
+						187,
+						199
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						200,
+						207
+					]
+				},
+				{
+					"screen_name": "KrisAnkarlo",
+					"name": "Kris Ankarlo",
+					"id": 900395971,
+					"id_str": "900395971",
+					"indices": [
+						208,
+						220
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/waZQo98VbR",
+					"expanded_url": "https://ridley-thomas.lacounty.gov/index.php/statement-on-safer-at-home-order-extension/",
+					"display_url": "ridley-thomas.lacounty.gov/index.php/stat…",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/fBZApeyjes",
+					"expanded_url": "https://twitter.com/i/status/1248678538825232384",
+					"display_url": "twitter.com/i/status/12486…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1248702292573880300,
+		"in_reply_to_status_id_str": "1248702292573880320",
+		"in_reply_to_user_id": 16369269,
+		"in_reply_to_user_id_str": "16369269",
+		"in_reply_to_screen_name": "mridleythomas",
+		"user": {
+			"id": 16369269,
+			"id_str": "16369269",
+			"name": "Mark Ridley-Thomas",
+			"screen_name": "mridleythomas",
+			"location": "Los Angeles",
+			"description": "@CountyOfLA Supervisor- Carson, Compton, Culver City, Gardena, Hawthorne, Inglewood, Lawndale, LA City, Lynwood, & unincorporated areas (2M ppl) 12/08.",
+			"url": "http://t.co/ecWCHkYaHI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ecWCHkYaHI",
+							"expanded_url": "http://ridley-thomas.lacounty.gov/",
+							"display_url": "ridley-thomas.lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21451,
+			"friends_count": 1028,
+			"listed_count": 534,
+			"created_at": "Fri Sep 19 19:56:37 +0000 2008",
+			"favourites_count": 9258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "141633",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16369269/1584994043",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "34C7BB",
+			"profile_sidebar_fill_color": "7CBBEB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248678538825232400,
+		"quoted_status_id_str": "1248678538825232384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fBZApeyjes",
+			"expanded": "https://twitter.com/i/status/1248678538825232384",
+			"display": "twitter.com/i/status/12486…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 10 18:25:37 +0000 2020",
+			"id": 1248678538825232400,
+			"id_str": "1248678538825232384",
+			"full_text": "The new @CDrewU #COVID19 mobile testing site will serve the people of #Willowbrook. Make your appointment by going by calling 2-1-1.\n@LACoFDPIO @LAPublicHealth @AAVREP_ @CountyOfLA @LACountyBOS @StJosephCtr @VaLeciaAdams @JWaggoner_SoCal https://t.co/b3M97z104F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							16,
+							24
+						]
+					},
+					{
+						"text": "Willowbrook",
+						"indices": [
+							70,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cdrewu",
+						"name": "CDU",
+						"id": 288348952,
+						"id_str": "288348952",
+						"indices": [
+							8,
+							15
+						]
+					},
+					{
+						"screen_name": "LACoFDPIO",
+						"name": "L.A. County Fire Department",
+						"id": 919373695,
+						"id_str": "919373695",
+						"indices": [
+							133,
+							143
+						]
+					},
+					{
+						"screen_name": "lapublichealth",
+						"name": "LA Public Health",
+						"id": 38287098,
+						"id_str": "38287098",
+						"indices": [
+							144,
+							159
+						]
+					},
+					{
+						"screen_name": "AAVREP_",
+						"name": "African American Voter REP",
+						"id": 818418566,
+						"id_str": "818418566",
+						"indices": [
+							160,
+							168
+						]
+					},
+					{
+						"screen_name": "CountyofLA",
+						"name": "Los Angeles County",
+						"id": 193771633,
+						"id_str": "193771633",
+						"indices": [
+							169,
+							180
+						]
+					},
+					{
+						"screen_name": "LACountyBOS",
+						"name": "LACountyBOS",
+						"id": 1144740456586047500,
+						"id_str": "1144740456586047489",
+						"indices": [
+							181,
+							193
+						]
+					},
+					{
+						"screen_name": "StJosephCtr",
+						"name": "St. Joseph Center",
+						"id": 2372923580,
+						"id_str": "2372923580",
+						"indices": [
+							194,
+							206
+						]
+					},
+					{
+						"screen_name": "VaLeciaAdams",
+						"name": "VaLecia Adams Kellum",
+						"id": 2350676888,
+						"id_str": "2350676888",
+						"indices": [
+							207,
+							220
+						]
+					},
+					{
+						"screen_name": "JWaggoner_SoCal",
+						"name": "Jacqueline_Waggoner",
+						"id": 3421763344,
+						"id_str": "3421763344",
+						"indices": [
+							221,
+							237
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1248678388849500200,
+						"id_str": "1248678388849500160",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248678388849500160/pu/img/xNUBVcLq4allCZew.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248678388849500160/pu/img/xNUBVcLq4allCZew.jpg",
+						"url": "https://t.co/b3M97z104F",
+						"display_url": "pic.twitter.com/b3M97z104F",
+						"expanded_url": "https://twitter.com/mridleythomas/status/1248678538825232384/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1248678388849500200,
+						"id_str": "1248678388849500160",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248678388849500160/pu/img/xNUBVcLq4allCZew.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248678388849500160/pu/img/xNUBVcLq4allCZew.jpg",
+						"url": "https://t.co/b3M97z104F",
+						"display_url": "pic.twitter.com/b3M97z104F",
+						"expanded_url": "https://twitter.com/mridleythomas/status/1248678538825232384/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1248678388849500160/pu/vid/480x270/Wbja4Dn6z_bwnn0x.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1248678388849500160/pu/vid/640x360/jH00ZJypUB_Z1--q.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1248678388849500160/pu/pl/N3UVpTN8s4wqwDpH.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16369269,
+				"id_str": "16369269",
+				"name": "Mark Ridley-Thomas",
+				"screen_name": "mridleythomas",
+				"location": "Los Angeles",
+				"description": "@CountyOfLA Supervisor- Carson, Compton, Culver City, Gardena, Hawthorne, Inglewood, Lawndale, LA City, Lynwood, & unincorporated areas (2M ppl) 12/08.",
+				"url": "http://t.co/ecWCHkYaHI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ecWCHkYaHI",
+								"expanded_url": "http://ridley-thomas.lacounty.gov/",
+								"display_url": "ridley-thomas.lacounty.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21451,
+				"friends_count": 1028,
+				"listed_count": 534,
+				"created_at": "Fri Sep 19 19:56:37 +0000 2008",
+				"favourites_count": 9258,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 41573,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "141633",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16369269/1584994043",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "34C7BB",
+				"profile_sidebar_fill_color": "7CBBEB",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As we move forward, we must continue to be guided by real-time comprehensive data, including demographic and socioeconomic data. \n\nMY THOUGHTS HERE: https://t.co/waZQo98VbR\n\n@DrAnnaBarry @KNXmargaret @stiles @KrisAnkarlo\nhttps://t.co/fBZApeyjes"
+	},
+	{
 		"created_at": "Fri Apr 10 20:18:23 +0000 2020",
 		"id": 1248706917410709500,
 		"id_str": "1248706917410709504",
