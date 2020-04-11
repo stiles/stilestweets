@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 00:18:02 +0000 2020",
+		"id": 1246912825185849300,
+		"id_str": "1248767227924373504",
+		"full_text": "＃COVID19的流動駕駛測試站，現已在 L.A 縣和 L.A.市開放。 要了解更多：https://t.co/woPZHhtG5z https://t.co/m9C8RW8YEF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19的流動駕駛測試站",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/woPZHhtG5z",
+					"expanded_url": "http://covid19.lacounty.gov/testing",
+					"display_url": "covid19.lacounty.gov/testing",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246912771997892600,
+					"id_str": "1246912771997892608",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EU3sj0jVAAAZ9R9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU3sj0jVAAAZ9R9.jpg",
+					"url": "https://t.co/m9C8RW8YEF",
+					"display_url": "pic.twitter.com/m9C8RW8YEF",
+					"expanded_url": "https://twitter.com/CountyofLA/status/1246912825185849344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246912771997892600,
+					"id_str": "1246912771997892608",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EU3sj0jVAAAZ9R9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU3sj0jVAAAZ9R9.jpg",
+					"url": "https://t.co/m9C8RW8YEF",
+					"display_url": "pic.twitter.com/m9C8RW8YEF",
+					"expanded_url": "https://twitter.com/CountyofLA/status/1246912825185849344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193771633,
+			"id_str": "193771633",
+			"name": "Los Angeles County",
+			"screen_name": "CountyofLA",
+			"location": "Los Angeles County",
+			"description": "Official account of Los Angeles County. \n\nFollow us as we confront the #COVID19 pandemic. \n\nRemember, you're #SaferatHome.",
+			"url": "https://t.co/8KPEaxWnr3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8KPEaxWnr3",
+							"expanded_url": "http://covid19.lacounty.gov",
+							"display_url": "covid19.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70963,
+			"friends_count": 4762,
+			"listed_count": 817,
+			"created_at": "Wed Sep 22 17:08:50 +0000 2010",
+			"favourites_count": 5078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193771633/1585676695",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "＃COVID19的流動駕駛測試站，現已在 L.A 縣和 L.A.市開放。 要了解更多：https://t.co/woPZHhtG5z https://t.co/m9C8RW8YEF"
+	},
+	{
 		"created_at": "Fri Apr 10 20:57:38 +0000 2020",
 		"id": 1248716792962285600,
 		"id_str": "1248716792962285568",
