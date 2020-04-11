@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 15:14:25 +0000 2020",
+		"id": 1248795309204893700,
+		"id_str": "1248992807345242114",
+		"full_text": "I cannot tell you how many times a sharp-eyed wordsmith saved my ass the last few weeks. Thank you @latimes copy editors! https://t.co/qwilAoboIZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248795299264385000,
+					"id_str": "1248795299264385024",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVSctVHU0AAl0tx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVSctVHU0AAl0tx.jpg",
+					"url": "https://t.co/qwilAoboIZ",
+					"display_url": "pic.twitter.com/qwilAoboIZ",
+					"expanded_url": "https://twitter.com/sleavenworth/status/1248795309204893697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248795299264385000,
+					"id_str": "1248795299264385024",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVSctVHU0AAl0tx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVSctVHU0AAl0tx.jpg",
+					"url": "https://t.co/qwilAoboIZ",
+					"display_url": "pic.twitter.com/qwilAoboIZ",
+					"expanded_url": "https://twitter.com/sleavenworth/status/1248795309204893697/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EVSctVHU0AAl0tx.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37735734,
+			"id_str": "37735734",
+			"name": "Stuart Leavenworth",
+			"screen_name": "sleavenworth",
+			"location": "Los Angeles, CA",
+			"description": "California Enterprise Editor, @latimes. Formerly in chaotic capitals of DC, Beijing & Sacramento. Now living the calm, simple life in the City of Angels.",
+			"url": "https://t.co/vdcY2u4ncM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vdcY2u4ncM",
+							"expanded_url": "https://www.latimes.com/la-bio-stuart-leavenworth-staff.html",
+							"display_url": "latimes.com/la-bio-stuart-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6067,
+			"friends_count": 4673,
+			"listed_count": 309,
+			"created_at": "Mon May 04 19:37:10 +0000 2009",
+			"favourites_count": 12063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134305626849329152/iveFxCIN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134305626849329152/iveFxCIN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37735734/1559177370",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I cannot tell you how many times a sharp-eyed wordsmith saved my ass the last few weeks. Thank you @latimes copy editors! https://t.co/qwilAoboIZ"
+	},
+	{
 		"created_at": "Sat Apr 11 03:20:06 +0000 2020",
 		"id": 1248813044601241600,
 		"id_str": "1248813044601241601",
