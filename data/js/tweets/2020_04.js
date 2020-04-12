@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 02:52:45 +0000 2020",
+		"id": 1247919134169428000,
+		"id_str": "1249168548448079872",
+		"full_text": "#ICYMI: It is illegal for a business to raise the price of needed products and services over 10% during a declared #emergency. This is called #PriceGouging. \n\nFile a report:\n\n📞(800) 593-8222 \n📨info@dcba.lacounty.gov \n🖱️https://t.co/ZacjOmWEa8\n\n#COVID19 #Coronavirus https://t.co/MSJBHPdHF0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ICYMI",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "emergency",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "PriceGouging",
+					"indices": [
+						142,
+						155
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						244,
+						252
+					]
+				},
+				{
+					"text": "Coronavirus",
+					"indices": [
+						253,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZacjOmWEa8",
+					"expanded_url": "http://bit.ly/DCBAHelp",
+					"display_url": "bit.ly/DCBAHelp",
+					"indices": [
+						219,
+						242
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247918031851774000,
+					"id_str": "1247918031851773953",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EVF-1pVUYAEbmN8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVF-1pVUYAEbmN8.png",
+					"url": "https://t.co/MSJBHPdHF0",
+					"display_url": "pic.twitter.com/MSJBHPdHF0",
+					"expanded_url": "https://twitter.com/LACountyDCBA/status/1247919134169427968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247918031851774000,
+					"id_str": "1247918031851773953",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EVF-1pVUYAEbmN8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVF-1pVUYAEbmN8.png",
+					"url": "https://t.co/MSJBHPdHF0",
+					"display_url": "pic.twitter.com/MSJBHPdHF0",
+					"expanded_url": "https://twitter.com/LACountyDCBA/status/1247919134169427968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1247918181101887500,
+					"id_str": "1247918181101887489",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EVF--VVUYAEK200.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVF--VVUYAEK200.png",
+					"url": "https://t.co/MSJBHPdHF0",
+					"display_url": "pic.twitter.com/MSJBHPdHF0",
+					"expanded_url": "https://twitter.com/LACountyDCBA/status/1247919134169427968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 612969813,
+			"id_str": "612969813",
+			"name": "L.A. County Dept. of Consumer and Business Affairs",
+			"screen_name": "LACountyDCBA",
+			"location": "Los Angeles County, CA",
+			"description": "L.A. County DCBA promotes a fair & vibrant marketplace for consumers, businesses & communities. @LACoSmallBiz; @LACoConsumidor; @LACountyCFE; @LAC4Immigrants",
+			"url": "http://t.co/3DzVdtUhST",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/3DzVdtUhST",
+							"expanded_url": "http://dcba.lacounty.gov",
+							"display_url": "dcba.lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1936,
+			"friends_count": 483,
+			"listed_count": 75,
+			"created_at": "Tue Jun 19 21:50:56 +0000 2012",
+			"favourites_count": 4749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224430484920262656/rARR0K8a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224430484920262656/rARR0K8a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/612969813/1574881803",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ICYMI: It is illegal for a business to raise the price of needed products and services over 10% during a declared #emergency. This is called #PriceGouging. \n\nFile a report:\n\n📞(800) 593-8222 \n📨info@dcba.lacounty.gov \n🖱️https://t.co/ZacjOmWEa8\n\n#COVID19 #Coronavirus https://t.co/MSJBHPdHF0"
+	},
+	{
 		"created_at": "Sun Apr 12 01:25:51 +0000 2020",
 		"id": 1249146680823464000,
 		"id_str": "1249146680823463938",
