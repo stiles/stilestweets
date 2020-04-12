@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 19:44:37 +0000 2020",
+		"id": 1249384733798170600,
+		"id_str": "1249423193414090752",
+		"full_text": "Weird. Six bylines on our story about how the president handled the growing threat of the coronavirus but just one he’s focused on. Something there but I can’t put my finger on it... https://t.co/bxv4VgaJEg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bxv4VgaJEg",
+					"expanded_url": "https://twitter.com/oliverdarcy/status/1249384156917891074",
+					"display_url": "twitter.com/oliverdarcy/st…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93069110,
+			"id_str": "93069110",
+			"name": "Maggie Haberman",
+			"screen_name": "maggieNYT",
+			"location": "",
+			"description": "White House correspondent for NYTimes, analyst for CNN. RTs don't imply agreement. maggie.haberman@nytimes.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1287901,
+			"friends_count": 4283,
+			"listed_count": 15635,
+			"created_at": "Fri Nov 27 23:14:06 +0000 2009",
+			"favourites_count": 59173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 228596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213848155210563585/cu54X160_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213848155210563585/cu54X160_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93069110/1583538786",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249384156917891000,
+		"quoted_status_id_str": "1249384156917891074",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bxv4VgaJEg",
+			"expanded": "https://twitter.com/oliverdarcy/status/1249384156917891074",
+			"display": "twitter.com/oliverdarcy/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 12 17:09:30 +0000 2020",
+			"id": 1249384156917891000,
+			"id_str": "1249384156917891074",
+			"full_text": "looks like @maggieNYT triggered @seanhannity https://t.co/mADUy6gEx4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				44
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "maggieNYT",
+						"name": "Maggie Haberman",
+						"id": 93069110,
+						"id_str": "93069110",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"screen_name": "seanhannity",
+						"name": "Sean Hannity",
+						"id": 41634520,
+						"id_str": "41634520",
+						"indices": [
+							32,
+							44
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1249383966752288800,
+						"id_str": "1249383966752288770",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/EVa0GSZWsAIuyoJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVa0GSZWsAIuyoJ.jpg",
+						"url": "https://t.co/mADUy6gEx4",
+						"display_url": "pic.twitter.com/mADUy6gEx4",
+						"expanded_url": "https://twitter.com/oliverdarcy/status/1249384156917891074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 231,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1932,
+								"h": 656,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 407,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1249383966752288800,
+						"id_str": "1249383966752288770",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/EVa0GSZWsAIuyoJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVa0GSZWsAIuyoJ.jpg",
+						"url": "https://t.co/mADUy6gEx4",
+						"display_url": "pic.twitter.com/mADUy6gEx4",
+						"expanded_url": "https://twitter.com/oliverdarcy/status/1249384156917891074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 231,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1932,
+								"h": 656,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 407,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1249383988612956200,
+						"id_str": "1249383988612956160",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/EVa0Hj1WAAAWEP3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVa0Hj1WAAAWEP3.jpg",
+						"url": "https://t.co/mADUy6gEx4",
+						"display_url": "pic.twitter.com/mADUy6gEx4",
+						"expanded_url": "https://twitter.com/oliverdarcy/status/1249384156917891074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 502,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 284,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1938,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1249384027469070300,
+						"id_str": "1249384027469070340",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/EVa0J0lXQAQRf48.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVa0J0lXQAQRf48.jpg",
+						"url": "https://t.co/mADUy6gEx4",
+						"display_url": "pic.twitter.com/mADUy6gEx4",
+						"expanded_url": "https://twitter.com/oliverdarcy/status/1249384156917891074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 313,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1944,
+								"h": 896,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 553,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1249384046960001000,
+						"id_str": "1249384046960001026",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/EVa0K9MXQAIcdgx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVa0K9MXQAIcdgx.jpg",
+						"url": "https://t.co/mADUy6gEx4",
+						"display_url": "pic.twitter.com/mADUy6gEx4",
+						"expanded_url": "https://twitter.com/oliverdarcy/status/1249384156917891074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1946,
+								"h": 796,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 278,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 491,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27075032,
+				"id_str": "27075032",
+				"name": "Oliver Darcy",
+				"screen_name": "oliverdarcy",
+				"location": "New York City",
+				"description": "senior media reporter, @CNN. covering the intersection of media & politics. sometimes tech. inbox: oliver.darcy@turner.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 114332,
+				"friends_count": 1740,
+				"listed_count": 2732,
+				"created_at": "Fri Mar 27 19:20:52 +0000 2009",
+				"favourites_count": 20985,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 58923,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178773076915425285/AAZ-bGPf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178773076915425285/AAZ-bGPf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27075032/1569882120",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 499,
+			"favorite_count": 2669,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1494,
+		"favorite_count": 8268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Weird. Six bylines on our story about how the president handled the growing threat of the coronavirus but just one he’s focused on. Something there but I can’t put my finger on it... https://t.co/bxv4VgaJEg"
+	},
+	{
 		"created_at": "Sun Apr 12 17:16:28 +0000 2020",
 		"id": 1249385913760624600,
 		"id_str": "1249385913760624640",
