@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 13:39:24 +0000 2020",
+		"id": 1249295074091040800,
+		"id_str": "1249331287216685056",
+		"full_text": "One day, not far in the future, there's going to be a reckoning for supporters of this administration. It won't be pretty. This story is terrifying and infuriating. https://t.co/CHqYjcnJci",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CHqYjcnJci",
+					"expanded_url": "https://twitter.com/jdawsey1/status/1249058628067262470",
+					"display_url": "twitter.com/jdawsey1/statu…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34255829,
+			"id_str": "34255829",
+			"name": "Alberto Cairo",
+			"screen_name": "AlbertoCairo",
+			"location": "USA, Brazil, Spain",
+			"description": "Knight Chair at the U of Miami. NEW BOOK: ‘How Charts Lie’ (W.W. Norton). Previous: The Truthful Art (2016). Consultant and freelancer https://t.co/u9emhWWqDd",
+			"url": "https://t.co/WViz9fwKgb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WViz9fwKgb",
+							"expanded_url": "http://www.thefunctionalart.com",
+							"display_url": "thefunctionalart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u9emhWWqDd",
+							"expanded_url": "http://albertocairo.com",
+							"display_url": "albertocairo.com",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 53406,
+			"friends_count": 4224,
+			"listed_count": 3329,
+			"created_at": "Wed Apr 22 12:25:20 +0000 2009",
+			"favourites_count": 3630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069593505553633281/hoG3VcMt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069593505553633281/hoG3VcMt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34255829/1571082229",
+			"profile_link_color": "2FAFEB",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "5C5C5C",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249058628067262500,
+		"quoted_status_id_str": "1249058628067262470",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CHqYjcnJci",
+			"expanded": "https://twitter.com/jdawsey1/status/1249058628067262470",
+			"display": "twitter.com/jdawsey1/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 11 19:35:57 +0000 2020",
+			"id": 1249058628067262500,
+			"id_str": "1249058628067262470",
+			"full_text": "In Situation Room meeting in March, Trump asked why the US shouldn't have the disease \"wash over\" the country, creating \"herd immunity.\" Dr. Fauci pushed back. Inside the various task forces that make up the admin response, w/@AshleyRParker &amp; @yabutaleb7: https://t.co/mhY5GFJQhn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AshleyRParker",
+						"name": "Ashley Parker",
+						"id": 33919343,
+						"id_str": "33919343",
+						"indices": [
+							226,
+							240
+						]
+					},
+					{
+						"screen_name": "yabutaleb7",
+						"name": "Yasmeen Abutaleb",
+						"id": 418325508,
+						"id_str": "418325508",
+						"indices": [
+							247,
+							258
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mhY5GFJQhn",
+						"expanded_url": "https://www.washingtonpost.com/politics/trump-task-forces-coronavirus-pandemic/2020/04/11/5cc5a30c-7a77-11ea-a130-df573469f094_story.html",
+						"display_url": "washingtonpost.com/politics/trump…",
+						"indices": [
+							260,
+							283
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38936142,
+				"id_str": "38936142",
+				"name": "Josh Dawsey",
+				"screen_name": "jdawsey1",
+				"location": "DC",
+				"description": "White House Reporter @WashingtonPost. Hot sauce aficionado. Proud Carolinian & New Yorker. Loud phone talker. Have secrets? Josh.Dawsey@WashPost.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 265900,
+				"friends_count": 2956,
+				"listed_count": 3828,
+				"created_at": "Sat May 09 21:54:29 +0000 2009",
+				"favourites_count": 34607,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36767,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1206994277580099585/UIVSY2Yc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206994277580099585/UIVSY2Yc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38936142/1576188660",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1275,
+			"favorite_count": 2113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One day, not far in the future, there's going to be a reckoning for supporters of this administration. It won't be pretty. This story is terrifying and infuriating. https://t.co/CHqYjcnJci"
+	},
+	{
+		"created_at": "Sun Apr 12 13:28:23 +0000 2020",
+		"id": 1249225142254932000,
+		"id_str": "1249328511896059904",
+		"full_text": "Getting many msgs like this one from China—msgs of compassion, understanding humanity &amp; despair abt toxic nationalism online.Even trolls can never make me disavow or love any less the country in which I was born. I am Chinese&amp;I am American.Have been &amp; will always proudly remain😊 https://t.co/iGBStHRORE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249225137943187500,
+					"id_str": "1249225137943187456",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/EVYjpO-XkAAnwq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVYjpO-XkAAnwq2.jpg",
+					"url": "https://t.co/iGBStHRORE",
+					"display_url": "pic.twitter.com/iGBStHRORE",
+					"expanded_url": "https://twitter.com/JiayangFan/status/1249225142254931970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 594,
+							"h": 552,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 594,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 594,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249225137943187500,
+					"id_str": "1249225137943187456",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/EVYjpO-XkAAnwq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVYjpO-XkAAnwq2.jpg",
+					"url": "https://t.co/iGBStHRORE",
+					"display_url": "pic.twitter.com/iGBStHRORE",
+					"expanded_url": "https://twitter.com/JiayangFan/status/1249225142254931970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 594,
+							"h": 552,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 594,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 594,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418780384,
+			"id_str": "418780384",
+			"name": "Jiayang Fan",
+			"screen_name": "JiayangFan",
+			"location": "New York",
+			"description": "Staff writer at The New Yorker; Pagodian dissenter 樊嘉扬：最烦的樊",
+			"url": "https://t.co/OZAI9pqPJV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OZAI9pqPJV",
+							"expanded_url": "http://www.newyorker.com/contributors/jiayang-fan",
+							"display_url": "newyorker.com/contributors/j…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52603,
+			"friends_count": 554,
+			"listed_count": 547,
+			"created_at": "Tue Nov 22 15:28:44 +0000 2011",
+			"favourites_count": 13832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "141F45",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/827006824989720576/d9RCphxS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/827006824989720576/d9RCphxS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418780384/1498206939",
+			"profile_link_color": "0FB300",
+			"profile_sidebar_border_color": "03080A",
+			"profile_sidebar_fill_color": "111706",
+			"profile_text_color": "F01351",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Getting many msgs like this one from China—msgs of compassion, understanding humanity &amp; despair abt toxic nationalism online.Even trolls can never make me disavow or love any less the country in which I was born. I am Chinese&amp;I am American.Have been &amp; will always proudly remain😊 https://t.co/iGBStHRORE"
+	},
+	{
+		"created_at": "Sun Apr 12 13:28:00 +0000 2020",
+		"id": 1248741868440940500,
+		"id_str": "1249328416773427201",
+		"full_text": "Okay, I've been with USPS for several years now, so here's my big dumb #SaveThePostOffice thread. I don't know how many tweets it's gonna take for me to ramble through my thoughts, so stick with me. Or don't, whatever.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SaveThePostOffice",
+					"indices": [
+						71,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 821564321926815700,
+			"id_str": "821564321926815746",
+			"name": "Dingus J McGee, ESQ*",
+			"screen_name": "lildipshit3",
+			"location": "East of the Mississippi",
+			"description": "*Not actually ESQ. Colossal left-wing dolt working in plain sight in the government.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1956,
+			"friends_count": 404,
+			"listed_count": 4,
+			"created_at": "Wed Jan 18 03:46:13 +0000 2017",
+			"favourites_count": 3551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233271770297196544/3o69-jj__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233271770297196544/3o69-jj__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/821564321926815746/1585944559",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17391,
+		"favorite_count": 34959,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Okay, I've been with USPS for several years now, so here's my big dumb #SaveThePostOffice thread. I don't know how many tweets it's gonna take for me to ramble through my thoughts, so stick with me. Or don't, whatever."
+	},
+	{
 		"created_at": "Sun Apr 12 02:52:45 +0000 2020",
 		"id": 1247919134169428000,
 		"id_str": "1249168548448079872",
