@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 21:40:38 +0000 2020",
+		"id": 1247682129900732400,
+		"id_str": "1249814780358955008",
+		"full_text": "wednesday's @nytimes front page: how the coronavirus toll grew. original sketch from tom bodkin and graphic by bill marsh. https://t.co/r7tj8KtpC7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247682052335587300,
+					"id_str": "1247682052335587330",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EVCoN1IX0AIAQgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVCoN1IX0AIAQgp.jpg",
+					"url": "https://t.co/r7tj8KtpC7",
+					"display_url": "pic.twitter.com/r7tj8KtpC7",
+					"expanded_url": "https://twitter.com/jcrutchmer/status/1247682129900732423/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 375,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 878,
+							"h": 1593,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 661,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247682052335587300,
+					"id_str": "1247682052335587330",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EVCoN1IX0AIAQgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVCoN1IX0AIAQgp.jpg",
+					"url": "https://t.co/r7tj8KtpC7",
+					"display_url": "pic.twitter.com/r7tj8KtpC7",
+					"expanded_url": "https://twitter.com/jcrutchmer/status/1247682129900732423/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 375,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 878,
+							"h": 1593,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 661,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1247682052339703800,
+					"id_str": "1247682052339703808",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EVCoN1JWoAAdMmo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVCoN1JWoAAdMmo.jpg",
+					"url": "https://t.co/r7tj8KtpC7",
+					"display_url": "pic.twitter.com/r7tj8KtpC7",
+					"expanded_url": "https://twitter.com/jcrutchmer/status/1247682129900732423/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35761681,
+			"id_str": "35761681",
+			"name": "Josh Crutchmer",
+			"screen_name": "jcrutchmer",
+			"location": "NYC",
+			"description": "Print Planning Editor, @nytimes. Oklahoma born. Always: Red Dirt. Go Pokes/CTID. Coming 2020: @reddirtbook",
+			"url": "https://t.co/UmqCI5AhUx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmqCI5AhUx",
+							"expanded_url": "http://www.nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9490,
+			"friends_count": 1687,
+			"listed_count": 132,
+			"created_at": "Mon Apr 27 14:58:33 +0000 2009",
+			"favourites_count": 5840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880590284991627264/eKWDEgIu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880590284991627264/eKWDEgIu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35761681/1487968536",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "040F10",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 444,
+		"favorite_count": 1676,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "wednesday's @nytimes front page: how the coronavirus toll grew. original sketch from tom bodkin and graphic by bill marsh. https://t.co/r7tj8KtpC7"
+	},
+	{
 		"created_at": "Sun Apr 12 23:49:08 +0000 2020",
 		"id": 1249484730271031300,
 		"id_str": "1249484730271031297",
