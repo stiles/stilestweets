@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 05:02:29 +0000 2020",
+		"id": 1249925973706858500,
+		"id_str": "1249925973706858496",
+		"full_text": "No, wait. This thread is the best thing I read on #COVID19 today. Please read it. https://t.co/QLNByR9ZQC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QLNByR9ZQC",
+					"expanded_url": "https://twitter.com/michaelharriot/status/1249871486644563969",
+					"display_url": "twitter.com/michaelharriot…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11373,
+			"friends_count": 2029,
+			"listed_count": 880,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249871486644564000,
+		"quoted_status_id_str": "1249871486644563969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QLNByR9ZQC",
+			"expanded": "https://twitter.com/michaelharriot/status/1249871486644563969",
+			"display": "twitter.com/michaelharriot…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 14 01:25:58 +0000 2020",
+			"id": 1249871486644564000,
+			"id_str": "1249871486644563969",
+			"full_text": "You wanna know what white privilege is?\n\nLet's look at the credentials for the \"Council to Reopen America\"\n\n1. Mark Meadows: Not only is Mark Meadows not a doctor, but his official gov't bio also says he only holds a bachelor's degree.\n\nThat is a lie. https://t.co/hpTnpKvO0p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1249871316951404500,
+						"id_str": "1249871316951404546",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/EVhvVzXWkAIw5-j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVhvVzXWkAIw5-j.jpg",
+						"url": "https://t.co/hpTnpKvO0p",
+						"display_url": "pic.twitter.com/hpTnpKvO0p",
+						"expanded_url": "https://twitter.com/michaelharriot/status/1249871486644563969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 684,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 388,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2001,
+								"h": 1141,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1249871316951404500,
+						"id_str": "1249871316951404546",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/EVhvVzXWkAIw5-j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVhvVzXWkAIw5-j.jpg",
+						"url": "https://t.co/hpTnpKvO0p",
+						"display_url": "pic.twitter.com/hpTnpKvO0p",
+						"expanded_url": "https://twitter.com/michaelharriot/status/1249871486644563969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 684,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 388,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2001,
+								"h": 1141,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 96149284,
+				"id_str": "96149284",
+				"name": "michaelharriot",
+				"screen_name": "michaelharriot",
+				"location": "The Southside of Wakanda",
+				"description": "Sr. Writer at https://t.co/OMQPRg8xcr, board-certified Wypipologist, master race-baiter. His pen is mightier than your sword. Last real Negus alive",
+				"url": "https://t.co/lTB2PUWBfg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lTB2PUWBfg",
+								"expanded_url": "https://kinja.com/michaelharriot",
+								"display_url": "kinja.com/michaelharriot",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OMQPRg8xcr",
+								"expanded_url": "http://TheRoot.com",
+								"display_url": "TheRoot.com",
+								"indices": [
+									14,
+									37
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 229494,
+				"friends_count": 74,
+				"listed_count": 1251,
+				"created_at": "Fri Dec 11 15:40:46 +0000 2009",
+				"favourites_count": 3068,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1249524889222070273/QcDtsIWG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249524889222070273/QcDtsIWG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/96149284/1578041893",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4696,
+			"favorite_count": 12212,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No, wait. This thread is the best thing I read on #COVID19 today. Please read it. https://t.co/QLNByR9ZQC"
+	},
+	{
 		"created_at": "Tue Apr 14 01:00:49 +0000 2020",
 		"id": 1249851815966814200,
 		"id_str": "1249865156051341312",
