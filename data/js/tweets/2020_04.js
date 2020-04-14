@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 21:15:10 +0000 2020",
+		"id": 1250170592004731000,
+		"id_str": "1250170760372482048",
+		"full_text": "Wow. This is unexpected and awesome. Thank you, @github https://t.co/1NmBWGCQF7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "github",
+					"name": "GitHub",
+					"id": 13334762,
+					"id_str": "13334762",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250170576569864200,
+					"id_str": "1250170576569864192",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EVl_hAUXkAAEScD.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVl_hAUXkAAEScD.png",
+					"url": "https://t.co/1NmBWGCQF7",
+					"display_url": "pic.twitter.com/1NmBWGCQF7",
+					"expanded_url": "https://twitter.com/inadarei/status/1250170592004730880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1182,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1182,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 614,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250170576569864200,
+					"id_str": "1250170576569864192",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EVl_hAUXkAAEScD.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVl_hAUXkAAEScD.png",
+					"url": "https://t.co/1NmBWGCQF7",
+					"display_url": "pic.twitter.com/1NmBWGCQF7",
+					"expanded_url": "https://twitter.com/inadarei/status/1250170592004730880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1182,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1182,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 614,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14425176,
+			"id_str": "14425176",
+			"name": "Irakli Nadareishvili",
+			"screen_name": "inadarei",
+			"location": "@UofMaryland grad",
+			"description": "Microservices at @capitalone. Adjunct Prof @TempleUniv. Past: @referwell, @APIAcademy, @NPR. I ♥︎ Kubernetes, [Py|Go|Node], @ManUtd & em dash. Opinions my own.",
+			"url": "https://t.co/PsDUKx6olm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PsDUKx6olm",
+							"expanded_url": "http://github.com/skaffold-microservices",
+							"display_url": "github.com/skaffold-micro…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2419,
+			"friends_count": 1101,
+			"listed_count": 202,
+			"created_at": "Thu Apr 17 20:10:17 +0000 2008",
+			"favourites_count": 10362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8A8F9E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000710101155/3982fb3e78ddd2828580098adb591c2f_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000710101155/3982fb3e78ddd2828580098adb591c2f_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14425176/1472998305",
+			"profile_link_color": "5A6983",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B5AEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow. This is unexpected and awesome. Thank you, @github https://t.co/1NmBWGCQF7"
+	},
+	{
 		"created_at": "Tue Apr 14 20:04:41 +0000 2020",
 		"id": 1250152936476299300,
 		"id_str": "1250153019842260992",
