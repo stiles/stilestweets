@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 16:46:29 +0000 2020",
+		"id": 1250461502986801200,
+		"id_str": "1250465528910450689",
+		"full_text": "Many local governments in California have adopted @Microsoft's Power BI to report coronavirus data.\n\nIMHO, it is so buggy we are better off with HTML tables or even images that can be easily shared.\n\nCheck out Santa Cruz's site today. Watch the case count. https://t.co/O8WtGaanbb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250461464940306400,
+					"id_str": "1250461464940306438",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250461464940306438/pu/img/K-25I9EX2iKU3FpK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250461464940306438/pu/img/K-25I9EX2iKU3FpK.jpg",
+					"url": "https://t.co/O8WtGaanbb",
+					"display_url": "pic.twitter.com/O8WtGaanbb",
+					"expanded_url": "https://twitter.com/palewire/status/1250461502986801155/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 766,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250461464940306400,
+					"id_str": "1250461464940306438",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250461464940306438/pu/img/K-25I9EX2iKU3FpK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250461464940306438/pu/img/K-25I9EX2iKU3FpK.jpg",
+					"url": "https://t.co/O8WtGaanbb",
+					"display_url": "pic.twitter.com/O8WtGaanbb",
+					"expanded_url": "https://twitter.com/palewire/status/1250461502986801155/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 766,
+							"h": 570,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							383,
+							285
+						],
+						"duration_millis": 12050,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250461464940306438/pu/vid/482x360/FtuwbOGMDbHwgSZt.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250461464940306438/pu/vid/362x270/2g6YJogtOZYH78bH.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1250461464940306438/pu/pl/8PVwvrHOlXcyj43z.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250461464940306438/pu/vid/766x570/HNR0HFxORS4UKnat.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · Send me tips · DMs open · ben.welsh@latimes.com",
+			"url": "https://t.co/M40D7KBYi4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M40D7KBYi4",
+							"expanded_url": "https://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/alHGK4tTzG",
+							"expanded_url": "http://californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11163,
+			"friends_count": 3122,
+			"listed_count": 757,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 57643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many local governments in California have adopted @Microsoft's Power BI to report coronavirus data.\n\nIMHO, it is so buggy we are better off with HTML tables or even images that can be easily shared.\n\nCheck out Santa Cruz's site today. Watch the case count. https://t.co/O8WtGaanbb"
+	},
+	{
 		"created_at": "Wed Apr 15 16:14:58 +0000 2020",
 		"id": 1250457600220483600,
 		"id_str": "1250457600220483585",
