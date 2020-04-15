@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 02:49:28 +0000 2020",
+		"id": 1250235432442269700,
+		"id_str": "1250254888958754818",
+		"full_text": "I know times are extremely tough for everyone right now, but if you have the means and have been meaning to subscribe to @latimes *someday* ... Please consider subscribing now. We need strong newspapers more than ever, and the paper needs your support. https://t.co/ybDBYASv0d https://t.co/Pr5rYV7X0y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ybDBYASv0d",
+					"expanded_url": "https://www.latimes.com/subscriptions/",
+					"display_url": "latimes.com/subscriptions/",
+					"indices": [
+						253,
+						276
+					]
+				},
+				{
+					"url": "https://t.co/Pr5rYV7X0y",
+					"expanded_url": "https://twitter.com/latguild/status/1250129104688386049",
+					"display_url": "twitter.com/latguild/statu…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13479902,
+			"id_str": "13479902",
+			"name": "Julia Wick",
+			"screen_name": "sherlyholmes",
+			"location": "LA",
+			"description": "@latimes metro reporter & Essential California newsletter author (subscribe here: https://t.co/FxOtLkVeGE) Former EIC of @LAist. Native Angeleno.",
+			"url": "https://t.co/9nLR6Wm4Ya",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9nLR6Wm4Ya",
+							"expanded_url": "https://www.latimes.com/la-bio-julia-wick-staff.html",
+							"display_url": "latimes.com/la-bio-julia-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FxOtLkVeGE",
+							"expanded_url": "https://lat.ms/2JG6TWt",
+							"display_url": "lat.ms/2JG6TWt",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9157,
+			"friends_count": 1872,
+			"listed_count": 202,
+			"created_at": "Thu Feb 14 17:24:54 +0000 2008",
+			"favourites_count": 14822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13479902/1502071398",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250129104688386000,
+		"quoted_status_id_str": "1250129104688386049",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Pr5rYV7X0y",
+			"expanded": "https://twitter.com/latguild/status/1250129104688386049",
+			"display": "twitter.com/latguild/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 14 18:29:39 +0000 2020",
+			"id": 1250129104688386000,
+			"id_str": "1250129104688386049",
+			"full_text": "The @latimes has just announced furloughs and other pay cuts for non-union employees. Our statement: https://t.co/OHqngYGpon",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							4,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1250129100200538000,
+						"id_str": "1250129100200538112",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/EVlZywzU8AAVo1L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVlZywzU8AAVo1L.jpg",
+						"url": "https://t.co/OHqngYGpon",
+						"display_url": "pic.twitter.com/OHqngYGpon",
+						"expanded_url": "https://twitter.com/latguild/status/1250129104688386049/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 727,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 608,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 727,
+								"h": 650,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1250129100200538000,
+						"id_str": "1250129100200538112",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/EVlZywzU8AAVo1L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVlZywzU8AAVo1L.jpg",
+						"url": "https://t.co/OHqngYGpon",
+						"display_url": "pic.twitter.com/OHqngYGpon",
+						"expanded_url": "https://twitter.com/latguild/status/1250129104688386049/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 727,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 608,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 727,
+								"h": 650,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1250129100192149500,
+						"id_str": "1250129100192149504",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/EVlZywxU8AAbjHZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVlZywxU8AAbjHZ.jpg",
+						"url": "https://t.co/OHqngYGpon",
+						"display_url": "pic.twitter.com/OHqngYGpon",
+						"expanded_url": "https://twitter.com/latguild/status/1250129104688386049/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 639,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 721,
+								"h": 767,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 721,
+								"h": 767,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 859504635773464600,
+				"id_str": "859504635773464576",
+				"name": "L.A. Times Guild 🦅",
+				"screen_name": "latguild",
+				"location": "Los Angeles, CA",
+				"description": "Our mission is to safeguard the future of the Los Angeles Times and its journalists.",
+				"url": "https://t.co/R0OXgdbmkM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R0OXgdbmkM",
+								"expanded_url": "https://latguild.com",
+								"display_url": "latguild.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7489,
+				"friends_count": 3,
+				"listed_count": 140,
+				"created_at": "Tue May 02 20:27:28 +0000 2017",
+				"favourites_count": 5507,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4902,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1171167178277572608/2xMdrxay_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171167178277572608/2xMdrxay_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/859504635773464576/1559623312",
+				"profile_link_color": "FAC211",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 388,
+			"favorite_count": 439,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 48,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I know times are extremely tough for everyone right now, but if you have the means and have been meaning to subscribe to @latimes *someday* ... Please consider subscribing now. We need strong newspapers more than ever, and the paper needs your support. https://t.co/ybDBYASv0d https://t.co/Pr5rYV7X0y"
+	},
+	{
 		"created_at": "Tue Apr 14 21:15:10 +0000 2020",
 		"id": 1250170592004731000,
 		"id_str": "1250170760372482048",
