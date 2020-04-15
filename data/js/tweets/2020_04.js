@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 16:14:58 +0000 2020",
+		"id": 1250457600220483600,
+		"id_str": "1250457600220483585",
+		"full_text": "If I'm ever able to take another flight, I'm going to Milwaukee, home of the National Bobblehead Hall of Fame and Museum, aka @bobbleheadhall.\n\nThe owners are taking pre-orders for Dr. Fauci. Maybe in time for my birthday, anyone??? https://t.co/HaoYoXNZVV https://t.co/SUnO7ngcKD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BobbleheadHall",
+					"name": "National Bobblehead Hall of Fame and Museum",
+					"id": 1292820218,
+					"id_str": "1292820218",
+					"indices": [
+						126,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HaoYoXNZVV",
+					"expanded_url": "https://store.bobbleheadhall.com/collections/featured-product/products/drfauci",
+					"display_url": "store.bobbleheadhall.com/collections/fe…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250457193729515500,
+					"id_str": "1250457193729515521",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/EVqEMUcUYAE2Tf2.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVqEMUcUYAE2Tf2.png",
+					"url": "https://t.co/SUnO7ngcKD",
+					"display_url": "pic.twitter.com/SUnO7ngcKD",
+					"expanded_url": "https://twitter.com/stiles/status/1250457600220483585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250457193729515500,
+					"id_str": "1250457193729515521",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/EVqEMUcUYAE2Tf2.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVqEMUcUYAE2Tf2.png",
+					"url": "https://t.co/SUnO7ngcKD",
+					"display_url": "pic.twitter.com/SUnO7ngcKD",
+					"expanded_url": "https://twitter.com/stiles/status/1250457600220483585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11371,
+			"friends_count": 2032,
+			"listed_count": 879,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 7987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If I'm ever able to take another flight, I'm going to Milwaukee, home of the National Bobblehead Hall of Fame and Museum, aka @bobbleheadhall.\n\nThe owners are taking pre-orders for Dr. Fauci. Maybe in time for my birthday, anyone??? https://t.co/HaoYoXNZVV https://t.co/SUnO7ngcKD"
+	},
+	{
 		"created_at": "Wed Apr 15 14:02:52 +0000 2020",
 		"id": 1250424355416244200,
 		"id_str": "1250424355416244230",
