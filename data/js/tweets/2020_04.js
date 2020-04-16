@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 03:45:52 +0000 2020",
+		"id": 1250627437949595600,
+		"id_str": "1250631467417255936",
+		"full_text": "\"Quarantine has shrunk my world to just my house, but at the same time has reminded me that my world is much, much wider, and my connections span not only the country but the globe.\"\n😭 @citylab is asking readers to draw maps of their lives in quarantine😭\nhttps://t.co/h5U1eX1S1p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CityLab",
+					"name": "CityLab",
+					"id": 331803536,
+					"id_str": "331803536",
+					"indices": [
+						185,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h5U1eX1S1p",
+					"expanded_url": "https://www.citylab.com/life/2020/04/neighborhood-maps-coronavirus-lockdown-stay-at-home-art/610018/",
+					"display_url": "citylab.com/life/2020/04/n…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 237889929,
+			"id_str": "237889929",
+			"name": "ಠ_ಠ",
+			"screen_name": "DeniseDSLu",
+			"location": "New York",
+			"description": "knickknacks @nytgraphics, previously @PostGraphics. basic gen-x dad.",
+			"url": "https://t.co/fhIuGrW1Wc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fhIuGrW1Wc",
+							"expanded_url": "http://www.deniselu.com",
+							"display_url": "deniselu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2952,
+			"friends_count": 1019,
+			"listed_count": 162,
+			"created_at": "Thu Jan 13 21:48:16 +0000 2011",
+			"favourites_count": 5682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F3F3F3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098068140339183621/alif-cTN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098068140339183621/alif-cTN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/237889929/1433466282",
+			"profile_link_color": "67B0B8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D1D1D1",
+			"profile_text_color": "5C5C5E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Quarantine has shrunk my world to just my house, but at the same time has reminded me that my world is much, much wider, and my connections span not only the country but the globe.\"\n😭 @citylab is asking readers to draw maps of their lives in quarantine😭\nhttps://t.co/h5U1eX1S1p"
+	},
+	{
 		"created_at": "Thu Apr 16 03:13:47 +0000 2020",
 		"id": 1250623394585829400,
 		"id_str": "1250623394585829376",
