@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 04:45:43 +0000 2020",
+		"id": 1250639903185973200,
+		"id_str": "1250646529351639043",
+		"full_text": "whoa buddy hey fuck you https://t.co/H2eAVPrFKY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H2eAVPrFKY",
+					"expanded_url": "https://twitter.com/waltmossberg/status/1250415516981899264",
+					"display_url": "twitter.com/waltmossberg/s…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38879572,
+			"id_str": "38879572",
+			"name": "Jason Fagone",
+			"screen_name": "jfagone",
+			"location": "San Francisco, CA",
+			"description": "Reporter @sfchronicle. Author of THE WOMAN WHO SMASHED CODES & other books. jason.fagone@sfchronicle.com. Signal: 512-814-6553. Newsletter: https://t.co/ZbkZI2lTGH",
+			"url": "https://t.co/P4u6kT74D7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P4u6kT74D7",
+							"expanded_url": "https://www.harpercollins.com/9780062430519/?utm_source=aps&utm_medium=athrweb&utm_campaign=aps",
+							"display_url": "harpercollins.com/9780062430519/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZbkZI2lTGH",
+							"expanded_url": "http://jfagone.substack.com",
+							"display_url": "jfagone.substack.com",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12292,
+			"friends_count": 3693,
+			"listed_count": 421,
+			"created_at": "Sat May 09 16:20:58 +0000 2009",
+			"favourites_count": 45908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/938301756026613760/qOGzKB3K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/938301756026613760/qOGzKB3K_normal.jpg",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250415516981899300,
+		"quoted_status_id_str": "1250415516981899264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/H2eAVPrFKY",
+			"expanded": "https://twitter.com/waltmossberg/status/1250415516981899264",
+			"display": "twitter.com/waltmossberg/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 15 13:27:45 +0000 2020",
+			"id": 1250415516981899300,
+			"id_str": "1250415516981899264",
+			"full_text": "Our biggest state, California, has only one major, quality news org, the ⁦@latimes⁩. And it’s in trouble. So I just subscribed. It’s ridiculously cheap: $1 for 4 weeks of digital. Give it a try. I’m a lifelong Easterner, but we need a Western voice.  https://t.co/BI2pJOh1fn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							74,
+							82
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BI2pJOh1fn",
+						"expanded_url": "https://www.latimes.com/subscriptions/land-direct-response/toaster-digital-aa20.html#int_source=on_site&int_medium=april_acquisition_toaster_landing_page&int_campaign=digital_test",
+						"display_url": "latimes.com/subscriptions/…",
+						"indices": [
+							251,
+							274
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5746452,
+				"id_str": "5746452",
+				"name": "Walt Mossberg",
+				"screen_name": "waltmossberg",
+				"location": "Washington, DC",
+				"description": "Board, News Literacy Project. Former columnist, WSJ. Co-founder: AllThingsD, Recode, D & Code Conferences, Ctrl-Walt-Delete. Former Exec Editor, The Verge.",
+				"url": "https://t.co/AH9VhHsJmY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AH9VhHsJmY",
+								"expanded_url": "http://www.theverge.com/label/walt-mossberg-verge",
+								"display_url": "theverge.com/label/walt-mos…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 869806,
+				"friends_count": 1324,
+				"listed_count": 18621,
+				"created_at": "Thu May 03 17:30:11 +0000 2007",
+				"favourites_count": 46060,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25463,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463735129698205696/lgV8ScFe_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463735129698205696/lgV8ScFe_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5746452/1362583071",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 308,
+			"favorite_count": 972,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 60,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "whoa buddy hey fuck you https://t.co/H2eAVPrFKY"
+	},
+	{
 		"created_at": "Thu Apr 16 03:45:52 +0000 2020",
 		"id": 1250627437949595600,
 		"id_str": "1250631467417255936",
