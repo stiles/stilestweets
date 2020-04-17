@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 14:11:08 +0000 2020",
+		"id": 1251148510604324900,
+		"id_str": "1251151211593531397",
+		"full_text": "Coronavirus strikes California hospital workers hard, including 175 cases at UCLA alone. Yet nurses are being kept in the dark. Why? Via ⁦@anitachabria⁩\n⁦@skarlamangla⁩ ⁦@latimesharriet⁩ &amp; ⁦@stiles⁩  https://t.co/mpJgG9q6Kk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anitachabria",
+					"name": "Anita Chabria",
+					"id": 1630851128,
+					"id_str": "1630851128",
+					"indices": [
+						138,
+						151
+					]
+				},
+				{
+					"screen_name": "skarlamangla",
+					"name": "Soumya",
+					"id": 244701234,
+					"id_str": "244701234",
+					"indices": [
+						154,
+						167
+					]
+				},
+				{
+					"screen_name": "latimesharriet",
+					"name": "Harriet Ryan",
+					"id": 16213490,
+					"id_str": "16213490",
+					"indices": [
+						170,
+						185
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						194,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mpJgG9q6Kk",
+					"expanded_url": "https://www.latimes.com/california/story/2020-04-17/california-healthcare-workers-hospitals-coronavirus-pandemic",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37735734,
+			"id_str": "37735734",
+			"name": "Stuart Leavenworth",
+			"screen_name": "sleavenworth",
+			"location": "Los Angeles, CA",
+			"description": "California Enterprise Editor, @latimes. Formerly in chaotic capitals of DC, Beijing & Sacramento. Now living the simple COVID-19 life in the City of Angels.",
+			"url": "https://t.co/vdcY2tMMle",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vdcY2tMMle",
+							"expanded_url": "https://www.latimes.com/la-bio-stuart-leavenworth-staff.html",
+							"display_url": "latimes.com/la-bio-stuart-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6083,
+			"friends_count": 4681,
+			"listed_count": 308,
+			"created_at": "Mon May 04 19:37:10 +0000 2009",
+			"favourites_count": 12129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134305626849329152/iveFxCIN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134305626849329152/iveFxCIN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37735734/1559177370",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coronavirus strikes California hospital workers hard, including 175 cases at UCLA alone. Yet nurses are being kept in the dark. Why? Via ⁦@anitachabria⁩\n⁦@skarlamangla⁩ ⁦@latimesharriet⁩ &amp; ⁦@stiles⁩  https://t.co/mpJgG9q6Kk"
+	},
+	{
 		"created_at": "Fri Apr 17 04:03:25 +0000 2020",
 		"id": 1250998272509935600,
 		"id_str": "1250998272509935616",
