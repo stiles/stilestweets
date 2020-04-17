@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 21:13:44 +0000 2020",
+		"id": 1251246035227144200,
+		"id_str": "1251257560604110848",
+		"full_text": "more than a third of health care workers who've fallen sick with covid in LA County work in hospitals, but these outbreaks don't often get publicized. \n\nmy latest with @anitachabria, @latimesharriet and @stiles   https://t.co/PjPLsz38Dq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anitachabria",
+					"name": "Anita Chabria",
+					"id": 1630851128,
+					"id_str": "1630851128",
+					"indices": [
+						168,
+						181
+					]
+				},
+				{
+					"screen_name": "latimesharriet",
+					"name": "Harriet Ryan",
+					"id": 16213490,
+					"id_str": "16213490",
+					"indices": [
+						183,
+						198
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						203,
+						210
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PjPLsz38Dq",
+					"expanded_url": "https://www.latimes.com/california/story/2020-04-17/california-healthcare-workers-hospitals-coronavirus-pandemic",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 244701234,
+			"id_str": "244701234",
+			"name": "Soumya",
+			"screen_name": "skarlamangla",
+			"location": "Los Angeles, California",
+			"description": "health reporter at the Los Angeles Times. former rosalynn carter mental health fellow. call me beep me if you want to reach me: soumya.karlamangla@latimes.com",
+			"url": "https://t.co/G9r2ACbsrI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G9r2ACbsrI",
+							"expanded_url": "http://www.latimes.com/la-bio-soumya-karlamangla-staff.html",
+							"display_url": "latimes.com/la-bio-soumya-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12921,
+			"friends_count": 2719,
+			"listed_count": 488,
+			"created_at": "Sat Jan 29 23:03:33 +0000 2011",
+			"favourites_count": 11439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019061820068261890/UKFbU45L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019061820068261890/UKFbU45L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/244701234/1484020302",
+			"profile_link_color": "D4513F",
+			"profile_sidebar_border_color": "929C7A",
+			"profile_sidebar_fill_color": "958C6B",
+			"profile_text_color": "BD9679",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "more than a third of health care workers who've fallen sick with covid in LA County work in hospitals, but these outbreaks don't often get publicized. \n\nmy latest with @anitachabria, @latimesharriet and @stiles   https://t.co/PjPLsz38Dq"
+	},
+	{
 		"created_at": "Fri Apr 17 15:21:44 +0000 2020",
 		"id": 1251168978413617200,
 		"id_str": "1251168978413617157",
