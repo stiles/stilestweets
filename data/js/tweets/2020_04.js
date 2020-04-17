@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 00:26:48 +0000 2020",
+		"id": 1250943398162206700,
+		"id_str": "1250943760344571905",
+		"full_text": "We can’t stop the spread of COVID-19 without testing. We now have 30 testing sites across @CountyofLA. If you have symptoms, get tested immediately.\n\nWe have the capacity –– don’t wait, wonder, and risk infecting others. Visit https://t.co/rHWABmXUEl to make an appointment.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CountyofLA",
+					"name": "Los Angeles County",
+					"id": 193771633,
+					"id_str": "193771633",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rHWABmXUEl",
+					"expanded_url": "http://Coronavirus.LACity.org/Testing",
+					"display_url": "Coronavirus.LACity.org/Testing",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17070113,
+			"id_str": "17070113",
+			"name": "MayorOfLA",
+			"screen_name": "MayorOfLA",
+			"location": "Los Angeles, CA",
+			"description": "Official account for the 42nd Mayor of the City of Angels, Eric Garcetti. \n📧:https://t.co/zHC8nKIQe4 👍:https://t.co/IuxRMfYAY3 📸:https://t.co/A9TS3pdoPV",
+			"url": "https://t.co/D1oHqFoIrz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D1oHqFoIrz",
+							"expanded_url": "http://Coronavirus.LACity.org/",
+							"display_url": "Coronavirus.LACity.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zHC8nKIQe4",
+							"expanded_url": "http://Mayor.LA/mzQC30mSt3W",
+							"display_url": "Mayor.LA/mzQC30mSt3W",
+							"indices": [
+								77,
+								100
+							]
+						},
+						{
+							"url": "https://t.co/IuxRMfYAY3",
+							"expanded_url": "http://FB.com/MayorOfLA",
+							"display_url": "FB.com/MayorOfLA",
+							"indices": [
+								103,
+								126
+							]
+						},
+						{
+							"url": "https://t.co/A9TS3pdoPV",
+							"expanded_url": "http://Instagram.com/MayorOfLA",
+							"display_url": "Instagram.com/MayorOfLA",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 352292,
+			"friends_count": 556,
+			"listed_count": 3330,
+			"created_at": "Thu Oct 30 17:52:09 +0000 2008",
+			"favourites_count": 12469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F3073",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247902951881863169/TJl18S8z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247902951881863169/TJl18S8z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17070113/1584386440",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We can’t stop the spread of COVID-19 without testing. We now have 30 testing sites across @CountyofLA. If you have symptoms, get tested immediately.\n\nWe have the capacity –– don’t wait, wonder, and risk infecting others. Visit https://t.co/rHWABmXUEl to make an appointment."
+	},
+	{
 		"created_at": "Thu Apr 16 04:45:43 +0000 2020",
 		"id": 1250639903185973200,
 		"id_str": "1250646529351639043",
