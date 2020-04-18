@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 21:44:12 +0000 2020",
+		"id": 1251627408723189800,
+		"id_str": "1251627617528057856",
+		"full_text": "300 idiots in the metro area of 1.3 million. Evaluate their opinions accordingly. https://t.co/anFQs1vNdE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/anFQs1vNdE",
+					"expanded_url": "https://twitter.com/mannynyt/status/1251564861257113602",
+					"display_url": "twitter.com/mannynyt/statu…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15937168,
+			"id_str": "15937168",
+			"name": "Chris Lippincott",
+			"screen_name": "texaslippy",
+			"location": "Austin, Texas",
+			"description": "Area man/husband/dad/crank. PR guy kissing babies & stealing their lollipops. Smoked meat. Cocktails. Sports. Harvey survivor. Tweets aren't on clients' behalf.",
+			"url": "https://t.co/y8uwQEGo20",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y8uwQEGo20",
+							"expanded_url": "https://m.youtube.com/watch?v=VS7cTJjVZjs",
+							"display_url": "m.youtube.com/watch?v=VS7cTJ…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2242,
+			"friends_count": 2013,
+			"listed_count": 77,
+			"created_at": "Thu Aug 21 21:28:12 +0000 2008",
+			"favourites_count": 163049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178458123981508609/QriLPMu8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178458123981508609/QriLPMu8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15937168/1358115388",
+			"profile_link_color": "BF5700",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1251564861257113600,
+		"quoted_status_id_str": "1251564861257113602",
+		"quoted_status_permalink": {
+			"url": "https://t.co/anFQs1vNdE",
+			"expanded": "https://twitter.com/mannynyt/status/1251564861257113602",
+			"display": "twitter.com/mannynyt/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 18 17:34:50 +0000 2020",
+			"id": 1251564861257113600,
+			"id_str": "1251564861257113602",
+			"full_text": "Chant of “Fire Fauci!” https://t.co/Vj4aQhtQs7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				22
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1251564789643477000,
+						"id_str": "1251564789643476992",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251564789643476992/pu/img/l5Bu4qvbro-nrA0J.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251564789643476992/pu/img/l5Bu4qvbro-nrA0J.jpg",
+						"url": "https://t.co/Vj4aQhtQs7",
+						"display_url": "pic.twitter.com/Vj4aQhtQs7",
+						"expanded_url": "https://twitter.com/mannyNYT/status/1251564861257113602/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1251564789643477000,
+						"id_str": "1251564789643476992",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251564789643476992/pu/img/l5Bu4qvbro-nrA0J.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251564789643476992/pu/img/l5Bu4qvbro-nrA0J.jpg",
+						"url": "https://t.co/Vj4aQhtQs7",
+						"display_url": "pic.twitter.com/Vj4aQhtQs7",
+						"expanded_url": "https://twitter.com/mannyNYT/status/1251564861257113602/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 24652,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1251564789643476992/pu/vid/360x640/cTsHYIlQFwXQhf0k.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1251564789643476992/pu/vid/720x1280/x4Jrj6xk6ofe7lwd.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1251564789643476992/pu/pl/rLRPdH6fUizi6KoT.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1251564789643476992/pu/vid/320x568/CY_pVRgxqJzlycc9.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 554205029,
+				"id_str": "554205029",
+				"name": "Manny Fernandez",
+				"screen_name": "mannyNYT",
+				"location": "Houston, Texas",
+				"description": "Houston bureau chief for The New York Times (but soon covering Los Angeles and California for the Times as L.A. bureau chief). Email: mannyf@nytimes.com",
+				"url": "http://t.co/NySWaRDWM7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NySWaRDWM7",
+								"expanded_url": "http://nytimes.com",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10722,
+				"friends_count": 3709,
+				"listed_count": 346,
+				"created_at": "Sun Apr 15 09:10:29 +0000 2012",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 882,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/441812850814636032/cQCuoYgv_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/441812850814636032/cQCuoYgv_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1749,
+			"favorite_count": 3297,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "300 idiots in the metro area of 1.3 million. Evaluate their opinions accordingly. https://t.co/anFQs1vNdE"
+	},
+	{
 		"created_at": "Sat Apr 18 14:35:39 +0000 2020",
 		"id": 1251519768944767000,
 		"id_str": "1251519768944766976",
