@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 20 20:31:44 +0000 2020",
+		"id": 1252326234077487000,
+		"id_str": "1252334155095924736",
+		"full_text": "USC-LA County Study: Early Results of Antibody Testing Suggest Number of #COVID-19 Infections Far Exceeds Number of Confirmed Cases in Los Angeles County. Visit https://t.co/ykORK5zq65 for more https://t.co/2Yw6mZ6D5j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID",
+					"indices": [
+						73,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ykORK5zq65",
+					"expanded_url": "http://publichealth.lacounty.gov/media/Coronavirus/",
+					"display_url": "publichealth.lacounty.gov/media/Coronavi…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1252326232437506000,
+					"id_str": "1252326232437506048",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EWEoEsNXQAAEA4b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWEoEsNXQAAEA4b.jpg",
+					"url": "https://t.co/2Yw6mZ6D5j",
+					"display_url": "pic.twitter.com/2Yw6mZ6D5j",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1252326234077487107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 613,
+							"h": 794,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 613,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252326232437506000,
+					"id_str": "1252326232437506048",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EWEoEsNXQAAEA4b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWEoEsNXQAAEA4b.jpg",
+					"url": "https://t.co/2Yw6mZ6D5j",
+					"display_url": "pic.twitter.com/2Yw6mZ6D5j",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1252326234077487107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 613,
+							"h": 794,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 613,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1252326232341000200,
+					"id_str": "1252326232341000192",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EWEoEr2WsAAIhW5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWEoEr2WsAAIhW5.jpg",
+					"url": "https://t.co/2Yw6mZ6D5j",
+					"display_url": "pic.twitter.com/2Yw6mZ6D5j",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1252326234077487107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 564,
+							"h": 825,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 564,
+							"h": 825,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38287098,
+			"id_str": "38287098",
+			"name": "LA Public Health",
+			"screen_name": "lapublichealth",
+			"location": "Los Angeles, California",
+			"description": "Committed to protecting & improving the health of the over 10 million residents of #LACounty. Follow for #HealthAlerts & #HealthTips. #PublicHealth",
+			"url": "https://t.co/Fiv01QwVHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fiv01QwVHL",
+							"expanded_url": "http://publichealth.lacounty.gov",
+							"display_url": "publichealth.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54561,
+			"friends_count": 631,
+			"listed_count": 838,
+			"created_at": "Wed May 06 21:57:05 +0000 2009",
+			"favourites_count": 1425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38287098/1527611465",
+			"profile_link_color": "00205B",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DCE7EA",
+			"profile_text_color": "404040",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "USC-LA County Study: Early Results of Antibody Testing Suggest Number of #COVID-19 Infections Far Exceeds Number of Confirmed Cases in Los Angeles County. Visit https://t.co/ykORK5zq65 for more https://t.co/2Yw6mZ6D5j"
+	},
+	{
 		"created_at": "Mon Apr 20 17:57:40 +0000 2020",
 		"id": 1252266397842849800,
 		"id_str": "1252295383402725377",
