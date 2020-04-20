@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 20 17:57:40 +0000 2020",
+		"id": 1252266397842849800,
+		"id_str": "1252295383402725377",
+		"full_text": "Very excited to finally be back at work and writing the Essential California newsletter again this am! https://t.co/UVxqFZGuyh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UVxqFZGuyh",
+					"expanded_url": "https://www.latimes.com/california/newsletter/2020-04-20/garcetti-furloughs-california-newsletter-essential-california",
+					"display_url": "latimes.com/california/new…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13479902,
+			"id_str": "13479902",
+			"name": "Julia Wick",
+			"screen_name": "sherlyholmes",
+			"location": "LA",
+			"description": "@latimes metro reporter & Essential California newsletter author (subscribe here: https://t.co/FxOtLkVeGE) Former EIC of @LAist. Native Angeleno.",
+			"url": "https://t.co/9nLR6Wm4Ya",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9nLR6Wm4Ya",
+							"expanded_url": "https://www.latimes.com/la-bio-julia-wick-staff.html",
+							"display_url": "latimes.com/la-bio-julia-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FxOtLkVeGE",
+							"expanded_url": "https://lat.ms/2JG6TWt",
+							"display_url": "lat.ms/2JG6TWt",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9240,
+			"friends_count": 1878,
+			"listed_count": 202,
+			"created_at": "Thu Feb 14 17:24:54 +0000 2008",
+			"favourites_count": 14895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13479902/1502071398",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 248,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very excited to finally be back at work and writing the Essential California newsletter again this am! https://t.co/UVxqFZGuyh"
+	},
+	{
 		"created_at": "Mon Apr 20 14:45:13 +0000 2020",
 		"id": 1252246949719183400,
 		"id_str": "1252246949719183360",
