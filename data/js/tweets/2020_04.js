@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 20 01:25:38 +0000 2020",
+		"id": 1252045731600322600,
+		"id_str": "1252045731600322560",
+		"full_text": "Sent from an iPhone... https://t.co/uaAIoMW2C3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uaAIoMW2C3",
+					"expanded_url": "https://twitter.com/mistermegative/status/1252008744373948418",
+					"display_url": "twitter.com/mistermegative…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11381,
+			"friends_count": 2035,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252008744373948400,
+		"quoted_status_id_str": "1252008744373948418",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uaAIoMW2C3",
+			"expanded": "https://twitter.com/mistermegative/status/1252008744373948418",
+			"display": "twitter.com/mistermegative…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 19 22:58:40 +0000 2020",
+			"id": 1252008744373948400,
+			"id_str": "1252008744373948418",
+			"full_text": "Idiot who lied us right into Iraq lectures us on who to trust with some casual racism mixed in \n\nalso @AriFleischer that’s not a real DS4 https://t.co/VgmwL7KM5n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AriFleischer",
+						"name": "Ari Fleischer",
+						"id": 35218566,
+						"id_str": "35218566",
+						"indices": [
+							102,
+							115
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1252008736396324900,
+						"id_str": "1252008736396324865",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/EWAHT_SWsAEy4NM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWAHT_SWsAEy4NM.jpg",
+						"url": "https://t.co/VgmwL7KM5n",
+						"display_url": "pic.twitter.com/VgmwL7KM5n",
+						"expanded_url": "https://twitter.com/mistermegative/status/1252008744373948418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 827,
+								"h": 1223,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 811,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1252008736396324900,
+						"id_str": "1252008736396324865",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/EWAHT_SWsAEy4NM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWAHT_SWsAEy4NM.jpg",
+						"url": "https://t.co/VgmwL7KM5n",
+						"display_url": "pic.twitter.com/VgmwL7KM5n",
+						"expanded_url": "https://twitter.com/mistermegative/status/1252008744373948418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 827,
+								"h": 1223,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 811,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3048900145,
+				"id_str": "3048900145",
+				"name": "I’m your dad",
+				"screen_name": "mistermegative",
+				"location": "SDGC every Thursday at 9pm EST",
+				"description": "@officialSDGC creator. Magitek Armor Pilot. Been on @Polygon, @gamedailybiz, @IGN, @KindaFunnyVids. Your handsome game dad. He/Him.",
+				"url": "https://t.co/jyrc1jWC50",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jyrc1jWC50",
+								"expanded_url": "http://www.twitch.tv/officialSDGC",
+								"display_url": "twitch.tv/officialSDGC",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11544,
+				"friends_count": 1031,
+				"listed_count": 113,
+				"created_at": "Sat Feb 28 06:25:20 +0000 2015",
+				"favourites_count": 64858,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 126953,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1239410693302038535/Y9PDLz-9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239410693302038535/Y9PDLz-9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3048900145/1579139926",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 151,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sent from an iPhone... https://t.co/uaAIoMW2C3"
+	},
+	{
 		"created_at": "Mon Apr 20 01:09:34 +0000 2020",
 		"id": 1252041687725047800,
 		"id_str": "1252041687725047808",
