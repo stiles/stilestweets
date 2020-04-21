@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 21 03:09:38 +0000 2020",
+		"id": 1252433837532958700,
+		"id_str": "1252434290006061064",
+		"full_text": "@realDonaldTrump Makes perfect sense. Because the international vacationers and business travelers arriving at US airports tomorrow won’t spread the virus; only the “immigrants”.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1252418369170501600,
+		"in_reply_to_status_id_str": "1252418369170501639",
+		"in_reply_to_user_id": 25073877,
+		"in_reply_to_user_id_str": "25073877",
+		"in_reply_to_screen_name": "realDonaldTrump",
+		"user": {
+			"id": 929823128259387400,
+			"id_str": "929823128259387392",
+			"name": "Frank Figliuzzi",
+			"screen_name": "FrankFigliuzzi1",
+			"location": "Tucson, AZ",
+			"description": "Former FBI Assistant Director; NBC News National Security Contributor https://t.co/8xx8pxUPuo @nbcnews @msnbc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8xx8pxUPuo",
+							"expanded_url": "http://www.nbcnews.com",
+							"display_url": "nbcnews.com",
+							"indices": [
+								70,
+								93
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 294651,
+			"friends_count": 2021,
+			"listed_count": 1310,
+			"created_at": "Sun Nov 12 21:28:03 +0000 2017",
+			"favourites_count": 25789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025912490557927424/MVTscPC0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025912490557927424/MVTscPC0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/929823128259387392/1517077576",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 430,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@realDonaldTrump Makes perfect sense. Because the international vacationers and business travelers arriving at US airports tomorrow won’t spread the virus; only the “immigrants”."
+	},
+	{
+		"created_at": "Tue Apr 21 03:00:23 +0000 2020",
+		"id": 1252431963052339200,
+		"id_str": "1252431963052339201",
+		"full_text": "👇👇 https://t.co/2FsK5ehr6e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2FsK5ehr6e",
+					"expanded_url": "https://twitter.com/VictorDCha/status/1252429078574981125",
+					"display_url": "twitter.com/VictorDCha/sta…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11378,
+			"friends_count": 2037,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252429078574981000,
+		"quoted_status_id_str": "1252429078574981125",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2FsK5ehr6e",
+			"expanded": "https://twitter.com/VictorDCha/status/1252429078574981125",
+			"display": "twitter.com/VictorDCha/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 21 02:48:55 +0000 2020",
+			"id": 1252429078574981000,
+			"id_str": "1252429078574981125",
+			"full_text": "Can't yet confirm any of the speculation about KJU. We do know this: 1) the NK leader has vascular problems; 2) he missed 4/15.  All other absences are explainable. Unless we get second and third sources on the story, we're still in the dark, and could be for a while....",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89033164,
+				"id_str": "89033164",
+				"name": "Victor Cha",
+				"screen_name": "VictorDCha",
+				"location": "Washington, DC",
+				"description": "@Georgetownsfs Prof & Vice Dean/@CSIS SeniorAdviser/Author/former USG official/ @NBCNews / 110th Bdwy native/NYGiants/ Views my own/RTs don’t endorse",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18878,
+				"friends_count": 418,
+				"listed_count": 495,
+				"created_at": "Tue Nov 10 21:59:37 +0000 2009",
+				"favourites_count": 885,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2455,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1177837755935543296/iCjKt-GT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177837755935543296/iCjKt-GT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89033164/1503640690",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 115,
+			"favorite_count": 199,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👇👇 https://t.co/2FsK5ehr6e"
+	},
+	{
+		"created_at": "Tue Apr 21 02:59:02 +0000 2020",
+		"id": 1252430031399161900,
+		"id_str": "1252431621191426049",
+		"full_text": "15 deaths in the airline industry in 9 days linked to coronavirus. Why are planes still flying?  https://t.co/XQYZ5tBnrG Read this by @kierafeldman",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kierafeldman",
+					"name": "Kiera Feldman 😷",
+					"id": 184515406,
+					"id_str": "184515406",
+					"indices": [
+						134,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XQYZ5tBnrG",
+					"expanded_url": "https://www.latimes.com/california/story/2020-04-20/coronavirus-deaths-airline-industry-airplanes-flying",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 555433957,
+			"id_str": "555433957",
+			"name": "Brittny Mejia",
+			"screen_name": "brittny_mejia",
+			"location": "",
+			"description": "Metro reporter @latimes. Military brat. Story tips: brittny.mejia@latimes.com Hablo español. Proud Mexican American",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9823,
+			"friends_count": 1979,
+			"listed_count": 283,
+			"created_at": "Mon Apr 16 21:21:58 +0000 2012",
+			"favourites_count": 9177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187106480765276160/WGDtYxLz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187106480765276160/WGDtYxLz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/555433957/1534735787",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "15 deaths in the airline industry in 9 days linked to coronavirus. Why are planes still flying?  https://t.co/XQYZ5tBnrG Read this by @kierafeldman"
+	},
+	{
+		"created_at": "Tue Apr 21 02:51:50 +0000 2020",
+		"id": 1252429811076620300,
+		"id_str": "1252429811076620289",
+		"full_text": "South Korean wire service Yonhap reporting that #KimJongUn is *NOT* seriously ill. \n\nHmmmn...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KimJongUn",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11378,
+			"friends_count": 2037,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "South Korean wire service Yonhap reporting that #KimJongUn is *NOT* seriously ill. \n\nHmmmn..."
+	},
+	{
 		"created_at": "Mon Apr 20 20:31:44 +0000 2020",
 		"id": 1252326234077487000,
 		"id_str": "1252334155095924736",
