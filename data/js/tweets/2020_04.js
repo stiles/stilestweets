@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 21 23:11:08 +0000 2020",
+		"id": 1252736657926701000,
+		"id_str": "1252736657926701056",
+		"full_text": "cc @Robert_E_Kelly!! https://t.co/6UQMUfjn1b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Robert_E_Kelly",
+					"name": "Robert E Kelly",
+					"id": 489218573,
+					"id_str": "489218573",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6UQMUfjn1b",
+					"expanded_url": "https://twitter.com/webjournalist/status/1252677489383571458",
+					"display_url": "twitter.com/webjournalist/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11385,
+			"friends_count": 2040,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252677489383571500,
+		"quoted_status_id_str": "1252677489383571458",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6UQMUfjn1b",
+			"expanded": "https://twitter.com/webjournalist/status/1252677489383571458",
+			"display": "twitter.com/webjournalist/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 21 19:16:01 +0000 2020",
+			"id": 1252677489383571500,
+			"id_str": "1252677489383571458",
+			"full_text": "(I love my Zoom background!) https://t.co/MjiIyhX22N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				28
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MjiIyhX22N",
+						"expanded_url": "https://twitter.com/vanesanchez1509/status/1252676180924338177",
+						"display_url": "twitter.com/vanesanchez150…",
+						"indices": [
+							29,
+							52
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20398450,
+				"id_str": "20398450",
+				"name": "Robert Hernandez",
+				"screen_name": "webjournalist",
+				"location": "Los Angeles, CA",
+				"description": "@USCAnnenberg Digital Profe Plus: @ImmersvShooter #JOVRNALISM #wjchat @NAHJ @PoderosasChicas #HorizontalLoyalty he/him // I live sweat, but I dream light years.",
+				"url": "https://t.co/EE5RZTOHUg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EE5RZTOHUg",
+								"expanded_url": "http://blog.webjournalist.org",
+								"display_url": "blog.webjournalist.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18408,
+				"friends_count": 1721,
+				"listed_count": 1933,
+				"created_at": "Sun Feb 08 22:34:20 +0000 2009",
+				"favourites_count": 3622,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 84226,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250517976958136320/Gp1J7Maf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250517976958136320/Gp1J7Maf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20398450/1420560149",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1252676180924338200,
+			"quoted_status_id_str": "1252676180924338177",
+			"quoted_status_permalink": {
+				"url": "https://t.co/MjiIyhX22N",
+				"expanded": "https://twitter.com/vanesanchez1509/status/1252676180924338177",
+				"display": "twitter.com/vanesanchez150…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc @Robert_E_Kelly!! https://t.co/6UQMUfjn1b"
+	},
+	{
 		"created_at": "Tue Apr 21 21:03:12 +0000 2020",
 		"id": 1252704460029091800,
 		"id_str": "1252704460029091841",
