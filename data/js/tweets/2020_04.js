@@ -1,6 +1,1094 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 01:18:31 +0000 2020",
+		"id": 1252768713809342500,
+		"id_str": "1252768713809342464",
+		"full_text": "Is the Korean peninsula ready for a leader with freckles? https://t.co/dlEfpWDiHK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252768710353252400,
+					"id_str": "1252768710353252352",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EWK6gS5UcAA7LJ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWK6gS5UcAA7LJ1.jpg",
+					"url": "https://t.co/dlEfpWDiHK",
+					"display_url": "pic.twitter.com/dlEfpWDiHK",
+					"expanded_url": "https://twitter.com/stiles/status/1252768713809342464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 992,
+							"h": 992,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 992,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252768710353252400,
+					"id_str": "1252768710353252352",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EWK6gS5UcAA7LJ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWK6gS5UcAA7LJ1.jpg",
+					"url": "https://t.co/dlEfpWDiHK",
+					"display_url": "pic.twitter.com/dlEfpWDiHK",
+					"expanded_url": "https://twitter.com/stiles/status/1252768713809342464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 992,
+							"h": 992,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 992,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11385,
+			"friends_count": 2040,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is the Korean peninsula ready for a leader with freckles? https://t.co/dlEfpWDiHK"
+	},
+	{
+		"created_at": "Wed Apr 22 01:12:50 +0000 2020",
+		"id": 1252766745925873700,
+		"id_str": "1252767284965171200",
+		"full_text": "it's ALWAYS their fault. https://t.co/0IxtySnK71",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252766732432797700,
+					"id_str": "1252766732432797696",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EWK4tKkVcAAU0vp.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWK4tKkVcAAU0vp.png",
+					"url": "https://t.co/0IxtySnK71",
+					"display_url": "pic.twitter.com/0IxtySnK71",
+					"expanded_url": "https://twitter.com/JohnDelury/status/1252766745925873665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1094,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1094,
+							"h": 384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252766732432797700,
+					"id_str": "1252766732432797696",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EWK4tKkVcAAU0vp.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWK4tKkVcAAU0vp.png",
+					"url": "https://t.co/0IxtySnK71",
+					"display_url": "pic.twitter.com/0IxtySnK71",
+					"expanded_url": "https://twitter.com/JohnDelury/status/1252766745925873665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1094,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1094,
+							"h": 384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14906658,
+			"id_str": "14906658",
+			"name": "John Delury",
+			"screen_name": "JohnDelury",
+			"location": "Seoul",
+			"description": "Yonsei University Professor",
+			"url": "https://t.co/3yoK7siWqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3yoK7siWqC",
+							"expanded_url": "http://johndelury.weebly.com/",
+							"display_url": "johndelury.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13483,
+			"friends_count": 1771,
+			"listed_count": 541,
+			"created_at": "Mon May 26 08:20:13 +0000 2008",
+			"favourites_count": 2283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14906658/1582330822",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "it's ALWAYS their fault. https://t.co/0IxtySnK71"
+	},
+	{
+		"created_at": "Wed Apr 22 01:10:07 +0000 2020",
+		"id": 1252272087017771000,
+		"id_str": "1252766599536205825",
+		"full_text": "Attend the 2nd Annual @UCLALuskin Summit Virtually. Register free today at: https://t.co/CK7TEWCOnM. Session #1 is April 22, 2020 at 10 a.m. with Dean @GarySegura &amp; Dean Ron Brookmeyer of @UCLAFSPH on public policy &amp; health responses to the COVID-19 pandemic. https://t.co/M53vzaLwdg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UCLALuskin",
+					"name": "#UCLALuskin",
+					"id": 56750010,
+					"id_str": "56750010",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "GarySegura",
+					"name": "Gary Segura",
+					"id": 796341830,
+					"id_str": "796341830",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"screen_name": "UCLAFSPH",
+					"name": "UCLA Fielding School of Public Health",
+					"id": 19612317,
+					"id_str": "19612317",
+					"indices": [
+						192,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CK7TEWCOnM",
+					"expanded_url": "http://bit.ly/2VGThh8",
+					"display_url": "bit.ly/2VGThh8",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1252271627586334700,
+					"id_str": "1252271627586334720",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252271627586334720/pu/img/nyygcSDA18JqMxg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252271627586334720/pu/img/nyygcSDA18JqMxg7.jpg",
+					"url": "https://t.co/M53vzaLwdg",
+					"display_url": "pic.twitter.com/M53vzaLwdg",
+					"expanded_url": "https://twitter.com/UCLALuskin/status/1252272087017771008/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252271627586334700,
+					"id_str": "1252271627586334720",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252271627586334720/pu/img/nyygcSDA18JqMxg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252271627586334720/pu/img/nyygcSDA18JqMxg7.jpg",
+					"url": "https://t.co/M53vzaLwdg",
+					"display_url": "pic.twitter.com/M53vzaLwdg",
+					"expanded_url": "https://twitter.com/UCLALuskin/status/1252272087017771008/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28362,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252271627586334720/pu/vid/640x360/dQDkhCqEUE7JSk9_.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252271627586334720/pu/vid/480x270/_S2-saQQ-FW1sI4f.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252271627586334720/pu/vid/960x540/nZ96QLV-1TAWNXi5.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1252271627586334720/pu/pl/FD6aYPbZCLv7EceO.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56750010,
+			"id_str": "56750010",
+			"name": "#UCLALuskin",
+			"screen_name": "UCLALuskin",
+			"location": "Los Angeles, CA",
+			"description": "Graduate study in Public Policy, Social Welfare & Urban Planning, plus undergraduate Public Affairs. #Changeagents who advance solutions to society's problems.",
+			"url": "https://t.co/S9EsMPrTAl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S9EsMPrTAl",
+							"expanded_url": "http://luskin.ucla.edu",
+							"display_url": "luskin.ucla.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6757,
+			"friends_count": 1482,
+			"listed_count": 191,
+			"created_at": "Tue Jul 14 17:04:04 +0000 2009",
+			"favourites_count": 14200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074780397412577280/lj7AlzRf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074780397412577280/lj7AlzRf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56750010/1545090346",
+			"profile_link_color": "0051B3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Attend the 2nd Annual @UCLALuskin Summit Virtually. Register free today at: https://t.co/CK7TEWCOnM. Session #1 is April 22, 2020 at 10 a.m. with Dean @GarySegura &amp; Dean Ron Brookmeyer of @UCLAFSPH on public policy &amp; health responses to the COVID-19 pandemic. https://t.co/M53vzaLwdg"
+	},
+	{
+		"created_at": "Wed Apr 22 01:08:30 +0000 2020",
+		"id": 1252765578541936600,
+		"id_str": "1252766191967297536",
+		"full_text": "but she was made an alternate member, not a full member, of the Politburo. and not on the more powerful State Affairs Commission. don't get me wrong, I'm a fan. just sayin' https://t.co/8hwBbXZQ3i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8hwBbXZQ3i",
+					"expanded_url": "https://twitter.com/tinssoldier/status/1252438210459734017",
+					"display_url": "twitter.com/tinssoldier/st…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14906658,
+			"id_str": "14906658",
+			"name": "John Delury",
+			"screen_name": "JohnDelury",
+			"location": "Seoul",
+			"description": "Yonsei University Professor",
+			"url": "https://t.co/3yoK7siWqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3yoK7siWqC",
+							"expanded_url": "http://johndelury.weebly.com/",
+							"display_url": "johndelury.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13483,
+			"friends_count": 1771,
+			"listed_count": 541,
+			"created_at": "Mon May 26 08:20:13 +0000 2008",
+			"favourites_count": 2283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14906658/1582330822",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252438210459734000,
+		"quoted_status_id_str": "1252438210459734017",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8hwBbXZQ3i",
+			"expanded": "https://twitter.com/tinssoldier/status/1252438210459734017",
+			"display": "twitter.com/tinssoldier/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 21 03:25:13 +0000 2020",
+			"id": 1252438210459734000,
+			"id_str": "1252438210459734017",
+			"full_text": "Here's the latest on Kim Jong Un: https://t.co/daHVt3bCQm\n\nAnd luckily he has a trusted sister who just recently got placed back into North Korea's powerful decision-making body, the Politburo.  https://t.co/9SH5Ent7XQ https://t.co/Pv1iGlkVQ8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/daHVt3bCQm",
+						"expanded_url": "https://www.bloomberg.com/news/articles/2020-04-21/kim-surgery-report-fuels-speculation-about-north-korean-leader?srnd=premium-asia&sref=4ZGeBqkb",
+						"display_url": "bloomberg.com/news/articles/…",
+						"indices": [
+							34,
+							57
+						]
+					},
+					{
+						"url": "https://t.co/9SH5Ent7XQ",
+						"expanded_url": "https://www.bloomberg.com/news/articles/2020-04-13/kim-raises-sister-s-profile-with-north-korean-politburo-post?srnd=premium-asia&sref=4ZGeBqkb",
+						"display_url": "bloomberg.com/news/articles/…",
+						"indices": [
+							195,
+							218
+						]
+					},
+					{
+						"url": "https://t.co/Pv1iGlkVQ8",
+						"expanded_url": "https://twitter.com/JenniferJJacobs/status/1252426687318384640",
+						"display_url": "twitter.com/JenniferJJacob…",
+						"indices": [
+							219,
+							242
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38417508,
+				"id_str": "38417508",
+				"name": "Kristine Servando",
+				"screen_name": "tinssoldier",
+				"location": "Hong Kong",
+				"description": "Deputy head, Asia digital at Bloomberg. Lurking around @business and @BloombergAsia. Opinions mine, aaalll mine and RTs not endorsements. Puns are intended.",
+				"url": "https://t.co/BMqVTK2mLb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BMqVTK2mLb",
+								"expanded_url": "http://bloomberg.com/asia",
+								"display_url": "bloomberg.com/asia",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4783,
+				"friends_count": 3766,
+				"listed_count": 224,
+				"created_at": "Thu May 07 12:05:59 +0000 2009",
+				"favourites_count": 1372,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21693,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "07090B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1233719543144443904/gfF9ssnm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233719543144443904/gfF9ssnm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38417508/1443002989",
+				"profile_link_color": "C34242",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C9C9C9",
+				"profile_text_color": "1C1F23",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1252426687318384600,
+			"quoted_status_id_str": "1252426687318384640",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Pv1iGlkVQ8",
+				"expanded": "https://twitter.com/JenniferJJacobs/status/1252426687318384640",
+				"display": "twitter.com/JenniferJJacob…"
+			},
+			"retweet_count": 39,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "but she was made an alternate member, not a full member, of the Politburo. and not on the more powerful State Affairs Commission. don't get me wrong, I'm a fan. just sayin' https://t.co/8hwBbXZQ3i"
+	},
+	{
+		"created_at": "Wed Apr 22 01:08:07 +0000 2020",
+		"id": 1252765847518539800,
+		"id_str": "1252766095154360320",
+		"full_text": "how many officials said this and is it the same dude @jimsciutto talked to? https://t.co/GWbvvXtIOl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimsciutto",
+					"name": "Jim Sciutto",
+					"id": 22129280,
+					"id_str": "22129280",
+					"indices": [
+						53,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GWbvvXtIOl",
+					"expanded_url": "https://twitter.com/JenniferJJacobs/status/1252426458863026177",
+					"display_url": "twitter.com/JenniferJJacob…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14906658,
+			"id_str": "14906658",
+			"name": "John Delury",
+			"screen_name": "JohnDelury",
+			"location": "Seoul",
+			"description": "Yonsei University Professor",
+			"url": "https://t.co/3yoK7siWqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3yoK7siWqC",
+							"expanded_url": "http://johndelury.weebly.com/",
+							"display_url": "johndelury.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13483,
+			"friends_count": 1771,
+			"listed_count": 541,
+			"created_at": "Mon May 26 08:20:13 +0000 2008",
+			"favourites_count": 2283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14906658/1582330822",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252426458863026200,
+		"quoted_status_id_str": "1252426458863026177",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GWbvvXtIOl",
+			"expanded": "https://twitter.com/JenniferJJacobs/status/1252426458863026177",
+			"display": "twitter.com/JenniferJJacob…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 21 02:38:31 +0000 2020",
+			"id": 1252426458863026200,
+			"id_str": "1252426458863026177",
+			"full_text": "NEW: Trump admin received information that Kim Jong Un had heart surgery last week and if he's alive, his health is poor, I'm told. KJU hasn't been seen at key events in recent days. It's unclear to US officials if he's dead or alive. (CNN 1st reported his condition's grave.)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15433452,
+				"id_str": "15433452",
+				"name": "Jennifer Jacobs",
+				"screen_name": "JenniferJJacobs",
+				"location": "Washington, DC",
+				"description": "Sr. White House reporter for Bloomberg News / @business. Reporting what I know, not what I think. jjacobs68@bloomberg.net 💕Iowa",
+				"url": "https://t.co/ZoK9ipPasX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZoK9ipPasX",
+								"expanded_url": "http://www.bloomberg.com/politics/",
+								"display_url": "bloomberg.com/politics/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 184057,
+				"friends_count": 36973,
+				"listed_count": 3861,
+				"created_at": "Mon Jul 14 22:44:34 +0000 2008",
+				"favourites_count": 1857,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 47508,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/739446068589563904/nEs68qdk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/739446068589563904/nEs68qdk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15433452/1468026333",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2753,
+			"favorite_count": 5298,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "how many officials said this and is it the same dude @jimsciutto talked to? https://t.co/GWbvvXtIOl"
+	},
+	{
 		"created_at": "Tue Apr 21 23:11:08 +0000 2020",
 		"id": 1252736657926701000,
 		"id_str": "1252736657926701056",
