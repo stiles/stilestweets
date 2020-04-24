@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 06:21:37 +0000 2020",
+		"id": 1253569766201024500,
+		"id_str": "1253569766201024512",
+		"full_text": "In case you weren't sure ... https://t.co/garzPIDOwJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/garzPIDOwJ",
+					"expanded_url": "https://twitter.com/waEMD/status/1253473167017865216",
+					"display_url": "twitter.com/waEMD/status/1…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11384,
+			"friends_count": 2039,
+			"listed_count": 876,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253473167017865200,
+		"quoted_status_id_str": "1253473167017865216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/garzPIDOwJ",
+			"expanded": "https://twitter.com/waEMD/status/1253473167017865216",
+			"display": "twitter.com/waEMD/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 23 23:57:46 +0000 2020",
+			"id": 1253473167017865200,
+			"id_str": "1253473167017865216",
+			"full_text": "Please don't eat tide pods or inject yourself with any kind of disinfectant. \n\nIf you do need help with #COVID19 issues, we have lots of resources at https://t.co/C4x8jjWL0x \n\nJust don't make a bad situation worse.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							104,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/C4x8jjWL0x",
+						"expanded_url": "https://coronavirus.wa.gov/",
+						"display_url": "coronavirus.wa.gov",
+						"indices": [
+							150,
+							173
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31078404,
+				"id_str": "31078404",
+				"name": "WA Emergency Management",
+				"screen_name": "waEMD",
+				"location": "Camp Murray, Wash.",
+				"description": "Official site of Washington Military Department and its Emergency Management Division. Content Guidelines: https://t.co/rBSGrTFB7m Not here 24/7. #wawx #EMGTwitter",
+				"url": "https://t.co/nVao47yVIo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nVao47yVIo",
+								"expanded_url": "http://coronavirus.wa.gov/",
+								"display_url": "coronavirus.wa.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rBSGrTFB7m",
+								"expanded_url": "http://go.usa.gov/xycSu",
+								"display_url": "go.usa.gov/xycSu",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 32226,
+				"friends_count": 2048,
+				"listed_count": 939,
+				"created_at": "Tue Apr 14 07:17:50 +0000 2009",
+				"favourites_count": 7314,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12587,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "536325",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1210567292037124102/QR7t7uza_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210567292037124102/QR7t7uza_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31078404/1512754417",
+				"profile_link_color": "003366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDEAC0",
+				"profile_text_color": "294C0C",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 616,
+			"favorite_count": 1397,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you weren't sure ... https://t.co/garzPIDOwJ"
+	},
+	{
 		"created_at": "Fri Apr 24 04:29:08 +0000 2020",
 		"id": 1253541460906963000,
 		"id_str": "1253541460906962949",
