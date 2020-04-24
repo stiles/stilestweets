@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 14:55:11 +0000 2020",
+		"id": 1253642786152149000,
+		"id_str": "1253699011841650693",
+		"full_text": "I long for the days of tan suit outrage. https://t.co/HCXuW4KvhP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253642782343721000,
+					"id_str": "1253642782343720960",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EWXVd-zUcAAuyPF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWXVd-zUcAAuyPF.jpg",
+					"url": "https://t.co/HCXuW4KvhP",
+					"display_url": "pic.twitter.com/HCXuW4KvhP",
+					"expanded_url": "https://twitter.com/hilaryluros/status/1253642786152148992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253642782343721000,
+					"id_str": "1253642782343720960",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EWXVd-zUcAAuyPF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWXVd-zUcAAuyPF.jpg",
+					"url": "https://t.co/HCXuW4KvhP",
+					"display_url": "pic.twitter.com/HCXuW4KvhP",
+					"expanded_url": "https://twitter.com/hilaryluros/status/1253642786152148992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21704309,
+			"id_str": "21704309",
+			"name": "Hil.i.am",
+			"screen_name": "hilaryluros",
+			"location": "United States",
+			"description": "Wife, mom, and lawyer. Also, fruit pie, cookie, and fabulous shoes enthusiast. Wonder Woman and I have never been in the same room simultaneously. Just sayin'.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28837,
+			"friends_count": 20751,
+			"listed_count": 33,
+			"created_at": "Mon Feb 23 22:55:53 +0000 2009",
+			"favourites_count": 137943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231692950616211457/CcYMDns-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231692950616211457/CcYMDns-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21704309/1561229704",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 159,
+		"favorite_count": 2122,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I long for the days of tan suit outrage. https://t.co/HCXuW4KvhP"
+	},
+	{
 		"created_at": "Fri Apr 24 06:21:37 +0000 2020",
 		"id": 1253569766201024500,
 		"id_str": "1253569766201024512",
