@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 18:09:22 +0000 2020",
+		"id": 1253747879753052200,
+		"id_str": "1253747879753052160",
+		"full_text": "Close your eyes and listen. Amazing... https://t.co/iSiggeo5Nn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iSiggeo5Nn",
+					"expanded_url": "https://twitter.com/digg/status/1253738718281830401",
+					"display_url": "twitter.com/digg/status/12…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11385,
+			"friends_count": 2041,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253738718281830400,
+		"quoted_status_id_str": "1253738718281830401",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iSiggeo5Nn",
+			"expanded": "https://twitter.com/digg/status/1253738718281830401",
+			"display": "twitter.com/digg/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 24 17:32:58 +0000 2020",
+			"id": 1253738718281830400,
+			"id_str": "1253738718281830401",
+			"full_text": "Trump impersonator @JLCauvin wants to clear some things up about that whole \"disinfectant\" situation: https://t.co/PdNdtfLj5z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JLCauvin",
+						"name": "J-L Cauvin",
+						"id": 20944153,
+						"id_str": "20944153",
+						"indices": [
+							19,
+							28
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1253737158927581200,
+						"id_str": "1253737158927581186",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253737158927581186/pu/img/l8WQUcHgxG3tf8x2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253737158927581186/pu/img/l8WQUcHgxG3tf8x2.jpg",
+						"url": "https://t.co/PdNdtfLj5z",
+						"display_url": "pic.twitter.com/PdNdtfLj5z",
+						"expanded_url": "https://twitter.com/digg/status/1253738718281830401/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1253737158927581200,
+						"id_str": "1253737158927581186",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253737158927581186/pu/img/l8WQUcHgxG3tf8x2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253737158927581186/pu/img/l8WQUcHgxG3tf8x2.jpg",
+						"url": "https://t.co/PdNdtfLj5z",
+						"display_url": "pic.twitter.com/PdNdtfLj5z",
+						"expanded_url": "https://twitter.com/digg/status/1253738718281830401/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 112722,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253737158927581186/pu/vid/360x640/7GvzuMTrc3tfkvsA.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1253737158927581186/pu/pl/-GfGsYHhjit6wPz2.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253737158927581186/pu/vid/720x1280/Zt7RTfm0TEzVuEHy.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253737158927581186/pu/vid/320x568/pr2EFcAk7PB8qllG.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15163466,
+				"id_str": "15163466",
+				"name": "Digg",
+				"screen_name": "digg",
+				"location": "The Internet",
+				"description": "What the Internet is talking about. Right now. tip@digg.com",
+				"url": "https://t.co/mi8a8s3aaV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mi8a8s3aaV",
+								"expanded_url": "http://digg.com",
+								"display_url": "digg.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1314017,
+				"friends_count": 285,
+				"listed_count": 12067,
+				"created_at": "Wed Jun 18 22:50:45 +0000 2008",
+				"favourites_count": 4015,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 86388,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/821497455128834049/JxTmtUSB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/821497455128834049/JxTmtUSB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15163466/1586453405",
+				"profile_link_color": "00A5E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 420,
+			"favorite_count": 1077,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Close your eyes and listen. Amazing... https://t.co/iSiggeo5Nn"
+	},
+	{
 		"created_at": "Fri Apr 24 14:55:11 +0000 2020",
 		"id": 1253642786152149000,
 		"id_str": "1253699011841650693",
