@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 01:22:58 +0000 2020",
+		"id": 1253491370892943400,
+		"id_str": "1253494610631917569",
+		"full_text": "This is really something. https://t.co/BPiBfY2LWi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BPiBfY2LWi",
+					"expanded_url": "https://twitter.com/nc5philwilliams/status/1253487743046385670",
+					"display_url": "twitter.com/nc5philwilliam…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55948054,
+			"id_str": "55948054",
+			"name": "Matthew Miller",
+			"screen_name": "matthewamiller",
+			"location": "Washington, DC",
+			"description": "Partner @VianovoLP. MSNBC Justice & Security Analyst. Recovering flack from DOJ, the Senate, and too many campaigns to count.",
+			"url": "https://t.co/BLfP5TzgoB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BLfP5TzgoB",
+							"expanded_url": "http://vianovo.com/team/matthew-miller",
+							"display_url": "vianovo.com/team/matthew-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390377,
+			"friends_count": 506,
+			"listed_count": 3524,
+			"created_at": "Sat Jul 11 22:28:45 +0000 2009",
+			"favourites_count": 12563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130525676765949952/IBeJ-JTQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130525676765949952/IBeJ-JTQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55948054/1496062385",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253487743046385700,
+		"quoted_status_id_str": "1253487743046385670",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BPiBfY2LWi",
+			"expanded": "https://twitter.com/nc5philwilliams/status/1253487743046385670",
+			"display": "twitter.com/nc5philwilliam…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 24 00:55:41 +0000 2020",
+			"id": 1253487743046385700,
+			"id_str": "1253487743046385670",
+			"full_text": "Take Camera 2  https://t.co/mV9oQAnExm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1253482298458214400,
+						"id_str": "1253482298458214400",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253482298458214400/pu/img/HWJVOrq5lK8Aa0Mu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253482298458214400/pu/img/HWJVOrq5lK8Aa0Mu.jpg",
+						"url": "https://t.co/mV9oQAnExm",
+						"display_url": "pic.twitter.com/mV9oQAnExm",
+						"expanded_url": "https://twitter.com/Daniel_Lewis3/status/1253482576699969537/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1253482576699969500,
+						"source_status_id_str": "1253482576699969537",
+						"source_user_id": 861174739,
+						"source_user_id_str": "861174739"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1253482298458214400,
+						"id_str": "1253482298458214400",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253482298458214400/pu/img/HWJVOrq5lK8Aa0Mu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253482298458214400/pu/img/HWJVOrq5lK8Aa0Mu.jpg",
+						"url": "https://t.co/mV9oQAnExm",
+						"display_url": "pic.twitter.com/mV9oQAnExm",
+						"expanded_url": "https://twitter.com/Daniel_Lewis3/status/1253482576699969537/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1253482576699969500,
+						"source_status_id_str": "1253482576699969537",
+						"source_user_id": 861174739,
+						"source_user_id_str": "861174739",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 50183,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1253482298458214400/pu/pl/deESscv6EVV9sGIN.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253482298458214400/pu/vid/480x270/te0FoisOrLCowZfi.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253482298458214400/pu/vid/1280x720/mVCBZXbRQ06wHzzx.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1253482298458214400/pu/vid/640x360/TK1aDMKBSTEBBFO4.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 861174739,
+								"id_str": "861174739",
+								"name": "Daniel Lewis",
+								"screen_name": "Daniel_Lewis3",
+								"location": "Atlanta",
+								"description": "Producer for CNN Digital Video - Retweets do not equal endorsements",
+								"url": "https://t.co/Tv7vpPDuiA",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/Tv7vpPDuiA",
+												"expanded_url": "http://www.cnn.com/profiles/daniel-lewis-profile",
+												"display_url": "cnn.com/profiles/danie…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1708,
+								"friends_count": 1711,
+								"listed_count": 27,
+								"created_at": "Thu Oct 04 10:16:58 +0000 2012",
+								"favourites_count": 1303,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1894,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/591673463368196096/8LH7JNIr_normal.png",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/591673463368196096/8LH7JNIr_normal.png",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/861174739/1485639085",
+								"profile_link_color": "E81C4F",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1253481209553981400,
+			"in_reply_to_status_id_str": "1253481209553981440",
+			"in_reply_to_user_id": 180094762,
+			"in_reply_to_user_id_str": "180094762",
+			"in_reply_to_screen_name": "NC5PhilWilliams",
+			"user": {
+				"id": 180094762,
+				"id_str": "180094762",
+				"name": "Phil Williams",
+				"screen_name": "NC5PhilWilliams",
+				"location": "Nashville, TN",
+				"description": "Chief investigative reporter, WTVF, @NC5. Recipient: duPont, Peabody, Polk awards. Pulitzer finalist. SEND TIPS: phil.williams@newschannel5.com",
+				"url": "https://t.co/92fnJFpTGq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/92fnJFpTGq",
+								"expanded_url": "http://www.newschannel5.com",
+								"display_url": "newschannel5.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14760,
+				"friends_count": 2429,
+				"listed_count": 335,
+				"created_at": "Wed Aug 18 20:42:46 +0000 2010",
+				"favourites_count": 7235,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17906,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804324547918987264/6rY9h-MY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804324547918987264/6rY9h-MY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180094762/1431798951",
+				"profile_link_color": "750000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3440,
+			"favorite_count": 7559,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1549,
+		"favorite_count": 4526,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is really something. https://t.co/BPiBfY2LWi"
+	},
+	{
 		"created_at": "Thu Apr 23 18:24:39 +0000 2020",
 		"id": 1253389337871302700,
 		"id_str": "1253389337871302657",
