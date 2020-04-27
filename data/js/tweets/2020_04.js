@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 26 23:41:44 +0000 2020",
+		"id": 1253693151409246200,
+		"id_str": "1254556299443879937",
+		"full_text": "Thought I’d draw a more accurate calendar for 2020 so far.... https://t.co/hWB9W4PIAH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253693145629503500,
+					"id_str": "1253693145629503489",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EWYDRgqWsAE1yLM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWYDRgqWsAE1yLM.jpg",
+					"url": "https://t.co/hWB9W4PIAH",
+					"display_url": "pic.twitter.com/hWB9W4PIAH",
+					"expanded_url": "https://twitter.com/chazhutton/status/1253693151409246210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253693145629503500,
+					"id_str": "1253693145629503489",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EWYDRgqWsAE1yLM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWYDRgqWsAE1yLM.jpg",
+					"url": "https://t.co/hWB9W4PIAH",
+					"display_url": "pic.twitter.com/hWB9W4PIAH",
+					"expanded_url": "https://twitter.com/chazhutton/status/1253693151409246210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43644872,
+			"id_str": "43644872",
+			"name": "Chaz Hutton",
+			"screen_name": "chazhutton",
+			"location": "Berlin, Germany",
+			"description": "Professional Idiot. The guy who draws https://t.co/kHhzu4T55V You can also buy prints here: https://t.co/98ri7T85so",
+			"url": "https://t.co/WNYOtHb959",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNYOtHb959",
+							"expanded_url": "http://patreon.com/ChazHutton",
+							"display_url": "patreon.com/ChazHutton",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kHhzu4T55V",
+							"expanded_url": "https://Instagram.com/instachaaz/",
+							"display_url": "Instagram.com/instachaaz/",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/98ri7T85so",
+							"expanded_url": "https://prinstachaaz.com/",
+							"display_url": "prinstachaaz.com",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18051,
+			"friends_count": 2468,
+			"listed_count": 212,
+			"created_at": "Sun May 31 05:00:59 +0000 2009",
+			"favourites_count": 14641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/784018366960984064/Hl3aIJA3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/784018366960984064/Hl3aIJA3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43644872/1472635324",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69290,
+		"favorite_count": 266210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thought I’d draw a more accurate calendar for 2020 so far.... https://t.co/hWB9W4PIAH"
+	},
+	{
 		"created_at": "Sun Apr 26 03:34:07 +0000 2020",
 		"id": 1254252391517446100,
 		"id_str": "1254252391517446144",
