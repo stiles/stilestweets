@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 17:41:41 +0000 2020",
+		"id": 1255182277736370200,
+		"id_str": "1255190465193799681",
+		"full_text": "This visualization of the drop in air travel for California and beyond is so well done. Kudos, @stiles @TerryCastleman #COVID19 https://t.co/pfnWKIfZwn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"screen_name": "TerryCastleman",
+					"name": "Terry Castleman",
+					"id": 832706098977132500,
+					"id_str": "832706098977132545",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pfnWKIfZwn",
+					"expanded_url": "https://twitter.com/stiles/status/1255179231245398018",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1482619262,
+			"id_str": "1482619262",
+			"name": "Taylor Garland",
+			"screen_name": "atgarland",
+			"location": "Washington, DC",
+			"description": "Flying through life with @afa_cwa. 📍DCA",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 819,
+			"friends_count": 1103,
+			"listed_count": 16,
+			"created_at": "Tue Jun 04 15:55:37 +0000 2013",
+			"favourites_count": 3154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080808",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243359268855783424/_njo_N6D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243359268855783424/_njo_N6D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482619262/1560120285",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255179231245398000,
+		"quoted_status_id_str": "1255179231245398018",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pfnWKIfZwn",
+			"expanded": "https://twitter.com/stiles/status/1255179231245398018",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 28 16:57:03 +0000 2020",
+			"id": 1255179231245398000,
+			"id_str": "1255179231245398018",
+			"full_text": "47 days ago @TerryCastleman slacked me this question: \"have you seen anything detailing fewer flights in and out of LAX? ... it feels like there are fewer planes in the air but i can't back it up\"\n \nNow we can! My latest on the virus and air travel:  https://t.co/Fjvu0ksbr6 https://t.co/2D5zmZhl7O",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TerryCastleman",
+						"name": "Terry Castleman",
+						"id": 832706098977132500,
+						"id_str": "832706098977132545",
+						"indices": [
+							12,
+							27
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Fjvu0ksbr6",
+						"expanded_url": "https://www.latimes.com/projects/california-coronavirus-travel-tracking-decline",
+						"display_url": "latimes.com/projects/calif…",
+						"indices": [
+							251,
+							274
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1255172332005412900,
+						"id_str": "1255172332005412865",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWtElfUU0AEcPuV.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWtElfUU0AEcPuV.jpg",
+						"url": "https://t.co/2D5zmZhl7O",
+						"display_url": "pic.twitter.com/2D5zmZhl7O",
+						"expanded_url": "https://twitter.com/stiles/status/1255179231245398018/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 240,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1255172332005412900,
+						"id_str": "1255172332005412865",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWtElfUU0AEcPuV.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWtElfUU0AEcPuV.jpg",
+						"url": "https://t.co/2D5zmZhl7O",
+						"display_url": "pic.twitter.com/2D5zmZhl7O",
+						"expanded_url": "https://twitter.com/stiles/status/1255179231245398018/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 240,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EWtElfUU0AEcPuV.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles",
+				"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11395,
+				"friends_count": 2046,
+				"listed_count": 877,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 8084,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15520,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+				"profile_link_color": "B12E35",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "This visualization of the drop in air travel for California and beyond is so well done. Kudos, @stiles @TerryCastleman #COVID19 https://t.co/pfnWKIfZwn"
+	},
+	{
 		"created_at": "Tue Apr 28 16:57:30 +0000 2020",
 		"id": 1255176232162877400,
 		"id_str": "1255179344160280576",
