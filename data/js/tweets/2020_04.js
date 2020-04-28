@@ -1,6 +1,118 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 22:07:18 +0000 2020",
+		"id": 1255257010548981800,
+		"id_str": "1255257307103059968",
+		"full_text": "@Sammy_Roth @stiles @TerryCastleman Is that like close to a 90% reduction, straight wow numbers",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sammy_Roth",
+					"name": "Sammy Roth",
+					"id": 390842981,
+					"id_str": "390842981",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"screen_name": "TerryCastleman",
+					"name": "Terry Castleman",
+					"id": 832706098977132500,
+					"id_str": "832706098977132545",
+					"indices": [
+						20,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.tweetiumapp.com\" rel=\"nofollow\">Tweetium for Windows</a>",
+		"in_reply_to_status_id": 1255255792581783600,
+		"in_reply_to_status_id_str": "1255255792581783558",
+		"in_reply_to_user_id": 390842981,
+		"in_reply_to_user_id_str": "390842981",
+		"in_reply_to_screen_name": "Sammy_Roth",
+		"user": {
+			"id": 301470371,
+			"id_str": "301470371",
+			"name": "lee tippett",
+			"screen_name": "leetippett",
+			"location": "Florida",
+			"description": "Interests - Gardening, Food and Peak Oil",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 441,
+			"listed_count": 3,
+			"created_at": "Thu May 19 14:38:26 +0000 2011",
+			"favourites_count": 3274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1362750634/lee_5-20-11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362750634/lee_5-20-11_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@Sammy_Roth @stiles @TerryCastleman Is that like close to a 90% reduction, straight wow numbers"
+	},
+	{
 		"created_at": "Tue Apr 28 20:23:10 +0000 2020",
 		"id": 1255231103419535400,
 		"id_str": "1255231103419535362",
