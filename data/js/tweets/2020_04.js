@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 15:00:30 +0000 2020",
+		"id": 1255149782034595800,
+		"id_str": "1255149901614215169",
+		"full_text": "Categorical Feature https://t.co/eZ2bbpDzwV https://t.co/tOct34htpI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eZ2bbpDzwV",
+					"expanded_url": "https://machinelearningflashcards.com",
+					"display_url": "machinelearningflashcards.com",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255149780340113400,
+					"id_str": "1255149780340113414",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EWswEz0VAAYdK5z.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWswEz0VAAYdK5z.png",
+					"url": "https://t.co/tOct34htpI",
+					"display_url": "pic.twitter.com/tOct34htpI",
+					"expanded_url": "https://twitter.com/chrisalbon/status/1255149782034595845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255149780340113400,
+					"id_str": "1255149780340113414",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EWswEz0VAAYdK5z.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWswEz0VAAYdK5z.png",
+					"url": "https://t.co/tOct34htpI",
+					"display_url": "pic.twitter.com/tOct34htpI",
+					"expanded_url": "https://twitter.com/chrisalbon/status/1255149782034595845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://chrisalbon.com\" rel=\"nofollow\">Machine Learning Flashcards</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11518572,
+			"id_str": "11518572",
+			"name": "Chris Albon",
+			"screen_name": "chrisalbon",
+			"location": "San Francisco",
+			"description": "Looking for work. Led Data Science @DevotedHealth. Created https://t.co/Kcpr3kjkOn. Wrote Machine Learning with Python Cookbook. Cofounded @TheRealYonder.",
+			"url": "https://t.co/CQhzAA24cn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CQhzAA24cn",
+							"expanded_url": "http://ChrisAlbon.com",
+							"display_url": "ChrisAlbon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Kcpr3kjkOn",
+							"expanded_url": "http://MachineLearningFlashcards.com",
+							"display_url": "MachineLearningFlashcards.com",
+							"indices": [
+								59,
+								82
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44883,
+			"friends_count": 765,
+			"listed_count": 1542,
+			"created_at": "Wed Dec 26 01:49:09 +0000 2007",
+			"favourites_count": 15068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFF9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736992518110224384/fmqQxFEr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736992518110224384/fmqQxFEr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11518572/1503261622",
+			"profile_link_color": "DC3422",
+			"profile_sidebar_border_color": "BFBFBE",
+			"profile_sidebar_fill_color": "DEDED8",
+			"profile_text_color": "2A2C2B",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Categorical Feature https://t.co/eZ2bbpDzwV https://t.co/tOct34htpI"
+	},
+	{
 		"created_at": "Sun Apr 26 23:41:44 +0000 2020",
 		"id": 1253693151409246200,
 		"id_str": "1254556299443879937",
