@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 18:33:26 +0000 2020",
+		"id": 1255203486444081200,
+		"id_str": "1255203486444081153",
+		"full_text": "These are the only slip-on @VANS_66 shoes I can find on Amazon. I'm learning to live with home schooling and working from home and wearing masks when venturing out. \n\nBut this is just too much, y'all... https://t.co/IAeqVCXh2Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VANS_66",
+					"name": "Vans",
+					"id": 15383636,
+					"id_str": "15383636",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255202187476533200,
+					"id_str": "1255202187476533250",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EWtfvTnVAAII0TH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWtfvTnVAAII0TH.jpg",
+					"url": "https://t.co/IAeqVCXh2Y",
+					"display_url": "pic.twitter.com/IAeqVCXh2Y",
+					"expanded_url": "https://twitter.com/stiles/status/1255203486444081153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 912,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 912,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255202187476533200,
+					"id_str": "1255202187476533250",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EWtfvTnVAAII0TH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWtfvTnVAAII0TH.jpg",
+					"url": "https://t.co/IAeqVCXh2Y",
+					"display_url": "pic.twitter.com/IAeqVCXh2Y",
+					"expanded_url": "https://twitter.com/stiles/status/1255203486444081153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 912,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 912,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California. I ❤️ data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11393,
+			"friends_count": 2046,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These are the only slip-on @VANS_66 shoes I can find on Amazon. I'm learning to live with home schooling and working from home and wearing masks when venturing out. \n\nBut this is just too much, y'all... https://t.co/IAeqVCXh2Y"
+	},
+	{
 		"created_at": "Tue Apr 28 17:41:41 +0000 2020",
 		"id": 1255182277736370200,
 		"id_str": "1255190465193799681",
