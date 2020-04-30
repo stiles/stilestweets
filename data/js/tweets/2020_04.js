@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 03:46:59 +0000 2020",
+		"id": 1255704495624818700,
+		"id_str": "1255705181687169024",
+		"full_text": "It's really stunning how many more people are dying in California in 2020 -- and we still don't know how many from coronavirus. The number could be MUCH higher than officials count, @stiles analysis of CDC data shows https://t.co/sqLFMRV80t https://t.co/wVO3zaqKDl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sqLFMRV80t",
+					"expanded_url": "https://www.latimes.com/california/story/2020-04-29/coronavirus-california-death-toll-higher",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255704169131868200,
+					"id_str": "1255704169131868160",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EW0oSfAVAAAId5G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW0oSfAVAAAId5G.jpg",
+					"url": "https://t.co/wVO3zaqKDl",
+					"display_url": "pic.twitter.com/wVO3zaqKDl",
+					"expanded_url": "https://twitter.com/shelbygrad/status/1255704495624818689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 952,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 952,
+							"h": 388,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 277,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255704169131868200,
+					"id_str": "1255704169131868160",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EW0oSfAVAAAId5G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW0oSfAVAAAId5G.jpg",
+					"url": "https://t.co/wVO3zaqKDl",
+					"display_url": "pic.twitter.com/wVO3zaqKDl",
+					"expanded_url": "https://twitter.com/shelbygrad/status/1255704495624818689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 952,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 952,
+							"h": 388,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 277,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14827461,
+			"id_str": "14827461",
+			"name": "Shelby Grad",
+			"screen_name": "shelbygrad",
+			"location": "🌴Los Angeles💥",
+			"description": "Deputy Managing Editor at @latimes.",
+			"url": "https://t.co/emWaPa3SBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emWaPa3SBu",
+							"expanded_url": "http://www.latimes.com/california",
+							"display_url": "latimes.com/california",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14552,
+			"friends_count": 1019,
+			"listed_count": 520,
+			"created_at": "Mon May 19 02:25:01 +0000 2008",
+			"favourites_count": 6538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14827461/1583199878",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's really stunning how many more people are dying in California in 2020 -- and we still don't know how many from coronavirus. The number could be MUCH higher than officials count, @stiles analysis of CDC data shows https://t.co/sqLFMRV80t https://t.co/wVO3zaqKDl"
+	},
+	{
 		"created_at": "Thu Apr 30 01:03:56 +0000 2020",
 		"id": 1255664147410215000,
 		"id_str": "1255664147410214912",
