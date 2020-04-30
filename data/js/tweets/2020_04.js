@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 00:19:59 +0000 2020",
+		"id": 1255646725383041000,
+		"id_str": "1255653087433289728",
+		"full_text": "Harrison Ford does....not seem like a good pilot, historically. https://t.co/z8yIuTASgk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z8yIuTASgk",
+					"expanded_url": "https://twitter.com/cnn/status/1255529178411274246",
+					"display_url": "twitter.com/cnn/status/125…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12750422,
+			"id_str": "12750422",
+			"name": "Ken Schwencke",
+			"screen_name": "schwanksta",
+			"location": "Brooklyn, NY",
+			"description": "Journalist and programmer. Editor of @propublica's news apps team. Formerly @nytimes @latimes. Super gay. he/him. ken.schwencke@propublica.org",
+			"url": "https://t.co/eSYPBvh2hY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSYPBvh2hY",
+							"expanded_url": "http://schwanksta.com",
+							"display_url": "schwanksta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6673,
+			"friends_count": 1588,
+			"listed_count": 440,
+			"created_at": "Sun Jan 27 14:45:10 +0000 2008",
+			"favourites_count": 13720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E9F4F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981628800797741057/KwWEFOeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981628800797741057/KwWEFOeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12750422/1485373091",
+			"profile_link_color": "FF5443",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255529178411274200,
+		"quoted_status_id_str": "1255529178411274246",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z8yIuTASgk",
+			"expanded": "https://twitter.com/cnn/status/1255529178411274246",
+			"display": "twitter.com/cnn/status/125…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 29 16:07:37 +0000 2020",
+			"id": 1255529178411274200,
+			"id_str": "1255529178411274246",
+			"full_text": "Actor and longtime aviation enthusiast Harrison Ford was piloting a plane at the Hawthorne Airport in Los Angeles on April 24 when he crossed a runway where another aircraft was landing. https://t.co/bmAFHbfTX6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bmAFHbfTX6",
+						"expanded_url": "https://cnn.it/2KLpRtq",
+						"display_url": "cnn.it/2KLpRtq",
+						"indices": [
+							187,
+							210
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759251,
+				"id_str": "759251",
+				"name": "CNN",
+				"screen_name": "CNN",
+				"location": "",
+				"description": "It’s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK  & Download our app https://t.co/UCHG9M367J",
+				"url": "http://t.co/IaghNW8Xm2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IaghNW8Xm2",
+								"expanded_url": "http://www.cnn.com",
+								"display_url": "cnn.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UCHG9M367J",
+								"expanded_url": "http://cnn.com/apps",
+								"display_url": "cnn.com/apps",
+								"indices": [
+									135,
+									158
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 47731271,
+				"friends_count": 1106,
+				"listed_count": 145864,
+				"created_at": "Fri Feb 09 00:35:02 +0000 2007",
+				"favourites_count": 1429,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 298065,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "323232",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1564637377",
+				"profile_link_color": "004287",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 564,
+			"favorite_count": 2429,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Harrison Ford does....not seem like a good pilot, historically. https://t.co/z8yIuTASgk"
+	},
+	{
 		"created_at": "Wed Apr 29 22:08:27 +0000 2020",
 		"id": 1255619984958427100,
 		"id_str": "1255619984958427136",
