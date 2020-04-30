@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 18:20:15 +0000 2020",
+		"id": 1255920616726646800,
+		"id_str": "1255924944279502850",
+		"full_text": "Very interesting data viz from @latimes on air travel and how much it has changed in California, by @stiles and @TerryCastleman: https://t.co/UBsljG4wfn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"screen_name": "TerryCastleman",
+					"name": "Terry Castleman",
+					"id": 832706098977132500,
+					"id_str": "832706098977132545",
+					"indices": [
+						112,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UBsljG4wfn",
+					"expanded_url": "https://lat.ms/2YhG4yt",
+					"display_url": "lat.ms/2YhG4yt",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16288136,
+			"id_str": "16288136",
+			"name": "Melissa Chan",
+			"screen_name": "melissakchan",
+			"location": "",
+			"description": "Reporter | @GlobalRepCentre | sometimes @dwnews | latest in Foreign Policy, LA Review of Books, Houston Chronicle. Tweeting: 🇨🇳🇭🇰🇹🇼🇩🇪🇺🇸. Views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70187,
+			"friends_count": 2007,
+			"listed_count": 1940,
+			"created_at": "Sun Sep 14 22:25:38 +0000 2008",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068477380212215809/X8ytJVOW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068477380212215809/X8ytJVOW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16288136/1455928350",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very interesting data viz from @latimes on air travel and how much it has changed in California, by @stiles and @TerryCastleman: https://t.co/UBsljG4wfn"
+	},
+	{
 		"created_at": "Thu Apr 30 17:53:19 +0000 2020",
 		"id": 1255918168712732700,
 		"id_str": "1255918168712732674",
