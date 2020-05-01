@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 01 22:52:03 +0000 2020",
+		"id": 1256349642180059100,
+		"id_str": "1256355734826057728",
+		"full_text": "it appears the Internet failed in its effort to kill Kim Jong Un. \n\nbit h/t to @martyn_williams the guy who listens to North Korea radio [among other accomplishments] https://t.co/C9UxIB5OQn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martyn_williams",
+					"name": "Martyn Williams",
+					"id": 5202671,
+					"id_str": "5202671",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C9UxIB5OQn",
+					"expanded_url": "https://twitter.com/martyn_williams/status/1256333013559816193",
+					"display_url": "twitter.com/martyn_william…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14906658,
+			"id_str": "14906658",
+			"name": "John Delury",
+			"screen_name": "JohnDelury",
+			"location": "Seoul",
+			"description": "Yonsei University Professor",
+			"url": "https://t.co/3yoK7siWqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3yoK7siWqC",
+							"expanded_url": "http://johndelury.weebly.com/",
+							"display_url": "johndelury.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13642,
+			"friends_count": 1785,
+			"listed_count": 553,
+			"created_at": "Mon May 26 08:20:13 +0000 2008",
+			"favourites_count": 2303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14906658/1582330822",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1256333013559816200,
+		"quoted_status_id_str": "1256333013559816193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/C9UxIB5OQn",
+			"expanded": "https://twitter.com/martyn_williams/status/1256333013559816193",
+			"display": "twitter.com/martyn_william…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 01 21:21:46 +0000 2020",
+			"id": 1256333013559816200,
+			"id_str": "1256333013559816193",
+			"full_text": "Kim Jong Un's reappearance led the 6am news on Korean Central Radio. Here's the best recording I got (with black video because Twitter won't let me upload audio only) https://t.co/LNYWmywgvd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1256332945981345800,
+						"id_str": "1256332945981345793",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256332945981345793/pu/img/C5L4FWkTGUy8yPKl.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256332945981345793/pu/img/C5L4FWkTGUy8yPKl.jpg",
+						"url": "https://t.co/LNYWmywgvd",
+						"display_url": "pic.twitter.com/LNYWmywgvd",
+						"expanded_url": "https://twitter.com/martyn_williams/status/1256333013559816193/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1256332945981345800,
+						"id_str": "1256332945981345793",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256332945981345793/pu/img/C5L4FWkTGUy8yPKl.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256332945981345793/pu/img/C5L4FWkTGUy8yPKl.jpg",
+						"url": "https://t.co/LNYWmywgvd",
+						"display_url": "pic.twitter.com/LNYWmywgvd",
+						"expanded_url": "https://twitter.com/martyn_williams/status/1256333013559816193/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 119400,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1256332945981345793/pu/vid/640x640/b3yPemQZl0Yz0HrH.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1256332945981345793/pu/pl/gfPOpWQUNZs_Mpe7.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1256332945981345793/pu/vid/480x480/6DCEipvK-L2v7lPd.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1256332945981345793/pu/vid/320x320/x3n_DTu78WEJkLqB.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5202671,
+				"id_str": "5202671",
+				"name": "Martyn Williams",
+				"screen_name": "martyn_williams",
+				"location": "Washington, DC",
+				"description": "North Korea-focused journalist/researcher @NorthKoreaTech @38NorthNK. Non-resident fellow @stimsoncenter. Author @committeeHRNK. Also KJ6SDF.",
+				"url": "http://www.northkoreatech.org",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://www.northkoreatech.org",
+								"expanded_url": null,
+								"indices": [
+									0,
+									29
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22522,
+				"friends_count": 876,
+				"listed_count": 1521,
+				"created_at": "Thu Apr 19 08:11:12 +0000 2007",
+				"favourites_count": 1673,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10420,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/689273723333955584/_WBnXDWi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/689273723333955584/_WBnXDWi_normal.jpg",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 128,
+			"favorite_count": 161,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "it appears the Internet failed in its effort to kill Kim Jong Un. \n\nbit h/t to @martyn_williams the guy who listens to North Korea radio [among other accomplishments] https://t.co/C9UxIB5OQn"
+	},
+	{
+		"created_at": "Fri May 01 22:51:04 +0000 2020",
+		"id": 1256350040441806800,
+		"id_str": "1256355487366254593",
+		"full_text": "Today the @latguild helped prevent many furloughs and/or layoffs at the LA Times with an innovative plan. As with the Guild, I'm thankful that management was flexible and open to creative options. Unions work. Still, like so many journalists, we're peering into an abyss. https://t.co/4vvjAVBdoO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latguild",
+					"name": "L.A. Times Guild 🦅",
+					"id": 859504635773464600,
+					"id_str": "859504635773464576",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4vvjAVBdoO",
+					"expanded_url": "https://twitter.com/latguild/status/1256333776373739521",
+					"display_url": "twitter.com/latguild/statu…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15263981,
+			"id_str": "15263981",
+			"name": "Яandall 🎧 Яoberts",
+			"screen_name": "LilEdit",
+			"location": "Los Angeles",
+			"description": "Culture writer (music) @ LA Times, DJ. I develop & implement integrated marketing tactics to actualize long term strategic goals. (banner: sammy harkham)",
+			"url": "https://t.co/pHZ5J7Bm53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pHZ5J7Bm53",
+							"expanded_url": "http://ballparkvillage.com",
+							"display_url": "ballparkvillage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7271,
+			"friends_count": 1684,
+			"listed_count": 292,
+			"created_at": "Sat Jun 28 16:05:17 +0000 2008",
+			"favourites_count": 12163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243579759679827968/viG-Em2W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243579759679827968/viG-Em2W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15263981/1587949256",
+			"profile_link_color": "93D487",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1256333776373739500,
+		"quoted_status_id_str": "1256333776373739521",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4vvjAVBdoO",
+			"expanded": "https://twitter.com/latguild/status/1256333776373739521",
+			"display": "twitter.com/latguild/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 01 21:24:48 +0000 2020",
+			"id": 1256333776373739500,
+			"id_str": "1256333776373739521",
+			"full_text": "We’ve reached a deal with the @latimes to preserve jobs and benefits for our journalists. We are thankful that management accepted our proposal, but this is a painful cut. More details: https://t.co/O0gDxA2qhY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							30,
+							38
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/O0gDxA2qhY",
+						"expanded_url": "https://latguild.com/news/2020/5/1/la-times-guild-strikes-deal-to-avoid-newsroom-layoffs",
+						"display_url": "latguild.com/news/2020/5/1/…",
+						"indices": [
+							186,
+							209
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 859504635773464600,
+				"id_str": "859504635773464576",
+				"name": "L.A. Times Guild 🦅",
+				"screen_name": "latguild",
+				"location": "Los Angeles, CA",
+				"description": "Our mission is to safeguard the future of the Los Angeles Times and its journalists.",
+				"url": "https://t.co/R0OXgdbmkM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R0OXgdbmkM",
+								"expanded_url": "https://latguild.com",
+								"display_url": "latguild.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7588,
+				"friends_count": 3,
+				"listed_count": 141,
+				"created_at": "Tue May 02 20:27:28 +0000 2017",
+				"favourites_count": 5599,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4960,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1171167178277572608/2xMdrxay_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171167178277572608/2xMdrxay_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/859504635773464576/1559623312",
+				"profile_link_color": "FAC211",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81,
+			"favorite_count": 243,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today the @latguild helped prevent many furloughs and/or layoffs at the LA Times with an innovative plan. As with the Guild, I'm thankful that management was flexible and open to creative options. Unions work. Still, like so many journalists, we're peering into an abyss. https://t.co/4vvjAVBdoO"
+	},
+	{
 		"created_at": "Fri May 01 17:12:55 +0000 2020",
 		"id": 1256270387425374200,
 		"id_str": "1256270387425374208",
