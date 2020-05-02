@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 19:39:01 +0000 2020",
+		"id": 1256669545026121700,
+		"id_str": "1256669545026121728",
+		"full_text": "👇👇 https://t.co/PMvyR3d6wV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PMvyR3d6wV",
+					"expanded_url": "https://twitter.com/AskAKorean/status/1256657550784765953",
+					"display_url": "twitter.com/AskAKorean/sta…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11414,
+			"friends_count": 2055,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "a75bc1fb166cd594",
+			"url": "https://api.twitter.com/1.1/geo/id/a75bc1fb166cd594.json",
+			"place_type": "city",
+			"name": "Culver City",
+			"full_name": "Culver City, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.4484512,
+							33.976882
+						],
+						[
+							-118.369529,
+							33.976882
+						],
+						[
+							-118.369529,
+							34.035143
+						],
+						[
+							-118.4484512,
+							34.035143
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1256657550784766000,
+		"quoted_status_id_str": "1256657550784765953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PMvyR3d6wV",
+			"expanded": "https://twitter.com/AskAKorean/status/1256657550784765953",
+			"display": "twitter.com/AskAKorean/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 02 18:51:22 +0000 2020",
+			"id": 1256657550784766000,
+			"id_str": "1256657550784765953",
+			"full_text": "So I debated if I should let this slide, but after some thought, I decided it should be said.\n\nLots of people come out looking bad after this whole \"Is Kim Jong Un dead\" stuff. It's not worth naming them all, but two groups of people deserve more criticism than others.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 266269231,
+				"id_str": "266269231",
+				"name": "T.K. of AAK!",
+				"screen_name": "AskAKorean",
+				"location": "Eastern",
+				"description": "Blogger for Ask a Korean!",
+				"url": "https://t.co/2UhjoLCVhK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2UhjoLCVhK",
+								"expanded_url": "http://www.askakorean.net",
+								"display_url": "askakorean.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21610,
+				"friends_count": 3298,
+				"listed_count": 473,
+				"created_at": "Mon Mar 14 23:43:47 +0000 2011",
+				"favourites_count": 21953,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 839,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241075113757495297/vzXpsVCK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241075113757495297/vzXpsVCK_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👇👇 https://t.co/PMvyR3d6wV"
+	},
+	{
+		"created_at": "Sat May 02 19:30:57 +0000 2020",
+		"id": 1256607729151619000,
+		"id_str": "1256667511996571648",
+		"full_text": "A Message from President George W. Bush\n\n@TheCalltoUnite https://t.co/FIn9wuOPTF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheCallToUnite",
+					"name": "UNITE",
+					"id": 1243905601220030500,
+					"id_str": "1243905601220030465",
+					"indices": [
+						41,
+						56
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256606393852997600,
+					"id_str": "1256606393852997633",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1256606393852997633/img/Rtmu_4Eeu2kvxwXT.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1256606393852997633/img/Rtmu_4Eeu2kvxwXT.jpg",
+					"url": "https://t.co/FIn9wuOPTF",
+					"display_url": "pic.twitter.com/FIn9wuOPTF",
+					"expanded_url": "https://twitter.com/TheBushCenter/status/1256607729151619073/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256606393852997600,
+					"id_str": "1256606393852997633",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1256606393852997633/img/Rtmu_4Eeu2kvxwXT.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1256606393852997633/img/Rtmu_4Eeu2kvxwXT.jpg",
+					"url": "https://t.co/FIn9wuOPTF",
+					"display_url": "pic.twitter.com/FIn9wuOPTF",
+					"expanded_url": "https://twitter.com/TheBushCenter/status/1256607729151619073/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 167959,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1256606393852997633/vid/1280x720/qXKCbyiB-DP0WD4s.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1256606393852997633/pl/xBuw3D0flqga1_lK.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1256606393852997633/vid/480x270/yfIOMSbXlULIgQTR.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1256606393852997633/vid/640x360/nO2DeybTgTH6kILE.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "A Message from President George W. Bush",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 148376661,
+			"id_str": "148376661",
+			"name": "George W. Bush Presidential Center",
+			"screen_name": "TheBushCenter",
+			"location": "Dallas,TX",
+			"description": "Experience the presidency. Shape the future.",
+			"url": "http://t.co/FDxzxAD6Sp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FDxzxAD6Sp",
+							"expanded_url": "http://www.bushcenter.org",
+							"display_url": "bushcenter.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169006,
+			"friends_count": 524,
+			"listed_count": 1294,
+			"created_at": "Wed May 26 14:58:37 +0000 2010",
+			"favourites_count": 1788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108472089764335616/7WgUjxuN_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108472089764335616/7WgUjxuN_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/148376661/1569006002",
+			"profile_link_color": "778585",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4978,
+		"favorite_count": 12091,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Message from President George W. Bush\n\n@TheCalltoUnite https://t.co/FIn9wuOPTF"
+	},
+	{
 		"created_at": "Sat May 02 18:44:14 +0000 2020",
 		"id": 1256655756192931800,
 		"id_str": "1256655756192931840",
