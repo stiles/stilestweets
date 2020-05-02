@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 15:04:22 +0000 2020",
+		"id": 1256461425020555300,
+		"id_str": "1256600426859782144",
+		"full_text": "Our open-source archive of California coronavirus data has expanded.\n\nIt now includes our exclusive database of beach closures across the state.\n\nhttps://t.co/bbSWtp7hSj https://t.co/OPSWg9luzT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bbSWtp7hSj",
+					"expanded_url": "https://github.com/datadesk/california-coronavirus-data",
+					"display_url": "github.com/datadesk/calif…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256461385866768400,
+					"id_str": "1256461385866768385",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EW_Y-TKVcAER1z_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW_Y-TKVcAER1z_.jpg",
+					"url": "https://t.co/OPSWg9luzT",
+					"display_url": "pic.twitter.com/OPSWg9luzT",
+					"expanded_url": "https://twitter.com/palewire/status/1256461425020555266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 949,
+							"h": 721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 949,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256461385866768400,
+					"id_str": "1256461385866768385",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EW_Y-TKVcAER1z_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW_Y-TKVcAER1z_.jpg",
+					"url": "https://t.co/OPSWg9luzT",
+					"display_url": "pic.twitter.com/OPSWg9luzT",
+					"expanded_url": "https://twitter.com/palewire/status/1256461425020555266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 949,
+							"h": 721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 949,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · Send me tips · DMs open · ben.welsh@latimes.com",
+			"url": "https://t.co/M40D7KBYi4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M40D7KBYi4",
+							"expanded_url": "https://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/alHGK4tTzG",
+							"expanded_url": "http://californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11277,
+			"friends_count": 3129,
+			"listed_count": 758,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 57896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our open-source archive of California coronavirus data has expanded.\n\nIt now includes our exclusive database of beach closures across the state.\n\nhttps://t.co/bbSWtp7hSj https://t.co/OPSWg9luzT"
+	},
+	{
+		"created_at": "Sat May 02 14:45:13 +0000 2020",
+		"id": 1256595604966240300,
+		"id_str": "1256595604966240257",
+		"full_text": "KJU (and his pants) is back! https://t.co/l05XGf8SKr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l05XGf8SKr",
+					"expanded_url": "https://twitter.com/martyn_williams/status/1256594856153153542",
+					"display_url": "twitter.com/martyn_william…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11409,
+			"friends_count": 2054,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1256594856153153500,
+		"quoted_status_id_str": "1256594856153153542",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l05XGf8SKr",
+			"expanded": "https://twitter.com/martyn_williams/status/1256594856153153542",
+			"display": "twitter.com/martyn_william…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 02 14:42:14 +0000 2020",
+			"id": 1256594856153153500,
+			"id_str": "1256594856153153542",
+			"full_text": "Here's some of the video broadcast on Saturday by Korean Central TV of Kim Jong Un opening a fertilizer factory north of Pyongyang. https://t.co/ibiMy8J0dg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1256594639219540000,
+						"id_str": "1256594639219539969",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256594639219539969/pu/img/iokw1b4b-L3hY4pC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256594639219539969/pu/img/iokw1b4b-L3hY4pC.jpg",
+						"url": "https://t.co/ibiMy8J0dg",
+						"display_url": "pic.twitter.com/ibiMy8J0dg",
+						"expanded_url": "https://twitter.com/martyn_williams/status/1256594856153153542/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1256594639219540000,
+						"id_str": "1256594639219539969",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256594639219539969/pu/img/iokw1b4b-L3hY4pC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256594639219539969/pu/img/iokw1b4b-L3hY4pC.jpg",
+						"url": "https://t.co/ibiMy8J0dg",
+						"display_url": "pic.twitter.com/ibiMy8J0dg",
+						"expanded_url": "https://twitter.com/martyn_williams/status/1256594856153153542/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								85,
+								48
+							],
+							"duration_millis": 97433,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1256594639219539969/pu/vid/850x480/J0JUyxcsnPsiM7di.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1256594639219539969/pu/vid/636x360/9hQpDQMszrKxf8ws.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1256594639219539969/pu/vid/478x270/YrtiqwOWYoCO48VC.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1256594639219539969/pu/pl/Ou1pQVyAihpvAviK.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5202671,
+				"id_str": "5202671",
+				"name": "Martyn Williams",
+				"screen_name": "martyn_williams",
+				"location": "Washington, DC",
+				"description": "North Korea-focused journalist/researcher @NorthKoreaTech @38NorthNK. Non-resident fellow @stimsoncenter. Author @committeeHRNK. Also KJ6SDF.",
+				"url": "http://www.northkoreatech.org",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://www.northkoreatech.org",
+								"expanded_url": null,
+								"indices": [
+									0,
+									29
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23712,
+				"friends_count": 876,
+				"listed_count": 1529,
+				"created_at": "Thu Apr 19 08:11:12 +0000 2007",
+				"favourites_count": 1678,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10433,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/689273723333955584/_WBnXDWi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/689273723333955584/_WBnXDWi_normal.jpg",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KJU (and his pants) is back! https://t.co/l05XGf8SKr"
+	},
+	{
 		"created_at": "Sat May 02 03:27:50 +0000 2020",
 		"id": 1256425135436730400,
 		"id_str": "1256425135436730374",
