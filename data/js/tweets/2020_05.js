@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 16:08:54 +0000 2020",
+		"id": 1256609820016177200,
+		"id_str": "1256616664021397504",
+		"full_text": "@stiles If you haven’t already seen the introduction, check this out: https://t.co/qGnkyLapUr\n\n… to put it mildly, it comes with a bit more pizzazz then your run of the mill directory.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qGnkyLapUr",
+					"expanded_url": "https://observablehq.com/@observablehq/introducing-visual-dataflow",
+					"display_url": "observablehq.com/@observablehq/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1256604445632155600,
+		"in_reply_to_status_id_str": "1256604445632155649",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 123323498,
+			"id_str": "123323498",
+			"name": "Jeremy Ashkenas",
+			"screen_name": "jashkenas",
+			"location": "Berkeley/SF",
+			"description": "Working on @ObservableHQ • NYT Graphics & DocumentCloud emeritus. • Would rather be riding. • Made CoffeeScript, Backbone.js, Underscore and other ragbag.",
+			"url": "http://t.co/MTVZUiEgV7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MTVZUiEgV7",
+							"expanded_url": "http://ashkenas.com",
+							"display_url": "ashkenas.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32037,
+			"friends_count": 182,
+			"listed_count": 1660,
+			"created_at": "Mon Mar 15 18:38:57 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019319686486298624/smQaAl34_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019319686486298624/smQaAl34_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123323498/1395674101",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "AEAFCC",
+			"profile_sidebar_fill_color": "1F1D3D",
+			"profile_text_color": "AAAAAA",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@stiles If you haven’t already seen the introduction, check this out: https://t.co/qGnkyLapUr\n\n… to put it mildly, it comes with a bit more pizzazz then your run of the mill directory."
+	},
+	{
 		"created_at": "Sat May 02 15:20:21 +0000 2020",
 		"id": 1256604445632155600,
 		"id_str": "1256604445632155649",
