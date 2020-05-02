@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 18:44:14 +0000 2020",
+		"id": 1256655756192931800,
+		"id_str": "1256655756192931840",
+		"full_text": "@joannachiu 葱油发面饼",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joannachiu",
+					"name": "Joanna Chiu 趙淇欣",
+					"id": 98077302,
+					"id_str": "98077302",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1256655314335588400,
+		"in_reply_to_status_id_str": "1256655314335588353",
+		"in_reply_to_user_id": 98077302,
+		"in_reply_to_user_id_str": "98077302",
+		"in_reply_to_screen_name": "joannachiu",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11414,
+			"friends_count": 2055,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "zh",
+		"text": "@joannachiu 葱油发面饼"
+	},
+	{
+		"created_at": "Sat May 02 18:37:05 +0000 2020",
+		"id": 1256653958279389200,
+		"id_str": "1256653958279389186",
+		"full_text": "First #covid19, now the #murderhornet. \n\nGreat. https://t.co/MrPy840vAn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "covid19",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "murderhornet",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MrPy840vAn",
+					"expanded_url": "https://twitter.com/ByMikeBaker/status/1256601113605705733",
+					"display_url": "twitter.com/ByMikeBaker/st…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11414,
+			"friends_count": 2055,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1256601113605705700,
+		"quoted_status_id_str": "1256601113605705733",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MrPy840vAn",
+			"expanded": "https://twitter.com/ByMikeBaker/status/1256601113605705733",
+			"display": "twitter.com/ByMikeBaker/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 02 15:07:06 +0000 2020",
+			"id": 1256601113605705700,
+			"id_str": "1256601113605705733",
+			"full_text": "A new threat reaches the United States: A massive hornet with mandibles that rip bees to shreds and a stinger so potent that one unfortunate victim likened it to \"having red-hot thumbtacks being driven into my flesh.\"\n\nhttps://t.co/miU3QLGCF9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/miU3QLGCF9",
+						"expanded_url": "https://www.nytimes.com/2020/05/02/us/asian-giant-hornet-washington.html",
+						"display_url": "nytimes.com/2020/05/02/us/…",
+						"indices": [
+							219,
+							242
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 178065733,
+				"id_str": "178065733",
+				"name": "Mike Baker",
+				"screen_name": "ByMikeBaker",
+				"location": "Washington/Oregon/Idaho/Alaska",
+				"description": "Correspondent for @nytimes, based in the Northwest. Reporting on coronavirus. Tips welcome via DM or Signal: 646-394-3002",
+				"url": "https://t.co/zySc5eZcsk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zySc5eZcsk",
+								"expanded_url": "https://www.nytimes.com/by/mike-baker",
+								"display_url": "nytimes.com/by/mike-baker",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28234,
+				"friends_count": 1380,
+				"listed_count": 982,
+				"created_at": "Fri Aug 13 19:47:08 +0000 2010",
+				"favourites_count": 3312,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9180,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890984076424826880/3jgdPGGn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890984076424826880/3jgdPGGn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/178065733/1417448065",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2972,
+			"favorite_count": 4759,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First #covid19, now the #murderhornet. \n\nGreat. https://t.co/MrPy840vAn"
+	},
+	{
 		"created_at": "Sat May 02 18:10:57 +0000 2020",
 		"id": 1256647381036134400,
 		"id_str": "1256647381036134401",
