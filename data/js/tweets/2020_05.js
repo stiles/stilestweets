@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 02:13:34 +0000 2020",
+		"id": 1256406445387509800,
+		"id_str": "1256406445387509760",
+		"full_text": "@priyakkumar It was the slow-motion noodle toss that hooked me...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "priyakkumar",
+					"name": "Priya Krishnakumar",
+					"id": 192995488,
+					"id_str": "192995488",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1256270857678160000,
+		"in_reply_to_status_id_str": "1256270857678159872",
+		"in_reply_to_user_id": 192995488,
+		"in_reply_to_user_id_str": "192995488",
+		"in_reply_to_screen_name": "priyakkumar",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11408,
+			"friends_count": 2052,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@priyakkumar It was the slow-motion noodle toss that hooked me..."
+	},
+	{
+		"created_at": "Sat May 02 02:07:50 +0000 2020",
+		"id": 1256405003998081000,
+		"id_str": "1256405003998081024",
+		"full_text": "Oh no indeed. https://t.co/LkKZnaqY2M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LkKZnaqY2M",
+					"expanded_url": "https://twitter.com/kentnish/status/1256246327995842561",
+					"display_url": "twitter.com/kentnish/statu…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11408,
+			"friends_count": 2052,
+			"listed_count": 877,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1586574222",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1256246327995842600,
+		"quoted_status_id_str": "1256246327995842561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LkKZnaqY2M",
+			"expanded": "https://twitter.com/kentnish/status/1256246327995842561",
+			"display": "twitter.com/kentnish/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 01 15:37:19 +0000 2020",
+			"id": 1256246327995842600,
+			"id_str": "1256246327995842561",
+			"full_text": "Oh no @SPAMbrand pls send help. https://t.co/OdbXi5HjW4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SPAMbrand",
+						"name": "SPAM® Brand",
+						"id": 35826370,
+						"id_str": "35826370",
+						"indices": [
+							6,
+							16
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1256246305375977500,
+						"id_str": "1256246305375977472",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EW8VW95VAAAW-LQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW8VW95VAAAW-LQ.jpg",
+						"url": "https://t.co/OdbXi5HjW4",
+						"display_url": "pic.twitter.com/OdbXi5HjW4",
+						"expanded_url": "https://twitter.com/kentnish/status/1256246327995842561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 597,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1053,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1797,
+								"h": 2047,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1256246305375977500,
+						"id_str": "1256246305375977472",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/EW8VW95VAAAW-LQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW8VW95VAAAW-LQ.jpg",
+						"url": "https://t.co/OdbXi5HjW4",
+						"display_url": "pic.twitter.com/OdbXi5HjW4",
+						"expanded_url": "https://twitter.com/kentnish/status/1256246327995842561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 597,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1053,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1797,
+								"h": 2047,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14879434,
+				"id_str": "14879434",
+				"name": "Kent Nishimura",
+				"screen_name": "kentnish",
+				"location": "Los Angeles, CA",
+				"description": "Staff Photographer, @latimes. please support local journalism: https://t.co/HhTrGMYocy",
+				"url": "https://t.co/K3Seyh8JyY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/K3Seyh8JyY",
+								"expanded_url": "https://www.latimes.com/people/kent-nishimura",
+								"display_url": "latimes.com/people/kent-ni…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HhTrGMYocy",
+								"expanded_url": "https://checkout2.latimes.com/",
+								"display_url": "checkout2.latimes.com",
+								"indices": [
+									63,
+									86
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3816,
+				"friends_count": 2351,
+				"listed_count": 169,
+				"created_at": "Fri May 23 08:58:26 +0000 2008",
+				"favourites_count": 13137,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16117,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245994597785817088/oeTU200d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245994597785817088/oeTU200d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14879434/1585903242",
+				"profile_link_color": "77D4FD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "b0b79caecef59fb5",
+				"url": "https://api.twitter.com/1.1/geo/id/b0b79caecef59fb5.json",
+				"place_type": "city",
+				"name": "Burbank",
+				"full_name": "Burbank, CA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-118.37032,
+								34.1426298
+							],
+							[
+								-118.2799703,
+								34.1426298
+							],
+							[
+								-118.2799703,
+								34.2216898
+							],
+							[
+								-118.37032,
+								34.2216898
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh no indeed. https://t.co/LkKZnaqY2M"
+	},
+	{
 		"created_at": "Fri May 01 22:52:03 +0000 2020",
 		"id": 1256349642180059100,
 		"id_str": "1256355734826057728",
