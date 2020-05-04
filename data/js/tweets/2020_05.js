@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 14:16:05 +0000 2020",
+		"id": 1257184460673478700,
+		"id_str": "1257313051428020224",
+		"full_text": "A Valley Times graphic artist imagines the arrival of the 101 Freeway in 1947. https://t.co/or3iypKPGa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/or3iypKPGa",
+					"expanded_url": "https://twitter.com/OldLAPhotos/status/1256511461775552515",
+					"display_url": "twitter.com/OldLAPhotos/st…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · Send me tips · DMs open · ben.welsh@latimes.com",
+			"url": "https://t.co/M40D7KBYi4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M40D7KBYi4",
+							"expanded_url": "https://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/alHGK4tTzG",
+							"expanded_url": "http://californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11293,
+			"friends_count": 3129,
+			"listed_count": 755,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 57921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1256511461775552500,
+		"quoted_status_id_str": "1256511461775552515",
+		"quoted_status_permalink": {
+			"url": "https://t.co/or3iypKPGa",
+			"expanded": "https://twitter.com/OldLAPhotos/status/1256511461775552515",
+			"display": "twitter.com/OldLAPhotos/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 02 09:10:51 +0000 2020",
+			"id": 1256511461775552500,
+			"id_str": "1256511461775552515",
+			"full_text": "Freeway underpass https://t.co/4m0DYOcG9s https://t.co/NPb6fuwLHz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				41
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4m0DYOcG9s",
+						"expanded_url": "https://tessa.lapl.org/cdm/ref/collection/photos/id/49126",
+						"display_url": "tessa.lapl.org/cdm/ref/collec…",
+						"indices": [
+							18,
+							41
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1256511460236238800,
+						"id_str": "1256511460236238848",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/EXAGhAuWoAAPyWf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXAGhAuWoAAPyWf.jpg",
+						"url": "https://t.co/NPb6fuwLHz",
+						"display_url": "pic.twitter.com/NPb6fuwLHz",
+						"expanded_url": "https://twitter.com/OldLAPhotos/status/1256511461775552515/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1256511460236238800,
+						"id_str": "1256511460236238848",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/EXAGhAuWoAAPyWf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXAGhAuWoAAPyWf.jpg",
+						"url": "https://t.co/NPb6fuwLHz",
+						"display_url": "pic.twitter.com/NPb6fuwLHz",
+						"expanded_url": "https://twitter.com/OldLAPhotos/status/1256511461775552515/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://twitter.com/OldLAPhotos\" rel=\"nofollow\">Old L.A. Photos</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1122626874780217300,
+				"id_str": "1122626874780217344",
+				"name": "Old L.A. Photos",
+				"screen_name": "OldLAPhotos",
+				"location": "Los Angeles, CA",
+				"description": "A 🤖 that posts photographs from @LAPublicLibrary's digital collection",
+				"url": "https://t.co/IrXOFAPYHf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IrXOFAPYHf",
+								"expanded_url": "https://tessa.lapl.org/cdm/landingpage/collection/photos",
+								"display_url": "tessa.lapl.org/cdm/landingpag…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 634,
+				"friends_count": 0,
+				"listed_count": 16,
+				"created_at": "Sun Apr 28 22:21:19 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4244,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1122631217524772864/SgzUoTuG_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122631217524772864/SgzUoTuG_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1122626874780217344/1556491357",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Valley Times graphic artist imagines the arrival of the 101 Freeway in 1947. https://t.co/or3iypKPGa"
+	},
+	{
 		"created_at": "Mon May 04 01:23:14 +0000 2020",
 		"id": 1257103471188287500,
 		"id_str": "1257118555947978753",
