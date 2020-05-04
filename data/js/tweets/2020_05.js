@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 01:23:14 +0000 2020",
+		"id": 1257103471188287500,
+		"id_str": "1257118555947978753",
+		"full_text": "The inscription above Lincoln reads, “ In this temple, as in the hearts of the people for whom he saved the Union the memory of Abraham Lincoln is enshrined forever” There will be no encomiums or remembrances for Trump. His legacy will be dishonor, failure and division.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 786309892990574600,
+			"id_str": "786309892990574592",
+			"name": "Steve Schmidt",
+			"screen_name": "SteveSchmidtSES",
+			"location": "Park City, UT",
+			"description": "\"Patriotism means to stand by the country. It does not mean to stand by the President.\" Theodore Roosevelt, 26th President of the United States.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 683759,
+			"friends_count": 1712,
+			"listed_count": 3812,
+			"created_at": "Wed Oct 12 20:57:42 +0000 2016",
+			"favourites_count": 274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247286405711134720/51l_129u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247286405711134720/51l_129u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/786309892990574592/1586217767",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2669,
+		"favorite_count": 11392,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The inscription above Lincoln reads, “ In this temple, as in the hearts of the people for whom he saved the Union the memory of Abraham Lincoln is enshrined forever” There will be no encomiums or remembrances for Trump. His legacy will be dishonor, failure and division."
+	},
+	{
+		"created_at": "Mon May 04 01:23:01 +0000 2020",
+		"id": 1257079290086281200,
+		"id_str": "1257118500516016131",
+		"full_text": "We are all @jdickerson https://t.co/VLzDFihrxn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jdickerson",
+					"name": "John Dickerson",
+					"id": 4119741,
+					"id_str": "4119741",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257079274818936800,
+					"id_str": "1257079274818936832",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EXIK8K4WoAA-Zge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXIK8K4WoAA-Zge.jpg",
+					"url": "https://t.co/VLzDFihrxn",
+					"display_url": "pic.twitter.com/VLzDFihrxn",
+					"expanded_url": "https://twitter.com/ktumulty/status/1257079290086281223/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257079274818936800,
+					"id_str": "1257079274818936832",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EXIK8K4WoAA-Zge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXIK8K4WoAA-Zge.jpg",
+					"url": "https://t.co/VLzDFihrxn",
+					"display_url": "pic.twitter.com/VLzDFihrxn",
+					"expanded_url": "https://twitter.com/ktumulty/status/1257079290086281223/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14270650,
+			"id_str": "14270650",
+			"name": "Karen Tumulty",
+			"screen_name": "ktumulty",
+			"location": "Washington, DC",
+			"description": "Trying to adapt. Also political columnist for the Washington Post.",
+			"url": "https://t.co/fJMCeIYylK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJMCeIYylK",
+							"expanded_url": "http://www.washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167227,
+			"friends_count": 3008,
+			"listed_count": 4111,
+			"created_at": "Mon Mar 31 23:45:58 +0000 2008",
+			"favourites_count": 10834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958521934689525760/Uo09Jrhn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958521934689525760/Uo09Jrhn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14270650/1464892435",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 374,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are all @jdickerson https://t.co/VLzDFihrxn"
+	},
+	{
 		"created_at": "Mon May 04 01:19:10 +0000 2020",
 		"id": 1257115330427547600,
 		"id_str": "1257117531367542785",
