@@ -1,6 +1,106 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 01:19:10 +0000 2020",
+		"id": 1257115330427547600,
+		"id_str": "1257117531367542785",
+		"full_text": "Each Monday Supt. @AustinLASchools gives an update on what's happening in the district amid the #coronavirus. In a robocall he says tomorrow's will have info on topics including \"how and when schools will reopen.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirus",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AustinLASchools",
+					"name": "Austin Beutner",
+					"id": 991465742653505500,
+					"id_str": "991465742653505536",
+					"indices": [
+						18,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1169011415748886500,
+			"id_str": "1169011415748886528",
+			"name": "Jon Regardie",
+			"screen_name": "JonRegardie",
+			"location": "",
+			"description": "I like politics, the city of L.A., punk rock and the NBA. Not necessarily in that order. Or maybe in that order.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187,
+			"friends_count": 99,
+			"listed_count": 1,
+			"created_at": "Tue Sep 03 22:17:23 +0000 2019",
+			"favourites_count": 343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169011704870703104/_sBCCWNc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169011704870703104/_sBCCWNc_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Each Monday Supt. @AustinLASchools gives an update on what's happening in the district amid the #coronavirus. In a robocall he says tomorrow's will have info on topics including \"how and when schools will reopen.\""
+	},
+	{
 		"created_at": "Sun May 03 22:10:14 +0000 2020",
 		"id": 1257069986650058800,
 		"id_str": "1257069986650058752",
