@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 16:48:54 +0000 2020",
+		"id": 1257713894673404000,
+		"id_str": "1257713894673403904",
+		"full_text": "@TWallack @IRE_NICAR Good one.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TWallack",
+					"name": "Todd Wallack",
+					"id": 135997883,
+					"id_str": "135997883",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "IRE_NICAR",
+					"name": "IRE and NICAR",
+					"id": 12655722,
+					"id_str": "12655722",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1257713757721170000,
+		"in_reply_to_status_id_str": "1257713757721169920",
+		"in_reply_to_user_id": 135997883,
+		"in_reply_to_user_id_str": "135997883",
+		"in_reply_to_screen_name": "TWallack",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11421,
+			"friends_count": 2059,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1588454130",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TWallack @IRE_NICAR Good one."
+	},
+	{
+		"created_at": "Tue May 05 16:40:43 +0000 2020",
+		"id": 1257685275297251300,
+		"id_str": "1257711834301227009",
+		"full_text": "I’m overhearing this LA Mexican version of Penny Dreadful, and it has so many historical anachronisms as to be laughable. Taco stands? Those weren’t around in 1938. Santa Muerte as the focus of Day of the Dead? Nope. More Hollywood bullshit when it comes to Mexicans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15518170,
+			"id_str": "15518170",
+			"name": "Col. Gustavo Arellano",
+			"screen_name": "GustavoArellano",
+			"location": "Anacrime,OC,Zacatecas",
+			"description": "Con su pluma en su mano for @latimes. Investigations/tacos/history/OC/DESMADRE. Eternal Mexican, KY Col. ✉️: mexicanwithglasses@gmail.com & my newsletter below!",
+			"url": "https://t.co/h6ctxIBhQr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h6ctxIBhQr",
+							"expanded_url": "http://tinyletter.com/gustavoarellanosweekly",
+							"display_url": "tinyletter.com/gustavoarellan…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23897,
+			"friends_count": 434,
+			"listed_count": 627,
+			"created_at": "Mon Jul 21 17:45:07 +0000 2008",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 285033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105308321668460545/G2xfLioi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105308321668460545/G2xfLioi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15518170/1584716191",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 98,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m overhearing this LA Mexican version of Penny Dreadful, and it has so many historical anachronisms as to be laughable. Taco stands? Those weren’t around in 1938. Santa Muerte as the focus of Day of the Dead? Nope. More Hollywood bullshit when it comes to Mexicans"
+	},
+	{
+		"created_at": "Tue May 05 16:37:31 +0000 2020",
+		"id": 1257711028999082000,
+		"id_str": "1257711028999081985",
+		"full_text": "This is my fave @IRE_NICAR T-shirt design from all the conventions over the years. \n\nWhat's yours? https://t.co/tmrzCfeYFk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IRE_NICAR",
+					"name": "IRE and NICAR",
+					"id": 12655722,
+					"id_str": "12655722",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257711021780680700,
+					"id_str": "1257711021780680704",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EXRJgrtUwAAtIW2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXRJgrtUwAAtIW2.jpg",
+					"url": "https://t.co/tmrzCfeYFk",
+					"display_url": "pic.twitter.com/tmrzCfeYFk",
+					"expanded_url": "https://twitter.com/stiles/status/1257711028999081985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 992,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1693,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257711021780680700,
+					"id_str": "1257711021780680704",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EXRJgrtUwAAtIW2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXRJgrtUwAAtIW2.jpg",
+					"url": "https://t.co/tmrzCfeYFk",
+					"display_url": "pic.twitter.com/tmrzCfeYFk",
+					"expanded_url": "https://twitter.com/stiles/status/1257711028999081985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 992,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1693,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1257710481046827000,
+		"in_reply_to_status_id_str": "1257710481046827008",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11421,
+			"friends_count": 2059,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1588454130",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is my fave @IRE_NICAR T-shirt design from all the conventions over the years. \n\nWhat's yours? https://t.co/tmrzCfeYFk"
+	},
+	{
 		"created_at": "Tue May 05 13:30:06 +0000 2020",
 		"id": 1257663866860744700,
 		"id_str": "1257663866860744705",
