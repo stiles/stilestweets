@@ -1,6 +1,129 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 18:21:22 +0000 2020",
+		"id": 1257697468696813600,
+		"id_str": "1257737166798520321",
+		"full_text": "Some news. Thrilled to be back!\n\nhttps://t.co/dVEkd8sgcP\n@BuzzFeedNews @BuzzFeed @USCAnnenberg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BuzzFeedNews",
+					"name": "BuzzFeed News",
+					"id": 1020058453,
+					"id_str": "1020058453",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"screen_name": "BuzzFeed",
+					"name": "BuzzFeed",
+					"id": 5695632,
+					"id_str": "5695632",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "USCAnnenberg",
+					"name": "USC Annenberg",
+					"id": 28220795,
+					"id_str": "28220795",
+					"indices": [
+						81,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dVEkd8sgcP",
+					"expanded_url": "https://www.buzzfeed.com/buzzfeedpress/buzzfeed-announces-mark-schoofs-as-editor-in-chief-of",
+					"display_url": "buzzfeed.com/buzzfeedpress/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2205024632,
+			"id_str": "2205024632",
+			"name": "Mark Schoofs",
+			"screen_name": "SchoofsFeed",
+			"location": "Always happy to talk. DMs open.",
+			"description": "Teaching the next generation of great investigative reporters at @USCAnnenberg. Co-founded The Beacon Project. Advising @BuzzFeedNews, @KPCC/@LAist.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15536,
+			"friends_count": 222,
+			"listed_count": 451,
+			"created_at": "Wed Nov 20 14:40:27 +0000 2013",
+			"favourites_count": 2310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/460144185463406594/kSi4u1e0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/460144185463406594/kSi4u1e0_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 649,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some news. Thrilled to be back!\n\nhttps://t.co/dVEkd8sgcP\n@BuzzFeedNews @BuzzFeed @USCAnnenberg"
+	},
+	{
 		"created_at": "Tue May 05 16:48:54 +0000 2020",
 		"id": 1257713894673404000,
 		"id_str": "1257713894673403904",
