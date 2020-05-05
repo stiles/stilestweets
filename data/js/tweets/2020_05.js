@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 01:26:31 +0000 2020",
+		"id": 1257324934990164000,
+		"id_str": "1257481769579802624",
+		"full_text": "Korea for the save! https://t.co/W3RHNgGb50",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W3RHNgGb50",
+					"expanded_url": "https://twitter.com/YonhapNews/status/1257324427978498053",
+					"display_url": "twitter.com/YonhapNews/sta…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2938827689,
+			"id_str": "2938827689",
+			"name": "Jenny Town",
+			"screen_name": "j3nnyt0wn",
+			"location": "Washington, DC",
+			"description": "Korea specialist, Fellow at @StimsonCenter; managing editor of @38NorthNK; Associate Fellow of @FPI_SAIS. Views are my own. RTs are not endorsements.",
+			"url": "https://t.co/u1rStdceJP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u1rStdceJP",
+							"expanded_url": "http://38north.org",
+							"display_url": "38north.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7225,
+			"friends_count": 1373,
+			"listed_count": 326,
+			"created_at": "Tue Dec 23 22:01:01 +0000 2014",
+			"favourites_count": 17036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123090165197443072/Tx8NEtLu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123090165197443072/Tx8NEtLu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2938827689/1556600538",
+			"profile_link_color": "6193BF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257324427978498000,
+		"quoted_status_id_str": "1257324427978498053",
+		"quoted_status_permalink": {
+			"url": "https://t.co/W3RHNgGb50",
+			"expanded": "https://twitter.com/YonhapNews/status/1257324427978498053",
+			"display": "twitter.com/YonhapNews/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 04 15:01:18 +0000 2020",
+			"id": 1257324427978498000,
+			"id_str": "1257324427978498053",
+			"full_text": "(LEAD) ESPN to broadcast S. Korean baseball games https://t.co/K8qDRnV2bH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/K8qDRnV2bH",
+						"expanded_url": "http://yna.kr/AEN20200504009251315",
+						"display_url": "yna.kr/AEN20200504009…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://english.yonhapnews.co.kr\" rel=\"nofollow\">YonhapNewsEnglish</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31577674,
+				"id_str": "31577674",
+				"name": "Yonhap News Agency",
+				"screen_name": "YonhapNews",
+				"location": "Seoul, South Korea",
+				"description": "Latest news updates from Yonhap News Agency headquartered in Seoul, South Korea.",
+				"url": "http://t.co/1GEkwuAjKA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1GEkwuAjKA",
+								"expanded_url": "http://english.yonhapnews.co.kr/",
+								"display_url": "english.yonhapnews.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 99440,
+				"friends_count": 1394,
+				"listed_count": 3717,
+				"created_at": "Thu Apr 16 00:40:42 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 165523,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/750857919948738561/BCOzVPou_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/750857919948738561/BCOzVPou_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31577674/1571619024",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 71,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Korea for the save! https://t.co/W3RHNgGb50"
+	},
+	{
 		"created_at": "Mon May 04 22:16:52 +0000 2020",
 		"id": 1257434044155007000,
 		"id_str": "1257434044155006981",
