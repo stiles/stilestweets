@@ -1,6 +1,544 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 21:16:16 +0000 2020",
+		"id": 1257781179710726100,
+		"id_str": "1257781179710726144",
+		"full_text": "Those garlic cloves. #맛있어 https://t.co/0f0OFRkuyu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "맛있어",
+					"indices": [
+						21,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0f0OFRkuyu",
+					"expanded_url": "https://twitter.com/nicolelzhu/status/1257777100120969216",
+					"display_url": "twitter.com/nicolelzhu/sta…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11420,
+			"friends_count": 2059,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1588454130",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257777100120969200,
+		"quoted_status_id_str": "1257777100120969216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0f0OFRkuyu",
+			"expanded": "https://twitter.com/nicolelzhu/status/1257777100120969216",
+			"display": "twitter.com/nicolelzhu/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 05 21:00:03 +0000 2020",
+			"id": 1257777100120969200,
+			"id_str": "1257777100120969216",
+			"full_text": "♨o(&gt;_&lt;)o♨ come for @noahreservation's puns, stay for the sincere reflection on kimchijigae and pandemic cooking https://t.co/sttnMVPBfs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "noahreservation",
+						"name": "noah, a bibimperson",
+						"id": 247426610,
+						"id_str": "247426610",
+						"indices": [
+							25,
+							41
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sttnMVPBfs",
+						"expanded_url": "https://catapult.co/stories/column-noah-cho-kimchi-jjigae-korean-comfort-foods-pandemic-cooking",
+						"display_url": "catapult.co/stories/column…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 242308086,
+				"id_str": "242308086",
+				"name": "Nicole Zhu",
+				"screen_name": "nicolelzhu",
+				"location": "NYC",
+				"description": "writer, engineer @voxproduct, cohost @sweetandsourfm. not trying to lean in, just trying to lie down.",
+				"url": "https://t.co/HyHyJq4FS1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HyHyJq4FS1",
+								"expanded_url": "http://nicolezhu.io/",
+								"display_url": "nicolezhu.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4260,
+				"friends_count": 798,
+				"listed_count": 265,
+				"created_at": "Mon Jan 24 13:36:03 +0000 2011",
+				"favourites_count": 25764,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7616,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959551992535404544/5kqOeARB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959551992535404544/5kqOeARB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/242308086/1587406227",
+				"profile_link_color": "00A871",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Those garlic cloves. #맛있어 https://t.co/0f0OFRkuyu"
+	},
+	{
+		"created_at": "Tue May 05 20:49:42 +0000 2020",
+		"id": 1257774085536432000,
+		"id_str": "1257774496708083712",
+		"full_text": "@realDonaldTrump @FoxNews No, it’s totally normal and healthy to post emasculating tweets disguised as compliments about a cable news supporter during a deadly pandemic...",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "FoxNews",
+					"name": "Fox News",
+					"id": 1367531,
+					"id_str": "1367531",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1257744456591130600,
+		"in_reply_to_status_id_str": "1257744456591130624",
+		"in_reply_to_user_id": 25073877,
+		"in_reply_to_user_id_str": "25073877",
+		"in_reply_to_screen_name": "realDonaldTrump",
+		"user": {
+			"id": 19268706,
+			"id_str": "19268706",
+			"name": "S.E. Cupp",
+			"screen_name": "secupp",
+			"location": "Instagram @secupp",
+			"description": "JOBS: Author, Host of \"SE Cupp Unfiltered\" on CNN, NYDN. LIKES: John. RELIGION: Jack. SIGN: The one no one gets along with. SKILLS: @jeopardy winner.",
+			"url": "https://t.co/AJBGOqHXys",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AJBGOqHXys",
+							"expanded_url": "http://secuppshow.com",
+							"display_url": "secuppshow.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427390,
+			"friends_count": 8622,
+			"listed_count": 7451,
+			"created_at": "Wed Jan 21 01:05:51 +0000 2009",
+			"favourites_count": 16345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193963852523810816/I0nuf8pK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193963852523810816/I0nuf8pK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19268706/1562798360",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@realDonaldTrump @FoxNews No, it’s totally normal and healthy to post emasculating tweets disguised as compliments about a cable news supporter during a deadly pandemic..."
+	},
+	{
+		"created_at": "Tue May 05 20:46:32 +0000 2020",
+		"id": 1257773697315684400,
+		"id_str": "1257773697315684352",
+		"full_text": "@VANS_66 THEY JUST ARRIVED! 🤪💗 https://t.co/zBQEi2CXx1",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VANS_66",
+					"name": "Vans",
+					"id": 15383636,
+					"id_str": "15383636",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257773538309619700,
+					"id_str": "1257773538309619713",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EXSCXn7UwAE4uVI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXSCXn7UwAE4uVI.png",
+					"url": "https://t.co/zBQEi2CXx1",
+					"display_url": "pic.twitter.com/zBQEi2CXx1",
+					"expanded_url": "https://twitter.com/stiles/status/1257773697315684352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 664,
+							"h": 658,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 664,
+							"h": 658,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 664,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257773538309619700,
+					"id_str": "1257773538309619713",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EXSCXn7UwAE4uVI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXSCXn7UwAE4uVI.png",
+					"url": "https://t.co/zBQEi2CXx1",
+					"display_url": "pic.twitter.com/zBQEi2CXx1",
+					"expanded_url": "https://twitter.com/stiles/status/1257773697315684352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 664,
+							"h": 658,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 664,
+							"h": 658,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 664,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1255231103419535400,
+		"in_reply_to_status_id_str": "1255231103419535362",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11420,
+			"friends_count": 2059,
+			"listed_count": 878,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1588454130",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@VANS_66 THEY JUST ARRIVED! 🤪💗 https://t.co/zBQEi2CXx1"
+	},
+	{
 		"created_at": "Tue May 05 18:21:22 +0000 2020",
 		"id": 1257697468696813600,
 		"id_str": "1257737166798520321",
