@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 12:49:12 +0000 2020",
+		"id": 1257848137101668400,
+		"id_str": "1258015961883586561",
+		"full_text": "@TomPhilipson45 We wERe JuST SmoOThInG tHe dAta",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomPhilipson45",
+					"name": "Tomas Philipson",
+					"id": 1233122091286790100,
+					"id_str": "1233122091286790144",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257842886403555300,
+		"in_reply_to_status_id_str": "1257842886403555336",
+		"in_reply_to_user_id": 1233122091286790100,
+		"in_reply_to_user_id_str": "1233122091286790144",
+		"in_reply_to_screen_name": "TomPhilipson45",
+		"user": {
+			"id": 428897797,
+			"id_str": "428897797",
+			"name": "andrew",
+			"screen_name": "__ndrew__",
+			"location": "",
+			"description": "Check out this dumbass",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4,
+			"friends_count": 113,
+			"listed_count": 0,
+			"created_at": "Mon Dec 05 09:31:01 +0000 2011",
+			"favourites_count": 1729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@TomPhilipson45 We wERe JuST SmoOThInG tHe dAta"
+	},
+	{
+		"created_at": "Wed May 06 12:44:36 +0000 2020",
+		"id": 1257707830787915800,
+		"id_str": "1258014803957702656",
+		"full_text": "This might be the lowest point in the 74 year history of the Council of Economic Advisers. The stakes on the epidemiological questions are so high that this utterly superficial and misleading \"modeling\" has no place whatsoever in any discussion of the government's response. https://t.co/uUwqQ0ARg6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uUwqQ0ARg6",
+					"expanded_url": "https://twitter.com/WhiteHouseCEA/status/1257680258364555264",
+					"display_url": "twitter.com/WhiteHouseCEA/…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279036722,
+			"id_str": "279036722",
+			"name": "Jason Furman",
+			"screen_name": "jasonfurman",
+			"location": "Cambridge, MA",
+			"description": "Professor of Practice at Harvard. Teaches Ec 10, some tweets might be educational. Also Senior Fellow @PIIE. Was Chairman of President Obama's CEA.",
+			"url": "https://t.co/7PFv1dO2te",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7PFv1dO2te",
+							"expanded_url": "https://www.hks.harvard.edu/faculty/jason-furman",
+							"display_url": "hks.harvard.edu/faculty/jason-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46695,
+			"friends_count": 1068,
+			"listed_count": 921,
+			"created_at": "Fri Apr 08 13:22:58 +0000 2011",
+			"favourites_count": 1496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/822302571888922632/6X-Xm966_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/822302571888922632/6X-Xm966_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279036722/1523843097",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257680258364555300,
+		"quoted_status_id_str": "1257680258364555264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uUwqQ0ARg6",
+			"expanded": "https://twitter.com/WhiteHouseCEA/status/1257680258364555264",
+			"display": "twitter.com/WhiteHouseCEA/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 05 14:35:14 +0000 2020",
+			"id": 1257680258364555300,
+			"id_str": "1257680258364555264",
+			"full_text": "To better visualize observed data, we also continually update a curve-fitting exercise to summarize COVID-19's observed trajectory. Particularly with irregular data, curve fitting can improve data visualization. As shown, IHME's mortality curves have matched the data fairly well. https://t.co/NtJcOdA98R",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1257671638864232400,
+						"id_str": "1257671638864232448",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EXQlsS6WAAAXy3W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXQlsS6WAAAXy3W.jpg",
+						"url": "https://t.co/NtJcOdA98R",
+						"display_url": "pic.twitter.com/NtJcOdA98R",
+						"expanded_url": "https://twitter.com/WhiteHouseCEA/status/1257680258364555264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 617,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1899,
+								"h": 976,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1257671638864232400,
+						"id_str": "1257671638864232448",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EXQlsS6WAAAXy3W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXQlsS6WAAAXy3W.jpg",
+						"url": "https://t.co/NtJcOdA98R",
+						"display_url": "pic.twitter.com/NtJcOdA98R",
+						"expanded_url": "https://twitter.com/WhiteHouseCEA/status/1257680258364555264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 617,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1899,
+								"h": 976,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1257680257332674600,
+			"in_reply_to_status_id_str": "1257680257332674560",
+			"in_reply_to_user_id": 866725756025667600,
+			"in_reply_to_user_id_str": "866725756025667584",
+			"in_reply_to_screen_name": "WhiteHouseCEA",
+			"user": {
+				"id": 866725756025667600,
+				"id_str": "866725756025667584",
+				"name": "CEA",
+				"screen_name": "WhiteHouseCEA",
+				"location": "Washington, DC",
+				"description": "Council of Economic Advisers | Tweets may be archived: https://t.co/ALEV9E9onn",
+				"url": "https://t.co/sPbfOAv1K8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sPbfOAv1K8",
+								"expanded_url": "https://www.whitehouse.gov/cea",
+								"display_url": "whitehouse.gov/cea",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ALEV9E9onn",
+								"expanded_url": "http://WH.gov/privacy",
+								"display_url": "WH.gov/privacy",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23304,
+				"friends_count": 32,
+				"listed_count": 235,
+				"created_at": "Mon May 22 18:41:38 +0000 2017",
+				"favourites_count": 21,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1174,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900729467349250051/oT0xhuSa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900729467349250051/oT0xhuSa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/866725756025667584/1503586033",
+				"profile_link_color": "0C2644",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 112,
+			"favorite_count": 297,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1076,
+		"favorite_count": 3034,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This might be the lowest point in the 74 year history of the Council of Economic Advisers. The stakes on the epidemiological questions are so high that this utterly superficial and misleading \"modeling\" has no place whatsoever in any discussion of the government's response. https://t.co/uUwqQ0ARg6"
+	},
+	{
 		"created_at": "Wed May 06 02:09:34 +0000 2020",
 		"id": 1257854991634595800,
 		"id_str": "1257854991634595840",
