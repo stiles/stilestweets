@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 02:34:41 +0000 2020",
+		"id": 1258207188440449000,
+		"id_str": "1258223698600853506",
+		"full_text": "This is my birthday week. \n\nEvery year for the last 35ish years, I've celebrated with the exact same cake from the 1964 West Georgia Jaycees cookbook.\n\nYou can bake it too!\n\nhttps://t.co/MM7vztMXiF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MM7vztMXiF",
+					"expanded_url": "https://gist.github.com/jeremyjbowers/3783743",
+					"display_url": "gist.github.com/jeremyjbowers/…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8083262,
+			"id_str": "8083262",
+			"name": "Jeremy Bowers",
+			"screen_name": "jeremybowers",
+			"location": "Washington, D.C.",
+			"description": "Engineering director @wapoengineering • elections + CMS ← @nytinteractive ← @nprviz. ❦ #TheSqueezle ❦ #TheGiblette ❦ @beckybowers",
+			"url": "https://t.co/bJcwfkCU7u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bJcwfkCU7u",
+							"expanded_url": "https://jeremybowers.com/",
+							"display_url": "jeremybowers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13936,
+			"friends_count": 4732,
+			"listed_count": 742,
+			"created_at": "Thu Aug 09 16:00:54 +0000 2007",
+			"favourites_count": 91872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 71290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242475604747878400/MbDr0uy4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242475604747878400/MbDr0uy4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8083262/1585064243",
+			"profile_link_color": "005599",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is my birthday week. \n\nEvery year for the last 35ish years, I've celebrated with the exact same cake from the 1964 West Georgia Jaycees cookbook.\n\nYou can bake it too!\n\nhttps://t.co/MM7vztMXiF"
+	},
+	{
 		"created_at": "Wed May 06 23:36:52 +0000 2020",
 		"id": 1258178953027547100,
 		"id_str": "1258178953027547136",
