@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 19:39:04 +0000 2020",
+		"id": 1258547219600269300,
+		"id_str": "1258843883972091904",
+		"full_text": "While we're on the road to recovery, #COVID19 remains the number one cause of death and the risk of getting infected remains high. Everyone, whether at work, visiting a business, or engaging in a permitted activity, should follow these practices to protect themselves &amp; others. https://t.co/d07qlGr5AF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						37,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258547217549480000,
+					"id_str": "1258547217549479936",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EXdCBrsX0AAW-2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXdCBrsX0AAW-2F.jpg",
+					"url": "https://t.co/d07qlGr5AF",
+					"display_url": "pic.twitter.com/d07qlGr5AF",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1258547219600269312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1062,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258547217549480000,
+					"id_str": "1258547217549479936",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EXdCBrsX0AAW-2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXdCBrsX0AAW-2F.jpg",
+					"url": "https://t.co/d07qlGr5AF",
+					"display_url": "pic.twitter.com/d07qlGr5AF",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1258547219600269312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1062,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38287098,
+			"id_str": "38287098",
+			"name": "LA Public Health",
+			"screen_name": "lapublichealth",
+			"location": "Los Angeles, California",
+			"description": "Committed to protecting & improving the health of the over 10 million residents of #LACounty. Follow for #HealthAlerts & #HealthTips. #PublicHealth",
+			"url": "https://t.co/Fiv01QwVHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fiv01QwVHL",
+							"expanded_url": "http://publichealth.lacounty.gov",
+							"display_url": "publichealth.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57491,
+			"friends_count": 631,
+			"listed_count": 858,
+			"created_at": "Wed May 06 21:57:05 +0000 2009",
+			"favourites_count": 1425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38287098/1527611465",
+			"profile_link_color": "00205B",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DCE7EA",
+			"profile_text_color": "404040",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "While we're on the road to recovery, #COVID19 remains the number one cause of death and the risk of getting infected remains high. Everyone, whether at work, visiting a business, or engaging in a permitted activity, should follow these practices to protect themselves &amp; others. https://t.co/d07qlGr5AF"
+	},
+	{
 		"created_at": "Fri May 08 16:40:07 +0000 2020",
 		"id": 1258798846672425000,
 		"id_str": "1258798846672424965",
