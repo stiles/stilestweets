@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 21:14:01 +0000 2020",
+		"id": 1258854626662609000,
+		"id_str": "1258867775801450503",
+		"full_text": "This chart sure keeps getting more dramatic. https://t.co/Y4Eq3yH5eI https://t.co/fkp4LFE35M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y4Eq3yH5eI",
+					"expanded_url": "https://projects.fivethirtyeight.com/coronavirus-polls/",
+					"display_url": "projects.fivethirtyeight.com/coronavirus-po…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258854598346825700,
+					"id_str": "1258854598346825728",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EXhZlmZUYAAC6ut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXhZlmZUYAAC6ut.jpg",
+					"url": "https://t.co/fkp4LFE35M",
+					"display_url": "pic.twitter.com/fkp4LFE35M",
+					"expanded_url": "https://twitter.com/onyxfish/status/1258854626662608896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 957,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 561,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258854598346825700,
+					"id_str": "1258854598346825728",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EXhZlmZUYAAC6ut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXhZlmZUYAAC6ut.jpg",
+					"url": "https://t.co/fkp4LFE35M",
+					"display_url": "pic.twitter.com/fkp4LFE35M",
+					"expanded_url": "https://twitter.com/onyxfish/status/1258854626662608896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 957,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 561,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32633517,
+			"id_str": "32633517",
+			"name": "Christopher Groskopf",
+			"screen_name": "onyxfish",
+			"location": "Oakland, CA",
+			"description": "Deputy Editor for Graphics and Interactives, @FiveThirtyEight.  Co-founder, @thetylerloop. Made csvkit. Wrote the Bad Data Guide. #wfh",
+			"url": "https://t.co/QHyHhBQV4U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QHyHhBQV4U",
+							"expanded_url": "https://fivethirtyeight.com/",
+							"display_url": "fivethirtyeight.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6842,
+			"friends_count": 913,
+			"listed_count": 518,
+			"created_at": "Fri Apr 17 22:39:08 +0000 2009",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "334F60",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2778403638/4f499e3b117a65e0eb35e14069a29dfc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2778403638/4f499e3b117a65e0eb35e14069a29dfc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32633517/1500902729",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "404040",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This chart sure keeps getting more dramatic. https://t.co/Y4Eq3yH5eI https://t.co/fkp4LFE35M"
+	},
+	{
 		"created_at": "Fri May 08 19:39:04 +0000 2020",
 		"id": 1258547219600269300,
 		"id_str": "1258843883972091904",
