@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 18:55:58 +0000 2020",
+		"id": 1259128545802059800,
+		"id_str": "1259195422871941120",
+		"full_text": "Yeah it is @MarkMazzettiNYT https://t.co/MGFPdW9rkl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkMazzettiNYT",
+					"name": "Mark Mazzetti",
+					"id": 168684891,
+					"id_str": "168684891",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MGFPdW9rkl",
+					"expanded_url": "https://twitter.com/samdolnick/status/1259100941225275394",
+					"display_url": "twitter.com/samdolnick/sta…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14540264,
+			"id_str": "14540264",
+			"name": "Amy Fiscus",
+			"screen_name": "amyfiscus",
+			"location": "Washington",
+			"description": "New York Times national security editor. “‘I was at the newspaper’ has been your excuse since time immemorial” — @elisewho",
+			"url": "https://t.co/UmqCI5AhUx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmqCI5AhUx",
+							"expanded_url": "http://www.nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20475,
+			"friends_count": 536,
+			"listed_count": 650,
+			"created_at": "Sat Apr 26 05:37:34 +0000 2008",
+			"favourites_count": 3803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189014249730957315/zfjgc1-8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189014249730957315/zfjgc1-8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14540264/1522557449",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259100941225275400,
+		"quoted_status_id_str": "1259100941225275394",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MGFPdW9rkl",
+			"expanded": "https://twitter.com/samdolnick/status/1259100941225275394",
+			"display": "twitter.com/samdolnick/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 09 12:40:32 +0000 2020",
+			"id": 1259100941225275400,
+			"id_str": "1259100941225275394",
+			"full_text": "That's a good lead, come on. https://t.co/HYMsYzdhvD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				28
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1259100927417553000,
+						"id_str": "1259100927417552897",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/EXk5n1sWkAEXoe8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXk5n1sWkAEXoe8.jpg",
+						"url": "https://t.co/HYMsYzdhvD",
+						"display_url": "pic.twitter.com/HYMsYzdhvD",
+						"expanded_url": "https://twitter.com/samdolnick/status/1259100941225275394/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 655,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1316,
+								"h": 718,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1259100927417553000,
+						"id_str": "1259100927417552897",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/EXk5n1sWkAEXoe8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXk5n1sWkAEXoe8.jpg",
+						"url": "https://t.co/HYMsYzdhvD",
+						"display_url": "pic.twitter.com/HYMsYzdhvD",
+						"expanded_url": "https://twitter.com/samdolnick/status/1259100941225275394/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 655,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1316,
+								"h": 718,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 305005427,
+				"id_str": "305005427",
+				"name": "Sam Dolnick",
+				"screen_name": "samdolnick",
+				"location": "",
+				"description": "New York Times, Assistant Managing Editor. “I don't believe most of what Sam Dolnick writes.\" -- Chris Christie",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16619,
+				"friends_count": 2273,
+				"listed_count": 424,
+				"created_at": "Wed May 25 13:45:11 +0000 2011",
+				"favourites_count": 3473,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6800,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2221650082/circles_crop_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2221650082/circles_crop_normal.JPG",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 574,
+			"favorite_count": 2317,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 28,
+		"favorite_count": 104,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yeah it is @MarkMazzettiNYT https://t.co/MGFPdW9rkl"
+	},
+	{
+		"created_at": "Sat May 09 18:54:05 +0000 2020",
+		"id": 1259194023262081000,
+		"id_str": "1259194950601699331",
+		"full_text": "Elon Musk threatens to move Tesla headquarters to Nevada or Texas over coronavirus shutdown https://t.co/Fa98w3203r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fa98w3203r",
+					"expanded_url": "https://www.latimes.com/business/story/2020-05-09/elon-musk-threat-move-tesla-headquarters-california-coronavirus",
+					"display_url": "latimes.com/business/story…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16664681,
+			"id_str": "16664681",
+			"name": "Los Angeles Times",
+			"screen_name": "latimes",
+			"location": "El Segundo, CA",
+			"description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/KW9cHofnW4",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KW9cHofnW4",
+							"expanded_url": "http://latimes.com/subscribe",
+							"display_url": "latimes.com/subscribe",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3600272,
+			"friends_count": 6922,
+			"listed_count": 32840,
+			"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+			"favourites_count": 2528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 281118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "615F61",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Elon Musk threatens to move Tesla headquarters to Nevada or Texas over coronavirus shutdown https://t.co/Fa98w3203r"
+	},
+	{
 		"created_at": "Sat May 09 16:55:38 +0000 2020",
 		"id": 1259165142085820400,
 		"id_str": "1259165142085820417",
