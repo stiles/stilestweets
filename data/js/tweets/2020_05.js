@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 05:09:08 +0000 2020",
+		"id": 1258987343471497200,
+		"id_str": "1258987343471497217",
+		"full_text": "This just came across my @netflix screen. What a relic. https://t.co/c2BssZxOhn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "netflix",
+					"name": "Netflix",
+					"id": 16573941,
+					"id_str": "16573941",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258987301641711600,
+					"id_str": "1258987301641711617",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EXjSR8sU8AEeGwl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXjSR8sU8AEeGwl.jpg",
+					"url": "https://t.co/c2BssZxOhn",
+					"display_url": "pic.twitter.com/c2BssZxOhn",
+					"expanded_url": "https://twitter.com/stiles/status/1258987343471497217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1948,
+							"h": 1210,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258987301641711600,
+					"id_str": "1258987301641711617",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EXjSR8sU8AEeGwl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXjSR8sU8AEeGwl.jpg",
+					"url": "https://t.co/c2BssZxOhn",
+					"display_url": "pic.twitter.com/c2BssZxOhn",
+					"expanded_url": "https://twitter.com/stiles/status/1258987343471497217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1948,
+							"h": 1210,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11432,
+			"friends_count": 2063,
+			"listed_count": 872,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1588454130",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This just came across my @netflix screen. What a relic. https://t.co/c2BssZxOhn"
+	},
+	{
 		"created_at": "Fri May 08 21:28:05 +0000 2020",
 		"id": 1258860402739380200,
 		"id_str": "1258871317278846978",
