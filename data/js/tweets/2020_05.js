@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 20:34:41 +0000 2020",
+		"id": 1259220267894599700,
+		"id_str": "1259220267894599680",
+		"full_text": "Useful... https://t.co/08okyVxj4g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/08okyVxj4g",
+					"expanded_url": "https://twitter.com/TedPetrou/status/1259218149829992450",
+					"display_url": "twitter.com/TedPetrou/stat…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11440,
+			"friends_count": 2063,
+			"listed_count": 871,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1588454130",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259218149829992400,
+		"quoted_status_id_str": "1259218149829992450",
+		"quoted_status_permalink": {
+			"url": "https://t.co/08okyVxj4g",
+			"expanded": "https://twitter.com/TedPetrou/status/1259218149829992450",
+			"display": "twitter.com/TedPetrou/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 09 20:26:16 +0000 2020",
+			"id": 1259218149829992400,
+			"id_str": "1259218149829992450",
+			"full_text": "I'm releasing two brand new packages next week - dataframe_image and jupyter_to_medium\n\ndataframe_image embeds pandas DataFrames as images in pdf and markdown documents\n\njupyter_to_medium - publishes jupyter notebooks as Medium blog posts\n\nhttps://t.co/tfuVj6O4nB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tfuVj6O4nB",
+						"expanded_url": "http://github.com/dexplo/dataframe_image",
+						"display_url": "github.com/dexplo/datafra…",
+						"indices": [
+							240,
+							263
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 821432329,
+				"id_str": "821432329",
+				"name": "Ted Petrou",
+				"screen_name": "TedPetrou",
+				"location": "Houston, TX",
+				"description": "Author of Master Data Science with Python (https://t.co/uXrCuTLQG8), Master Machine Learning with Python, Exercise Python and Pandas Cookbook. Founder of Dunder Data.",
+				"url": "https://t.co/0XKafb6M1D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0XKafb6M1D",
+								"expanded_url": "http://www.dunderdata.com",
+								"display_url": "dunderdata.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uXrCuTLQG8",
+								"expanded_url": "http://b.link/MDAPT2",
+								"display_url": "b.link/MDAPT2",
+								"indices": [
+									43,
+									66
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3587,
+				"friends_count": 29,
+				"listed_count": 74,
+				"created_at": "Thu Sep 13 12:30:55 +0000 2012",
+				"favourites_count": 1578,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2899,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1104747789517348864/ej6YBd_7_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104747789517348864/ej6YBd_7_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/821432329/1524582229",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Useful... https://t.co/08okyVxj4g"
+	},
+	{
 		"created_at": "Sat May 09 18:55:58 +0000 2020",
 		"id": 1259128545802059800,
 		"id_str": "1259195422871941120",
