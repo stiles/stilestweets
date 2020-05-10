@@ -1,6 +1,965 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 14:12:09 +0000 2020",
+		"id": 1259004247678480400,
+		"id_str": "1259486388644270081",
+		"full_text": "Seoul is ordering the closure of nightlife establishments after at least 40 new infections have been linked to clubs visited by a Covid patient. \n\nThey're trying to track down nearly 2,000 who were at the clubs over the weekend but have only reached 637.\n\nhttps://t.co/O1HeyOZnJJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O1HeyOZnJJ",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200509035652004",
+					"display_url": "yna.co.kr/view/AKR202005…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54643600,
+			"id_str": "54643600",
+			"name": "Victoria Kim",
+			"screen_name": "vicjkim",
+			"location": "대한민국 서울",
+			"description": "@LATimes Seoul correspondent. Reach me at https://t.co/aCqVWMmXQW (at) https://t.co/eTksmynSH7. LA 타임스 서울 특파원입니다",
+			"url": "https://t.co/oLZaH6LhdI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oLZaH6LhdI",
+							"expanded_url": "http://www.latimes.com/la-bio-victoria-kim-staff.html",
+							"display_url": "latimes.com/la-bio-victori…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aCqVWMmXQW",
+							"expanded_url": "http://victoria.kim",
+							"display_url": "victoria.kim",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11190,
+			"friends_count": 2238,
+			"listed_count": 312,
+			"created_at": "Tue Jul 07 19:07:04 +0000 2009",
+			"favourites_count": 6065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148260636566016001/Sp-xkMH3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148260636566016001/Sp-xkMH3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54643600/1421810039",
+			"profile_link_color": "737CA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1941,
+		"favorite_count": 2924,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seoul is ordering the closure of nightlife establishments after at least 40 new infections have been linked to clubs visited by a Covid patient. \n\nThey're trying to track down nearly 2,000 who were at the clubs over the weekend but have only reached 637.\n\nhttps://t.co/O1HeyOZnJJ"
+	},
+	{
+		"created_at": "Sun May 10 14:04:22 +0000 2020",
+		"id": 1259484429279350800,
+		"id_str": "1259484429279350790",
+		"full_text": "That war one... Texas is tiny! https://t.co/miKYDXUE4X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/miKYDXUE4X",
+					"expanded_url": "https://twitter.com/wallacetim/status/1259340571346264067",
+					"display_url": "twitter.com/wallacetim/sta…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11446,
+			"friends_count": 2067,
+			"listed_count": 870,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589078367",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259340571346264000,
+		"quoted_status_id_str": "1259340571346264067",
+		"quoted_status_permalink": {
+			"url": "https://t.co/miKYDXUE4X",
+			"expanded": "https://twitter.com/wallacetim/status/1259340571346264067",
+			"display": "twitter.com/wallacetim/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 10 04:32:44 +0000 2020",
+			"id": 1259340571346264000,
+			"id_str": "1259340571346264067",
+			"full_text": "Four Fortune Magazine cartograms. 1967, 1966, 1939, 1938. https://t.co/etY9AW9t3Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				57
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1259335717802528800,
+						"id_str": "1259335717802528768",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/EXoPKcCU0AAcE81.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXoPKcCU0AAcE81.jpg",
+						"url": "https://t.co/etY9AW9t3Y",
+						"display_url": "pic.twitter.com/etY9AW9t3Y",
+						"expanded_url": "https://twitter.com/wallacetim/status/1259340571346264067/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 552,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 942,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 313,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1259335717802528800,
+						"id_str": "1259335717802528768",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/EXoPKcCU0AAcE81.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXoPKcCU0AAcE81.jpg",
+						"url": "https://t.co/etY9AW9t3Y",
+						"display_url": "pic.twitter.com/etY9AW9t3Y",
+						"expanded_url": "https://twitter.com/wallacetim/status/1259340571346264067/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 552,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 942,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 313,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1259336274692825000,
+						"id_str": "1259336274692825090",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/EXoPq2nUYAIGlc_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXoPq2nUYAIGlc_.jpg",
+						"url": "https://t.co/etY9AW9t3Y",
+						"display_url": "pic.twitter.com/etY9AW9t3Y",
+						"expanded_url": "https://twitter.com/wallacetim/status/1259340571346264067/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 834,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1914,
+								"h": 1330,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1259337061141643300,
+						"id_str": "1259337061141643265",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/EXoQYoXVAAES5Ee.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXoQYoXVAAES5Ee.jpg",
+						"url": "https://t.co/etY9AW9t3Y",
+						"display_url": "pic.twitter.com/etY9AW9t3Y",
+						"expanded_url": "https://twitter.com/wallacetim/status/1259340571346264067/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1331,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1259338849756430300,
+						"id_str": "1259338849756430341",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/EXoSAveUwAUVuQq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXoSAveUwAUVuQq.jpg",
+						"url": "https://t.co/etY9AW9t3Y",
+						"display_url": "pic.twitter.com/etY9AW9t3Y",
+						"expanded_url": "https://twitter.com/wallacetim/status/1259340571346264067/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1856,
+								"h": 1530,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 561,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 989,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50387337,
+				"id_str": "50387337",
+				"name": "Tim Wallace",
+				"screen_name": "wallacetim",
+				"location": "Candy Aisle",
+				"description": "Head of Creative @DescartesLabs | Geographer/Journalist | Formerly @nytimes | PhD @UWMadisonGeog",
+				"url": "http://t.co/odIwGlRxjf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/odIwGlRxjf",
+								"expanded_url": "http://timwallace.info",
+								"display_url": "timwallace.info",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8070,
+				"friends_count": 793,
+				"listed_count": 359,
+				"created_at": "Wed Jun 24 18:21:45 +0000 2009",
+				"favourites_count": 8028,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9199,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/967796927520694272/UpJ0Pqrv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/967796927520694272/UpJ0Pqrv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50387337/1586013775",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5F5E7",
+				"profile_text_color": "282A2B",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That war one... Texas is tiny! https://t.co/miKYDXUE4X"
+	},
+	{
+		"created_at": "Sun May 10 13:46:11 +0000 2020",
+		"id": 1259479854581379000,
+		"id_str": "1259479854581379074",
+		"full_text": "In case you forgotten: The president rage tweets on occasion and often makes false statements. Not sure why people are surprised this morning.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11446,
+			"friends_count": 2067,
+			"listed_count": 870,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589078367",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "In case you forgotten: The president rage tweets on occasion and often makes false statements. Not sure why people are surprised this morning."
+	},
+	{
+		"created_at": "Sun May 10 13:43:11 +0000 2020",
+		"id": 1259449005278404600,
+		"id_str": "1259479098172137473",
+		"full_text": "Overlooked: AOC has credible primary opposition, and her pollster isn’t sharing any numbers. \nhttps://t.co/Ruzt6vG0vJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ruzt6vG0vJ",
+					"expanded_url": "http://njour.nl/s/706672?unlock=BQCR1LRGXS3KABPX",
+					"display_url": "njour.nl/s/706672?unloc…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21612122,
+			"id_str": "21612122",
+			"name": "Josh Kraushaar",
+			"screen_name": "HotlineJosh",
+			"location": "Washington, DC",
+			"description": "Politics Editor at National Journal. Political reporting & analysis, without fear or favor. Part political tip sheet, part BS detector. RTs aren't endorsements.",
+			"url": "https://t.co/FJXNKpLDdr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FJXNKpLDdr",
+							"expanded_url": "https://www.nationaljournal.com/staff#josh-kraushaar",
+							"display_url": "nationaljournal.com/staff#josh-kra…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73225,
+			"friends_count": 2169,
+			"listed_count": 2203,
+			"created_at": "Sun Feb 22 23:45:46 +0000 2009",
+			"favourites_count": 14147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 256981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923616463897931777/A5rzMcn4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923616463897931777/A5rzMcn4_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 859,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Overlooked: AOC has credible primary opposition, and her pollster isn’t sharing any numbers. \nhttps://t.co/Ruzt6vG0vJ"
+	},
+	{
+		"created_at": "Sun May 10 13:36:47 +0000 2020",
+		"id": 1259447155330371600,
+		"id_str": "1259477486477312001",
+		"full_text": "One in every 137 New Yorkers aged 45-64 has been hospitalized for covid19, and about .25% of the city's total population of 8.4 million has perished from the disease; while recent serology surveys suggest about 20% of New Yorkers have been infected with SARS-CoV-2 so far. https://t.co/tYHFE9lJFc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259445363095801900,
+					"id_str": "1259445363095801856",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpy4olWkAAKkLJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpy4olWkAAKkLJ.jpg",
+					"url": "https://t.co/tYHFE9lJFc",
+					"display_url": "pic.twitter.com/tYHFE9lJFc",
+					"expanded_url": "https://twitter.com/ScottGottliebMD/status/1259447155330371584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 775,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 775,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259445363095801900,
+					"id_str": "1259445363095801856",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpy4olWkAAKkLJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpy4olWkAAKkLJ.jpg",
+					"url": "https://t.co/tYHFE9lJFc",
+					"display_url": "pic.twitter.com/tYHFE9lJFc",
+					"expanded_url": "https://twitter.com/ScottGottliebMD/status/1259447155330371584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 775,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 775,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40156330,
+			"id_str": "40156330",
+			"name": "Scott Gottlieb, MD",
+			"screen_name": "ScottGottliebMD",
+			"location": "Washington, DC",
+			"description": "Resident Fellow @AEI. Partner @NEA. Contributor @CNBC. 23rd Commissioner of the @US_FDA 2017 to 2019. Boards: @Pfizer @Illumina @AetionInc @TempusLabs",
+			"url": "https://t.co/CsvXyacSip",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CsvXyacSip",
+							"expanded_url": "https://www.aei.org/profile/scott-gottlieb/",
+							"display_url": "aei.org/profile/scott-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335733,
+			"friends_count": 903,
+			"listed_count": 5668,
+			"created_at": "Fri May 15 02:39:37 +0000 2009",
+			"favourites_count": 2134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/939996832574435329/cQICPkCh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/939996832574435329/cQICPkCh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40156330/1588996201",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 322,
+		"favorite_count": 515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One in every 137 New Yorkers aged 45-64 has been hospitalized for covid19, and about .25% of the city's total population of 8.4 million has perished from the disease; while recent serology surveys suggest about 20% of New Yorkers have been infected with SARS-CoV-2 so far. https://t.co/tYHFE9lJFc"
+	},
+	{
 		"created_at": "Sun May 10 02:47:24 +0000 2020",
 		"id": 1259314063470760000,
 		"id_str": "1259314063470759936",
