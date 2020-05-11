@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 06:48:18 +0000 2020",
+		"id": 1259737075378647000,
+		"id_str": "1259737075378647040",
+		"full_text": "Just came across this before bed. Going to have trouble sleeping now... https://t.co/3YZ9raE8wP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3YZ9raE8wP",
+					"expanded_url": "https://twitter.com/tmcw/status/1259600386094030848",
+					"display_url": "twitter.com/tmcw/status/12…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11447,
+			"friends_count": 2068,
+			"listed_count": 868,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589078367",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259600386094030800,
+		"quoted_status_id_str": "1259600386094030848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3YZ9raE8wP",
+			"expanded": "https://twitter.com/tmcw/status/1259600386094030848",
+			"display": "twitter.com/tmcw/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 10 21:45:08 +0000 2020",
+			"id": 1259600386094030800,
+			"id_str": "1259600386094030848",
+			"full_text": "okay i mulled over this idea in my head for a month and then just sat down and wrote this in one pass without switching tabs so here it is, raw and extra spicy:\n\n\"Second guessing the modern web\" https://t.co/NWt1oYF54M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NWt1oYF54M",
+						"expanded_url": "https://macwright.org/2020/05/10/spa-fatigue.html",
+						"display_url": "macwright.org/2020/05/10/spa…",
+						"indices": [
+							195,
+							218
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1458271,
+				"id_str": "1458271",
+				"name": "Tom MacWright",
+				"screen_name": "tmcw",
+				"location": "lon, lat",
+				"description": "working on something new and different / engineer, writer, ‘art’",
+				"url": "https://t.co/XLS7W19W02",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XLS7W19W02",
+								"expanded_url": "https://macwright.org/",
+								"display_url": "macwright.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8757,
+				"friends_count": 954,
+				"listed_count": 453,
+				"created_at": "Mon Mar 19 01:06:50 +0000 2007",
+				"favourites_count": 8802,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6185,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1172554769237336065/CIdcAG0d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172554769237336065/CIdcAG0d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1458271/1578276968",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 344,
+			"favorite_count": 1108,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just came across this before bed. Going to have trouble sleeping now... https://t.co/3YZ9raE8wP"
+	},
+	{
 		"created_at": "Sun May 10 19:23:34 +0000 2020",
 		"id": 1259564756916007000,
 		"id_str": "1259564756916006913",
