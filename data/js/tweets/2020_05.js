@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 18:30:58 +0000 2020",
+		"id": 1260627598612152300,
+		"id_str": "1260638685801771008",
+		"full_text": "you can shut down cities, economies, entire ways of life... but still THE JACARANDA BLOOM COMES https://t.co/fQaGzY6HmJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260627522829512700,
+					"id_str": "1260627522829512704",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EX6mDYxVcAAp2mN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX6mDYxVcAAp2mN.jpg",
+					"url": "https://t.co/fQaGzY6HmJ",
+					"display_url": "pic.twitter.com/fQaGzY6HmJ",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1260627598612152321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1202,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 704,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260627522829512700,
+					"id_str": "1260627522829512704",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EX6mDYxVcAAp2mN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX6mDYxVcAAp2mN.jpg",
+					"url": "https://t.co/fQaGzY6HmJ",
+					"display_url": "pic.twitter.com/fQaGzY6HmJ",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1260627598612152321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1202,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 704,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260627522829447200,
+					"id_str": "1260627522829447168",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EX6mDYxUcAANzKB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX6mDYxUcAANzKB.jpg",
+					"url": "https://t.co/fQaGzY6HmJ",
+					"display_url": "pic.twitter.com/fQaGzY6HmJ",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1260627598612152321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260627522825248800,
+					"id_str": "1260627522825248769",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EX6mDYwUYAEfw4b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX6mDYwUYAEfw4b.jpg",
+					"url": "https://t.co/fQaGzY6HmJ",
+					"display_url": "pic.twitter.com/fQaGzY6HmJ",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1260627598612152321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13479902,
+			"id_str": "13479902",
+			"name": "Julia Wick",
+			"screen_name": "sherlyholmes",
+			"location": "LA",
+			"description": "@latimes metro reporter & Essential California newsletter author (subscribe: https://t.co/FxOtLkVeGE) Former EIC @LAist. Native Angeleno. Julia.wick@latimes.com",
+			"url": "https://t.co/9nLR6Wm4Ya",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9nLR6Wm4Ya",
+							"expanded_url": "https://www.latimes.com/la-bio-julia-wick-staff.html",
+							"display_url": "latimes.com/la-bio-julia-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FxOtLkVeGE",
+							"expanded_url": "https://lat.ms/2JG6TWt",
+							"display_url": "lat.ms/2JG6TWt",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9352,
+			"friends_count": 1881,
+			"listed_count": 204,
+			"created_at": "Thu Feb 14 17:24:54 +0000 2008",
+			"favourites_count": 15331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13479902/1502071398",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 252,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "you can shut down cities, economies, entire ways of life... but still THE JACARANDA BLOOM COMES https://t.co/fQaGzY6HmJ"
+	},
+	{
 		"created_at": "Wed May 13 16:22:35 +0000 2020",
 		"id": 1260606377057087500,
 		"id_str": "1260606377057087488",
