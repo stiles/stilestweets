@@ -1,6 +1,1041 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 13:54:28 +0000 2020",
+		"id": 1260458603762376700,
+		"id_str": "1260569102546067457",
+		"full_text": "korea  just bein korea https://t.co/mrYZ7XLsv1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mrYZ7XLsv1",
+					"expanded_url": "https://twitter.com/joongangdaily/status/1260316833116295180",
+					"display_url": "twitter.com/joongangdaily/…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17451211,
+			"id_str": "17451211",
+			"name": "Alyssa Jeong Perry",
+			"screen_name": "alyssajperry",
+			"location": "Los Angeles, CA",
+			"description": "@KPCC 📻 health reporter. formerly @KQED and @reveal reporting on Tesla. made in korea 정연지 | norcal raised. @ucbsoj alum. email: aperry@scpr.org",
+			"url": "https://t.co/fL2iRHGRpX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fL2iRHGRpX",
+							"expanded_url": "http://www.alyssajperry.com",
+							"display_url": "alyssajperry.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2475,
+			"friends_count": 4512,
+			"listed_count": 85,
+			"created_at": "Mon Nov 17 21:32:08 +0000 2008",
+			"favourites_count": 23574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110029503323987968/MgYBPUzH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110029503323987968/MgYBPUzH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17451211/1558804638",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260316833116295200,
+		"quoted_status_id_str": "1260316833116295180",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mrYZ7XLsv1",
+			"expanded": "https://twitter.com/joongangdaily/status/1260316833116295180",
+			"display": "twitter.com/joongangdaily/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 12 21:12:03 +0000 2020",
+			"id": 1260316833116295200,
+			"id_str": "1260316833116295180",
+			"full_text": "The obligation of wearing face masks has boosted the plastic surgery industry, as customers feel more comfortable with long recoveries wearing masks in public and working from home.\nhttps://t.co/J8e3F6dCRb https://t.co/T17p2B7e4e",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/J8e3F6dCRb",
+						"expanded_url": "https://buff.ly/35TeTvz",
+						"display_url": "buff.ly/35TeTvz",
+						"indices": [
+							182,
+							205
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1260316831182663700,
+						"id_str": "1260316831182663682",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/EX2LewMWsAIfS47.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EX2LewMWsAIfS47.jpg",
+						"url": "https://t.co/T17p2B7e4e",
+						"display_url": "pic.twitter.com/T17p2B7e4e",
+						"expanded_url": "https://twitter.com/JoongAngDaily/status/1260316833116295180/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 560,
+								"h": 451,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 560,
+								"h": 451,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 560,
+								"h": 451,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1260316831182663700,
+						"id_str": "1260316831182663682",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/EX2LewMWsAIfS47.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EX2LewMWsAIfS47.jpg",
+						"url": "https://t.co/T17p2B7e4e",
+						"display_url": "pic.twitter.com/T17p2B7e4e",
+						"expanded_url": "https://twitter.com/JoongAngDaily/status/1260316833116295180/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 560,
+								"h": 451,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 560,
+								"h": 451,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 560,
+								"h": 451,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 117366846,
+				"id_str": "117366846",
+				"name": "Korea JoongAng Daily",
+				"screen_name": "JoongAngDaily",
+				"location": "Seoul, Korea",
+				"description": "Korea’s leading English language newspaper, the Korea JoongAng Daily, in partnership with the International New York Times",
+				"url": "https://t.co/BTQOKjL9QE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BTQOKjL9QE",
+								"expanded_url": "http://www.koreajoongangdaily.com",
+								"display_url": "koreajoongangdaily.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16253,
+				"friends_count": 260,
+				"listed_count": 617,
+				"created_at": "Thu Feb 25 10:18:08 +0000 2010",
+				"favourites_count": 1056,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 21887,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFCC4D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1235079507897282560/S337AnPH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235079507897282560/S337AnPH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117366846/1583285981",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "korea  just bein korea https://t.co/mrYZ7XLsv1"
+	},
+	{
+		"created_at": "Wed May 13 13:51:40 +0000 2020",
+		"id": 1260544236178604000,
+		"id_str": "1260568396141400065",
+		"full_text": "Comedy is a potent weapon against his insanity. https://t.co/AkHGDKRcED",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AkHGDKRcED",
+					"expanded_url": "https://twitter.com/sarahcpr/status/1260290839114383361",
+					"display_url": "twitter.com/sarahcpr/statu…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3353865792,
+			"id_str": "3353865792",
+			"name": "Amy E. Botelho",
+			"screen_name": "AmyEBotelho1",
+			"location": "",
+			"description": "Proud UT Journalism grad (#HookEm), comedian, writer, loyal NY'er.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394,
+			"friends_count": 1560,
+			"listed_count": 10,
+			"created_at": "Thu Aug 27 00:36:08 +0000 2015",
+			"favourites_count": 4635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824757312661262339/lk40_a5e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824757312661262339/lk40_a5e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3353865792/1440637837",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260290839114383400,
+		"quoted_status_id_str": "1260290839114383361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AkHGDKRcED",
+			"expanded": "https://twitter.com/sarahcpr/status/1260290839114383361",
+			"display": "twitter.com/sarahcpr/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 12 19:28:45 +0000 2020",
+			"id": 1260290839114383400,
+			"id_str": "1260290839114383361",
+			"full_text": "How to #Obamagate (take 2) (for hardcore fans only) https://t.co/P9bLNJ1WdY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Obamagate",
+						"indices": [
+							7,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1260290499518304300,
+						"id_str": "1260290499518304262",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260290499518304262/pu/img/HM0Bg_a-dtJufxxE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260290499518304262/pu/img/HM0Bg_a-dtJufxxE.jpg",
+						"url": "https://t.co/P9bLNJ1WdY",
+						"display_url": "pic.twitter.com/P9bLNJ1WdY",
+						"expanded_url": "https://twitter.com/sarahcpr/status/1260290839114383361/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1260290499518304300,
+						"id_str": "1260290499518304262",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260290499518304262/pu/img/HM0Bg_a-dtJufxxE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260290499518304262/pu/img/HM0Bg_a-dtJufxxE.jpg",
+						"url": "https://t.co/P9bLNJ1WdY",
+						"display_url": "pic.twitter.com/P9bLNJ1WdY",
+						"expanded_url": "https://twitter.com/sarahcpr/status/1260290839114383361/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 54615,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1260290499518304262/pu/pl/b16mHulRjgwVo8QW.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1260290499518304262/pu/vid/360x640/srXTgbk4r9rQTFPS.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1260290499518304262/pu/vid/320x568/QYOSPab_bWlJVZ2X.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1260290499518304262/pu/vid/720x1280/yGnbiSaAXK4WE16Q.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14642495,
+				"id_str": "14642495",
+				"name": "Sarah Cooper",
+				"screen_name": "sarahcpr",
+				"location": "Brooklyn, NY",
+				"description": "writer / comedian / #blockedbytrump / wrote 100 Tricks to Appear Smart in Meetings & How to Be Successful Without Hurting Men's Feelings",
+				"url": "https://t.co/SSzNovmSrb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SSzNovmSrb",
+								"expanded_url": "http://sarahcpr.com",
+								"display_url": "sarahcpr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 425930,
+				"friends_count": 2595,
+				"listed_count": 1775,
+				"created_at": "Sat May 03 23:30:29 +0000 2008",
+				"favourites_count": 131955,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 36761,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1256381928246296578/yPPL34Um_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256381928246296578/yPPL34Um_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14642495/1581527591",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16427,
+			"favorite_count": 86857,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Comedy is a potent weapon against his insanity. https://t.co/AkHGDKRcED"
+	},
+	{
+		"created_at": "Wed May 13 13:44:49 +0000 2020",
+		"id": 1260554374067216400,
+		"id_str": "1260566672861130752",
+		"full_text": "Since Sunday, Trump has used his Twitter account to make or elevate allegations of criminal conduct against no less than 20 people and groups, throwing out unfounded accusations including even murder as he rages against his enemies. ⁦@ToluseO⁩ https://t.co/MHsbef6md5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ToluseO",
+					"name": "Toluse Olorunnipa",
+					"id": 168290603,
+					"id_str": "168290603",
+					"indices": [
+						234,
+						242
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MHsbef6md5",
+					"expanded_url": "https://www.washingtonpost.com/politics/trump-reverts-to-tactic-of-accusing-foes-of-felonies-as-coronavirus-roils-the-nation/2020/05/12/2028bf88-9467-11ea-9f5e-56d8239bf9ad_story.html",
+					"display_url": "washingtonpost.com/politics/trump…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123327472,
+			"id_str": "123327472",
+			"name": "Peter Baker",
+			"screen_name": "peterbakernyt",
+			"location": "",
+			"description": "Chief White House Correspondent for The New York Times and MSNBC analyst. Proud husband of Susan Glasser of the New Yorker and CNN.",
+			"url": "https://t.co/UmqCI5AhUx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmqCI5AhUx",
+							"expanded_url": "http://www.nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 402133,
+			"friends_count": 2700,
+			"listed_count": 4970,
+			"created_at": "Mon Mar 15 18:55:27 +0000 2010",
+			"favourites_count": 4809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "08090A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/821603222544596994/VlQaklD5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/821603222544596994/VlQaklD5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123327472/1484720732",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 608,
+		"favorite_count": 1116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Since Sunday, Trump has used his Twitter account to make or elevate allegations of criminal conduct against no less than 20 people and groups, throwing out unfounded accusations including even murder as he rages against his enemies. ⁦@ToluseO⁩ https://t.co/MHsbef6md5"
+	},
+	{
+		"created_at": "Wed May 13 13:43:44 +0000 2020",
+		"id": 1260526307416440800,
+		"id_str": "1260566398247600131",
+		"full_text": "if you live in the wealthiest part of New York, you can expect to live til you're 92\n\nif you live in the poorest part, you can expect to live til you're 71\n\ncities have failed us. here's why, in charts: https://t.co/jUrL9JanzK https://t.co/uRLcxuXqdS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jUrL9JanzK",
+					"expanded_url": "https://www.nytimes.com/interactive/2020/05/13/opinion/inequality-cities-life-expectancy.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260526120635633700,
+					"id_str": "1260526120635633664",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260526120635633664/pu/img/XjtbKW69TjgCTQjr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260526120635633664/pu/img/XjtbKW69TjgCTQjr.jpg",
+					"url": "https://t.co/uRLcxuXqdS",
+					"display_url": "pic.twitter.com/uRLcxuXqdS",
+					"expanded_url": "https://twitter.com/stuartathompson/status/1260526307416440832/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260526120635633700,
+					"id_str": "1260526120635633664",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260526120635633664/pu/img/XjtbKW69TjgCTQjr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260526120635633664/pu/img/XjtbKW69TjgCTQjr.jpg",
+					"url": "https://t.co/uRLcxuXqdS",
+					"display_url": "pic.twitter.com/uRLcxuXqdS",
+					"expanded_url": "https://twitter.com/stuartathompson/status/1260526307416440832/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 6807,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1260526120635633664/pu/pl/Q2T6tClWAYMy60tm.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260526120635633664/pu/vid/480x270/OrliE6BRKX6lZz5s.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260526120635633664/pu/vid/640x360/nD5R8mA-dd9lQcHT.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260526120635633664/pu/vid/1280x720/9iP2mFzu33rOWHh0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68727303,
+			"id_str": "68727303",
+			"name": "stuart andrew thompson",
+			"screen_name": "stuartathompson",
+			"location": "40°45'21.4\"N 73°59'23.0\"W",
+			"description": "editor/writer at The New York Times Opinion. I always want your tips: stuart.thompson@nytimes.com or DM me.",
+			"url": "https://t.co/GVi9g1vIIK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GVi9g1vIIK",
+							"expanded_url": "http://www.breadscheduler.com",
+							"display_url": "breadscheduler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17404,
+			"friends_count": 655,
+			"listed_count": 562,
+			"created_at": "Tue Aug 25 15:53:23 +0000 2009",
+			"favourites_count": 7529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207106473517604866/tpOeGz3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207106473517604866/tpOeGz3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68727303/1586401883",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "if you live in the wealthiest part of New York, you can expect to live til you're 92\n\nif you live in the poorest part, you can expect to live til you're 71\n\ncities have failed us. here's why, in charts: https://t.co/jUrL9JanzK https://t.co/uRLcxuXqdS"
+	},
+	{
+		"created_at": "Wed May 13 13:41:28 +0000 2020",
+		"id": 1260483709498732500,
+		"id_str": "1260565828342181888",
+		"full_text": "If your phone isn’t on silent in 2020 you’re a sociopath",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 564919357,
+			"id_str": "564919357",
+			"name": "I Am Devloper",
+			"screen_name": "iamdevloper",
+			"location": "Localhost",
+			"description": "just your friendly neighbourhood printer fixer\n\n💰 in tweet = ad",
+			"url": "https://t.co/Wnun5VAtmt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wnun5VAtmt",
+							"expanded_url": "https://iamdevloper.io",
+							"display_url": "iamdevloper.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396219,
+			"friends_count": 0,
+			"listed_count": 4322,
+			"created_at": "Fri Apr 27 21:06:51 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178631635606151168/yIlrcg4o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178631635606151168/yIlrcg4o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/564919357/1569874159",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 583,
+		"favorite_count": 3285,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If your phone isn’t on silent in 2020 you’re a sociopath"
+	},
+	{
 		"created_at": "Wed May 13 04:56:40 +0000 2020",
 		"id": 1259538131314856000,
 		"id_str": "1260433758236348418",
