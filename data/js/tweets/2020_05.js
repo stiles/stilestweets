@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 04:56:40 +0000 2020",
+		"id": 1259538131314856000,
+		"id_str": "1260433758236348418",
+		"full_text": "For my latest, I spent the day (starting at 5 a.m.) with @vons workers in Torrance. Since the pandemic, they’ve dealt with panic attacks, being cursed out and customers who refuse to follow the rules putting themselves and workers at risk. https://t.co/xUEiy1YCNW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vons",
+					"name": "Vons",
+					"id": 29289493,
+					"id_str": "29289493",
+					"indices": [
+						57,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xUEiy1YCNW",
+					"expanded_url": "https://www.latimes.com/california/story/2020-05-10/coronavirus-supermarket-worker-grocery-store-vons-day-in-the-life",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 555433957,
+			"id_str": "555433957",
+			"name": "Brittny Mejia",
+			"screen_name": "brittny_mejia",
+			"location": "",
+			"description": "Metro reporter @latimes. Military brat. Story tips: brittny.mejia@latimes.com Hablo español. Proud Mexican American",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10133,
+			"friends_count": 1983,
+			"listed_count": 273,
+			"created_at": "Mon Apr 16 21:21:58 +0000 2012",
+			"favourites_count": 9384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187106480765276160/WGDtYxLz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187106480765276160/WGDtYxLz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/555433957/1534735787",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 404,
+		"favorite_count": 750,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For my latest, I spent the day (starting at 5 a.m.) with @vons workers in Torrance. Since the pandemic, they’ve dealt with panic attacks, being cursed out and customers who refuse to follow the rules putting themselves and workers at risk. https://t.co/xUEiy1YCNW"
+	},
+	{
 		"created_at": "Wed May 13 00:28:19 +0000 2020",
 		"id": 1260364673687277600,
 		"id_str": "1260366228473778185",
