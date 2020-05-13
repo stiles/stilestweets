@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 23:07:58 +0000 2020",
+		"id": 1260708391812399000,
+		"id_str": "1260708391812399104",
+		"full_text": "https://t.co/Hq3vT0D909 https://t.co/h2VQNMWMgK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hq3vT0D909",
+					"expanded_url": "https://twitter.com/EmmaHor90712986/status/1260052908546027520",
+					"display_url": "twitter.com/EmmaHor9071298…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260708381909631000,
+					"id_str": "1260708381909630976",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EX7vmAUUwAACPgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EX7vmAUUwAACPgI.jpg",
+					"url": "https://t.co/h2VQNMWMgK",
+					"display_url": "pic.twitter.com/h2VQNMWMgK",
+					"expanded_url": "https://twitter.com/stiles/status/1260708391812399104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260708381909631000,
+					"id_str": "1260708381909630976",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EX7vmAUUwAACPgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EX7vmAUUwAACPgI.jpg",
+					"url": "https://t.co/h2VQNMWMgK",
+					"display_url": "pic.twitter.com/h2VQNMWMgK",
+					"expanded_url": "https://twitter.com/stiles/status/1260708391812399104/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EX7vmAUUwAACPgI.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11451,
+			"friends_count": 2069,
+			"listed_count": 860,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589078367",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260052908546027500,
+		"quoted_status_id_str": "1260052908546027520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hq3vT0D909",
+			"expanded": "https://twitter.com/EmmaHor90712986/status/1260052908546027520",
+			"display": "twitter.com/EmmaHor9071298…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 12 03:43:18 +0000 2020",
+			"id": 1260052908546027500,
+			"id_str": "1260052908546027520",
+			"full_text": "@sally_ann_cole @SupJaniceHahn Where has aerosol superspreader come from? 😂 it barely exists in the air, almost every single case has been from contact. It’s a novel virus. Not airborne. 🤦🏼‍♀️",
+			"truncated": false,
+			"display_text_range": [
+				31,
+				192
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sally_ann_cole",
+						"name": "sally",
+						"id": 709198097549631500,
+						"id_str": "709198097549631488",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "SupJaniceHahn",
+						"name": "Janice Hahn",
+						"id": 339852137,
+						"id_str": "339852137",
+						"indices": [
+							16,
+							30
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1259878870238367700,
+			"in_reply_to_status_id_str": "1259878870238367744",
+			"in_reply_to_user_id": 709198097549631500,
+			"in_reply_to_user_id_str": "709198097549631488",
+			"in_reply_to_screen_name": "sally_ann_cole",
+			"user": {
+				"id": 1171219532670627800,
+				"id_str": "1171219532670627840",
+				"name": "Emma Smythe",
+				"screen_name": "EmmaHor90712986",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 18,
+				"listed_count": 0,
+				"created_at": "Tue Sep 10 00:31:17 +0000 2019",
+				"favourites_count": 52,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260034348406894592/VkdUQtz-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260034348406894592/VkdUQtz-_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Hq3vT0D909 https://t.co/h2VQNMWMgK"
+	},
+	{
 		"created_at": "Wed May 13 18:30:58 +0000 2020",
 		"id": 1260627598612152300,
 		"id_str": "1260638685801771008",
