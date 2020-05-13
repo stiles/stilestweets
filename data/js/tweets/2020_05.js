@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 00:28:19 +0000 2020",
+		"id": 1260364673687277600,
+		"id_str": "1260366228473778185",
+		"full_text": "Slack has been down for 30 minutes and of course that means we’re getting all the Web Apps Bad hot takes from tech Twitter, the implication of course being that native apps are immune to backend servers going down, or something like that https://t.co/SeFNNythEi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260364668498931700,
+					"id_str": "1260364668498931713",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EX22_QFU8AES1sX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX22_QFU8AES1sX.jpg",
+					"url": "https://t.co/SeFNNythEi",
+					"display_url": "pic.twitter.com/SeFNNythEi",
+					"expanded_url": "https://twitter.com/hbkirb/status/1260364673687277569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 855,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1922,
+							"h": 1370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260364668498931700,
+					"id_str": "1260364668498931713",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EX22_QFU8AES1sX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX22_QFU8AES1sX.jpg",
+					"url": "https://t.co/SeFNNythEi",
+					"display_url": "pic.twitter.com/SeFNNythEi",
+					"expanded_url": "https://twitter.com/hbkirb/status/1260364673687277569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 855,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1922,
+							"h": 1370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103767197,
+			"id_str": "103767197",
+			"name": "Adam Demasi",
+			"screen_name": "hbkirb",
+			"location": "Adelaide 🇦🇺",
+			"description": "Chariz!",
+			"url": "https://t.co/gaQVLeUFrP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gaQVLeUFrP",
+							"expanded_url": "https://chariz.com/",
+							"display_url": "chariz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9054,
+			"friends_count": 1191,
+			"listed_count": 158,
+			"created_at": "Mon Jan 11 05:26:09 +0000 2010",
+			"favourites_count": 814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0074A2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224454245820194817/1n5acLoz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224454245820194817/1n5acLoz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103767197/1581665670",
+			"profile_link_color": "CC0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Slack has been down for 30 minutes and of course that means we’re getting all the Web Apps Bad hot takes from tech Twitter, the implication of course being that native apps are immune to backend servers going down, or something like that https://t.co/SeFNNythEi"
+	},
+	{
 		"created_at": "Wed May 13 00:11:57 +0000 2020",
 		"id": 1260362107503079400,
 		"id_str": "1260362107503079424",
