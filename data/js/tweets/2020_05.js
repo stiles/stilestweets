@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 14:53:49 +0000 2020",
+		"id": 1260946425904431000,
+		"id_str": "1260946425904431107",
+		"full_text": "same https://t.co/Bwazv4Un6N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bwazv4Un6N",
+					"expanded_url": "https://twitter.com/DrJasonJohnson/status/1260945699958599680",
+					"display_url": "twitter.com/DrJasonJohnson…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11460,
+			"friends_count": 2070,
+			"listed_count": 859,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589078367",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260945699958599700,
+		"quoted_status_id_str": "1260945699958599680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Bwazv4Un6N",
+			"expanded": "https://twitter.com/DrJasonJohnson/status/1260945699958599680",
+			"display": "twitter.com/DrJasonJohnson…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 14 14:50:56 +0000 2020",
+			"id": 1260945699958599700,
+			"id_str": "1260945699958599680",
+			"full_text": "If you grew up going to ice rinks in the 90's (like I did) this song and \"Friends in Low Places\" by Garth Brooks are pretty much imprinted on your memory. I actually think I still know the lyrics to this song by heart, not just the chorus https://t.co/rcuAwRtX9X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rcuAwRtX9X",
+						"expanded_url": "https://twitter.com/RetroNewsNow/status/1260677782255947778",
+						"display_url": "twitter.com/RetroNewsNow/s…",
+						"indices": [
+							239,
+							262
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50669520,
+				"id_str": "50669520",
+				"name": "Jason Johnson",
+				"screen_name": "DrJasonJohnson",
+				"location": "Atlanta, DC, NYC",
+				"description": "Professor School of Global Journalism and Communication @morganstateU \nPolitical Contributor @msnbc \nPolitical Contributor @siriusXM\n@UVA BA @UNC PhD",
+				"url": "https://t.co/8FcwrrE0aD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8FcwrrE0aD",
+								"expanded_url": "http://www.drjasonjohnson.com",
+								"display_url": "drjasonjohnson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 143978,
+				"friends_count": 1652,
+				"listed_count": 1334,
+				"created_at": "Thu Jun 25 15:04:37 +0000 2009",
+				"favourites_count": 22233,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 75588,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F29A8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098864769879232512/icbI9EQY_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098864769879232512/icbI9EQY_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50669520/1510812821",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1260677782255947800,
+			"quoted_status_id_str": "1260677782255947778",
+			"quoted_status_permalink": {
+				"url": "https://t.co/rcuAwRtX9X",
+				"expanded": "https://twitter.com/RetroNewsNow/status/1260677782255947778",
+				"display": "twitter.com/RetroNewsNow/s…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "same https://t.co/Bwazv4Un6N"
+	},
+	{
+		"created_at": "Thu May 14 14:51:00 +0000 2020",
+		"id": 1260942800071331800,
+		"id_str": "1260945716819550214",
+		"full_text": "Here's a (gradient squiggly) look at the how successful social distancing has been at controlling Covid-19,  just as some states start to reopen and Americans' commitment to distance weakens \n\nnew charts and words with @rjnskl\nhttps://t.co/P4jrj6zifF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rjnskl",
+					"name": "Mira Rojanasakul",
+					"id": 271251672,
+					"id_str": "271251672",
+					"indices": [
+						219,
+						226
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P4jrj6zifF",
+					"expanded_url": "https://www.bloomberg.com/graphics/2020-social-distancing-coronavirus-cases/",
+					"display_url": "bloomberg.com/graphics/2020-…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 312006319,
+			"id_str": "312006319",
+			"name": "Allison McCartney",
+			"screen_name": "anmccartney",
+			"location": "Brooklyn, NY",
+			"description": "Data and graphics at @BBGVisualData @business. \"least followers I've ever seen for a verified lol\" - Martin Shkreli",
+			"url": "https://t.co/tfY6vBak2R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tfY6vBak2R",
+							"expanded_url": "http://lady.graphics",
+							"display_url": "lady.graphics",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 1291,
+			"listed_count": 109,
+			"created_at": "Mon Jun 06 12:45:15 +0000 2011",
+			"favourites_count": 25339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159257547662090240/DTVEAR7L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159257547662090240/DTVEAR7L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/312006319/1398303372",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's a (gradient squiggly) look at the how successful social distancing has been at controlling Covid-19,  just as some states start to reopen and Americans' commitment to distance weakens \n\nnew charts and words with @rjnskl\nhttps://t.co/P4jrj6zifF"
+	},
+	{
 		"created_at": "Thu May 14 14:16:58 +0000 2020",
 		"id": 1260937151190954000,
 		"id_str": "1260937151190953985",
