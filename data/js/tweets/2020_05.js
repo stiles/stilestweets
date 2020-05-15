@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 23:47:58 +0000 2020",
+		"id": 1261080847035166700,
+		"id_str": "1261080847035166720",
+		"full_text": "Thanks, @criacow! https://t.co/ZekBJ7x2WI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "criacow",
+					"name": "Cow",
+					"id": 2919361,
+					"id_str": "2919361",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZekBJ7x2WI",
+					"expanded_url": "https://twitter.com/criacow/status/1260910893472382976",
+					"display_url": "twitter.com/criacow/status…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11459,
+			"friends_count": 2071,
+			"listed_count": 859,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589078367",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260910893472383000,
+		"quoted_status_id_str": "1260910893472382976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZekBJ7x2WI",
+			"expanded": "https://twitter.com/criacow/status/1260910893472382976",
+			"display": "twitter.com/criacow/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 14 12:32:38 +0000 2020",
+			"id": 1260910893472383000,
+			"id_str": "1260910893472382976",
+			"full_text": "(not gonna lie, it felt super weird. you can just...do that! put whatever nonsense you want(within legal limits etc) in the box!) https://t.co/ZdtG6UkJfS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1260910801046712300,
+						"id_str": "1260910801046712320",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/EX-nsWXXsAAnHQW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EX-nsWXXsAAnHQW.jpg",
+						"url": "https://t.co/ZdtG6UkJfS",
+						"display_url": "pic.twitter.com/ZdtG6UkJfS",
+						"expanded_url": "https://twitter.com/criacow/status/1260910893472382976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 744,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 581,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 329,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1260910801046712300,
+						"id_str": "1260910801046712320",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/EX-nsWXXsAAnHQW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EX-nsWXXsAAnHQW.jpg",
+						"url": "https://t.co/ZdtG6UkJfS",
+						"display_url": "pic.twitter.com/ZdtG6UkJfS",
+						"expanded_url": "https://twitter.com/criacow/status/1260910893472382976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 744,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 581,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 329,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1260910832520761300,
+						"id_str": "1260910832520761346",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/EX-nuLnXkAIjUV7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EX-nuLnXkAIjUV7.jpg",
+						"url": "https://t.co/ZdtG6UkJfS",
+						"display_url": "pic.twitter.com/ZdtG6UkJfS",
+						"expanded_url": "https://twitter.com/criacow/status/1260910893472382976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 702,
+								"h": 922,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 518,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 702,
+								"h": 922,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1260907977504153600,
+			"in_reply_to_status_id_str": "1260907977504153600",
+			"in_reply_to_user_id": 2919361,
+			"in_reply_to_user_id_str": "2919361",
+			"in_reply_to_screen_name": "criacow",
+			"user": {
+				"id": 2919361,
+				"id_str": "2919361",
+				"name": "Cow",
+				"screen_name": "criacow",
+				"location": "Toronto, Canada",
+				"description": "Moo. &lt;3",
+				"url": "https://t.co/RATMaOtPZn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RATMaOtPZn",
+								"expanded_url": "http://cow.pub/",
+								"display_url": "cow.pub",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 756,
+				"friends_count": 300,
+				"listed_count": 32,
+				"created_at": "Fri Mar 30 01:08:13 +0000 2007",
+				"favourites_count": 38832,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 124085,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E8DDCB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1247292054792744966/G7bY2mWS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247292054792744966/G7bY2mWS_normal.jpg",
+				"profile_link_color": "036564",
+				"profile_sidebar_border_color": "031634",
+				"profile_sidebar_fill_color": "033649",
+				"profile_text_color": "CDB380",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 236,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks, @criacow! https://t.co/ZekBJ7x2WI"
+	},
+	{
 		"created_at": "Thu May 14 14:53:49 +0000 2020",
 		"id": 1260946425904431000,
 		"id_str": "1260946425904431107",
