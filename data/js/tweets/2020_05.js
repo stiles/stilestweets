@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 01:31:30 +0000 2020",
+		"id": 1261469290026295300,
+		"id_str": "1261469290026295297",
+		"full_text": "I can't wait to read this juicy tale. 👇👇 https://t.co/sDzMmXWK1q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sDzMmXWK1q",
+					"expanded_url": "https://twitter.com/anfuller/status/1261324141489197061",
+					"display_url": "twitter.com/anfuller/statu…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11462,
+			"friends_count": 2074,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589078367",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261324141489197000,
+		"quoted_status_id_str": "1261324141489197061",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sDzMmXWK1q",
+			"expanded": "https://twitter.com/anfuller/status/1261324141489197061",
+			"display": "twitter.com/anfuller/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 15 15:54:44 +0000 2020",
+			"id": 1261324141489197000,
+			"id_str": "1261324141489197061",
+			"full_text": "A thread: Our investigation found that Google has been removing from search thousands of links based on phony copyright complaints. Among them: news stories about people accused of attempted rape, fraud, companies accused of financial crimes. 1/x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47862557,
+				"id_str": "47862557",
+				"name": "Andrea Fuller",
+				"screen_name": "anfuller",
+				"location": "Brooklyn, NY",
+				"description": "Data Cowgirl. Reporter @WSJ. Temporary Western North Carolina resident. Signal: 202-656-2088.",
+				"url": "http://t.co/83UtgEQyg2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/83UtgEQyg2",
+								"expanded_url": "http://www.andreanicolefuller.com",
+								"display_url": "andreanicolefuller.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2295,
+				"friends_count": 559,
+				"listed_count": 117,
+				"created_at": "Wed Jun 17 05:04:40 +0000 2009",
+				"favourites_count": 8822,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7977,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857733511637237761/1UUcRpmK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857733511637237761/1UUcRpmK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47862557/1395195735",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 69,
+			"favorite_count": 96,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can't wait to read this juicy tale. 👇👇 https://t.co/sDzMmXWK1q"
+	},
+	{
 		"created_at": "Fri May 15 23:24:18 +0000 2020",
 		"id": 1261387903680180200,
 		"id_str": "1261437278162792449",
