@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 17:03:54 +0000 2020",
+		"id": 1261703938157318100,
+		"id_str": "1261703938157318149",
+		"full_text": "This is sad. I taught data journalism with here a few years ago. https://t.co/fGwxNvFgmc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fGwxNvFgmc",
+					"expanded_url": "https://twitter.com/davidpaulk/status/1261275701400924160",
+					"display_url": "twitter.com/davidpaulk/sta…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11466,
+			"friends_count": 2076,
+			"listed_count": 858,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589078367",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261275701400924200,
+		"quoted_status_id_str": "1261275701400924160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fGwxNvFgmc",
+			"expanded": "https://twitter.com/davidpaulk/status/1261275701400924160",
+			"display": "twitter.com/davidpaulk/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 15 12:42:15 +0000 2020",
+			"id": 1261275701400924200,
+			"id_str": "1261275701400924160",
+			"full_text": "China’s elite @Tsinghua_Uni has announced its journalism program will no longer enroll undergraduates — and will shift its focus to winning the battle for “global public opinion.” https://t.co/MZMewENzK5 https://t.co/MW0UNA3OcB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Tsinghua_Uni",
+						"name": "Tsinghua University",
+						"id": 4300743322,
+						"id_str": "4300743322",
+						"indices": [
+							14,
+							27
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MZMewENzK5",
+						"expanded_url": "http://www.sixthtone.com/ht_news/1005665/tsinghuas-journalism-school-to-stop-enrolling-undergrads%2C-focus-on-global-public-opinion",
+						"display_url": "sixthtone.com/ht_news/100566…",
+						"indices": [
+							180,
+							203
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1261274641693241300,
+						"id_str": "1261274641693241344",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/EYDymqZVcAA_Wxk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYDymqZVcAA_Wxk.jpg",
+						"url": "https://t.co/MW0UNA3OcB",
+						"display_url": "pic.twitter.com/MW0UNA3OcB",
+						"expanded_url": "https://twitter.com/davidpaulk/status/1261275701400924160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 830,
+								"h": 553,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 830,
+								"h": 553,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1261274641693241300,
+						"id_str": "1261274641693241344",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/EYDymqZVcAA_Wxk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYDymqZVcAA_Wxk.jpg",
+						"url": "https://t.co/MW0UNA3OcB",
+						"display_url": "pic.twitter.com/MW0UNA3OcB",
+						"expanded_url": "https://twitter.com/davidpaulk/status/1261275701400924160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 830,
+								"h": 553,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 830,
+								"h": 553,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22604940,
+				"id_str": "22604940",
+				"name": "David Paulk 波大卫",
+				"screen_name": "davidpaulk",
+				"location": "Shanghai",
+				"description": "Head of News @SixthTone | Fresh voices from today’s #China | david.paulk (at) https://t.co/pEmcmA6BAU | DM for @signalapp",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pEmcmA6BAU",
+								"expanded_url": "http://sixthtone.com",
+								"display_url": "sixthtone.com",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12883,
+				"friends_count": 1978,
+				"listed_count": 367,
+				"created_at": "Tue Mar 03 09:23:47 +0000 2009",
+				"favourites_count": 10355,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10748,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1166275621174964224/VSxpxqDJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166275621174964224/VSxpxqDJ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22604940/1457421526",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 256,
+			"favorite_count": 359,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is sad. I taught data journalism with here a few years ago. https://t.co/fGwxNvFgmc"
+	},
+	{
+		"created_at": "Sat May 16 17:01:12 +0000 2020",
+		"id": 1261703256364863500,
+		"id_str": "1261703256364863488",
+		"full_text": "If only the instructions were in English. Help @FabiKretschmer. https://t.co/5imT01xjZm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FabiKretschmer",
+					"name": "Fabian Kretschmer",
+					"id": 297359994,
+					"id_str": "297359994",
+					"indices": [
+						47,
+						62
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261703249192644600,
+					"id_str": "1261703249192644608",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EYJ4a5wVcAA2OEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYJ4a5wVcAA2OEc.jpg",
+					"url": "https://t.co/5imT01xjZm",
+					"display_url": "pic.twitter.com/5imT01xjZm",
+					"expanded_url": "https://twitter.com/stiles/status/1261703256364863488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261703249192644600,
+					"id_str": "1261703249192644608",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EYJ4a5wVcAA2OEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYJ4a5wVcAA2OEc.jpg",
+					"url": "https://t.co/5imT01xjZm",
+					"display_url": "pic.twitter.com/5imT01xjZm",
+					"expanded_url": "https://twitter.com/stiles/status/1261703256364863488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1261702560823402500,
+		"in_reply_to_status_id_str": "1261702560823402497",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11466,
+			"friends_count": 2076,
+			"listed_count": 858,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589078367",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If only the instructions were in English. Help @FabiKretschmer. https://t.co/5imT01xjZm"
+	},
+	{
 		"created_at": "Sat May 16 14:50:26 +0000 2020",
 		"id": 1261668553280741400,
 		"id_str": "1261670347373338626",
