@@ -1,6 +1,129 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 14:50:26 +0000 2020",
+		"id": 1261668553280741400,
+		"id_str": "1261670347373338626",
+		"full_text": "Despite few coronavirus tests, rural California reopens - Los Angeles Times ⁦@anitachabria⁩ ⁦@seangreene89⁩ ⁦@stiles⁩  https://t.co/ikpetFq2J6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anitachabria",
+					"name": "Anita Chabria",
+					"id": 1630851128,
+					"id_str": "1630851128",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"screen_name": "seangreene89",
+					"name": "Sean Greene",
+					"id": 267312443,
+					"id_str": "267312443",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ikpetFq2J6",
+					"expanded_url": "https://www.latimes.com/california/story/2020-05-16/coronavirus-rural-california-reopening-lags-behind-in-testing",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19074004,
+			"id_str": "19074004",
+			"name": "Hector Becerra",
+			"screen_name": "hbecerraLATimes",
+			"location": "Los Angeles",
+			"description": "Los Angeles Times City Editor (California) L.A born via Boyle Heights. Story tips welcome Hector.becerra@latimes.com Twitter: @hbecerralatimes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6293,
+			"friends_count": 420,
+			"listed_count": 201,
+			"created_at": "Fri Jan 16 16:35:59 +0000 2009",
+			"favourites_count": 6399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 30182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247031130911649793/dZGZrYHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247031130911649793/dZGZrYHw_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Despite few coronavirus tests, rural California reopens - Los Angeles Times ⁦@anitachabria⁩ ⁦@seangreene89⁩ ⁦@stiles⁩  https://t.co/ikpetFq2J6"
+	},
+	{
 		"created_at": "Sat May 16 02:32:35 +0000 2020",
 		"id": 1261484662863491000,
 		"id_str": "1261484662863491072",
