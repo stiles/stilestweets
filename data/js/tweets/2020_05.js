@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 23:24:18 +0000 2020",
+		"id": 1261387903680180200,
+		"id_str": "1261437278162792449",
+		"full_text": "JOBS: My team @NYTimesRD is hiring for seven positions, looking for editors, engineers, producers, and strategists. More info: https://t.co/sReWrubHgy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NYTimesRD",
+					"name": "NYTimes R&D",
+					"id": 673953,
+					"id_str": "673953",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sReWrubHgy",
+					"expanded_url": "https://linktr.ee/NYTyurivictor",
+					"display_url": "linktr.ee/NYTyurivictor",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5511932,
+			"id_str": "5511932",
+			"name": "Yuri Victor 🖤",
+			"screen_name": "yurivictor",
+			"location": "New York, NY",
+			"description": "I have a doc for that. “Camp counselor” @NYTimesRD. Past: Co-founder @voxdotcom // cuban / he/him / I ❤️ you",
+			"url": "https://t.co/zacLsLgkbk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zacLsLgkbk",
+							"expanded_url": "http://yurivictor.com",
+							"display_url": "yurivictor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9178,
+			"friends_count": 2598,
+			"listed_count": 560,
+			"created_at": "Thu Apr 26 00:14:57 +0000 2007",
+			"favourites_count": 45269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137039285196976129/ECeFbXmv_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137039285196976129/ECeFbXmv_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5511932/1527091277",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JOBS: My team @NYTimesRD is hiring for seven positions, looking for editors, engineers, producers, and strategists. More info: https://t.co/sReWrubHgy"
+	},
+	{
 		"created_at": "Fri May 15 20:07:49 +0000 2020",
 		"id": 1261387832356008000,
 		"id_str": "1261387832356007936",
