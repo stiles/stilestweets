@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 22:23:23 +0000 2020",
+		"id": 1262146726212915200,
+		"id_str": "1262146726212915209",
+		"full_text": "Adding these two @gelsonsmarkets workers to my list of coronavirus heroes... https://t.co/pHqCAwV4Vy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gelsonsmarkets",
+					"name": "Gelson's Markets",
+					"id": 39304357,
+					"id_str": "39304357",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pHqCAwV4Vy",
+					"expanded_url": "https://twitter.com/fidmart85/status/1262143749678936067",
+					"display_url": "twitter.com/fidmart85/stat…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11463,
+			"friends_count": 2076,
+			"listed_count": 858,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589731465",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262143749678936000,
+		"quoted_status_id_str": "1262143749678936067",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pHqCAwV4Vy",
+			"expanded": "https://twitter.com/fidmart85/status/1262143749678936067",
+			"display": "twitter.com/fidmart85/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 17 22:11:34 +0000 2020",
+			"id": 1262143749678936000,
+			"id_str": "1262143749678936067",
+			"full_text": "Shoutout to @gelsonsmarkets for being awesome  https://t.co/xpFdZOTCGm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gelsonsmarkets",
+						"name": "Gelson's Markets",
+						"id": 39304357,
+						"id_str": "39304357",
+						"indices": [
+							12,
+							27
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1262069739511144400,
+						"id_str": "1262069739511144449",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1262069739511144449/img/Jskk5kJA0KlOL3ZU.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1262069739511144449/img/Jskk5kJA0KlOL3ZU.jpg",
+						"url": "https://t.co/xpFdZOTCGm",
+						"display_url": "pic.twitter.com/xpFdZOTCGm",
+						"expanded_url": "https://twitter.com/kharyp/status/1262074477921198082/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1262074477921198000,
+						"source_status_id_str": "1262074477921198082",
+						"source_user_id": 53503202,
+						"source_user_id_str": "53503202"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262069739511144400,
+						"id_str": "1262069739511144449",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1262069739511144449/img/Jskk5kJA0KlOL3ZU.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1262069739511144449/img/Jskk5kJA0KlOL3ZU.jpg",
+						"url": "https://t.co/xpFdZOTCGm",
+						"display_url": "pic.twitter.com/xpFdZOTCGm",
+						"expanded_url": "https://twitter.com/kharyp/status/1262074477921198082/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1262074477921198000,
+						"source_status_id_str": "1262074477921198082",
+						"source_user_id": 53503202,
+						"source_user_id_str": "53503202",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 161234,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1262069739511144449/pl/iLDABEEoJ-5iSa43.m3u8?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1262069739511144449/vid/720x720/vQjBewMsqGjinwIq.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1262069739511144449/vid/320x320/9E5fdPU9-EK-nbV3.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1262069739511144449/vid/480x480/cSeYO2SsVrDpjpa9.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Karen gets upset because she's not allowed to shop without a mask",
+							"description": "Karen gets upset because she's not allowed to shop without a mask, despite being given other safe options.\n\nFrom reddit: https://bit.ly/3e5L5Pt",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.reddit.com/r/PublicFreakout/comments/glbmtk/karen_gets_upset_because_shes_not_allowed_to_shop/?utm_source=share&utm_medium=web2x"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 53503202,
+								"id_str": "53503202",
+								"name": "Khary Penebaker",
+								"screen_name": "kharyp",
+								"location": "Waukesha, WI",
+								"description": "DNC Member #GunViolence Survivor @PPAWI Board Member @Everytown Survivor Fellow Treasurer DNC Black Caucus @MomsDemand @WAVE_EdFund C4 board Prez #DemCast #NoRA",
+								"url": "https://t.co/vPn9RQyi1l",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/vPn9RQyi1l",
+												"expanded_url": "http://www.kharypenebaker.com/",
+												"display_url": "kharypenebaker.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 97997,
+								"friends_count": 52805,
+								"listed_count": 1050,
+								"created_at": "Fri Jul 03 21:24:55 +0000 2009",
+								"favourites_count": 144343,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 463685,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1251596608980082694/F21kKEAJ_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251596608980082694/F21kKEAJ_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/53503202/1587238810",
+								"profile_link_color": "FF691F",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24581939,
+				"id_str": "24581939",
+				"name": "Fidel Martinez",
+				"screen_name": "fidmart85",
+				"location": "Boyle Heights, Los Angeles",
+				"description": "Que lindo es lo bonito. Vaquero tejano. Audience engagement editor. vato at @latimes and @latimessports",
+				"url": "https://t.co/wlqEIvm81R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wlqEIvm81R",
+								"expanded_url": "https://www.latimes.com/la-bio-fidel-martinez-staff.html",
+								"display_url": "latimes.com/la-bio-fidel-m…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2410,
+				"friends_count": 930,
+				"listed_count": 80,
+				"created_at": "Sun Mar 15 20:41:34 +0000 2009",
+				"favourites_count": 23883,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 60515,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197568157801570304/BhJfEtm2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197568157801570304/BhJfEtm2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24581939/1587420687",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adding these two @gelsonsmarkets workers to my list of coronavirus heroes... https://t.co/pHqCAwV4Vy"
+	},
+	{
 		"created_at": "Sun May 17 21:08:33 +0000 2020",
 		"id": 1261850125359440000,
 		"id_str": "1262127894693740546",
