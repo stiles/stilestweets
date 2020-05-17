@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 16:14:31 +0000 2020",
+		"id": 1262053741554888700,
+		"id_str": "1262053895771054081",
+		"full_text": "The price of being ‘essential’: Latino service workers bear brunt of coronavirus because they can't stay home. https://t.co/rfjaBTxrVC my latest with @r_valejandra @stiles @campadrenews",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "r_valejandra",
+					"name": "Alejandra Reyes-Velarde",
+					"id": 2317971415,
+					"id_str": "2317971415",
+					"indices": [
+						150,
+						163
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"screen_name": "campadrenews",
+					"name": "Andrew J. Campa",
+					"id": 1029966896,
+					"id_str": "1029966896",
+					"indices": [
+						172,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rfjaBTxrVC",
+					"expanded_url": "https://www.latimes.com/california/story/2020-05-17/latino-essential-workers-coronavirus",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24596887,
+			"id_str": "24596887",
+			"name": "Hailey Branson-Potts",
+			"screen_name": "haileybranson",
+			"location": "El Segundo, CA",
+			"description": "Los Angeles Times metro reporter. Oklahoman.",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7100,
+			"friends_count": 3267,
+			"listed_count": 268,
+			"created_at": "Sun Mar 15 22:17:06 +0000 2009",
+			"favourites_count": 4864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000856341604/lrxDhmrl_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000856341604/lrxDhmrl_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24596887/1576021697",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The price of being ‘essential’: Latino service workers bear brunt of coronavirus because they can't stay home. https://t.co/rfjaBTxrVC my latest with @r_valejandra @stiles @campadrenews"
+	},
+	{
 		"created_at": "Sun May 17 14:51:32 +0000 2020",
 		"id": 1262033014017556500,
 		"id_str": "1262033014017556481",
