@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 00:03:28 +0000 2020",
+		"id": 1261030503425224700,
+		"id_str": "1262171911858995201",
+		"full_text": "Simulitis returns!\n\nAs states reopen, disease models are helping to predict where new #coronavirus cases may surge.\n\nIn this article, you‘ll model your own scenarios and see what epidemiologists are up against as they race to understand a new contagion.\n\nhttps://t.co/rihM5fEEGr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirus",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rihM5fEEGr",
+					"expanded_url": "https://www.washingtonpost.com/graphics/2020/health/disease-modeling-coronavirus-cases-reopening/",
+					"display_url": "washingtonpost.com/graphics/2020/…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73439531,
+			"id_str": "73439531",
+			"name": "Harry Stevens",
+			"screen_name": "Harry_Stevens",
+			"location": "Arlington, VA",
+			"description": "News and graphics @WashingtonPost. Previously: @axios @HTtweets @sltrib",
+			"url": "https://t.co/VrhtuhHQ4U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VrhtuhHQ4U",
+							"expanded_url": "http://harryjstevens.com/",
+							"display_url": "harryjstevens.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11559,
+			"friends_count": 684,
+			"listed_count": 283,
+			"created_at": "Fri Sep 11 17:45:32 +0000 2009",
+			"favourites_count": 3533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107662947323662336/JH3Ik8HS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107662947323662336/JH3Ik8HS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73439531/1551458845",
+			"profile_link_color": "551BB7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "BCC2C4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Simulitis returns!\n\nAs states reopen, disease models are helping to predict where new #coronavirus cases may surge.\n\nIn this article, you‘ll model your own scenarios and see what epidemiologists are up against as they race to understand a new contagion.\n\nhttps://t.co/rihM5fEEGr"
+	},
+	{
 		"created_at": "Sun May 17 22:23:23 +0000 2020",
 		"id": 1262146726212915200,
 		"id_str": "1262146726212915209",
