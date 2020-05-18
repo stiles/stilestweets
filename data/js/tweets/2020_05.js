@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 18:25:24 +0000 2020",
+		"id": 1262083583893803000,
+		"id_str": "1262449220729987076",
+		"full_text": "If you’re a thief, accuse your enemies of thievery. If corrupt, accuse your rivals of corruption. If a coward, accuse others of cowardice. Evidence is irrelevant; the goal is to dilute the truth and the case against you with “everyone does it”.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 449588356,
+			"id_str": "449588356",
+			"name": "Garry Kasparov",
+			"screen_name": "Kasparov63",
+			"location": "New York",
+			"description": "Join RDI! @Renew_Democracy. Chairman of the Human Rights Foundation (@HRF). Author, speaker, 13th World Chess Champion https://t.co/dJTDTCEEvM",
+			"url": "http://t.co/VNcDSzgHvk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VNcDSzgHvk",
+							"expanded_url": "http://kasparov.com",
+							"display_url": "kasparov.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dJTDTCEEvM",
+							"expanded_url": "https://www.facebook.com/GKKasparov",
+							"display_url": "facebook.com/GKKasparov",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 549024,
+			"friends_count": 530,
+			"listed_count": 6436,
+			"created_at": "Thu Dec 29 08:17:34 +0000 2011",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004031810173579265/YrEIbzio_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004031810173579265/YrEIbzio_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/449588356/1493833489",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21221,
+		"favorite_count": 71118,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you’re a thief, accuse your enemies of thievery. If corrupt, accuse your rivals of corruption. If a coward, accuse others of cowardice. Evidence is irrelevant; the goal is to dilute the truth and the case against you with “everyone does it”."
+	},
+	{
 		"created_at": "Mon May 18 00:03:28 +0000 2020",
 		"id": 1261030503425224700,
 		"id_str": "1262171911858995201",
