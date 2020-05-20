@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 13:56:56 +0000 2020",
+		"id": 1263099694697320400,
+		"id_str": "1263106437871308810",
+		"full_text": "I’ll bet no future President will ever hang Trump’s portrait in the White House. It will be impossible to shower even false praise on the most vile of men. His Presidency will be like Chernobyl. Something to be sealed off.  A poison to be contained",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 786309892990574600,
+			"id_str": "786309892990574592",
+			"name": "Steve Schmidt",
+			"screen_name": "SteveSchmidtSES",
+			"location": "Park City, UT",
+			"description": "\"Patriotism means to stand by the country. It does not mean to stand by the President.\" Theodore Roosevelt, 26th President of the United States.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 736205,
+			"friends_count": 1844,
+			"listed_count": 3745,
+			"created_at": "Wed Oct 12 20:57:42 +0000 2016",
+			"favourites_count": 440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247286405711134720/51l_129u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247286405711134720/51l_129u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/786309892990574592/1586217767",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2933,
+		"favorite_count": 12118,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’ll bet no future President will ever hang Trump’s portrait in the White House. It will be impossible to shower even false praise on the most vile of men. His Presidency will be like Chernobyl. Something to be sealed off.  A poison to be contained"
+	},
+	{
+		"created_at": "Wed May 20 13:56:36 +0000 2020",
+		"id": 1262989326519955500,
+		"id_str": "1263106350764027905",
+		"full_text": "Our open-source archive of California coronavirus data has expanded again.\n\nOur very own @a1daylanan has written a scraper for the state's demographic data.\n\nThe product of her work is now available to anyone.\n\nhttps://t.co/DbgoyqTFs8 https://t.co/Y4Bj5zkK5K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "a1daylanan",
+					"name": "Aida Ylanan",
+					"id": 3507702980,
+					"id_str": "3507702980",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DbgoyqTFs8",
+					"expanded_url": "https://github.com/datadesk/california-coronavirus-data#cdph-race-ethnicitycsv",
+					"display_url": "github.com/datadesk/calif…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262989292806090800,
+					"id_str": "1262989292806090752",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EYcKEfjUMAA_gGm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYcKEfjUMAA_gGm.jpg",
+					"url": "https://t.co/Y4Bj5zkK5K",
+					"display_url": "pic.twitter.com/Y4Bj5zkK5K",
+					"expanded_url": "https://twitter.com/palewire/status/1262989326519955457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 952,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262989292806090800,
+					"id_str": "1262989292806090752",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EYcKEfjUMAA_gGm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYcKEfjUMAA_gGm.jpg",
+					"url": "https://t.co/Y4Bj5zkK5K",
+					"display_url": "pic.twitter.com/Y4Bj5zkK5K",
+					"expanded_url": "https://twitter.com/palewire/status/1262989326519955457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 952,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14559196,
+			"id_str": "14559196",
+			"name": "Ben Welsh",
+			"screen_name": "palewire",
+			"location": "Live and direct",
+			"description": "Editor, @datagraphics at @latimes · Organizer, https://t.co/alHGK4tTzG · Archivist, https://t.co/CaO6K276g3 · Send me tips · DMs open · ben.welsh@latimes.com",
+			"url": "https://t.co/M40D7KBYi4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M40D7KBYi4",
+							"expanded_url": "https://palewi.re/who-is-ben-welsh/",
+							"display_url": "palewi.re/who-is-ben-wel…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/alHGK4tTzG",
+							"expanded_url": "http://californiacivicdata.org",
+							"display_url": "californiacivicdata.org",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/CaO6K276g3",
+							"expanded_url": "http://pastpages.org",
+							"display_url": "pastpages.org",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11344,
+			"friends_count": 3129,
+			"listed_count": 734,
+			"created_at": "Sun Apr 27 16:10:55 +0000 2008",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575168731417944064/T-S7fg3H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14559196/1423764862",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our open-source archive of California coronavirus data has expanded again.\n\nOur very own @a1daylanan has written a scraper for the state's demographic data.\n\nThe product of her work is now available to anyone.\n\nhttps://t.co/DbgoyqTFs8 https://t.co/Y4Bj5zkK5K"
+	},
+	{
 		"created_at": "Wed May 20 03:40:26 +0000 2020",
 		"id": 1262936273729159200,
 		"id_str": "1262951287848669184",
