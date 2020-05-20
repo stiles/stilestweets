@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 03:40:26 +0000 2020",
+		"id": 1262936273729159200,
+		"id_str": "1262951287848669184",
+		"full_text": "Many wonder why Dodger Stadium looks like this when there is no baseball. Here's the answer, and it's predictably sad https://t.co/fNI4eazbqz https://t.co/rbpwduXtKO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fNI4eazbqz",
+					"expanded_url": "https://www.latimes.com/california/story/2020-05-19/photos-stadiums-and-lots-overflow-with-cars-as-coronavirus-takes-an-economic-toll",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262936051242299400,
+					"id_str": "1262936051242299397",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EYbZpbRU8AU9yQm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYbZpbRU8AU9yQm.jpg",
+					"url": "https://t.co/rbpwduXtKO",
+					"display_url": "pic.twitter.com/rbpwduXtKO",
+					"expanded_url": "https://twitter.com/shelbygrad/status/1262936273729159168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1169,
+							"h": 668,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1169,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262936051242299400,
+					"id_str": "1262936051242299397",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EYbZpbRU8AU9yQm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYbZpbRU8AU9yQm.jpg",
+					"url": "https://t.co/rbpwduXtKO",
+					"display_url": "pic.twitter.com/rbpwduXtKO",
+					"expanded_url": "https://twitter.com/shelbygrad/status/1262936273729159168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1169,
+							"h": 668,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1169,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14827461,
+			"id_str": "14827461",
+			"name": "Shelby Grad",
+			"screen_name": "shelbygrad",
+			"location": "🌴Los Angeles💥",
+			"description": "Deputy Managing Editor at @latimes.",
+			"url": "https://t.co/emWaPa3SBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emWaPa3SBu",
+							"expanded_url": "http://www.latimes.com/california",
+							"display_url": "latimes.com/california",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14667,
+			"friends_count": 1019,
+			"listed_count": 509,
+			"created_at": "Mon May 19 02:25:01 +0000 2008",
+			"favourites_count": 6587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14827461/1583199878",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many wonder why Dodger Stadium looks like this when there is no baseball. Here's the answer, and it's predictably sad https://t.co/fNI4eazbqz https://t.co/rbpwduXtKO"
+	},
+	{
 		"created_at": "Wed May 20 00:50:23 +0000 2020",
 		"id": 1262908495055249400,
 		"id_str": "1262908495055249410",
