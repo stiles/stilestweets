@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 18:37:41 +0000 2020",
+		"id": 1263539477969948700,
+		"id_str": "1263539477969948672",
+		"full_text": "94,276 COVID-19 deaths at the time of this tweet https://t.co/4idh6W0IPh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4idh6W0IPh",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/1263537553073942528",
+					"display_url": "twitter.com/realDonaldTrum…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11456,
+			"friends_count": 2083,
+			"listed_count": 856,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589731465",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263537553073942500,
+		"quoted_status_id_str": "1263537553073942528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4idh6W0IPh",
+			"expanded": "https://twitter.com/realDonaldTrump/status/1263537553073942528",
+			"display": "twitter.com/realDonaldTrum…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 21 18:30:02 +0000 2020",
+			"id": 1263537553073942500,
+			"id_str": "1263537553073942528",
+			"full_text": "Many will disagree, but @FoxNews is doing nothing to help Republicans, and me, get re-elected on November 3rd. Sure, there are some truly GREAT people on Fox, but you also have some real “garbage” littered all over the network, people like Dummy Juan Williams, Schumerite Chris...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FoxNews",
+						"name": "Fox News",
+						"id": 1367531,
+						"id_str": "1367531",
+						"indices": [
+							24,
+							32
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": "https://t.co/OMxB0x7xC5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMxB0x7xC5",
+								"expanded_url": "http://www.Instagram.com/realDonaldTrump",
+								"display_url": "Instagram.com/realDonaldTrump",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 80118876,
+				"friends_count": 46,
+				"listed_count": 113519,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 51838,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7530,
+			"favorite_count": 27659,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "94,276 COVID-19 deaths at the time of this tweet https://t.co/4idh6W0IPh"
+	},
+	{
 		"created_at": "Thu May 21 18:08:44 +0000 2020",
 		"id": 1263532191323046000,
 		"id_str": "1263532191323045888",
