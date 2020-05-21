@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 15:09:19 +0000 2020",
+		"id": 1263479580452466700,
+		"id_str": "1263487039124561921",
+		"full_text": ".@NYT_first_said, the bot that tweets words as they first appear in the @nytimes, is quite the chronicle of the times. https://t.co/GoMKjNnun0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NYT_first_said",
+					"name": "New New York Times",
+					"id": 838207103852396500,
+					"id_str": "838207103852396544",
+					"indices": [
+						1,
+						16
+					]
+				},
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263479577185144800,
+					"id_str": "1263479577185144832",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjH-zMU0AAGaf3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjH-zMU0AAGaf3.jpg",
+					"url": "https://t.co/GoMKjNnun0",
+					"display_url": "pic.twitter.com/GoMKjNnun0",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1263479580452466691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1125,
+							"h": 891,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 891,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263479577185144800,
+					"id_str": "1263479577185144832",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjH-zMU0AAGaf3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjH-zMU0AAGaf3.jpg",
+					"url": "https://t.co/GoMKjNnun0",
+					"display_url": "pic.twitter.com/GoMKjNnun0",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1263479580452466691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1125,
+							"h": 891,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 891,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1263479577185144800,
+					"id_str": "1263479577185144833",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjH-zMU0AE2AWy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjH-zMU0AE2AWy.jpg",
+					"url": "https://t.co/GoMKjNnun0",
+					"display_url": "pic.twitter.com/GoMKjNnun0",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1263479580452466691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 895,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 895,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1263479577189351400,
+					"id_str": "1263479577189351424",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjH-zNVAAAsoHJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjH-zNVAAAsoHJ.jpg",
+					"url": "https://t.co/GoMKjNnun0",
+					"display_url": "pic.twitter.com/GoMKjNnun0",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1263479580452466691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 896,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 542,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1263479577189380000,
+					"id_str": "1263479577189380100",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjH-zNVcAQVegp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjH-zNVcAQVegp.jpg",
+					"url": "https://t.co/GoMKjNnun0",
+					"display_url": "pic.twitter.com/GoMKjNnun0",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1263479580452466691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 864,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 864,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13479902,
+			"id_str": "13479902",
+			"name": "Julia Wick",
+			"screen_name": "sherlyholmes",
+			"location": "LA",
+			"description": "@latimes metro reporter & Essential California newsletter author (subscribe: https://t.co/FxOtLkVeGE) Former EIC @LAist. Native Angeleno. Julia.wick@latimes.com",
+			"url": "https://t.co/9nLR6Wm4Ya",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9nLR6Wm4Ya",
+							"expanded_url": "https://www.latimes.com/la-bio-julia-wick-staff.html",
+							"display_url": "latimes.com/la-bio-julia-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FxOtLkVeGE",
+							"expanded_url": "https://lat.ms/2JG6TWt",
+							"display_url": "lat.ms/2JG6TWt",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9420,
+			"friends_count": 1883,
+			"listed_count": 198,
+			"created_at": "Thu Feb 14 17:24:54 +0000 2008",
+			"favourites_count": 15618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13479902/1502071398",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@NYT_first_said, the bot that tweets words as they first appear in the @nytimes, is quite the chronicle of the times. https://t.co/GoMKjNnun0"
+	},
+	{
+		"created_at": "Thu May 21 15:08:57 +0000 2020",
+		"id": 1263484704545583000,
+		"id_str": "1263486947181264898",
+		"full_text": "Overfitting https://t.co/eZ2bbpDzwV https://t.co/iCYeHnyS7R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eZ2bbpDzwV",
+					"expanded_url": "https://machinelearningflashcards.com",
+					"display_url": "machinelearningflashcards.com",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1263484703060811800,
+					"id_str": "1263484703060811777",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjMpKkUYAE96nO.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYjMpKkUYAE96nO.png",
+					"url": "https://t.co/iCYeHnyS7R",
+					"display_url": "pic.twitter.com/iCYeHnyS7R",
+					"expanded_url": "https://twitter.com/chrisalbon/status/1263484704545583104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263484703060811800,
+					"id_str": "1263484703060811777",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjMpKkUYAE96nO.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYjMpKkUYAE96nO.png",
+					"url": "https://t.co/iCYeHnyS7R",
+					"display_url": "pic.twitter.com/iCYeHnyS7R",
+					"expanded_url": "https://twitter.com/chrisalbon/status/1263484704545583104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 577,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://chrisalbon.com\" rel=\"nofollow\">Machine Learning Flashcards</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11518572,
+			"id_str": "11518572",
+			"name": "Chris Albon",
+			"screen_name": "chrisalbon",
+			"location": "San Francisco",
+			"description": "Director of Machine Learning at ██████████. Created https://t.co/Kcpr3kjkOn. Wrote Machine Learning with Python Cookbook. Cofounded @TheRealYonder.",
+			"url": "https://t.co/CQhzAA24cn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CQhzAA24cn",
+							"expanded_url": "http://ChrisAlbon.com",
+							"display_url": "ChrisAlbon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Kcpr3kjkOn",
+							"expanded_url": "http://MachineLearningFlashcards.com",
+							"display_url": "MachineLearningFlashcards.com",
+							"indices": [
+								52,
+								75
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45657,
+			"friends_count": 778,
+			"listed_count": 1500,
+			"created_at": "Wed Dec 26 01:49:09 +0000 2007",
+			"favourites_count": 15492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFF9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/736992518110224384/fmqQxFEr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/736992518110224384/fmqQxFEr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11518572/1503261622",
+			"profile_link_color": "DC3422",
+			"profile_sidebar_border_color": "BFBFBE",
+			"profile_sidebar_fill_color": "DEDED8",
+			"profile_text_color": "2A2C2B",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Overfitting https://t.co/eZ2bbpDzwV https://t.co/iCYeHnyS7R"
+	},
+	{
 		"created_at": "Wed May 20 13:56:56 +0000 2020",
 		"id": 1263099694697320400,
 		"id_str": "1263106437871308810",
