@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 16:07:58 +0000 2020",
+		"id": 1263500906609496000,
+		"id_str": "1263501801740890114",
+		"full_text": "I am so glad to be home and back with my family. There is so much I want to say and intend to say. But now is not the right time. Soon. Thank you to all my friends and supporters.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52136185,
+			"id_str": "52136185",
+			"name": "Michael Cohen",
+			"screen_name": "MichaelCohen212",
+			"location": "New York",
+			"description": "",
+			"url": "https://t.co/t4zq5fOpoV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t4zq5fOpoV",
+							"expanded_url": "http://linkedin.com/in/michaelcohen3",
+							"display_url": "linkedin.com/in/michaelcohe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 420636,
+			"friends_count": 140,
+			"listed_count": 1898,
+			"created_at": "Mon Jun 29 18:11:49 +0000 2009",
+			"favourites_count": 7620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062523147122032641/U-ccrROv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062523147122032641/U-ccrROv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52136185/1530718696",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 215,
+		"favorite_count": 1245,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I am so glad to be home and back with my family. There is so much I want to say and intend to say. But now is not the right time. Soon. Thank you to all my friends and supporters."
+	},
+	{
 		"created_at": "Thu May 21 15:09:19 +0000 2020",
 		"id": 1263479580452466700,
 		"id_str": "1263487039124561921",
