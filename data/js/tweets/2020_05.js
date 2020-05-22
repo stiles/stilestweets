@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 22 00:07:06 +0000 2020",
+		"id": 1263619267083157500,
+		"id_str": "1263622378271264775",
+		"full_text": "Two days ago, our map showed that mostly Northern counties were in deep phase 2.\n\nToday, central CA &amp; a few SoCal counties have joined in opening up retail &amp; shopping malls. \n\nWhat's open/closed in your county? We're keeping track here:\nhttps://t.co/A3fnN8IKMF https://t.co/9kgKpgaLIB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A3fnN8IKMF",
+					"expanded_url": "https://latimes.com/projects/california-coronavirus-cases-tracking-outbreak/reopening-across-counties/",
+					"display_url": "latimes.com/projects/calif…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1263618442537562000,
+					"id_str": "1263618442537562115",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EYlGR08VcAM82WY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYlGR08VcAM82WY.png",
+					"url": "https://t.co/9kgKpgaLIB",
+					"display_url": "pic.twitter.com/9kgKpgaLIB",
+					"expanded_url": "https://twitter.com/sandhya__k/status/1263619267083157504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 884,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 884,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263618442537562000,
+					"id_str": "1263618442537562115",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EYlGR08VcAM82WY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYlGR08VcAM82WY.png",
+					"url": "https://t.co/9kgKpgaLIB",
+					"display_url": "pic.twitter.com/9kgKpgaLIB",
+					"expanded_url": "https://twitter.com/sandhya__k/status/1263619267083157504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 884,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 884,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 221255986,
+			"id_str": "221255986",
+			"name": "Sandhya Kambhampati",
+			"screen_name": "sandhya__k",
+			"location": "Los Angeles, CA",
+			"description": "Data reporter @latimes/@datagraphics covering demographics in CA. Likes stats, FOIA & ice cream. email: sandhya@latimes.com",
+			"url": "https://t.co/raU7Y29kFd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/raU7Y29kFd",
+							"expanded_url": "http://www.sandhyakambhampati.com",
+							"display_url": "sandhyakambhampati.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5411,
+			"friends_count": 933,
+			"listed_count": 274,
+			"created_at": "Tue Nov 30 04:37:53 +0000 2010",
+			"favourites_count": 10743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DFEFF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142311392332013568/6AGzTmZZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142311392332013568/6AGzTmZZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/221255986/1508726878",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Two days ago, our map showed that mostly Northern counties were in deep phase 2.\n\nToday, central CA &amp; a few SoCal counties have joined in opening up retail &amp; shopping malls. \n\nWhat's open/closed in your county? We're keeping track here:\nhttps://t.co/A3fnN8IKMF https://t.co/9kgKpgaLIB"
+	},
+	{
 		"created_at": "Thu May 21 18:37:41 +0000 2020",
 		"id": 1263539477969948700,
 		"id_str": "1263539477969948672",
