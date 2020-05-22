@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 22 02:28:12 +0000 2020",
+		"id": 1263657887206748200,
+		"id_str": "1263657887206748160",
+		"full_text": "I didn't know these nifty params were possible with Twitter search: https://t.co/FqloSKCYRb Thanks, @zck. https://t.co/D3kfm6ViQY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zck",
+					"name": "Zak Kukoff",
+					"id": 106008077,
+					"id_str": "106008077",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FqloSKCYRb",
+					"expanded_url": "https://twitter.com/search?q=from%3Astiles%20min_faves%3A200&src=typed_query",
+					"display_url": "twitter.com/search?q=from%…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1263657391200940000,
+					"id_str": "1263657391200940032",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EYlps8BUMAA0H6Q.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYlps8BUMAA0H6Q.png",
+					"url": "https://t.co/D3kfm6ViQY",
+					"display_url": "pic.twitter.com/D3kfm6ViQY",
+					"expanded_url": "https://twitter.com/stiles/status/1263657887206748160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 591,
+							"h": 100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 591,
+							"h": 100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 591,
+							"h": 100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 100,
+							"h": 100,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263657391200940000,
+					"id_str": "1263657391200940032",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EYlps8BUMAA0H6Q.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYlps8BUMAA0H6Q.png",
+					"url": "https://t.co/D3kfm6ViQY",
+					"display_url": "pic.twitter.com/D3kfm6ViQY",
+					"expanded_url": "https://twitter.com/stiles/status/1263657887206748160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 591,
+							"h": 100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 591,
+							"h": 100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 591,
+							"h": 100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 100,
+							"h": 100,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11457,
+			"friends_count": 2084,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589731465",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I didn't know these nifty params were possible with Twitter search: https://t.co/FqloSKCYRb Thanks, @zck. https://t.co/D3kfm6ViQY"
+	},
+	{
 		"created_at": "Fri May 22 02:08:38 +0000 2020",
 		"id": 1263652326293688300,
 		"id_str": "1263652961957187590",
