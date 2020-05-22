@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 22 16:10:48 +0000 2020",
+		"id": 1263864899362422800,
+		"id_str": "1263864899362422785",
+		"full_text": "\"they in general speak in a very loud tone of voice\" https://t.co/QvX4mddw9x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QvX4mddw9x",
+					"expanded_url": "https://twitter.com/AskAKorean/status/1263845645384892416",
+					"display_url": "twitter.com/AskAKorean/sta…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11456,
+			"friends_count": 2085,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589731465",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263845645384892400,
+		"quoted_status_id_str": "1263845645384892416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QvX4mddw9x",
+			"expanded": "https://twitter.com/AskAKorean/status/1263845645384892416",
+			"display": "twitter.com/AskAKorean/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 22 14:54:17 +0000 2020",
+			"id": 1263845645384892400,
+			"id_str": "1263845645384892416",
+			"full_text": "@slimjinpyo \"Poodong\" for \"no\"? Wonder if this is mixed up with Chinese.",
+			"truncated": false,
+			"display_text_range": [
+				12,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "slimjinpyo",
+						"name": "Jeff Holliday",
+						"id": 623080848,
+						"id_str": "623080848",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1263843986818519000,
+			"in_reply_to_status_id_str": "1263843986818519041",
+			"in_reply_to_user_id": 623080848,
+			"in_reply_to_user_id_str": "623080848",
+			"in_reply_to_screen_name": "slimjinpyo",
+			"user": {
+				"id": 266269231,
+				"id_str": "266269231",
+				"name": "T.K. of AAK!",
+				"screen_name": "AskAKorean",
+				"location": "Eastern",
+				"description": "Blogger for Ask a Korean!",
+				"url": "https://t.co/2UhjoLCVhK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2UhjoLCVhK",
+								"expanded_url": "http://www.askakorean.net",
+								"display_url": "askakorean.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21753,
+				"friends_count": 3300,
+				"listed_count": 383,
+				"created_at": "Mon Mar 14 23:43:47 +0000 2011",
+				"favourites_count": 23136,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 875,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241075113757495297/vzXpsVCK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241075113757495297/vzXpsVCK_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"they in general speak in a very loud tone of voice\" https://t.co/QvX4mddw9x"
+	},
+	{
+		"created_at": "Fri May 22 16:03:30 +0000 2020",
+		"id": 1263848212806295600,
+		"id_str": "1263863063884656640",
+		"full_text": "In this Sunday’s @nytimes: How to See, in Four Minutes. https://t.co/eiY46bsnes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eiY46bsnes",
+					"expanded_url": "https://www.nytimes.com/2020/05/22/arts/wendy-macnaughton-diary-project.html?searchResultPosition=1",
+					"display_url": "nytimes.com/2020/05/22/art…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8412262,
+			"id_str": "8412262",
+			"name": "wendy macnaughton",
+			"screen_name": "wendymac",
+			"location": "sf, etc.",
+			"description": "Illustrator/Graphic Journalist. These days better known as WendyMac, your kid’s friendly quarantine art teacher. Ask me how to draw a bunny.",
+			"url": "https://t.co/EV61ASy9xG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EV61ASy9xG",
+							"expanded_url": "http://wendymacnaughton.com",
+							"display_url": "wendymacnaughton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16830,
+			"friends_count": 1256,
+			"listed_count": 586,
+			"created_at": "Fri Aug 24 19:50:14 +0000 2007",
+			"favourites_count": 19213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839919222037737472/GxMxt7pf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839919222037737472/GxMxt7pf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8412262/1570863251",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this Sunday’s @nytimes: How to See, in Four Minutes. https://t.co/eiY46bsnes"
+	},
+	{
 		"created_at": "Fri May 22 14:36:10 +0000 2020",
 		"id": 1263840685721112600,
 		"id_str": "1263841085144485890",
