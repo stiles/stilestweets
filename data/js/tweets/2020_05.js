@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 23 18:50:09 +0000 2020",
+		"id": 1264267388914040800,
+		"id_str": "1264267388914040834",
+		"full_text": "Bust https://t.co/x4E02b5aUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x4E02b5aUw",
+					"expanded_url": "https://twitter.com/MeganRisdal/status/1263984890564849664",
+					"display_url": "twitter.com/MeganRisdal/st…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11461,
+			"friends_count": 2086,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589731465",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263984890564849700,
+		"quoted_status_id_str": "1263984890564849664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x4E02b5aUw",
+			"expanded": "https://twitter.com/MeganRisdal/status/1263984890564849664",
+			"display": "twitter.com/MeganRisdal/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 23 00:07:36 +0000 2020",
+			"id": 1263984890564849700,
+			"id_str": "1263984890564849664",
+			"full_text": "https://t.co/rCQliDvIv1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1263984888518021000,
+						"id_str": "1263984888518021122",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EYqTjymUEAI_dum.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYqTjymUEAI_dum.jpg",
+						"url": "https://t.co/rCQliDvIv1",
+						"display_url": "pic.twitter.com/rCQliDvIv1",
+						"expanded_url": "https://twitter.com/MeganRisdal/status/1263984890564849664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 852,
+								"h": 479,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 479,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1263984888518021000,
+						"id_str": "1263984888518021122",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EYqTjymUEAI_dum.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYqTjymUEAI_dum.jpg",
+						"url": "https://t.co/rCQliDvIv1",
+						"display_url": "pic.twitter.com/rCQliDvIv1",
+						"expanded_url": "https://twitter.com/MeganRisdal/status/1263984890564849664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 852,
+								"h": 479,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 479,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 354537284,
+				"id_str": "354537284",
+				"name": "Meg Risdal 👾",
+				"screen_name": "MeganRisdal",
+				"location": "Los Angeles",
+				"description": "Product at @kaggle @google 💙 Ex @stackoverflow\n\nData / Science / Language / Community. Weirdness.\nMinnesotan in Los Angeles. \nTweets mine.",
+				"url": "https://t.co/6OiuFKQozl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6OiuFKQozl",
+								"expanded_url": "http://meg.dev",
+								"display_url": "meg.dev",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7232,
+				"friends_count": 999,
+				"listed_count": 220,
+				"created_at": "Sat Aug 13 22:01:47 +0000 2011",
+				"favourites_count": 30201,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18085,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1219525525347000320/jsfiuTTs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219525525347000320/jsfiuTTs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/354537284/1440805373",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 377,
+			"favorite_count": 1978,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bust https://t.co/x4E02b5aUw"
+	},
+	{
 		"created_at": "Fri May 22 16:10:48 +0000 2020",
 		"id": 1263864899362422800,
 		"id_str": "1263864899362422785",
