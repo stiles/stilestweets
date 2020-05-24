@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 00:51:36 +0000 2020",
+		"id": 1264314576365068300,
+		"id_str": "1264358351460130816",
+		"full_text": "💔 https://t.co/YLz8Y2AKB1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YLz8Y2AKB1",
+					"expanded_url": "https://twitter.com/nytimes/status/1264312206914719745",
+					"display_url": "twitter.com/nytimes/status…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361339506,
+			"id_str": "2361339506",
+			"name": "Katie Gordon",
+			"screen_name": "DrKathrynGordon",
+			"location": "Fargo, ND",
+			"description": "clinical psychologist, @_psychodrama_ podcast co-host, writing The Suicidal Thoughts Workbook for @NewHarbinger 🌸",
+			"url": "https://t.co/iZjejFpv5d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iZjejFpv5d",
+							"expanded_url": "https://kathrynhgordon.com",
+							"display_url": "kathrynhgordon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4786,
+			"friends_count": 1738,
+			"listed_count": 64,
+			"created_at": "Tue Feb 25 16:30:52 +0000 2014",
+			"favourites_count": 10700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237076577181216771/CnKyUEVO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237076577181216771/CnKyUEVO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361339506/1589256710",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264312206914719700,
+		"quoted_status_id_str": "1264312206914719745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YLz8Y2AKB1",
+			"expanded": "https://twitter.com/nytimes/status/1264312206914719745",
+			"display": "twitter.com/nytimes/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 23 21:48:14 +0000 2020",
+			"id": 1264312206914719700,
+			"id_str": "1264312206914719745",
+			"full_text": "The front page of The New York Times for May 24, 2020 https://t.co/Mp4figjnQe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1264312180981276700,
+						"id_str": "1264312180981276673",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/EYu9OuCWoAE6v5P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYu9OuCWoAE6v5P.jpg",
+						"url": "https://t.co/Mp4figjnQe",
+						"display_url": "pic.twitter.com/Mp4figjnQe",
+						"expanded_url": "https://twitter.com/nytimes/status/1264312206914719745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 664,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1134,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 377,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1264312180981276700,
+						"id_str": "1264312180981276673",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/EYu9OuCWoAE6v5P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYu9OuCWoAE6v5P.jpg",
+						"url": "https://t.co/Mp4figjnQe",
+						"display_url": "pic.twitter.com/Mp4figjnQe",
+						"expanded_url": "https://twitter.com/nytimes/status/1264312206914719745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 664,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1134,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 377,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807095,
+				"id_str": "807095",
+				"name": "The New York Times",
+				"screen_name": "nytimes",
+				"location": "New York City",
+				"description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+				"url": "http://t.co/ahvuWqicF9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ahvuWqicF9",
+								"expanded_url": "http://www.nytimes.com/",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ghL9OoYKMM",
+								"expanded_url": "http://nyti.ms/2FVHq9v",
+								"display_url": "nyti.ms/2FVHq9v",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 46581187,
+				"friends_count": 909,
+				"listed_count": 198968,
+				"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+				"favourites_count": 18491,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 396719,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+				"profile_link_color": "607696",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 70883,
+			"favorite_count": 130618,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💔 https://t.co/YLz8Y2AKB1"
+	},
+	{
 		"created_at": "Sat May 23 18:50:09 +0000 2020",
 		"id": 1264267388914040800,
 		"id_str": "1264267388914040834",
