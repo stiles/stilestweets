@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 15:09:54 +0000 2020",
+		"id": 1264566721303715800,
+		"id_str": "1264574349568208897",
+		"full_text": "a big problem in data journalism is giving large numbers context and humanizing (not diminishing) the counts. 100,000 people have died from coronavirus and here, they're more than just a dot on a page. @simonelandon wanted to tell their stories instead: https://t.co/woV790WSl7 https://t.co/ZsBlVziEU1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simonelandon",
+					"name": "Simone Landon",
+					"id": 169109510,
+					"id_str": "169109510",
+					"indices": [
+						202,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/woV790WSl7",
+					"expanded_url": "https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1264566717323399200,
+					"id_str": "1264566717323399169",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EYykurzX0AErSAA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYykurzX0AErSAA.jpg",
+					"url": "https://t.co/ZsBlVziEU1",
+					"display_url": "pic.twitter.com/ZsBlVziEU1",
+					"expanded_url": "https://twitter.com/DeniseDSLu/status/1264566721303715840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264566717323399200,
+					"id_str": "1264566717323399169",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EYykurzX0AErSAA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYykurzX0AErSAA.jpg",
+					"url": "https://t.co/ZsBlVziEU1",
+					"display_url": "pic.twitter.com/ZsBlVziEU1",
+					"expanded_url": "https://twitter.com/DeniseDSLu/status/1264566721303715840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1264566717323321300,
+					"id_str": "1264566717323321345",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EYykurzWoAEn1uU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYykurzWoAEn1uU.jpg",
+					"url": "https://t.co/ZsBlVziEU1",
+					"display_url": "pic.twitter.com/ZsBlVziEU1",
+					"expanded_url": "https://twitter.com/DeniseDSLu/status/1264566721303715840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 995,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 995,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1264566718325801000,
+					"id_str": "1264566718325800960",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EYykuviXQAAQsLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYykuviXQAAQsLo.jpg",
+					"url": "https://t.co/ZsBlVziEU1",
+					"display_url": "pic.twitter.com/ZsBlVziEU1",
+					"expanded_url": "https://twitter.com/DeniseDSLu/status/1264566721303715840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 993,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 993,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1264566718426493000,
+					"id_str": "1264566718426492928",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EYykuv6XsAA3Mqa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYykuv6XsAA3Mqa.jpg",
+					"url": "https://t.co/ZsBlVziEU1",
+					"display_url": "pic.twitter.com/ZsBlVziEU1",
+					"expanded_url": "https://twitter.com/DeniseDSLu/status/1264566721303715840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 997,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 997,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 237889929,
+			"id_str": "237889929",
+			"name": "ಠ_ಠ",
+			"screen_name": "DeniseDSLu",
+			"location": "New York",
+			"description": "knickknacks @nytgraphics, previously @PostGraphics. basic gen-x dad.",
+			"url": "https://t.co/fhIuGrW1Wc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fhIuGrW1Wc",
+							"expanded_url": "http://www.deniselu.com",
+							"display_url": "deniselu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3035,
+			"friends_count": 1023,
+			"listed_count": 156,
+			"created_at": "Thu Jan 13 21:48:16 +0000 2011",
+			"favourites_count": 5774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F3F3F3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098068140339183621/alif-cTN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098068140339183621/alif-cTN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/237889929/1433466282",
+			"profile_link_color": "67B0B8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D1D1D1",
+			"profile_text_color": "5C5C5E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "a big problem in data journalism is giving large numbers context and humanizing (not diminishing) the counts. 100,000 people have died from coronavirus and here, they're more than just a dot on a page. @simonelandon wanted to tell their stories instead: https://t.co/woV790WSl7 https://t.co/ZsBlVziEU1"
+	},
+	{
 		"created_at": "Sun May 24 03:45:12 +0000 2020",
 		"id": 1264402039947145200,
 		"id_str": "1264402039947145217",
