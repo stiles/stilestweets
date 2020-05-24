@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 01:30:08 +0000 2020",
+		"id": 1264368048665882600,
+		"id_str": "1264368048665882624",
+		"full_text": "@ChurchsChicken is essential! https://t.co/LmriL8AsjJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChurchsChicken",
+					"name": "Church's Chicken",
+					"id": 19610482,
+					"id_str": "19610482",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LmriL8AsjJ",
+					"expanded_url": "https://twitter.com/JLCauvin/status/1264306730218946567",
+					"display_url": "twitter.com/JLCauvin/statu…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 19610482,
+		"in_reply_to_user_id_str": "19610482",
+		"in_reply_to_screen_name": "ChurchsChicken",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11460,
+			"friends_count": 2086,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589731465",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264306730218946600,
+		"quoted_status_id_str": "1264306730218946567",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LmriL8AsjJ",
+			"expanded": "https://twitter.com/JLCauvin/status/1264306730218946567",
+			"display": "twitter.com/JLCauvin/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 23 21:26:28 +0000 2020",
+			"id": 1264306730218946600,
+			"id_str": "1264306730218946567",
+			"full_text": "President Trump wants all houses of worship open NOW because he is a man of great faith and tremendous heart. OPEN UP OUR ESSENTIAL RELIGIOUS PLACES! https://t.co/XMmY2OGrIf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1264306553596924000,
+						"id_str": "1264306553596923905",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1264306553596923905/pu/img/5p_T18ylSifvP3jP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1264306553596923905/pu/img/5p_T18ylSifvP3jP.jpg",
+						"url": "https://t.co/XMmY2OGrIf",
+						"display_url": "pic.twitter.com/XMmY2OGrIf",
+						"expanded_url": "https://twitter.com/JLCauvin/status/1264306730218946567/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1264306553596924000,
+						"id_str": "1264306553596923905",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1264306553596923905/pu/img/5p_T18ylSifvP3jP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1264306553596923905/pu/img/5p_T18ylSifvP3jP.jpg",
+						"url": "https://t.co/XMmY2OGrIf",
+						"display_url": "pic.twitter.com/XMmY2OGrIf",
+						"expanded_url": "https://twitter.com/JLCauvin/status/1264306730218946567/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 138590,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1264306553596923905/pu/vid/360x640/DorRluLqLrwxZ8d0.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1264306553596923905/pu/vid/320x568/3ITXQbPL54LW-kV5.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1264306553596923905/pu/vid/720x1280/AP9u9zRDGm0V5bqR.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1264306553596923905/pu/pl/Be9-2LVtIec66SAV.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20944153,
+				"id_str": "20944153",
+				"name": "J-L Cauvin",
+				"screen_name": "JLCauvin",
+				"location": "Bloomfield, NJ",
+				"description": "Comedian,\nVoice of @TrumpPod,\nOn Cameo,\nGtown Law '04,\nWilliams '01\n🇮🇪🇭🇹",
+				"url": "https://t.co/JxVZLuVwBp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JxVZLuVwBp",
+								"expanded_url": "http://www.jlcauvin.com",
+								"display_url": "jlcauvin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 91971,
+				"friends_count": 550,
+				"listed_count": 299,
+				"created_at": "Sun Feb 15 22:43:57 +0000 2009",
+				"favourites_count": 60323,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60180,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1168883197851164673/XDLhNsUU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168883197851164673/XDLhNsUU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20944153/1587906418",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 463,
+			"favorite_count": 1853,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "@ChurchsChicken is essential! https://t.co/LmriL8AsjJ"
+	},
+	{
 		"created_at": "Sun May 24 00:51:36 +0000 2020",
 		"id": 1264314576365068300,
 		"id_str": "1264358351460130816",
