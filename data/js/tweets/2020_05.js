@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 03:45:12 +0000 2020",
+		"id": 1264402039947145200,
+		"id_str": "1264402039947145217",
+		"full_text": "Daughter, 7, just asked for another kitten. I fear this is my fate. If only they came with Lou's view! https://t.co/MWHkiw8toz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MWHkiw8toz",
+					"expanded_url": "https://twitter.com/LouDPhillips/status/1264184922081640448",
+					"display_url": "twitter.com/LouDPhillips/s…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11460,
+			"friends_count": 2088,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1589731465",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264184922081640400,
+		"quoted_status_id_str": "1264184922081640448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MWHkiw8toz",
+			"expanded": "https://twitter.com/LouDPhillips/status/1264184922081640448",
+			"display": "twitter.com/LouDPhillips/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 23 13:22:27 +0000 2020",
+			"id": 1264184922081640400,
+			"id_str": "1264184922081640448",
+			"full_text": "It is with camaraderie and a little hesitation that I remind you &amp; my pride that it is once again #Caturday since this is how last Saturday ended.  They obviously take advantage of the day. Dzikus has to settle for the tree. Photo by ⁦@YMPhillips⁩ #HappyCaturday https://t.co/lFASaxErLE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Caturday",
+						"indices": [
+							102,
+							111
+						]
+					},
+					{
+						"text": "HappyCaturday",
+						"indices": [
+							252,
+							266
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YMPhillips",
+						"name": "Yvonne Phillips",
+						"id": 35004212,
+						"id_str": "35004212",
+						"indices": [
+							239,
+							250
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1264184901164728300,
+						"id_str": "1264184901164728321",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EYtJeDxWAAEsQGF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYtJeDxWAAEsQGF.jpg",
+						"url": "https://t.co/lFASaxErLE",
+						"display_url": "pic.twitter.com/lFASaxErLE",
+						"expanded_url": "https://twitter.com/LouDPhillips/status/1264184922081640448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1264184901164728300,
+						"id_str": "1264184901164728321",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EYtJeDxWAAEsQGF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYtJeDxWAAEsQGF.jpg",
+						"url": "https://t.co/lFASaxErLE",
+						"display_url": "pic.twitter.com/lFASaxErLE",
+						"expanded_url": "https://twitter.com/LouDPhillips/status/1264184922081640448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39378322,
+				"id_str": "39378322",
+				"name": "Lou Diamond Phillips",
+				"screen_name": "LouDPhillips",
+				"location": "Los Angeles, CA",
+				"description": "Lou Diamond Phillips Twitter page. Husband, Dad, actor, writer, director. I also love food.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 170001,
+				"friends_count": 1783,
+				"listed_count": 2258,
+				"created_at": "Mon May 11 23:51:27 +0000 2009",
+				"favourites_count": 66395,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 58011,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C88F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1204797114695458817/Q-zZqRNo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204797114695458817/Q-zZqRNo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39378322/1568601215",
+				"profile_link_color": "3C15A6",
+				"profile_sidebar_border_color": "4715EB",
+				"profile_sidebar_fill_color": "AAF5FA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 779,
+			"favorite_count": 9332,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daughter, 7, just asked for another kitten. I fear this is my fate. If only they came with Lou's view! https://t.co/MWHkiw8toz"
+	},
+	{
 		"created_at": "Sun May 24 01:30:08 +0000 2020",
 		"id": 1264368048665882600,
 		"id_str": "1264368048665882624",
