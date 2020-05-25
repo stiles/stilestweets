@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 25 04:34:29 +0000 2020",
+		"id": 1264734524727890000,
+		"id_str": "1264776831359565824",
+		"full_text": "repeat after me: Los Angeles has a subway. Los Angeles has a subway. https://t.co/G86nmdoemg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G86nmdoemg",
+					"expanded_url": "https://twitter.com/nytopinion/status/1264391232035393544",
+					"display_url": "twitter.com/nytopinion/sta…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16538210,
+			"id_str": "16538210",
+			"name": "Laura J. Nelson 🦅",
+			"screen_name": "laura_nelson",
+			"location": "Los Angeles, CA",
+			"description": "@latimes transportation reporter (🚗, 🚌, 🚇, 🚲, 🛴, 🚕, etc.) Kansan, @cspaworkshop director, plant mom. laura.nelson@latimes.com",
+			"url": "https://t.co/Owd4TbhzZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Owd4TbhzZA",
+							"expanded_url": "https://www.latimes.com/people/laura-j-nelson",
+							"display_url": "latimes.com/people/laura-j…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29363,
+			"friends_count": 999,
+			"listed_count": 977,
+			"created_at": "Wed Oct 01 01:20:51 +0000 2008",
+			"favourites_count": 51363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16538210/1568313391",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264391232035393500,
+		"quoted_status_id_str": "1264391232035393544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/G86nmdoemg",
+			"expanded": "https://twitter.com/nytopinion/status/1264391232035393544",
+			"display": "twitter.com/nytopinion/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 24 03:02:15 +0000 2020",
+			"id": 1264391232035393500,
+			"id_str": "1264391232035393544",
+			"full_text": "\"For years, New Yorkers like me have mocked and reviled Los Angeles because of its messy residential sprawl and its out-of-control car culture,\" writes @amywilentz. But it also doesn’t have virus vectors like subways and lots of residential elevators.  https://t.co/S1PryaONOi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "amywilentz",
+						"name": "Amy Wilentz",
+						"id": 21494910,
+						"id_str": "21494910",
+						"indices": [
+							152,
+							163
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/S1PryaONOi",
+						"expanded_url": "https://nyti.ms/3cYWpwm",
+						"display_url": "nyti.ms/3cYWpwm",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16686144,
+				"id_str": "16686144",
+				"name": "New York Times Opinion",
+				"screen_name": "nytopinion",
+				"location": "NYC, London, Paris, Hong Kong",
+				"description": "We amplify voices on the issues that matter to you. | Tell us what you think: letters@nytimes.com",
+				"url": "https://t.co/oy7Q8cSQqk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oy7Q8cSQqk",
+								"expanded_url": "http://nytimes.com/opinion",
+								"display_url": "nytimes.com/opinion",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 747509,
+				"friends_count": 1436,
+				"listed_count": 7700,
+				"created_at": "Fri Oct 10 17:32:53 +0000 2008",
+				"favourites_count": 4235,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 178701,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "169ADB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963564424278650886/ibjM-Kyv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963564424278650886/ibjM-Kyv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16686144/1580770032",
+				"profile_link_color": "169ADB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 154,
+		"favorite_count": 1258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "repeat after me: Los Angeles has a subway. Los Angeles has a subway. https://t.co/G86nmdoemg"
+	},
+	{
 		"created_at": "Sun May 24 17:27:53 +0000 2020",
 		"id": 1264609073410031600,
 		"id_str": "1264609073410031629",
