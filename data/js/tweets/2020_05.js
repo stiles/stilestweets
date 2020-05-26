@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 06:55:26 +0000 2020",
+		"id": 1265162084716699600,
+		"id_str": "1265174689053175808",
+		"full_text": "The owner was Caucasian by the way, and seemed pretty pleased about the palm tree. Whatever floats your boat?Not all rich property owners are Asian, as per the stereotype here....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265161301841473500,
+		"in_reply_to_status_id_str": "1265161301841473536",
+		"in_reply_to_user_id": 98077302,
+		"in_reply_to_user_id_str": "98077302",
+		"in_reply_to_screen_name": "joannachiu",
+		"user": {
+			"id": 98077302,
+			"id_str": "98077302",
+			"name": "Joanna Chiu 趙淇欣",
+			"screen_name": "joannachiu",
+			"location": "Vancouver, often roaming ",
+			"description": "Journalist @TorontoStar. Chair @NuVoices. Former China correspondent. Email: joannachiu@thestar.ca Please email for Signal or Telegram https://t.co/3mYcgFvtmD",
+			"url": "https://t.co/Tudnos3h8v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tudnos3h8v",
+							"expanded_url": "https://www.thestar.com/authors.chiu_joanna.html",
+							"display_url": "thestar.com/authors.chiu_j…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3mYcgFvtmD",
+							"expanded_url": "http://joannachiu.com",
+							"display_url": "joannachiu.com",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 46213,
+			"friends_count": 7903,
+			"listed_count": 985,
+			"created_at": "Sun Dec 20 07:49:32 +0000 2009",
+			"favourites_count": 29444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241858646293614592/gQLqGIkt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241858646293614592/gQLqGIkt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98077302/1566414236",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The owner was Caucasian by the way, and seemed pretty pleased about the palm tree. Whatever floats your boat?Not all rich property owners are Asian, as per the stereotype here...."
+	},
+	{
 		"created_at": "Tue May 26 00:24:15 +0000 2020",
 		"id": 1264657495760437200,
 		"id_str": "1265076247077376000",
