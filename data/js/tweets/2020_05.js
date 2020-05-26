@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 21:56:19 +0000 2020",
+		"id": 1265389533551423500,
+		"id_str": "1265401403138207744",
+		"full_text": "On my walk today, I wandered past what looked like a pile of brown packing paper outside someone’s garage in Silver Lake. \n\nBut upon closer inspection... https://t.co/rtVUxDRdVI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265389516656791600,
+					"id_str": "1265389516656791552",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EY-RD6LU0AAKVE5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY-RD6LU0AAKVE5.jpg",
+					"url": "https://t.co/rtVUxDRdVI",
+					"display_url": "pic.twitter.com/rtVUxDRdVI",
+					"expanded_url": "https://twitter.com/laura_nelson/status/1265389533551423488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265389516656791600,
+					"id_str": "1265389516656791552",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EY-RD6LU0AAKVE5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY-RD6LU0AAKVE5.jpg",
+					"url": "https://t.co/rtVUxDRdVI",
+					"display_url": "pic.twitter.com/rtVUxDRdVI",
+					"expanded_url": "https://twitter.com/laura_nelson/status/1265389533551423488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1265389516648403000,
+					"id_str": "1265389516648402946",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EY-RD6JU0AIovjy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY-RD6JU0AIovjy.jpg",
+					"url": "https://t.co/rtVUxDRdVI",
+					"display_url": "pic.twitter.com/rtVUxDRdVI",
+					"expanded_url": "https://twitter.com/laura_nelson/status/1265389533551423488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16538210,
+			"id_str": "16538210",
+			"name": "Laura J. Nelson 🦅",
+			"screen_name": "laura_nelson",
+			"location": "Los Angeles, CA",
+			"description": "@latimes transportation reporter (🚗, 🚌, 🚇, 🚲, 🛴, 🚕, etc.) Kansan, @cspaworkshop director, plant mom. laura.nelson@latimes.com",
+			"url": "https://t.co/Owd4TbhzZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Owd4TbhzZA",
+							"expanded_url": "https://www.latimes.com/people/laura-j-nelson",
+							"display_url": "latimes.com/people/laura-j…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29449,
+			"friends_count": 999,
+			"listed_count": 976,
+			"created_at": "Wed Oct 01 01:20:51 +0000 2008",
+			"favourites_count": 51387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16538210/1568313391",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 212,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On my walk today, I wandered past what looked like a pile of brown packing paper outside someone’s garage in Silver Lake. \n\nBut upon closer inspection... https://t.co/rtVUxDRdVI"
+	},
+	{
 		"created_at": "Tue May 26 14:46:54 +0000 2020",
 		"id": 1265293336904155100,
 		"id_str": "1265293336904155136",
