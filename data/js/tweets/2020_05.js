@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 14:00:20 +0000 2020",
+		"id": 1265090932023550000,
+		"id_str": "1265281618605862919",
+		"full_text": "Guess what they don’t do in South Korea? Make fun of people for wearing masks in a pandemic. They’ve had 300 deaths.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 820354372827758600,
+			"id_str": "820354372827758592",
+			"name": "Ben Rhodes",
+			"screen_name": "brhodes",
+			"location": "Washington, DC",
+			"description": "Pod Save The World, MSNBC, National Security Action, Author - The World As It Is: A Memoir of the Obama White House",
+			"url": "https://t.co/xEoSUyNTFK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xEoSUyNTFK",
+							"expanded_url": "https://www.penguinrandomhouse.com/books/564509/the-world-as-it-is-by-ben-rhodes/9780525509356/",
+							"display_url": "penguinrandomhouse.com/books/564509/t…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428349,
+			"friends_count": 1237,
+			"listed_count": 3901,
+			"created_at": "Sat Jan 14 19:38:18 +0000 2017",
+			"favourites_count": 4321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820355797641113600/6oCTdLPl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820355797641113600/6oCTdLPl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/820354372827758592/1527630674",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16704,
+		"favorite_count": 94376,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Guess what they don’t do in South Korea? Make fun of people for wearing masks in a pandemic. They’ve had 300 deaths."
+	},
+	{
+		"created_at": "Tue May 26 13:47:39 +0000 2020",
+		"id": 1265234465632276500,
+		"id_str": "1265278426262323200",
+		"full_text": "This letter is very powerful: https://t.co/aTSMfCzkwl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265234462037737500,
+					"id_str": "1265234462037737472",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EY8ECitXgAA8Xwe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY8ECitXgAA8Xwe.jpg",
+					"url": "https://t.co/aTSMfCzkwl",
+					"display_url": "pic.twitter.com/aTSMfCzkwl",
+					"expanded_url": "https://twitter.com/DelWilber/status/1265234465632276482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 742,
+							"h": 787,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 787,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265234462037737500,
+					"id_str": "1265234462037737472",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EY8ECitXgAA8Xwe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY8ECitXgAA8Xwe.jpg",
+					"url": "https://t.co/aTSMfCzkwl",
+					"display_url": "pic.twitter.com/aTSMfCzkwl",
+					"expanded_url": "https://twitter.com/DelWilber/status/1265234465632276482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 742,
+							"h": 787,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 787,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1265234462029361200,
+					"id_str": "1265234462029361152",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EY8ECirXsAApeQN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY8ECirXsAApeQN.jpg",
+					"url": "https://t.co/aTSMfCzkwl",
+					"display_url": "pic.twitter.com/aTSMfCzkwl",
+					"expanded_url": "https://twitter.com/DelWilber/status/1265234465632276482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 647,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 794,
+							"h": 835,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 794,
+							"h": 835,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1265234462041915400,
+					"id_str": "1265234462041915394",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EY8ECiuXQAIOPIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY8ECiuXQAIOPIw.jpg",
+					"url": "https://t.co/aTSMfCzkwl",
+					"display_url": "pic.twitter.com/aTSMfCzkwl",
+					"expanded_url": "https://twitter.com/DelWilber/status/1265234465632276482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 751,
+							"h": 428,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 751,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20114089,
+			"id_str": "20114089",
+			"name": "Del Quentin Wilber",
+			"screen_name": "DelWilber",
+			"location": "Washington, DC",
+			"description": "LA Times scribe & author. Former WSJ, LA Times, Bloomberg News, Washington Post, Baltimore Sun. Recovering police reporter. Board member @pressclubdc. Open DMs.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12500,
+			"friends_count": 2421,
+			"listed_count": 359,
+			"created_at": "Thu Feb 05 02:03:53 +0000 2009",
+			"favourites_count": 6558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 44344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196832135685951488/Cv04Gd_S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196832135685951488/Cv04Gd_S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20114089/1506609242",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9986,
+		"favorite_count": 25919,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This letter is very powerful: https://t.co/aTSMfCzkwl"
+	},
+	{
 		"created_at": "Tue May 26 06:55:26 +0000 2020",
 		"id": 1265162084716699600,
 		"id_str": "1265174689053175808",
