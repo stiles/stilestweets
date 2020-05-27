@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 27 04:18:58 +0000 2020",
+		"id": 1265405306185478100,
+		"id_str": "1265497703389290500",
+		"full_text": "congrats to twitter for fact checking one tweet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20178419,
+			"id_str": "20178419",
+			"name": "Charlie Warzel",
+			"screen_name": "cwarzel",
+			"location": "Montana",
+			"description": "writer at large for New York Times Opinion. I cover the information wars. charlie.warzel@nytimes.com DMs open.",
+			"url": "https://t.co/PtshTZzalv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PtshTZzalv",
+							"expanded_url": "https://www.nytimes.com/by/charlie-warzel",
+							"display_url": "nytimes.com/by/charlie-war…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144933,
+			"friends_count": 1665,
+			"listed_count": 1891,
+			"created_at": "Thu Feb 05 19:36:10 +0000 2009",
+			"favourites_count": 15461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/531522450190651393/HuRaqDlp_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/531522450190651393/HuRaqDlp_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20178419/1567456016",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1144,
+		"favorite_count": 11941,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "congrats to twitter for fact checking one tweet"
+	},
+	{
+		"created_at": "Wed May 27 03:49:22 +0000 2020",
+		"id": 1265367111183917000,
+		"id_str": "1265490251000066048",
+		"full_text": "Of the 44 congressional districts hardest hit by #coronavirus, 41 are represented by Democrats, while three are represented by Republicans. These include New York-area districts, as well as those in the Boston, Detroit and New Orleans metropolitan areas. https://t.co/WDf1WugmFE https://t.co/0SFqbgHRag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirus",
+					"indices": [
+						49,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WDf1WugmFE",
+					"expanded_url": "https://pewrsr.ch/2LXtYTR",
+					"display_url": "pewrsr.ch/2LXtYTR",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1265367108852072400,
+					"id_str": "1265367108852072448",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EY98rmmXQAAtZXD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY98rmmXQAAtZXD.jpg",
+					"url": "https://t.co/0SFqbgHRag",
+					"display_url": "pic.twitter.com/0SFqbgHRag",
+					"expanded_url": "https://twitter.com/FactTank/status/1265367111183917058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1073,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1432,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265367108852072400,
+					"id_str": "1265367108852072448",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EY98rmmXQAAtZXD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY98rmmXQAAtZXD.jpg",
+					"url": "https://t.co/0SFqbgHRag",
+					"display_url": "pic.twitter.com/0SFqbgHRag",
+					"expanded_url": "https://twitter.com/FactTank/status/1265367111183917058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1073,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1432,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1265726480,
+			"id_str": "1265726480",
+			"name": "Pew Research Fact Tank",
+			"screen_name": "FactTank",
+			"location": "Washington, D.C.",
+			"description": "A blog from @pewresearch writers, pollsters & demographers. We find the news in the numbers. Tweeting about polls, data, econ, demographics and more.",
+			"url": "http://t.co/iQt7HLb1Vy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iQt7HLb1Vy",
+							"expanded_url": "http://www.pewresearch.org/fact-tank",
+							"display_url": "pewresearch.org/fact-tank",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120818,
+			"friends_count": 761,
+			"listed_count": 3605,
+			"created_at": "Wed Mar 13 23:41:33 +0000 2013",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 40121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879729948969377792/YW6et1Od_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879729948969377792/YW6et1Od_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265726480/1495726528",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Of the 44 congressional districts hardest hit by #coronavirus, 41 are represented by Democrats, while three are represented by Republicans. These include New York-area districts, as well as those in the Boston, Detroit and New Orleans metropolitan areas. https://t.co/WDf1WugmFE https://t.co/0SFqbgHRag"
+	},
+	{
 		"created_at": "Tue May 26 21:56:19 +0000 2020",
 		"id": 1265389533551423500,
 		"id_str": "1265401403138207744",
