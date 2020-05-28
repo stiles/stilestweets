@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 28 16:09:20 +0000 2020",
+		"id": 1266030334824636400,
+		"id_str": "1266038858199691266",
+		"full_text": "43 states at historically high unemployment rates in April 2020 https://t.co/MGvTrE55xs #BLSdata https://t.co/MVLxfgLAC3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLSdata",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MGvTrE55xs",
+					"expanded_url": "https://go.usa.gov/xwgxd",
+					"display_url": "go.usa.gov/xwgxd",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1266029311162749000,
+					"id_str": "1266029311162748929",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EZHW82cWkAEm_Y3.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZHW82cWkAEm_Y3.png",
+					"url": "https://t.co/MVLxfgLAC3",
+					"display_url": "pic.twitter.com/MVLxfgLAC3",
+					"expanded_url": "https://twitter.com/BLS_gov/status/1266030334824636418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 867,
+							"h": 791,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 867,
+							"h": 791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266029311162749000,
+					"id_str": "1266029311162748929",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EZHW82cWkAEm_Y3.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZHW82cWkAEm_Y3.png",
+					"url": "https://t.co/MVLxfgLAC3",
+					"display_url": "pic.twitter.com/MVLxfgLAC3",
+					"expanded_url": "https://twitter.com/BLS_gov/status/1266030334824636418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 867,
+							"h": 791,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 867,
+							"h": 791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 612896910,
+			"id_str": "612896910",
+			"name": "BLS-Labor Statistics",
+			"screen_name": "BLS_gov",
+			"location": "",
+			"description": "BLS has a stat for that! Statistics you can trust to make informed decisions, whether you're a worker, jobseeker, student, employer, investor, or policymaker.",
+			"url": "http://t.co/eomIqoZ8OU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/eomIqoZ8OU",
+							"expanded_url": "http://www.bls.gov",
+							"display_url": "bls.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64178,
+			"friends_count": 108,
+			"listed_count": 2112,
+			"created_at": "Tue Jun 19 19:58:49 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146076978212200448/F72U6f8S_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146076978212200448/F72U6f8S_normal.png",
+			"profile_link_color": "0F288C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "43 states at historically high unemployment rates in April 2020 https://t.co/MGvTrE55xs #BLSdata https://t.co/MVLxfgLAC3"
+	},
+	{
 		"created_at": "Thu May 28 13:37:04 +0000 2020",
 		"id": 1266000540153950200,
 		"id_str": "1266000540153950208",
