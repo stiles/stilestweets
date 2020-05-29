@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 29 21:06:51 +0000 2020",
+		"id": 1266392274549776400,
+		"id_str": "1266476120221728768",
+		"full_text": "After stoking the fires of white supremacy and racism your entire presidency, you have the nerve to feign moral superiority before threatening violence? ‘When the looting starts the shooting starts’??? We will vote you out in November. @realdonaldtrump",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						236,
+						252
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17919972,
+			"id_str": "17919972",
+			"name": "Taylor Swift",
+			"screen_name": "taylorswift13",
+			"location": "",
+			"description": "Lover out now",
+			"url": "https://t.co/9JxzwM1kVA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9JxzwM1kVA",
+							"expanded_url": "https://taylorswift.lnk.to/lover",
+							"display_url": "taylorswift.lnk.to/lover",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86200105,
+			"friends_count": 0,
+			"listed_count": 113441,
+			"created_at": "Sat Dec 06 10:10:54 +0000 2008",
+			"favourites_count": 691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201195539888590848/eSnkZy2V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201195539888590848/eSnkZy2V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17919972/1588942100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237239,
+		"favorite_count": 996841,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "After stoking the fires of white supremacy and racism your entire presidency, you have the nerve to feign moral superiority before threatening violence? ‘When the looting starts the shooting starts’??? We will vote you out in November. @realdonaldtrump"
+	},
+	{
+		"created_at": "Fri May 29 21:05:14 +0000 2020",
+		"id": 1266434492228448300,
+		"id_str": "1266475710828302336",
+		"full_text": "i was furloughed yday and couldnt tweet this story so please read thank u https://t.co/vT2hZQH1A7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vT2hZQH1A7",
+					"expanded_url": "https://twitter.com/suhaunah/status/1266420825483165696",
+					"display_url": "twitter.com/suhaunah/statu…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 338890044,
+			"id_str": "338890044",
+			"name": "suhauna hussain سہانہ",
+			"screen_name": "suhaunah",
+			"location": "los angeles ~ she/her ",
+			"description": "tech & breaking business news @latimes. suhauna.hussain@latimes.com",
+			"url": "https://t.co/pNMf0rDbXs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pNMf0rDbXs",
+							"expanded_url": "https://www.latimes.com/la-bio-suhauna-hussain-staff.html",
+							"display_url": "latimes.com/la-bio-suhauna…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4085,
+			"friends_count": 2569,
+			"listed_count": 65,
+			"created_at": "Wed Jul 20 07:41:32 +0000 2011",
+			"favourites_count": 56667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262227857683574784/u0fTC9IX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262227857683574784/u0fTC9IX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/338890044/1577735613",
+			"profile_link_color": "8B008B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1266420825483165700,
+		"quoted_status_id_str": "1266420825483165696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vT2hZQH1A7",
+			"expanded": "https://twitter.com/suhaunah/status/1266420825483165696",
+			"display": "twitter.com/suhaunah/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 29 17:27:08 +0000 2020",
+			"id": 1266420825483165700,
+			"id_str": "1266420825483165696",
+			"full_text": "I wrote about two women who are compiling numbers of coronavirus cases and deaths at Whole Foods stores and Amazon warehouses across the country. They do this meticulous, time-intensive work because Amazon won't release this data and they don't feel safe. https://t.co/W20CjrvGHX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/W20CjrvGHX",
+						"expanded_url": "https://www.latimes.com/business/technology/story/2020-05-28/amazon-whole-foods-workers-track-coronavirus-cases",
+						"display_url": "latimes.com/business/techn…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 338890044,
+				"id_str": "338890044",
+				"name": "suhauna hussain سہانہ",
+				"screen_name": "suhaunah",
+				"location": "los angeles ~ she/her ",
+				"description": "tech & breaking business news @latimes. suhauna.hussain@latimes.com",
+				"url": "https://t.co/pNMf0rDbXs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pNMf0rDbXs",
+								"expanded_url": "https://www.latimes.com/la-bio-suhauna-hussain-staff.html",
+								"display_url": "latimes.com/la-bio-suhauna…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4085,
+				"friends_count": 2569,
+				"listed_count": 65,
+				"created_at": "Wed Jul 20 07:41:32 +0000 2011",
+				"favourites_count": 56667,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13925,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1262227857683574784/u0fTC9IX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262227857683574784/u0fTC9IX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/338890044/1577735613",
+				"profile_link_color": "8B008B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 97,
+			"favorite_count": 170,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i was furloughed yday and couldnt tweet this story so please read thank u https://t.co/vT2hZQH1A7"
+	},
+	{
+		"created_at": "Fri May 29 20:56:19 +0000 2020",
+		"id": 1266471491987583000,
+		"id_str": "1266473467055992832",
+		"full_text": "When you can’t get to Polynesia, San Pedro’s Cabrillo Beach will serve in a pinch. https://t.co/utNM1mDJ2E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266471334147551200,
+					"id_str": "1266471334147551233",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EZNo9-YUcAEDnqU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZNo9-YUcAEDnqU.jpg",
+					"url": "https://t.co/utNM1mDJ2E",
+					"display_url": "pic.twitter.com/utNM1mDJ2E",
+					"expanded_url": "https://twitter.com/SaulKQED/status/1266471491987582976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266471334147551200,
+					"id_str": "1266471334147551233",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EZNo9-YUcAEDnqU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZNo9-YUcAEDnqU.jpg",
+					"url": "https://t.co/utNM1mDJ2E",
+					"display_url": "pic.twitter.com/utNM1mDJ2E",
+					"expanded_url": "https://twitter.com/SaulKQED/status/1266471491987582976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 403689876,
+			"id_str": "403689876",
+			"name": "Saul Gonzalez",
+			"screen_name": "SaulKQED",
+			"location": "Los Angeles, CA",
+			"description": "Co-host and correspondent “The California Report.” Lover of coffee, bookstores, wandering and footbridges. No strong opinions about the Oxford comma.",
+			"url": "https://t.co/gLgxrzIfdv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gLgxrzIfdv",
+							"expanded_url": "http://kqed.org",
+							"display_url": "kqed.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2118,
+			"friends_count": 805,
+			"listed_count": 94,
+			"created_at": "Wed Nov 02 21:22:46 +0000 2011",
+			"favourites_count": 8649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263593031950692352/rHBg573R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263593031950692352/rHBg573R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/403689876/1562257059",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you can’t get to Polynesia, San Pedro’s Cabrillo Beach will serve in a pinch. https://t.co/utNM1mDJ2E"
+	},
+	{
 		"created_at": "Thu May 28 16:09:20 +0000 2020",
 		"id": 1266030334824636400,
 		"id_str": "1266038858199691266",
