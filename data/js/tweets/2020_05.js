@@ -1,6 +1,764 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 31 15:03:42 +0000 2020",
+		"id": 1266914494170595300,
+		"id_str": "1267109506296672257",
+		"full_text": "Getting an 8pm curfew alert on my phone during a pandemic and Depression while Trump invites Putin to the US is about where I thought we'd be in year 4 of Trump.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 820354372827758600,
+			"id_str": "820354372827758592",
+			"name": "Ben Rhodes",
+			"screen_name": "brhodes",
+			"location": "Washington, DC",
+			"description": "Pod Save The World, MSNBC, National Security Action, Author - The World As It Is: A Memoir of the Obama White House",
+			"url": "https://t.co/xEoSUyNTFK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xEoSUyNTFK",
+							"expanded_url": "https://www.penguinrandomhouse.com/books/564509/the-world-as-it-is-by-ben-rhodes/9780525509356/",
+							"display_url": "penguinrandomhouse.com/books/564509/t…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433557,
+			"friends_count": 1241,
+			"listed_count": 3925,
+			"created_at": "Sat Jan 14 19:38:18 +0000 2017",
+			"favourites_count": 4366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820355797641113600/6oCTdLPl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820355797641113600/6oCTdLPl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/820354372827758592/1527630674",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18334,
+		"favorite_count": 81590,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Getting an 8pm curfew alert on my phone during a pandemic and Depression while Trump invites Putin to the US is about where I thought we'd be in year 4 of Trump."
+	},
+	{
+		"created_at": "Sun May 31 15:01:31 +0000 2020",
+		"id": 1267108957195079700,
+		"id_str": "1267108957195079681",
+		"full_text": "@SaulKQED Hope this guy's getting some OT.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaulKQED",
+					"name": "Saul Gonzalez",
+					"id": 403689876,
+					"id_str": "403689876",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1267108473487020000,
+		"in_reply_to_status_id_str": "1267108473487020032",
+		"in_reply_to_user_id": 403689876,
+		"in_reply_to_user_id_str": "403689876",
+		"in_reply_to_screen_name": "SaulKQED",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11471,
+			"friends_count": 2094,
+			"listed_count": 858,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SaulKQED Hope this guy's getting some OT."
+	},
+	{
+		"created_at": "Sun May 31 14:55:33 +0000 2020",
+		"id": 1267104714740637700,
+		"id_str": "1267107453591711744",
+		"full_text": "Now Is the Right Time for a Trade Agreement with Taiwan https://t.co/pcZVT9duhj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pcZVT9duhj",
+					"expanded_url": "https://conta.cc/3dqgD2A",
+					"display_url": "conta.cc/3dqgD2A",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.constantcontact.com\" rel=\"nofollow\">Constant Contact</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 764320747,
+			"id_str": "764320747",
+			"name": "David Maxwell",
+			"screen_name": "DavidMaxwell161",
+			"location": "United States",
+			"description": "Senior Fellow, Foundation for Defense of Democracies.   // Opinions are my own.",
+			"url": "https://t.co/bcbY0Ypfn9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bcbY0Ypfn9",
+							"expanded_url": "http://maxoki161.blogspot.com/",
+							"display_url": "maxoki161.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3453,
+			"friends_count": 483,
+			"listed_count": 106,
+			"created_at": "Fri Aug 17 19:38:38 +0000 2012",
+			"favourites_count": 689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000386406789/7b2b02482dc7105ae23a329b4d5a2c94_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000386406789/7b2b02482dc7105ae23a329b4d5a2c94_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/764320747/1464542899",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now Is the Right Time for a Trade Agreement with Taiwan https://t.co/pcZVT9duhj"
+	},
+	{
+		"created_at": "Sun May 31 14:47:55 +0000 2020",
+		"id": 1266944032204185600,
+		"id_str": "1267105532390764544",
+		"full_text": "I feel I need to say something to those who are contemplating violating curfew and risking arrest. Go home!📣The last place you want to be during this COVID-19 pandemic is in LA County Jail.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16369269,
+			"id_str": "16369269",
+			"name": "Mark Ridley-Thomas",
+			"screen_name": "mridleythomas",
+			"location": "Los Angeles",
+			"description": "@CountyOfLA Supervisor- Carson, Compton, Culver City, Gardena, Hawthorne, Inglewood, Lawndale, LA City, Lynwood, & unincorporated areas (2M ppl) 12/08.",
+			"url": "http://t.co/ecWCHkYaHI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ecWCHkYaHI",
+							"expanded_url": "http://ridley-thomas.lacounty.gov/",
+							"display_url": "ridley-thomas.lacounty.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21993,
+			"friends_count": 1071,
+			"listed_count": 523,
+			"created_at": "Fri Sep 19 19:56:37 +0000 2008",
+			"favourites_count": 9406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "141633",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/829428514956783616/7LOoXiKW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16369269/1588914894",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "34C7BB",
+			"profile_sidebar_fill_color": "7CBBEB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 404,
+		"favorite_count": 1829,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I feel I need to say something to those who are contemplating violating curfew and risking arrest. Go home!📣The last place you want to be during this COVID-19 pandemic is in LA County Jail."
+	},
+	{
+		"created_at": "Sun May 31 14:40:53 +0000 2020",
+		"id": 1267103761735889000,
+		"id_str": "1267103761735888901",
+		"full_text": "@sherlyholmes @bettychavarriaa Love this",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sherlyholmes",
+					"name": "Julia Wick",
+					"id": 13479902,
+					"id_str": "13479902",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "bettychavarriaa",
+					"name": "Betty Chavarria",
+					"id": 717851575146795000,
+					"id_str": "717851575146795008",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1266992305082257400,
+		"in_reply_to_status_id_str": "1266992305082257409",
+		"in_reply_to_user_id": 13479902,
+		"in_reply_to_user_id_str": "13479902",
+		"in_reply_to_screen_name": "sherlyholmes",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11471,
+			"friends_count": 2094,
+			"listed_count": 858,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sherlyholmes @bettychavarriaa Love this"
+	},
+	{
+		"created_at": "Sun May 31 14:40:37 +0000 2020",
+		"id": 1266967223421173800,
+		"id_str": "1267103696732618753",
+		"full_text": "Brought to you by the LA Times A1 design headquarters in Long Beach. Felt weird to work a night like this from home with my toddler crawling around. I asked her if she would remember this when she was older. She giggled like she understood what I said. https://t.co/Y8NVoj5CKz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266967217603661800,
+					"id_str": "1266967217603661825",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EZUr-MNU0AEFOZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZUr-MNU0AEFOZq.jpg",
+					"url": "https://t.co/Y8NVoj5CKz",
+					"display_url": "pic.twitter.com/Y8NVoj5CKz",
+					"expanded_url": "https://twitter.com/bettychavarriaa/status/1266967223421173762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1972,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266967217603661800,
+					"id_str": "1266967217603661825",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EZUr-MNU0AEFOZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZUr-MNU0AEFOZq.jpg",
+					"url": "https://t.co/Y8NVoj5CKz",
+					"display_url": "pic.twitter.com/Y8NVoj5CKz",
+					"expanded_url": "https://twitter.com/bettychavarriaa/status/1266967223421173762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1972,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1266964350704578600,
+		"in_reply_to_status_id_str": "1266964350704578561",
+		"in_reply_to_user_id": 717851575146795000,
+		"in_reply_to_user_id_str": "717851575146795008",
+		"in_reply_to_screen_name": "bettychavarriaa",
+		"user": {
+			"id": 717851575146795000,
+			"id_str": "717851575146795008",
+			"name": "Betty Chavarria",
+			"screen_name": "bettychavarriaa",
+			"location": "Long Beach, CA",
+			"description": "News Designer @latimes 🦅🗞@CSULB alumna and full-time Long Beacher🌴 Former: @nashvilleds @socalnewsgroup",
+			"url": "https://t.co/L0ZtEzsgSK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L0ZtEzsgSK",
+							"expanded_url": "http://bettychavarria.com",
+							"display_url": "bettychavarria.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 564,
+			"friends_count": 768,
+			"listed_count": 10,
+			"created_at": "Wed Apr 06 23:08:47 +0000 2016",
+			"favourites_count": 2729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242321210257444864/LOEX5lIN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242321210257444864/LOEX5lIN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/717851575146795008/1532066483",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 184,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brought to you by the LA Times A1 design headquarters in Long Beach. Felt weird to work a night like this from home with my toddler crawling around. I asked her if she would remember this when she was older. She giggled like she understood what I said. https://t.co/Y8NVoj5CKz"
+	},
+	{
 		"created_at": "Sat May 30 23:14:18 +0000 2020",
 		"id": 1266854477845237800,
 		"id_str": "1266870579908366336",
