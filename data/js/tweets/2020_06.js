@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 01 03:03:28 +0000 2020",
+		"id": 1267289289869734000,
+		"id_str": "1267290639122612224",
+		"full_text": "@stiles Bite your tongue. No stealing. Actually, I think he will run for Houston Mayor. He works a room like a well seasoned politician.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1267286931802452000,
+		"in_reply_to_status_id_str": "1267286931802451968",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 18589758,
+			"id_str": "18589758",
+			"name": "LarissaLindsay she/her",
+			"screen_name": "LarissaLindsay",
+			"location": "Houston, TX",
+			"description": "Dir of Security @ Planned Parenthood, Assoc of Threat Assessment Prof, IAHSS & ASIS member, IATSE 896, Rice grad. ❤️ K9s. Opinions are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 1739,
+			"listed_count": 17,
+			"created_at": "Sat Jan 03 23:27:38 +0000 2009",
+			"favourites_count": 17346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102332063523442688/WKU5OTns_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102332063523442688/WKU5OTns_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18589758/1508606496",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@stiles Bite your tongue. No stealing. Actually, I think he will run for Houston Mayor. He works a room like a well seasoned politician."
+	},
+	{
 		"created_at": "Mon Jun 01 01:53:40 +0000 2020",
 		"id": 1267243810720891000,
 		"id_str": "1267273076217004032",
