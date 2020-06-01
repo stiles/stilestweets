@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 01 04:01:46 +0000 2020",
+		"id": 1267305314082144300,
+		"id_str": "1267305314082144256",
+		"full_text": "Intern's turn for the social media shift. https://t.co/JGCGv9MZ5A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JGCGv9MZ5A",
+					"expanded_url": "https://twitter.com/ashleyfeinberg/status/1267305023341559809",
+					"display_url": "twitter.com/ashleyfeinberg…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11470,
+			"friends_count": 2096,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1267305023341559800,
+		"quoted_status_id_str": "1267305023341559809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JGCGv9MZ5A",
+			"expanded": "https://twitter.com/ashleyfeinberg/status/1267305023341559809",
+			"display": "twitter.com/ashleyfeinberg…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 01 04:00:37 +0000 2020",
+			"id": 1267305023341559800,
+			"id_str": "1267305023341559809",
+			"full_text": "desperate to know what happened in those 12 minutes https://t.co/RXC85b9nXq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1267304968735916000,
+						"id_str": "1267304968735916032",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/EZZfJ5OXgAAdlQb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZZfJ5OXgAAdlQb.jpg",
+						"url": "https://t.co/RXC85b9nXq",
+						"display_url": "pic.twitter.com/RXC85b9nXq",
+						"expanded_url": "https://twitter.com/ashleyfeinberg/status/1267305023341559809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1076,
+								"h": 332,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1076,
+								"h": 332,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 210,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1267304968735916000,
+						"id_str": "1267304968735916032",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/EZZfJ5OXgAAdlQb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZZfJ5OXgAAdlQb.jpg",
+						"url": "https://t.co/RXC85b9nXq",
+						"display_url": "pic.twitter.com/RXC85b9nXq",
+						"expanded_url": "https://twitter.com/ashleyfeinberg/status/1267305023341559809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1076,
+								"h": 332,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1076,
+								"h": 332,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 210,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1267304991578079200,
+						"id_str": "1267304991578079233",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/EZZfLOUXQAE7t4T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZZfLOUXQAE7t4T.jpg",
+						"url": "https://t.co/RXC85b9nXq",
+						"display_url": "pic.twitter.com/RXC85b9nXq",
+						"expanded_url": "https://twitter.com/ashleyfeinberg/status/1267305023341559809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1098,
+								"h": 348,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 216,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1098,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 165944767,
+				"id_str": "165944767",
+				"name": "Ashley Feinberg",
+				"screen_name": "ashleyfeinberg",
+				"location": "Brooklyn, NY",
+				"description": "send tips to ashley@slate.com | DM for Signal #",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 210740,
+				"friends_count": 1009,
+				"listed_count": 2286,
+				"created_at": "Mon Jul 12 23:19:50 +0000 2010",
+				"favourites_count": 37691,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 41195,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829782486955782148/vMthq5x2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829782486955782148/vMthq5x2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/165944767/1405196339",
+				"profile_link_color": "800033",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 301,
+			"favorite_count": 1762,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Intern's turn for the social media shift. https://t.co/JGCGv9MZ5A"
+	},
+	{
 		"created_at": "Mon Jun 01 03:03:28 +0000 2020",
 		"id": 1267289289869734000,
 		"id_str": "1267290639122612224",
