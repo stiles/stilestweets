@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 02 20:26:01 +0000 2020",
+		"id": 1267868022590410800,
+		"id_str": "1267915395521863680",
+		"full_text": "Amazing scene now in downtown Los Angeles as a line of LAPD officers take a knee at the request of protestors. #KQED #KCRW #publicradio https://t.co/AVDAI7Ph3E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KQED",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "KCRW",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "publicradio",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267868010850603000,
+					"id_str": "1267868010850603009",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EZhfPQjU0AEWHhD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZhfPQjU0AEWHhD.jpg",
+					"url": "https://t.co/AVDAI7Ph3E",
+					"display_url": "pic.twitter.com/AVDAI7Ph3E",
+					"expanded_url": "https://twitter.com/SaulKQED/status/1267868022590410752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267868010850603000,
+					"id_str": "1267868010850603009",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EZhfPQjU0AEWHhD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZhfPQjU0AEWHhD.jpg",
+					"url": "https://t.co/AVDAI7Ph3E",
+					"display_url": "pic.twitter.com/AVDAI7Ph3E",
+					"expanded_url": "https://twitter.com/SaulKQED/status/1267868022590410752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 403689876,
+			"id_str": "403689876",
+			"name": "Saul Gonzalez",
+			"screen_name": "SaulKQED",
+			"location": "Los Angeles, CA",
+			"description": "Co-host and correspondent “The California Report.” Lover of coffee, bookstores, wandering and footbridges. No strong opinions about the Oxford comma.",
+			"url": "https://t.co/gLgxrzIfdv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gLgxrzIfdv",
+							"expanded_url": "http://kqed.org",
+							"display_url": "kqed.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2158,
+			"friends_count": 811,
+			"listed_count": 96,
+			"created_at": "Wed Nov 02 21:22:46 +0000 2011",
+			"favourites_count": 8672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263593031950692352/rHBg573R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263593031950692352/rHBg573R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/403689876/1562257059",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9e39af3088002",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9e39af3088002.json",
+			"place_type": "poi",
+			"name": "LAPD Headquarters",
+			"full_name": "LAPD Headquarters",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.24389956139629,
+							34.052071352794584
+						],
+						[
+							-118.24389956139629,
+							34.052071352794584
+						],
+						[
+							-118.24389956139629,
+							34.052071352794584
+						],
+						[
+							-118.24389956139629,
+							34.052071352794584
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazing scene now in downtown Los Angeles as a line of LAPD officers take a knee at the request of protestors. #KQED #KCRW #publicradio https://t.co/AVDAI7Ph3E"
+	},
+	{
 		"created_at": "Tue Jun 02 19:19:27 +0000 2020",
 		"id": 1267898643803025400,
 		"id_str": "1267898643803025408",
