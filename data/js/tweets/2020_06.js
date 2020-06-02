@@ -1,6 +1,583 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 02 16:08:21 +0000 2020",
+		"id": 1267847983762149400,
+		"id_str": "1267850548998365184",
+		"full_text": "Donald Trump would not even let Jesus Christ stop him from taking the photo in front of the Church. THIS IS REAL LEADERSHIP!\n(Subscribe to the channel in the thread below) https://t.co/6r7atDwvc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267847835535450000,
+					"id_str": "1267847835535450112",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267847835535450112/pu/img/ZgYfPvrm15ZShJV_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267847835535450112/pu/img/ZgYfPvrm15ZShJV_.jpg",
+					"url": "https://t.co/6r7atDwvc9",
+					"display_url": "pic.twitter.com/6r7atDwvc9",
+					"expanded_url": "https://twitter.com/JLCauvin/status/1267847983762149381/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267847835535450000,
+					"id_str": "1267847835535450112",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267847835535450112/pu/img/ZgYfPvrm15ZShJV_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267847835535450112/pu/img/ZgYfPvrm15ZShJV_.jpg",
+					"url": "https://t.co/6r7atDwvc9",
+					"display_url": "pic.twitter.com/6r7atDwvc9",
+					"expanded_url": "https://twitter.com/JLCauvin/status/1267847983762149381/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 138728,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1267847835535450112/pu/pl/8Es8Y9SYTiKUDKoH.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267847835535450112/pu/vid/360x640/uBBet7lQaaVspms7.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267847835535450112/pu/vid/320x568/npCMev5a-xm-5Dbl.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1267847835535450112/pu/vid/720x1280/jBu0X9oz5jEgiNk0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20944153,
+			"id_str": "20944153",
+			"name": "J-L Cauvin",
+			"screen_name": "JLCauvin",
+			"location": "Bloomfield, NJ",
+			"description": "Comedian,\nVoice of @TrumpPod,\nOn Cameo,\nGtown Law '04,\nWilliams '01\n🇮🇪🇭🇹",
+			"url": "https://t.co/JxVZLuVwBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JxVZLuVwBp",
+							"expanded_url": "http://www.jlcauvin.com",
+							"display_url": "jlcauvin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98333,
+			"friends_count": 555,
+			"listed_count": 320,
+			"created_at": "Sun Feb 15 22:43:57 +0000 2009",
+			"favourites_count": 63836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168883197851164673/XDLhNsUU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168883197851164673/XDLhNsUU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20944153/1591106020",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Donald Trump would not even let Jesus Christ stop him from taking the photo in front of the Church. THIS IS REAL LEADERSHIP!\n(Subscribe to the channel in the thread below) https://t.co/6r7atDwvc9"
+	},
+	{
+		"created_at": "Tue Jun 02 15:33:12 +0000 2020",
+		"id": 1267841704662429700,
+		"id_str": "1267841704662429696",
+		"full_text": "@ClaireJChu This stunt reportedly was her idea.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClaireJChu",
+					"name": "Claire Chu",
+					"id": 3273814566,
+					"id_str": "3273814566",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1267638797929513000,
+		"in_reply_to_status_id_str": "1267638797929512961",
+		"in_reply_to_user_id": 3273814566,
+		"in_reply_to_user_id_str": "3273814566",
+		"in_reply_to_screen_name": "ClaireJChu",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. Stories about LA & California with data, visuals & code. Past @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics).",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11471,
+			"friends_count": 2098,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ClaireJChu This stunt reportedly was her idea."
+	},
+	{
+		"created_at": "Tue Jun 02 15:32:23 +0000 2020",
+		"id": 1267598765419946000,
+		"id_str": "1267841499036672000",
+		"full_text": "First column by @Erika_D_Smith is a powerful one. It explores the uncomfortable truth about \"liberal\" California in the George Floyd era. When it comes to race and unequal treatment, the Golden State is much like the rest of the country https://t.co/BfUtYiNczl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Erika_D_Smith",
+					"name": "Erika D. Smith 🦅",
+					"id": 17001628,
+					"id_str": "17001628",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BfUtYiNczl",
+					"expanded_url": "https://www.latimes.com/california/story/2020-06-01/california-race-protests-riots-gavin-newsom",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37735734,
+			"id_str": "37735734",
+			"name": "Stuart Leavenworth",
+			"screen_name": "sleavenworth",
+			"location": "Los Angeles, CA",
+			"description": "California Enterprise Editor, @latimes. Formerly in chaotic capitals of DC, Beijing & Sacramento. Now living the simple COVID-19 life in the City of Angels.",
+			"url": "https://t.co/vdcY2tMMle",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vdcY2tMMle",
+							"expanded_url": "https://www.latimes.com/la-bio-stuart-leavenworth-staff.html",
+							"display_url": "latimes.com/la-bio-stuart-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6136,
+			"friends_count": 4732,
+			"listed_count": 286,
+			"created_at": "Mon May 04 19:37:10 +0000 2009",
+			"favourites_count": 12474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134305626849329152/iveFxCIN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134305626849329152/iveFxCIN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37735734/1559177370",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First column by @Erika_D_Smith is a powerful one. It explores the uncomfortable truth about \"liberal\" California in the George Floyd era. When it comes to race and unequal treatment, the Golden State is much like the rest of the country https://t.co/BfUtYiNczl"
+	},
+	{
+		"created_at": "Tue Jun 02 15:31:59 +0000 2020",
+		"id": 1267707698193326000,
+		"id_str": "1267841398654394374",
+		"full_text": "“Los Angeles, a city sometimes said to lack a civic fabric ... ”\n\nhttps://t.co/d1u2PJcGjp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d1u2PJcGjp",
+					"expanded_url": "https://www.nytimes.com/2020/06/01/us/george-floyd-protests-cleanup.html",
+					"display_url": "nytimes.com/2020/06/01/us/…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11136082,
+			"id_str": "11136082",
+			"name": "California Sun",
+			"screen_name": "mmcphate",
+			"location": "California, USA",
+			"description": "Must-read stories about the Golden State, delivered daily to your inbox. Sign up free: https://t.co/IuNB8rqs7T",
+			"url": "https://t.co/bTRUYfHeCY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bTRUYfHeCY",
+							"expanded_url": "http://www.californiasun.co",
+							"display_url": "californiasun.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IuNB8rqs7T",
+							"expanded_url": "http://californiasun.co",
+							"display_url": "californiasun.co",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15059,
+			"friends_count": 10303,
+			"listed_count": 320,
+			"created_at": "Thu Dec 13 18:08:10 +0000 2007",
+			"favourites_count": 6985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6479E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033771119650603008/JUGG0N2X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11136082/1528743412",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Los Angeles, a city sometimes said to lack a civic fabric ... ”\n\nhttps://t.co/d1u2PJcGjp"
+	},
+	{
 		"created_at": "Tue Jun 02 04:39:34 +0000 2020",
 		"id": 1267677211164766200,
 		"id_str": "1267677211164766209",
