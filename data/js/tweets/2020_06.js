@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 03 13:35:26 +0000 2020",
+		"id": 1268174218212118500,
+		"id_str": "1268174455643103233",
+		"full_text": "\"When the history of the Trump presidency is written, the clash with protesters that preceded President Trump's walk across Lafayette Sq. may be remembered as one of its defining moments.\" \nhttps://t.co/oFE5nJsn0a w/ NYT team of 17 photo, video and print journalists.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oFE5nJsn0a",
+					"expanded_url": "https://www.nytimes.com/2020/06/02/us/politics/trump-walk-lafayette-square.html",
+					"display_url": "nytimes.com/2020/06/02/us/…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1059273936,
+			"id_str": "1059273936",
+			"name": "Zolan Kanno-Youngs",
+			"screen_name": "KannoYoungs",
+			"location": "Washington, DC",
+			"description": "@nytimes covering homeland security and immigration|@WSJ Alum | Dabbling in screenwriting |Cantabridgian zolan.kanno-youngs@nytimes.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10844,
+			"friends_count": 4128,
+			"listed_count": 277,
+			"created_at": "Fri Jan 04 01:59:30 +0000 2013",
+			"favourites_count": 10054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/832658465248071681/79O7fMj5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/832658465248071681/79O7fMj5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1059273936/1468962239",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"When the history of the Trump presidency is written, the clash with protesters that preceded President Trump's walk across Lafayette Sq. may be remembered as one of its defining moments.\" \nhttps://t.co/oFE5nJsn0a w/ NYT team of 17 photo, video and print journalists."
+	},
+	{
 		"created_at": "Tue Jun 02 20:26:01 +0000 2020",
 		"id": 1267868022590410800,
 		"id_str": "1267915395521863680",
