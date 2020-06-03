@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 03 19:27:36 +0000 2020",
+		"id": 1268248586623414300,
+		"id_str": "1268263083580944384",
+		"full_text": "How Many Unemployed People? Comparing Survey Data and Unemployment Insurance Counts https://t.co/2cajz0M50j #JobReport #BLSdata https://t.co/k8jqpYizPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JobReport",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "BLSdata",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2cajz0M50j",
+					"expanded_url": "https://go.usa.gov/xwW33",
+					"display_url": "go.usa.gov/xwW33",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268248284981837800,
+					"id_str": "1268248284981837829",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EZm5GIFXQAUDJrc.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZm5GIFXQAUDJrc.png",
+					"url": "https://t.co/k8jqpYizPr",
+					"display_url": "pic.twitter.com/k8jqpYizPr",
+					"expanded_url": "https://twitter.com/BLS_gov/status/1268248586623414273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 430,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 430,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268248284981837800,
+					"id_str": "1268248284981837829",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EZm5GIFXQAUDJrc.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZm5GIFXQAUDJrc.png",
+					"url": "https://t.co/k8jqpYizPr",
+					"display_url": "pic.twitter.com/k8jqpYizPr",
+					"expanded_url": "https://twitter.com/BLS_gov/status/1268248586623414273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 430,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 430,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 612896910,
+			"id_str": "612896910",
+			"name": "BLS-Labor Statistics",
+			"screen_name": "BLS_gov",
+			"location": "",
+			"description": "BLS has a stat for that! Statistics you can trust to make informed decisions, whether you're a worker, jobseeker, student, employer, investor, or policymaker.",
+			"url": "https://t.co/mPrvkIthYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mPrvkIthYq",
+							"expanded_url": "https://www.bls.gov",
+							"display_url": "bls.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64207,
+			"friends_count": 108,
+			"listed_count": 2114,
+			"created_at": "Tue Jun 19 19:58:49 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267433128425029634/uHUbWl3e_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267433128425029634/uHUbWl3e_normal.png",
+			"profile_link_color": "0F288C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Many Unemployed People? Comparing Survey Data and Unemployment Insurance Counts https://t.co/2cajz0M50j #JobReport #BLSdata https://t.co/k8jqpYizPr"
+	},
+	{
 		"created_at": "Wed Jun 03 17:22:56 +0000 2020",
 		"id": 1268187223544873000,
 		"id_str": "1268231709788528640",
