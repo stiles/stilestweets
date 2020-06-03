@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 03 17:22:56 +0000 2020",
+		"id": 1268187223544873000,
+		"id_str": "1268231709788528640",
+		"full_text": "The 1992 Uprising left entire blocks of Los Angeles’s black communities burnt to the ground. It took decades to recover and some areas still bear the scars.\n\nNow, South LA has largely been untouched by unrest. Organizers says it’s deliberate.\n\nMy latest:\nhttps://t.co/kjXN0AqrIq https://t.co/jAVDJo9NJe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kjXN0AqrIq",
+					"expanded_url": "https://www.latimes.com/california/story/2020-06-03/south-l-a-is-largely-untouched-by-unrest-that-is-by-design",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						255,
+						278
+					]
+				},
+				{
+					"url": "https://t.co/jAVDJo9NJe",
+					"expanded_url": "https://twitter.com/angeljennings/status/1266921442475536384",
+					"display_url": "twitter.com/angeljennings/…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 382295194,
+			"id_str": "382295194",
+			"name": "Angel Jennings",
+			"screen_name": "AngelJennings",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering #SouthLA, #Inglewood, #Compton, #Watts. DMV native, now a California Girl. I'm good on any MLK boulevard. Proud Husker",
+			"url": "https://t.co/X3HWtk1pue",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X3HWtk1pue",
+							"expanded_url": "https://lat.ms/2I2K8LG",
+							"display_url": "lat.ms/2I2K8LG",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6720,
+			"friends_count": 917,
+			"listed_count": 190,
+			"created_at": "Thu Sep 29 20:34:01 +0000 2011",
+			"favourites_count": 2395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173983760427053058/mu81wYvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173983760427053058/mu81wYvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/382295194/1424835514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1266921442475536400,
+		"quoted_status_id_str": "1266921442475536384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jAVDJo9NJe",
+			"expanded": "https://twitter.com/angeljennings/status/1266921442475536384",
+			"display": "twitter.com/angeljennings/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 31 02:36:24 +0000 2020",
+			"id": 1266921442475536400,
+			"id_str": "1266921442475536384",
+			"full_text": "Did Angelenos learn lessons from the 1992 Uprising? South LA bore the brunt of the destruction then. My neighborhood still beats the scars.\n\nThis time, I see the playhouses of the wealthy — Whole Foods, The Grove, ans Gucci — covered in graffiti and damaged. https://t.co/fo0lLEqpmr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fo0lLEqpmr",
+						"expanded_url": "https://twitter.com/davidzahniser/status/1266919322632417280",
+						"display_url": "twitter.com/davidzahniser/…",
+						"indices": [
+							259,
+							282
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 382295194,
+				"id_str": "382295194",
+				"name": "Angel Jennings",
+				"screen_name": "AngelJennings",
+				"location": "Los Angeles, CA",
+				"description": "Reporter @latimes covering #SouthLA, #Inglewood, #Compton, #Watts. DMV native, now a California Girl. I'm good on any MLK boulevard. Proud Husker",
+				"url": "https://t.co/X3HWtk1pue",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/X3HWtk1pue",
+								"expanded_url": "https://lat.ms/2I2K8LG",
+								"display_url": "lat.ms/2I2K8LG",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6720,
+				"friends_count": 917,
+				"listed_count": 190,
+				"created_at": "Thu Sep 29 20:34:01 +0000 2011",
+				"favourites_count": 2395,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1585,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1173983760427053058/mu81wYvS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173983760427053058/mu81wYvS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/382295194/1424835514",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1266919322632417300,
+			"quoted_status_id_str": "1266919322632417280",
+			"quoted_status_permalink": {
+				"url": "https://t.co/fo0lLEqpmr",
+				"expanded": "https://twitter.com/davidzahniser/status/1266919322632417280",
+				"display": "twitter.com/davidzahniser/…"
+			},
+			"retweet_count": 346,
+			"favorite_count": 1228,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 755,
+		"favorite_count": 1872,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 1992 Uprising left entire blocks of Los Angeles’s black communities burnt to the ground. It took decades to recover and some areas still bear the scars.\n\nNow, South LA has largely been untouched by unrest. Organizers says it’s deliberate.\n\nMy latest:\nhttps://t.co/kjXN0AqrIq https://t.co/jAVDJo9NJe"
+	},
+	{
 		"created_at": "Wed Jun 03 16:53:26 +0000 2020",
 		"id": 1268224284557639700,
 		"id_str": "1268224284557639680",
