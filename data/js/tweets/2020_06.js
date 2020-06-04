@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 13:41:10 +0000 2020",
+		"id": 1268431379676582000,
+		"id_str": "1268538287372693504",
+		"full_text": "And ending my day on what I feel like is the funniest headline of the day, from the Korea Daily:\n\n\"President Trump is bigger and fatter than Hyun-Jin Ryu\" https://t.co/YtdubtVSSm\n\n(Miss watching you, Ryu)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YtdubtVSSm",
+					"expanded_url": "http://www.koreadaily.com/news/read.asp?art_id=8352921",
+					"display_url": "koreadaily.com/news/read.asp?…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2161601605,
+			"id_str": "2161601605",
+			"name": "Jeong Park",
+			"screen_name": "JeongPark52",
+			"location": "United States",
+			"description": "Local reporter @OCRegister. Former: @jconline / @DailyBruin / @aajavoices / @USAGMgov. jeongpark@scng.com. We'll get there, eventually.",
+			"url": "https://t.co/rlP6a2nGDc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rlP6a2nGDc",
+							"expanded_url": "https://www.jeongparkwriter.com",
+							"display_url": "jeongparkwriter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2833,
+			"friends_count": 880,
+			"listed_count": 66,
+			"created_at": "Mon Oct 28 21:01:33 +0000 2013",
+			"favourites_count": 3180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166420857767391232/McJxNmjA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166420857767391232/McJxNmjA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2161601605/1571031032",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And ending my day on what I feel like is the funniest headline of the day, from the Korea Daily:\n\n\"President Trump is bigger and fatter than Hyun-Jin Ryu\" https://t.co/YtdubtVSSm\n\n(Miss watching you, Ryu)"
+	},
+	{
 		"created_at": "Thu Jun 04 02:41:25 +0000 2020",
 		"id": 1268371951183106000,
 		"id_str": "1268372253684555776",
@@ -49,7 +155,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "Lars Schmidt - #BLM",
 			"screen_name": "Lars",
 			"location": "🏠 DC 👨🏻He/Him ⚡️Catalyst",
-			"description": "Founder, @AmplifyTalent 🚀 •  Host, @21stCenturyHR Podcast 🎧 • Past: @NPR @Ticketmaster • Word Wrangler 💻 @FastCompany • FSU • Dad 👯‍♀️ • Good Vibes 🤙",
+			"description": "Founder, @AmplifyTalent 🚀 •  Host, @21stCenturyHR Podcast 🎧 • Past: @NPR @Ticketmaster • Word Wrangler 💻 @FastCompany • FSU • Dad 👯♀️ • Good Vibes 🤙",
 			"url": "https://t.co/SaWknGSNnl",
 			"entities": {
 				"url": {
