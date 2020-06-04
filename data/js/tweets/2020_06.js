@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 02:41:25 +0000 2020",
+		"id": 1268371951183106000,
+		"id_str": "1268372253684555776",
+		"full_text": "So much this. 👏🏼 @webjournalist https://t.co/tcWxdORJEj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "webjournalist",
+					"name": "Robert Hernandez",
+					"id": 20398450,
+					"id_str": "20398450",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tcWxdORJEj",
+					"expanded_url": "https://twitter.com/webjournalist/status/1268364022073528323",
+					"display_url": "twitter.com/webjournalist/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29044240,
+			"id_str": "29044240",
+			"name": "Lars Schmidt - #BLM",
+			"screen_name": "Lars",
+			"location": "🏠 DC 👨🏻He/Him ⚡️Catalyst",
+			"description": "Founder, @AmplifyTalent 🚀 •  Host, @21stCenturyHR Podcast 🎧 • Past: @NPR @Ticketmaster • Word Wrangler 💻 @FastCompany • FSU • Dad 👯‍♀️ • Good Vibes 🤙",
+			"url": "https://t.co/SaWknGSNnl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaWknGSNnl",
+							"expanded_url": "http://AmplifyTalent.com",
+							"display_url": "AmplifyTalent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21173,
+			"friends_count": 2684,
+			"listed_count": 1035,
+			"created_at": "Sun Apr 05 19:28:41 +0000 2009",
+			"favourites_count": 1085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267551887290781698/7cFDko_x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267551887290781698/7cFDko_x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29044240/1589201379",
+			"profile_link_color": "00AEEF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "281E17",
+			"profile_text_color": "54493E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268364022073528300,
+		"quoted_status_id_str": "1268364022073528323",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tcWxdORJEj",
+			"expanded": "https://twitter.com/webjournalist/status/1268364022073528323",
+			"display": "twitter.com/webjournalist/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 04 02:08:42 +0000 2020",
+			"id": 1268364022073528300,
+			"id_str": "1268364022073528323",
+			"full_text": "This, to me, is a core problem in journalism. Racism is not a disagreement. Vaccines are not a disagreement. Climate Change is not a disagreement. Smoking causing cancer is not a disagreement. Publishing these things treats them as valid disagreements. https://t.co/sljZaDYOeV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				252
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1268364019015905300,
+						"id_str": "1268364019015905281",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/media/EZoiWu9UcAEtwFS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZoiWu9UcAEtwFS.jpg",
+						"url": "https://t.co/sljZaDYOeV",
+						"display_url": "pic.twitter.com/sljZaDYOeV",
+						"expanded_url": "https://twitter.com/webjournalist/status/1268364022073528323/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 773,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1268364019015905300,
+						"id_str": "1268364019015905281",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/media/EZoiWu9UcAEtwFS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZoiWu9UcAEtwFS.jpg",
+						"url": "https://t.co/sljZaDYOeV",
+						"display_url": "pic.twitter.com/sljZaDYOeV",
+						"expanded_url": "https://twitter.com/webjournalist/status/1268364022073528323/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 773,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20398450,
+				"id_str": "20398450",
+				"name": "Robert Hernandez",
+				"screen_name": "webjournalist",
+				"location": "Los Angeles, CA",
+				"description": "@USCAnnenberg Digital Profe, #JOVRNALISM #wjchat @NAHJ @PoderosasChicas @ImmersvShooter #HorizontalLoyalty he/him 🇸🇻 // I live sweat, but I dream light years.",
+				"url": "https://t.co/EE5RZTOHUg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EE5RZTOHUg",
+								"expanded_url": "http://blog.webjournalist.org",
+								"display_url": "blog.webjournalist.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18603,
+				"friends_count": 1745,
+				"listed_count": 1883,
+				"created_at": "Sun Feb 08 22:34:20 +0000 2009",
+				"favourites_count": 4033,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 85703,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1255550700181811200/q5dhilL-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255550700181811200/q5dhilL-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20398450/1420560149",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 176,
+			"favorite_count": 448,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So much this. 👏🏼 @webjournalist https://t.co/tcWxdORJEj"
+	},
+	{
 		"created_at": "Thu Jun 04 02:14:47 +0000 2020",
 		"id": 1268231489763840000,
 		"id_str": "1268365554206691329",
