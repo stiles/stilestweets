@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 17:59:13 +0000 2020",
+		"id": 1268965614988607500,
+		"id_str": "1268965614988607490",
+		"full_text": "@hrbrmstr @flightradar24 @petchmo Indeed. We charted that for our airline tracker a few weeks ago: https://t.co/R6aU3NKgkX https://t.co/PRcNFabHyo",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hrbrmstr",
+					"name": "boB • Everywhere is Baltimore • Rudis",
+					"id": 5685812,
+					"id_str": "5685812",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "flightradar24",
+					"name": "Flightradar24",
+					"id": 134196350,
+					"id_str": "134196350",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "petchmo",
+					"name": "Ian Petchenik",
+					"id": 214613364,
+					"id_str": "214613364",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R6aU3NKgkX",
+					"expanded_url": "https://www.latimes.com/projects/california-coronavirus-travel-tracking-decline/",
+					"display_url": "latimes.com/projects/calif…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268965553563005000,
+					"id_str": "1268965553563004928",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EZxFcpxUcAAryWl.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZxFcpxUcAAryWl.png",
+					"url": "https://t.co/PRcNFabHyo",
+					"display_url": "pic.twitter.com/PRcNFabHyo",
+					"expanded_url": "https://twitter.com/stiles/status/1268965614988607490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 825,
+							"h": 626,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 626,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268965553563005000,
+					"id_str": "1268965553563004928",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EZxFcpxUcAAryWl.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZxFcpxUcAAryWl.png",
+					"url": "https://t.co/PRcNFabHyo",
+					"display_url": "pic.twitter.com/PRcNFabHyo",
+					"expanded_url": "https://twitter.com/stiles/status/1268965614988607490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 825,
+							"h": 626,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 626,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1268964377316688000,
+		"in_reply_to_status_id_str": "1268964377316687872",
+		"in_reply_to_user_id": 5685812,
+		"in_reply_to_user_id_str": "5685812",
+		"in_reply_to_screen_name": "hrbrmstr",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11476,
+			"friends_count": 2106,
+			"listed_count": 856,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@hrbrmstr @flightradar24 @petchmo Indeed. We charted that for our airline tracker a few weeks ago: https://t.co/R6aU3NKgkX https://t.co/PRcNFabHyo"
+	},
+	{
+		"created_at": "Fri Jun 05 17:43:01 +0000 2020",
+		"id": 1268894519283658800,
+		"id_str": "1268961537412063233",
+		"full_text": "Holy cow. The city of DC is out here on 16th steeet behind the White House painting BLACK LIVES MATTER onto the streets — that it owns — stretching all the way to k Street. https://t.co/PU7DW7XZHu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268894513277345800,
+					"id_str": "1268894513277345793",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EZwE1kFWoAERXbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZwE1kFWoAERXbA.jpg",
+					"url": "https://t.co/PU7DW7XZHu",
+					"display_url": "pic.twitter.com/PU7DW7XZHu",
+					"expanded_url": "https://twitter.com/emilymbadger/status/1268894519283658753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268894513277345800,
+					"id_str": "1268894513277345793",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EZwE1kFWoAERXbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZwE1kFWoAERXbA.jpg",
+					"url": "https://t.co/PU7DW7XZHu",
+					"display_url": "pic.twitter.com/PU7DW7XZHu",
+					"expanded_url": "https://twitter.com/emilymbadger/status/1268894519283658753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253152109,
+			"id_str": "253152109",
+			"name": "Emily Badger",
+			"screen_name": "emilymbadger",
+			"location": "",
+			"description": "New York Times writer covering urban policy for @UpshotNYT. Outdoor lover. emily.badger [at] https://t.co/zGJ4T9rCnp",
+			"url": "https://t.co/9TYR1BEmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9TYR1BEmuQ",
+							"expanded_url": "https://www.nytimes.com/section/upshot",
+							"display_url": "nytimes.com/section/upshot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zGJ4T9rCnp",
+							"expanded_url": "http://nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36355,
+			"friends_count": 1448,
+			"listed_count": 1370,
+			"created_at": "Wed Feb 16 17:22:12 +0000 2011",
+			"favourites_count": 5997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246339688/bioPic_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246339688/bioPic_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253152109/1402972068",
+			"profile_link_color": "209AC7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18171,
+		"favorite_count": 75147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Holy cow. The city of DC is out here on 16th steeet behind the White House painting BLACK LIVES MATTER onto the streets — that it owns — stretching all the way to k Street. https://t.co/PU7DW7XZHu"
+	},
+	{
+		"created_at": "Fri Jun 05 17:42:24 +0000 2020",
+		"id": 1268961383128825900,
+		"id_str": "1268961383128825857",
+		"full_text": "Fascinating charts by @flightradar24 and @petchmo on the aviation industry's slow recovery. https://t.co/nR8DJsSctu https://t.co/yzMNTZrREK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flightradar24",
+					"name": "Flightradar24",
+					"id": 134196350,
+					"id_str": "134196350",
+					"indices": [
+						22,
+						36
+					]
+				},
+				{
+					"screen_name": "petchmo",
+					"name": "Ian Petchenik",
+					"id": 214613364,
+					"id_str": "214613364",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nR8DJsSctu",
+					"expanded_url": "https://www.flightradar24.com/blog/aviations-slow-recovery-may-air-traffic-statistics/",
+					"display_url": "flightradar24.com/blog/aviations…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268961312979079200,
+					"id_str": "1268961312979079169",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EZxBl0XU0AEMvXU.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZxBl0XU0AEMvXU.png",
+					"url": "https://t.co/yzMNTZrREK",
+					"display_url": "pic.twitter.com/yzMNTZrREK",
+					"expanded_url": "https://twitter.com/stiles/status/1268961383128825857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 498,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268961312979079200,
+					"id_str": "1268961312979079169",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EZxBl0XU0AEMvXU.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZxBl0XU0AEMvXU.png",
+					"url": "https://t.co/yzMNTZrREK",
+					"display_url": "pic.twitter.com/yzMNTZrREK",
+					"expanded_url": "https://twitter.com/stiles/status/1268961383128825857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 498,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1268961312991662000,
+					"id_str": "1268961312991662080",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EZxBl0aU0AAB_8p.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZxBl0aU0AAB_8p.png",
+					"url": "https://t.co/yzMNTZrREK",
+					"display_url": "pic.twitter.com/yzMNTZrREK",
+					"expanded_url": "https://twitter.com/stiles/status/1268961383128825857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 788,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 434,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1268961312983285800,
+					"id_str": "1268961312983285760",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EZxBl0YVAAAvx5u.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZxBl0YVAAAvx5u.png",
+					"url": "https://t.co/yzMNTZrREK",
+					"display_url": "pic.twitter.com/yzMNTZrREK",
+					"expanded_url": "https://twitter.com/stiles/status/1268961383128825857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 503,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11476,
+			"friends_count": 2106,
+			"listed_count": 856,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fascinating charts by @flightradar24 and @petchmo on the aviation industry's slow recovery. https://t.co/nR8DJsSctu https://t.co/yzMNTZrREK"
+	},
+	{
 		"created_at": "Fri Jun 05 17:10:37 +0000 2020",
 		"id": 1268953384813359000,
 		"id_str": "1268953384813359109",
