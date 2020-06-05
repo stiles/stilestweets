@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 21:14:26 +0000 2020",
+		"id": 1269014743135613000,
+		"id_str": "1269014743135612928",
+		"full_text": "@Matt_Kiser WTFJHT? \n\n(Feel better, man)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Matt_Kiser",
+					"name": "Matt Kiser",
+					"id": 24963237,
+					"id_str": "24963237",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1268781785187381200,
+		"in_reply_to_status_id_str": "1268781785187381253",
+		"in_reply_to_user_id": 24963237,
+		"in_reply_to_user_id_str": "24963237",
+		"in_reply_to_screen_name": "Matt_Kiser",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11475,
+			"friends_count": 2106,
+			"listed_count": 856,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Matt_Kiser WTFJHT? \n\n(Feel better, man)"
+	},
+	{
+		"created_at": "Fri Jun 05 21:12:51 +0000 2020",
+		"id": 1268972349417836500,
+		"id_str": "1269014342885732352",
+		"full_text": "The unemployment rate went down slightly for Whites and Hispanics but not for Blacks or Asian Americans. See the stats:\nhttps://t.co/57Vc6EDbBp https://t.co/Qq0EwjFAQk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/57Vc6EDbBp",
+					"expanded_url": "https://www.wsj.com/articles/where-employment-improvedand-where-it-didnt-11591377498",
+					"display_url": "wsj.com/articles/where…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268972232077979600,
+					"id_str": "1268972232077979649",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EZxLhZLXsAEJOvm.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZxLhZLXsAEJOvm.png",
+					"url": "https://t.co/Qq0EwjFAQk",
+					"display_url": "pic.twitter.com/Qq0EwjFAQk",
+					"expanded_url": "https://twitter.com/brian_mcgill/status/1268972349417836544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 725,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 725,
+							"h": 528,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268972232077979600,
+					"id_str": "1268972232077979649",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EZxLhZLXsAEJOvm.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZxLhZLXsAEJOvm.png",
+					"url": "https://t.co/Qq0EwjFAQk",
+					"display_url": "pic.twitter.com/Qq0EwjFAQk",
+					"expanded_url": "https://twitter.com/brian_mcgill/status/1268972349417836544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 725,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 725,
+							"h": 528,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55650547,
+			"id_str": "55650547",
+			"name": "Brian McGill",
+			"screen_name": "brian_mcgill",
+			"location": "District of Columbia",
+			"description": "Graphics Reporter, @WSJ. Kansas City native. My sports allegiances tend to creep in.",
+			"url": "http://t.co/xsygAFlPbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xsygAFlPbC",
+							"expanded_url": "http://brianjmcgill.com",
+							"display_url": "brianjmcgill.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1603,
+			"friends_count": 520,
+			"listed_count": 71,
+			"created_at": "Fri Jul 10 20:04:31 +0000 2009",
+			"favourites_count": 2506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199382594418286594/olPUOONv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199382594418286594/olPUOONv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55650547/1398198883",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The unemployment rate went down slightly for Whites and Hispanics but not for Blacks or Asian Americans. See the stats:\nhttps://t.co/57Vc6EDbBp https://t.co/Qq0EwjFAQk"
+	},
+	{
 		"created_at": "Fri Jun 05 17:59:13 +0000 2020",
 		"id": 1268965614988607500,
 		"id_str": "1268965614988607490",
