@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 06 02:31:02 +0000 2020",
+		"id": 1269090846160412700,
+		"id_str": "1269094416901234688",
+		"full_text": "We turned on the night light for him so he dreams about #BlackLivesMatter Plaza https://t.co/1hrKnfaE4h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						56,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269090782285385700,
+					"id_str": "1269090782285385728",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269090782285385728/pu/img/Hkd5uwSjHPDmSZA6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269090782285385728/pu/img/Hkd5uwSjHPDmSZA6.jpg",
+					"url": "https://t.co/1hrKnfaE4h",
+					"display_url": "pic.twitter.com/1hrKnfaE4h",
+					"expanded_url": "https://twitter.com/MurielBowser/status/1269090846160412672/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269090782285385700,
+					"id_str": "1269090782285385728",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269090782285385728/pu/img/Hkd5uwSjHPDmSZA6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269090782285385728/pu/img/Hkd5uwSjHPDmSZA6.jpg",
+					"url": "https://t.co/1hrKnfaE4h",
+					"display_url": "pic.twitter.com/1hrKnfaE4h",
+					"expanded_url": "https://twitter.com/MurielBowser/status/1269090846160412672/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28933,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269090782285385728/pu/vid/640x360/_FRSp3-FEmB468Bv.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1269090782285385728/pu/pl/8i2jq7_XCQqbK7VF.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269090782285385728/pu/vid/1280x720/gnWz21CtejB3ZSp1.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269090782285385728/pu/vid/480x270/hc9Lez7VEM16KHBN.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245571881,
+			"id_str": "245571881",
+			"name": "Muriel Bowser #StayHomeDC",
+			"screen_name": "MurielBowser",
+			"location": "Washington DC",
+			"description": "I’m the Mayor of my hometown & soon to be the 51st State: Washington DC. A #fairshot for every single D.C. resident. Period. #pathwaytothemiddleclass",
+			"url": "https://t.co/Jvoyca5JCH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jvoyca5JCH",
+							"expanded_url": "http://Murielourmayor.com",
+							"display_url": "Murielourmayor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103842,
+			"friends_count": 1001,
+			"listed_count": 943,
+			"created_at": "Tue Feb 01 00:28:10 +0000 2011",
+			"favourites_count": 10845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/911246015780524040/KQSaQcVN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/911246015780524040/KQSaQcVN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245571881/1474731383",
+			"profile_link_color": "00A669",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01fbe706f872cb32",
+			"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+			"place_type": "city",
+			"name": "Washington",
+			"full_name": "Washington, DC",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-77.119401,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.9953797
+						],
+						[
+							-77.119401,
+							38.9953797
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3396,
+		"favorite_count": 10849,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We turned on the night light for him so he dreams about #BlackLivesMatter Plaza https://t.co/1hrKnfaE4h"
+	},
+	{
 		"created_at": "Sat Jun 06 00:24:10 +0000 2020",
 		"id": 1269062492619067400,
 		"id_str": "1269062492619067392",
