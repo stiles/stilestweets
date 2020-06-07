@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 18:43:49 +0000 2020",
+		"id": 1269701613184184300,
+		"id_str": "1269701613184184321",
+		"full_text": "Tried to take the girls on a jacaranda tour. I'm afraid we're a week or two too late. Anywhere still poppin'? https://t.co/mDx1e9oW25 https://t.co/kU3wCesJ3j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mDx1e9oW25",
+					"expanded_url": "https://api.mapbox.com/styles/v1/latimes/cka2ne5151rm41ipdc88o7y66.html?fresh=true&title=view&access_token=pk.eyJ1IjoibGF0aW1lcyIsImEiOiJjajhvcXRraGUwNnlwMzNyczR3cTBsaWh1In0.0cPKLwe2A0ET4P5CtWSiLQ#14.92/34.08118/-118.3935/0/45",
+					"display_url": "api.mapbox.com/styles/v1/lati…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269701603373662200,
+					"id_str": "1269701603373662209",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ7i4Y_UwAE3U4m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ7i4Y_UwAE3U4m.jpg",
+					"url": "https://t.co/kU3wCesJ3j",
+					"display_url": "pic.twitter.com/kU3wCesJ3j",
+					"expanded_url": "https://twitter.com/stiles/status/1269701613184184321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 948,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1618,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269701603373662200,
+					"id_str": "1269701603373662209",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ7i4Y_UwAE3U4m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ7i4Y_UwAE3U4m.jpg",
+					"url": "https://t.co/kU3wCesJ3j",
+					"display_url": "pic.twitter.com/kU3wCesJ3j",
+					"expanded_url": "https://twitter.com/stiles/status/1269701613184184321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 948,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1618,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269701609002426400,
+					"id_str": "1269701609002426370",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ7i4t9U4AI4JgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ7i4t9U4AI4JgC.jpg",
+					"url": "https://t.co/kU3wCesJ3j",
+					"display_url": "pic.twitter.com/kU3wCesJ3j",
+					"expanded_url": "https://twitter.com/stiles/status/1269701613184184321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11470,
+			"friends_count": 2110,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "741e9df4d2522275",
+			"url": "https://api.twitter.com/1.1/geo/id/741e9df4d2522275.json",
+			"place_type": "city",
+			"name": "Beverly Hills",
+			"full_name": "Beverly Hills, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.4273439,
+							34.052559
+						],
+						[
+							-118.371934,
+							34.052559
+						],
+						[
+							-118.371934,
+							34.112434
+						],
+						[
+							-118.4273439,
+							34.112434
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tried to take the girls on a jacaranda tour. I'm afraid we're a week or two too late. Anywhere still poppin'? https://t.co/mDx1e9oW25 https://t.co/kU3wCesJ3j"
+	},
+	{
 		"created_at": "Sat Jun 06 14:13:04 +0000 2020",
 		"id": 1269270766765424600,
 		"id_str": "1269271089965748224",
