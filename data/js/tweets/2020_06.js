@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 21:25:58 +0000 2020",
+		"id": 1270457602040881200,
+		"id_str": "1270467197643579392",
+		"full_text": "I urge everyone to use this graphic so ALL media can accurately identify Black people in the diaspora https://t.co/P9wJVK5mZQ https://t.co/EfzyIlTIK5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P9wJVK5mZQ",
+					"expanded_url": "https://twitter.com/erinblogan/status/1267829383152058370?s=21",
+					"display_url": "twitter.com/erinblogan/sta…",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/EfzyIlTIK5",
+					"expanded_url": "https://twitter.com/erinblogan/status/1267829383152058370",
+					"display_url": "twitter.com/erinblogan/sta…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270455496932196400,
+		"in_reply_to_status_id_str": "1270455496932196353",
+		"in_reply_to_user_id": 20018428,
+		"in_reply_to_user_id_str": "20018428",
+		"in_reply_to_screen_name": "erinblogan",
+		"user": {
+			"id": 20018428,
+			"id_str": "20018428",
+			"name": "Erin B. Logan",
+			"screen_name": "erinblogan",
+			"location": "Washington, DC",
+			"description": "i'm a professional tea collector for the @latimes and a mom to Kacey, queen of canines.",
+			"url": "https://t.co/qUWWYzv4jA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qUWWYzv4jA",
+							"expanded_url": "http://erinblogan.substack.com",
+							"display_url": "erinblogan.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3553,
+			"friends_count": 1265,
+			"listed_count": 50,
+			"created_at": "Wed Feb 04 01:02:14 +0000 2009",
+			"favourites_count": 48710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225152977935138817/rsKe2Tgc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225152977935138817/rsKe2Tgc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20018428/1591589098",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1267829383152058400,
+		"quoted_status_id_str": "1267829383152058370",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EfzyIlTIK5",
+			"expanded": "https://twitter.com/erinblogan/status/1267829383152058370",
+			"display": "twitter.com/erinblogan/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 02 14:44:14 +0000 2020",
+			"id": 1267829383152058400,
+			"id_str": "1267829383152058370",
+			"full_text": "Many of you are writing about race, racism and white supremacy right now. Please use this chart to correctly identify Black Americans. \n\nAccuracy in how we identify folks is paramount always but especially right now. https://t.co/DDn3HrU34q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1267829226389926000,
+						"id_str": "1267829226389925888",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/EZg79tLUcAAyZgF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZg79tLUcAAyZgF.jpg",
+						"url": "https://t.co/DDn3HrU34q",
+						"display_url": "pic.twitter.com/DDn3HrU34q",
+						"expanded_url": "https://twitter.com/erinblogan/status/1267829383152058370/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 916,
+								"h": 1167,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 916,
+								"h": 1167,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1267829226389926000,
+						"id_str": "1267829226389925888",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/EZg79tLUcAAyZgF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZg79tLUcAAyZgF.jpg",
+						"url": "https://t.co/DDn3HrU34q",
+						"display_url": "pic.twitter.com/DDn3HrU34q",
+						"expanded_url": "https://twitter.com/erinblogan/status/1267829383152058370/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 916,
+								"h": 1167,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 534,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 916,
+								"h": 1167,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20018428,
+				"id_str": "20018428",
+				"name": "Erin B. Logan",
+				"screen_name": "erinblogan",
+				"location": "Washington, DC",
+				"description": "i'm a professional tea collector for the @latimes and a mom to Kacey, queen of canines.",
+				"url": "https://t.co/qUWWYzv4jA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qUWWYzv4jA",
+								"expanded_url": "http://erinblogan.substack.com",
+								"display_url": "erinblogan.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3553,
+				"friends_count": 1265,
+				"listed_count": 50,
+				"created_at": "Wed Feb 04 01:02:14 +0000 2009",
+				"favourites_count": 48710,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18667,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DD2E44",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1225152977935138817/rsKe2Tgc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225152977935138817/rsKe2Tgc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20018428/1591589098",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 860,
+			"favorite_count": 1612,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 75,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I urge everyone to use this graphic so ALL media can accurately identify Black people in the diaspora https://t.co/P9wJVK5mZQ https://t.co/EfzyIlTIK5"
+	},
+	{
+		"created_at": "Tue Jun 09 21:24:48 +0000 2020",
+		"id": 1270339060549193700,
+		"id_str": "1270466903018856448",
+		"full_text": "Trump 2020: That old man had it coming. \n\n(Good luck with this, GOP.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55948054,
+			"id_str": "55948054",
+			"name": "Matthew Miller",
+			"screen_name": "matthewamiller",
+			"location": "Washington, DC",
+			"description": "Partner @VianovoLP. MSNBC Justice & Security Analyst. Recovering flack from DOJ, the Senate, and too many campaigns to count.",
+			"url": "https://t.co/BLfP5TzgoB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BLfP5TzgoB",
+							"expanded_url": "http://vianovo.com/team/matthew-miller",
+							"display_url": "vianovo.com/team/matthew-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 403620,
+			"friends_count": 520,
+			"listed_count": 3357,
+			"created_at": "Sat Jul 11 22:28:45 +0000 2009",
+			"favourites_count": 13021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130525676765949952/IBeJ-JTQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130525676765949952/IBeJ-JTQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55948054/1496062385",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12102,
+		"favorite_count": 53588,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Trump 2020: That old man had it coming. \n\n(Good luck with this, GOP.)"
+	},
+	{
 		"created_at": "Tue Jun 09 20:29:09 +0000 2020",
 		"id": 1270452899236032500,
 		"id_str": "1270452899236032514",
