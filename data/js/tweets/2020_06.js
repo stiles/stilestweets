@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 06:09:38 +0000 2020",
+		"id": 1270576086674313200,
+		"id_str": "1270598980284461056",
+		"full_text": "@BermudezWrites Self affirmation : In the near future I am going to be hired as a journalist for The L.A. Times in the metro department. Along with other Black and Non white Latinx people. Our stories need to be shared.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BermudezWrites",
+					"name": "Esmeralda Bermudez",
+					"id": 378749192,
+					"id_str": "378749192",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270567382084247600,
+		"in_reply_to_status_id_str": "1270567382084247554",
+		"in_reply_to_user_id": 378749192,
+		"in_reply_to_user_id_str": "378749192",
+		"in_reply_to_screen_name": "BermudezWrites",
+		"user": {
+			"id": 3123010633,
+			"id_str": "3123010633",
+			"name": "Bobby Reyes",
+			"screen_name": "bobbyreyes20",
+			"location": "",
+			"description": "☕  \n\nUCLA 🌊 📸\nPoetry, Coffee, Photos\n\n\nhttps://t.co/KqXVVo17wU",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KqXVVo17wU",
+							"expanded_url": "https://youtu.be/OFMnGLNmQXE",
+							"display_url": "youtu.be/OFMnGLNmQXE",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 701,
+			"listed_count": 1,
+			"created_at": "Wed Apr 01 04:55:19 +0000 2015",
+			"favourites_count": 3427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182918210548465665/cm55otVz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182918210548465665/cm55otVz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3123010633/1545278535",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@BermudezWrites Self affirmation : In the near future I am going to be hired as a journalist for The L.A. Times in the metro department. Along with other Black and Non white Latinx people. Our stories need to be shared."
+	},
+	{
+		"created_at": "Wed Jun 10 06:04:07 +0000 2020",
+		"id": 1270595802566557700,
+		"id_str": "1270597594348052480",
+		"full_text": "Sharing this with all of our newsroom management and you should, too. https://t.co/k5XQXePRne",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k5XQXePRne",
+					"expanded_url": "https://twitter.com/monicarhor/status/1269319334532431873",
+					"display_url": "twitter.com/monicarhor/sta…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 378749192,
+			"id_str": "378749192",
+			"name": "Esmeralda Bermudez",
+			"screen_name": "BermudezWrites",
+			"location": "Los Angeles",
+			"description": "Storytelling about the lives of Latinos for the @latimes. Made in El Salvador. Raised in LA. Mama to trilingual babies. Thoughts are my own.",
+			"url": "https://t.co/ifWgDURyxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ifWgDURyxw",
+							"expanded_url": "http://www.latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31327,
+			"friends_count": 3886,
+			"listed_count": 377,
+			"created_at": "Fri Sep 23 19:00:39 +0000 2011",
+			"favourites_count": 16860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "020505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171885108917342208/ZVmuxmlM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171885108917342208/ZVmuxmlM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/378749192/1580240960",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269319334532432000,
+		"quoted_status_id_str": "1269319334532431873",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k5XQXePRne",
+			"expanded": "https://twitter.com/monicarhor/status/1269319334532431873",
+			"display": "twitter.com/monicarhor/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 06 17:24:46 +0000 2020",
+			"id": 1269319334532432000,
+			"id_str": "1269319334532431873",
+			"full_text": "Since we're talking about race &amp; lack of diversity in newsrooms, some thoughts for white editors &amp; colleagues. Journalists of color have been fighting this battle for decades. It's time you stepped up. Here are some questions to ask yourself &amp; things you can do:  1/",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17782240,
+				"id_str": "17782240",
+				"name": "Mónica Rhor",
+				"screen_name": "monicarhor",
+				"location": "Houston, Texas",
+				"description": "Editorial writer, columnist & editorial board member @Houstonchron. Proud Latina, mom, proponent of the curative power of Vivaporú. monica.rhor@chron.com",
+				"url": "https://t.co/pqaEVXjJuV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pqaEVXjJuV",
+								"expanded_url": "https://www.houstonchronicle.com/author/monica-rhor/",
+								"display_url": "houstonchronicle.com/author/monica-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4317,
+				"friends_count": 1736,
+				"listed_count": 262,
+				"created_at": "Mon Dec 01 16:26:21 +0000 2008",
+				"favourites_count": 8641,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 89016,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/743809527028416513/6hsQOw77_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743809527028416513/6hsQOw77_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17782240/1514994861",
+				"profile_link_color": "240A0A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 92,
+			"favorite_count": 162,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sharing this with all of our newsroom management and you should, too. https://t.co/k5XQXePRne"
+	},
+	{
+		"created_at": "Wed Jun 10 06:03:57 +0000 2020",
+		"id": 1269319334532432000,
+		"id_str": "1270597549594783744",
+		"full_text": "Since we're talking about race &amp; lack of diversity in newsrooms, some thoughts for white editors &amp; colleagues. Journalists of color have been fighting this battle for decades. It's time you stepped up. Here are some questions to ask yourself &amp; things you can do:  1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17782240,
+			"id_str": "17782240",
+			"name": "Mónica Rhor",
+			"screen_name": "monicarhor",
+			"location": "Houston, Texas",
+			"description": "Editorial writer, columnist & editorial board member @Houstonchron. Proud Latina, mom, proponent of the curative power of Vivaporú. monica.rhor@chron.com",
+			"url": "https://t.co/pqaEVXjJuV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pqaEVXjJuV",
+							"expanded_url": "https://www.houstonchronicle.com/author/monica-rhor/",
+							"display_url": "houstonchronicle.com/author/monica-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4317,
+			"friends_count": 1736,
+			"listed_count": 262,
+			"created_at": "Mon Dec 01 16:26:21 +0000 2008",
+			"favourites_count": 8641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 89016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743809527028416513/6hsQOw77_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743809527028416513/6hsQOw77_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17782240/1514994861",
+			"profile_link_color": "240A0A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Since we're talking about race &amp; lack of diversity in newsrooms, some thoughts for white editors &amp; colleagues. Journalists of color have been fighting this battle for decades. It's time you stepped up. Here are some questions to ask yourself &amp; things you can do:  1/"
+	},
+	{
 		"created_at": "Wed Jun 10 02:37:07 +0000 2020",
 		"id": 1270545501767622700,
 		"id_str": "1270545501767622656",
