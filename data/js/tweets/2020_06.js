@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 01:58:22 +0000 2020",
+		"id": 1270835449607553000,
+		"id_str": "1270898135359877120",
+		"full_text": "LA County continues on the #RoadToRecovery. The following sectors can reopen starting June 12 with proper safeguards in place. Learn more: https://t.co/RnkB9l82Qz #COVID19 https://t.co/b0UBnwVC9O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RoadToRecovery",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						163,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RnkB9l82Qz",
+					"expanded_url": "https://covid19.lacounty.gov/covid19-news/gyms-day-camps-sports-museums-la-county-reopens-key-sectors/",
+					"display_url": "covid19.lacounty.gov/covid19-news/g…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270834890003476500,
+					"id_str": "1270834890003476481",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EaLpmWrUcAErPOD.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaLpmWrUcAErPOD.png",
+					"url": "https://t.co/b0UBnwVC9O",
+					"display_url": "pic.twitter.com/b0UBnwVC9O",
+					"expanded_url": "https://twitter.com/CountyofLA/status/1270835449607553029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270834890003476500,
+					"id_str": "1270834890003476481",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EaLpmWrUcAErPOD.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaLpmWrUcAErPOD.png",
+					"url": "https://t.co/b0UBnwVC9O",
+					"display_url": "pic.twitter.com/b0UBnwVC9O",
+					"expanded_url": "https://twitter.com/CountyofLA/status/1270835449607553029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193771633,
+			"id_str": "193771633",
+			"name": "Los Angeles County",
+			"screen_name": "CountyofLA",
+			"location": "Los Angeles County",
+			"description": "Official account of Los Angeles County. \n\nFollow us as we confront the #COVID19 pandemic.",
+			"url": "https://t.co/8KPEaxWnr3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8KPEaxWnr3",
+							"expanded_url": "http://covid19.lacounty.gov",
+							"display_url": "covid19.lacounty.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93803,
+			"friends_count": 4752,
+			"listed_count": 905,
+			"created_at": "Wed Sep 22 17:08:50 +0000 2010",
+			"favourites_count": 5139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982387985214681088/IPG_rb_A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/193771633/1585676695",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LA County continues on the #RoadToRecovery. The following sectors can reopen starting June 12 with proper safeguards in place. Learn more: https://t.co/RnkB9l82Qz #COVID19 https://t.co/b0UBnwVC9O"
+	},
+	{
 		"created_at": "Wed Jun 10 13:58:26 +0000 2020",
 		"id": 1270716961245163500,
 		"id_str": "1270716961245163522",
