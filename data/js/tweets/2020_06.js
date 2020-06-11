@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 17:37:14 +0000 2020",
+		"id": 1271102619923210200,
+		"id_str": "1271134408624365568",
+		"full_text": "377 metropolitan areas had over-the-year decreases in nonfarm payroll employment in April 2020 https://t.co/bgBQVMcxSO #BLSdata https://t.co/uKoxcHiJNX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLSdata",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bgBQVMcxSO",
+					"expanded_url": "https://go.usa.gov/xwNCd",
+					"display_url": "go.usa.gov/xwNCd",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271102248756674600,
+					"id_str": "1271102248756674565",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EaPcwrpXgAUk9od.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaPcwrpXgAUk9od.png",
+					"url": "https://t.co/uKoxcHiJNX",
+					"display_url": "pic.twitter.com/uKoxcHiJNX",
+					"expanded_url": "https://twitter.com/BLS_gov/status/1271102619923210240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 863,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 863,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 605,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271102248756674600,
+					"id_str": "1271102248756674565",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EaPcwrpXgAUk9od.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaPcwrpXgAUk9od.png",
+					"url": "https://t.co/uKoxcHiJNX",
+					"display_url": "pic.twitter.com/uKoxcHiJNX",
+					"expanded_url": "https://twitter.com/BLS_gov/status/1271102619923210240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 863,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 863,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 605,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 612896910,
+			"id_str": "612896910",
+			"name": "BLS-Labor Statistics",
+			"screen_name": "BLS_gov",
+			"location": "",
+			"description": "BLS has a stat for that! Statistics you can trust to make informed decisions, whether you're a worker, jobseeker, student, employer, investor, or policymaker.",
+			"url": "https://t.co/mPrvkIthYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mPrvkIthYq",
+							"expanded_url": "https://www.bls.gov",
+							"display_url": "bls.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66008,
+			"friends_count": 108,
+			"listed_count": 2132,
+			"created_at": "Tue Jun 19 19:58:49 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267433128425029634/uHUbWl3e_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267433128425029634/uHUbWl3e_normal.png",
+			"profile_link_color": "0F288C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "377 metropolitan areas had over-the-year decreases in nonfarm payroll employment in April 2020 https://t.co/bgBQVMcxSO #BLSdata https://t.co/uKoxcHiJNX"
+	},
+	{
 		"created_at": "Thu Jun 11 06:20:42 +0000 2020",
 		"id": 1270964154145230800,
 		"id_str": "1270964154145230848",
