@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 06:07:39 +0000 2020",
+		"id": 1270960785137647600,
+		"id_str": "1270960868725936128",
+		"full_text": "Here we go! #pursuit https://t.co/Q21XEyMpWc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pursuit",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q21XEyMpWc",
+					"expanded_url": "https://twitter.com/nbcla/status/1270959882510856192",
+					"display_url": "twitter.com/nbcla/status/1…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37162208,
+			"id_str": "37162208",
+			"name": "LA Police Pursuits",
+			"screen_name": "LAPolicePursuit",
+			"location": "Los Angeles, CA",
+			"description": "Alerts for police pursuits in & around LA and OC. Text tips to 818-697-1551 🚨 Insta: @lapolicepursuit • Personal Twitter: @JustinMichael",
+			"url": "https://t.co/WqIl5YfYlD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WqIl5YfYlD",
+							"expanded_url": "http://bit.ly/2EWnJy4",
+							"display_url": "bit.ly/2EWnJy4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27533,
+			"friends_count": 928,
+			"listed_count": 408,
+			"created_at": "Sat May 02 07:29:58 +0000 2009",
+			"favourites_count": 12842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270166046704459776/AsmPUjsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270166046704459776/AsmPUjsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37162208/1574367502",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270959882510856200,
+		"quoted_status_id_str": "1270959882510856192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Q21XEyMpWc",
+			"expanded": "https://twitter.com/nbcla/status/1270959882510856192",
+			"display": "twitter.com/nbcla/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 11 06:03:43 +0000 2020",
+			"id": 1270959882510856200,
+			"id_str": "1270959882510856192",
+			"full_text": "WATCH LIVE: Police are in pursuit of a pickup truck in Compton area. https://t.co/BAHl1YwEIt https://t.co/YbeYmrC7WR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BAHl1YwEIt",
+						"expanded_url": "http://4.nbcla.com/hfFDxzp",
+						"display_url": "4.nbcla.com/hfFDxzp",
+						"indices": [
+							69,
+							92
+						]
+					},
+					{
+						"url": "https://t.co/YbeYmrC7WR",
+						"expanded_url": "https://www.pscp.tv/w/cbBvPzU5OTUwNXwxeU5HYUJyemJ2bEpqq9m80JkCOK3L5WkpFw2NvSrmjuyeKoe4aqhOTcSuNuo=",
+						"display_url": "pscp.tv/w/cbBvPzU5OTUw…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17379685,
+				"id_str": "17379685",
+				"name": "NBC Los Angeles",
+				"screen_name": "NBCLA",
+				"location": "Southern California",
+				"description": "Welcome to @NBCLA, the place for news, weather and everything SoCal! #NBCLA",
+				"url": "https://t.co/8tJSvbRn0Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8tJSvbRn0Y",
+								"expanded_url": "http://www.nbcla.com",
+								"display_url": "nbcla.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 516188,
+				"friends_count": 872,
+				"listed_count": 4466,
+				"created_at": "Fri Nov 14 03:39:17 +0000 2008",
+				"favourites_count": 5535,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 304069,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "092442",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770670152748666881/R5DG9j_1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770670152748666881/R5DG9j_1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17379685/1591820207",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here we go! #pursuit https://t.co/Q21XEyMpWc"
+	},
+	{
 		"created_at": "Thu Jun 11 01:58:22 +0000 2020",
 		"id": 1270835449607553000,
 		"id_str": "1270898135359877120",
