@@ -1,10 +1,568 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 22:26:38 +0000 2020",
+		"id": 1271932013935620000,
+		"id_str": "1271932013935620097",
+		"full_text": "\"please\" https://t.co/O2u8T49Oed",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O2u8T49Oed",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1271608270415900672",
+					"display_url": "twitter.com/lapublichealth…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11466,
+			"friends_count": 2121,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271608270415900700,
+		"quoted_status_id_str": "1271608270415900672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O2u8T49Oed",
+			"expanded": "https://twitter.com/lapublichealth/status/1271608270415900672",
+			"display": "twitter.com/lapublichealth…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 13 01:00:11 +0000 2020",
+			"id": 1271608270415900700,
+			"id_str": "1271608270415900672",
+			"full_text": "UPDATED: As LA County continues the phased reopening of businesses and public spaces, please continue to practice physical distancing, wear a face covering whenever you are around others, and wash your hands frequently.  #COVID19 https://t.co/EmzHaaVAGJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							221,
+							229
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1271608268155244500,
+						"id_str": "1271608268155244551",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/EaWo-4zX0AcTmg7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaWo-4zX0AcTmg7.jpg",
+						"url": "https://t.co/EmzHaaVAGJ",
+						"display_url": "pic.twitter.com/EmzHaaVAGJ",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1271608270415900672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1271608268155244500,
+						"id_str": "1271608268155244551",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/EaWo-4zX0AcTmg7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaWo-4zX0AcTmg7.jpg",
+						"url": "https://t.co/EmzHaaVAGJ",
+						"display_url": "pic.twitter.com/EmzHaaVAGJ",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1271608270415900672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1271608268750762000,
+						"id_str": "1271608268750761986",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/EaWo-7BWsAITNZq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaWo-7BWsAITNZq.jpg",
+						"url": "https://t.co/EmzHaaVAGJ",
+						"display_url": "pic.twitter.com/EmzHaaVAGJ",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1271608270415900672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38287098,
+				"id_str": "38287098",
+				"name": "LA Public Health",
+				"screen_name": "lapublichealth",
+				"location": "Los Angeles, California",
+				"description": "Committed to protecting & improving the health of the over 10 million residents of #LACounty. Follow for #HealthAlerts & #HealthTips. #PublicHealth",
+				"url": "https://t.co/Fiv01QwVHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Fiv01QwVHL",
+								"expanded_url": "http://publichealth.lacounty.gov",
+								"display_url": "publichealth.lacounty.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 62715,
+				"friends_count": 631,
+				"listed_count": 879,
+				"created_at": "Wed May 06 21:57:05 +0000 2009",
+				"favourites_count": 1424,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7894,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38287098/1527611465",
+				"profile_link_color": "00205B",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DCE7EA",
+				"profile_text_color": "404040",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 78,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"please\" https://t.co/O2u8T49Oed"
+	},
+	{
+		"created_at": "Sat Jun 13 22:26:06 +0000 2020",
+		"id": 1271884497953284000,
+		"id_str": "1271931881013997569",
+		"full_text": "@lapublichealth Why are you not revealing total number of tests performed as well as new cases daily? It would be helpful to know what percentage of those tested are coming back positive, not just a raw positive number. With more testing will come more postives.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lapublichealth",
+					"name": "LA Public Health",
+					"id": 38287098,
+					"id_str": "38287098",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271608270415900700,
+		"in_reply_to_status_id_str": "1271608270415900672",
+		"in_reply_to_user_id": 38287098,
+		"in_reply_to_user_id_str": "38287098",
+		"in_reply_to_screen_name": "lapublichealth",
+		"user": {
+			"id": 1658596782,
+			"id_str": "1658596782",
+			"name": "Greg Jelin",
+			"screen_name": "Medic5138",
+			"location": "Stevenson Ranch, CA",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11,
+			"friends_count": 147,
+			"listed_count": 1,
+			"created_at": "Fri Aug 09 21:15:37 +0000 2013",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/772083177372291073/WJEB5ceT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/772083177372291073/WJEB5ceT_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@lapublichealth Why are you not revealing total number of tests performed as well as new cases daily? It would be helpful to know what percentage of those tested are coming back positive, not just a raw positive number. With more testing will come more postives."
+	},
+	{
+		"created_at": "Sat Jun 13 22:25:55 +0000 2020",
+		"id": 1271682748080468000,
+		"id_str": "1271931833140121601",
+		"full_text": "@lapublichealth @LACOFD Sweet thank god the Pickleball Courts are open.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lapublichealth",
+					"name": "LA Public Health",
+					"id": 38287098,
+					"id_str": "38287098",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "LACOFD",
+					"name": "LACoFD",
+					"id": 308751479,
+					"id_str": "308751479",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271608270415900700,
+		"in_reply_to_status_id_str": "1271608270415900672",
+		"in_reply_to_user_id": 38287098,
+		"in_reply_to_user_id_str": "38287098",
+		"in_reply_to_screen_name": "lapublichealth",
+		"user": {
+			"id": 712398060727369700,
+			"id_str": "712398060727369728",
+			"name": "Alice",
+			"screen_name": "iversnow",
+			"location": "St. Olaf",
+			"description": "Let's play some basketball !",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27,
+			"friends_count": 497,
+			"listed_count": 0,
+			"created_at": "Tue Mar 22 21:58:28 +0000 2016",
+			"favourites_count": 4236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065026589501534209/l0Tc1NyC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065026589501534209/l0Tc1NyC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712398060727369728/1486059553",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@lapublichealth @LACOFD Sweet thank god the Pickleball Courts are open."
+	},
+	{
 		"created_at": "Sat Jun 13 01:45:18 +0000 2020",
 		"id": 1271599135687204900,
 		"id_str": "1271619623276834816",
-		"full_text": "A moronic tweet (especially from Bloomberg *Asia*) on what's in fact an interesting story🤦‍♀️\n\n\"A prime beneficiary of this pandemic-driven trend is Pulmuone, a South Korea-based food maker boasting a 78% share of U.S. tofu sales.\"\n\n\"White, chewy &amp; bland\" should be a Weird Al song https://t.co/XYZ0gsNEAp",
+		"full_text": "A moronic tweet (especially from Bloomberg *Asia*) on what's in fact an interesting story🤦♀️\n\n\"A prime beneficiary of this pandemic-driven trend is Pulmuone, a South Korea-based food maker boasting a 78% share of U.S. tofu sales.\"\n\n\"White, chewy &amp; bland\" should be a Weird Al song https://t.co/XYZ0gsNEAp",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -313,7 +871,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "A moronic tweet (especially from Bloomberg *Asia*) on what's in fact an interesting story🤦‍♀️\n\n\"A prime beneficiary of this pandemic-driven trend is Pulmuone, a South Korea-based food maker boasting a 78% share of U.S. tofu sales.\"\n\n\"White, chewy &amp; bland\" should be a Weird Al song https://t.co/XYZ0gsNEAp"
+		"text": "A moronic tweet (especially from Bloomberg *Asia*) on what's in fact an interesting story🤦♀️\n\n\"A prime beneficiary of this pandemic-driven trend is Pulmuone, a South Korea-based food maker boasting a 78% share of U.S. tofu sales.\"\n\n\"White, chewy &amp; bland\" should be a Weird Al song https://t.co/XYZ0gsNEAp"
 	},
 	{
 		"created_at": "Fri Jun 12 04:58:13 +0000 2020",
