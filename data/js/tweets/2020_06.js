@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 21:09:54 +0000 2020",
+		"id": 1272275090969780200,
+		"id_str": "1272275090969780224",
+		"full_text": "Covering the protest on Hollywood Boulevard today with @haileybranson , and there were so many people I had trouble making out the large painting on the roadway. Fortunately, @WallySkalij captured this beautiful picture the day before. https://t.co/xusICOePGN https://t.co/eOHJQM0lSg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haileybranson",
+					"name": "Hailey Branson-Potts",
+					"id": 24596887,
+					"id_str": "24596887",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"screen_name": "WallySkalij",
+					"name": "Wally Skalij",
+					"id": 1876900399,
+					"id_str": "1876900399",
+					"indices": [
+						175,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xusICOePGN",
+					"expanded_url": "https://www.latimes.com/california/story/2020-06-14/protesters-march-hollywood-to-west-hollywood-call-for-racial-justice",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272274831602409500,
+					"id_str": "1272274831602409472",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EagHN_JU4AATmEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EagHN_JU4AATmEI.jpg",
+					"url": "https://t.co/eOHJQM0lSg",
+					"display_url": "pic.twitter.com/eOHJQM0lSg",
+					"expanded_url": "https://twitter.com/stiles/status/1272275090969780224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 537,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 435,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272274831602409500,
+					"id_str": "1272274831602409472",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EagHN_JU4AATmEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EagHN_JU4AATmEI.jpg",
+					"url": "https://t.co/eOHJQM0lSg",
+					"display_url": "pic.twitter.com/eOHJQM0lSg",
+					"expanded_url": "https://twitter.com/stiles/status/1272275090969780224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 537,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 435,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11464,
+			"friends_count": 2122,
+			"listed_count": 858,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Covering the protest on Hollywood Boulevard today with @haileybranson , and there were so many people I had trouble making out the large painting on the roadway. Fortunately, @WallySkalij captured this beautiful picture the day before. https://t.co/xusICOePGN https://t.co/eOHJQM0lSg"
+	},
+	{
 		"created_at": "Sun Jun 14 15:55:49 +0000 2020",
 		"id": 1272196050023932000,
 		"id_str": "1272196050023931904",
