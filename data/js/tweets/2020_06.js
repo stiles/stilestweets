@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 14:37:50 +0000 2020",
+		"id": 1271947653362774000,
+		"id_str": "1272176427958325248",
+		"full_text": "Imagining Jang Kum Chol grumbling to his wife about how when he puts out a statement not even the wires mention it but SHE says something &amp; suddenly it's June 1950 @nknewsorg firing off a Saturday night alert yadda yadda how unfair is that!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nknewsorg",
+					"name": "NK NEWS",
+					"id": 147017457,
+					"id_str": "147017457",
+					"indices": [
+						168,
+						178
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14906658,
+			"id_str": "14906658",
+			"name": "John Delury",
+			"screen_name": "JohnDelury",
+			"location": "Seoul",
+			"description": "Yonsei University Professor",
+			"url": "https://t.co/3yoK7siWqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3yoK7siWqC",
+							"expanded_url": "http://johndelury.weebly.com/",
+							"display_url": "johndelury.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13746,
+			"friends_count": 1811,
+			"listed_count": 521,
+			"created_at": "Mon May 26 08:20:13 +0000 2008",
+			"favourites_count": 2358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14906658/1582330822",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Imagining Jang Kum Chol grumbling to his wife about how when he puts out a statement not even the wires mention it but SHE says something &amp; suddenly it's June 1950 @nknewsorg firing off a Saturday night alert yadda yadda how unfair is that!"
+	},
+	{
+		"created_at": "Sun Jun 14 14:25:31 +0000 2020",
+		"id": 1272142594852741000,
+		"id_str": "1272173325242916869",
+		"full_text": "If you are out and about in DC, please keep an eye out for Leonidas, a foster dog with @dcluckydog who just arrived on a transport and is now lost. The poor boy is scared and is in a strange place. He is likely somewhere in Northwest. Let’s find this cutie! @PoPville⁩ https://t.co/lUjpuZjjes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DCLuckyDog",
+					"name": "Lucky Dog",
+					"id": 41171239,
+					"id_str": "41171239",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"screen_name": "PoPville",
+					"name": "PoPville",
+					"id": 34996738,
+					"id_str": "34996738",
+					"indices": [
+						258,
+						267
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272142590213841000,
+					"id_str": "1272142590213840897",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeO8hlXYAEa1am.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeO8hlXYAEa1am.jpg",
+					"url": "https://t.co/lUjpuZjjes",
+					"display_url": "pic.twitter.com/lUjpuZjjes",
+					"expanded_url": "https://twitter.com/JulietMacur/status/1272142594852741123/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 928,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1539,
+							"h": 1991,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272142590213841000,
+					"id_str": "1272142590213840897",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EaeO8hlXYAEa1am.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaeO8hlXYAEa1am.jpg",
+					"url": "https://t.co/lUjpuZjjes",
+					"display_url": "pic.twitter.com/lUjpuZjjes",
+					"expanded_url": "https://twitter.com/JulietMacur/status/1272142594852741123/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 928,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1539,
+							"h": 1991,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18554022,
+			"id_str": "18554022",
+			"name": "Juliet Macur",
+			"screen_name": "JulietMacur",
+			"location": "",
+			"description": "NY Times reporter since 2004. Proud daughter of Polish immigrants. Mama Bear. I write about people and issues that transcend sports.",
+			"url": "https://t.co/7p0AyrWfzA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7p0AyrWfzA",
+							"expanded_url": "http://tinyurl.com/qh4alq",
+							"display_url": "tinyurl.com/qh4alq",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18817,
+			"friends_count": 4039,
+			"listed_count": 980,
+			"created_at": "Fri Jan 02 15:23:45 +0000 2009",
+			"favourites_count": 3167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246144535522095104/dctqvU1O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246144535522095104/dctqvU1O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18554022/1589381570",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are out and about in DC, please keep an eye out for Leonidas, a foster dog with @dcluckydog who just arrived on a transport and is now lost. The poor boy is scared and is in a strange place. He is likely somewhere in Northwest. Let’s find this cutie! @PoPville⁩ https://t.co/lUjpuZjjes"
+	},
+	{
 		"created_at": "Sun Jun 14 01:42:23 +0000 2020",
 		"id": 1271981277470584800,
 		"id_str": "1271981277470584833",
