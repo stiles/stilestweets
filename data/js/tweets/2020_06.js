@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 22:41:26 +0000 2020",
+		"id": 1272297705411186700,
+		"id_str": "1272298125927960577",
+		"full_text": "Los Angeles has seen a lot of great dunks in its sports history—but these might be some of the best. https://t.co/Hu7pdrPjYi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272297644010770400,
+					"id_str": "1272297644010770433",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272297644010770433/pu/img/m55os3UWDApr3w_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272297644010770433/pu/img/m55os3UWDApr3w_D.jpg",
+					"url": "https://t.co/Hu7pdrPjYi",
+					"display_url": "pic.twitter.com/Hu7pdrPjYi",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1272297705411186688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272297644010770400,
+					"id_str": "1272297644010770433",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272297644010770433/pu/img/m55os3UWDApr3w_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272297644010770433/pu/img/m55os3UWDApr3w_D.jpg",
+					"url": "https://t.co/Hu7pdrPjYi",
+					"display_url": "pic.twitter.com/Hu7pdrPjYi",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1272297705411186688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 18167,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272297644010770433/pu/vid/320x400/KwgT-dLYSZ1GAq1j.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272297644010770433/pu/vid/640x800/kx-nO3CQgWf5LYmh.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272297644010770433/pu/vid/360x450/krPSHFxs3W775K0e.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1272297644010770433/pu/pl/pWVbzoGR82RqHv9z.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115705583,
+			"id_str": "115705583",
+			"name": "LAPD HQ",
+			"screen_name": "LAPDHQ",
+			"location": "Los Angeles, CA",
+			"description": "Official account of the LAPD. Not monitored 24/7. Call 911 for emergencies. Facebook-Instagram-SnapChat-TikTok: LAPDHQ. — Chief of Police: @LAPDChiefMoore",
+			"url": "https://t.co/rRqJpJ9HAP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rRqJpJ9HAP",
+							"expanded_url": "http://www.lapdonline.org/",
+							"display_url": "lapdonline.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187716,
+			"friends_count": 357,
+			"listed_count": 1823,
+			"created_at": "Fri Feb 19 16:34:43 +0000 2010",
+			"favourites_count": 9898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03053D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017942513737273344/YEsPRCof_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017942513737273344/YEsPRCof_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115705583/1553827504",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 469,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Los Angeles has seen a lot of great dunks in its sports history—but these might be some of the best. https://t.co/Hu7pdrPjYi"
+	},
+	{
+		"created_at": "Sun Jun 14 22:39:05 +0000 2020",
+		"id": 1272296478208168000,
+		"id_str": "1272297538381418496",
+		"full_text": "@JacobVoelzke @LloydPursall @LAPDHQ \"hello LAPD, I'd like to report a crime to you but also defund LAPD.\"",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JacobVoelzke",
+					"name": "Jake",
+					"id": 453536421,
+					"id_str": "453536421",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "LloydPursall",
+					"name": "Lloyd Pursall",
+					"id": 79821500,
+					"id_str": "79821500",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "LAPDHQ",
+					"name": "LAPD HQ",
+					"id": 115705583,
+					"id_str": "115705583",
+					"indices": [
+						28,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1272287150902395000,
+		"in_reply_to_status_id_str": "1272287150902394880",
+		"in_reply_to_user_id": 453536421,
+		"in_reply_to_user_id_str": "453536421",
+		"in_reply_to_screen_name": "JacobVoelzke",
+		"user": {
+			"id": 862079400933703700,
+			"id_str": "862079400933703680",
+			"name": "Rabbit Ears TV 📺",
+			"screen_name": "W0EPD_TV",
+			"location": "Los Angeles, CA",
+			"description": "WØEPD-TV is a Youtube Channel that features out of print, vintage, rare & sometimes oddball videos, mostly from #VHS. #VintageTV #ClassicTV #VCR 📼",
+			"url": "https://t.co/nioGIp3KZD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nioGIp3KZD",
+							"expanded_url": "http://www.youtube.com/c/WØEPDRabbitEarsTV",
+							"display_url": "youtube.com/c/WØEPDRabbitE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 97,
+			"listed_count": 1,
+			"created_at": "Tue May 09 22:58:40 +0000 2017",
+			"favourites_count": 10494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/862149567608872961/3r-1OjyJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/862149567608872961/3r-1OjyJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/862079400933703680/1498671588",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@JacobVoelzke @LloydPursall @LAPDHQ \"hello LAPD, I'd like to report a crime to you but also defund LAPD.\""
+	},
+	{
+		"created_at": "Sun Jun 14 22:34:44 +0000 2020",
+		"id": 1272285594207416300,
+		"id_str": "1272296442913161217",
+		"full_text": "Today at #LAPride/ #BLM March, a racist Karen driving through protestors. Twitter, do your thing. #laprotestupdate #BlackLivesMatter #BlackTransLivesMatter #laprotest #westhollywood https://t.co/9YfbkOpNGL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LAPride",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "BLM",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "laprotestupdate",
+					"indices": [
+						98,
+						114
+					]
+				},
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						115,
+						132
+					]
+				},
+				{
+					"text": "BlackTransLivesMatter",
+					"indices": [
+						133,
+						155
+					]
+				},
+				{
+					"text": "laprotest",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "westhollywood",
+					"indices": [
+						167,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272284843481591800,
+					"id_str": "1272284843481591808",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272284843481591808/pu/img/GwyiNfK4nvcnZ05k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272284843481591808/pu/img/GwyiNfK4nvcnZ05k.jpg",
+					"url": "https://t.co/9YfbkOpNGL",
+					"display_url": "pic.twitter.com/9YfbkOpNGL",
+					"expanded_url": "https://twitter.com/LloydPursall/status/1272285594207416320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272284843481591800,
+					"id_str": "1272284843481591808",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272284843481591808/pu/img/GwyiNfK4nvcnZ05k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272284843481591808/pu/img/GwyiNfK4nvcnZ05k.jpg",
+					"url": "https://t.co/9YfbkOpNGL",
+					"display_url": "pic.twitter.com/9YfbkOpNGL",
+					"expanded_url": "https://twitter.com/LloydPursall/status/1272285594207416320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16782,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272284843481591808/pu/vid/480x270/FVGdZwElIh3CuQue.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1272284843481591808/pu/pl/CeOhe28F5y8TwEGm.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272284843481591808/pu/vid/1280x720/Qen0UBRPURDzVU8D.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272284843481591808/pu/vid/640x360/8GzhlCbir4GjfTuu.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79821500,
+			"id_str": "79821500",
+			"name": "Lloyd Pursall",
+			"screen_name": "LloydPursall",
+			"location": "Los Angeles, CA",
+			"description": "man with a camera - info@lloydpursall.com",
+			"url": "https://t.co/Gz3eRzBk0H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Gz3eRzBk0H",
+							"expanded_url": "http://lloydpursall.com",
+							"display_url": "lloydpursall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1720,
+			"friends_count": 560,
+			"listed_count": 5,
+			"created_at": "Sun Oct 04 20:23:09 +0000 2009",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004485625234403329/f9LEohSY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004485625234403329/f9LEohSY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79821500/1499322926",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 632,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today at #LAPride/ #BLM March, a racist Karen driving through protestors. Twitter, do your thing. #laprotestupdate #BlackLivesMatter #BlackTransLivesMatter #laprotest #westhollywood https://t.co/9YfbkOpNGL"
+	},
+	{
 		"created_at": "Sun Jun 14 21:09:54 +0000 2020",
 		"id": 1272275090969780200,
 		"id_str": "1272275090969780224",
