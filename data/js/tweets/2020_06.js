@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 20:57:09 +0000 2020",
+		"id": 1272634271971213300,
+		"id_str": "1272634271971213312",
+		"full_text": "@thejournalista @dsw_us Lincoln and Maxella in Del Rey.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thejournalista",
+					"name": "I don't sell crack. I'm a prostitute.",
+					"id": 1206035390,
+					"id_str": "1206035390",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "dsw_us",
+					"name": "DSW Designer Shoe Warehouse",
+					"id": 82192104,
+					"id_str": "82192104",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1272629991226785800,
+		"in_reply_to_status_id_str": "1272629991226785792",
+		"in_reply_to_user_id": 1206035390,
+		"in_reply_to_user_id_str": "1206035390",
+		"in_reply_to_screen_name": "thejournalista",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11464,
+			"friends_count": 2123,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thejournalista @dsw_us Lincoln and Maxella in Del Rey."
+	},
+	{
+		"created_at": "Mon Jun 15 20:37:42 +0000 2020",
+		"id": 1272629375184195600,
+		"id_str": "1272629375184195585",
+		"full_text": "Also @Yogurtland is back. \n\nGame changer.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Yogurtland",
+					"name": "Yogurtland",
+					"id": 26344415,
+					"id_str": "26344415",
+					"indices": [
+						5,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1272629205449052200,
+		"in_reply_to_status_id_str": "1272629205449052160",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11464,
+			"friends_count": 2123,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "59612bd882018c51",
+			"url": "https://api.twitter.com/1.1/geo/id/59612bd882018c51.json",
+			"place_type": "city",
+			"name": "Santa Monica",
+			"full_name": "Santa Monica, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.5173575,
+							33.9951771
+						],
+						[
+							-118.443482,
+							33.9951771
+						],
+						[
+							-118.443482,
+							34.050199
+						],
+						[
+							-118.5173575,
+							34.050199
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Also @Yogurtland is back. \n\nGame changer."
+	},
+	{
 		"created_at": "Mon Jun 15 16:29:14 +0000 2020",
 		"id": 1272566847154446300,
 		"id_str": "1272566847154446341",
