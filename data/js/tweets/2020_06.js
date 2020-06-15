@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 22:48:06 +0000 2020",
+		"id": 1272622948826796000,
+		"id_str": "1272662191762628608",
+		"full_text": "March for LGBTQ+ rights and racial justice in Hollywood on Sunday https://t.co/0g2xj1f4vq @haileybranson @stiles https://t.co/EmXUzjOG1O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haileybranson",
+					"name": "Hailey Branson-Potts",
+					"id": 24596887,
+					"id_str": "24596887",
+					"indices": [
+						90,
+						104
+					]
+				},
+				{
+					"screen_name": "stiles",
+					"name": "Matt Stiles",
+					"id": 14790314,
+					"id_str": "14790314",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0g2xj1f4vq",
+					"expanded_url": "https://lat.ms/3d6xneb",
+					"display_url": "lat.ms/3d6xneb",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272621649892749300,
+					"id_str": "1272621649892749313",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EalCpd9UMAE8NB_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EalCpd9UMAE8NB_.jpg",
+					"url": "https://t.co/EmXUzjOG1O",
+					"display_url": "pic.twitter.com/EmXUzjOG1O",
+					"expanded_url": "https://twitter.com/therealchouse/status/1272622948826796032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1331,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272621649892749300,
+					"id_str": "1272621649892749313",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EalCpd9UMAE8NB_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EalCpd9UMAE8NB_.jpg",
+					"url": "https://t.co/EmXUzjOG1O",
+					"display_url": "pic.twitter.com/EmXUzjOG1O",
+					"expanded_url": "https://twitter.com/therealchouse/status/1272622948826796032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1331,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272621711356162000,
+					"id_str": "1272621711356162048",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EalCtC7VcAAHIAG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EalCtC7VcAAHIAG.jpg",
+					"url": "https://t.co/EmXUzjOG1O",
+					"display_url": "pic.twitter.com/EmXUzjOG1O",
+					"expanded_url": "https://twitter.com/therealchouse/status/1272622948826796032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272621755253682200,
+					"id_str": "1272621755253682176",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EalCvmdUcAAi0Np.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EalCvmdUcAAi0Np.jpg",
+					"url": "https://t.co/EmXUzjOG1O",
+					"display_url": "pic.twitter.com/EmXUzjOG1O",
+					"expanded_url": "https://twitter.com/therealchouse/status/1272622948826796032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1272621779547156500,
+					"id_str": "1272621779547156480",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EalCxA9VcAAfT6Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EalCxA9VcAAfT6Q.jpg",
+					"url": "https://t.co/EmXUzjOG1O",
+					"display_url": "pic.twitter.com/EmXUzjOG1O",
+					"expanded_url": "https://twitter.com/therealchouse/status/1272622948826796032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1283,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 752,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3180968438,
+			"id_str": "3180968438",
+			"name": "Christina House",
+			"screen_name": "therealchouse",
+			"location": "LA | CA",
+			"description": "Los Angeles Times Photographer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 495,
+			"friends_count": 199,
+			"listed_count": 20,
+			"created_at": "Thu Apr 30 20:07:26 +0000 2015",
+			"favourites_count": 1779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/977565591815909376/TFVPar6l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/977565591815909376/TFVPar6l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3180968438/1513211620",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "March for LGBTQ+ rights and racial justice in Hollywood on Sunday https://t.co/0g2xj1f4vq @haileybranson @stiles https://t.co/EmXUzjOG1O"
+	},
+	{
+		"created_at": "Mon Jun 15 22:46:36 +0000 2020",
+		"id": 1272661256223068200,
+		"id_str": "1272661817454522369",
+		"full_text": "@ChloeDabbles More of a reminder to prevent crime. We received 94 calls reporting vehicle break-in's over the weekend.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChloeDabbles",
+					"name": "t",
+					"id": 19629179,
+					"id_str": "19629179",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272617016789065700,
+		"in_reply_to_status_id_str": "1272617016789065728",
+		"in_reply_to_user_id": 19629179,
+		"in_reply_to_user_id_str": "19629179",
+		"in_reply_to_screen_name": "ChloeDabbles",
+		"user": {
+			"id": 444007700,
+			"id_str": "444007700",
+			"name": "LAPD Communications Division",
+			"screen_name": "911LAPD",
+			"location": "City Of Los Angeles",
+			"description": "Official Twitter feed of LAPD Communications Division. This is not monitored 24/7. If you have an emergency call or text 9-1-1. Non-emergency call 877-ASK-LAPD.",
+			"url": "https://t.co/heaTzxopVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heaTzxopVG",
+							"expanded_url": "http://www.911lapd.com",
+							"display_url": "911lapd.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56626,
+			"friends_count": 304,
+			"listed_count": 887,
+			"created_at": "Thu Dec 22 19:51:52 +0000 2011",
+			"favourites_count": 9824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0C0352",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220164110408544256/ZxfN6Lpz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220164110408544256/ZxfN6Lpz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444007700/1532983798",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@ChloeDabbles More of a reminder to prevent crime. We received 94 calls reporting vehicle break-in's over the weekend."
+	},
+	{
 		"created_at": "Mon Jun 15 20:57:09 +0000 2020",
 		"id": 1272634271971213300,
 		"id_str": "1272634271971213312",
