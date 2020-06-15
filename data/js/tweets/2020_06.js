@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 13:59:33 +0000 2020",
+		"id": 1272529179485978600,
+		"id_str": "1272529179485978625",
+		"full_text": "Amen. It's as terrible as that old online banking software... https://t.co/Sg2lvnPfnx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sg2lvnPfnx",
+					"expanded_url": "https://twitter.com/jeongminnkim/status/1272472681338662913",
+					"display_url": "twitter.com/jeongminnkim/s…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11464,
+			"friends_count": 2123,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272472681338663000,
+		"quoted_status_id_str": "1272472681338662913",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Sg2lvnPfnx",
+			"expanded": "https://twitter.com/jeongminnkim/status/1272472681338662913",
+			"display": "twitter.com/jeongminnkim/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 15 10:15:03 +0000 2020",
+			"id": 1272472681338663000,
+			"id_str": "1272472681338662913",
+			"full_text": "Please stop using hwp. format, dear whomever in the South Korean government that decided it’s a good idea",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 904841004305576000,
+				"id_str": "904841004305575936",
+				"name": "Jeongmin Kim",
+				"screen_name": "jeongminnkim",
+				"location": "Seoul, Republic of Korea",
+				"description": "Seoul Correspondent @nknewsorg • Comparative Politics SNU • Previously @Reuters, @CSIS • Bylines @foreignpolicy and more. Views mine. RT not endorsement",
+				"url": "https://t.co/kQnlDalpA5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kQnlDalpA5",
+								"expanded_url": "https://www.nknews.org/content_author/jeongmin-kim/?t=1575968726176",
+								"display_url": "nknews.org/content_author…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11749,
+				"friends_count": 1498,
+				"listed_count": 273,
+				"created_at": "Mon Sep 04 22:58:01 +0000 2017",
+				"favourites_count": 5270,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7814,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1254665250021928961/iCCKpSO6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254665250021928961/iCCKpSO6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/904841004305575936/1560874955",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 127,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amen. It's as terrible as that old online banking software... https://t.co/Sg2lvnPfnx"
+	},
+	{
 		"created_at": "Mon Jun 15 07:11:28 +0000 2020",
 		"id": 1272426481063325700,
 		"id_str": "1272426481063325696",
