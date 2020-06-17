@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 17:04:06 +0000 2020",
+		"id": 1273300399018164200,
+		"id_str": "1273300399018164225",
+		"full_text": "@MarkPuente @LAcrimes @AleneTchek Nice work, SLUKE? @LukeMMoney",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkPuente",
+					"name": "Mark Puente",
+					"id": 119945205,
+					"id_str": "119945205",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "LAcrimes",
+					"name": "Richard Winton",
+					"id": 41418040,
+					"id_str": "41418040",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "AleneTchek",
+					"name": "Alene Tchekmedyian",
+					"id": 26102955,
+					"id_str": "26102955",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "LukeMMoney",
+					"name": "Luke Money",
+					"id": 193595507,
+					"id_str": "193595507",
+					"indices": [
+						52,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273299644001460200,
+		"in_reply_to_status_id_str": "1273299644001460228",
+		"in_reply_to_user_id": 119945205,
+		"in_reply_to_user_id_str": "119945205",
+		"in_reply_to_screen_name": "MarkPuente",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11465,
+			"friends_count": 2125,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarkPuente @LAcrimes @AleneTchek Nice work, SLUKE? @LukeMMoney"
+	},
+	{
 		"created_at": "Wed Jun 17 14:12:42 +0000 2020",
 		"id": 1273207789935046700,
 		"id_str": "1273257263721930753",
