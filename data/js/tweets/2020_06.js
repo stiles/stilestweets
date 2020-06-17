@@ -1,6 +1,516 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 19:19:14 +0000 2020",
+		"id": 1273331216494796800,
+		"id_str": "1273334407063982080",
+		"full_text": "Sweet lord almighty. This cannot be real. https://t.co/A0gQIymeuI https://t.co/SbbVpM5oHT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A0gQIymeuI",
+					"expanded_url": "https://www.wsj.com/articles/john-bolton-the-scandal-of-trumps-china-policy-11592419564",
+					"display_url": "wsj.com/articles/john-…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273331212426371000,
+					"id_str": "1273331212426371081",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EavH_cYXYAknBtH.png",
+					"media_url_https": "https://pbs.twimg.com/media/EavH_cYXYAknBtH.png",
+					"url": "https://t.co/SbbVpM5oHT",
+					"display_url": "pic.twitter.com/SbbVpM5oHT",
+					"expanded_url": "https://twitter.com/NoahCRothman/status/1273331216494796802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 708,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 175,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 708,
+							"h": 182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273331212426371000,
+					"id_str": "1273331212426371081",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EavH_cYXYAknBtH.png",
+					"media_url_https": "https://pbs.twimg.com/media/EavH_cYXYAknBtH.png",
+					"url": "https://t.co/SbbVpM5oHT",
+					"display_url": "pic.twitter.com/SbbVpM5oHT",
+					"expanded_url": "https://twitter.com/NoahCRothman/status/1273331216494796802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 708,
+							"h": 182,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 175,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 708,
+							"h": 182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168531961,
+			"id_str": "168531961",
+			"name": "Noah Rothman",
+			"screen_name": "NoahCRothman",
+			"location": "New York City",
+			"description": "Associate Editor @Commentary. MSNBC/NBC News contributor. Author \"Unjust: Social Justice and the Unmaking of America\" https://t.co/8PN276FhoX",
+			"url": "https://t.co/H8DRQ6vyWQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H8DRQ6vyWQ",
+							"expanded_url": "http://www.commentarymagazine.com",
+							"display_url": "commentarymagazine.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8PN276FhoX",
+							"expanded_url": "http://bit.ly/NoahRothman",
+							"display_url": "bit.ly/NoahRothman",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 81607,
+			"friends_count": 1848,
+			"listed_count": 1799,
+			"created_at": "Mon Jul 19 16:32:51 +0000 2010",
+			"favourites_count": 43987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199904529816395776/N1kxRhuZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199904529816395776/N1kxRhuZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168531961/1548764250",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sweet lord almighty. This cannot be real. https://t.co/A0gQIymeuI https://t.co/SbbVpM5oHT"
+	},
+	{
+		"created_at": "Wed Jun 17 19:17:55 +0000 2020",
+		"id": 1273334074564731000,
+		"id_str": "1273334074564730880",
+		"full_text": "I'm long on remote work. Just made a sizable investment in my \"soft\" wardrobe.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11465,
+			"friends_count": 2125,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I'm long on remote work. Just made a sizable investment in my \"soft\" wardrobe."
+	},
+	{
+		"created_at": "Wed Jun 17 18:38:44 +0000 2020",
+		"id": 1273324008176566300,
+		"id_str": "1273324212006948864",
+		"full_text": ".@peterbakernyt has the Bolton book details. The president \"Mr. Bolton describes several episodes where the president expressed willingness to halt criminal investigations 'to, in effect, give personal favors to dictators he liked,'\" Turkey.https://t.co/BBDpdcmYqd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterbakernyt",
+					"name": "Peter Baker",
+					"id": 123327472,
+					"id_str": "123327472",
+					"indices": [
+						1,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BBDpdcmYqd",
+					"expanded_url": "https://www.nytimes.com/2020/06/17/us/politics/bolton-book-trump-impeached.html",
+					"display_url": "nytimes.com/2020/06/17/us/…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93069110,
+			"id_str": "93069110",
+			"name": "Maggie Haberman",
+			"screen_name": "maggieNYT",
+			"location": "",
+			"description": "White House correspondent for NYTimes, analyst for CNN. RTs don't imply agreement. maggie.haberman@nytimes.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1366290,
+			"friends_count": 4378,
+			"listed_count": 15299,
+			"created_at": "Fri Nov 27 23:14:06 +0000 2009",
+			"favourites_count": 61883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 236189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213848155210563585/cu54X160_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213848155210563585/cu54X160_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93069110/1583538786",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 607,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@peterbakernyt has the Bolton book details. The president \"Mr. Bolton describes several episodes where the president expressed willingness to halt criminal investigations 'to, in effect, give personal favors to dictators he liked,'\" Turkey.https://t.co/BBDpdcmYqd"
+	},
+	{
+		"created_at": "Wed Jun 17 18:38:26 +0000 2020",
+		"id": 1273324139865010200,
+		"id_str": "1273324139865010176",
+		"full_text": "\"It is a withering portrait of a president ignorant of even basic facts about the world... \" -- @peterbakernyt  https://t.co/YgjLIIvHHd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterbakernyt",
+					"name": "Peter Baker",
+					"id": 123327472,
+					"id_str": "123327472",
+					"indices": [
+						96,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YgjLIIvHHd",
+					"expanded_url": "https://www.nytimes.com/2020/06/17/us/politics/bolton-book-trump-impeached.html",
+					"display_url": "nytimes.com/2020/06/17/us/…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11465,
+			"friends_count": 2125,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"It is a withering portrait of a president ignorant of even basic facts about the world... \" -- @peterbakernyt  https://t.co/YgjLIIvHHd"
+	},
+	{
 		"created_at": "Wed Jun 17 17:04:06 +0000 2020",
 		"id": 1273300399018164200,
 		"id_str": "1273300399018164225",
