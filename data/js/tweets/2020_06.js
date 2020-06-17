@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 02:07:27 +0000 2020",
+		"id": 1273074750391087000,
+		"id_str": "1273074750391087105",
+		"full_text": "Elsa and Anna got the 'Rona. Hilarious, especially the bit about the king being on \"unpaid leave\". \n\nhttps://t.co/FJn9lro2A9\n\n(h/t Eva, 7, my eldest) https://t.co/QpGalvc57G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FJn9lro2A9",
+					"expanded_url": "https://www.youtube.com/watch?v=uABDLKyVm8o",
+					"display_url": "youtube.com/watch?v=uABDLK…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273074064844681200,
+					"id_str": "1273074064844681217",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EareHe_UcAE00RV.png",
+					"media_url_https": "https://pbs.twimg.com/media/EareHe_UcAE00RV.png",
+					"url": "https://t.co/QpGalvc57G",
+					"display_url": "pic.twitter.com/QpGalvc57G",
+					"expanded_url": "https://twitter.com/stiles/status/1273074750391087105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 831,
+							"h": 649,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 831,
+							"h": 649,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273074064844681200,
+					"id_str": "1273074064844681217",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EareHe_UcAE00RV.png",
+					"media_url_https": "https://pbs.twimg.com/media/EareHe_UcAE00RV.png",
+					"url": "https://t.co/QpGalvc57G",
+					"display_url": "pic.twitter.com/QpGalvc57G",
+					"expanded_url": "https://twitter.com/stiles/status/1273074750391087105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 831,
+							"h": 649,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 831,
+							"h": 649,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1273074064840519700,
+					"id_str": "1273074064840519682",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EareHe-U8AIvgRT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EareHe-U8AIvgRT.jpg",
+					"url": "https://t.co/QpGalvc57G",
+					"display_url": "pic.twitter.com/QpGalvc57G",
+					"expanded_url": "https://twitter.com/stiles/status/1273074750391087105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 906,
+							"h": 684,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 906,
+							"h": 684,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273074064840523800,
+					"id_str": "1273074064840523776",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EareHe-VAAA7jkr.png",
+					"media_url_https": "https://pbs.twimg.com/media/EareHe-VAAA7jkr.png",
+					"url": "https://t.co/QpGalvc57G",
+					"display_url": "pic.twitter.com/QpGalvc57G",
+					"expanded_url": "https://twitter.com/stiles/status/1273074750391087105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 779,
+							"h": 626,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 779,
+							"h": 626,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273074064848875500,
+					"id_str": "1273074064848875520",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EareHfAUcAAAWis.png",
+					"media_url_https": "https://pbs.twimg.com/media/EareHfAUcAAAWis.png",
+					"url": "https://t.co/QpGalvc57G",
+					"display_url": "pic.twitter.com/QpGalvc57G",
+					"expanded_url": "https://twitter.com/stiles/status/1273074750391087105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 870,
+							"h": 595,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 870,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11464,
+			"friends_count": 2124,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Elsa and Anna got the 'Rona. Hilarious, especially the bit about the king being on \"unpaid leave\". \n\nhttps://t.co/FJn9lro2A9\n\n(h/t Eva, 7, my eldest) https://t.co/QpGalvc57G"
+	},
+	{
 		"created_at": "Tue Jun 16 20:02:29 +0000 2020",
 		"id": 1272982901534032000,
 		"id_str": "1272982901534031873",
