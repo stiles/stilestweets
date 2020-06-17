@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 14:12:42 +0000 2020",
+		"id": 1273207789935046700,
+		"id_str": "1273257263721930753",
+		"full_text": "This is an excellent ⁦@WSJ⁩ assessment of the latest science on how Covid-19 spreads. https://t.co/ceYiJUEdms",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WSJ",
+					"name": "The Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						22,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ceYiJUEdms",
+					"expanded_url": "https://www.wsj.com/articles/how-exactly-do-you-catch-covid-19-there-is-a-growing-consensus-11592317650?reflink=share_mobilewebshare",
+					"display_url": "wsj.com/articles/how-e…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168684891,
+			"id_str": "168684891",
+			"name": "Mark Mazzetti",
+			"screen_name": "MarkMazzettiNYT",
+			"location": "Washington, DC",
+			"description": "Washington Investigative Correspondent, The New York Times. CNN Contributor. Author, The Way of the Knife from @penguinpress.",
+			"url": "https://t.co/zGJ4T9rCnp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zGJ4T9rCnp",
+							"expanded_url": "http://nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61267,
+			"friends_count": 635,
+			"listed_count": 1009,
+			"created_at": "Tue Jul 20 14:44:50 +0000 2010",
+			"favourites_count": 701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225844890036297728/vPDOwiCL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225844890036297728/vPDOwiCL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168684891/1517522739",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is an excellent ⁦@WSJ⁩ assessment of the latest science on how Covid-19 spreads. https://t.co/ceYiJUEdms"
+	},
+	{
+		"created_at": "Wed Jun 17 14:04:50 +0000 2020",
+		"id": 1273255286065606700,
+		"id_str": "1273255286065606657",
+		"full_text": "@waldojaquith Oh no! This is my biggest fear so I switched to @CrashPlanSMB. Hope you can restore it! Might have to take it to hardware experts.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "waldojaquith",
+					"name": "Waldo Jaquith",
+					"id": 206283535,
+					"id_str": "206283535",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "CrashPlanSMB",
+					"name": "CrashPlan for Small Biz",
+					"id": 17395543,
+					"id_str": "17395543",
+					"indices": [
+						62,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273254202849058800,
+		"in_reply_to_status_id_str": "1273254202849058818",
+		"in_reply_to_user_id": 206283535,
+		"in_reply_to_user_id_str": "206283535",
+		"in_reply_to_screen_name": "waldojaquith",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11466,
+			"friends_count": 2125,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@waldojaquith Oh no! This is my biggest fear so I switched to @CrashPlanSMB. Hope you can restore it! Might have to take it to hardware experts."
+	},
+	{
 		"created_at": "Wed Jun 17 02:07:27 +0000 2020",
 		"id": 1273074750391087000,
 		"id_str": "1273074750391087105",
