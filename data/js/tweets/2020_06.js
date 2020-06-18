@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 18 02:36:48 +0000 2020",
+		"id": 1273377093624008700,
+		"id_str": "1273444521620066305",
+		"full_text": "Americans,\n\nJUST. WEAR. THE. FRIGGING. MASKS. \n\nSigned,\n\nAsia https://t.co/2zrtthCWu4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2zrtthCWu4",
+					"expanded_url": "https://twitter.com/dakasler/status/1273373666575704064",
+					"display_url": "twitter.com/dakasler/statu…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14906658,
+			"id_str": "14906658",
+			"name": "John Delury",
+			"screen_name": "JohnDelury",
+			"location": "Seoul",
+			"description": "Yonsei University Professor",
+			"url": "https://t.co/3yoK7siWqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3yoK7siWqC",
+							"expanded_url": "http://johndelury.weebly.com/",
+							"display_url": "johndelury.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13758,
+			"friends_count": 1816,
+			"listed_count": 520,
+			"created_at": "Mon May 26 08:20:13 +0000 2008",
+			"favourites_count": 2365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14906658/1582330822",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273373666575704000,
+		"quoted_status_id_str": "1273373666575704064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2zrtthCWu4",
+			"expanded": "https://twitter.com/dakasler/status/1273373666575704064",
+			"display": "twitter.com/dakasler/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 17 21:55:14 +0000 2020",
+			"id": 1273373666575704000,
+			"id_str": "1273373666575704064",
+			"full_text": "BREAKING - Sacramento County considers mask order as it reports spike in coronavirus cases. w/@Mike_McGough  https://t.co/EC2ZsIhZWK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Mike_McGough",
+						"name": "Mike McGough",
+						"id": 2314792634,
+						"id_str": "2314792634",
+						"indices": [
+							94,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EC2ZsIhZWK",
+						"expanded_url": "https://www.sacbee.com/news/coronavirus/article243605312.html",
+						"display_url": "sacbee.com/news/coronavir…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 187043060,
+				"id_str": "187043060",
+				"name": "Dale Kasler",
+				"screen_name": "dakasler",
+				"location": "Sacramento, California",
+				"description": "Covering water, environment, wildfires & business for @sacbee_news & McClatchy.",
+				"url": "https://t.co/UEQNu8igOP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UEQNu8igOP",
+								"expanded_url": "http://www.sacbee.com",
+								"display_url": "sacbee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8922,
+				"friends_count": 1784,
+				"listed_count": 364,
+				"created_at": "Sun Sep 05 02:59:49 +0000 2010",
+				"favourites_count": 274,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10364,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837501723971223552/SGkFFzeY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837501723971223552/SGkFFzeY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/187043060/1487736707",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Americans,\n\nJUST. WEAR. THE. FRIGGING. MASKS. \n\nSigned,\n\nAsia https://t.co/2zrtthCWu4"
+	},
+	{
 		"created_at": "Thu Jun 18 02:17:45 +0000 2020",
 		"id": 1273439728625348600,
 		"id_str": "1273439728625348608",
