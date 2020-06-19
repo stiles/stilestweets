@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 13:55:06 +0000 2020",
+		"id": 1273972255479881700,
+		"id_str": "1273977612738560002",
+		"full_text": "How local media often covers police militarization https://t.co/sapja38nDz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sapja38nDz",
+					"expanded_url": "https://twitter.com/jbaker_wtov/status/1273655533510242308",
+					"display_url": "twitter.com/jbaker_wtov/st…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452521774,
+			"id_str": "452521774",
+			"name": "Christopher Ingraham",
+			"screen_name": "_cingraham",
+			"location": "Red Lake Falls, MN",
+			"description": "Washington Post data reporter. Born-again Minnesotan. Cricket guy. Proud @PostGuild member. Author of If You Lived Here You'd Be Home By Now.",
+			"url": "https://t.co/0kZWWqfkCs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kZWWqfkCs",
+							"expanded_url": "https://www.amazon.com/You-Lived-Here-Youd-Home/dp/0062861476/",
+							"display_url": "amazon.com/You-Lived-Here…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89714,
+			"friends_count": 1317,
+			"listed_count": 1745,
+			"created_at": "Sun Jan 01 23:27:55 +0000 2012",
+			"favourites_count": 21675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 61592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105133182574223360/m_h-lhSu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105133182574223360/m_h-lhSu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452521774/1573756910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273655533510242300,
+		"quoted_status_id_str": "1273655533510242308",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sapja38nDz",
+			"expanded": "https://twitter.com/jbaker_wtov/status/1273655533510242308",
+			"display": "twitter.com/jbaker_wtov/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 18 16:35:17 +0000 2020",
+			"id": 1273655533510242300,
+			"id_str": "1273655533510242308",
+			"full_text": "The Moundsville Police Department has added a vehicle to the fleet! I’ll tell you everything this MRAP offers- and explain how the department get it for free- tonight on @WTOV9 https://t.co/qveCV7X1i9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WTOV9",
+						"name": "WTOV NEWS9",
+						"id": 28197598,
+						"id_str": "28197598",
+						"indices": [
+							170,
+							176
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1273654884475244500,
+						"id_str": "1273654884475244544",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273654884475244544/pu/img/ijcTwujAUF_X4R-H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273654884475244544/pu/img/ijcTwujAUF_X4R-H.jpg",
+						"url": "https://t.co/qveCV7X1i9",
+						"display_url": "pic.twitter.com/qveCV7X1i9",
+						"expanded_url": "https://twitter.com/JBaker_WTOV/status/1273655533510242308/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1273654884475244500,
+						"id_str": "1273654884475244544",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273654884475244544/pu/img/ijcTwujAUF_X4R-H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273654884475244544/pu/img/ijcTwujAUF_X4R-H.jpg",
+						"url": "https://t.co/qveCV7X1i9",
+						"display_url": "pic.twitter.com/qveCV7X1i9",
+						"expanded_url": "https://twitter.com/JBaker_WTOV/status/1273655533510242308/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 17463,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1273654884475244544/pu/vid/1280x720/Y0ix-QEp0noEBU7p.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1273654884475244544/pu/vid/640x360/4o6nbK3y102IcSuq.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1273654884475244544/pu/pl/YhCQ3UuwOwTeukMC.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1273654884475244544/pu/vid/480x270/oZ11Y2i1HfRvtG0q.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2654475002,
+				"id_str": "2654475002",
+				"name": "Jaime Baker",
+				"screen_name": "JBaker_WTOV",
+				"location": "Wheeling, WV",
+				"description": ".@WTOV9 reporter, @ohiou product. Yes, I'm smaller than I look on TV.",
+				"url": "https://t.co/90l9mqP9Cn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/90l9mqP9Cn",
+								"expanded_url": "http://wtov9.com",
+								"display_url": "wtov9.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3250,
+				"friends_count": 582,
+				"listed_count": 42,
+				"created_at": "Thu Jul 17 18:01:01 +0000 2014",
+				"favourites_count": 2431,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20484,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1227344439003185153/pEx26vwp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227344439003185153/pEx26vwp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2654475002/1559787831",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 213,
+			"favorite_count": 361,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 59,
+		"favorite_count": 210,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How local media often covers police militarization https://t.co/sapja38nDz"
+	},
+	{
 		"created_at": "Fri Jun 19 12:32:28 +0000 2020",
 		"id": 1273956816439832600,
 		"id_str": "1273956816439832577",
