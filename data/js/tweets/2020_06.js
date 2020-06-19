@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 04:38:49 +0000 2020",
+		"id": 1273444243336384500,
+		"id_str": "1273837619864952832",
+		"full_text": "Check out my deep dive into the history of hip-hop in Hawaii. It's a remarkable (and ongoing!) story that I'm grateful to have been able to tell, and I couldn't think of a better place for it than @Passionweiss. \n\nhttps://t.co/WRfSdM8Mj5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Passionweiss",
+					"name": "Otto Von Biz Markie",
+					"id": 102208685,
+					"id_str": "102208685",
+					"indices": [
+						197,
+						210
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WRfSdM8Mj5",
+					"expanded_url": "https://www.passionweiss.com/2020/06/16/the-untold-story-of-how-hip-hop-went-to-hawaii-and-how-hawaii-went-hip-hop/",
+					"display_url": "passionweiss.com/2020/06/16/the…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2250008616,
+			"id_str": "2250008616",
+			"name": "Eric Stinton",
+			"screen_name": "TombstoneStint",
+			"location": "Kailua, HI",
+			"description": "Writer. Hawaii stuff for @KHONNews and @RememberingHI, fighting stuff for @Sherdogdotcom, lots of other stuff all over the World Wide Web.",
+			"url": "https://t.co/oECaj4MHiM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oECaj4MHiM",
+							"expanded_url": "http://ericstinton.com",
+							"display_url": "ericstinton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 726,
+			"listed_count": 34,
+			"created_at": "Tue Dec 17 07:42:38 +0000 2013",
+			"favourites_count": 76452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963375945934499841/je3LSV4q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963375945934499841/je3LSV4q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2250008616/1470878395",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out my deep dive into the history of hip-hop in Hawaii. It's a remarkable (and ongoing!) story that I'm grateful to have been able to tell, and I couldn't think of a better place for it than @Passionweiss. \n\nhttps://t.co/WRfSdM8Mj5"
+	},
+	{
 		"created_at": "Thu Jun 18 23:39:26 +0000 2020",
 		"id": 1273762276634267600,
 		"id_str": "1273762276634267648",
