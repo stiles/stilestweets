@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 20 03:19:05 +0000 2020",
+		"id": 1274178732476059600,
+		"id_str": "1274179941462990849",
+		"full_text": "https://t.co/hFNvQs5orV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274178603920642000,
+					"id_str": "1274178603920642048",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea7KsHsX0AAOrP3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea7KsHsX0AAOrP3.jpg",
+					"url": "https://t.co/hFNvQs5orV",
+					"display_url": "pic.twitter.com/hFNvQs5orV",
+					"expanded_url": "https://twitter.com/SDNYnews/status/1274178732476059650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274178603920642000,
+					"id_str": "1274178603920642048",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea7KsHsX0AAOrP3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea7KsHsX0AAOrP3.jpg",
+					"url": "https://t.co/hFNvQs5orV",
+					"display_url": "pic.twitter.com/hFNvQs5orV",
+					"expanded_url": "https://twitter.com/SDNYnews/status/1274178732476059650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 716812878,
+			"id_str": "716812878",
+			"name": "US Attorney SDNY",
+			"screen_name": "SDNYnews",
+			"location": "Southern District of New York",
+			"description": "Est. 1789. DOJ does not collect comments or messages through this account. Learn more at http://t.co/h8R41xPx",
+			"url": "http://t.co/xEw0ugH6TJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xEw0ugH6TJ",
+							"expanded_url": "http://www.justice.gov/usao/nys/",
+							"display_url": "justice.gov/usao/nys/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/h8R41xPx",
+							"expanded_url": "http://justice.gov/privacy-file.htm",
+							"display_url": "justice.gov/privacy-file.h…",
+							"indices": [
+								89,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62744,
+			"friends_count": 381,
+			"listed_count": 694,
+			"created_at": "Wed Jul 25 21:37:52 +0000 2012",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCF9F6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466601741794816000/MN---jlS_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466601741794816000/MN---jlS_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/716812878/1490038834",
+			"profile_link_color": "765821",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 405,
+		"favorite_count": 609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/hFNvQs5orV"
+	},
+	{
+		"created_at": "Sat Jun 20 03:16:54 +0000 2020",
+		"id": 1274178463881146400,
+		"id_str": "1274179388892798976",
+		"full_text": "NEW: Geoff Berman statement:\n\n“I learned in a press release from the Attorney General tonight that I was ‘stepping down’ as United States Attorney.  I have not resigned, and have no intention of resigning, my position\" https://t.co/L6PQCF9bdU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274178437029269500,
+					"id_str": "1274178437029269504",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea7KiZ-XkAA6VIi.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ea7KiZ-XkAA6VIi.png",
+					"url": "https://t.co/L6PQCF9bdU",
+					"display_url": "pic.twitter.com/L6PQCF9bdU",
+					"expanded_url": "https://twitter.com/eorden/status/1274178463881146370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 632,
+							"h": 227,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 632,
+							"h": 227,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 632,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274178437029269500,
+					"id_str": "1274178437029269504",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea7KiZ-XkAA6VIi.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ea7KiZ-XkAA6VIi.png",
+					"url": "https://t.co/L6PQCF9bdU",
+					"display_url": "pic.twitter.com/L6PQCF9bdU",
+					"expanded_url": "https://twitter.com/eorden/status/1274178463881146370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 632,
+							"h": 227,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 632,
+							"h": 227,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 632,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20097201,
+			"id_str": "20097201",
+			"name": "erica orden",
+			"screen_name": "eorden",
+			"location": "New York",
+			"description": "CNN reporter covering federal courts & law enforcement in NY. Ex-WSJ. I'm good at weaseling my way to the front of a gaggle. Tips: Erica.Orden@cnn.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61828,
+			"friends_count": 1222,
+			"listed_count": 1350,
+			"created_at": "Wed Feb 04 21:39:59 +0000 2009",
+			"favourites_count": 9250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887501328997654528/heDEpOhW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887501328997654528/heDEpOhW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20097201/1481057705",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1202,
+		"favorite_count": 1914,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW: Geoff Berman statement:\n\n“I learned in a press release from the Attorney General tonight that I was ‘stepping down’ as United States Attorney.  I have not resigned, and have no intention of resigning, my position\" https://t.co/L6PQCF9bdU"
+	},
+	{
 		"created_at": "Fri Jun 19 20:21:53 +0000 2020",
 		"id": 1274074946285658000,
 		"id_str": "1274074946285658112",
