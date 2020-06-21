@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 21 15:43:19 +0000 2020",
+		"id": 1274729621305487400,
+		"id_str": "1274729621305487360",
+		"full_text": "The pandemic has reshaped American fatherhood. Can it last? (By @M_Gelin, w/ a shoutout to @Robert_E_Kelly) https://t.co/GTujHh2xOh https://t.co/4y7ujILEmh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M_Gelin",
+					"name": "Martin Gelin",
+					"id": 21106898,
+					"id_str": "21106898",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"screen_name": "Robert_E_Kelly",
+					"name": "Robert E Kelly",
+					"id": 489218573,
+					"id_str": "489218573",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GTujHh2xOh",
+					"expanded_url": "https://www.nytimes.com/2020/06/21/opinion/pandemic-fatherhood-fathers.html",
+					"display_url": "nytimes.com/2020/06/21/opi…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1274729329180606500,
+					"id_str": "1274729329180606466",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EbC_kjKVAAI1yAW.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbC_kjKVAAI1yAW.png",
+					"url": "https://t.co/4y7ujILEmh",
+					"display_url": "pic.twitter.com/4y7ujILEmh",
+					"expanded_url": "https://twitter.com/stiles/status/1274729621305487360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 672,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 208,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274729329180606500,
+					"id_str": "1274729329180606466",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EbC_kjKVAAI1yAW.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbC_kjKVAAI1yAW.png",
+					"url": "https://t.co/4y7ujILEmh",
+					"display_url": "pic.twitter.com/4y7ujILEmh",
+					"expanded_url": "https://twitter.com/stiles/status/1274729621305487360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 672,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 208,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11466,
+			"friends_count": 2127,
+			"listed_count": 857,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The pandemic has reshaped American fatherhood. Can it last? (By @M_Gelin, w/ a shoutout to @Robert_E_Kelly) https://t.co/GTujHh2xOh https://t.co/4y7ujILEmh"
+	},
+	{
 		"created_at": "Sun Jun 21 14:54:29 +0000 2020",
 		"id": 1274717331051016200,
 		"id_str": "1274717331051016197",
