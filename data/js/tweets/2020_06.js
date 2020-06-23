@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 14:51:04 +0000 2020",
+		"id": 1275202475683754000,
+		"id_str": "1275441246593363970",
+		"full_text": "The @TexasTribune is giving a master class to media everywhere about how to cover the #coronavirus outbreak. Bravo. https://t.co/VTBJKbJrlp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirus",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TexasTribune",
+					"name": "Texas Tribune",
+					"id": 44513878,
+					"id_str": "44513878",
+					"indices": [
+						4,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VTBJKbJrlp",
+					"expanded_url": "https://twitter.com/ShannonNajma/status/1275200079993987080",
+					"display_url": "twitter.com/ShannonNajma/s…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 731167584,
+			"id_str": "731167584",
+			"name": "Ronald Brownstein",
+			"screen_name": "RonBrownstein",
+			"location": "Los Angeles, CA",
+			"description": "Brownstein, a two-time finalist for the Pulitzer Prize, is a senior editor at The Atlantic & a senior political analyst for CNN.",
+			"url": "http://t.co/qUyk2l2QIr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/qUyk2l2QIr",
+							"expanded_url": "http://www.nationaljournal.com/editorial/ronald-brownstein",
+							"display_url": "nationaljournal.com/editorial/rona…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71761,
+			"friends_count": 1871,
+			"listed_count": 1717,
+			"created_at": "Wed Aug 01 18:06:34 +0000 2012",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3096048418/35415ebb6897788d241c4bb4973a0fa1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3096048418/35415ebb6897788d241c4bb4973a0fa1_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275200079993987000,
+		"quoted_status_id_str": "1275200079993987080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VTBJKbJrlp",
+			"expanded": "https://twitter.com/ShannonNajma/status/1275200079993987080",
+			"display": "twitter.com/ShannonNajma/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 22 22:52:45 +0000 2020",
+			"id": 1275200079993987000,
+			"id_str": "1275200079993987080",
+			"full_text": "There are 3,711 patients *confirmed* to have #COVID19 in Texas hospitals, another record high. This is a 111% increase from the start of June. \n\nIn the Houston area, the @TXMedCenter forecasts ICU capacity could be exceeded in two weeks (https://t.co/NwEdAFiZIc) https://t.co/zZBcHOBzwC https://t.co/K86QTspOXu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				286
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							45,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TXMedCenter",
+						"name": "Texas Medical Center",
+						"id": 2480110710,
+						"id_str": "2480110710",
+						"indices": [
+							170,
+							182
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NwEdAFiZIc",
+						"expanded_url": "https://www.tmc.edu/coronavirus-updates/proposed-early-warning-monitoring-and-mitigation-metrics/",
+						"display_url": "tmc.edu/coronavirus-up…",
+						"indices": [
+							238,
+							261
+						]
+					},
+					{
+						"url": "https://t.co/zZBcHOBzwC",
+						"expanded_url": "https://twitter.com/ShannonNajma/status/1274456237896278022",
+						"display_url": "twitter.com/ShannonNajma/s…",
+						"indices": [
+							263,
+							286
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1275198695336706000,
+						"id_str": "1275198695336706054",
+						"indices": [
+							287,
+							310
+						],
+						"media_url": "http://pbs.twimg.com/media/EbJqdQWWAAYCLSI.png",
+						"media_url_https": "https://pbs.twimg.com/media/EbJqdQWWAAYCLSI.png",
+						"url": "https://t.co/K86QTspOXu",
+						"display_url": "pic.twitter.com/K86QTspOXu",
+						"expanded_url": "https://twitter.com/ShannonNajma/status/1275200079993987080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 505,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 505,
+								"h": 454,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 505,
+								"h": 454,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1275198695336706000,
+						"id_str": "1275198695336706054",
+						"indices": [
+							287,
+							310
+						],
+						"media_url": "http://pbs.twimg.com/media/EbJqdQWWAAYCLSI.png",
+						"media_url_https": "https://pbs.twimg.com/media/EbJqdQWWAAYCLSI.png",
+						"url": "https://t.co/K86QTspOXu",
+						"display_url": "pic.twitter.com/K86QTspOXu",
+						"expanded_url": "https://twitter.com/ShannonNajma/status/1275200079993987080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 505,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 505,
+								"h": 454,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 505,
+								"h": 454,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 232425279,
+				"id_str": "232425279",
+				"name": "Shannon",
+				"screen_name": "ShannonNajma",
+				"location": "Austin, TX",
+				"description": "Reporter for the @TexasTribune covering women's health. Ideas and tips welcome at shannon@texastribune.org.",
+				"url": "https://t.co/lxqQdhlXAm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lxqQdhlXAm",
+								"expanded_url": "http://texastribune.org",
+								"display_url": "texastribune.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2342,
+				"friends_count": 2406,
+				"listed_count": 83,
+				"created_at": "Fri Dec 31 03:28:13 +0000 2010",
+				"favourites_count": 2272,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2810,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1271558375948591105/opB9sksg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271558375948591105/opB9sksg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/232425279/1586115655",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1274456237896278000,
+			"quoted_status_id_str": "1274456237896278022",
+			"quoted_status_permalink": {
+				"url": "https://t.co/zZBcHOBzwC",
+				"expanded": "https://twitter.com/ShannonNajma/status/1274456237896278022",
+				"display": "twitter.com/ShannonNajma/s…"
+			},
+			"retweet_count": 166,
+			"favorite_count": 165,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 59,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @TexasTribune is giving a master class to media everywhere about how to cover the #coronavirus outbreak. Bravo. https://t.co/VTBJKbJrlp"
+	},
+	{
 		"created_at": "Tue Jun 23 01:28:38 +0000 2020",
 		"id": 1275239309444919300,
 		"id_str": "1275239309444919297",
