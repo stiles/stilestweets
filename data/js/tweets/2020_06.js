@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 15:45:09 +0000 2020",
+		"id": 1275453599330365400,
+		"id_str": "1275454856401006593",
+		"full_text": "It’s shameful that I’m the only Black reporter in the largest section of the @latimes.\n\nWe demand change now. https://t.co/hsrxWiElIz https://t.co/kKzI78kKBe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimes",
+					"name": "Los Angeles Times",
+					"id": 16664681,
+					"id_str": "16664681",
+					"indices": [
+						77,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hsrxWiElIz",
+					"expanded_url": "https://latguild.com/news/2020/6/23/letter-from-la-times-guild-black-caucus",
+					"display_url": "latguild.com/news/2020/6/23…",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/kKzI78kKBe",
+					"expanded_url": "https://twitter.com/kurtisalee/status/1275447583263952897",
+					"display_url": "twitter.com/kurtisalee/sta…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 382295194,
+			"id_str": "382295194",
+			"name": "Angel Jennings",
+			"screen_name": "AngelJennings",
+			"location": "Los Angeles, CA",
+			"description": "Reporter @latimes covering #SouthLA, #Inglewood, #Compton, #Watts. DMV native, now a California Girl. I'm good on any MLK boulevard. Proud Husker",
+			"url": "https://t.co/X3HWtk1pue",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X3HWtk1pue",
+							"expanded_url": "https://lat.ms/2I2K8LG",
+							"display_url": "lat.ms/2I2K8LG",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7217,
+			"friends_count": 951,
+			"listed_count": 200,
+			"created_at": "Thu Sep 29 20:34:01 +0000 2011",
+			"favourites_count": 2819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173983760427053058/mu81wYvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173983760427053058/mu81wYvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/382295194/1424835514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275447583263953000,
+		"quoted_status_id_str": "1275447583263952897",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kKzI78kKBe",
+			"expanded": "https://twitter.com/kurtisalee/status/1275447583263952897",
+			"display": "twitter.com/kurtisalee/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 23 15:16:15 +0000 2020",
+			"id": 1275447583263953000,
+			"id_str": "1275447583263952897",
+			"full_text": "It's ridiculous that only 26 of 500 @latimes journalists are Black. \n\nBlack Lives Matter. Black Careers Matter. Hire us. Promote us. Respect us. #BlackatLAT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BlackatLAT",
+						"indices": [
+							145,
+							156
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "latimes",
+						"name": "Los Angeles Times",
+						"id": 16664681,
+						"id_str": "16664681",
+						"indices": [
+							36,
+							44
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 230611723,
+				"id_str": "230611723",
+				"name": "Kurtis Lee",
+				"screen_name": "kurtisalee",
+				"location": "Los Angeles",
+				"description": "National correspondent, Los Angeles Times. Former political reporter, The Denver Post (a newspaper I grew up reading).",
+				"url": "https://t.co/2Ht0vrdy3c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2Ht0vrdy3c",
+								"expanded_url": "http://kurtisalee.com",
+								"display_url": "kurtisalee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7582,
+				"friends_count": 186,
+				"listed_count": 380,
+				"created_at": "Sun Dec 26 03:47:10 +0000 2010",
+				"favourites_count": 3535,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8351,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "38383B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/474224248878141440/-w7d9pym_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/474224248878141440/-w7d9pym_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/230611723/1532577524",
+				"profile_link_color": "2682B3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 153,
+			"favorite_count": 382,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 44,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s shameful that I’m the only Black reporter in the largest section of the @latimes.\n\nWe demand change now. https://t.co/hsrxWiElIz https://t.co/kKzI78kKBe"
+	},
+	{
 		"created_at": "Tue Jun 23 14:51:04 +0000 2020",
 		"id": 1275202475683754000,
 		"id_str": "1275441246593363970",
