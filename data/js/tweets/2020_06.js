@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 16:23:50 +0000 2020",
+		"id": 1275463981868568600,
+		"id_str": "1275464592735350785",
+		"full_text": "Huge news in Los Angeles this morning: City Councilman Jose Huizar was arrested in a widening investigation into corruption, development and pay-to-play culture at City Hall. ⁦@joelrubin⁩ ⁦@DavidZahniser⁩ ⁦@AlpertReyes⁩ with the scoop: https://t.co/toRSBejO5m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joelrubin",
+					"name": "Joel Rubin",
+					"id": 14480397,
+					"id_str": "14480397",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"screen_name": "DavidZahniser",
+					"name": "David Zahniser 🦅",
+					"id": 714617040,
+					"id_str": "714617040",
+					"indices": [
+						189,
+						203
+					]
+				},
+				{
+					"screen_name": "AlpertReyes",
+					"name": "Emily Alpert Reyes",
+					"id": 25458792,
+					"id_str": "25458792",
+					"indices": [
+						206,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/toRSBejO5m",
+					"expanded_url": "https://www.latimes.com/california/story/2020-06-23/jose-huizar-arrest-corruption-city-hall-fbi-investigation",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16538210,
+			"id_str": "16538210",
+			"name": "Laura J. Nelson 🦅",
+			"screen_name": "laura_nelson",
+			"location": "Los Angeles, CA",
+			"description": "@latimes transportation reporter (🚗, 🚌, 🚇, 🚲, 🛴, 🚕, etc.) Kansan by birth, Californian by choice. Plant mom. laura.nelson@latimes.com",
+			"url": "https://t.co/Owd4TbhzZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Owd4TbhzZA",
+							"expanded_url": "https://www.latimes.com/people/laura-j-nelson",
+							"display_url": "latimes.com/people/laura-j…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29752,
+			"friends_count": 999,
+			"listed_count": 987,
+			"created_at": "Wed Oct 01 01:20:51 +0000 2008",
+			"favourites_count": 51926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188954877990338562/Z4NFpFZW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16538210/1568313391",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Huge news in Los Angeles this morning: City Councilman Jose Huizar was arrested in a widening investigation into corruption, development and pay-to-play culture at City Hall. ⁦@joelrubin⁩ ⁦@DavidZahniser⁩ ⁦@AlpertReyes⁩ with the scoop: https://t.co/toRSBejO5m"
+	},
+	{
 		"created_at": "Tue Jun 23 15:45:09 +0000 2020",
 		"id": 1275453599330365400,
 		"id_str": "1275454856401006593",
