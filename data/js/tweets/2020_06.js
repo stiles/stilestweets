@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 24 13:51:06 +0000 2020",
+		"id": 1275785814186885000,
+		"id_str": "1275788544225636353",
+		"full_text": "This whole thread, but also this. https://t.co/PyQTaW8yRp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PyQTaW8yRp",
+					"expanded_url": "https://twitter.com/tomrosenstiel/status/1275774004494848001",
+					"display_url": "twitter.com/tomrosenstiel/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21368060,
+			"id_str": "21368060",
+			"name": "Matt Welch",
+			"screen_name": "MattWelch",
+			"location": "",
+			"description": "Editor at large, @Reason. Co-conspirator, @wethefifth. Contributor, @LATimesOpinion. Books: https://t.co/3knNdH5y4z?",
+			"url": "https://t.co/4CjGzzRcdL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CjGzzRcdL",
+							"expanded_url": "https://soundcloud.com/user-669989123/tracks",
+							"display_url": "soundcloud.com/user-669989123…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3knNdH5y4z",
+							"expanded_url": "https://www.amazon.com/Matt-Welch/e/B001I9ONCI",
+							"display_url": "amazon.com/Matt-Welch/e/B…",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 73341,
+			"friends_count": 3561,
+			"listed_count": 1686,
+			"created_at": "Fri Feb 20 02:59:27 +0000 2009",
+			"favourites_count": 26211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 76838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237455410275201025/SLlXqKJz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237455410275201025/SLlXqKJz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21368060/1544648583",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275774004494848000,
+		"quoted_status_id_str": "1275774004494848001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PyQTaW8yRp",
+			"expanded": "https://twitter.com/tomrosenstiel/status/1275774004494848001",
+			"display": "twitter.com/tomrosenstiel/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 24 12:53:20 +0000 2020",
+			"id": 1275774004494848000,
+			"id_str": "1275774004494848001",
+			"full_text": "20 ... If we reduce objectivity to a stereotype and a strawman--and abandon the aspiration of deeply reported open minded inquiry--then the points of view we arrive at as journalists will be shallow and unhelpful and just another form of advocacy. 20 of 22",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				256
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1275774003626549200,
+			"in_reply_to_status_id_str": "1275774003626549251",
+			"in_reply_to_user_id": 193330599,
+			"in_reply_to_user_id_str": "193330599",
+			"in_reply_to_screen_name": "TomRosenstiel",
+			"user": {
+				"id": 193330599,
+				"id_str": "193330599",
+				"name": "Tom Rosenstiel",
+				"screen_name": "TomRosenstiel",
+				"location": "Washington, D.C.",
+				"description": "OPPO OUT NOW - 3rd in my Peter Rena series   Author・ Exec. Director of American Press Institute",
+				"url": "https://t.co/wthCwS6yqM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wthCwS6yqM",
+								"expanded_url": "http://tomrosenstiel.com",
+								"display_url": "tomrosenstiel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4917,
+				"friends_count": 3259,
+				"listed_count": 276,
+				"created_at": "Tue Sep 21 15:23:25 +0000 2010",
+				"favourites_count": 2952,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2603,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723348621052284929/_yHXKFgl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723348621052284929/_yHXKFgl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193330599/1575345792",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 130,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This whole thread, but also this. https://t.co/PyQTaW8yRp"
+	},
+	{
 		"created_at": "Tue Jun 23 23:10:25 +0000 2020",
 		"id": 1275566910789128200,
 		"id_str": "1275566910789128193",
