@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 25 19:37:07 +0000 2020",
+		"id": 1276211249198428200,
+		"id_str": "1276238009793298432",
+		"full_text": "Pretty simple messaging https://t.co/B8CyMVN278",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1276211176410460200,
+					"id_str": "1276211176410460160",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EbYDTaRUMAAmskK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbYDTaRUMAAmskK.jpg",
+					"url": "https://t.co/B8CyMVN278",
+					"display_url": "pic.twitter.com/B8CyMVN278",
+					"expanded_url": "https://twitter.com/elisewho/status/1276211249198428165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276211176410460200,
+					"id_str": "1276211176410460160",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EbYDTaRUMAAmskK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbYDTaRUMAAmskK.jpg",
+					"url": "https://t.co/B8CyMVN278",
+					"display_url": "pic.twitter.com/B8CyMVN278",
+					"expanded_url": "https://twitter.com/elisewho/status/1276211249198428165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16001350,
+			"id_str": "16001350",
+			"name": "Elise Hu",
+			"screen_name": "elisewho",
+			"location": "Los Angeles ",
+			"description": "I host @TEDTalks Daily & run @reasonablevol. Founded @NPR Seoul buro. Ex-expat in Korea & Japan. At work on new book w/@duttonbooks. Millennial ajumma 입니다.",
+			"url": "https://t.co/afG7s9qdmH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/afG7s9qdmH",
+							"expanded_url": "https://blacklivesmatters.carrd.co/#educate",
+							"display_url": "blacklivesmatters.carrd.co/#educate",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45054,
+			"friends_count": 2031,
+			"listed_count": 1688,
+			"created_at": "Tue Aug 26 19:24:37 +0000 2008",
+			"favourites_count": 3625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDEDEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/886556243753447424/dlb8urBT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16001350/1565204689",
+			"profile_link_color": "4E647A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F7F2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 795,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pretty simple messaging https://t.co/B8CyMVN278"
+	},
+	{
 		"created_at": "Thu Jun 25 17:05:47 +0000 2020",
 		"id": 1276199924414034000,
 		"id_str": "1276199924414033925",
