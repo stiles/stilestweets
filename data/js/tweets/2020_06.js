@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 25 04:37:40 +0000 2020",
+		"id": 1276011577511153700,
+		"id_str": "1276011654493270016",
+		"full_text": "DC should be a state. Pass it on. https://t.co/mxvM4NMB5D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mxvM4NMB5D",
+					"expanded_url": "https://twitter.com/vanitaguptacr/status/1275959565285236736",
+					"display_url": "twitter.com/vanitaguptacr/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834081571493785600,
+			"id_str": "834081571493785600",
+			"name": "Preet Bharara",
+			"screen_name": "PreetBharara",
+			"location": "New York, NY",
+			"description": "Patriotic American & proud immigrant. @Springsteen fan. Banned by Putin, fired by Trump. Former US Attorney, SDNY. Host of \"Stay Tuned\" https://t.co/jtj1L5lfFp",
+			"url": "https://t.co/S3633DZQJN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S3633DZQJN",
+							"expanded_url": "http://bit.ly/doingjusticebook",
+							"display_url": "bit.ly/doingjusticebo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jtj1L5lfFp",
+							"expanded_url": "http://doingjusticebook.com",
+							"display_url": "doingjusticebook.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1382559,
+			"friends_count": 2088,
+			"listed_count": 7131,
+			"created_at": "Tue Feb 21 16:45:17 +0000 2017",
+			"favourites_count": 10473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/837014180146339840/SC1ANszZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/837014180146339840/SC1ANszZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834081571493785600/1574577088",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275959565285236700,
+		"quoted_status_id_str": "1275959565285236736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mxvM4NMB5D",
+			"expanded": "https://twitter.com/vanitaguptacr/status/1275959565285236736",
+			"display": "twitter.com/vanitaguptacr/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 25 01:10:41 +0000 2020",
+			"id": 1275959565285236700,
+			"id_str": "1275959565285236736",
+			"full_text": "DC should be a state. Pass it on. https://t.co/1VRL400j2t",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1VRL400j2t",
+						"expanded_url": "https://twitter.com/ambassadorrice/status/1275959337618477059",
+						"display_url": "twitter.com/ambassadorrice…",
+						"indices": [
+							34,
+							57
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822131894540083200,
+				"id_str": "822131894540083201",
+				"name": "Vanita Gupta",
+				"screen_name": "vanitaguptaCR",
+				"location": "",
+				"description": "President and CEO of The Leadership Conference on Civil and Human Rights, @civilrightsorg. Former head of USDOJ Civil Rights Division. Views my own.",
+				"url": "https://t.co/ulLMnffjlQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ulLMnffjlQ",
+								"expanded_url": "http://www.civilrights.org",
+								"display_url": "civilrights.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78930,
+				"friends_count": 655,
+				"listed_count": 775,
+				"created_at": "Thu Jan 19 17:21:32 +0000 2017",
+				"favourites_count": 3980,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8972,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1070425194664218624/w5aab0ts_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070425194664218624/w5aab0ts_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822131894540083201/1548958261",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1275959337618477000,
+			"quoted_status_id_str": "1275959337618477059",
+			"quoted_status_permalink": {
+				"url": "https://t.co/1VRL400j2t",
+				"expanded": "https://twitter.com/ambassadorrice/status/1275959337618477059",
+				"display": "twitter.com/ambassadorrice…"
+			},
+			"retweet_count": 671,
+			"favorite_count": 2036,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 955,
+		"favorite_count": 3111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DC should be a state. Pass it on. https://t.co/mxvM4NMB5D"
+	},
+	{
 		"created_at": "Thu Jun 25 01:27:39 +0000 2020",
 		"id": 1275963835543777300,
 		"id_str": "1275963835543777280",
