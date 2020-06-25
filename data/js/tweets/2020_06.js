@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 25 15:51:25 +0000 2020",
+		"id": 1276181035961577500,
+		"id_str": "1276181210721476615",
+		"full_text": "**drops a quarter into my meme jar**\n\nwhen they say they want the economy re-opened but they won’t wear a mask to the grocery store https://t.co/Pm5b3qGadg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1276181026599886800,
+					"id_str": "1276181026599886849",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbXn4deUYAEpaSC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbXn4deUYAEpaSC.jpg",
+					"url": "https://t.co/Pm5b3qGadg",
+					"display_url": "pic.twitter.com/Pm5b3qGadg",
+					"expanded_url": "https://twitter.com/dannydb/status/1276181035961577474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276181026599886800,
+					"id_str": "1276181026599886849",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbXn4deUYAEpaSC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbXn4deUYAEpaSC.jpg",
+					"url": "https://t.co/Pm5b3qGadg",
+					"display_url": "pic.twitter.com/Pm5b3qGadg",
+					"expanded_url": "https://twitter.com/dannydb/status/1276181035961577474/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EbXn4deUYAEpaSC.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14823197,
+			"id_str": "14823197",
+			"name": "Danny DeBelius",
+			"screen_name": "dannydb",
+			"location": "Colorado Springs, CO",
+			"description": "Design at @PlanningCenter. Priors: @nytimes, @npr. Jesus is King.",
+			"url": "https://t.co/Ytz42yzPoG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ytz42yzPoG",
+							"expanded_url": "http://dannydebelius.com",
+							"display_url": "dannydebelius.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2121,
+			"friends_count": 1451,
+			"listed_count": 142,
+			"created_at": "Sun May 18 18:45:33 +0000 2008",
+			"favourites_count": 20994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188607812932255744/dHlA5xiG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188607812932255744/dHlA5xiG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14823197/1554650227",
+			"profile_link_color": "30A5C9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "**drops a quarter into my meme jar**\n\nwhen they say they want the economy re-opened but they won’t wear a mask to the grocery store https://t.co/Pm5b3qGadg"
+	},
+	{
 		"created_at": "Thu Jun 25 14:53:51 +0000 2020",
 		"id": 1276166333663711200,
 		"id_str": "1276166724157652994",
