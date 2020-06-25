@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 25 14:53:51 +0000 2020",
+		"id": 1276166333663711200,
+		"id_str": "1276166724157652994",
+		"full_text": "@realDonaldTrump @FoxNews @edhenry So, during a pandemic with an increase in covid-19 cases, you're spending the morning watching TV and focusing on yourself instead of the American people.",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "FoxNews",
+					"name": "Fox News",
+					"id": 1367531,
+					"id_str": "1367531",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "edhenry",
+					"name": "Ed Henry",
+					"id": 16157855,
+					"id_str": "16157855",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1276165243849388000,
+		"in_reply_to_status_id_str": "1276165243849388032",
+		"in_reply_to_user_id": 25073877,
+		"in_reply_to_user_id_str": "25073877",
+		"in_reply_to_screen_name": "realDonaldTrump",
+		"user": {
+			"id": 40711129,
+			"id_str": "40711129",
+			"name": "Sarah Burris",
+			"screen_name": "SarahBurris",
+			"location": "Oklahoma & Washington DC",
+			"description": "Digital/politics @RawStory #millennial expert Big #weather #Nerd animal lover *opinions might be joke* Tips: sarah@rawstory.com Previous: @alternet @salon #LGBT",
+			"url": "https://t.co/EhOdV2HMnP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EhOdV2HMnP",
+							"expanded_url": "http://www.rawstory.com/author/skburris/",
+							"display_url": "rawstory.com/author/skburri…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29231,
+			"friends_count": 3033,
+			"listed_count": 617,
+			"created_at": "Sun May 17 18:42:19 +0000 2009",
+			"favourites_count": 25944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 82280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552488723946819584/F2-PCgO5_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552488723946819584/F2-PCgO5_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40711129/1499022543",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@realDonaldTrump @FoxNews @edhenry So, during a pandemic with an increase in covid-19 cases, you're spending the morning watching TV and focusing on yourself instead of the American people."
+	},
+	{
 		"created_at": "Thu Jun 25 04:37:40 +0000 2020",
 		"id": 1276011577511153700,
 		"id_str": "1276011654493270016",
