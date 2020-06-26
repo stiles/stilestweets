@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 26 00:07:57 +0000 2020",
+		"id": 1276305251499257900,
+		"id_str": "1276306168692895744",
+		"full_text": "Impact from @JamesQueallyLAT investigation &gt;&gt; https://t.co/HeGSa3Luie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesQueallyLAT",
+					"name": "James Queally",
+					"id": 347599287,
+					"id_str": "347599287",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HeGSa3Luie",
+					"expanded_url": "https://www.latimes.com/california/story/2020-06-25/city-attorney-drops-all-charges-against-anti-trump-protest-group-that-lapd-spied-on",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14827461,
+			"id_str": "14827461",
+			"name": "Shelby Grad",
+			"screen_name": "shelbygrad",
+			"location": "🌴Los Angeles💥",
+			"description": "Deputy Managing Editor at @latimes.",
+			"url": "https://t.co/emWaPa3SBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/emWaPa3SBu",
+							"expanded_url": "http://www.latimes.com/california",
+							"display_url": "latimes.com/california",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14992,
+			"friends_count": 1019,
+			"listed_count": 518,
+			"created_at": "Mon May 19 02:25:01 +0000 2008",
+			"favourites_count": 6662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176642755608449025/HU_Ji59-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14827461/1583199878",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Impact from @JamesQueallyLAT investigation &gt;&gt; https://t.co/HeGSa3Luie"
+	},
+	{
 		"created_at": "Thu Jun 25 19:37:07 +0000 2020",
 		"id": 1276211249198428200,
 		"id_str": "1276238009793298432",
