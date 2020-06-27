@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 27 01:16:14 +0000 2020",
+		"id": 1276513412303007700,
+		"id_str": "1276685739258834946",
+		"full_text": "Excited to announce an expansion of Design and Graphics departments at The Washington Post. \n\n🚨 Job postings coming next week. The 14 new roles will allow The Post to produce more visual journalism in response to news developments.\n\nhttps://t.co/3nnN4wq8ow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3nnN4wq8ow",
+					"expanded_url": "https://www.washingtonpost.com/pr/2020/06/26/washington-post-expand-graphics-design-teams-with-14-new-positions/",
+					"display_url": "washingtonpost.com/pr/2020/06/26/…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2405405593,
+			"id_str": "2405405593",
+			"name": "Washington Post Design",
+			"screen_name": "wapodesign",
+			"location": "Washington, D.C.",
+			"description": "Design team at The Washington Post. Print and Digital. Run by @manifold   Follow us on Instagram as well at https://t.co/CRqKu6oIT3…",
+			"url": "https://t.co/Hq7hTYkOPg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hq7hTYkOPg",
+							"expanded_url": "http://washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CRqKu6oIT3",
+							"expanded_url": "http://instagram.com/washingtonpost",
+							"display_url": "instagram.com/washingtonpost",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6043,
+			"friends_count": 368,
+			"listed_count": 157,
+			"created_at": "Sun Mar 23 01:00:06 +0000 2014",
+			"favourites_count": 1397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875777122471739392/RI42j0dr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875777122471739392/RI42j0dr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2405405593/1469645227",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 165,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to announce an expansion of Design and Graphics departments at The Washington Post. \n\n🚨 Job postings coming next week. The 14 new roles will allow The Post to produce more visual journalism in response to news developments.\n\nhttps://t.co/3nnN4wq8ow"
+	},
+	{
+		"created_at": "Sat Jun 27 01:06:28 +0000 2020",
+		"id": 1276538209644818400,
+		"id_str": "1276683281388326916",
+		"full_text": "High concentrations of slaughterers and meat packers in Iowa, South Dakota, and Nebraska in 2019 https://t.co/CrjQ9C0GYk #BLSData https://t.co/qj9sU0rCvG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLSData",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CrjQ9C0GYk",
+					"expanded_url": "https://go.usa.gov/xwH3w",
+					"display_url": "go.usa.gov/xwH3w",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1276536001796673500,
+					"id_str": "1276536001796673538",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EbcquvIWkAIEwXh.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbcquvIWkAIEwXh.png",
+					"url": "https://t.co/qj9sU0rCvG",
+					"display_url": "pic.twitter.com/qj9sU0rCvG",
+					"expanded_url": "https://twitter.com/BLS_gov/status/1276538209644818433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 740,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276536001796673500,
+					"id_str": "1276536001796673538",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EbcquvIWkAIEwXh.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbcquvIWkAIEwXh.png",
+					"url": "https://t.co/qj9sU0rCvG",
+					"display_url": "pic.twitter.com/qj9sU0rCvG",
+					"expanded_url": "https://twitter.com/BLS_gov/status/1276538209644818433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 740,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 612896910,
+			"id_str": "612896910",
+			"name": "BLS-Labor Statistics",
+			"screen_name": "BLS_gov",
+			"location": "",
+			"description": "BLS has a stat for that! Statistics you can trust to make informed decisions, whether you're a worker, jobseeker, student, employer, investor, or policymaker.",
+			"url": "https://t.co/mPrvkIthYq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mPrvkIthYq",
+							"expanded_url": "https://www.bls.gov",
+							"display_url": "bls.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66162,
+			"friends_count": 108,
+			"listed_count": 2133,
+			"created_at": "Tue Jun 19 19:58:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267433128425029634/uHUbWl3e_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267433128425029634/uHUbWl3e_normal.png",
+			"profile_link_color": "0F288C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "High concentrations of slaughterers and meat packers in Iowa, South Dakota, and Nebraska in 2019 https://t.co/CrjQ9C0GYk #BLSData https://t.co/qj9sU0rCvG"
+	},
+	{
 		"created_at": "Fri Jun 26 16:33:02 +0000 2020",
 		"id": 1276554072179368000,
 		"id_str": "1276554072179367936",
