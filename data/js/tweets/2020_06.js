@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 27 14:00:40 +0000 2020",
+		"id": 1276586192406843400,
+		"id_str": "1276878114342055937",
+		"full_text": "Google searches related to loss of smell, past seven days https://t.co/rCeGQJmQo9 https://t.co/aj8RaKkswW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rCeGQJmQo9",
+					"expanded_url": "https://trends.google.com/trends/explore?q=%2Fm%2F0m7pl&date=now%207-d&geo=US",
+					"display_url": "trends.google.com/trends/explore…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1276586140837965800,
+					"id_str": "1276586140837965825",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EbdYVNnVcAEVJxS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbdYVNnVcAEVJxS.png",
+					"url": "https://t.co/aj8RaKkswW",
+					"display_url": "pic.twitter.com/aj8RaKkswW",
+					"expanded_url": "https://twitter.com/_cingraham/status/1276586192406843392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1084,
+							"h": 730,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1084,
+							"h": 730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276586140837965800,
+					"id_str": "1276586140837965825",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EbdYVNnVcAEVJxS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EbdYVNnVcAEVJxS.png",
+					"url": "https://t.co/aj8RaKkswW",
+					"display_url": "pic.twitter.com/aj8RaKkswW",
+					"expanded_url": "https://twitter.com/_cingraham/status/1276586192406843392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1084,
+							"h": 730,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1084,
+							"h": 730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452521774,
+			"id_str": "452521774",
+			"name": "Christopher Ingraham",
+			"screen_name": "_cingraham",
+			"location": "Red Lake Falls, MN",
+			"description": "Washington Post data reporter. Born-again Minnesotan. Cricket guy. Proud @PostGuild member. Author of If You Lived Here You'd Be Home By Now.",
+			"url": "https://t.co/0kZWWqfkCs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kZWWqfkCs",
+							"expanded_url": "https://www.amazon.com/You-Lived-Here-Youd-Home/dp/0062861476/",
+							"display_url": "amazon.com/You-Lived-Here…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90102,
+			"friends_count": 1322,
+			"listed_count": 1755,
+			"created_at": "Sun Jan 01 23:27:55 +0000 2012",
+			"favourites_count": 21772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 61925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105133182574223360/m_h-lhSu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105133182574223360/m_h-lhSu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452521774/1573756910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1310,
+		"favorite_count": 3017,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Google searches related to loss of smell, past seven days https://t.co/rCeGQJmQo9 https://t.co/aj8RaKkswW"
+	},
+	{
 		"created_at": "Sat Jun 27 01:20:53 +0000 2020",
 		"id": 1276686907276066800,
 		"id_str": "1276686907276066817",
