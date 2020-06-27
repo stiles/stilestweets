@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 27 21:28:41 +0000 2020",
+		"id": 1276928858004967400,
+		"id_str": "1276990863399243776",
+		"full_text": "The anonymous tips keep coming in, and LAPD officers keep working to confiscate more illegal fireworks—hopefully making it a little quieter for you &amp; your pets.\n\nTo submit an anonymous tip ➡️ https://t.co/Ti3qvwDM7Y\n\nTo report illegal fireworks activity ➡️ https://t.co/KFddggou1k https://t.co/BUFBnpC0bp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ti3qvwDM7Y",
+					"expanded_url": "http://lacrimestoppers.org",
+					"display_url": "lacrimestoppers.org",
+					"indices": [
+						196,
+						219
+					]
+				},
+				{
+					"url": "https://t.co/KFddggou1k",
+					"expanded_url": "https://complaint.lacity.org/Complaint/fireworks/",
+					"display_url": "complaint.lacity.org/Complaint/fire…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1276928848479654000,
+					"id_str": "1276928848479653894",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EbiQBbEUEAYX3uP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbiQBbEUEAYX3uP.jpg",
+					"url": "https://t.co/BUFBnpC0bp",
+					"display_url": "pic.twitter.com/BUFBnpC0bp",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1276928858004967426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276928848479654000,
+					"id_str": "1276928848479653894",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EbiQBbEUEAYX3uP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbiQBbEUEAYX3uP.jpg",
+					"url": "https://t.co/BUFBnpC0bp",
+					"display_url": "pic.twitter.com/BUFBnpC0bp",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1276928858004967426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1276928848475484200,
+					"id_str": "1276928848475484161",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EbiQBbDUcAEtkbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbiQBbDUcAEtkbA.jpg",
+					"url": "https://t.co/BUFBnpC0bp",
+					"display_url": "pic.twitter.com/BUFBnpC0bp",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1276928858004967426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1276928848471314400,
+					"id_str": "1276928848471314432",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EbiQBbCU0AAEKcI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbiQBbCU0AAEKcI.jpg",
+					"url": "https://t.co/BUFBnpC0bp",
+					"display_url": "pic.twitter.com/BUFBnpC0bp",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1276928858004967426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1276928848483856400,
+					"id_str": "1276928848483856384",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EbiQBbFUMAABPIS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbiQBbFUMAABPIS.jpg",
+					"url": "https://t.co/BUFBnpC0bp",
+					"display_url": "pic.twitter.com/BUFBnpC0bp",
+					"expanded_url": "https://twitter.com/LAPDHQ/status/1276928858004967426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 759,
+							"h": 565,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 759,
+							"h": 565,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115705583,
+			"id_str": "115705583",
+			"name": "LAPD HQ",
+			"screen_name": "LAPDHQ",
+			"location": "Los Angeles, CA",
+			"description": "Official account of the LAPD. Not monitored 24/7. Call 911 for emergencies. Facebook-Instagram-SnapChat: LAPDHQ. — Chief of Police: @LAPDChiefMoore",
+			"url": "https://t.co/rRqJpJ9HAP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rRqJpJ9HAP",
+							"expanded_url": "http://www.lapdonline.org/",
+							"display_url": "lapdonline.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188133,
+			"friends_count": 355,
+			"listed_count": 1822,
+			"created_at": "Fri Feb 19 16:34:43 +0000 2010",
+			"favourites_count": 9907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03053D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017942513737273344/YEsPRCof_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017942513737273344/YEsPRCof_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115705583/1553827504",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 301,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The anonymous tips keep coming in, and LAPD officers keep working to confiscate more illegal fireworks—hopefully making it a little quieter for you &amp; your pets.\n\nTo submit an anonymous tip ➡️ https://t.co/Ti3qvwDM7Y\n\nTo report illegal fireworks activity ➡️ https://t.co/KFddggou1k https://t.co/BUFBnpC0bp"
+	},
+	{
 		"created_at": "Sat Jun 27 21:17:00 +0000 2020",
 		"id": 1276912243498791000,
 		"id_str": "1276987920394579970",
