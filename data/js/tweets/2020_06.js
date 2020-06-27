@@ -1,6 +1,699 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 27 21:17:00 +0000 2020",
+		"id": 1276912243498791000,
+		"id_str": "1276987920394579970",
+		"full_text": "The Washington Post has had to change the entire scale of their covid case chart. https://t.co/bvveMidytt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1276912228650963000,
+					"id_str": "1276912228650962951",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EbiA6BYX0AcFhsg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbiA6BYX0AcFhsg.jpg",
+					"url": "https://t.co/bvveMidytt",
+					"display_url": "pic.twitter.com/bvveMidytt",
+					"expanded_url": "https://twitter.com/dansinker/status/1276912243498790912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1285,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 572,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1009,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276912228650963000,
+					"id_str": "1276912228650962951",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EbiA6BYX0AcFhsg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbiA6BYX0AcFhsg.jpg",
+					"url": "https://t.co/bvveMidytt",
+					"display_url": "pic.twitter.com/bvveMidytt",
+					"expanded_url": "https://twitter.com/dansinker/status/1276912243498790912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1285,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 572,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1009,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1276912232220196900,
+					"id_str": "1276912232220196864",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EbiA6OrWAAAyjH9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbiA6OrWAAAyjH9.jpg",
+					"url": "https://t.co/bvveMidytt",
+					"display_url": "pic.twitter.com/bvveMidytt",
+					"expanded_url": "https://twitter.com/dansinker/status/1276912243498790912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 957,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1354,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8119452,
+			"id_str": "8119452",
+			"name": "💀 damned sinker 💀",
+			"screen_name": "dansinker",
+			"location": "Chicago, IL",
+			"description": "I do https://t.co/xyanwamsDC. Co-host of @sayswhopodcast, formerly @opennews, author of @MayorEmanuel, founder of Punk Planet (RIP), #1 Candle King of Kickstarter",
+			"url": "https://t.co/KfjG5DhmVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KfjG5DhmVG",
+							"expanded_url": "http://dansinker.com",
+							"display_url": "dansinker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xyanwamsDC",
+							"expanded_url": "http://impeachment.fyi",
+							"display_url": "impeachment.fyi",
+							"indices": [
+								5,
+								28
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27156,
+			"friends_count": 4062,
+			"listed_count": 1272,
+			"created_at": "Sat Aug 11 05:51:44 +0000 2007",
+			"favourites_count": 94915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 127152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552597001393561600/vhKa2xDz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/8119452/1347983122",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 188,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Washington Post has had to change the entire scale of their covid case chart. https://t.co/bvveMidytt"
+	},
+	{
+		"created_at": "Sat Jun 27 21:16:21 +0000 2020",
+		"id": 1276874963136454700,
+		"id_str": "1276987759794651136",
+		"full_text": "I was born without\nrepresentation, but I\nswear — I will not die\nwithout representation.\nTogether, we will\nachieve #DCStatehood  https://t.co/bk7zLY6ys1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DCStatehood",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bk7zLY6ys1",
+					"expanded_url": "https://www.washingtonpost.com/local/dc-politics/dc-statehood-vote/2020/06/25/c2ac1670-b6ee-11ea-a8da-693df3d7674a_story.html",
+					"display_url": "washingtonpost.com/local/dc-polit…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245571881,
+			"id_str": "245571881",
+			"name": "Muriel Bowser",
+			"screen_name": "MurielBowser",
+			"location": "Washington DC",
+			"description": "I’m the Mayor of my hometown & soon to be the 51st State: Washington DC. A #fairshot for every single D.C. resident. Period. #pathwaytothemiddleclass",
+			"url": "https://t.co/Jvoyca5JCH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jvoyca5JCH",
+							"expanded_url": "http://Murielourmayor.com",
+							"display_url": "Murielourmayor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146888,
+			"friends_count": 1007,
+			"listed_count": 1039,
+			"created_at": "Tue Feb 01 00:28:10 +0000 2011",
+			"favourites_count": 10918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/911246015780524040/KQSaQcVN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/911246015780524040/KQSaQcVN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245571881/1474731383",
+			"profile_link_color": "00A669",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 709,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was born without\nrepresentation, but I\nswear — I will not die\nwithout representation.\nTogether, we will\nachieve #DCStatehood  https://t.co/bk7zLY6ys1"
+	},
+	{
+		"created_at": "Sat Jun 27 20:44:04 +0000 2020",
+		"id": 1276742238882508800,
+		"id_str": "1276979633338998784",
+		"full_text": "If even the North Korea experts agree, can't America? https://t.co/AcLVf4ndLF https://t.co/fLuen4YKxw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AcLVf4ndLF",
+					"expanded_url": "https://twitter.com/VictorDCha/status/1276562029155946499",
+					"display_url": "twitter.com/VictorDCha/sta…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1276742162516865000,
+					"id_str": "1276742162516865024",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EbfmO3qU8AAyIaD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbfmO3qU8AAyIaD.jpg",
+					"url": "https://t.co/fLuen4YKxw",
+					"display_url": "pic.twitter.com/fLuen4YKxw",
+					"expanded_url": "https://twitter.com/JohnDelury/status/1276742238882508800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276742162516865000,
+					"id_str": "1276742162516865024",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EbfmO3qU8AAyIaD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbfmO3qU8AAyIaD.jpg",
+					"url": "https://t.co/fLuen4YKxw",
+					"display_url": "pic.twitter.com/fLuen4YKxw",
+					"expanded_url": "https://twitter.com/JohnDelury/status/1276742238882508800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14906658,
+			"id_str": "14906658",
+			"name": "John Delury",
+			"screen_name": "JohnDelury",
+			"location": "Seoul",
+			"description": "Yonsei University Professor",
+			"url": "https://t.co/3yoK7siWqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3yoK7siWqC",
+							"expanded_url": "http://johndelury.weebly.com/",
+							"display_url": "johndelury.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13770,
+			"friends_count": 1823,
+			"listed_count": 522,
+			"created_at": "Mon May 26 08:20:13 +0000 2008",
+			"favourites_count": 2374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228901707381268482/EwfXiKvF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14906658/1582330822",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276562029155946500,
+		"quoted_status_id_str": "1276562029155946499",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AcLVf4ndLF",
+			"expanded": "https://twitter.com/VictorDCha/status/1276562029155946499",
+			"display": "twitter.com/VictorDCha/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 26 17:04:39 +0000 2020",
+			"id": 1276562029155946500,
+			"id_str": "1276562029155946499",
+			"full_text": "Just wear it! Doesn’t mean u r a D or R. Doesn’t mean Big Brother. Doesn’t mean u like Donny or Joe. It means you care about your loved ones and your fellow citizens. Nothing more. #getoverit https://t.co/uAFLDH4O82",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "getoverit",
+						"indices": [
+							181,
+							191
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1276562016388423700,
+						"id_str": "1276562016388423681",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/EbdCY_CWoAE6fv8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbdCY_CWoAE6fv8.jpg",
+						"url": "https://t.co/uAFLDH4O82",
+						"display_url": "pic.twitter.com/uAFLDH4O82",
+						"expanded_url": "https://twitter.com/VictorDCha/status/1276562029155946499/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 902,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1539,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1276562016388423700,
+						"id_str": "1276562016388423681",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/EbdCY_CWoAE6fv8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbdCY_CWoAE6fv8.jpg",
+						"url": "https://t.co/uAFLDH4O82",
+						"display_url": "pic.twitter.com/uAFLDH4O82",
+						"expanded_url": "https://twitter.com/VictorDCha/status/1276562029155946499/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 902,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1539,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89033164,
+				"id_str": "89033164",
+				"name": "Victor Cha",
+				"screen_name": "VictorDCha",
+				"location": "Washington, DC",
+				"description": "@Georgetownsfs Prof & Vice Dean/@CSIS SeniorAdviser/Author/former USG official/ @NBCNews / 110th Bdwy native/NYGiants/ Views my own/RTs don’t endorse",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19999,
+				"friends_count": 435,
+				"listed_count": 500,
+				"created_at": "Tue Nov 10 21:59:37 +0000 2009",
+				"favourites_count": 926,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2538,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1177837755935543296/iCjKt-GT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177837755935543296/iCjKt-GT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89033164/1503640690",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 94,
+			"favorite_count": 569,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 80,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If even the North Korea experts agree, can't America? https://t.co/AcLVf4ndLF https://t.co/fLuen4YKxw"
+	},
+	{
 		"created_at": "Sat Jun 27 19:38:05 +0000 2020",
 		"id": 1276963029154848800,
 		"id_str": "1276963029154848768",
