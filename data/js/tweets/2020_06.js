@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 28 21:49:32 +0000 2020",
+		"id": 1277353562893283300,
+		"id_str": "1277358495302471680",
+		"full_text": "I'd recommend these two very good WSJ stories on 1) what we've learned about how the virus is transmitted and 2) how bars and their owners are in a really tough spot\nhttps://t.co/hW8IeAsXCm\nhttps://t.co/EFyIoXjUNV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hW8IeAsXCm",
+					"expanded_url": "https://www.wsj.com/articles/how-exactly-do-you-catch-covid-19-there-is-a-growing-consensus-11592317650",
+					"display_url": "wsj.com/articles/how-e…",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/EFyIoXjUNV",
+					"expanded_url": "https://www.wsj.com/articles/bars-get-snagged-in-covid-19-reopening-reversals-11593359937",
+					"display_url": "wsj.com/articles/bars-…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1277353120213811200,
+		"in_reply_to_status_id_str": "1277353120213811200",
+		"in_reply_to_user_id": 244701234,
+		"in_reply_to_user_id_str": "244701234",
+		"in_reply_to_screen_name": "skarlamangla",
+		"user": {
+			"id": 244701234,
+			"id_str": "244701234",
+			"name": "Soumya",
+			"screen_name": "skarlamangla",
+			"location": "Los Angeles, California",
+			"description": "health reporter at the Los Angeles Times. former rosalynn carter mental health fellow. call me beep me if you want to reach me: soumya.karlamangla@latimes.com",
+			"url": "https://t.co/G9r2ACbsrI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G9r2ACbsrI",
+							"expanded_url": "http://www.latimes.com/la-bio-soumya-karlamangla-staff.html",
+							"display_url": "latimes.com/la-bio-soumya-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15799,
+			"friends_count": 2747,
+			"listed_count": 554,
+			"created_at": "Sat Jan 29 23:03:33 +0000 2011",
+			"favourites_count": 12230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019061820068261890/UKFbU45L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019061820068261890/UKFbU45L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/244701234/1484020302",
+			"profile_link_color": "D4513F",
+			"profile_sidebar_border_color": "929C7A",
+			"profile_sidebar_fill_color": "958C6B",
+			"profile_text_color": "BD9679",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'd recommend these two very good WSJ stories on 1) what we've learned about how the virus is transmitted and 2) how bars and their owners are in a really tough spot\nhttps://t.co/hW8IeAsXCm\nhttps://t.co/EFyIoXjUNV"
+	},
+	{
 		"created_at": "Sun Jun 28 20:25:12 +0000 2020",
 		"id": 1277337274519175200,
 		"id_str": "1277337274519175169",
