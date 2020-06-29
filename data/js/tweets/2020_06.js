@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 19:55:12 +0000 2020",
+		"id": 1277692111945470000,
+		"id_str": "1277692111945469952",
+		"full_text": "#quarantigue https://t.co/22AMyqnlQp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quarantigue",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/22AMyqnlQp",
+					"expanded_url": "https://twitter.com/lapublichealth/status/1277667185851129856",
+					"display_url": "twitter.com/lapublichealth…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11473,
+			"friends_count": 2140,
+			"listed_count": 859,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1277667185851129900,
+		"quoted_status_id_str": "1277667185851129856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/22AMyqnlQp",
+			"expanded": "https://twitter.com/lapublichealth/status/1277667185851129856",
+			"display": "twitter.com/lapublichealth…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 29 18:16:09 +0000 2020",
+			"id": 1277667185851129900,
+			"id_str": "1277667185851129856",
+			"full_text": "If you haven’t felt as motivated to follow health guidelines, you’re not alone. Quarantine fatigue is real, but we can’t give up just yet. Here are some ways to deal with Quarantigue. https://t.co/zL9THkhfW6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1277664958981890000,
+						"id_str": "1277664958981890050",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/EbstgsYUYAIfWiZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbstgsYUYAIfWiZ.jpg",
+						"url": "https://t.co/zL9THkhfW6",
+						"display_url": "pic.twitter.com/zL9THkhfW6",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1277667185851129856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1277664958981890000,
+						"id_str": "1277664958981890050",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/EbstgsYUYAIfWiZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbstgsYUYAIfWiZ.jpg",
+						"url": "https://t.co/zL9THkhfW6",
+						"display_url": "pic.twitter.com/zL9THkhfW6",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1277667185851129856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1277665045241946000,
+						"id_str": "1277665045241946112",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/EbstltuUYAAPg4D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbstltuUYAAPg4D.jpg",
+						"url": "https://t.co/zL9THkhfW6",
+						"display_url": "pic.twitter.com/zL9THkhfW6",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1277667185851129856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1277665069354987500,
+						"id_str": "1277665069354987520",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/EbstnHjUMAAwS1a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbstnHjUMAAwS1a.jpg",
+						"url": "https://t.co/zL9THkhfW6",
+						"display_url": "pic.twitter.com/zL9THkhfW6",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1277667185851129856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1277665091198967800,
+						"id_str": "1277665091198967808",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/EbstoY7U4AA-OaG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbstoY7U4AA-OaG.jpg",
+						"url": "https://t.co/zL9THkhfW6",
+						"display_url": "pic.twitter.com/zL9THkhfW6",
+						"expanded_url": "https://twitter.com/lapublichealth/status/1277667185851129856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38287098,
+				"id_str": "38287098",
+				"name": "LA Public Health",
+				"screen_name": "lapublichealth",
+				"location": "Los Angeles, California",
+				"description": "Committed to protecting & improving the health of the over 10 million residents of #LACounty. Follow for #HealthAlerts & #HealthTips. #PublicHealth",
+				"url": "https://t.co/Fiv01QwVHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Fiv01QwVHL",
+								"expanded_url": "http://publichealth.lacounty.gov",
+								"display_url": "publichealth.lacounty.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 64686,
+				"friends_count": 631,
+				"listed_count": 904,
+				"created_at": "Wed May 06 21:57:05 +0000 2009",
+				"favourites_count": 1424,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7999,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/932650823296851968/vZPTEaVS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38287098/1527611465",
+				"profile_link_color": "00205B",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DCE7EA",
+				"profile_text_color": "404040",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#quarantigue https://t.co/22AMyqnlQp"
+	},
+	{
 		"created_at": "Mon Jun 29 02:40:27 +0000 2020",
 		"id": 1277429837670514700,
 		"id_str": "1277431708732678145",
