@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 23:05:21 +0000 2020",
+		"id": 1277739759788572700,
+		"id_str": "1277739965368037376",
+		"full_text": "The airline industry blocked disclosure of trade data, helping conceal the airlift of N95 masks from the U.S. to China https://t.co/iJYUg8LjfG by @lhfang",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lhfang",
+					"name": "Lee Fang",
+					"id": 7900962,
+					"id_str": "7900962",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iJYUg8LjfG",
+					"expanded_url": "https://interc.pt/389qZlv",
+					"display_url": "interc.pt/389qZlv",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15243240,
+			"id_str": "15243240",
+			"name": "Margot Williams @home",
+			"screen_name": "MargotWilliams",
+			"location": "Washington DC",
+			"description": "Research Editor at The Intercept. M.S. Library & Info Science. I use many, many stats. Bio & PGP Key at https://t.co/K0668txP4P",
+			"url": "https://t.co/K0668txP4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K0668txP4P",
+							"expanded_url": "https://firstlook.org/theintercept/staff/margotwilliams/",
+							"display_url": "firstlook.org/theintercept/s…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K0668txP4P",
+							"expanded_url": "https://firstlook.org/theintercept/staff/margotwilliams/",
+							"display_url": "firstlook.org/theintercept/s…",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5219,
+			"friends_count": 1501,
+			"listed_count": 302,
+			"created_at": "Thu Jun 26 12:11:51 +0000 2008",
+			"favourites_count": 10722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226503814720753666/O-A4ufSP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226503814720753666/O-A4ufSP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15243240/1530728076",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The airline industry blocked disclosure of trade data, helping conceal the airlift of N95 masks from the U.S. to China https://t.co/iJYUg8LjfG by @lhfang"
+	},
+	{
 		"created_at": "Mon Jun 29 20:44:31 +0000 2020",
 		"id": 1277704522886836200,
 		"id_str": "1277704522886836224",
