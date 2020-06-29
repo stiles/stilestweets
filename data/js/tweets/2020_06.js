@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 02:40:27 +0000 2020",
+		"id": 1277429837670514700,
+		"id_str": "1277431708732678145",
+		"full_text": "@wendymac Their loss! Happy Pride, Wendy!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wendymac",
+					"name": "wendy macnaughton",
+					"id": 8412262,
+					"id_str": "8412262",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1277428787068559400,
+		"in_reply_to_status_id_str": "1277428787068559362",
+		"in_reply_to_user_id": 8412262,
+		"in_reply_to_user_id_str": "8412262",
+		"in_reply_to_screen_name": "wendymac",
+		"user": {
+			"id": 226974478,
+			"id_str": "226974478",
+			"name": "Amy Rosenbaum",
+			"screen_name": "amyrobot",
+			"location": "Brooklyn",
+			"description": "UX writer & researcher @LaurelRoad. Loves puns and poetry. Disco isn't dead. (she/her)",
+			"url": "https://t.co/YhTy9g1DwE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YhTy9g1DwE",
+							"expanded_url": "http://www.amyrosenbaum.com",
+							"display_url": "amyrosenbaum.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1759,
+			"friends_count": 793,
+			"listed_count": 102,
+			"created_at": "Wed Dec 15 15:39:01 +0000 2010",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856881938115710977/Ac9UMAaV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856881938115710977/Ac9UMAaV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226974478/1398222572",
+			"profile_link_color": "027A28",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "011add077f4d2da3",
+			"url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+			"place_type": "city",
+			"name": "Brooklyn",
+			"full_name": "Brooklyn, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.041878,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.570842
+						],
+						[
+							-73.855673,
+							40.739434
+						],
+						[
+							-74.041878,
+							40.739434
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@wendymac Their loss! Happy Pride, Wendy!"
+	},
+	{
 		"created_at": "Sun Jun 28 21:49:32 +0000 2020",
 		"id": 1277353562893283300,
 		"id_str": "1277358495302471680",
