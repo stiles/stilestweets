@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 14:37:27 +0000 2020",
+		"id": 1277973363978199000,
+		"id_str": "1277974533387902978",
+		"full_text": "Two weeks ago. https://t.co/thi4ma8pPF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277973311419322400,
+					"id_str": "1277973311419322369",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EbxF9KuUEAEKbrd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbxF9KuUEAEKbrd.jpg",
+					"url": "https://t.co/thi4ma8pPF",
+					"display_url": "pic.twitter.com/thi4ma8pPF",
+					"expanded_url": "https://twitter.com/_cingraham/status/1277973363978199041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1132,
+							"h": 434,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1132,
+							"h": 434,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 261,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277973311419322400,
+					"id_str": "1277973311419322369",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EbxF9KuUEAEKbrd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbxF9KuUEAEKbrd.jpg",
+					"url": "https://t.co/thi4ma8pPF",
+					"display_url": "pic.twitter.com/thi4ma8pPF",
+					"expanded_url": "https://twitter.com/_cingraham/status/1277973363978199041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1132,
+							"h": 434,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1132,
+							"h": 434,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 261,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452521774,
+			"id_str": "452521774",
+			"name": "Christopher Ingraham",
+			"screen_name": "_cingraham",
+			"location": "Red Lake Falls, MN",
+			"description": "Washington Post data reporter. Born-again Minnesotan. Cricket guy. Proud @PostGuild member. Author of If You Lived Here You'd Be Home By Now.",
+			"url": "https://t.co/0kZWWqfkCs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kZWWqfkCs",
+							"expanded_url": "https://www.amazon.com/You-Lived-Here-Youd-Home/dp/0062861476/",
+							"display_url": "amazon.com/You-Lived-Here…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90137,
+			"friends_count": 1323,
+			"listed_count": 1755,
+			"created_at": "Sun Jan 01 23:27:55 +0000 2012",
+			"favourites_count": 21793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 62022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105133182574223360/m_h-lhSu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105133182574223360/m_h-lhSu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452521774/1573756910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Two weeks ago. https://t.co/thi4ma8pPF"
+	},
+	{
+		"created_at": "Tue Jun 30 14:35:42 +0000 2020",
+		"id": 1277764610167320600,
+		"id_str": "1277974094667935745",
+		"full_text": "RIP Betsy Rothstein, who delighted in puncturing the bloated egos of the press corps and lived life to its fullest. Here is a tribute from her friend ⁦@TuckerCarlson⁩  https://t.co/iFQ8KNGxZS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TuckerCarlson",
+					"name": "Tucker Carlson",
+					"id": 22703645,
+					"id_str": "22703645",
+					"indices": [
+						151,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iFQ8KNGxZS",
+					"expanded_url": "https://dailycaller.com/2020/06/29/betsy-rothstein-tucker-carlson-daily-caller-washington-dc-journalism/",
+					"display_url": "dailycaller.com/2020/06/29/bet…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123327472,
+			"id_str": "123327472",
+			"name": "Peter Baker",
+			"screen_name": "peterbakernyt",
+			"location": "",
+			"description": "Chief White House Correspondent for The New York Times and MSNBC analyst. Proud husband of Susan Glasser of the New Yorker and CNN.",
+			"url": "https://t.co/UmqCI5AhUx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmqCI5AhUx",
+							"expanded_url": "http://www.nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 432479,
+			"friends_count": 2785,
+			"listed_count": 5138,
+			"created_at": "Mon Mar 15 18:55:27 +0000 2010",
+			"favourites_count": 4854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "08090A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/821603222544596994/VlQaklD5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/821603222544596994/VlQaklD5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123327472/1484720732",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RIP Betsy Rothstein, who delighted in puncturing the bloated egos of the press corps and lived life to its fullest. Here is a tribute from her friend ⁦@TuckerCarlson⁩  https://t.co/iFQ8KNGxZS"
+	},
+	{
 		"created_at": "Tue Jun 30 03:38:20 +0000 2020",
 		"id": 1276260004320776200,
 		"id_str": "1277808662774345728",
