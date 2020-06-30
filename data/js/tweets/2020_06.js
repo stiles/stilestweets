@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 01:51:07 +0000 2020",
+		"id": 1277781680627937300,
+		"id_str": "1277781680627937280",
+		"full_text": "Same https://t.co/AyCIYHKzVu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AyCIYHKzVu",
+					"expanded_url": "https://twitter.com/omojumiller/status/1277779870148210688",
+					"display_url": "twitter.com/omojumiller/st…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11473,
+			"friends_count": 2141,
+			"listed_count": 859,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1277779870148210700,
+		"quoted_status_id_str": "1277779870148210688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AyCIYHKzVu",
+			"expanded": "https://twitter.com/omojumiller/status/1277779870148210688",
+			"display": "twitter.com/omojumiller/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 30 01:43:55 +0000 2020",
+			"id": 1277779870148210700,
+			"id_str": "1277779870148210688",
+			"full_text": "@matvelloso Everytime I have to do anything in pandas, I type\n\nChris Albon Pandas .........\n\n@chrisalbon saves me every time.",
+			"truncated": false,
+			"display_text_range": [
+				12,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "matvelloso",
+						"name": "Mat Velloso",
+						"id": 35414986,
+						"id_str": "35414986",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "chrisalbon",
+						"name": "Chris Albon",
+						"id": 11518572,
+						"id_str": "11518572",
+						"indices": [
+							93,
+							104
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1277741179233132500,
+			"in_reply_to_status_id_str": "1277741179233132544",
+			"in_reply_to_user_id": 35414986,
+			"in_reply_to_user_id_str": "35414986",
+			"in_reply_to_screen_name": "matvelloso",
+			"user": {
+				"id": 303569935,
+				"id_str": "303569935",
+				"name": "OMOJU",
+				"screen_name": "omojumiller",
+				"location": "Bay Area, CA",
+				"description": "Technical Advisor to the CEO at GitHub | Data person | #Naija | Opinions mine.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7018,
+				"friends_count": 683,
+				"listed_count": 377,
+				"created_at": "Mon May 23 03:14:47 +0000 2011",
+				"favourites_count": 34451,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19056,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245410799293583360/W_QfcGdc_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245410799293583360/W_QfcGdc_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/303569935/1536181262",
+				"profile_link_color": "620F99",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Same https://t.co/AyCIYHKzVu"
+	},
+	{
 		"created_at": "Mon Jun 29 23:05:21 +0000 2020",
 		"id": 1277739759788572700,
 		"id_str": "1277739965368037376",
