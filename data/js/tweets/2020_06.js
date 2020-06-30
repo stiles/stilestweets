@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 03:38:20 +0000 2020",
+		"id": 1276260004320776200,
+		"id_str": "1277808662774345728",
+		"full_text": "Listen to @SarahKSilverman -- but please DON’T lick people’s teeth.\n\nPlease DO wear a mask. https://t.co/pqXCWUz2SV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahKSilverman",
+					"name": "Sarah Silverman",
+					"id": 30364057,
+					"id_str": "30364057",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1276246856842936300,
+					"id_str": "1276246856842936320",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EbYnTIsU4AA9dTJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbYnTIsU4AA9dTJ.jpg",
+					"url": "https://t.co/pqXCWUz2SV",
+					"display_url": "pic.twitter.com/pqXCWUz2SV",
+					"expanded_url": "https://twitter.com/CAgovernor/status/1276258615851020288/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1276258615851020300,
+					"source_status_id_str": "1276258615851020288",
+					"source_user_id": 38349184,
+					"source_user_id_str": "38349184"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276246856842936300,
+					"id_str": "1276246856842936320",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EbYnTIsU4AA9dTJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbYnTIsU4AA9dTJ.jpg",
+					"url": "https://t.co/pqXCWUz2SV",
+					"display_url": "pic.twitter.com/pqXCWUz2SV",
+					"expanded_url": "https://twitter.com/CAgovernor/status/1276258615851020288/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1276258615851020300,
+					"source_status_id_str": "1276258615851020288",
+					"source_user_id": 38349184,
+					"source_user_id_str": "38349184",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45840,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1276246856842936320/vid/480x270/BcvkTgyNIUuQjUmP.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1276246856842936320/vid/1280x720/Qa6SeytvlpnkdmvX.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1276246856842936320/vid/640x360/lq19kNMSnHPaut2Y.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1276246856842936320/pl/sMqtTgZe4_vMDQs5.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 38349184,
+							"id_str": "38349184",
+							"name": "Office of the Governor of California",
+							"screen_name": "CAgovernor",
+							"location": "Sacramento, CA",
+							"description": "Official Twitter of the Office of the Governor of California Gavin Newsom. #CaliforniaForAll 📍For the latest #COVID19 information ➡️https://t.co/84A7r5WtRo",
+							"url": "https://t.co/84A7r5WtRo",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/84A7r5WtRo",
+											"expanded_url": "http://covid19.ca.gov",
+											"display_url": "covid19.ca.gov",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/84A7r5WtRo",
+											"expanded_url": "http://covid19.ca.gov",
+											"display_url": "covid19.ca.gov",
+											"indices": [
+												132,
+												155
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 218259,
+							"friends_count": 231,
+							"listed_count": 2470,
+							"created_at": "Thu May 07 02:45:40 +0000 2009",
+							"favourites_count": 597,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 3626,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "253B5A",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1185210930365251584/U9SwyRZu_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185210930365251584/U9SwyRZu_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/38349184/1589477756",
+							"profile_link_color": "126C9C",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DFE6F0",
+							"profile_text_color": "253B5A",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11347122,
+			"id_str": "11347122",
+			"name": "Gavin Newsom",
+			"screen_name": "GavinNewsom",
+			"location": "California",
+			"description": "Husband and father. 40th Governor of California. Former Lt. Governor of California. Former San Francisco Mayor. Personal account.",
+			"url": "https://t.co/FY42VMHC5n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FY42VMHC5n",
+							"expanded_url": "http://www.instagram.com/gavinnewsom",
+							"display_url": "instagram.com/gavinnewsom",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1801467,
+			"friends_count": 23051,
+			"listed_count": 8834,
+			"created_at": "Wed Dec 19 19:53:42 +0000 2007",
+			"favourites_count": 4555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000D48",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275898304358789121/9dE59bQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275898304358789121/9dE59bQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11347122/1593149984",
+			"profile_link_color": "000D48",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "B28251",
+			"profile_text_color": "8A795F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3164,
+		"favorite_count": 13302,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen to @SarahKSilverman -- but please DON’T lick people’s teeth.\n\nPlease DO wear a mask. https://t.co/pqXCWUz2SV"
+	},
+	{
 		"created_at": "Tue Jun 30 01:51:07 +0000 2020",
 		"id": 1277781680627937300,
 		"id_str": "1277781680627937280",
