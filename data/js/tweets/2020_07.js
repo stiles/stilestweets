@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 19:54:47 +0000 2020",
+		"id": 1278779171179647000,
+		"id_str": "1278779171179646976",
+		"full_text": "More. I need more. https://t.co/0N11eIMy5h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0N11eIMy5h",
+					"expanded_url": "https://twitter.com/BLS_gov/status/1278735186793021446",
+					"display_url": "twitter.com/BLS_gov/status…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11476,
+			"friends_count": 2142,
+			"listed_count": 859,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1278735186793021400,
+		"quoted_status_id_str": "1278735186793021446",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0N11eIMy5h",
+			"expanded": "https://twitter.com/BLS_gov/status/1278735186793021446",
+			"display": "twitter.com/BLS_gov/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 02 17:00:00 +0000 2020",
+			"id": 1278735186793021400,
+			"id_str": "1278735186793021446",
+			"full_text": "Men spent 5.5 hours per day in leisure activities, women 4.9 hours, in 2019 https://t.co/6Tf3waGNAs #ATUS #BLSdata https://t.co/01uBKHI0bg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ATUS",
+						"indices": [
+							100,
+							105
+						]
+					},
+					{
+						"text": "BLSdata",
+						"indices": [
+							106,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6Tf3waGNAs",
+						"expanded_url": "https://go.usa.gov/xwSD7",
+						"display_url": "go.usa.gov/xwSD7",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1278731600549691400,
+						"id_str": "1278731600549691393",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Eb73nZ3UwAE5fSd.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eb73nZ3UwAE5fSd.png",
+						"url": "https://t.co/01uBKHI0bg",
+						"display_url": "pic.twitter.com/01uBKHI0bg",
+						"expanded_url": "https://twitter.com/BLS_gov/status/1278735186793021446/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 580,
+								"h": 430,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 430,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 580,
+								"h": 430,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1278731600549691400,
+						"id_str": "1278731600549691393",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Eb73nZ3UwAE5fSd.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eb73nZ3UwAE5fSd.png",
+						"url": "https://t.co/01uBKHI0bg",
+						"display_url": "pic.twitter.com/01uBKHI0bg",
+						"expanded_url": "https://twitter.com/BLS_gov/status/1278735186793021446/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 580,
+								"h": 430,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 430,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 580,
+								"h": 430,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 612896910,
+				"id_str": "612896910",
+				"name": "BLS-Labor Statistics",
+				"screen_name": "BLS_gov",
+				"location": "",
+				"description": "BLS has a stat for that! Statistics you can trust to make informed decisions, whether you're a worker, jobseeker, student, employer, investor, or policymaker.",
+				"url": "https://t.co/mPrvkIthYq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mPrvkIthYq",
+								"expanded_url": "https://www.bls.gov",
+								"display_url": "bls.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 66395,
+				"friends_count": 108,
+				"listed_count": 2143,
+				"created_at": "Tue Jun 19 19:58:49 +0000 2012",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6479,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278296106414284800/tXjZVIBW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278296106414284800/tXjZVIBW_normal.png",
+				"profile_link_color": "0F288C",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "0084B4",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More. I need more. https://t.co/0N11eIMy5h"
+	},
+	{
 		"created_at": "Wed Jul 01 16:26:36 +0000 2020",
 		"id": 1278364390798975000,
 		"id_str": "1278364390798974976",
