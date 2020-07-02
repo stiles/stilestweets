@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 22:04:48 +0000 2020",
+		"id": 1278811462111309800,
+		"id_str": "1278811890768986112",
+		"full_text": "Still get many questions and comments on what business leaders can learn from Samsung and Korea. Lesson is state support for long-term hardware investments, which you don't have. Sorry but that's all.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 553855829,
+			"id_str": "553855829",
+			"name": "Geoffrey Cain",
+			"screen_name": "geoffrey_cain",
+			"location": "Istanbul, Turkey",
+			"description": "Author, SAMSUNG RISING: The Inside Story of the South Korean Giant That Set Out to Beat Apple and Conquer Tech. Jazz trombonist. https://t.co/iYDMWOjacC",
+			"url": "https://t.co/bXDXYyFtS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bXDXYyFtS0",
+							"expanded_url": "http://prh.com/samsungrising",
+							"display_url": "prh.com/samsungrising",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iYDMWOjacC",
+							"expanded_url": "http://geoffreycain.net",
+							"display_url": "geoffreycain.net",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5509,
+			"friends_count": 1066,
+			"listed_count": 193,
+			"created_at": "Sat Apr 14 21:44:24 +0000 2012",
+			"favourites_count": 3639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235227142344060930/65vwtfoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235227142344060930/65vwtfoq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/553855829/1578476107",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Still get many questions and comments on what business leaders can learn from Samsung and Korea. Lesson is state support for long-term hardware investments, which you don't have. Sorry but that's all."
+	},
+	{
 		"created_at": "Thu Jul 02 20:50:52 +0000 2020",
 		"id": 1278793283674636300,
 		"id_str": "1278793283674636289",
