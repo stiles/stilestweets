@@ -1,6 +1,943 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 03 17:34:38 +0000 2020",
+		"id": 1279106114483679200,
+		"id_str": "1279106286534025217",
+		"full_text": "My reporter friend at the LA Times did some digging into the fireworks thing. Turns out we weren't tripping. Read this. https://t.co/0C5rj3INeY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0C5rj3INeY",
+					"expanded_url": "https://twitter.com/stiles/status/1279104998840791040",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1206035390,
+			"id_str": "1206035390",
+			"name": "A Pimp Named Auntie",
+			"screen_name": "thejournalista",
+			"location": "Los Angeles",
+			"description": "News Editor by day. Storyteller always. \nPitches for The Root? monique.judge@theroot.com\notherwise monique@thejournalista.com",
+			"url": "https://t.co/xaj4RHzkm2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xaj4RHzkm2",
+							"expanded_url": "http://Kinja.com/thejournalista",
+							"display_url": "Kinja.com/thejournalista",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26746,
+			"friends_count": 2044,
+			"listed_count": 378,
+			"created_at": "Thu Feb 21 21:17:46 +0000 2013",
+			"favourites_count": 9791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267086438085980160/vb5nCWSw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267086438085980160/vb5nCWSw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1206035390/1576117796",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1279104998840791000,
+		"quoted_status_id_str": "1279104998840791040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0C5rj3INeY",
+			"expanded": "https://twitter.com/stiles/status/1279104998840791040",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 03 17:29:31 +0000 2020",
+			"id": 1279104998840791000,
+			"id_str": "1279104998840791040",
+			"full_text": "Thread: Took a deep dive with @kevrector into @LAPDHQ dispatch logs and citation records to get at a burning question: What's up with all the fireworks in L.A. this year?  https://t.co/74QXrxnmly",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kevrector",
+						"name": "Kevin Rector",
+						"id": 292521710,
+						"id_str": "292521710",
+						"indices": [
+							30,
+							40
+						]
+					},
+					{
+						"screen_name": "LAPDHQ",
+						"name": "LAPD HQ",
+						"id": 115705583,
+						"id_str": "115705583",
+						"indices": [
+							46,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/74QXrxnmly",
+						"expanded_url": "https://www.latimes.com/projects/la-fireworks-complaints-lapd-response/",
+						"display_url": "latimes.com/projects/la-fi…",
+						"indices": [
+							172,
+							195
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles",
+				"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11477,
+				"friends_count": 2143,
+				"listed_count": 859,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 8980,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16024,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+				"profile_link_color": "B12E35",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 20,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My reporter friend at the LA Times did some digging into the fireworks thing. Turns out we weren't tripping. Read this. https://t.co/0C5rj3INeY"
+	},
+	{
+		"created_at": "Fri Jul 03 17:29:32 +0000 2020",
+		"id": 1279105004406665200,
+		"id_str": "1279105004406665216",
+		"full_text": "5. The analysis was possible thanks to the city's open-data portal, which has a decade of citations and \"calls for service\" data. I'll try to share the code soon. cc @thejournalista\n\nCalls https://t.co/a0W2MRF1TK\n\nCitations https://t.co/ZdmVZnKsvn\n \nStory: https://t.co/74QXrxnmly https://t.co/biqyNtqSIq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thejournalista",
+					"name": "A Pimp Named Auntie",
+					"id": 1206035390,
+					"id_str": "1206035390",
+					"indices": [
+						166,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a0W2MRF1TK",
+					"expanded_url": "https://data.lacity.org/browse?q=calls%20for%20service&sortBy=relevance",
+					"display_url": "data.lacity.org/browse?q=calls…",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/ZdmVZnKsvn",
+					"expanded_url": "https://data.lacity.org/browse?q=arrests&sortBy=relevance",
+					"display_url": "data.lacity.org/browse?q=arres…",
+					"indices": [
+						224,
+						247
+					]
+				},
+				{
+					"url": "https://t.co/74QXrxnmly",
+					"expanded_url": "https://www.latimes.com/projects/la-fireworks-complaints-lapd-response/",
+					"display_url": "latimes.com/projects/la-fi…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279104739636961300,
+					"id_str": "1279104739636961280",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EcBK-9SUYAA8mKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcBK-9SUYAA8mKG.jpg",
+					"url": "https://t.co/biqyNtqSIq",
+					"display_url": "pic.twitter.com/biqyNtqSIq",
+					"expanded_url": "https://twitter.com/stiles/status/1279105004406665216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1490,
+							"h": 728,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279104739636961300,
+					"id_str": "1279104739636961280",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EcBK-9SUYAA8mKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcBK-9SUYAA8mKG.jpg",
+					"url": "https://t.co/biqyNtqSIq",
+					"display_url": "pic.twitter.com/biqyNtqSIq",
+					"expanded_url": "https://twitter.com/stiles/status/1279105004406665216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1490,
+							"h": 728,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1279105003693551600,
+		"in_reply_to_status_id_str": "1279105003693551616",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11477,
+			"friends_count": 2143,
+			"listed_count": 859,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5. The analysis was possible thanks to the city's open-data portal, which has a decade of citations and \"calls for service\" data. I'll try to share the code soon. cc @thejournalista\n\nCalls https://t.co/a0W2MRF1TK\n\nCitations https://t.co/ZdmVZnKsvn\n \nStory: https://t.co/74QXrxnmly https://t.co/biqyNtqSIq"
+	},
+	{
+		"created_at": "Fri Jul 03 17:29:32 +0000 2020",
+		"id": 1279105003693551600,
+		"id_str": "1279105003693551616",
+		"full_text": "4. The @LAPDHQ told us they recognize that fireworks noise is a \"quality of life\" issue but that the department generally defers to its officers' discretion about public safety enforcement. https://t.co/74QXrxnmly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LAPDHQ",
+					"name": "LAPD HQ",
+					"id": 115705583,
+					"id_str": "115705583",
+					"indices": [
+						7,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/74QXrxnmly",
+					"expanded_url": "https://www.latimes.com/projects/la-fireworks-complaints-lapd-response/",
+					"display_url": "latimes.com/projects/la-fi…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1279105001588002800,
+		"in_reply_to_status_id_str": "1279105001588002816",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11477,
+			"friends_count": 2143,
+			"listed_count": 859,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4. The @LAPDHQ told us they recognize that fireworks noise is a \"quality of life\" issue but that the department generally defers to its officers' discretion about public safety enforcement. https://t.co/74QXrxnmly"
+	},
+	{
+		"created_at": "Fri Jul 03 17:29:31 +0000 2020",
+		"id": 1279105001588002800,
+		"id_str": "1279105001588002816",
+		"full_text": "3. The rate of complaints varied across the LAPD's various reporting districts. We mapped them so you can see which areas had comparatively more complaints: https://t.co/74QXrxnmly https://t.co/N0b5XsxW4h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/74QXrxnmly",
+					"expanded_url": "https://www.latimes.com/projects/la-fireworks-complaints-lapd-response/",
+					"display_url": "latimes.com/projects/la-fi…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279102259813511200,
+					"id_str": "1279102259813511169",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EcBIunOVcAE-znp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcBIunOVcAE-znp.jpg",
+					"url": "https://t.co/N0b5XsxW4h",
+					"display_url": "pic.twitter.com/N0b5XsxW4h",
+					"expanded_url": "https://twitter.com/stiles/status/1279105001588002816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 703,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279102259813511200,
+					"id_str": "1279102259813511169",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EcBIunOVcAE-znp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcBIunOVcAE-znp.jpg",
+					"url": "https://t.co/N0b5XsxW4h",
+					"display_url": "pic.twitter.com/N0b5XsxW4h",
+					"expanded_url": "https://twitter.com/stiles/status/1279105001588002816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 703,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1279104999868399600,
+		"in_reply_to_status_id_str": "1279104999868399616",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11477,
+			"friends_count": 2143,
+			"listed_count": 859,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "3. The rate of complaints varied across the LAPD's various reporting districts. We mapped them so you can see which areas had comparatively more complaints: https://t.co/74QXrxnmly https://t.co/N0b5XsxW4h"
+	},
+	{
+		"created_at": "Fri Jul 03 17:29:31 +0000 2020",
+		"id": 1279104999868399600,
+		"id_str": "1279104999868399616",
+		"full_text": "2. We discovered that, amid the coronavirus disruption, the outpouring of resident complaints about fireworks came earlier — and was much larger — than in previous years.  https://t.co/74QXrxnmly https://t.co/J6DhF8sSVQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/74QXrxnmly",
+					"expanded_url": "https://www.latimes.com/projects/la-fireworks-complaints-lapd-response/",
+					"display_url": "latimes.com/projects/la-fi…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279101812511928300,
+					"id_str": "1279101812511928321",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EcBIUk5U8AEzmJU.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcBIUk5U8AEzmJU.png",
+					"url": "https://t.co/J6DhF8sSVQ",
+					"display_url": "pic.twitter.com/J6DhF8sSVQ",
+					"expanded_url": "https://twitter.com/stiles/status/1279104999868399616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1320,
+							"h": 882,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279101812511928300,
+					"id_str": "1279101812511928321",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EcBIUk5U8AEzmJU.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcBIUk5U8AEzmJU.png",
+					"url": "https://t.co/J6DhF8sSVQ",
+					"display_url": "pic.twitter.com/J6DhF8sSVQ",
+					"expanded_url": "https://twitter.com/stiles/status/1279104999868399616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1320,
+							"h": 882,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1279104998840791000,
+		"in_reply_to_status_id_str": "1279104998840791040",
+		"in_reply_to_user_id": 14790314,
+		"in_reply_to_user_id_str": "14790314",
+		"in_reply_to_screen_name": "stiles",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11477,
+			"friends_count": 2143,
+			"listed_count": 859,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 8980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2. We discovered that, amid the coronavirus disruption, the outpouring of resident complaints about fireworks came earlier — and was much larger — than in previous years.  https://t.co/74QXrxnmly https://t.co/J6DhF8sSVQ"
+	},
+	{
 		"created_at": "Fri Jul 03 04:03:21 +0000 2020",
 		"id": 1278902120859578400,
 		"id_str": "1278902120859578368",
