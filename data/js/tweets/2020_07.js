@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 03 01:39:44 +0000 2020",
+		"id": 1278738652064108500,
+		"id_str": "1278865979280199681",
+		"full_text": "I’m really sick of being a parent today. It has been FOUR MONTHS since anybody other than me and my wife have been responsible for them.\n\nIt’s hard. I feel like non-parents have no idea how hard it’s been.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40353407,
+			"id_str": "40353407",
+			"name": "Elie Mystal",
+			"screen_name": "ElieNYC",
+			"location": "NYC",
+			"description": "Justice Correspondent: @thenation Alignment: Neutral Good. Str:12 Dex:8 Con:15 Int:13 Wis:10 Char:14 Class: Paladin. Strong Against: Republicans.",
+			"url": "https://t.co/cr4eb6JcYl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cr4eb6JcYl",
+							"expanded_url": "https://www.thenation.com/authors/elie-mystal/",
+							"display_url": "thenation.com/authors/elie-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144181,
+			"friends_count": 3473,
+			"listed_count": 1336,
+			"created_at": "Fri May 15 22:47:11 +0000 2009",
+			"favourites_count": 39822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1F2323",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156046777390456833/ooPBpYnJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156046777390456833/ooPBpYnJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40353407/1506879032",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 946,
+		"favorite_count": 17600,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m really sick of being a parent today. It has been FOUR MONTHS since anybody other than me and my wife have been responsible for them.\n\nIt’s hard. I feel like non-parents have no idea how hard it’s been."
+	},
+	{
 		"created_at": "Fri Jul 03 00:25:04 +0000 2020",
 		"id": 1278847189523955700,
 		"id_str": "1278847189523955712",
