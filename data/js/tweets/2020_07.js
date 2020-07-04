@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 04 02:02:49 +0000 2020",
+		"id": 1279198680122159000,
+		"id_str": "1279234175866859520",
+		"full_text": "@LAPDHQ @LapdHarborDiv @LAPDHQ have you read this article? \nhttps://t.co/i7fsAlnP6K",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LAPDHQ",
+					"name": "LAPD HQ",
+					"id": 115705583,
+					"id_str": "115705583",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "LapdHarborDiv",
+					"name": "LAPD Harbor Division",
+					"id": 321120635,
+					"id_str": "321120635",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"screen_name": "LAPDHQ",
+					"name": "LAPD HQ",
+					"id": 115705583,
+					"id_str": "115705583",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i7fsAlnP6K",
+					"expanded_url": "https://twitter.com/stiles/status/1279104998840791040?s=20",
+					"display_url": "twitter.com/stiles/status/…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1279197732737933300,
+		"in_reply_to_status_id_str": "1279197732737933312",
+		"in_reply_to_user_id": 115705583,
+		"in_reply_to_user_id_str": "115705583",
+		"in_reply_to_screen_name": "LAPDHQ",
+		"user": {
+			"id": 15946090,
+			"id_str": "15946090",
+			"name": "drastikat",
+			"screen_name": "drastikat",
+			"location": "",
+			"description": "I work on and with computers. Black Lives Matter. #BlackLivesMatter #DefundThePolice #PeoplesBudgetLA #DefundLAPD",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 697,
+			"listed_count": 3,
+			"created_at": "Fri Aug 22 15:27:53 +0000 2008",
+			"favourites_count": 1602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ADCBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016737342399373316/APrtpQNF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016737342399373316/APrtpQNF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15946090/1531244023",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1279104998840791000,
+		"quoted_status_id_str": "1279104998840791040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i7fsAlnP6K",
+			"expanded": "https://twitter.com/stiles/status/1279104998840791040?s=20",
+			"display": "twitter.com/stiles/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 03 17:29:31 +0000 2020",
+			"id": 1279104998840791000,
+			"id_str": "1279104998840791040",
+			"full_text": "Thread: Took a deep dive with @kevrector into @LAPDHQ dispatch logs and citation records to get at a burning question: What's up with all the fireworks in L.A. this year?  https://t.co/74QXrxnmly",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kevrector",
+						"name": "Kevin Rector",
+						"id": 292521710,
+						"id_str": "292521710",
+						"indices": [
+							30,
+							40
+						]
+					},
+					{
+						"screen_name": "LAPDHQ",
+						"name": "LAPD HQ",
+						"id": 115705583,
+						"id_str": "115705583",
+						"indices": [
+							46,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/74QXrxnmly",
+						"expanded_url": "https://www.latimes.com/projects/la-fireworks-complaints-lapd-response/",
+						"display_url": "latimes.com/projects/la-fi…",
+						"indices": [
+							172,
+							195
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14790314,
+				"id_str": "14790314",
+				"name": "Matt Stiles",
+				"screen_name": "stiles",
+				"location": "Los Angeles",
+				"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+				"url": "https://t.co/PJEacYfCaJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJEacYfCaJ",
+								"expanded_url": "http://mattstiles.me",
+								"display_url": "mattstiles.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11478,
+				"friends_count": 2143,
+				"listed_count": 858,
+				"created_at": "Thu May 15 19:12:30 +0000 2008",
+				"favourites_count": 8986,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16026,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030F1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+				"profile_link_color": "B12E35",
+				"profile_sidebar_border_color": "3268C2",
+				"profile_sidebar_fill_color": "A9D4FF",
+				"profile_text_color": "6E6E6E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LAPDHQ @LapdHarborDiv @LAPDHQ have you read this article? \nhttps://t.co/i7fsAlnP6K"
+	},
+	{
 		"created_at": "Fri Jul 03 20:13:05 +0000 2020",
 		"id": 1279146162860114000,
 		"id_str": "1279146162860113920",
