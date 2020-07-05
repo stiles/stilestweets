@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 06:09:50 +0000 2020",
+		"id": 1279649961353699300,
+		"id_str": "1279658727809794048",
+		"full_text": "https://t.co/s0Afo8eWBf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279649949265703000,
+					"id_str": "1279649949265702912",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EcI62VbUMAA1g-i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcI62VbUMAA1g-i.jpg",
+					"url": "https://t.co/s0Afo8eWBf",
+					"display_url": "pic.twitter.com/s0Afo8eWBf",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1279649961353699336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 644,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 365,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1099,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279649949265703000,
+					"id_str": "1279649949265702912",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EcI62VbUMAA1g-i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcI62VbUMAA1g-i.jpg",
+					"url": "https://t.co/s0Afo8eWBf",
+					"display_url": "pic.twitter.com/s0Afo8eWBf",
+					"expanded_url": "https://twitter.com/sherlyholmes/status/1279649961353699336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 644,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 365,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1099,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1279629419066216400,
+		"in_reply_to_status_id_str": "1279629419066216449",
+		"in_reply_to_user_id": 13479902,
+		"in_reply_to_user_id_str": "13479902",
+		"in_reply_to_screen_name": "sherlyholmes",
+		"user": {
+			"id": 13479902,
+			"id_str": "13479902",
+			"name": "Julia Wick",
+			"screen_name": "sherlyholmes",
+			"location": "LA",
+			"description": "@latimes metro reporter & Essential California newsletter author (subscribe: https://t.co/FxOtLkVeGE) Former EIC @LAist. Native Angeleno. Julia.wick@latimes.com",
+			"url": "https://t.co/9nLR6Wm4Ya",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9nLR6Wm4Ya",
+							"expanded_url": "https://www.latimes.com/la-bio-julia-wick-staff.html",
+							"display_url": "latimes.com/la-bio-julia-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FxOtLkVeGE",
+							"expanded_url": "https://lat.ms/2JG6TWt",
+							"display_url": "lat.ms/2JG6TWt",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9740,
+			"friends_count": 1922,
+			"listed_count": 204,
+			"created_at": "Thu Feb 14 17:24:54 +0000 2008",
+			"favourites_count": 15774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174883383706406912/4wlrb2be_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13479902/1502071398",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/s0Afo8eWBf"
+	},
+	{
+		"created_at": "Sun Jul 05 06:08:43 +0000 2020",
+		"id": 1279634415975428000,
+		"id_str": "1279658447764467712",
+		"full_text": "We ask that you please NOT call 911 for illegal fireworks unless someone is hurt or there is a fire. You are tying up 911 for other life-threatening emergencies. As of this post, we're holding nearly 50 calls on 911 &amp; over 170 on non-emergency.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444007700,
+			"id_str": "444007700",
+			"name": "LAPD Communications Division",
+			"screen_name": "911LAPD",
+			"location": "City Of Los Angeles",
+			"description": "Official Twitter feed of LAPD Communications Division. This is not monitored 24/7. If you have an emergency call or text 9-1-1. Non-emergency call 877-ASK-LAPD.",
+			"url": "https://t.co/heaTzxopVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heaTzxopVG",
+							"expanded_url": "http://www.911lapd.com",
+							"display_url": "911lapd.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56836,
+			"friends_count": 306,
+			"listed_count": 889,
+			"created_at": "Thu Dec 22 19:51:52 +0000 2011",
+			"favourites_count": 9849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0C0352",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220164110408544256/ZxfN6Lpz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220164110408544256/ZxfN6Lpz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444007700/1532983798",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 280,
+		"favorite_count": 433,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We ask that you please NOT call 911 for illegal fireworks unless someone is hurt or there is a fire. You are tying up 911 for other life-threatening emergencies. As of this post, we're holding nearly 50 calls on 911 &amp; over 170 on non-emergency."
+	},
+	{
 		"created_at": "Sat Jul 04 17:29:30 +0000 2020",
 		"id": 1279467383015436300,
 		"id_str": "1279467383015436288",
