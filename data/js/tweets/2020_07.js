@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 08:01:38 +0000 2020",
+		"id": 1279669621432320000,
+		"id_str": "1279686864849367042",
+		"full_text": "These are the types of messages Dispatchers ❤️❤️❤️ seeing from units in the field. Thank you to the #LAPD officers across the City tonight for doing their best to keep up with the outrageous number of illegal fireworks calls. Be safe. https://t.co/r9GYLs9Nfr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LAPD",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279669307283136500,
+					"id_str": "1279669307283136512",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EcJMdHqU4AAFlyG.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcJMdHqU4AAFlyG.png",
+					"url": "https://t.co/r9GYLs9Nfr",
+					"display_url": "pic.twitter.com/r9GYLs9Nfr",
+					"expanded_url": "https://twitter.com/911LAPD/status/1279669621432320000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 770,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 770,
+							"h": 384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 339,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279669307283136500,
+					"id_str": "1279669307283136512",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EcJMdHqU4AAFlyG.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcJMdHqU4AAFlyG.png",
+					"url": "https://t.co/r9GYLs9Nfr",
+					"display_url": "pic.twitter.com/r9GYLs9Nfr",
+					"expanded_url": "https://twitter.com/911LAPD/status/1279669621432320000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 770,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 770,
+							"h": 384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 339,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1279669307291492400,
+					"id_str": "1279669307291492353",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EcJMdHsUYAEqxE3.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcJMdHsUYAEqxE3.png",
+					"url": "https://t.co/r9GYLs9Nfr",
+					"display_url": "pic.twitter.com/r9GYLs9Nfr",
+					"expanded_url": "https://twitter.com/911LAPD/status/1279669621432320000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 620,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 390,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 390,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1279669307283136500,
+					"id_str": "1279669307283136513",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EcJMdHqU4AEzCiU.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcJMdHqU4AEzCiU.png",
+					"url": "https://t.co/r9GYLs9Nfr",
+					"display_url": "pic.twitter.com/r9GYLs9Nfr",
+					"expanded_url": "https://twitter.com/911LAPD/status/1279669621432320000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 866,
+							"h": 404,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 866,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 317,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444007700,
+			"id_str": "444007700",
+			"name": "LAPD Communications Division",
+			"screen_name": "911LAPD",
+			"location": "City Of Los Angeles",
+			"description": "Official Twitter feed of LAPD Communications Division. This is not monitored 24/7. If you have an emergency call or text 9-1-1. Non-emergency call 877-ASK-LAPD.",
+			"url": "https://t.co/heaTzxopVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/heaTzxopVG",
+							"expanded_url": "http://www.911lapd.com",
+							"display_url": "911lapd.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56853,
+			"friends_count": 306,
+			"listed_count": 889,
+			"created_at": "Thu Dec 22 19:51:52 +0000 2011",
+			"favourites_count": 9848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0C0352",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220164110408544256/ZxfN6Lpz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220164110408544256/ZxfN6Lpz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444007700/1532983798",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These are the types of messages Dispatchers ❤️❤️❤️ seeing from units in the field. Thank you to the #LAPD officers across the City tonight for doing their best to keep up with the outrageous number of illegal fireworks calls. Be safe. https://t.co/r9GYLs9Nfr"
+	},
+	{
 		"created_at": "Sun Jul 05 06:09:50 +0000 2020",
 		"id": 1279649961353699300,
 		"id_str": "1279658727809794048",
