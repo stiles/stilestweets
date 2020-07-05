@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 19:02:52 +0000 2020",
+		"id": 1279852566201823200,
+		"id_str": "1279853267762114560",
+		"full_text": "Very happy with the new storymaps capabilties. The experience of authoring a story in it is intuitive, with text, live maps, images, video, callouts, etc. I've had 7th graders produce stories immediately, no instruction. https://t.co/XMeAxJcnoa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XMeAxJcnoa",
+					"expanded_url": "https://lnkd.in/gJ85xmi",
+					"display_url": "lnkd.in/gJ85xmi",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55766127,
+			"id_str": "55766127",
+			"name": "Jim Herries",
+			"screen_name": "jherries",
+			"location": "Redlands, CA",
+			"description": "Applied geographer, clarifies interactions among people and things they care about. Clear cartography in friendly apps.",
+			"url": "http://t.co/H89v3uXSm2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/H89v3uXSm2",
+							"expanded_url": "http://jimherries.tumblr.com",
+							"display_url": "jimherries.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1474,
+			"friends_count": 1045,
+			"listed_count": 61,
+			"created_at": "Sat Jul 11 05:23:05 +0000 2009",
+			"favourites_count": 1528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841409371649196032/7u_JiCv-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841409371649196032/7u_JiCv-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55766127/1508983592",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very happy with the new storymaps capabilties. The experience of authoring a story in it is intuitive, with text, live maps, images, video, callouts, etc. I've had 7th graders produce stories immediately, no instruction. https://t.co/XMeAxJcnoa"
+	},
+	{
+		"created_at": "Sun Jul 05 18:59:57 +0000 2020",
+		"id": 1279852533154869200,
+		"id_str": "1279852533154869248",
+		"full_text": "@wb Indeed. I survived three years in Seoul, which is also bad. LA has bad air sometimes, but nothing like that.",
+		"truncated": false,
+		"display_text_range": [
+			4,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wb",
+					"name": "Wayne Bremser",
+					"id": 673573,
+					"id_str": "673573",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1279851197688451000,
+		"in_reply_to_status_id_str": "1279851197688451072",
+		"in_reply_to_user_id": 673573,
+		"in_reply_to_user_id_str": "673573",
+		"in_reply_to_screen_name": "wb",
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11480,
+			"friends_count": 2147,
+			"listed_count": 858,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 9022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1590888911",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wb Indeed. I survived three years in Seoul, which is also bad. LA has bad air sometimes, but nothing like that."
+	},
+	{
 		"created_at": "Sun Jul 05 16:06:01 +0000 2020",
 		"id": 1279808761209618400,
 		"id_str": "1279808761209618432",
