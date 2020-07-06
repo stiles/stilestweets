@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 21:36:23 +0000 2020",
+		"id": 1280206799162015700,
+		"id_str": "1280254291685437440",
+		"full_text": "Amy Cooper not only undermined Chris Cooper’s humanity but she put his life in danger when she escalated the situation, even though she broke the rules. This incident could have turned out much worse. Thanks to DA Vance for holding Ms. Cooper accountable. Our parks belong to all. https://t.co/tE3yXVyNW3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tE3yXVyNW3",
+					"expanded_url": "https://twitter.com/manhattanda/status/1280205517349097481",
+					"display_url": "twitter.com/manhattanda/st…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18590012,
+			"id_str": "18590012",
+			"name": "Gale A. Brewer",
+			"screen_name": "galeabrewer",
+			"location": "New York, NY",
+			"description": "Borough President of Manhattan. Email: gbrewer@manhattanbp.nyc.gov",
+			"url": "https://t.co/GFG4PPE4rI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GFG4PPE4rI",
+							"expanded_url": "http://manhattanbp.nyc.gov",
+							"display_url": "manhattanbp.nyc.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27515,
+			"friends_count": 2155,
+			"listed_count": 613,
+			"created_at": "Sat Jan 03 23:40:00 +0000 2009",
+			"favourites_count": 9499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "22408D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248674008008187906/ZN9PBEx3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248674008008187906/ZN9PBEx3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18590012/1591652004",
+			"profile_link_color": "22408D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01a9a39529b27f36",
+			"url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+			"place_type": "city",
+			"name": "Manhattan",
+			"full_name": "Manhattan, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.026675,
+							40.683935
+						],
+						[
+							-73.910408,
+							40.683935
+						],
+						[
+							-73.910408,
+							40.877483
+						],
+						[
+							-74.026675,
+							40.877483
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280205517349097500,
+		"quoted_status_id_str": "1280205517349097481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tE3yXVyNW3",
+			"expanded": "https://twitter.com/manhattanda/status/1280205517349097481",
+			"display": "twitter.com/manhattanda/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 06 18:22:35 +0000 2020",
+			"id": 1280205517349097500,
+			"id_str": "1280205517349097481",
+			"full_text": "\"I would like to encourage anyone who has been the target of false reporting to contact our Office. We are strongly committed to holding perpetrators of this conduct accountable.” \nhttps://t.co/F3h1Ys6UDn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/F3h1Ys6UDn",
+						"expanded_url": "https://www.manhattanda.org/statement-from-manhattan-d-a-cy-vance-jr-on-incident-in-central-park-ramble-on-may-25-2020/",
+						"display_url": "manhattanda.org/statement-from…",
+						"indices": [
+							181,
+							204
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 66368876,
+				"id_str": "66368876",
+				"name": "Cyrus Vance, Jr.",
+				"screen_name": "ManhattanDA",
+				"location": "New York, NY",
+				"description": "Moving justice forward.",
+				"url": "https://t.co/Q74jkuFo9p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q74jkuFo9p",
+								"expanded_url": "http://www.manhattanda.org",
+								"display_url": "manhattanda.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13947,
+				"friends_count": 569,
+				"listed_count": 400,
+				"created_at": "Mon Aug 17 14:41:39 +0000 2009",
+				"favourites_count": 1526,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4872,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1280147150622597120/HaI1DM37_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280147150622597120/HaI1DM37_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66368876/1541445356",
+				"profile_link_color": "2B316F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D7E4F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1212,
+			"favorite_count": 3139,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 304,
+		"favorite_count": 1408,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amy Cooper not only undermined Chris Cooper’s humanity but she put his life in danger when she escalated the situation, even though she broke the rules. This incident could have turned out much worse. Thanks to DA Vance for holding Ms. Cooper accountable. Our parks belong to all. https://t.co/tE3yXVyNW3"
+	},
+	{
 		"created_at": "Mon Jul 06 15:33:25 +0000 2020",
 		"id": 1280162948149768200,
 		"id_str": "1280162948149768193",
