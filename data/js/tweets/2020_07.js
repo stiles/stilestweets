@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 22:34:51 +0000 2020",
+		"id": 1280265624493539300,
+		"id_str": "1280269005861777408",
+		"full_text": "Look! A way to light up the sky without terrifying your poor dogs and babies https://t.co/fhuHsKo8aB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fhuHsKo8aB",
+					"expanded_url": "https://twitter.com/idreesali114/status/1280108051111051265",
+					"display_url": "twitter.com/idreesali114/s…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2484763212,
+			"id_str": "2484763212",
+			"name": "Jihye Lee 이지혜",
+			"screen_name": "TheJihyeLee",
+			"location": "Home",
+			"description": "Newsdesk editor @BloombergTV Asia. Opinions mine, likes and RTs don’t endorse🦄🏳️‍🌈 Made in Pohang, saved by BLΛƆKPIИK💕 jlee2352@bloomberg.net",
+			"url": "https://t.co/BHu7r0b3p6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BHu7r0b3p6",
+							"expanded_url": "https://www.bloomberg.com/authors/ATeBrRVZnKc/jihye-lee",
+							"display_url": "bloomberg.com/authors/ATeBrR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17946,
+			"friends_count": 3756,
+			"listed_count": 421,
+			"created_at": "Fri May 09 01:45:05 +0000 2014",
+			"favourites_count": 7516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252919872670937088/8MmEO8lx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252919872670937088/8MmEO8lx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2484763212/1592035984",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280108051111051300,
+		"quoted_status_id_str": "1280108051111051265",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fhuHsKo8aB",
+			"expanded": "https://twitter.com/idreesali114/status/1280108051111051265",
+			"display": "twitter.com/idreesali114/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 06 11:55:17 +0000 2020",
+			"id": 1280108051111051300,
+			"id_str": "1280108051111051265",
+			"full_text": "Drones fly over the Han river showing measures to avoid the spread of the coronavirus disease (COVID-19) continue, in Seoul, South Korea, July 4, 2020. Yonhap via REUTERS https://t.co/FTNfxq9v0K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1280108048355393500,
+						"id_str": "1280108048355393539",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/EcPbfNhXgAMlKGi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcPbfNhXgAMlKGi.jpg",
+						"url": "https://t.co/FTNfxq9v0K",
+						"display_url": "pic.twitter.com/FTNfxq9v0K",
+						"expanded_url": "https://twitter.com/idreesali114/status/1280108051111051265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 827,
+								"h": 525,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 432,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 827,
+								"h": 525,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1280108048355393500,
+						"id_str": "1280108048355393539",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/EcPbfNhXgAMlKGi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcPbfNhXgAMlKGi.jpg",
+						"url": "https://t.co/FTNfxq9v0K",
+						"display_url": "pic.twitter.com/FTNfxq9v0K",
+						"expanded_url": "https://twitter.com/idreesali114/status/1280108051111051265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 827,
+								"h": 525,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 432,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 827,
+								"h": 525,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 268636316,
+				"id_str": "268636316",
+				"name": "Idrees Ali",
+				"screen_name": "idreesali114",
+				"location": "Washington D.C. via Karachi",
+				"description": "@Reuters foreign policy correspondent covering the Pentagon. idrees.ali@thomsonreuters.com",
+				"url": "https://t.co/3koIMsDkX4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3koIMsDkX4",
+								"expanded_url": "http://www.reuters.com/journalists/idrees-ali",
+								"display_url": "reuters.com/journalists/id…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13996,
+				"friends_count": 973,
+				"listed_count": 457,
+				"created_at": "Sat Mar 19 04:57:55 +0000 2011",
+				"favourites_count": 11273,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8524,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1253407446871179265/WRnl_J5h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253407446871179265/WRnl_J5h_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/268636316/1497143088",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look! A way to light up the sky without terrifying your poor dogs and babies https://t.co/fhuHsKo8aB"
+	},
+	{
 		"created_at": "Mon Jul 06 21:36:23 +0000 2020",
 		"id": 1280206799162015700,
 		"id_str": "1280254291685437440",
