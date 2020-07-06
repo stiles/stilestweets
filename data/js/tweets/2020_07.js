@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 02:07:10 +0000 2020",
+		"id": 1279960047955533800,
+		"id_str": "1279960047955533824",
+		"full_text": "Good https://t.co/mJshRwdCdZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mJshRwdCdZ",
+					"expanded_url": "https://twitter.com/LetitiaMontana/status/1279615522284474368",
+					"display_url": "twitter.com/LetitiaMontana…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11481,
+			"friends_count": 2147,
+			"listed_count": 858,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 9028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1593991597",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1279615522284474400,
+		"quoted_status_id_str": "1279615522284474368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mJshRwdCdZ",
+			"expanded": "https://twitter.com/LetitiaMontana/status/1279615522284474368",
+			"display": "twitter.com/LetitiaMontana…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 05 03:18:09 +0000 2020",
+			"id": 1279615522284474400,
+			"id_str": "1279615522284474368",
+			"full_text": "Went into the Emergency Dept. at St Joseph’s Hospital in #Toronto for a suspected broken finger. I was asked to wear a mask, which I refused to do. As a result, hospital staff asked me to leave and immediately called 3 security guards to escort me out. #filmyourhospital https://t.co/7KlDa11udk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Toronto",
+						"indices": [
+							57,
+							65
+						]
+					},
+					{
+						"text": "filmyourhospital",
+						"indices": [
+							253,
+							270
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1279615474410688500,
+						"id_str": "1279615474410688512",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279615474410688512/pu/img/8IuVxx1GA0qSLLr5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279615474410688512/pu/img/8IuVxx1GA0qSLLr5.jpg",
+						"url": "https://t.co/7KlDa11udk",
+						"display_url": "pic.twitter.com/7KlDa11udk",
+						"expanded_url": "https://twitter.com/LetitiaMontana/status/1279615522284474368/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1279615474410688500,
+						"id_str": "1279615474410688512",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279615474410688512/pu/img/8IuVxx1GA0qSLLr5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279615474410688512/pu/img/8IuVxx1GA0qSLLr5.jpg",
+						"url": "https://t.co/7KlDa11udk",
+						"display_url": "pic.twitter.com/7KlDa11udk",
+						"expanded_url": "https://twitter.com/LetitiaMontana/status/1279615522284474368/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 30560,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1279615474410688512/pu/vid/360x640/icBdRn081zZWIG_I.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1279615474410688512/pu/vid/720x1280/tDsHc4DMNYzOng6S.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1279615474410688512/pu/vid/320x568/DIaBaFnkmUz1AB-q.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1279615474410688512/pu/pl/PS3VtQofUyHM24sx.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130229947,
+				"id_str": "130229947",
+				"name": "Letitia Montana",
+				"screen_name": "LetitiaMontana",
+				"location": "Toronto, Ontario",
+				"description": "Mom ~ Insurance and Investment Advisor ~ Wealth Strategist ~ Real Estate Investor ~ into Personal Development & Healthy Living ~ #truther ~ Freedom Lover",
+				"url": "https://t.co/01ctLwM0sC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/01ctLwM0sC",
+								"expanded_url": "https://linktr.ee/MavenWealth",
+								"display_url": "linktr.ee/MavenWealth",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1376,
+				"friends_count": 2773,
+				"listed_count": 113,
+				"created_at": "Tue Apr 06 18:17:33 +0000 2010",
+				"favourites_count": 4093,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1443,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1129177711975575553/lcBocHQ4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129177711975575553/lcBocHQ4_normal.jpg",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2376,
+			"favorite_count": 11323,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good https://t.co/mJshRwdCdZ"
+	},
+	{
 		"created_at": "Sun Jul 05 19:02:52 +0000 2020",
 		"id": 1279852566201823200,
 		"id_str": "1279853267762114560",
