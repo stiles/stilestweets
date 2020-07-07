@@ -1,6 +1,88 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 00:35:23 +0000 2020",
+		"id": 1280208164059672600,
+		"id_str": "1280299338665652225",
+		"full_text": "Live in L.A. 🌴 and grumpy about people not wearing masks 😷? \n\nWant to help me collect data about this? \n\nWe've counted 859 people so far and I'd love some more 👀. \n\nhmu if you're interested!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53286916,
+			"id_str": "53286916",
+			"name": "Casey Miller",
+			"screen_name": "caseymmiller",
+			"location": "Los Angeles, CA",
+			"description": "Disasters @latimes + @datagraphics. Prev @Mapbox & @voxmediainc. @UNCHussman Alum. Unofficial Bojangles’ brand rep. Stevie Nicks 5ever 🕊️🌈 she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2115,
+			"friends_count": 976,
+			"listed_count": 86,
+			"created_at": "Fri Jul 03 03:52:17 +0000 2009",
+			"favourites_count": 11007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128851060322447361/vQaIXD97_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128851060322447361/vQaIXD97_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53286916/1489677936",
+			"profile_link_color": "A14EE5",
+			"profile_sidebar_border_color": "E5C99F",
+			"profile_sidebar_fill_color": "4E164A",
+			"profile_text_color": "C2A781",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Live in L.A. 🌴 and grumpy about people not wearing masks 😷? \n\nWant to help me collect data about this? \n\nWe've counted 859 people so far and I'd love some more 👀. \n\nhmu if you're interested!"
+	},
+	{
 		"created_at": "Mon Jul 06 22:34:51 +0000 2020",
 		"id": 1280265624493539300,
 		"id_str": "1280269005861777408",
@@ -38,7 +120,7 @@ Grailbird.data.tweets_2020_07 =
 			"name": "Jihye Lee 이지혜",
 			"screen_name": "TheJihyeLee",
 			"location": "Home",
-			"description": "Newsdesk editor @BloombergTV Asia. Opinions mine, likes and RTs don’t endorse🦄🏳️‍🌈 Made in Pohang, saved by BLΛƆKPIИK💕 jlee2352@bloomberg.net",
+			"description": "Newsdesk editor @BloombergTV Asia. Opinions mine, likes and RTs don’t endorse🦄🏳️🌈 Made in Pohang, saved by BLΛƆKPIИK💕 jlee2352@bloomberg.net",
 			"url": "https://t.co/BHu7r0b3p6",
 			"entities": {
 				"url": {
