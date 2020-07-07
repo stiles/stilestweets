@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 20:00:48 +0000 2020",
+		"id": 1280584860529094700,
+		"id_str": "1280592623124635648",
+		"full_text": "Thanks so much to @weijia for making the time to talk with us! We discuss how Trump acts in the briefing room, growing up in the South and how standing up to bullies helped prepare her for her career. https://t.co/7VIIkS60yh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weijia",
+					"name": "Weijia Jiang",
+					"id": 170699708,
+					"id_str": "170699708",
+					"indices": [
+						18,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7VIIkS60yh",
+					"expanded_url": "https://twitter.com/latimes/status/1280578085608357888",
+					"display_url": "twitter.com/latimes/status…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17626551,
+			"id_str": "17626551",
+			"name": "Frank Shyong",
+			"screen_name": "frankshyong",
+			"location": "Los Angeles, CA",
+			"description": "@latimes columnist writing about the city. Co-hosting an LA Times podcast w/ @jenyamato called Asian Enough.",
+			"url": "https://t.co/l7KdGgY9Tm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l7KdGgY9Tm",
+							"expanded_url": "http://www.latimes.com/asianenough",
+							"display_url": "latimes.com/asianenough",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15244,
+			"friends_count": 5141,
+			"listed_count": 357,
+			"created_at": "Tue Nov 25 18:18:49 +0000 2008",
+			"favourites_count": 9961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963956534303584256/teGjNY_R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963956534303584256/teGjNY_R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17626551/1512431164",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280578085608358000,
+		"quoted_status_id_str": "1280578085608357888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7VIIkS60yh",
+			"expanded": "https://twitter.com/latimes/status/1280578085608357888",
+			"display": "twitter.com/latimes/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 07 19:03:02 +0000 2020",
+			"id": 1280578085608358000,
+			"id_str": "1280578085608357888",
+			"full_text": "This week on Asian Enough, @jenyamato and @frankshyong talked with @CBSNews White House Correspondent @weijia about covering anti-Asian racism during the pandemic and how standing up to bullies as a child prepared her for her career.\n\nListen and subscribe: https://t.co/wPuErektVL https://t.co/4396wWejvQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jenyamato",
+						"name": "jen yamato",
+						"id": 16400360,
+						"id_str": "16400360",
+						"indices": [
+							27,
+							37
+						]
+					},
+					{
+						"screen_name": "frankshyong",
+						"name": "Frank Shyong",
+						"id": 17626551,
+						"id_str": "17626551",
+						"indices": [
+							42,
+							54
+						]
+					},
+					{
+						"screen_name": "CBSNews",
+						"name": "CBS News",
+						"id": 15012486,
+						"id_str": "15012486",
+						"indices": [
+							67,
+							75
+						]
+					},
+					{
+						"screen_name": "weijia",
+						"name": "Weijia Jiang",
+						"id": 170699708,
+						"id_str": "170699708",
+						"indices": [
+							102,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wPuErektVL",
+						"expanded_url": "https://link.chtbl.com/AsianEnough",
+						"display_url": "link.chtbl.com/AsianEnough",
+						"indices": [
+							257,
+							280
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1280578084018716700,
+						"id_str": "1280578084018716672",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EcWG-40WAAAauO0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcWG-40WAAAauO0.jpg",
+						"url": "https://t.co/4396wWejvQ",
+						"display_url": "pic.twitter.com/4396wWejvQ",
+						"expanded_url": "https://twitter.com/latimes/status/1280578085608357888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1280578084018716700,
+						"id_str": "1280578084018716672",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EcWG-40WAAAauO0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcWG-40WAAAauO0.jpg",
+						"url": "https://t.co/4396wWejvQ",
+						"display_url": "pic.twitter.com/4396wWejvQ",
+						"expanded_url": "https://twitter.com/latimes/status/1280578085608357888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16664681,
+				"id_str": "16664681",
+				"name": "Los Angeles Times",
+				"screen_name": "latimes",
+				"location": "El Segundo, CA",
+				"description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/KW9cHofnW4",
+				"url": "https://t.co/eTksmynSH7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eTksmynSH7",
+								"expanded_url": "http://latimes.com",
+								"display_url": "latimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KW9cHofnW4",
+								"expanded_url": "http://latimes.com/subscribe",
+								"display_url": "latimes.com/subscribe",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3636961,
+				"friends_count": 6960,
+				"listed_count": 32235,
+				"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+				"favourites_count": 2572,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 291963,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "615F61",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 95,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks so much to @weijia for making the time to talk with us! We discuss how Trump acts in the briefing room, growing up in the South and how standing up to bullies helped prepare her for her career. https://t.co/7VIIkS60yh"
+	},
+	{
 		"created_at": "Tue Jul 07 16:33:02 +0000 2020",
 		"id": 1280529817528684500,
 		"id_str": "1280540338243788800",
