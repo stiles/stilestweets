@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 16:33:02 +0000 2020",
+		"id": 1280529817528684500,
+		"id_str": "1280540338243788800",
+		"full_text": "PDFs hate data journalists, and vice versa https://t.co/v3efLEmGFX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v3efLEmGFX",
+					"expanded_url": "https://twitter.com/toxicologist12/status/1280285133581488132",
+					"display_url": "twitter.com/toxicologist12…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14335332,
+			"id_str": "14335332",
+			"name": "Dan Nguyen",
+			"screen_name": "dancow",
+			"location": "Chicago",
+			"description": "Proud son of war refugees, computational journalist. he/him Past: taught @stanford; newsdeved @ProPublica @Skift @sacbee_news RTs could mean 🥴 or 😬 or 🤔",
+			"url": "https://t.co/rfQwd0LVZb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rfQwd0LVZb",
+							"expanded_url": "http://danwin.com",
+							"display_url": "danwin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15927,
+			"friends_count": 7057,
+			"listed_count": 885,
+			"created_at": "Tue Apr 08 19:39:54 +0000 2008",
+			"favourites_count": 88201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 63746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265678794314207233/SZ1_XlaH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265678794314207233/SZ1_XlaH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14335332/1533193318",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280285133581488000,
+		"quoted_status_id_str": "1280285133581488132",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v3efLEmGFX",
+			"expanded": "https://twitter.com/toxicologist12/status/1280285133581488132",
+			"display": "twitter.com/toxicologist12…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 06 23:38:57 +0000 2020",
+			"id": 1280285133581488000,
+			"id_str": "1280285133581488132",
+			"full_text": "Dermatologists hate the sun.\nPediatricians hate trampolines.\nENTs hate Q-tips.\n\nWhat is the mortal enemy of other specialties?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 186474344,
+				"id_str": "186474344",
+				"name": "Andrew Stolbach, MD, MPH",
+				"screen_name": "toxicologist12",
+				"location": "Baltimore",
+				"description": "Toxicologist. Emergency doctor. Teaching and learning about poisoning and overdose. Living in Baltimore City. @acmt Board of Directors @HopkinsMedicine",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5647,
+				"friends_count": 590,
+				"listed_count": 56,
+				"created_at": "Fri Sep 03 15:21:07 +0000 2010",
+				"favourites_count": 6704,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2842,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1255770608329097216/XCixVmvU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255770608329097216/XCixVmvU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/186474344/1395178946",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 894,
+			"favorite_count": 7484,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "PDFs hate data journalists, and vice versa https://t.co/v3efLEmGFX"
+	},
+	{
 		"created_at": "Tue Jul 07 04:02:57 +0000 2020",
 		"id": 1280209946085339100,
 		"id_str": "1280351575249006597",
