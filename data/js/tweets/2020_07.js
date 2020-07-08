@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 01:28:18 +0000 2020",
+		"id": 1280674790672461800,
+		"id_str": "1280675040376156161",
+		"full_text": "With @LAPublicLibrary’s new to-go services, you can pick up books and other materials curbside at 18 different library branches across our city. Please remember to wear a face covering. Learn more at https://t.co/2OsSDv4lnL. https://t.co/DzV2nDwUqE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LAPublicLibrary",
+					"name": "L.A. Public Library",
+					"id": 33573444,
+					"id_str": "33573444",
+					"indices": [
+						5,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2OsSDv4lnL",
+					"expanded_url": "http://LAPL.org",
+					"display_url": "LAPL.org",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280673772408733700,
+					"id_str": "1280673772408733696",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EcXehojUYAEt7KR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcXehojUYAEt7KR.jpg",
+					"url": "https://t.co/DzV2nDwUqE",
+					"display_url": "pic.twitter.com/DzV2nDwUqE",
+					"expanded_url": "https://twitter.com/MayorOfLA/status/1280674790672461824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280673772408733700,
+					"id_str": "1280673772408733696",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EcXehojUYAEt7KR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcXehojUYAEt7KR.jpg",
+					"url": "https://t.co/DzV2nDwUqE",
+					"display_url": "pic.twitter.com/DzV2nDwUqE",
+					"expanded_url": "https://twitter.com/MayorOfLA/status/1280674790672461824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25359,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280673772408733696/vid/320x320/iEIe6eypK9tRNUTB.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280673772408733696/vid/480x480/k4huOGrJ_DiaaaKD.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1280673772408733696/vid/720x720/lbRvaytkkzkHHvi4.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1280673772408733696/pl/UirI4RaOeqmQ1Y3Z.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17070113,
+			"id_str": "17070113",
+			"name": "MayorOfLA",
+			"screen_name": "MayorOfLA",
+			"location": "Los Angeles, CA",
+			"description": "Official account for the 42nd Mayor of the City of Angels, Eric Garcetti. \n📧:https://t.co/zHC8nKIQe4 👍:https://t.co/IuxRMfYAY3 📸:https://t.co/A9TS3pdoPV",
+			"url": "https://t.co/D1oHqFoIrz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D1oHqFoIrz",
+							"expanded_url": "http://Coronavirus.LACity.org/",
+							"display_url": "Coronavirus.LACity.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zHC8nKIQe4",
+							"expanded_url": "http://Mayor.LA/mzQC30mSt3W",
+							"display_url": "Mayor.LA/mzQC30mSt3W",
+							"indices": [
+								77,
+								100
+							]
+						},
+						{
+							"url": "https://t.co/IuxRMfYAY3",
+							"expanded_url": "http://FB.com/MayorOfLA",
+							"display_url": "FB.com/MayorOfLA",
+							"indices": [
+								103,
+								126
+							]
+						},
+						{
+							"url": "https://t.co/A9TS3pdoPV",
+							"expanded_url": "http://Instagram.com/MayorOfLA",
+							"display_url": "Instagram.com/MayorOfLA",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 397167,
+			"friends_count": 570,
+			"listed_count": 3407,
+			"created_at": "Thu Oct 30 17:52:09 +0000 2008",
+			"favourites_count": 12646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F3073",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268736700269785088/qyZzGBrO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268736700269785088/qyZzGBrO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17070113/1588218075",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 118,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With @LAPublicLibrary’s new to-go services, you can pick up books and other materials curbside at 18 different library branches across our city. Please remember to wear a face covering. Learn more at https://t.co/2OsSDv4lnL. https://t.co/DzV2nDwUqE"
+	},
+	{
 		"created_at": "Tue Jul 07 22:27:30 +0000 2020",
 		"id": 1280629542424506400,
 		"id_str": "1280629542424506368",
