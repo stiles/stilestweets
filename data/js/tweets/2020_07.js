@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 18:01:29 +0000 2020",
+		"id": 1280918956962910200,
+		"id_str": "1280924984081133573",
+		"full_text": "If only I had a state. https://t.co/OYyI4GcZcv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OYyI4GcZcv",
+					"expanded_url": "https://twitter.com/PolitcalCapitaI/status/1280602602586148864",
+					"display_url": "twitter.com/PolitcalCapita…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 297632458,
+			"id_str": "297632458",
+			"name": "Mieke Eoyang",
+			"screen_name": "MiekeEoyang",
+			"location": "Washington, DC",
+			"description": "VP @ThirdWayNatSec. Bio: https://t.co/8R4iwapIQE. Board member: @internews & @lc_wins I can haz opinions on politics, war, cyber, espionage.",
+			"url": "https://t.co/Fb0mGLf5zT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fb0mGLf5zT",
+							"expanded_url": "http://thirdway.org/",
+							"display_url": "thirdway.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8R4iwapIQE",
+							"expanded_url": "http://goo.gl/t6BrN6",
+							"display_url": "goo.gl/t6BrN6",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 73937,
+			"friends_count": 1940,
+			"listed_count": 953,
+			"created_at": "Thu May 12 20:53:30 +0000 2011",
+			"favourites_count": 6731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252659545270345729/FuLovODl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252659545270345729/FuLovODl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297632458/1468524781",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280602602586148900,
+		"quoted_status_id_str": "1280602602586148864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OYyI4GcZcv",
+			"expanded": "https://twitter.com/PolitcalCapitaI/status/1280602602586148864",
+			"display": "twitter.com/PolitcalCapita…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 07 20:40:27 +0000 2020",
+			"id": 1280602602586148900,
+			"id_str": "1280602602586148864",
+			"full_text": "Without using the state's name tell us where you live",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 858646280,
+				"id_str": "858646280",
+				"name": "Political Capital",
+				"screen_name": "PolitcalCapitaI",
+				"location": "",
+				"description": "Markets. Politics. Thinker. Doer. 1% better every day.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84223,
+				"friends_count": 68380,
+				"listed_count": 1557,
+				"created_at": "Tue Oct 02 20:15:04 +0000 2012",
+				"favourites_count": 5483,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 81791,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250231106378575872/pzk4u28M_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250231106378575872/pzk4u28M_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/858646280/1548546900",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1088,
+			"favorite_count": 6411,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 130,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If only I had a state. https://t.co/OYyI4GcZcv"
+	},
+	{
 		"created_at": "Wed Jul 08 16:21:37 +0000 2020",
 		"id": 1280894093766393900,
 		"id_str": "1280899851794841602",
