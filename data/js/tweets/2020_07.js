@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 14:48:17 +0000 2020",
+		"id": 1281237898491199500,
+		"id_str": "1281238752233283584",
+		"full_text": "@realDonaldTrump Presidents in the past have \"disclosed their tax returns.\" BUT NOT YOU!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1281236412667433000,
+		"in_reply_to_status_id_str": "1281236412667432961",
+		"in_reply_to_user_id": 25073877,
+		"in_reply_to_user_id_str": "25073877",
+		"in_reply_to_screen_name": "realDonaldTrump",
+		"user": {
+			"id": 14270650,
+			"id_str": "14270650",
+			"name": "Karen Tumulty",
+			"screen_name": "ktumulty",
+			"location": "Washington, DC",
+			"description": "Trying to adapt. Also political columnist for the Washington Post.",
+			"url": "https://t.co/fJMCeIYylK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fJMCeIYylK",
+							"expanded_url": "http://www.washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 170707,
+			"friends_count": 3064,
+			"listed_count": 3959,
+			"created_at": "Mon Mar 31 23:45:58 +0000 2008",
+			"favourites_count": 11275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958521934689525760/Uo09Jrhn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958521934689525760/Uo09Jrhn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14270650/1464892435",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 327,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@realDonaldTrump Presidents in the past have \"disclosed their tax returns.\" BUT NOT YOU!"
+	},
+	{
 		"created_at": "Thu Jul 09 14:14:37 +0000 2020",
 		"id": 1281229791216230400,
 		"id_str": "1281230279252701185",
