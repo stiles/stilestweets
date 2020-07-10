@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 03:15:03 +0000 2020",
+		"id": 1281311214790832000,
+		"id_str": "1281426684428709889",
+		"full_text": "WEAR. A. MASK.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11347122,
+			"id_str": "11347122",
+			"name": "Gavin Newsom",
+			"screen_name": "GavinNewsom",
+			"location": "California",
+			"description": "Husband and father. 40th Governor of California. Former Lt. Governor of California. Former San Francisco Mayor. Personal account.",
+			"url": "https://t.co/FY42VMHC5n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FY42VMHC5n",
+							"expanded_url": "http://www.instagram.com/gavinnewsom",
+							"display_url": "instagram.com/gavinnewsom",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1827241,
+			"friends_count": 23040,
+			"listed_count": 8865,
+			"created_at": "Wed Dec 19 19:53:42 +0000 2007",
+			"favourites_count": 4561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000D48",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275898304358789121/9dE59bQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275898304358789121/9dE59bQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11347122/1593149984",
+			"profile_link_color": "000D48",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "B28251",
+			"profile_text_color": "8A795F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13068,
+		"favorite_count": 71208,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "WEAR. A. MASK."
+	},
+	{
 		"created_at": "Fri Jul 10 01:56:32 +0000 2020",
 		"id": 1281406921786843100,
 		"id_str": "1281406921786843137",
