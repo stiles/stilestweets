@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 11 02:02:11 +0000 2020",
+		"id": 1281693579212017700,
+		"id_str": "1281770731144011779",
+		"full_text": "For a short time, around 4 p.m. EDT July 10th, 2020, all 226 of our covid-19 scrapers were green. \n\nNobody move a damned muscle, please. https://t.co/4lSTmqYHfn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281693069889294300,
+					"id_str": "1281693069889294337",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecl9Dm3U0AE8DmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecl9Dm3U0AE8DmH.jpg",
+					"url": "https://t.co/4lSTmqYHfn",
+					"display_url": "pic.twitter.com/4lSTmqYHfn",
+					"expanded_url": "https://twitter.com/tiffehr/status/1281693579212017665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 443,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 251,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281693069889294300,
+					"id_str": "1281693069889294337",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecl9Dm3U0AE8DmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecl9Dm3U0AE8DmH.jpg",
+					"url": "https://t.co/4lSTmqYHfn",
+					"display_url": "pic.twitter.com/4lSTmqYHfn",
+					"expanded_url": "https://twitter.com/tiffehr/status/1281693579212017665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 443,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 251,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 772759,
+			"id_str": "772759",
+			"name": "tiﬀehr",
+			"screen_name": "tiffehr",
+			"location": "Greater New York",
+			"description": "Asst. editor, @nytinteractive & @nytimes; @opennews advisor. Cat-mom of 🐉🐱 (Dragon), 🐘😾 (Behemoth) & 🦁♀️ (Lioness). \"Following\" you via matryoshka Lists.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2870,
+			"friends_count": 257,
+			"listed_count": 226,
+			"created_at": "Wed Feb 14 22:08:41 +0000 2007",
+			"favourites_count": 30084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/665575909693394945/zxvtJVWe_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/665575909693394945/zxvtJVWe_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/772759/1448516490",
+			"profile_link_color": "42AEB5",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 41,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For a short time, around 4 p.m. EDT July 10th, 2020, all 226 of our covid-19 scrapers were green. \n\nNobody move a damned muscle, please. https://t.co/4lSTmqYHfn"
+	},
+	{
 		"created_at": "Fri Jul 10 20:25:22 +0000 2020",
 		"id": 1281685970581024800,
 		"id_str": "1281685970581024768",
