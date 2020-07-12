@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 12 15:17:13 +0000 2020",
+		"id": 1273589618567311400,
+		"id_str": "1282333198505000960",
+		"full_text": "i don't know who made this new Biden ad but they deserve an award. https://t.co/bgE03hkRAD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273589583716978700,
+					"id_str": "1273589583716978688",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273589583716978688/pu/img/_-spm27WZO3EBC6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273589583716978688/pu/img/_-spm27WZO3EBC6j.jpg",
+					"url": "https://t.co/bgE03hkRAD",
+					"display_url": "pic.twitter.com/bgE03hkRAD",
+					"expanded_url": "https://twitter.com/chrislongview/status/1273589618567311360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273589583716978700,
+					"id_str": "1273589583716978688",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273589583716978688/pu/img/_-spm27WZO3EBC6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273589583716978688/pu/img/_-spm27WZO3EBC6j.jpg",
+					"url": "https://t.co/bgE03hkRAD",
+					"display_url": "pic.twitter.com/bgE03hkRAD",
+					"expanded_url": "https://twitter.com/chrislongview/status/1273589618567311360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273589583716978688/pu/vid/640x360/GgaowEpfGNq5V94i.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1273589583716978688/pu/pl/llh4QwGt9jHlawvr.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273589583716978688/pu/vid/480x270/iKAEFsPt4vaSRBsK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800570658929262600,
+			"id_str": "800570658929262592",
+			"name": "Florida Chris",
+			"screen_name": "chrislongview",
+			"location": "Florida, USA",
+			"description": "Proud Montanan & Floridian. Huge nerd w/ a lab named Shelby. I raise lots of $ for stuff. Loves: Emory, Vanderbilt, Columbia, UF Gators, beach, clearly a homo.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17374,
+			"friends_count": 1837,
+			"listed_count": 63,
+			"created_at": "Mon Nov 21 05:24:53 +0000 2016",
+			"favourites_count": 448540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 183224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209241752915390467/5Q_H6D_e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209241752915390467/5Q_H6D_e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800570658929262592/1479706865",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17291,
+		"favorite_count": 39984,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i don't know who made this new Biden ad but they deserve an award. https://t.co/bgE03hkRAD"
+	},
+	{
+		"created_at": "Sun Jul 12 15:08:27 +0000 2020",
+		"id": 1282310746261655600,
+		"id_str": "1282330992183611394",
+		"full_text": "The inside story of how California failed mass coronavirus testing https://t.co/A1e87BGRHW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A1e87BGRHW",
+					"expanded_url": "https://www.latimes.com/california/story/2020-07-12/california-fail-coronavirus-testing-covid-start",
+					"display_url": "latimes.com/california/sto…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16664681,
+			"id_str": "16664681",
+			"name": "Los Angeles Times",
+			"screen_name": "latimes",
+			"location": "El Segundo, CA",
+			"description": "Bringing L.A. to the world and the world to L.A. Subscribe now: https://t.co/KW9cHofnW4",
+			"url": "https://t.co/eTksmynSH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTksmynSH7",
+							"expanded_url": "http://latimes.com",
+							"display_url": "latimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KW9cHofnW4",
+							"expanded_url": "http://latimes.com/subscribe",
+							"display_url": "latimes.com/subscribe",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3639402,
+			"friends_count": 6956,
+			"listed_count": 32254,
+			"created_at": "Thu Oct 09 11:07:42 +0000 2008",
+			"favourites_count": 2577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 292872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171581672074043393/XNqsW9EE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16664681/1537917244",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "615F61",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The inside story of how California failed mass coronavirus testing https://t.co/A1e87BGRHW"
+	},
+	{
+		"created_at": "Sun Jul 12 15:05:43 +0000 2020",
+		"id": 1282319337714483200,
+		"id_str": "1282330302459686912",
+		"full_text": "The other night I realized that there are probably hardcore MAGA couples out there who talk in Trump voices to each other in bed and now YOU have to imagine it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16246688,
+			"id_str": "16246688",
+			"name": "Drew Magary",
+			"screen_name": "drewmagary",
+			"location": "USA",
+			"description": "UFA. @GENMag. Former lead singer of Deadspin. Former GQ pant tester. Author of Point B, out now. Defund the police. https://t.co/TR9iNqS4dN?amp=1",
+			"url": "https://t.co/TR9iNqS4dN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TR9iNqS4dN",
+							"expanded_url": null,
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 177830,
+			"friends_count": 443,
+			"listed_count": 3217,
+			"created_at": "Thu Sep 11 19:58:07 +0000 2008",
+			"favourites_count": 758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247546914888921090/-nE8lj1C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247546914888921090/-nE8lj1C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16246688/1587125050",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 429,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The other night I realized that there are probably hardcore MAGA couples out there who talk in Trump voices to each other in bed and now YOU have to imagine it."
+	},
+	{
 		"created_at": "Sat Jul 11 16:59:56 +0000 2020",
 		"id": 1281971610891833300,
 		"id_str": "1281996660306964480",
