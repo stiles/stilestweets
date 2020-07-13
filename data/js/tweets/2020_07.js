@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 19:22:33 +0000 2020",
+		"id": 1282756536851472400,
+		"id_str": "1282757325237829632",
+		"full_text": "Just saw this making political circles. FYI, I was sent this pic of @SenTedCruz by the Houstonian who was on the flight last night. They confirmed to me he did not wear a mask for the entire flight. https://t.co/InOwBFskYw https://t.co/rlugZ6yJWC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenTedCruz",
+					"name": "Senator Ted Cruz",
+					"id": 1074480192,
+					"id_str": "1074480192",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/InOwBFskYw",
+					"expanded_url": "https://abc13.com/health/covid-19-cases-by-zip-codes-and-county-by-county/6111292/",
+					"display_url": "abc13.com/health/covid-1…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282756531654664200,
+					"id_str": "1282756531654664192",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec1EROqWoAAHUty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec1EROqWoAAHUty.jpg",
+					"url": "https://t.co/rlugZ6yJWC",
+					"display_url": "pic.twitter.com/rlugZ6yJWC",
+					"expanded_url": "https://twitter.com/miyashay/status/1282756536851472384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282756531654664200,
+					"id_str": "1282756531654664192",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec1EROqWoAAHUty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec1EROqWoAAHUty.jpg",
+					"url": "https://t.co/rlugZ6yJWC",
+					"display_url": "pic.twitter.com/rlugZ6yJWC",
+					"expanded_url": "https://twitter.com/miyashay/status/1282756536851472384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15711069,
+			"id_str": "15711069",
+			"name": "Miya Shay",
+			"screen_name": "miyashay",
+			"location": "United States",
+			"description": "TV news reporter, wife, mom, lover of social media, foodie finds, and world travel. Like my #abc13 page https://t.co/LGhZGRqJS5! Opinions are my own.",
+			"url": "https://t.co/MQjjeQ9l15",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MQjjeQ9l15",
+							"expanded_url": "http://www.facebook.com/ABC13MiyaShay",
+							"display_url": "facebook.com/ABC13MiyaShay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LGhZGRqJS5",
+							"expanded_url": "http://facebook.com/abc13miyashay",
+							"display_url": "facebook.com/abc13miyashay",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16219,
+			"friends_count": 436,
+			"listed_count": 385,
+			"created_at": "Sun Aug 03 15:07:29 +0000 2008",
+			"favourites_count": 118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925458989458034689/AB7M507v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925458989458034689/AB7M507v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15711069/1509581382",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just saw this making political circles. FYI, I was sent this pic of @SenTedCruz by the Houstonian who was on the flight last night. They confirmed to me he did not wear a mask for the entire flight. https://t.co/InOwBFskYw https://t.co/rlugZ6yJWC"
+	},
+	{
 		"created_at": "Mon Jul 13 18:43:48 +0000 2020",
 		"id": 1282747575662076000,
 		"id_str": "1282747575662075904",
