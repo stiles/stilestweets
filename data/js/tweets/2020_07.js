@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 01:47:10 +0000 2020",
+		"id": 1282479358976888800,
+		"id_str": "1282491729711517696",
+		"full_text": ".@RepDennisBonnen on @GovAbbott: \"If he made any mistake, it was trusting those those so-called conservatives who profess to value life to do what is necessary to protect life...” https://t.co/NXgWEIrtWC #txlege",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "txlege",
+					"indices": [
+						204,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RepDennisBonnen",
+					"name": "Speaker Dennis Bonnen",
+					"id": 1058380976500498400,
+					"id_str": "1058380976500498438",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"screen_name": "GovAbbott",
+					"name": "Gov. Greg Abbott",
+					"id": 19291441,
+					"id_str": "19291441",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NXgWEIrtWC",
+					"expanded_url": "https://www.dennisbonnen.com/the-man-who-is-actually-in-the-arena/",
+					"display_url": "dennisbonnen.com/the-man-who-is…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18791654,
+			"id_str": "18791654",
+			"name": "Evan Smith",
+			"screen_name": "evanasmith",
+			"location": "Austin, Texas",
+			"description": "CEO of @texastribune. Host of @overheardpbs. Former editor of @texasmonthly. Political junkie, passable tennis player, @wilco fanboy, future ex-vegetarian.",
+			"url": "https://t.co/6AlMrCBSkt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6AlMrCBSkt",
+							"expanded_url": "http://www.texastribune.org",
+							"display_url": "texastribune.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61090,
+			"friends_count": 4723,
+			"listed_count": 1571,
+			"created_at": "Fri Jan 09 04:08:03 +0000 2009",
+			"favourites_count": 1549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 37598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/652120854541631488/zifcbSVc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/652120854541631488/zifcbSVc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18791654/1543465234",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@RepDennisBonnen on @GovAbbott: \"If he made any mistake, it was trusting those those so-called conservatives who profess to value life to do what is necessary to protect life...” https://t.co/NXgWEIrtWC #txlege"
+	},
+	{
 		"created_at": "Mon Jul 13 00:57:30 +0000 2020",
 		"id": 1282479229066571800,
 		"id_str": "1282479229066571776",
