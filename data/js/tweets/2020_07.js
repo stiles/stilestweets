@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 04:20:08 +0000 2020",
+		"id": 1283233300123877400,
+		"id_str": "1283255000718663681",
+		"full_text": "Federal ethics law: \"An employee shall not use or permit the use of his Government position or title or any authority associated with his public office to endorse any product, service or enterprise ... \" https://t.co/yJQKI3qFFY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yJQKI3qFFY",
+					"expanded_url": "https://twitter.com/ivankatrump/status/1283221019684110337",
+					"display_url": "twitter.com/ivankatrump/st…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123327472,
+			"id_str": "123327472",
+			"name": "Peter Baker",
+			"screen_name": "peterbakernyt",
+			"location": "",
+			"description": "Chief White House Correspondent for The New York Times and MSNBC analyst. Proud husband of Susan Glasser of the New Yorker and CNN.",
+			"url": "https://t.co/UmqCI5AhUx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmqCI5AhUx",
+							"expanded_url": "http://www.nytimes.com",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 439142,
+			"friends_count": 2797,
+			"listed_count": 5167,
+			"created_at": "Mon Mar 15 18:55:27 +0000 2010",
+			"favourites_count": 4868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "08090A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/821603222544596994/VlQaklD5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/821603222544596994/VlQaklD5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123327472/1484720732",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283221019684110300,
+		"quoted_status_id_str": "1283221019684110337",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yJQKI3qFFY",
+			"expanded": "https://twitter.com/ivankatrump/status/1283221019684110337",
+			"display": "twitter.com/ivankatrump/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 15 02:05:06 +0000 2020",
+			"id": 1283221019684110300,
+			"id_str": "1283221019684110337",
+			"full_text": "If it’s Goya, it has to be good. \nSi es Goya, tiene que ser bueno. https://t.co/9tjVrfmo9z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1283221015833829400,
+						"id_str": "1283221015833829378",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec7qtxEXYAIcmGr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec7qtxEXYAIcmGr.jpg",
+						"url": "https://t.co/9tjVrfmo9z",
+						"display_url": "pic.twitter.com/9tjVrfmo9z",
+						"expanded_url": "https://twitter.com/IvankaTrump/status/1283221019684110337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1283221015833829400,
+						"id_str": "1283221015833829378",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec7qtxEXYAIcmGr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec7qtxEXYAIcmGr.jpg",
+						"url": "https://t.co/9tjVrfmo9z",
+						"display_url": "pic.twitter.com/9tjVrfmo9z",
+						"expanded_url": "https://twitter.com/IvankaTrump/status/1283221019684110337/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52544275,
+				"id_str": "52544275",
+				"name": "Ivanka Trump",
+				"screen_name": "IvankaTrump",
+				"location": "Washington, DC",
+				"description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9144867,
+				"friends_count": 1477,
+				"listed_count": 21787,
+				"created_at": "Tue Jun 30 22:32:03 +0000 2009",
+				"favourites_count": 3218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17294,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+				"profile_link_color": "FF6872",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9769,
+			"favorite_count": 47851,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6494,
+		"favorite_count": 21218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Federal ethics law: \"An employee shall not use or permit the use of his Government position or title or any authority associated with his public office to endorse any product, service or enterprise ... \" https://t.co/yJQKI3qFFY"
+	},
+	{
+		"created_at": "Wed Jul 15 03:43:52 +0000 2020",
+		"id": 1283245872575164400,
+		"id_str": "1283245872575164417",
+		"full_text": "Ditto @AmyEBotelho1 and @HenryJamesBC. Everything they say on this website is smart and funny...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmyEBotelho1",
+					"name": "Amy E. Botelho",
+					"id": 3353865792,
+					"id_str": "3353865792",
+					"indices": [
+						6,
+						19
+					]
+				},
+				{
+					"screen_name": "HenryJamesBC",
+					"name": "BStroud",
+					"id": 35496834,
+					"id_str": "35496834",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14790314,
+			"id_str": "14790314",
+			"name": "Matt Stiles",
+			"screen_name": "stiles",
+			"location": "Los Angeles",
+			"description": "Reporter, @latimes. @datagraphics adjacent. LA & CA stories w/ data, visuals & code. Past: @latimes (Koreas), @wsj (econ), @NPR (viz), @TexasTribune (politics)",
+			"url": "https://t.co/PJEacYfCaJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJEacYfCaJ",
+							"expanded_url": "http://mattstiles.me",
+							"display_url": "mattstiles.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11463,
+			"friends_count": 2173,
+			"listed_count": 860,
+			"created_at": "Thu May 15 19:12:30 +0000 2008",
+			"favourites_count": 9166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030F1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241140089914179585/_X4i0NXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14790314/1594404616",
+			"profile_link_color": "B12E35",
+			"profile_sidebar_border_color": "3268C2",
+			"profile_sidebar_fill_color": "A9D4FF",
+			"profile_text_color": "6E6E6E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b77caf94bfc81fe",
+			"url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+			"place_type": "city",
+			"name": "Los Angeles",
+			"full_name": "Los Angeles, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-118.668404,
+							33.704538
+						],
+						[
+							-118.155409,
+							33.704538
+						],
+						[
+							-118.155409,
+							34.337041
+						],
+						[
+							-118.668404,
+							34.337041
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Ditto @AmyEBotelho1 and @HenryJamesBC. Everything they say on this website is smart and funny..."
+	},
+	{
 		"created_at": "Wed Jul 15 01:51:00 +0000 2020",
 		"id": 1283202162927956000,
 		"id_str": "1283217469176287232",
