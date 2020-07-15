@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 16:44:32 +0000 2020",
+		"id": 1283376080397762600,
+		"id_str": "1283442333841674240",
+		"full_text": "Turnout in recent Texas Democratic runoffs:\n\n2012: 236,305\n2014: 200,992\n2018: 432,180\n2020: 955,735\n\nDoesn’t mean Cornyn is vulnerable, but the days of TX Dems just pre-conceding every statewide race are probably over.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13524182,
+			"id_str": "13524182",
+			"name": "Dave Weigel",
+			"screen_name": "daveweigel",
+			"location": "Washington, D.C.",
+			"description": "Covering politics for @washingtonpost. daveweigel@gmail.com, 202-334-7387. @CWAUnion member. Buy my book: https://t.co/qbUTkz3CBR (Avatar by @damnyouregis)",
+			"url": "https://t.co/fH66dGGX87",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fH66dGGX87",
+							"expanded_url": "http://www.daveweigel.com",
+							"display_url": "daveweigel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qbUTkz3CBR",
+							"expanded_url": "http://tinyurl.com/h7wyg2c",
+							"display_url": "tinyurl.com/h7wyg2c",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 526062,
+			"friends_count": 11621,
+			"listed_count": 11435,
+			"created_at": "Fri Feb 15 17:58:23 +0000 2008",
+			"favourites_count": 20012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 217288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999649964870451201/-Co_Xkx4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999649964870451201/-Co_Xkx4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13524182/1573910592",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2167,
+		"favorite_count": 10794,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Turnout in recent Texas Democratic runoffs:\n\n2012: 236,305\n2014: 200,992\n2018: 432,180\n2020: 955,735\n\nDoesn’t mean Cornyn is vulnerable, but the days of TX Dems just pre-conceding every statewide race are probably over."
+	},
+	{
 		"created_at": "Wed Jul 15 07:00:58 +0000 2020",
 		"id": 1283231612474290200,
 		"id_str": "1283295474082967552",
