@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 07:00:58 +0000 2020",
+		"id": 1283231612474290200,
+		"id_str": "1283295474082967552",
+		"full_text": "If Seoul is threatened by NKorea (more than just the usual verbal kind), that would mean that a war has broken out. That would mean NKorea's days are severely numbered. That would mean KJU is willing to die.\n\nThese assumptions don't align with the facts. Seoul is safe. https://t.co/u5AdbOf0VD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u5AdbOf0VD",
+					"expanded_url": "https://twitter.com/martfack/status/1283209565840920576",
+					"display_url": "twitter.com/martfack/statu…",
+					"indices": [
+						270,
+						293
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1489727244,
+			"id_str": "1489727244",
+			"name": "John Lee (The Korean Foreigner)",
+			"screen_name": "koreanforeigner",
+			"location": "Seoul, South Korea",
+			"description": "Commenting on politics, economics, and social issues relating to the Korean Peninsula. I also tweet a lot about the U.S.\n\nNOT ON YOUR POLITICAL SIDE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4656,
+			"friends_count": 1832,
+			"listed_count": 93,
+			"created_at": "Fri Jun 07 07:17:08 +0000 2013",
+			"favourites_count": 9530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/933729706892935168/RoL4c1pC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/933729706892935168/RoL4c1pC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1489727244/1518587568",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283209565840920600,
+		"quoted_status_id_str": "1283209565840920576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/u5AdbOf0VD",
+			"expanded": "https://twitter.com/martfack/status/1283209565840920576",
+			"display": "twitter.com/martfack/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 15 01:19:36 +0000 2020",
+			"id": 1283209565840920600,
+			"id_str": "1283209565840920576",
+			"full_text": "Concerned about Hong Kong's new security law, ⁦@nytimes⁩ is moving its Asian news hub to Seoul.\n\nInteresting they didn't choose Tokyo, especially given Seoul's vulnerability to the region's other big news story, North Korea. https://t.co/Pq5VtNzMYT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							47,
+							55
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Pq5VtNzMYT",
+						"expanded_url": "https://www.nytimes.com/2020/07/14/business/media/new-york-times-hong-kong.html",
+						"display_url": "nytimes.com/2020/07/14/bus…",
+						"indices": [
+							225,
+							248
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 336130457,
+				"id_str": "336130457",
+				"name": "Martin Fackler",
+				"screen_name": "martfack",
+				"location": "",
+				"description": "Tokyo-based author. Words in @nytimes @WSJ, @CJR, @ForeignPolicy, @AP. 新しい本『フェイクニュース時代を生き抜く データ・リテラシー』が新発売",
+				"url": "https://t.co/x938DTXAi9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x938DTXAi9",
+								"expanded_url": "https://martinfackler.com",
+								"display_url": "martinfackler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27023,
+				"friends_count": 1679,
+				"listed_count": 932,
+				"created_at": "Fri Jul 15 19:54:06 +0000 2011",
+				"favourites_count": 3282,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13612,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1122662812801568768/rxBBMPfI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122662812801568768/rxBBMPfI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/336130457/1509794931",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 134,
+			"favorite_count": 224,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If Seoul is threatened by NKorea (more than just the usual verbal kind), that would mean that a war has broken out. That would mean NKorea's days are severely numbered. That would mean KJU is willing to die.\n\nThese assumptions don't align with the facts. Seoul is safe. https://t.co/u5AdbOf0VD"
+	},
+	{
 		"created_at": "Wed Jul 15 04:31:45 +0000 2020",
 		"id": 1283228474614767600,
 		"id_str": "1283257923854954496",
